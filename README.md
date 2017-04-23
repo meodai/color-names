@@ -1,5 +1,5 @@
 # color-names
-A semi manual merge of different color lists:
+A semi manual merge of different color name lists.
 
 ## Process
 My goal is to create a as big as possible color name list. I merged different lists, modified the names when they where the same but had different hex values, and I shifted the colors a bit when the same color had different names.
@@ -15,3 +15,25 @@ My goal is to create a as big as possible color name list. I merged different li
 - [OSX Crayons](http://www.randomactsofsentience.com/2013/06/os-x-crayon-color-hex-table.html)
 - [Crayola Crayon names](https://en.wikipedia.org/wiki/Crayola)
 - [User submited color names](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform).
+
+### Installation JS
+
+#### yarn
+```
+yarn add color-name-list
+```
+
+#### NPM
+```
+npm install color-name-list --save
+```
+
+
+### Usage JS:
+```javascript
+import namedColors from 'color-name-list';
+
+let someColor = namedColors.find(color => color === '#ffffff')
+console.log(someColor.name) // => white
+
+```
