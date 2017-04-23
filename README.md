@@ -10,7 +10,7 @@ My goal is to create a as big as possible color name list. I merged different li
 - [Wikipedia list of named colors](https://en.wikipedia.org/wiki/List_of_colors:_A%E2%80%93F)
 - [CSS/HTML Color Names](https://developer.mozilla.org/en/docs/Web/CSS/color_value)
 - [ntc.js](http://chir.ag/projects/ntc/)
-- [pantone from color namer](https://github.com/zeke/color-namer/blob/master/lib/colors/pantone.js)
+- [pantone](https://github.com/Margaret2/pantone-colors)
 - [htmlcsscolor.com](http://www.htmlcsscolor.com/color-names-rgb-values/A)
 - [OSX Crayons](http://www.randomactsofsentience.com/2013/06/os-x-crayon-color-hex-table.html)
 - [Crayola Crayon names](https://en.wikipedia.org/wiki/Crayola)
