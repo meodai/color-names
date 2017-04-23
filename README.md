@@ -33,7 +33,7 @@ npm install color-name-list --save
 ```javascript
 import namedColors from 'color-name-list';
 
-let someColor = namedColors.find(color => color === '#ffffff')
+let someColor = namedColors.find(c => c.color === '#ffffff')
 console.log(someColor.name) // => white
 
 ```
