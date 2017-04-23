@@ -4,7 +4,8 @@
   "description": "long list of color names",
   "main": "dist/colornames.json",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rm -rf dist && mkdir dist && cp -av src/colornames.csv dist/colornames.csv && node node_modules/.bin/csvtojson dist/colornames.csv >> dist/colornames.json && node node_modules/.bin/json2yaml dist/colornames.json >> dist/colornames.yaml"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,7 @@
   },
   "homepage": "https://github.com/meodai/color-names#readme",
   "devDependencies": {
-    "csvtojson": "^1.1.4"
+    "csvtojson": "^1.1.4",
+    "json2yaml": "^1.1.0"
   }
 }

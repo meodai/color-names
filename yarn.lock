@@ -6,7 +6,17 @@ csvtojson:
   dependencies:
     lodash "^4.17.3"
 
+json2yaml:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/json2yaml/-/json2yaml-1.1.0.tgz#5414d907f9816586b80c513ec2e3aeb2ab819a6c"
+  dependencies:
+    remedial "1.x"
+
 lodash@^4.17.3:
   version "4.17.4"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
+
+remedial@1.x:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/remedial/-/remedial-1.0.7.tgz#d6674413a65676007be00dd400980987b2c300c1"
 
