@@ -1,0 +1,28 @@
+{
+  "name": "color-names",
+  "version": "1.0.0",
+  "description": "long list of color names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meodai/color-names.git"
+  },
+  "keywords": [
+    "colors",
+    "color",
+    "names",
+    "naming"
+  ],
+  "author": "meodai@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meodai/color-names/issues"
+  },
+  "homepage": "https://github.com/meodai/color-names#readme",
+  "dependencies": {
+    "csvtojson": "^1.1.4"
+  }
+}
