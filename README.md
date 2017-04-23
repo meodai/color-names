@@ -13,7 +13,7 @@ My goal is to create a as big as possible color name list. I merged different [l
 - [pantone](https://github.com/Margaret2/pantone-colors)
 - [htmlcsscolor.com](http://www.htmlcsscolor.com/color-names-rgb-values/A)
 - [OSX Crayons](http://www.randomactsofsentience.com/2013/06/os-x-crayon-color-hex-table.html)
-- [Crayola Crayon names](https://en.wikipedia.org/wiki/Crayola)
+- [Crayola Crayon names](https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors)
 - [User submited color names](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform).
 
 ### Installation JS 📦
