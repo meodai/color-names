@@ -1,12 +1,12 @@
 # color-names 🎨
 A semi manual merge of different color name lists. [Try it yourself](http://codepen.io/meodai/full/mEvZRx/) or see [the full list](https://docs.google.com/spreadsheets/d/14ny2oB7g5Tof9TmKiaaDFv25XSCRt-LlBRJhIDz_3Mo/pubhtml?gid=40578722).
 
-## Process
+## Process 📋
 My goal is to create a as big as possible color name list. I merged different lists, modified the names when they where the same but had different hex values, and I shifted the colors a bit when the same color had different names.
 
 ## [Submit a name](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform)
 
-## Sources
+## Sources 🗒
 - [Wikipedia list of named colors](https://en.wikipedia.org/wiki/List_of_colors:_A%E2%80%93F)
 - [CSS/HTML Color Names](https://developer.mozilla.org/en/docs/Web/CSS/color_value)
 - [ntc.js](http://chir.ag/projects/ntc/)
@@ -16,7 +16,7 @@ My goal is to create a as big as possible color name list. I merged different li
 - [Crayola Crayon names](https://en.wikipedia.org/wiki/Crayola)
 - [User submited color names](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform).
 
-### Installation JS
+### Installation JS 📦
 
 #### yarn
 ```
@@ -28,8 +28,7 @@ yarn add color-name-list
 npm install color-name-list --save
 ```
 
-
-### Usage JS:
+### Usage JS ⌨
 ```javascript
 import namedColors from 'color-name-list';
 
@@ -38,7 +37,7 @@ console.log(someColor.name) // => white
 
 ```
 
-### Create a new build
+### Create a new build 🔨
 ```
 npm install && npm run build
 ```
