@@ -2,7 +2,7 @@
   "name": "color-name-list",
   "version": "1.0.2",
   "description": "long list of color names",
-  "main": "colornames.json",
+  "main": "dist/colornames.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,7 +22,7 @@
     "url": "https://github.com/meodai/color-names/issues"
   },
   "homepage": "https://github.com/meodai/color-names#readme",
-  "dependencies": {
+  "devDependencies": {
     "csvtojson": "^1.1.4"
   }
 }
