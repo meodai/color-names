@@ -37,3 +37,8 @@ let someColor = namedColors.find(color => color === '#ffffff')
 console.log(someColor.name) // => white
 
 ```
+
+### Create a new build
+```
+npm install && npm run build
+```
