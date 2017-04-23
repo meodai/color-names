@@ -1,5 +1,5 @@
 # color-names 🎨
-A semi manual merge of different color name lists. [Try it yourself](http://codepen.io/meodai/full/mEvZRx/)
+A semi manual merge of different color name lists. [Try it yourself](http://codepen.io/meodai/full/mEvZRx/) or see [the full list](https://docs.google.com/spreadsheets/d/14ny2oB7g5Tof9TmKiaaDFv25XSCRt-LlBRJhIDz_3Mo/pubhtml?gid=40578722).
 
 ## Process
 My goal is to create a as big as possible color name list. I merged different lists, modified the names when they where the same but had different hex values, and I shifted the colors a bit when the same color had different names.
