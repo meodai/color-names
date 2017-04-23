@@ -1,4 +1,4 @@
-# color-names
+# color-names 🎨
 A semi manual merge of different color name lists. [Try it yourself](http://codepen.io/meodai/full/mEvZRx/)
 
 ## Process
