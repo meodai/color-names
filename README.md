@@ -4,7 +4,7 @@ A semi manual merge of different color name lists. [Try it yourself](http://code
 ## Process 📋
 My goal is to create a as big as possible color name list. I merged different lists, modified the names when they where the same but had different hex values, and I shifted the colors a bit when the same color had different names.
 
-## [Submit a name](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform)
+## [Submit a name 🌈](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform)
 
 ## Sources 🗒
 - [Wikipedia list of named colors](https://en.wikipedia.org/wiki/List_of_colors:_A%E2%80%93F)
