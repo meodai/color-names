@@ -1,4 +1,7 @@
-# color-names 🎨
+# color-names: 🎨 
+
+> "nom d'une couleur!"
+
 A semi manual merge of different color name lists. [Try it yourself](http://codepen.io/meodai/full/mEvZRx/) or see [the full list](https://docs.google.com/spreadsheets/d/14ny2oB7g5Tof9TmKiaaDFv25XSCRt-LlBRJhIDz_3Mo/pubhtml?gid=40578722).
 
 ## Process 📋
