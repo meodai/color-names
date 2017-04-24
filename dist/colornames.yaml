@@ -750,7 +750,7 @@
     name: "Baked Clay"
     hex: "#9c5642"
   - 
-    name: "Baker'S Chocolate"
+    name: "Baker's Chocolate"
     hex: "#5c3317"
   - 
     name: "Baleine Blue"
@@ -1091,6 +1091,9 @@
   - 
     name: "Black Marlin"
     hex: "#383740"
+  - 
+    name: "Black Metal"
+    hex: "#060606"
   - 
     name: "Black Olive"
     hex: "#3b3c36"
@@ -1989,9 +1992,6 @@
     name: "Cadmium Yellow"
     hex: "#fff600"
   - 
-    name: "Cafe Au Lait"
-    hex: "#ae8774"
-  - 
     name: "Café Au Lait"
     hex: "#a67b5b"
   - 
@@ -2000,6 +2000,9 @@
   - 
     name: "Café Noir"
     hex: "#4b3621"
+  - 
+    name: "Café Renversé"
+    hex: "#ae8774"
   - 
     name: "Cafe Royale"
     hex: "#6a4928"
@@ -3591,7 +3594,7 @@
     name: "Dartmouth Green"
     hex: "#00703c"
   - 
-    name: "Davy'S Gray"
+    name: "Davy's Gray"
     hex: "#555"
   - 
     name: "Dawn"
@@ -4235,6 +4238,9 @@
   - 
     name: "El Salva"
     hex: "#8f4e45"
+  - 
+    name: "Elastic Pink"
+    hex: "#eca6ca"
   - 
     name: "Elderberry"
     hex: "#2e2249"
@@ -5913,7 +5919,7 @@
     name: "Honolulu Blue"
     hex: "#007fbf"
   - 
-    name: "Hooker'S Green"
+    name: "Hooker's Green"
     hex: "#49796b"
   - 
     name: "Hopbush"
@@ -6768,7 +6774,7 @@
     name: "Light Pastel Purple"
     hex: "#b19cd9"
   - 
-    name: "Light Payne'S Gray"
+    name: "Light Payne's Gray"
     hex: "#536871"
   - 
     name: "Light Pink"
@@ -8922,7 +8928,7 @@
     name: "Pavlova"
     hex: "#baab87"
   - 
-    name: "Payne'S Gray"
+    name: "Payne's Gray"
     hex: "#404048"
   - 
     name: "Peach"
@@ -9720,7 +9726,7 @@
     name: "Purple Magic"
     hex: "#663271"
   - 
-    name: "Purple Mountain'S Majesty"
+    name: "Purple Mountain's Majesty"
     hex: "#9678b6"
   - 
     name: "Purple Mountains’ Majesty"
@@ -9936,7 +9942,7 @@
     name: "Real Teal"
     hex: "#405d73"
   - 
-    name: "Rebeccapurple"
+    name: "Rebecca Purple"
     hex: "#663399"
   - 
     name: "Rebel"
@@ -9969,7 +9975,7 @@
     name: "Red Devil"
     hex: "#860111"
   - 
-    name: "Red Devil'S Lip"
+    name: "Red Devil's Lip"
     hex: "#662a2c"
   - 
     name: "Red Mahogany"
@@ -10179,7 +10185,7 @@
     name: "Rob Roy"
     hex: "#ddad56"
   - 
-    name: "Robin'S Egg Blue"
+    name: "Robin's Egg Blue"
     hex: "#00cccc"
   - 
     name: "Rock"
@@ -11400,7 +11406,7 @@
     name: "St Tropaz"
     hex: "#325482"
   - 
-    name: "St. Patrick'S Blue"
+    name: "St. Patrick's Blue"
     hex: "#23297a"
   - 
     name: "Stack"
@@ -11687,6 +11693,9 @@
   - 
     name: "Super Lemon"
     hex: "#e4bf45"
+  - 
+    name: "Super Man Red"
+    hex: "#ff1122"
   - 
     name: "Super Pink"
     hex: "#ce6ba4"
@@ -12051,7 +12060,7 @@
     name: "Tiffany Blue"
     hex: "#0abab5"
   - 
-    name: "Tiger'S Eye"
+    name: "Tiger's Eye"
     hex: "#e08d3c"
   - 
     name: "Tigerlily"
