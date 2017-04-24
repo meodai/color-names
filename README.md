@@ -1,4 +1,4 @@
-# color-names: 🎨 
+# color-names 🎨 
 
 > "nom d'une couleur!"
 
