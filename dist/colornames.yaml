@@ -114,6 +114,9 @@
     name: "Alaskan Blue"
     hex: "#6da9d2"
   - 
+    name: "Albanian Red"
+    hex: "#cc0001"
+  - 
     name: "Albescent White"
     hex: "#e1dacb"
   - 
@@ -131,6 +134,9 @@
   - 
     name: "Algae Green"
     hex: "#93dfb8"
+  - 
+    name: "Algen Gerne"
+    hex: "#479784"
   - 
     name: "Algiers Blue"
     hex: "#00859c"
@@ -563,6 +569,9 @@
   - 
     name: "Ash Rose"
     hex: "#b5817d"
+  - 
+    name: "Ash to Ash"
+    hex: "#4e4e4c"
   - 
     name: "Ashes Of Roses"
     hex: "#b5acab"
@@ -1609,10 +1618,10 @@
     hex: "#cf9f52"
   - 
     name: "Bright Gray"
-    hex: "#3c4151"
-  - 
-    name: "Bright Gray"
     hex: "#57595d"
+  - 
+    name: "Bright Greek"
+    hex: "#3844f4"
   - 
     name: "Bright Green"
     hex: "#6f0"
@@ -2854,9 +2863,6 @@
     hex: "#c9b27c"
   - 
     name: "Cod Gray"
-    hex: "#0b0b0b"
-  - 
-    name: "Cod Gray"
     hex: "#2d3032"
   - 
     name: "Coffee"
@@ -2876,6 +2882,9 @@
   - 
     name: "Cold Purple"
     hex: "#9d8abf"
+  - 
+    name: "Cold Steel"
+    hex: "#262335"
   - 
     name: "Cold Turkey"
     hex: "#cab5b2"
@@ -3408,6 +3417,9 @@
     name: "Dark Coral"
     hex: "#cd5b45"
   - 
+    name: "Dark Cow"
+    hex: "#882d17"
+  - 
     name: "Dark Cyan"
     hex: "#008b8b"
   - 
@@ -3543,9 +3555,6 @@
     name: "Dark Sienna"
     hex: "#3c1414"
   - 
-    name: "Dark Sienna"
-    hex: "#882d17"
-  - 
     name: "Dark Slate"
     hex: "#465352"
   - 
@@ -3590,6 +3599,9 @@
   - 
     name: "Darkest Spruce"
     hex: "#303d3c"
+  - 
+    name: "Darth Vador"
+    hex: "#0b0b0b"
   - 
     name: "Dartmouth Green"
     hex: "#00703c"
@@ -4121,6 +4133,9 @@
   - 
     name: "Dusty Rose"
     hex: "#ba797d"
+  - 
+    name: "Dusty Sand"
+    hex: "#bdbaae"
   - 
     name: "Dusty Turquoise"
     hex: "#649b9e"
@@ -4683,6 +4698,9 @@
     name: "Flesh"
     hex: "#ffcbc4"
   - 
+    name: "Flickery CRT Green"
+    hex: "#90f215"
+  - 
     name: "Flint"
     hex: "#716e61"
   - 
@@ -4865,6 +4883,9 @@
   - 
     name: "Fresh Eggplant"
     hex: "#f9006f"
+  - 
+    name: "Fresh Granny Smith"
+    hex: "#7ff217"
   - 
     name: "Fresh Salmon"
     hex: "#ff7f6a"
@@ -5407,9 +5428,6 @@
     hex: "#cabeb5"
   - 
     name: "Gray Nickel"
-    hex: "#bdbaae"
-  - 
-    name: "Gray Nickel"
     hex: "#c3c3bd"
   - 
     name: "Gray Nurse"
@@ -5438,6 +5456,9 @@
   - 
     name: "Graystone"
     hex: "#4d495b"
+  - 
+    name: "Greek Flag Blue"
+    hex: "#0d5eaf"
   - 
     name: "Green"
     hex: "#008000"
@@ -6414,6 +6435,9 @@
     name: "Katydid"
     hex: "#66bc91"
   - 
+    name: "Kazakhstan Flag Yellow"
+    hex: "#fec50c"
+  - 
     name: "Keepsake Lilac"
     hex: "#c0a5ae"
   - 
@@ -6566,6 +6590,9 @@
   - 
     name: "Lava"
     hex: "#cf1020"
+  - 
+    name: "Lava Stone"
+    hex: "#3c4151"
   - 
     name: "Lavender"
     hex: "#d783ff"
@@ -7077,6 +7104,9 @@
     name: "Lupine"
     hex: "#be9cc1"
   - 
+    name: "Lush Greenery"
+    hex: "#7ff23e"
+  - 
     name: "Lush Meadow"
     hex: "#006e51"
   - 
@@ -7539,6 +7569,9 @@
     name: "Meerkat"
     hex: "#a46f44"
   - 
+    name: "Melancholia"
+    hex: "#12390d"
+  - 
     name: "Melanie"
     hex: "#e0b7c2"
   - 
@@ -7898,6 +7931,9 @@
   - 
     name: "Moonscape"
     hex: "#725f69"
+  - 
+    name: "Moonshade"
+    hex: "#5a6e9c"
   - 
     name: "Moonstone Blue"
     hex: "#73a9c2"
@@ -9126,6 +9162,9 @@
     name: "Perfume"
     hex: "#c2a9db"
   - 
+    name: "Pericallis Hybrida"
+    hex: "#904fef"
+  - 
     name: "Peridot"
     hex: "#e6e200"
   - 
@@ -9275,6 +9314,9 @@
   - 
     name: "Pigment Indigo"
     hex: "#4d0082"
+  - 
+    name: "Pika Yellow"
+    hex: "#eee92d"
   - 
     name: "Pine Bark"
     hex: "#827064"
@@ -10119,6 +10161,9 @@
     name: "Rhubarb"
     hex: "#77202f"
   - 
+    name: "Rhythm"
+    hex: "#767194"
+  - 
     name: "Ribbon Red"
     hex: "#b92636"
   - 
@@ -10671,6 +10716,9 @@
     name: "Satin Sheen Gold"
     hex: "#cba135"
   - 
+    name: "Saturated Sky"
+    hex: "#4b4cfc"
+  - 
     name: "Sauterne"
     hex: "#c5a253"
   - 
@@ -10965,9 +11013,6 @@
     name: "Ship Gray"
     hex: "#3e3a44"
   - 
-    name: "Ship Gray"
-    hex: "#4e4e4c"
-  - 
     name: "Shiraz"
     hex: "#842833"
   - 
@@ -11000,6 +11045,9 @@
   - 
     name: "Siam"
     hex: "#686b50"
+  - 
+    name: "Sicilia Bougainvillea"
+    hex: "#ff44ff"
   - 
     name: "Sidecar"
     hex: "#e9d9a9"
@@ -11162,6 +11210,9 @@
   - 
     name: "Sleet"
     hex: "#92949b"
+  - 
+    name: "Slimy Green"
+    hex: "#7ded17"
   - 
     name: "Slugger"
     hex: "#42342b"
@@ -11462,9 +11513,6 @@
   - 
     name: "Steel Blue"
     hex: "#4682b4"
-  - 
-    name: "Steel Gray"
-    hex: "#262335"
   - 
     name: "Steel Gray"
     hex: "#43464b"
@@ -11798,6 +11846,9 @@
   - 
     name: "Sylvan Green"
     hex: "#e7eacb"
+  - 
+    name: "Synthetic Pumpkin"
+    hex: "#ff7538"
   - 
     name: "Syrah"
     hex: "#6a282c"
@@ -12219,9 +12270,6 @@
     name: "Toxic Orange"
     hex: "#ff6037"
   - 
-    name: "Toxic Orange"
-    hex: "#ff7538"
-  - 
     name: "Tractor Red"
     hex: "#fd0f35"
   - 
@@ -12269,6 +12317,9 @@
   - 
     name: "Trinidad"
     hex: "#c54f33"
+  - 
+    name: "Tristesse"
+    hex: "#0c0c1f"
   - 
     name: "Trolley Grey"
     hex: "#818181"
@@ -12758,9 +12809,6 @@
   - 
     name: "Wafer"
     hex: "#d4bbb1"
-  - 
-    name: "Waikawa Gray"
-    hex: "#5a6e9c"
   - 
     name: "Waikawa Gray"
     hex: "#5b6e91"
