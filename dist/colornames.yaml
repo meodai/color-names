@@ -147,6 +147,9 @@
     name: "Alice Blue"
     hex: "#f0f8ff"
   - 
+    name: "Aligator Egg"
+    hex: "#eaeed7"
+  - 
     name: "Alizarin"
     hex: "#e34636"
   - 
@@ -1374,6 +1377,9 @@
     name: "Blue Romance"
     hex: "#d8f0d2"
   - 
+    name: "Blue Royale"
+    hex: "#29217a"
+  - 
     name: "Blue Sapphire"
     hex: "#126180"
   - 
@@ -1652,6 +1658,9 @@
   - 
     name: "Bright Navy Blue"
     hex: "#1974d2"
+  - 
+    name: "Bright Nori"
+    hex: "#2d5e22"
   - 
     name: "Bright Orange"
     hex: "#ff7034"
@@ -2784,6 +2793,9 @@
     name: "Clematis Blue"
     hex: "#363b7c"
   - 
+    name: "Clematis Magenta"
+    hex: "#e05aec"
+  - 
     name: "Clementine"
     hex: "#e96e00"
   - 
@@ -2831,6 +2843,9 @@
   - 
     name: "Clover"
     hex: "#008f00"
+  - 
+    name: "Clown Nose"
+    hex: "#e94257"
   - 
     name: "Coastal Fjord"
     hex: "#505d7e"
@@ -8232,6 +8247,9 @@
     name: "Night Sky"
     hex: "#2a2a35"
   - 
+    name: "Nightfog"
+    hex: "#2d1962"
+  - 
     name: "Nightshade"
     hex: "#433748"
   - 
@@ -8270,6 +8288,9 @@
   - 
     name: "Nordic"
     hex: "#1d393c"
+  - 
+    name: "Nori Green"
+    hex: "#112a12"
   - 
     name: "Norse Blue"
     hex: "#4ca5c7"
@@ -11483,6 +11504,9 @@
   - 
     name: "Stack"
     hex: "#858885"
+  - 
+    name: "Stadium Grass"
+    hex: "#d5f534"
   - 
     name: "Star Dust"
     hex: "#a0a197"
