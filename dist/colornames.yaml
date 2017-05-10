@@ -1146,6 +1146,9 @@
     name: "Black"
     hex: "#000000"
   - 
+    name: "Black Adder"
+    hex: "#292c2c"
+  - 
     name: "Black Bean"
     hex: "#232e26"
   - 
@@ -1559,6 +1562,9 @@
   - 
     name: "Boa"
     hex: "#8e855f"
+  - 
+    name: "Bock"
+    hex: "#5d341a"
   - 
     name: "Bodacious"
     hex: "#b76ba3"
@@ -2249,6 +2255,9 @@
   - 
     name: "Candy Corn"
     hex: "#fcfc5d"
+  - 
+    name: "Candy Floss"
+    hex: "#e8a7e2"
   - 
     name: "Candy Pink"
     hex: "#e4717a"
@@ -3658,7 +3667,7 @@
     hex: "#b8860b"
   - 
     name: "Dark Gray"
-    hex: "#a9a9a9"
+    hex: "#a9a8a8"
   - 
     name: "Dark Green"
     hex: "#013220"
@@ -4217,6 +4226,9 @@
   - 
     name: "Dingy Dungeon"
     hex: "#c53151"
+  - 
+    name: "Dire Wolf"
+    hex: "#282828"
   - 
     name: "Directoire Blue"
     hex: "#0061a3"
@@ -6390,6 +6402,9 @@
     name: "Horizon Blue"
     hex: "#289dbe"
   - 
+    name: "Horseradish"
+    hex: "#e6dfc4"
+  - 
     name: "Horses Neck"
     hex: "#6d562c"
   - 
@@ -6567,6 +6582,9 @@
     name: "Indian Khaki"
     hex: "#d3b09c"
   - 
+    name: "Indian Pale Ale"
+    hex: "#d5bc26"
+  - 
     name: "Indian Red"
     hex: "#cd5c51"
   - 
@@ -6710,6 +6728,9 @@
   - 
     name: "Ivory Cream"
     hex: "#dac0a7"
+  - 
+    name: "Ivory Tower"
+    hex: "#fbf3f1"
   - 
     name: "Ivy"
     hex: "#226c63"
@@ -7017,6 +7038,9 @@
     name: "La Salle Green"
     hex: "#087830"
   - 
+    name: "Lager"
+    hex: "#f6f513"
+  - 
     name: "Lagoon"
     hex: "#4d9e9a"
   - 
@@ -7214,6 +7238,9 @@
   - 
     name: "Lemon Meringue"
     hex: "#f6e199"
+  - 
+    name: "Lemon Meringue"
+    hex: "#f3e4b3"
   - 
     name: "Lemon Verbena"
     hex: "#f3e779"
@@ -8364,6 +8391,9 @@
     name: "Milky Green"
     hex: "#cfdbd1"
   - 
+    name: "Milky Way"
+    hex: "#e8f4f7"
+  - 
     name: "Millbrook"
     hex: "#595648"
   - 
@@ -9027,6 +9057,9 @@
     name: "Obsidian"
     hex: "#3a363b"
   - 
+    name: "Obsidian Shard"
+    hex: "#060313"
+  - 
     name: "Ocean"
     hex: "#005493"
   - 
@@ -9114,6 +9147,9 @@
     name: "Old Moss Green"
     hex: "#867e36"
   - 
+    name: "Old Nan Yarn"
+    hex: "#5e5896"
+  - 
     name: "Old Rose"
     hex: "#c08081"
   - 
@@ -9179,6 +9215,9 @@
   - 
     name: "Onyx"
     hex: "#353839"
+  - 
+    name: "Onyx Heart"
+    hex: "#050d25"
   - 
     name: "Opal"
     hex: "#a8c3bc"
@@ -10083,6 +10122,9 @@
     name: "Pika Yellow"
     hex: "#eee92d"
   - 
+    name: "Pilsener"
+    hex: "#f8f753"
+  - 
     name: "Pine Bark"
     hex: "#827064"
   - 
@@ -10815,6 +10857,9 @@
     name: "Raven"
     hex: "#6f747b"
   - 
+    name: "Raven's Coat"
+    hex: "#030205"
+  - 
     name: "Raw Sienna"
     hex: "#d27d46"
   - 
@@ -11355,6 +11400,9 @@
     name: "Rugby Tan"
     hex: "#c2a594"
   - 
+    name: "Ruined Smores"
+    hex: "#0f1012"
+  - 
     name: "Rum"
     hex: "#716675"
   - 
@@ -11820,6 +11868,9 @@
     name: "Sesame"
     hex: "#baa38b"
   - 
+    name: "Sesame Seed"
+    hex: "#e1d9b8"
+  - 
     name: "Shaded Spruce"
     hex: "#00585e"
   - 
@@ -12213,6 +12264,9 @@
     name: "Snow White"
     hex: "#eeffee"
   - 
+    name: "Snowflake"
+    hex: "#e8f5fc"
+  - 
     name: "Snowy Mint"
     hex: "#d6f0cd"
   - 
@@ -12254,6 +12308,9 @@
   - 
     name: "Soothing Sea"
     hex: "#c3e9e4"
+  - 
+    name: "Sooty"
+    hex: "#141414"
   - 
     name: "Sorbus"
     hex: "#dd6b38"
@@ -12575,6 +12632,9 @@
   - 
     name: "Stormy Weather"
     hex: "#58646d"
+  - 
+    name: "Stout"
+    hex: "#0f0b0a"
   - 
     name: "Stratos"
     hex: "#000741"
@@ -13380,6 +13440,9 @@
     name: "Tuatara"
     hex: "#454642"
   - 
+    name: "Tuberose"
+    hex: "#fffaec"
+  - 
     name: "Tuffet"
     hex: "#a59788"
   - 
@@ -13553,6 +13616,9 @@
   - 
     name: "Unbleached Silk"
     hex: "#ffddca"
+  - 
+    name: "Unicorn Silver"
+    hex: "#e8e8e8"
   - 
     name: "United Nations Blue"
     hex: "#5b92e5"
@@ -14040,6 +14106,9 @@
     name: "Westar"
     hex: "#d4cfc5"
   - 
+    name: "Wet Concrete"
+    hex: "#353838"
+  - 
     name: "Wet Weather"
     hex: "#929090"
   - 
@@ -14048,6 +14117,9 @@
   - 
     name: "Wheat"
     hex: "#f5deb3"
+  - 
+    name: "Wheat Beer"
+    hex: "#bf923b"
   - 
     name: "Wheatfield"
     hex: "#dfd7bd"
@@ -14117,6 +14189,9 @@
   - 
     name: "White Swan"
     hex: "#e4d7c5"
+  - 
+    name: "White Whale"
+    hex: "#edeeef"
   - 
     name: "Whitecap Gray"
     hex: "#e0d5c6"
@@ -14250,6 +14325,9 @@
     name: "Winter Wizard"
     hex: "#a0e6ff"
   - 
+    name: "Winter's Day"
+    hex: "#def7fe"
+  - 
     name: "Wintergreen Dream"
     hex: "#56887d"
   - 
@@ -14270,6 +14348,9 @@
   - 
     name: "Withered Rose"
     hex: "#a26666"
+  - 
+    name: "Wizard White"
+    hex: "#dff1fd"
   - 
     name: "Wood Ash"
     hex: "#d7cab0"

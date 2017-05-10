@@ -381,6 +381,7 @@ Bittersweet,#fe6f5e
 Bittersweet Shimmer,#bf4f51
 Bizarre,#e7d2c8
 Black,#000000
+Black Adder,#292c2c
 Black Bean,#232e26
 Black Beauty,#26262a
 Black Coffee,#3b302f
@@ -519,6 +520,7 @@ Blush,#b55067
 Blush Pink,#ff6fff
 Blushing Bride,#fbd3d9
 Boa,#8e855f
+Bock,#5d341a
 Bodacious,#b76ba3
 Bog,#bab696
 Bok Choy,#bccab3
@@ -749,6 +751,7 @@ Candlelight Peach,#f8a39d
 Candy Apple Red,#ff0800
 Candy Bar,#ffb7d5
 Candy Corn,#fcfc5d
+Candy Floss,#e8a7e2
 Candy Pink,#e4717a
 Caneel Bay,#00849f
 Cannoli Cream,#f0efe2
@@ -1218,7 +1221,7 @@ Dark Electric Blue,#516678
 Dark Fern,#0a480d
 Dark Forest,#556962
 Dark Goldenrod,#b8860b
-Dark Gray,#a9a9a9
+Dark Gray,#a9a8a8
 Dark Green,#013220
 Dark Green (X11),#006400
 Dark Green Copper,#4a766e
@@ -1405,6 +1408,7 @@ Dill,#6f7755
 Dim Gray,#696969
 Dingley,#607c47
 Dingy Dungeon,#c53151
+Dire Wolf,#282828
 Directoire Blue,#0061a3
 Dirt,#9b7653
 Disco,#892d4f
@@ -2129,6 +2133,7 @@ Hopbush,#cd6d93
 Hopi Moccasin,#ffe4b5
 Horizon,#648894
 Horizon Blue,#289dbe
+Horseradish,#e6dfc4
 Horses Neck,#6d562c
 Hortensia,#553b50
 Hot Chocolate,#683b39
@@ -2188,6 +2193,7 @@ Independence,#4c516d
 India Green,#138808
 India Ink,#3c3f4a
 Indian Khaki,#d3b09c
+Indian Pale Ale,#d5bc26
 Indian Red,#cd5c51
 Indian Tan,#4f301f
 Indian Teal,#3c586b
@@ -2236,6 +2242,7 @@ Italian Sky Blue,#b2fcff
 Italian Straw,#e7d1a1
 Ivory,#fffff0
 Ivory Cream,#dac0a7
+Ivory Tower,#fbf3f1
 Ivy,#226c63
 Ivy Green,#585442
 Jacaranda,#2e0329
@@ -2338,6 +2345,7 @@ Kumquat,#fbaa4c
 La Palma,#428929
 La Rioja,#bac00e
 La Salle Green,#087830
+Lager,#f6f513
 Lagoon,#4d9e9a
 Lake Blue,#008c96
 Lambs Wool,#e5d0b1
@@ -2404,6 +2412,7 @@ Lemon Grass,#999a86
 Lemon Icing,#f6ebc8
 Lemon Lime,#e3ff00
 Lemon Meringue,#f6e199
+Lemon Meringue,#f3e4b3
 Lemon Verbena,#f3e779
 Lemon Yellow,#fff44f
 Lemon Zest,#f9d857
@@ -2787,6 +2796,7 @@ Milk Punch,#f3e5c0
 Milk White,#dcd9cd
 Milky Blue,#72a8ba
 Milky Green,#cfdbd1
+Milky Way,#e8f4f7
 Millbrook,#595648
 Mimi Pink,#ffdae9
 Mimosa,#f5f5cc
@@ -3008,6 +3018,7 @@ Oasis,#fcedc5
 Oatmeal,#cbc3b4
 Observatory,#008f70
 Obsidian,#3a363b
+Obsidian Shard,#060313
 Ocean,#005493
 Ocean Blue,#009dc4
 Ocean Boat Blue,#0077be
@@ -3037,6 +3048,7 @@ Old Laser Lemon,#fdfc74
 Old Lavender,#796878
 Old Mauve,#673147
 Old Moss Green,#867e36
+Old Nan Yarn,#5e5896
 Old Rose,#c08081
 Old Silver,#848482
 Olive,#808010
@@ -3059,6 +3071,7 @@ Onahau,#c2e6ec
 Onion,#48412b
 Online Lime,#44883c
 Onyx,#353839
+Onyx Heart,#050d25
 Opal,#a8c3bc
 Opal Blue,#c3ddd6
 Opal Gray,#a49e9e
@@ -3360,6 +3373,7 @@ Piggy,#ef98aa
 Piggy Pink,#fddde6
 Pigment Indigo,#4d0082
 Pika Yellow,#eee92d
+Pilsener,#f8f753
 Pine Bark,#827064
 Pine Cone,#756556
 Pine Glade,#bdc07e
@@ -3604,6 +3618,7 @@ Raspberry Sorbet,#d2386c
 Raspberry Wine,#b63753
 Rattan,#d1b272
 Raven,#6f747b
+Raven's Coat,#030205
 Raw Sienna,#d27d46
 Raw Umber,#734a12
 Rawhide,#865e49
@@ -3784,6 +3799,7 @@ Ruddy Brown,#bb6528
 Ruddy Pink,#e18e96
 Rufous,#a81c07
 Rugby Tan,#c2a594
+Ruined Smores,#0f1012
 Rum,#716675
 Rum Raisin,#583432
 Rum Swizzle,#f1edd4
@@ -3939,6 +3955,7 @@ Sequoia,#804839
 Serenade,#fce9d7
 Serenity,#91a8d0
 Sesame,#baa38b
+Sesame Seed,#e1d9b8
 Shaded Spruce,#00585e
 Shadow,#837050
 Shadow Blue,#778ba5
@@ -4070,6 +4087,7 @@ Snow,#fffafa
 Snow Drift,#e3e3dc
 Snow Flurry,#eaf7c9
 Snow White,#eeffee
+Snowflake,#e8f5fc
 Snowy Mint,#d6f0cd
 Snuff,#e4d7e5
 Soap,#cec8ef
@@ -4084,6 +4102,7 @@ Solitaire,#eadac2
 Solitude,#e9ecf1
 Sonic Silver,#757575
 Soothing Sea,#c3e9e4
+Sooty,#141414
 Sorbus,#dd6b38
 Sorrell Brown,#9d7f61
 Sour Dough,#c9b59a
@@ -4191,6 +4210,7 @@ Stormcloud,#4f666a
 Stormy Blue,#ace5ee
 Stormy Sea,#6e8082
 Stormy Weather,#58646d
+Stout,#0f0b0a
 Stratos,#000741
 Stratosphere,#9ec1cc
 Straw,#e4d96f
@@ -4459,6 +4479,7 @@ True Red,#bf1932
 True V,#8e72c7
 Trump Tan,#faa76c
 Tuatara,#454642
+Tuberose,#fffaec
 Tuffet,#a59788
 Tuft Bush,#f9d3be
 Tufts Blue,#417dc1
@@ -4517,6 +4538,7 @@ Ultramarine Blue,#4166f5
 Ultramarine Green,#006b54
 Umber,#635147
 Unbleached Silk,#ffddca
+Unicorn Silver,#e8e8e8
 United Nations Blue,#5b92e5
 University Of California Gold,#b78727
 University Of Tennessee Orange,#f77f00
@@ -4679,9 +4701,11 @@ Wenge,#645452
 West Coast,#5c512f
 West Side,#e5823a
 Westar,#d4cfc5
+Wet Concrete,#353838
 Wet Weather,#929090
 Wewak,#f1919a
 Wheat,#f5deb3
+Wheat Beer,#bf923b
 Wheatfield,#dfd7bd
 Whiskey,#d29062
 Whiskey Sour,#d4915d
@@ -4705,6 +4729,7 @@ White Rock,#d4cfb4
 White Sand,#dbd5d1
 White Smoke,#f5f5f5
 White Swan,#e4d7c5
+White Whale,#edeeef
 Whitecap Gray,#e0d5c6
 Wild Aster,#92316f
 Wild Blue Yonder,#7a89b8
@@ -4749,6 +4774,7 @@ Winter Twig,#948a7a
 Winter Wheat,#dfc09f
 Winter White,#f5ecd2
 Winter Wizard,#a0e6ff
+Winter's Day,#def7fe
 Wintergreen Dream,#56887d
 Wisp Pink,#f9e8e2
 Wisteria,#cda4de
@@ -4756,6 +4782,7 @@ Wistful,#a29ecd
 Wistful Mauve,#946c74
 Witch Haze,#fbf073
 Withered Rose,#a26666
+Wizard White,#dff1fd
 Wood Ash,#d7cab0
 Wood Bark,#302621
 Wood Brown,#c19a13
