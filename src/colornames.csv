@@ -227,6 +227,7 @@ Atomic Tangerine,#f96
 Au Chico,#9e6759
 Aubergine,#372528
 Auburn,#712f2c
+Aunt Violet,#7c0087
 Aura Orange,#b4262a
 Aureolin,#fdee00
 AuroMetalSaurus,#6e7f80
@@ -471,6 +472,7 @@ Blue Haze,#bdbace
 Blue Heaven,#5b7e98
 Blue Heron,#96a3c7
 Blue Horizon,#4e6482
+Blue Hour,#0034ab
 Blue Ice,#70789b
 Blue Indigo,#49516d
 Blue Iris,#5a5b9f
@@ -961,7 +963,6 @@ Cinderella,#fbd7cc
 Cinereous,#98817b
 Cinnabar,#e34234
 Cinnamon,#d26911
-Cinnamon,#d3691f
 Cinnamon Satin,#cd607e
 Cinnamon Stick,#9b4722
 Cioccolato,#5d3b2e
@@ -1047,6 +1048,7 @@ Congo Pink,#f88379
 Congress Blue,#02478e
 Conifer,#b1dd52
 Contessa,#c16f68
+Cookie Dough,#ab7100
 Cool Black,#002e63
 Cool Blue,#a5c5d9
 Cool Grey,#8c93ad
@@ -1118,6 +1120,8 @@ Cradle Pink,#edd0dd
 Crail,#a65648
 Cranberry,#db5079
 Crater Brown,#4d3e3c
+Crayola Green,#1dac78
+Crayola Orange,#fe7438
 Cream,#fffdd0
 Cream Blush,#f8c19a
 Cream Brulee,#ffe39b
@@ -1346,6 +1350,7 @@ Deep Peach,#ffcba2
 Deep Peacock Blue,#008381
 Deep Periwinkle,#7c83bc
 Deep Pink,#ff1493
+Deep Pond,#014420
 Deep Puce,#a95c68
 Deep Purple,#50314c
 Deep Red,#850101
@@ -1438,6 +1443,7 @@ Downriver,#092256
 Downy,#6fd2be
 Drab,#967217
 Dragon Fire,#fc642d
+Dragon Scale,#00a877
 Dragonfly,#2a5c6a
 Dream Blue,#a0bcd0
 Dresden Blue,#0086bb
@@ -1607,6 +1613,7 @@ Fair Orchid,#c0aac0
 Fair Pink,#f3e5dc
 Fairest Jade,#d8e3d7
 Fairway,#477050
+Fairy Dust,#b0e0f7
 Fairy Tale,#f2c1d1
 Fairy Wren,#9479af
 Falcon,#6e5a5b
@@ -1674,6 +1681,7 @@ Flan,#f6e3b4
 Flattery,#6b4424
 Flavescent,#f7e98e
 Flax,#eedc82
+Flax Fiber,#e0d68e
 Flax Smoke,#7b8265
 Flesh,#ffcbc4
 Flickery CRT Green,#90f215
@@ -1703,6 +1711,7 @@ Foliage Green,#3e6f58
 Folkstone Gray,#626879
 Folly,#ff004f
 Fondue Fudge,#5d4236
+Fools Gold,#cad175
 Forest Biome,#184a45
 Forest Fern,#63b76c
 Forest Green,#228b22
@@ -1750,6 +1759,7 @@ Fresh Acorn,#d2693e
 Fresh Air,#a6e7ff
 Fresh Auburn,#a52a24
 Fresh Eggplant,#f9006f
+Fresh Gingerbread ,#d3691f
 Fresh Granny Smith,#7ff217
 Fresh Salmon,#ff7f6a
 Fresh Turquoise,#40e0d0
@@ -1834,6 +1844,7 @@ Ginger Bread,#8c4a2f
 Ginger Root,#bfa58a
 Ginger Snap,#977d70
 Ginger Spice,#b65d48
+Gingerbread,#9c5e33
 Givry,#ebd4ae
 Glacier,#78b1bf
 Glacier Gray,#c5c6c7
@@ -1885,12 +1896,14 @@ Golden Palm,#aa8805
 Golden Poppy,#fcc200
 Golden Rod,#e2a829
 Golden Sand,#eace6a
+Golden Snitch,#f1e346
 Golden Spice,#c6973f
 Golden Straw,#e6bd8f
 Golden Tainoi,#ffc152
 Golden Yellow,#ffdf00
 Goldenrod,#daa520
 Goldfinch,#f8dc6c
+Goldvreneli 1882,#e7de54
 Golf Green,#008763
 Gondola,#373332
 Gordons Green,#29332b
@@ -1930,8 +1943,7 @@ Grasping Grass,#92b300
 Grass Green,#7bb369
 Grasshopper,#77824a
 Gravel,#4a4b46
-Gray,#808081
-Gray (HTML/CSS Gray),#808080
+Gray,#808080
 Gray (X11 Gray),#bebebe
 Gray Asparagus,#465945
 Gray Blue,#4d587a
@@ -1954,14 +1966,7 @@ Gray-Blue,#8c92ac
 Grayed Jade,#9bbea9
 Graystone,#4d495b
 Greek Flag Blue,#0d5eaf
-Green,#008000
 Green,#00ff00
-Green (Crayola),#1dac78
-Green (Munsell),#00a877
-Green (NCS),#009f6b
-Green (Pantone),#00ad43
-Green (Pigment),#00a550
-Green (RYB),#66b032
 Green Ash,#a0daa9
 Green Banana,#babc72
 Green Bay,#7e9285
@@ -1983,6 +1988,7 @@ Green Moss,#857946
 Green Oasis,#b0b454
 Green Olive,#8d8b55
 Green Pea,#266242
+Green Pigment,#00a550
 Green Sheen,#d9ce52
 Green Smoke,#9ca664
 Green Spring,#a9af99
@@ -2117,6 +2123,7 @@ Holly Berry,#b44e5d
 Holly Green,#0f9d76
 Hollyhock,#823270
 Hollywood Cerise,#f400a0
+Holy Grail,#e8d720
 Honey,#ba9238
 Honey Flower,#5c3c6d
 Honey Ginger,#a86217
@@ -2146,6 +2153,7 @@ Hot Purple,#4e2e53
 Hot Sauce,#ab4f41
 Hot Toddy,#a7752c
 Huckleberry,#5b4349
+Hulk Green,#008000
 Humming Bird,#ceefe4
 Humus,#b7a793
 Hunter Green,#355e3b
@@ -2247,6 +2255,7 @@ Ivy,#226c63
 Ivy Green,#585442
 Jacaranda,#2e0329
 Jacarta,#3d325d
+Jack-o,#fb9902
 Jacko Bean,#413628
 Jacksons Purple,#3d3f7d
 Jade,#00a86b
@@ -2412,7 +2421,8 @@ Lemon Grass,#999a86
 Lemon Icing,#f6ebc8
 Lemon Lime,#e3ff00
 Lemon Meringue,#f6e199
-Lemon Meringue,#f3e4b3
+Lemon Pie,#f1ff62
+Lemon Sherbet,#f1ffa8
 Lemon Verbena,#f3e779
 Lemon Yellow,#fff44f
 Lemon Zest,#f9d857
@@ -2554,6 +2564,7 @@ Love Potion,#c01352
 Love Red,#ff496c
 Lower Lip,#f7468a
 Lucky,#ab9a1c
+Lucky Clover,#008400
 Lucky Point,#292d4f
 Lumber,#ffe4cd
 Luminary Green,#e3eaa5
@@ -2749,6 +2760,7 @@ Mellow Yellow,#f8de7f
 Melon,#fdbcb4
 Melrose,#c3b9dd
 Mercury,#ebebeb
+Meringue,#f3e4b3
 Merino,#e1dbd0
 Merlin,#4f4e48
 Merlot,#73343a
@@ -2784,6 +2796,7 @@ Midnight Express,#21263a
 Midnight Green (Eagle Green),#004953
 Midnight Moss,#242e28
 Midnight Navy,#34414e
+Mihtril,#878787
 Mikado,#3f3623
 Mikado Yellow,#ffc40c
 Milan,#f6f493
@@ -2847,6 +2860,7 @@ Moist Gold,#dbdb70
 Mojave Desert,#c7b595
 Mojo,#97463c
 Mole,#392d2b
+Molten Core,#ff5800
 Molten Lava,#b5332e
 Mona Lisa,#ff9889
 Monaco Blue,#274374
@@ -2876,6 +2890,7 @@ Moonlit Ocean,#293b4d
 Moonlite Mauve,#d28fb0
 Moonscape,#725f69
 Moonshade,#5a6e9c
+Moonshadow,#9845b0
 Moonstone Blue,#73a9c2
 Moonstruck,#c2beb6
 Mordant Red 19,#ae0c00
@@ -3051,6 +3066,7 @@ Old Moss Green,#867e36
 Old Nan Yarn,#5e5896
 Old Rose,#c08081
 Old Silver,#848482
+Old Wine,#90091f
 Olive,#808010
 Olive Branch,#646a45
 Olive Drab,#6b8c23
@@ -3080,12 +3096,9 @@ Opera Mauve,#b784a7
 Opium,#987e7e
 Oracle,#395555
 Orange,#ffa500
-Orange (Color Wheel),#ff7f00
-Orange (Crayola),#fe7438
-Orange (Pantone),#ff5800
-Orange (RYB),#fb9902
 Orange Chiffon,#f9aa7d
 Orange Com,#da321c
+Orange Juice,#ff7f00
 Orange Ochre,#dc793a
 Orange Peel,#ffa000
 Orange Pepper,#df7500
@@ -3122,8 +3135,7 @@ Oslo Grey,#818988
 Otter,#7f674f
 Otter Brown,#654320
 Ottoman,#d3dbcb
-Ou Crimson Red,#900
-OU Crimson Red,#990001
+OU Crimson Red,#990000
 Outer Space,#414a4c
 Outrageous Orange,#ff6e4a
 Overcast,#c3bdab
@@ -3150,6 +3162,7 @@ Pakistan Green,#060
 Palace Blue,#346cb0
 Palatinate Blue,#273be2
 Palatinate Purple,#682860
+Pale Ale,#fef068
 Pale Aqua,#bcd4e1
 Pale Banana,#fae199
 Pale Blue,#afeeee
@@ -3343,6 +3356,7 @@ Peru,#cd853f
 Peru Tan,#733d1f
 Pesto,#7a7229
 Petal Pink,#f2e2e0
+Peter Pan,#19a700
 Petit Four,#87c2d4
 Petite Orchid,#da9790
 Petrified Oak,#8d7960
@@ -3447,6 +3461,7 @@ Poinciana,#ca3422
 Poinsettia,#cb3441
 Poisenous Green,#66fc00
 Poison Green,#4db560
+Poison Ivy,#00ad43
 Polar,#e5f2e7
 Polignac,#c28799
 Polished Pine,#5da493
@@ -3486,9 +3501,9 @@ Potpourri,#e7c9ca
 Potters Clay,#845c40
 Potting Soil,#54392d
 Pouder Pink,#fdd6e5
+Pound Sterling,#818081
 Powder Ash,#bcc9c2
 Powder Blue,#b0e0e6
-Powder Blue (Web),#b0e0e6
 Powder Pink,#ecb2b3
 Powder Puff,#f3e0d6
 Prairie Sand,#883c32
@@ -3635,6 +3650,7 @@ Red (Munsell),#f2003c
 Red (NCS),#c40233
 Red (Pantone),#ed2939
 Red (RYB),#fe2712
+Red Alert,#ff0101
 Red Bean,#3d0c02
 Red Beech,#7b3801
 Red Berry,#701f28
@@ -3906,6 +3922,7 @@ School Bus Yellow,#ffd800
 Schooner,#8d8478
 Science Blue,#0076cc
 Scooter,#308ea0
+Scorched Earth,#44403d
 Scorpion,#6a6466
 Scotch Mist,#eee7c8
 Screamin' Green,#66ff66
@@ -3989,6 +4006,7 @@ Sherwood Green,#1b4636
 Shifting Sand,#d8c0ad
 Shilo,#e6b2a6
 Shimmering Blush,#d98695
+Shiner,#773ca7
 Shingle Fawn,#745937
 Shiny Shamrock,#5fa778
 Ship Cove,#7988ab
@@ -4033,6 +4051,7 @@ Silver Sage,#938b78
 Silver Sand,#bebdb6
 Silver Sconce,#a19fa5
 Silver Tree,#67be90
+Silverpine,#009f6b
 Simply Green,#009b75
 Simply Taupe,#ad9f93
 Sinbad,#a6d5d0
@@ -4072,6 +4091,7 @@ Smoke Blue,#6d8994
 Smoke Gray,#cebaa8
 Smoke Green,#a8bba2
 Smoke Pine,#3e6257
+Smoke Screen,#aeaeae
 Smoke Tree,#bb5f34
 Smoked Paprika,#6e362c
 Smoked Pearl,#656466
@@ -4098,6 +4118,7 @@ Soft Peach,#eedfde
 Soft Pink,#f2d8cd
 Solar Power,#f4bf3a
 Solid Pink,#85494c
+Solid Snake,#a1a58c
 Solitaire,#eadac2
 Solitude,#e9ecf1
 Sonic Silver,#757575
@@ -4524,7 +4545,6 @@ Twine,#c19156
 Twist Of Lime,#4e632c
 Tyrian Purple,#66023c
 UA Blue,#0033aa
-Ua Blue,#03a
 UA Red,#d9004c
 Ube,#8878c3
 UCLA Blue,#536895
@@ -4543,17 +4563,14 @@ United Nations Blue,#5b92e5
 University Of California Gold,#b78727
 University Of Tennessee Orange,#f77f00
 Unmellow Yellow,#ff6
-Up Forest Green,#014420
 UP Forest Green,#014431
 UP Maroon,#7b1113
 Upsdell Red,#ae2029
 Urban Chic,#464e4d
 Urobilin,#e1ad21
 USAFA Blue,#004f98
-Usc Cardinal,#90091f
-USC Cardinal,#990000
+USC Cardinal,#990010
 USC Gold,#ffcc00
-Usc Gold,#ffcc01
 Utah Crimson,#d3003f
 Valencia,#d4574e
 Valentino,#382c38
@@ -4801,6 +4818,7 @@ Wrought Iron,#999e98
 Xanadu,#738678
 Xanadu Dark,#75876e
 Xenon Blue,#b7c0d7
+Xmas Candy,#990020
 Yale Blue,#0f4d92
 Yam,#d0893f
 Yankees Blue,#1c2841
@@ -4836,6 +4854,7 @@ Young Wheat,#e1e3a9
 Your Pink,#ffc5bb
 Yucca,#a1d7c9
 Yukon Gold,#826a21
+Yule Tree,#66b032
 Yuma,#c7b882
 Zaffre,#0014a8
 Zambezi,#6b5a5a

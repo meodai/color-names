@@ -684,6 +684,9 @@
     name: "Auburn"
     hex: "#712f2c"
   - 
+    name: "Aunt Violet"
+    hex: "#7c0087"
+  - 
     name: "Aura Orange"
     hex: "#b4262a"
   - 
@@ -1415,6 +1418,9 @@
   - 
     name: "Blue Horizon"
     hex: "#4e6482"
+  - 
+    name: "Blue Hour"
+    hex: "#0034ab"
   - 
     name: "Blue Ice"
     hex: "#70789b"
@@ -2886,9 +2892,6 @@
     name: "Cinnamon"
     hex: "#d26911"
   - 
-    name: "Cinnamon"
-    hex: "#d3691f"
-  - 
     name: "Cinnamon Satin"
     hex: "#cd607e"
   - 
@@ -3144,6 +3147,9 @@
     name: "Contessa"
     hex: "#c16f68"
   - 
+    name: "Cookie Dough"
+    hex: "#ab7100"
+  - 
     name: "Cool Black"
     hex: "#002e63"
   - 
@@ -3356,6 +3362,12 @@
   - 
     name: "Crater Brown"
     hex: "#4d3e3c"
+  - 
+    name: "Crayola Green"
+    hex: "#1dac78"
+  - 
+    name: "Crayola Orange"
+    hex: "#fe7438"
   - 
     name: "Cream"
     hex: "#fffdd0"
@@ -4041,6 +4053,9 @@
     name: "Deep Pink"
     hex: "#ff1493"
   - 
+    name: "Deep Pond"
+    hex: "#014420"
+  - 
     name: "Deep Puce"
     hex: "#a95c68"
   - 
@@ -4316,6 +4331,9 @@
   - 
     name: "Dragon Fire"
     hex: "#fc642d"
+  - 
+    name: "Dragon Scale"
+    hex: "#00a877"
   - 
     name: "Dragonfly"
     hex: "#2a5c6a"
@@ -4824,6 +4842,9 @@
     name: "Fairway"
     hex: "#477050"
   - 
+    name: "Fairy Dust"
+    hex: "#b0e0f7"
+  - 
     name: "Fairy Tale"
     hex: "#f2c1d1"
   - 
@@ -5025,6 +5046,9 @@
     name: "Flax"
     hex: "#eedc82"
   - 
+    name: "Flax Fiber"
+    hex: "#e0d68e"
+  - 
     name: "Flax Smoke"
     hex: "#7b8265"
   - 
@@ -5111,6 +5135,9 @@
   - 
     name: "Fondue Fudge"
     hex: "#5d4236"
+  - 
+    name: "Fools Gold"
+    hex: "#cad175"
   - 
     name: "Forest Biome"
     hex: "#184a45"
@@ -5252,6 +5279,9 @@
   - 
     name: "Fresh Eggplant"
     hex: "#f9006f"
+  - 
+    name: "Fresh Gingerbread"
+    hex: "#d3691f"
   - 
     name: "Fresh Granny Smith"
     hex: "#7ff217"
@@ -5505,6 +5535,9 @@
     name: "Ginger Spice"
     hex: "#b65d48"
   - 
+    name: "Gingerbread"
+    hex: "#9c5e33"
+  - 
     name: "Givry"
     hex: "#ebd4ae"
   - 
@@ -5658,6 +5691,9 @@
     name: "Golden Sand"
     hex: "#eace6a"
   - 
+    name: "Golden Snitch"
+    hex: "#f1e346"
+  - 
     name: "Golden Spice"
     hex: "#c6973f"
   - 
@@ -5675,6 +5711,9 @@
   - 
     name: "Goldfinch"
     hex: "#f8dc6c"
+  - 
+    name: "Goldvreneli 1882"
+    hex: "#e7de54"
   - 
     name: "Golf Green"
     hex: "#008763"
@@ -5794,9 +5833,6 @@
     hex: "#4a4b46"
   - 
     name: "Gray"
-    hex: "#808081"
-  - 
-    name: "Gray (HTML/CSS Gray)"
     hex: "#808080"
   - 
     name: "Gray (X11 Gray)"
@@ -5866,28 +5902,7 @@
     hex: "#0d5eaf"
   - 
     name: "Green"
-    hex: "#008000"
-  - 
-    name: "Green"
     hex: "#00ff00"
-  - 
-    name: "Green (Crayola)"
-    hex: "#1dac78"
-  - 
-    name: "Green (Munsell)"
-    hex: "#00a877"
-  - 
-    name: "Green (NCS)"
-    hex: "#009f6b"
-  - 
-    name: "Green (Pantone)"
-    hex: "#00ad43"
-  - 
-    name: "Green (Pigment)"
-    hex: "#00a550"
-  - 
-    name: "Green (RYB)"
-    hex: "#66b032"
   - 
     name: "Green Ash"
     hex: "#a0daa9"
@@ -5951,6 +5966,9 @@
   - 
     name: "Green Pea"
     hex: "#266242"
+  - 
+    name: "Green Pigment"
+    hex: "#00a550"
   - 
     name: "Green Sheen"
     hex: "#d9ce52"
@@ -6354,6 +6372,9 @@
     name: "Hollywood Cerise"
     hex: "#f400a0"
   - 
+    name: "Holy Grail"
+    hex: "#e8d720"
+  - 
     name: "Honey"
     hex: "#ba9238"
   - 
@@ -6440,6 +6461,9 @@
   - 
     name: "Huckleberry"
     hex: "#5b4349"
+  - 
+    name: "Hulk Green"
+    hex: "#008000"
   - 
     name: "Humming Bird"
     hex: "#ceefe4"
@@ -6743,6 +6767,9 @@
   - 
     name: "Jacarta"
     hex: "#3d325d"
+  - 
+    name: "Jack-o"
+    hex: "#fb9902"
   - 
     name: "Jacko Bean"
     hex: "#413628"
@@ -7239,8 +7266,11 @@
     name: "Lemon Meringue"
     hex: "#f6e199"
   - 
-    name: "Lemon Meringue"
-    hex: "#f3e4b3"
+    name: "Lemon Pie"
+    hex: "#f1ff62"
+  - 
+    name: "Lemon Sherbet"
+    hex: "#f1ffa8"
   - 
     name: "Lemon Verbena"
     hex: "#f3e779"
@@ -7664,6 +7694,9 @@
   - 
     name: "Lucky"
     hex: "#ab9a1c"
+  - 
+    name: "Lucky Clover"
+    hex: "#008400"
   - 
     name: "Lucky Point"
     hex: "#292d4f"
@@ -8250,6 +8283,9 @@
     name: "Mercury"
     hex: "#ebebeb"
   - 
+    name: "Meringue"
+    hex: "#f3e4b3"
+  - 
     name: "Merino"
     hex: "#e1dbd0"
   - 
@@ -8354,6 +8390,9 @@
   - 
     name: "Midnight Navy"
     hex: "#34414e"
+  - 
+    name: "Mihtril"
+    hex: "#878787"
   - 
     name: "Mikado"
     hex: "#3f3623"
@@ -8544,6 +8583,9 @@
     name: "Mole"
     hex: "#392d2b"
   - 
+    name: "Molten Core"
+    hex: "#ff5800"
+  - 
     name: "Molten Lava"
     hex: "#b5332e"
   - 
@@ -8630,6 +8672,9 @@
   - 
     name: "Moonshade"
     hex: "#5a6e9c"
+  - 
+    name: "Moonshadow"
+    hex: "#9845b0"
   - 
     name: "Moonstone Blue"
     hex: "#73a9c2"
@@ -9156,6 +9201,9 @@
     name: "Old Silver"
     hex: "#848482"
   - 
+    name: "Old Wine"
+    hex: "#90091f"
+  - 
     name: "Olive"
     hex: "#808010"
   - 
@@ -9243,23 +9291,14 @@
     name: "Orange"
     hex: "#ffa500"
   - 
-    name: "Orange (Color Wheel)"
-    hex: "#ff7f00"
-  - 
-    name: "Orange (Crayola)"
-    hex: "#fe7438"
-  - 
-    name: "Orange (Pantone)"
-    hex: "#ff5800"
-  - 
-    name: "Orange (RYB)"
-    hex: "#fb9902"
-  - 
     name: "Orange Chiffon"
     hex: "#f9aa7d"
   - 
     name: "Orange Com"
     hex: "#da321c"
+  - 
+    name: "Orange Juice"
+    hex: "#ff7f00"
   - 
     name: "Orange Ochre"
     hex: "#dc793a"
@@ -9369,11 +9408,8 @@
     name: "Ottoman"
     hex: "#d3dbcb"
   - 
-    name: "Ou Crimson Red"
-    hex: "#900"
-  - 
     name: "OU Crimson Red"
-    hex: "#990001"
+    hex: "#990000"
   - 
     name: "Outer Space"
     hex: "#414a4c"
@@ -9452,6 +9488,9 @@
   - 
     name: "Palatinate Purple"
     hex: "#682860"
+  - 
+    name: "Pale Ale"
+    hex: "#fef068"
   - 
     name: "Pale Aqua"
     hex: "#bcd4e1"
@@ -10032,6 +10071,9 @@
     name: "Petal Pink"
     hex: "#f2e2e0"
   - 
+    name: "Peter Pan"
+    hex: "#19a700"
+  - 
     name: "Petit Four"
     hex: "#87c2d4"
   - 
@@ -10344,6 +10386,9 @@
     name: "Poison Green"
     hex: "#4db560"
   - 
+    name: "Poison Ivy"
+    hex: "#00ad43"
+  - 
     name: "Polar"
     hex: "#e5f2e7"
   - 
@@ -10461,13 +10506,13 @@
     name: "Pouder Pink"
     hex: "#fdd6e5"
   - 
+    name: "Pound Sterling"
+    hex: "#818081"
+  - 
     name: "Powder Ash"
     hex: "#bcc9c2"
   - 
     name: "Powder Blue"
-    hex: "#b0e0e6"
-  - 
-    name: "Powder Blue (Web)"
     hex: "#b0e0e6"
   - 
     name: "Powder Pink"
@@ -10907,6 +10952,9 @@
   - 
     name: "Red (RYB)"
     hex: "#fe2712"
+  - 
+    name: "Red Alert"
+    hex: "#ff0101"
   - 
     name: "Red Bean"
     hex: "#3d0c02"
@@ -11721,6 +11769,9 @@
     name: "Scooter"
     hex: "#308ea0"
   - 
+    name: "Scorched Earth"
+    hex: "#44403d"
+  - 
     name: "Scorpion"
     hex: "#6a6466"
   - 
@@ -11970,6 +12021,9 @@
     name: "Shimmering Blush"
     hex: "#d98695"
   - 
+    name: "Shiner"
+    hex: "#773ca7"
+  - 
     name: "Shingle Fawn"
     hex: "#745937"
   - 
@@ -12102,6 +12156,9 @@
     name: "Silver Tree"
     hex: "#67be90"
   - 
+    name: "Silverpine"
+    hex: "#009f6b"
+  - 
     name: "Simply Green"
     hex: "#009b75"
   - 
@@ -12219,6 +12276,9 @@
     name: "Smoke Pine"
     hex: "#3e6257"
   - 
+    name: "Smoke Screen"
+    hex: "#aeaeae"
+  - 
     name: "Smoke Tree"
     hex: "#bb5f34"
   - 
@@ -12296,6 +12356,9 @@
   - 
     name: "Solid Pink"
     hex: "#85494c"
+  - 
+    name: "Solid Snake"
+    hex: "#a1a58c"
   - 
     name: "Solitaire"
     hex: "#eadac2"
@@ -13575,9 +13638,6 @@
     name: "UA Blue"
     hex: "#0033aa"
   - 
-    name: "Ua Blue"
-    hex: "#03a"
-  - 
     name: "UA Red"
     hex: "#d9004c"
   - 
@@ -13632,9 +13692,6 @@
     name: "Unmellow Yellow"
     hex: "#ff6"
   - 
-    name: "Up Forest Green"
-    hex: "#014420"
-  - 
     name: "UP Forest Green"
     hex: "#014431"
   - 
@@ -13653,17 +13710,11 @@
     name: "USAFA Blue"
     hex: "#004f98"
   - 
-    name: "Usc Cardinal"
-    hex: "#90091f"
-  - 
     name: "USC Cardinal"
-    hex: "#990000"
+    hex: "#990010"
   - 
     name: "USC Gold"
     hex: "#ffcc00"
-  - 
-    name: "Usc Gold"
-    hex: "#ffcc01"
   - 
     name: "Utah Crimson"
     hex: "#d3003f"
@@ -14406,6 +14457,9 @@
     name: "Xenon Blue"
     hex: "#b7c0d7"
   - 
+    name: "Xmas Candy"
+    hex: "#990020"
+  - 
     name: "Yale Blue"
     hex: "#0f4d92"
   - 
@@ -14510,6 +14564,9 @@
   - 
     name: "Yukon Gold"
     hex: "#826a21"
+  - 
+    name: "Yule Tree"
+    hex: "#66b032"
   - 
     name: "Yuma"
     hex: "#c7b882"
