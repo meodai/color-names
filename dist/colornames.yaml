@@ -699,6 +699,9 @@
     name: "Aurora"
     hex: "#eddd59"
   - 
+    name: "Aurora Green"
+    hex: "#6adc99"
+  - 
     name: "Aurora Pink"
     hex: "#e881a6"
   - 
@@ -761,9 +764,6 @@
   - 
     name: "Azure"
     hex: "#007fff"
-  - 
-    name: "Azure (Web Color)"
-    hex: "#f0ffff"
   - 
     name: "Azure Blue"
     hex: "#4d91c6"
@@ -1170,6 +1170,9 @@
     name: "Black Haze"
     hex: "#e0ded7"
   - 
+    name: "Black Hole"
+    hex: "#010203"
+  - 
     name: "Black Ink"
     hex: "#44413c"
   - 
@@ -1223,6 +1226,9 @@
   - 
     name: "Blackberry Cordial"
     hex: "#3f2a47"
+  - 
+    name: "Blackberry Pie"
+    hex: "#323f75"
   - 
     name: "Blackberry Wine"
     hex: "#4d3246"
@@ -1293,6 +1299,9 @@
     name: "Blond"
     hex: "#faf0be"
   - 
+    name: "Blood Thorn"
+    hex: "#b03060"
+  - 
     name: "Blooming Dahlia"
     hex: "#eb9687"
   - 
@@ -1302,23 +1311,8 @@
     name: "Blue"
     hex: "#0000ff"
   - 
-    name: "Blue (Crayola)"
-    hex: "#1f75ff"
-  - 
     name: "Blue (Munsell)"
     hex: "#0093af"
-  - 
-    name: "Blue (NCS)"
-    hex: "#0087bd"
-  - 
-    name: "Blue (Pantone)"
-    hex: "#0018a8"
-  - 
-    name: "Blue (Pigment)"
-    hex: "#339"
-  - 
-    name: "Blue (RYB)"
-    hex: "#0247fe"
   - 
     name: "Blue Ashes"
     hex: "#3b5f78"
@@ -1529,6 +1523,9 @@
   - 
     name: "Blue-Violet"
     hex: "#8a2be2"
+  - 
+    name: "Bluebell"
+    hex: "#333399"
   - 
     name: "Blueberry"
     hex: "#0433ff"
@@ -1788,6 +1785,9 @@
     name: "Bright Rose"
     hex: "#c51959"
   - 
+    name: "Bright Scarlet"
+    hex: "#fc0e34"
+  - 
     name: "Bright Sea Green"
     hex: "#9fe2bf"
   - 
@@ -1884,9 +1884,6 @@
     name: "Brown"
     hex: "#a52a2a"
   - 
-    name: "Brown (Traditional)"
-    hex: "#964b00"
-  - 
     name: "Brown Bramble"
     hex: "#53331e"
   - 
@@ -1925,6 +1922,9 @@
   - 
     name: "Brownie"
     hex: "#8f7265"
+  - 
+    name: "Brownie Brown"
+    hex: "#964b00"
   - 
     name: "Brunette"
     hex: "#664238"
@@ -3675,6 +3675,9 @@
     name: "Dark Forest"
     hex: "#556962"
   - 
+    name: "Dark Galaxy"
+    hex: "#0018a8"
+  - 
     name: "Dark Goldenrod"
     hex: "#b8860b"
   - 
@@ -4076,6 +4079,9 @@
   - 
     name: "Deep Sea"
     hex: "#167e65"
+  - 
+    name: "Deep Sea Blue"
+    hex: "#002366"
   - 
     name: "Deep Sea Coral"
     hex: "#d9615b"
@@ -5169,6 +5175,9 @@
     name: "Forget Me Not"
     hex: "#fdefdb"
   - 
+    name: "Forgetme Not"
+    hex: "#0087bd"
+  - 
     name: "Fossil"
     hex: "#806f63"
   - 
@@ -5180,6 +5189,9 @@
   - 
     name: "Foxglove"
     hex: "#b98391"
+  - 
+    name: "Foxy Fuchsia"
+    hex: "#9f00c5"
   - 
     name: "Fragrant Lilac"
     hex: "#ceadbe"
@@ -5276,6 +5288,9 @@
   - 
     name: "Fresh Auburn"
     hex: "#a52a24"
+  - 
+    name: "Fresh Cut"
+    hex: "#f2003c"
   - 
     name: "Fresh Eggplant"
     hex: "#f9006f"
@@ -5936,6 +5951,9 @@
   - 
     name: "Green House"
     hex: "#3e6334"
+  - 
+    name: "Green Juice"
+    hex: "#3bde39"
   - 
     name: "Green Kelp"
     hex: "#393d2a"
@@ -7011,6 +7029,9 @@
     name: "Kingfisher Daisy"
     hex: "#583580"
   - 
+    name: "Kirby Pink"
+    hex: "#d74894"
+  - 
     name: "Kiwi"
     hex: "#7aab55"
   - 
@@ -7800,6 +7821,12 @@
     name: "Magenta-Pink"
     hex: "#cc338b"
   - 
+    name: "Magic Fountain"
+    hex: "#1f75ff"
+  - 
+    name: "Magic Ink"
+    hex: "#0247fe"
+  - 
     name: "Magic Mint"
     hex: "#aaf0d1"
   - 
@@ -7982,9 +8009,6 @@
   - 
     name: "Maroon (HTML/CSS)"
     hex: "#800000"
-  - 
-    name: "Maroon (X11)"
-    hex: "#b03060"
   - 
     name: "Maroon Flush"
     hex: "#c32249"
@@ -8390,6 +8414,9 @@
   - 
     name: "Midnight Navy"
     hex: "#34414e"
+  - 
+    name: "Midnight Purple"
+    hex: "#a020f0"
   - 
     name: "Mihtril"
     hex: "#878787"
@@ -9321,6 +9348,9 @@
     name: "Orange Soda"
     hex: "#fa5b3d"
   - 
+    name: "Orange Tea Rose"
+    hex: "#ff8379"
+  - 
     name: "Orange Tiger"
     hex: "#f96714"
   - 
@@ -10200,9 +10230,6 @@
     name: "Pink"
     hex: "#ffc0cb"
   - 
-    name: "Pink (Pantone)"
-    hex: "#d74894"
-  - 
     name: "Pink Carnation"
     hex: "#ed7a9e"
   - 
@@ -10428,6 +10455,9 @@
     name: "Popcorn"
     hex: "#f8de8d"
   - 
+    name: "Poppy Power"
+    hex: "#ed2939"
+  - 
     name: "Poppy Red"
     hex: "#dc343b"
   - 
@@ -10521,6 +10551,9 @@
     name: "Powder Puff"
     hex: "#f3e0d6"
   - 
+    name: "Prairie Green"
+    hex: "#50a400"
+  - 
     name: "Prairie Sand"
     hex: "#883c32"
   - 
@@ -10550,6 +10583,9 @@
   - 
     name: "Princess Blue"
     hex: "#00539c"
+  - 
+    name: "Princess Bride"
+    hex: "#f4c1c1"
   - 
     name: "Princess Perfume"
     hex: "#ff85cf"
@@ -10649,12 +10685,6 @@
   - 
     name: "Purple"
     hex: "#800080"
-  - 
-    name: "Purple (Munsell)"
-    hex: "#9f00c5"
-  - 
-    name: "Purple (X11)"
-    hex: "#a020f0"
   - 
     name: "Purple Ash"
     hex: "#8f8395"
@@ -10941,18 +10971,6 @@
     name: "Red (Crayola)"
     hex: "#ee204d"
   - 
-    name: "Red (Munsell)"
-    hex: "#f2003c"
-  - 
-    name: "Red (NCS)"
-    hex: "#c40233"
-  - 
-    name: "Red (Pantone)"
-    hex: "#ed2939"
-  - 
-    name: "Red (RYB)"
-    hex: "#fe2712"
-  - 
     name: "Red Alert"
     hex: "#ff0101"
   - 
@@ -10988,6 +11006,9 @@
   - 
     name: "Red Ochre"
     hex: "#913832"
+  - 
+    name: "Red October"
+    hex: "#fe2712"
   - 
     name: "Red Orange"
     hex: "#ff3f34"
@@ -11067,9 +11088,6 @@
     name: "Regatta"
     hex: "#487ab7"
   - 
-    name: "Regent Gray"
-    hex: "#86949f"
-  - 
     name: "Regent Grey"
     hex: "#798488"
   - 
@@ -11093,9 +11111,6 @@
   - 
     name: "Resolution Blue"
     hex: "#002387"
-  - 
-    name: "Revolution Blue"
-    hex: "#323f75"
   - 
     name: "Revolver"
     hex: "#37363f"
@@ -11129,9 +11144,6 @@
   - 
     name: "Rich Black (FOGRA29)"
     hex: "#010b13"
-  - 
-    name: "Rich Black (FOGRA39)"
-    hex: "#010203"
   - 
     name: "Rich Blue"
     hex: "#5959ab"
@@ -11390,9 +11402,6 @@
   - 
     name: "Royal Blue"
     hex: "#4169e1"
-  - 
-    name: "Royal Blue (Traditional)"
-    hex: "#002366"
   - 
     name: "Royal Fuchsia"
     hex: "#ca2c92"
@@ -11733,9 +11742,6 @@
     name: "Scarlet"
     hex: "#ff2400"
   - 
-    name: "Scarlet (Crayola)"
-    hex: "#fc0e34"
-  - 
     name: "Scarlet Gum"
     hex: "#4a2d57"
   - 
@@ -11828,6 +11834,9 @@
   - 
     name: "Sea Serpent"
     hex: "#4bc7cf"
+  - 
+    name: "Sea Spray"
+    hex: "#f0ffff"
   - 
     name: "Sea Spray"
     hex: "#717e6f"
@@ -12039,6 +12048,9 @@
     name: "Shiraz"
     hex: "#842833"
   - 
+    name: "Shire Green"
+    hex: "#68e52f"
+  - 
     name: "Shitake"
     hex: "#736253"
   - 
@@ -12047,9 +12059,6 @@
   - 
     name: "Shocking Pink"
     hex: "#fc0fc0"
-  - 
-    name: "Shocking Pink (Crayola)"
-    hex: "#ff6ffc"
   - 
     name: "Shopping Bag"
     hex: "#5a4743"
@@ -12714,6 +12723,9 @@
     name: "Strawberry Cream"
     hex: "#f4c3c4"
   - 
+    name: "Strawberry Frosting"
+    hex: "#ff6ffc"
+  - 
     name: "Strawberry Ice"
     hex: "#e78b90"
   - 
@@ -12896,6 +12908,9 @@
   - 
     name: "Supernova"
     hex: "#ffb437"
+  - 
+    name: "Supreme Gray"
+    hex: "#86949f"
   - 
     name: "Surf"
     hex: "#b8d4bb"
@@ -13133,12 +13148,6 @@
   - 
     name: "Tea Rose"
     hex: "#f883c2"
-  - 
-    name: "Tea Rose (Orange)"
-    hex: "#ff8379"
-  - 
-    name: "Tea Rose (Rose)"
-    hex: "#f4c1c1"
   - 
     name: "Teaberry"
     hex: "#dc3855"
@@ -13736,6 +13745,9 @@
   - 
     name: "Vallarta Blue"
     hex: "#30658e"
+  - 
+    name: "Vampire Bite"
+    hex: "#c40233"
   - 
     name: "Van Cleef"
     hex: "#523936"

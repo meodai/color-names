@@ -232,6 +232,7 @@ Aura Orange,#b4262a
 Aureolin,#fdee00
 AuroMetalSaurus,#6e7f80
 Aurora,#eddd59
+Aurora Green,#6adc99
 Aurora Pink,#e881a6
 Aurora Red,#b93a32
 Australian Mint,#eff8aa
@@ -253,7 +254,6 @@ Azalea Pink,#e96a97
 Aztec,#293432
 Aztec Gold,#c39953
 Azure,#007fff
-Azure (Web Color),#f0ffff
 Azure Blue,#4d91c6
 Azure Mist,#f0fff1
 Azure Radiance,#007f1f
@@ -389,6 +389,7 @@ Black Coffee,#3b302f
 Black Coral,#54626f
 Black Forest,#2c3227
 Black Haze,#e0ded7
+Black Hole,#010203
 Black Ink,#44413c
 Black Iris,#2b3042
 Black Leather Jacket,#253529
@@ -407,6 +408,7 @@ Black Squeeze,#e5e6df
 Black White,#e5e4db
 Blackberry,#43182f
 Blackberry Cordial,#3f2a47
+Blackberry Pie,#323f75
 Blackberry Wine,#4d3246
 Blackcurrant,#2e183b
 Blackened Pearl,#4d4b50
@@ -430,15 +432,11 @@ Bleu De France,#318ce7
 Blithe,#0084bd
 Blizzard Blue,#a3e3ed
 Blond,#faf0be
+Blood Thorn,#b03060
 Blooming Dahlia,#eb9687
 Blossom,#dfb1b6
 Blue,#0000ff
-Blue (Crayola),#1f75ff
 Blue (Munsell),#0093af
-Blue (NCS),#0087bd
-Blue (Pantone),#0018a8
-Blue (Pigment),#339
-Blue (RYB),#0247fe
 Blue Ashes,#3b5f78
 Blue Aster,#0077b3
 Blue Atoll,#00b1d2
@@ -509,6 +507,7 @@ Blue-Gray,#6699cc
 Blue-Green,#0d98ba
 Blue-Magenta Violet,#553592
 Blue-Violet,#8a2be2
+Bluebell,#333399
 Blueberry,#0433ff
 Bluebird,#009dae
 Bluebonnet,#1c1cf0
@@ -595,6 +594,7 @@ Bright Orange,#ff7034
 Bright Pink,#ff007e
 Bright Red,#922a31
 Bright Rose,#c51959
+Bright Scarlet,#fc0e34
 Bright Sea Green,#9fe2bf
 Bright Sienna,#d68a59
 Bright Sun,#ecbd2c
@@ -627,7 +627,6 @@ Brook Green,#afddcc
 Broom,#eecc24
 Brother Blue,#b0b7c6
 Brown,#a52a2a
-Brown (Traditional),#964b00
 Brown Bramble,#53331e
 Brown Derby,#594537
 Brown Patina,#834f3d
@@ -641,6 +640,7 @@ Brown Wood,#b4674d
 Brown Yellow,#cc9966
 Brown-Nose,#6b4323
 Brownie,#8f7265
+Brownie Brown,#964b00
 Brunette,#664238
 Brunnera Blue,#9ba9ca
 Brunswick Green,#1b4d3e
@@ -1224,6 +1224,7 @@ Dark Ebony,#3c2005
 Dark Electric Blue,#516678
 Dark Fern,#0a480d
 Dark Forest,#556962
+Dark Galaxy,#0018a8
 Dark Goldenrod,#b8860b
 Dark Gray,#a9a8a8
 Dark Green,#013220
@@ -1358,6 +1359,7 @@ Deep Ruby,#843f5b
 Deep Saffron,#f93
 Deep Sapphire,#082599
 Deep Sea,#167e65
+Deep Sea Blue,#002366
 Deep Sea Coral,#d9615b
 Deep Sea Green,#095859
 Deep Sky Blue,#00bffe
@@ -1722,10 +1724,12 @@ Forest Shade,#91ac80
 Forever Blue,#899bb8
 Forged Iron,#48464a
 Forget Me Not,#fdefdb
+Forgetme Not,#0087bd
 Fossil,#806f63
 Fountain Blue,#65adb2
 Four Leaf Clover,#616652
 Foxglove,#b98391
+Foxy Fuchsia,#9f00c5
 Fragrant Lilac,#ceadbe
 Frangipani,#ffd7a0
 Frappe,#d1b7a0
@@ -1758,6 +1762,7 @@ French Wine,#ac1e44
 Fresh Acorn,#d2693e
 Fresh Air,#a6e7ff
 Fresh Auburn,#a52a24
+Fresh Cut,#f2003c
 Fresh Eggplant,#f9006f
 Fresh Gingerbread ,#d3691f
 Fresh Granny Smith,#7ff217
@@ -1978,6 +1983,7 @@ Green Gables,#324241
 Green Glow,#b0c965
 Green Haze,#01a368
 Green House,#3e6334
+Green Juice,#3bde39
 Green Kelp,#393d2a
 Green Leaf,#526b2d
 Green Lily,#c1cec1
@@ -2336,6 +2342,7 @@ Killarney,#49764f
 Kimberly,#695d87
 Kind Magenta,#ff1dce
 Kingfisher Daisy,#583580
+Kirby Pink,#d74894
 Kiwi,#7aab55
 Knight Rider,#0f0707
 Kobe,#882d17
@@ -2599,6 +2606,8 @@ Magenta (Process),#ff0090
 Magenta Haze,#9d446e
 Magenta Purple,#6b264b
 Magenta-Pink,#cc338b
+Magic Fountain,#1f75ff
+Magic Ink,#0247fe
 Magic Mint,#aaf0d1
 Magic Potion,#ff4466
 Magnesium,#c1c2c3
@@ -2660,7 +2669,6 @@ Marmalade,#c16512
 Maroon,#800001
 Maroon (Crayola),#c22147
 Maroon (HTML/CSS),#800000
-Maroon (X11),#b03060
 Maroon Flush,#c32249
 Maroon Light,#bf3160
 Maroon Oak,#520c17
@@ -2796,6 +2804,7 @@ Midnight Express,#21263a
 Midnight Green (Eagle Green),#004953
 Midnight Moss,#242e28
 Midnight Navy,#34414e
+Midnight Purple,#a020f0
 Mihtril,#878787
 Mikado,#3f3623
 Mikado Yellow,#ffc40c
@@ -3106,6 +3115,7 @@ Orange Popsicle,#ff7913
 Orange Roughy,#a85335
 Orange Rust,#c25a3c
 Orange Soda,#fa5b3d
+Orange Tea Rose ,#ff8379
 Orange Tiger,#f96714
 Orange White,#eae3cd
 Orange-Red,#ff4500
@@ -3399,7 +3409,6 @@ Pineapple Slice,#e7d391
 Pinecone,#61473b
 Pineneedle,#334d41
 Pink,#ffc0cb
-Pink (Pantone),#d74894
 Pink Carnation,#ed7a9e
 Pink Dogwood,#f7d1d1
 Pink Flambe,#d3507a
@@ -3475,6 +3484,7 @@ Pont Moss,#5f9228
 Pool Blue,#67bcb3
 Pool Green,#00af9d
 Popcorn,#f8de8d
+Poppy Power,#ed2939
 Poppy Red,#dc343b
 Popstar,#be4f62
 Porcelain,#dddcdb
@@ -3506,6 +3516,7 @@ Powder Ash,#bcc9c2
 Powder Blue,#b0e0e6
 Powder Pink,#ecb2b3
 Powder Puff,#f3e0d6
+Prairie Green,#50a400
 Prairie Sand,#883c32
 Prairie Sunset,#ffbb9e
 Praline,#ad8b75
@@ -3516,6 +3527,7 @@ Primrose,#e4de8e
 Primrose Pink,#eed4d9
 Primrose Yellow,#f6d155
 Princess Blue,#00539c
+Princess Bride,#f4c1c1
 Princess Perfume,#ff85cf
 Princeton Orange,#ff8f00
 Prism Pink,#f0a1bf
@@ -3549,8 +3561,6 @@ Pure Cashmere,#ada396
 Pureed Pumpkin,#c34121
 Puritan Gray,#a8b0ae
 Purple,#800080
-Purple (Munsell),#9f00c5
-Purple (X11),#a020f0
 Purple Ash,#8f8395
 Purple Corallite,#5a4e8f
 Purple Dove,#98878c
@@ -3646,10 +3656,6 @@ Rebecca Purple,#663399
 Rebel,#453430
 Red,#ff0000
 Red (Crayola),#ee204d
-Red (Munsell),#f2003c
-Red (NCS),#c40233
-Red (Pantone),#ed2939
-Red (RYB),#fe2712
 Red Alert,#ff0101
 Red Bean,#3d0c02
 Red Beech,#7b3801
@@ -3662,6 +3668,7 @@ Red Devil,#860111
 Red Devil's Lip,#662a2c
 Red Mahogany,#60373d
 Red Ochre,#913832
+Red October,#fe2712
 Red Orange,#ff3f34
 Red Oxide,#5d1f1e
 Red Pear,#7b3539
@@ -3688,7 +3695,6 @@ Regal Blue,#203f58
 Regal Orchid,#a98baf
 Regalia,#522d80
 Regatta,#487ab7
-Regent Gray,#86949f
 Regent Grey,#798488
 Regent St Blue,#a0cdd9
 Registration Black,#000100
@@ -3697,7 +3703,6 @@ Renaissance Rose,#865560
 Reno Sand,#b26e33
 Reseda,#a1ad92
 Resolution Blue,#002387
-Revolution Blue,#323f75
 Revolver,#37363f
 Rhapsody,#9f86aa
 Rhino,#3d4653
@@ -3709,7 +3714,6 @@ Rice Cake,#efecde
 Rice Flower,#eff5d1
 Rich Black,#004040
 Rich Black (FOGRA29),#010b13
-Rich Black (FOGRA39),#010203
 Rich Blue,#5959ab
 Rich Brilliant Lavender,#f1a7fe
 Rich Carmine,#d70041
@@ -3796,7 +3800,6 @@ Rouge,#a94064
 Rouge Red,#e24666
 Royal Azure,#0038a8
 Royal Blue,#4169e1
-Royal Blue (Traditional),#002366
 Royal Fuchsia,#ca2c92
 Royal Heath,#b54b73
 Royal Lavender,#7851a9
@@ -3910,7 +3913,6 @@ Scampi,#6f63a0
 Scandal,#add9d1
 Scarab,#23312d
 Scarlet,#ff2400
-Scarlet (Crayola),#fc0e34
 Scarlet Gum,#4a2d57
 Scarlet Ibis,#f45520
 Scarlet Sage,#9d202f
@@ -3942,6 +3944,7 @@ Sea Pine,#4c6969
 Sea Pink,#db817e
 Sea Salt,#f1e6de
 Sea Serpent,#4bc7cf
+Sea Spray,#f0ffff
 Sea Spray,#717e6f
 Sea Turtle,#5e5749
 Seacrest,#bfd1b3
@@ -4012,10 +4015,10 @@ Shiny Shamrock,#5fa778
 Ship Cove,#7988ab
 Ship Gray,#3e3a44
 Shiraz,#842833
+Shire Green,#68e52f
 Shitake,#736253
 Shocking,#e899be
 Shocking Pink,#fc0fc0
-Shocking Pink (Crayola),#ff6ffc
 Shopping Bag,#5a4743
 Shrimp,#e29a86
 Shrinking Violet,#f4e1e6
@@ -4237,6 +4240,7 @@ Stratosphere,#9ec1cc
 Straw,#e4d96f
 Strawberry,#ff2f92
 Strawberry Cream,#f4c3c4
+Strawberry Frosting,#ff6ffc
 Strawberry Ice,#e78b90
 Strawberry Pink,#f57f8e
 Strawberry Shake,#f78fa7
@@ -4298,6 +4302,7 @@ Super Lemon,#e4bf45
 Super Man Red,#ff1122
 Super Pink,#ce6ba4
 Supernova,#ffb437
+Supreme Gray,#86949f
 Surf,#b8d4bb
 Surf Crest,#c3d6bd
 Surf Spray,#b4c8c2
@@ -4377,8 +4382,6 @@ Te Papa Green,#2b4b40
 Tea,#bfb5a2
 Tea Green,#d0f0c0
 Tea Rose,#f883c2
-Tea Rose (Orange),#ff8379
-Tea Rose (Rose),#f4c1c1
 Teaberry,#dc3855
 Teak,#ab8953
 Teal,#008080
@@ -4578,6 +4581,7 @@ Valerian,#9f7a93
 Valhalla,#2a2b41
 Valiant Poppy,#bc322c
 Vallarta Blue,#30658e
+Vampire Bite,#c40233
 Van Cleef,#523936
 Van Dyke Brown,#664228
 Vanilla,#f3e5ab
