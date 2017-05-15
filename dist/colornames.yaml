@@ -1,5 +1,8 @@
 ---
   - 
+    name: "400XT Film"
+    hex: "#d2d2c0"
+  - 
     name: "8Bit Eggplant"
     hex: "#990066"
   - 
@@ -81,11 +84,11 @@
     name: "Afternoon Sky"
     hex: "#87ceeb"
   - 
-    name: "Agate Gray"
-    hex: "#b1b09f"
-  - 
     name: "Agate Green"
     hex: "#599f99"
+  - 
+    name: "Agate Grey"
+    hex: "#b1b09f"
   - 
     name: "Agave Green"
     hex: "#6b7169"
@@ -354,7 +357,7 @@
     name: "Anthracite"
     hex: "#28282d"
   - 
-    name: "Anti Rainbow Gray"
+    name: "Anti Rainbow Grey"
     hex: "#bebdbc"
   - 
     name: "Anti-Flash White"
@@ -474,11 +477,11 @@
     name: "Aqua Glass"
     hex: "#d2e8e0"
   - 
-    name: "Aqua Gray"
-    hex: "#a5b2aa"
-  - 
     name: "Aqua Green"
     hex: "#00b89f"
+  - 
+    name: "Aqua Grey"
+    hex: "#a5b2aa"
   - 
     name: "Aqua Haze"
     hex: "#d9ddd5"
@@ -597,7 +600,7 @@
     name: "Ash"
     hex: "#bebaa7"
   - 
-    name: "Ash Gray"
+    name: "Ash Grey"
     hex: "#b2beb5"
   - 
     name: "Ash Rose"
@@ -644,9 +647,6 @@
   - 
     name: "Astronaut Blue"
     hex: "#214559"
-  - 
-    name: "Athens Gray"
-    hex: "#eef0f3"
   - 
     name: "Athens Grey"
     hex: "#dcdddd"
@@ -927,11 +927,8 @@
     name: "Battery Charged Blue"
     hex: "#1dacd4"
   - 
-    name: "Battleship Gray"
-    hex: "#828f72"
-  - 
     name: "Battleship Grey"
-    hex: "#848481"
+    hex: "#828f72"
   - 
     name: "Bay"
     hex: "#bae5d6"
@@ -1026,10 +1023,10 @@
     name: "Bermuda"
     hex: "#86d2c1"
   - 
-    name: "Bermuda Gray"
+    name: "Bermuda Grey"
     hex: "#6b8ba2"
   - 
-    name: "Bermuda Grey"
+    name: "Bermuda Triangle"
     hex: "#6f8c9f"
   - 
     name: "Berry Conserve"
@@ -1392,11 +1389,11 @@
     name: "Blue Grass"
     hex: "#007c7a"
   - 
-    name: "Blue Gray"
-    hex: "#69c"
-  - 
     name: "Blue Green"
     hex: "#199ebd"
+  - 
+    name: "Blue Grey"
+    hex: "#6699cc"
   - 
     name: "Blue Grotto"
     hex: "#5cacce"
@@ -1512,11 +1509,11 @@
     name: "Blue Zodiac"
     hex: "#3c4354"
   - 
-    name: "Blue-Gray"
-    hex: "#6699cc"
-  - 
     name: "Blue-Green"
     hex: "#0d98ba"
+  - 
+    name: "Blue-Grey"
+    hex: "#6699cc"
   - 
     name: "Blue-Magenta Violet"
     hex: "#553592"
@@ -1578,7 +1575,7 @@
     name: "Bok Choy"
     hex: "#bccab3"
   - 
-    name: "Bokara Gray"
+    name: "Bokara Grey"
     hex: "#2a2725"
   - 
     name: "Bole"
@@ -1601,6 +1598,9 @@
   - 
     name: "Bone Brown"
     hex: "#9d7446"
+  - 
+    name: "Bone Dust"
+    hex: "#e7ece6"
   - 
     name: "Bone White"
     hex: "#d7d0c0"
@@ -1731,14 +1731,17 @@
     name: "Bright Gold"
     hex: "#cf9f52"
   - 
-    name: "Bright Gray"
-    hex: "#57595d"
-  - 
     name: "Bright Greek"
     hex: "#3844f4"
   - 
     name: "Bright Green"
     hex: "#6f0"
+  - 
+    name: "Bright Grey"
+    hex: "#57595d"
+  - 
+    name: "Bright Indigo"
+    hex: "#6f00fe"
   - 
     name: "Bright Khaki"
     hex: "#f1e78c"
@@ -1812,7 +1815,7 @@
     name: "Bright White"
     hex: "#f4f5f0"
   - 
-    name: "Bright Yellow (Crayola)"
+    name: "Bright Yellow"
     hex: "#ffaa1d"
   - 
     name: "Brilliant Azure"
@@ -1844,6 +1847,9 @@
   - 
     name: "British Rose"
     hex: "#f4c8db"
+  - 
+    name: "British Shorthair"
+    hex: "#5f6672"
   - 
     name: "Brittany Blue"
     hex: "#4c7e86"
@@ -2457,7 +2463,7 @@
     name: "Castleton Green"
     hex: "#00564f"
   - 
-    name: "Castor Gray"
+    name: "Castor Grey"
     hex: "#646762"
   - 
     name: "Castro"
@@ -2530,9 +2536,6 @@
     hex: "#c5cc7b"
   - 
     name: "Celeste"
-    hex: "#d2d2c0"
-  - 
-    name: "Celeste (Colour)"
     hex: "#b2ffff"
   - 
     name: "Celestial"
@@ -2640,7 +2643,7 @@
     name: "Charcoal"
     hex: "#36454f"
   - 
-    name: "Charcoal Gray"
+    name: "Charcoal Grey"
     hex: "#6c6868"
   - 
     name: "Chardon"
@@ -2676,11 +2679,14 @@
     name: "Chartreuse Yellow"
     hex: "#deff00"
   - 
-    name: "Chateau Gray"
-    hex: "#bbb1a8"
+    name: "Chateau de Chillon"
+    hex: "#a2aab3"
   - 
     name: "Chateau Green"
     hex: "#419f59"
+  - 
+    name: "Chateau Grey"
+    hex: "#bbb1a8"
   - 
     name: "Chateau Rose"
     hex: "#d2738f"
@@ -2821,12 +2827,6 @@
     hex: "#4aff00"
   - 
     name: "Chocolate"
-    hex: "#df691e"
-  - 
-    name: "Chocolate (Traditional)"
-    hex: "#7b3f00"
-  - 
-    name: "Chocolate (Web)"
     hex: "#d2691e"
   - 
     name: "Chocolate Brown"
@@ -2840,6 +2840,9 @@
   - 
     name: "Chocolate Lab"
     hex: "#5c3e35"
+  - 
+    name: "Chocolate Milk"
+    hex: "#df691e"
   - 
     name: "Chocolate Plum"
     hex: "#3c2d2e"
@@ -2991,7 +2994,7 @@
     name: "Cloud Dancer"
     hex: "#f0eee9"
   - 
-    name: "Cloud Gray"
+    name: "Cloud Grey"
     hex: "#b7a9ac"
   - 
     name: "Cloud Pink"
@@ -3051,7 +3054,7 @@
     name: "Cocoon"
     hex: "#c9b27c"
   - 
-    name: "Cod Gray"
+    name: "Cod Grey"
     hex: "#2d3032"
   - 
     name: "Coffee"
@@ -3165,9 +3168,6 @@
     name: "Copper"
     hex: "#b87333"
   - 
-    name: "Copper (Crayola)"
-    hex: "#db8b67"
-  - 
     name: "Copper Brown"
     hex: "#9a6051"
   - 
@@ -3194,6 +3194,9 @@
   - 
     name: "Copper Tan"
     hex: "#de8e65"
+  - 
+    name: "Copper Wire"
+    hex: "#db8b67"
   - 
     name: "Copperfield"
     hex: "#da8a88"
@@ -3269,6 +3272,9 @@
   - 
     name: "Cornell Red"
     hex: "#b31b11"
+  - 
+    name: "Cornflake"
+    hex: "#f0e68c"
   - 
     name: "Cornflower"
     hex: "#93cce7"
@@ -3474,7 +3480,7 @@
     name: "Crystal Blue"
     hex: "#a1c8db"
   - 
-    name: "Crystal Gray"
+    name: "Crystal Grey"
     hex: "#d7cbc4"
   - 
     name: "Crystal Pink"
@@ -3494,6 +3500,9 @@
   - 
     name: "Cuban Sand"
     hex: "#c1a68d"
+  - 
+    name: "Cucumber"
+    hex: "#006400"
   - 
     name: "Cultured"
     hex: "#f6f4f5"
@@ -3594,6 +3603,9 @@
     name: "Damson"
     hex: "#854c65"
   - 
+    name: "Damson Plum"
+    hex: "#dda0dd"
+  - 
     name: "Dandelion"
     hex: "#f0e130"
   - 
@@ -3603,13 +3615,13 @@
     name: "Daphne"
     hex: "#0f5f9a"
   - 
-    name: "Dapple Gray"
+    name: "Dapple Grey"
     hex: "#9c9ba7"
   - 
     name: "Dark Blue"
     hex: "#00008b"
   - 
-    name: "Dark Blue-Gray"
+    name: "Dark Blue-Grey"
     hex: "#666699"
   - 
     name: "Dark Brown"
@@ -3681,19 +3693,16 @@
     name: "Dark Goldenrod"
     hex: "#b8860b"
   - 
-    name: "Dark Gray"
-    hex: "#a9a8a8"
-  - 
     name: "Dark Green"
     hex: "#013220"
-  - 
-    name: "Dark Green (X11)"
-    hex: "#006400"
   - 
     name: "Dark Green Copper"
     hex: "#4a766e"
   - 
-    name: "Dark Gull Gray"
+    name: "Dark Grey"
+    hex: "#a9a8a8"
+  - 
+    name: "Dark Gull Grey"
     hex: "#625d5d"
   - 
     name: "Dark Gunmetal"
@@ -3723,13 +3732,10 @@
     name: "Dark Liver"
     hex: "#524b4c"
   - 
-    name: "Dark Liver (Horses)"
-    hex: "#543d37"
-  - 
     name: "Dark Magenta"
     hex: "#8b008b"
   - 
-    name: "Dark Medium Gray"
+    name: "Dark Medium Grey"
     hex: "#a8a9a8"
   - 
     name: "Dark Midnight Blue"
@@ -3822,7 +3828,7 @@
     name: "Dark Slate Blue"
     hex: "#483d8b"
   - 
-    name: "Dark Slate Gray"
+    name: "Dark Slate Grey"
     hex: "#2f4f4f"
   - 
     name: "Dark Spring Green"
@@ -3869,9 +3875,6 @@
   - 
     name: "Dartmouth Green"
     hex: "#00703c"
-  - 
-    name: "Davy's Gray"
-    hex: "#555"
   - 
     name: "Davy's Grey"
     hex: "#555555"
@@ -4212,6 +4215,12 @@
     name: "Desire"
     hex: "#ea3c53"
   - 
+    name: "Detective Coat"
+    hex: "#8b8685"
+  - 
+    name: "Devon Rex"
+    hex: "#717e6f"
+  - 
     name: "Dew"
     hex: "#e7f2e9"
   - 
@@ -4239,7 +4248,7 @@
     name: "Dill"
     hex: "#6f7755"
   - 
-    name: "Dim Gray"
+    name: "Dim Grey"
     hex: "#696969"
   - 
     name: "Dingley"
@@ -4290,7 +4299,7 @@
     name: "Dolphin"
     hex: "#6a6873"
   - 
-    name: "Dolphin Gray"
+    name: "Dolphin Grey"
     hex: "#828e74"
   - 
     name: "Domino"
@@ -4320,11 +4329,8 @@
     name: "Dove"
     hex: "#b3ada7"
   - 
-    name: "Dove Gray"
-    hex: "#6d6c6c"
-  - 
     name: "Dove Grey"
-    hex: "#777672"
+    hex: "#6d6c6c"
   - 
     name: "Downriver"
     hex: "#092256"
@@ -4376,6 +4382,9 @@
   - 
     name: "Drover"
     hex: "#fbeb9b"
+  - 
+    name: "Dry Mud"
+    hex: "#777672"
   - 
     name: "Dry Rose"
     hex: "#c02e4c"
@@ -4445,9 +4454,6 @@
   - 
     name: "Dusty Coral"
     hex: "#d29b83"
-  - 
-    name: "Dusty Gray"
-    hex: "#a8989b"
   - 
     name: "Dusty Grey"
     hex: "#ac9b9b"
@@ -4641,7 +4647,7 @@
     name: "Elephant"
     hex: "#243640"
   - 
-    name: "Elephant Gray"
+    name: "Elephant Grey"
     hex: "#95918c"
   - 
     name: "Elephant Skin"
@@ -4887,7 +4893,7 @@
     name: "Fantasy"
     hex: "#f2e6dd"
   - 
-    name: "Far Away Gray"
+    name: "Far Away Grey"
     hex: "#2d383a"
   - 
     name: "Fashion Fuchsia"
@@ -4899,7 +4905,7 @@
     name: "Fawn"
     hex: "#e5aa70"
   - 
-    name: "Feather Gray"
+    name: "Feather Grey"
     hex: "#b8ad9e"
   - 
     name: "Federal Blue"
@@ -5067,7 +5073,7 @@
     name: "Flint"
     hex: "#716e61"
   - 
-    name: "Flint Gray"
+    name: "Flint Grey"
     hex: "#a09c98"
   - 
     name: "Flint Stone"
@@ -5121,9 +5127,6 @@
     name: "Foggy Dew"
     hex: "#d1d5d0"
   - 
-    name: "Foggy Gray"
-    hex: "#cbcab6"
-  - 
     name: "Foggy Grey"
     hex: "#a7a69d"
   - 
@@ -5133,7 +5136,7 @@
     name: "Foliage Green"
     hex: "#3e6f58"
   - 
-    name: "Folkstone Gray"
+    name: "Folkstone Grey"
     hex: "#626879"
   - 
     name: "Folly"
@@ -5153,12 +5156,6 @@
   - 
     name: "Forest Green"
     hex: "#228b22"
-  - 
-    name: "Forest Green"
-    hex: "#6dae81"
-  - 
-    name: "Forest Green (Traditional)"
-    hex: "#014421"
   - 
     name: "Forest Night"
     hex: "#434237"
@@ -5231,9 +5228,6 @@
   - 
     name: "French Fuchsia"
     hex: "#fd3f92"
-  - 
-    name: "French Gray"
-    hex: "#bdbdc6"
   - 
     name: "French Grey"
     hex: "#bfbdc1"
@@ -5310,11 +5304,8 @@
     name: "Friar Brown"
     hex: "#6e493a"
   - 
-    name: "Friar Gray"
-    hex: "#807e79"
-  - 
     name: "Friar Grey"
-    hex: "#86837a"
+    hex: "#807e79"
   - 
     name: "Fringy Flower"
     hex: "#b4e1bb"
@@ -5325,7 +5316,7 @@
     name: "Frost"
     hex: "#e1e4c5"
   - 
-    name: "Frost Gray"
+    name: "Frost Grey"
     hex: "#848283"
   - 
     name: "Frostbite"
@@ -5361,14 +5352,11 @@
     name: "Fuchsia"
     hex: "#c364c5"
   - 
-    name: "Fuchsia (Crayola)"
-    hex: "#c255c1"
-  - 
     name: "Fuchsia Blue"
     hex: "#7a58c1"
   - 
     name: "Fuchsia Pink"
-    hex: "#f7f"
+    hex: "#ff77ff"
   - 
     name: "Fuchsia Purple"
     hex: "#d33479"
@@ -5378,6 +5366,9 @@
   - 
     name: "Fuchsia Rose"
     hex: "#c74375"
+  - 
+    name: "Fuchsia Tint"
+    hex: "#c255c1"
   - 
     name: "Fudge"
     hex: "#493338"
@@ -5403,11 +5394,8 @@
     name: "Fungi"
     hex: "#8f8177"
   - 
-    name: "Fuscous Gray"
-    hex: "#54534d"
-  - 
     name: "Fuscous Grey"
-    hex: "#3c3b3c"
+    hex: "#54534d"
   - 
     name: "Fusion Coral"
     hex: "#ff8576"
@@ -5484,6 +5472,9 @@
     name: "Gentian Violet"
     hex: "#544275"
   - 
+    name: "Gentleman's Suit"
+    hex: "#c1becd"
+  - 
     name: "Georgia Peach"
     hex: "#f97272"
   - 
@@ -5505,7 +5496,7 @@
     name: "Ghost"
     hex: "#c0bfc7"
   - 
-    name: "Ghost Gray"
+    name: "Ghost Grey"
     hex: "#9c9b98"
   - 
     name: "Ghost White"
@@ -5559,7 +5550,7 @@
     name: "Glacier"
     hex: "#78b1bf"
   - 
-    name: "Glacier Gray"
+    name: "Glacier Grey"
     hex: "#c5c6c7"
   - 
     name: "Glade Green"
@@ -5778,11 +5769,11 @@
     name: "Granita"
     hex: "#a52350"
   - 
-    name: "Granite Gray"
-    hex: "#615e5f"
-  - 
     name: "Granite Green"
     hex: "#8b8265"
+  - 
+    name: "Granite Grey"
+    hex: "#615e5f"
   - 
     name: "Granny Apple"
     hex: "#c5e7cd"
@@ -5847,71 +5838,11 @@
     name: "Gravel"
     hex: "#4a4b46"
   - 
-    name: "Gray"
-    hex: "#808080"
+    name: "Gravel Dust"
+    hex: "#bab9a9"
   - 
-    name: "Gray (X11 Gray)"
-    hex: "#bebebe"
-  - 
-    name: "Gray Asparagus"
-    hex: "#465945"
-  - 
-    name: "Gray Blue"
-    hex: "#4d587a"
-  - 
-    name: "Gray Chateau"
-    hex: "#a2aab3"
-  - 
-    name: "Gray Dawn"
-    hex: "#bbc1cc"
-  - 
-    name: "Gray Flannel"
-    hex: "#848182"
-  - 
-    name: "Gray Green"
-    hex: "#a49a79"
-  - 
-    name: "Gray Lilac"
-    hex: "#d4cacd"
-  - 
-    name: "Gray Mist"
-    hex: "#99aeae"
-  - 
-    name: "Gray Morn"
-    hex: "#cabeb5"
-  - 
-    name: "Gray Nickel"
-    hex: "#c3c3bd"
-  - 
-    name: "Gray Nurse"
-    hex: "#e7ece6"
-  - 
-    name: "Gray Olive"
-    hex: "#a9a491"
-  - 
-    name: "Gray Pinstripe"
-    hex: "#49494d"
-  - 
-    name: "Gray Ridge"
-    hex: "#847986"
-  - 
-    name: "Gray Sand"
-    hex: "#e5ccaf"
-  - 
-    name: "Gray Suit"
-    hex: "#c1becd"
-  - 
-    name: "Gray Violet"
-    hex: "#bbbcbc"
-  - 
-    name: "Gray-Blue"
-    hex: "#8c92ac"
-  - 
-    name: "Grayed Jade"
-    hex: "#9bbea9"
-  - 
-    name: "Graystone"
-    hex: "#4d495b"
+    name: "Great White"
+    hex: "#bdbdc6"
   - 
     name: "Greek Flag Blue"
     hex: "#0d5eaf"
@@ -6054,8 +5985,44 @@
     name: "Grenadine"
     hex: "#df3f32"
   - 
+    name: "Grey"
+    hex: "#808080"
+  - 
+    name: "Grey Asparagus"
+    hex: "#465945"
+  - 
+    name: "Grey Blue"
+    hex: "#4d587a"
+  - 
     name: "Grey Chateau"
     hex: "#9fa3a7"
+  - 
+    name: "Grey Cloud"
+    hex: "#747880"
+  - 
+    name: "Grey Dawn"
+    hex: "#bbc1cc"
+  - 
+    name: "Grey Flannel"
+    hex: "#848182"
+  - 
+    name: "Grey Grain"
+    hex: "#a9bdbf"
+  - 
+    name: "Grey Green"
+    hex: "#a49a79"
+  - 
+    name: "Grey Lilac"
+    hex: "#d4cacd"
+  - 
+    name: "Grey Mist"
+    hex: "#99aeae"
+  - 
+    name: "Grey Morn"
+    hex: "#cabeb5"
+  - 
+    name: "Grey Nickel"
+    hex: "#c3c3bd"
   - 
     name: "Grey Nurse"
     hex: "#d1d3cc"
@@ -6063,8 +6030,32 @@
     name: "Grey Olive"
     hex: "#a19a7f"
   - 
+    name: "Grey Pinstripe"
+    hex: "#49494d"
+  - 
+    name: "Grey Porcelain"
+    hex: "#86837a"
+  - 
+    name: "Grey Ridge"
+    hex: "#847986"
+  - 
+    name: "Grey Sand"
+    hex: "#e5ccaf"
+  - 
     name: "Grey Suit"
     hex: "#9391a0"
+  - 
+    name: "Grey Violet"
+    hex: "#bbbcbc"
+  - 
+    name: "Grey-Blue"
+    hex: "#8c92ac"
+  - 
+    name: "Greyed Jade"
+    hex: "#9bbea9"
+  - 
+    name: "Greystone"
+    hex: "#4d495b"
   - 
     name: "Griffin"
     hex: "#8d8f8f"
@@ -6092,9 +6083,6 @@
   - 
     name: "Gull"
     hex: "#918c8f"
-  - 
-    name: "Gull Gray"
-    hex: "#9dacb7"
   - 
     name: "Gull Grey"
     hex: "#a4adb0"
@@ -6174,7 +6162,7 @@
     name: "Harbor Blue"
     hex: "#00656e"
   - 
-    name: "Harbor Gray"
+    name: "Harbor Grey"
     hex: "#a8c0bb"
   - 
     name: "Harbor Mist"
@@ -6203,6 +6191,9 @@
   - 
     name: "Harvest Pumpkin"
     hex: "#d56231"
+  - 
+    name: "Haselnut Chocolate"
+    hex: "#7b3f00"
   - 
     name: "Haute Red"
     hex: "#a11729"
@@ -6258,11 +6249,8 @@
     name: "Heather Rose"
     hex: "#ad6d7f"
   - 
-    name: "Heathered Gray"
-    hex: "#b6b095"
-  - 
     name: "Heathered Grey"
-    hex: "#948c7e"
+    hex: "#b6b095"
   - 
     name: "Heavenly Pink"
     hex: "#f4dede"
@@ -6285,7 +6273,7 @@
     name: "Heliotrope"
     hex: "#df73ff"
   - 
-    name: "Heliotrope Gray"
+    name: "Heliotrope Grey"
     hex: "#ab98a9"
   - 
     name: "Heliotrope Magenta"
@@ -6357,11 +6345,8 @@
     name: "Hipster Salmon"
     hex: "#fd7c6e"
   - 
-    name: "Hit Gray"
-    hex: "#a1adb5"
-  - 
     name: "Hit Grey"
-    hex: "#a1a9a8"
+    hex: "#a1adb5"
   - 
     name: "Hit Pink"
     hex: "#fda470"
@@ -6440,6 +6425,9 @@
   - 
     name: "Horizon Blue"
     hex: "#289dbe"
+  - 
+    name: "Horse Liver"
+    hex: "#543d37"
   - 
     name: "Horseradish"
     hex: "#e6dfc4"
@@ -6640,13 +6628,10 @@
     hex: "#e3a857"
   - 
     name: "Indigo"
-    hex: "#6f00fe"
+    hex: "#4b0082"
   - 
     name: "Indigo (Dye)"
     hex: "#00416c"
-  - 
-    name: "Indigo (Web)"
-    hex: "#4b0082"
   - 
     name: "Indigo Bunting"
     hex: "#006ca9"
@@ -6725,9 +6710,6 @@
   - 
     name: "Iron Gate"
     hex: "#4e5055"
-  - 
-    name: "Ironside Gray"
-    hex: "#676662"
   - 
     name: "Ironside Grey"
     hex: "#706e66"
@@ -6912,9 +6894,6 @@
     name: "Jordy Blue"
     hex: "#7aaae0"
   - 
-    name: "Judge Gray"
-    hex: "#544333"
-  - 
     name: "Judge Grey"
     hex: "#5d5346"
   - 
@@ -7008,9 +6987,6 @@
     name: "Khaki"
     hex: "#c3b091"
   - 
-    name: "Khaki (X11) (Light Khaki)"
-    hex: "#f0e68c"
-  - 
     name: "Kidnapper"
     hex: "#bfc0ab"
   - 
@@ -7097,6 +7073,9 @@
   - 
     name: "Lambs Wool"
     hex: "#e5d0b1"
+  - 
+    name: "Laminated Wood"
+    hex: "#948c7e"
   - 
     name: "Langoustino"
     hex: "#ca6c56"
@@ -7191,7 +7170,7 @@
     name: "Lavender Frost"
     hex: "#bdabbe"
   - 
-    name: "Lavender Gray"
+    name: "Lavender Grey"
     hex: "#bdbbd7"
   - 
     name: "Lavender Herb"
@@ -7233,7 +7212,7 @@
     name: "Lead"
     hex: "#212121"
   - 
-    name: "Lead Gray"
+    name: "Lead Grey"
     hex: "#8a7963"
   - 
     name: "Leaf Green"
@@ -7377,17 +7356,14 @@
     name: "Light Grass Green"
     hex: "#7cb68e"
   - 
-    name: "Light Gray"
-    hex: "#dad8c9"
-  - 
-    name: "Light Grayish Magenta"
-    hex: "#cc99cc"
-  - 
     name: "Light Green"
     hex: "#90ee90"
   - 
     name: "Light Grey"
-    hex: "#d3d3d3"
+    hex: "#dad8c9"
+  - 
+    name: "Light Greyish Magenta"
+    hex: "#cc99cc"
   - 
     name: "Light Hot Pink"
     hex: "#ffb3de"
@@ -7416,7 +7392,7 @@
     name: "Light Pastel Purple"
     hex: "#b19cd9"
   - 
-    name: "Light Payne's Gray"
+    name: "Light Payne's Grey"
     hex: "#536871"
   - 
     name: "Light Pink"
@@ -7439,9 +7415,6 @@
   - 
     name: "Light Slate Blue"
     hex: "#8470ff"
-  - 
-    name: "Light Slate Gray"
-    hex: "#789"
   - 
     name: "Light Slate Grey"
     hex: "#778899"
@@ -7485,7 +7458,7 @@
     name: "Lilac Chiffon"
     hex: "#de9bc4"
   - 
-    name: "Lilac Gray"
+    name: "Lilac Grey"
     hex: "#9896a4"
   - 
     name: "Lilac Hint"
@@ -7529,9 +7502,6 @@
   - 
     name: "Lime"
     hex: "#01ff01"
-  - 
-    name: "Lime (Color Wheel)"
-    hex: "#bfff00"
   - 
     name: "Lime Acid"
     hex: "#afff01"
@@ -7577,6 +7547,9 @@
   - 
     name: "Limoges"
     hex: "#243f6c"
+  - 
+    name: "Limoncello"
+    hex: "#bfff00"
   - 
     name: "Limpet Shell"
     hex: "#98ddde"
@@ -7838,6 +7811,9 @@
   - 
     name: "Magnet"
     hex: "#4d4b4f"
+  - 
+    name: "Magnetic Grey"
+    hex: "#eef0f3"
   - 
     name: "Magnolia"
     hex: "#f8f4ff"
@@ -8361,11 +8337,8 @@
     name: "Micro Chip"
     hex: "#babcc0"
   - 
-    name: "Mid Gray"
-    hex: "#5f5f6e"
-  - 
     name: "Mid Grey"
-    hex: "#666a6d"
+    hex: "#5f5f6e"
   - 
     name: "Middle Blue"
     hex: "#7ed4e6"
@@ -8408,6 +8381,9 @@
   - 
     name: "Midnight Green (Eagle Green)"
     hex: "#004953"
+  - 
+    name: "Midnight Grey"
+    hex: "#666a6d"
   - 
     name: "Midnight Moss"
     hex: "#242e28"
@@ -8478,11 +8454,11 @@
     name: "Mineral Blue"
     hex: "#6d9192"
   - 
-    name: "Mineral Gray"
-    hex: "#b2b6ac"
-  - 
     name: "Mineral Green"
     hex: "#506355"
+  - 
+    name: "Mineral Grey"
+    hex: "#b2b6ac"
   - 
     name: "Mineral Red"
     hex: "#b35457"
@@ -8496,7 +8472,7 @@
     name: "Ming Green"
     hex: "#3aa278"
   - 
-    name: "Minimal Gray"
+    name: "Minimal Grey"
     hex: "#948d99"
   - 
     name: "Minion Yellow"
@@ -8529,20 +8505,17 @@
     name: "Mirage"
     hex: "#373f43"
   - 
-    name: "Mirage Gray"
+    name: "Mirage Grey"
     hex: "#abafae"
   - 
     name: "Mischka"
     hex: "#a5a9b2"
   - 
-    name: "Mist Gray"
-    hex: "#c4c4bc"
-  - 
     name: "Mist Green"
     hex: "#aacebc"
   - 
     name: "Mist Grey"
-    hex: "#bab9a9"
+    hex: "#c4c4bc"
   - 
     name: "Misted Yellow"
     hex: "#dab965"
@@ -8597,6 +8570,9 @@
   - 
     name: "Mode Beige"
     hex: "#96711f"
+  - 
+    name: "Modern Monument"
+    hex: "#d6d6d1"
   - 
     name: "Moist Gold"
     hex: "#dbdb70"
@@ -8721,6 +8697,12 @@
     name: "Morning Blue"
     hex: "#8da399"
   - 
+    name: "Morning Fog"
+    hex: "#cbcab6"
+  - 
+    name: "Morning Forest"
+    hex: "#6dae81"
+  - 
     name: "Morning Glory"
     hex: "#9ed1d3"
   - 
@@ -8745,11 +8727,11 @@
     name: "Moss"
     hex: "#009051"
   - 
-    name: "Moss Gray"
-    hex: "#afab97"
-  - 
     name: "Moss Green"
     hex: "#addfad"
+  - 
+    name: "Moss Grey"
+    hex: "#afab97"
   - 
     name: "Mosstone"
     hex: "#858961"
@@ -8898,7 +8880,7 @@
     name: "Natural"
     hex: "#aa907d"
   - 
-    name: "Natural Gray"
+    name: "Natural Grey"
     hex: "#8b8680"
   - 
     name: "Nautical Blue"
@@ -8970,11 +8952,11 @@
     name: "Nero"
     hex: "#252525"
   - 
-    name: "Neutral Gray"
-    hex: "#8e918f"
-  - 
     name: "Neutral Green"
     hex: "#aaa583"
+  - 
+    name: "Neutral Grey"
+    hex: "#8e918f"
   - 
     name: "Nevada"
     hex: "#666f6f"
@@ -9153,7 +9135,7 @@
     name: "Ochre"
     hex: "#c72"
   - 
-    name: "Odyssey Gray"
+    name: "Odyssey Grey"
     hex: "#434452"
   - 
     name: "Off Green"
@@ -9228,6 +9210,9 @@
     name: "Old Silver"
     hex: "#848482"
   - 
+    name: "Old Treasure Chest"
+    hex: "#544333"
+  - 
     name: "Old Wine"
     hex: "#90091f"
   - 
@@ -9246,11 +9231,11 @@
     name: "Olive Drab #7"
     hex: "#3c341f"
   - 
-    name: "Olive Gray"
-    hex: "#a6997a"
-  - 
     name: "Olive Green"
     hex: "#b5b35c"
+  - 
+    name: "Olive Grey"
+    hex: "#a6997a"
   - 
     name: "Olive Haze"
     hex: "#888064"
@@ -9260,6 +9245,9 @@
   - 
     name: "Olive Oil"
     hex: "#bab86c"
+  - 
+    name: "Olive Pit"
+    hex: "#a9a491"
   - 
     name: "Olivenite"
     hex: "#c1a65c"
@@ -9300,7 +9288,7 @@
     name: "Opal Blue"
     hex: "#c3ddd6"
   - 
-    name: "Opal Gray"
+    name: "Opal Grey"
     hex: "#a49e9e"
   - 
     name: "Opaline Green"
@@ -9423,11 +9411,8 @@
     name: "Orion Blue"
     hex: "#3e4f5c"
   - 
-    name: "Oslo Gray"
-    hex: "#878d91"
-  - 
     name: "Oslo Grey"
-    hex: "#818988"
+    hex: "#878d91"
   - 
     name: "Otter"
     hex: "#7f674f"
@@ -9465,7 +9450,7 @@
     name: "Oyster Bay"
     hex: "#d1eaea"
   - 
-    name: "Oyster Gray"
+    name: "Oyster Grey"
     hex: "#cbc1ae"
   - 
     name: "Oyster Mushroom"
@@ -9774,11 +9759,11 @@
     name: "Pastel Brown"
     hex: "#836953"
   - 
-    name: "Pastel Gray"
-    hex: "#cfcfc4"
-  - 
     name: "Pastel Green"
     hex: "#77dd77"
+  - 
+    name: "Pastel Grey"
+    hex: "#cfcfc4"
   - 
     name: "Pastel Lavender"
     hex: "#d8a1c4"
@@ -9845,9 +9830,6 @@
   - 
     name: "Pavlova"
     hex: "#baab87"
-  - 
-    name: "Payne's Gray"
-    hex: "#404048"
   - 
     name: "Payne's Grey"
     hex: "#536878"
@@ -10044,7 +10026,7 @@
     name: "Periwinkle Dust"
     hex: "#c5d0e6"
   - 
-    name: "Periwinkle Gray"
+    name: "Periwinkle Grey"
     hex: "#c3cde6"
   - 
     name: "Periwinkle Tint"
@@ -10167,6 +10149,9 @@
     name: "Pickled Bluewood"
     hex: "#314459"
   - 
+    name: "Pickled Plum"
+    hex: "#8e4785"
+  - 
     name: "Picton Blue"
     hex: "#5ba0d0"
   - 
@@ -10196,6 +10181,9 @@
   - 
     name: "Pilsener"
     hex: "#f8f753"
+  - 
+    name: "Pinball"
+    hex: "#d3d3d3"
   - 
     name: "Pine Bark"
     hex: "#827064"
@@ -10358,12 +10346,6 @@
   - 
     name: "Plum"
     hex: "#942193"
-  - 
-    name: "Plum (Traditional)"
-    hex: "#8e4785"
-  - 
-    name: "Plum (Web)"
-    hex: "#dda0dd"
   - 
     name: "Plum Caspia"
     hex: "#61224a"
@@ -10680,7 +10662,7 @@
     name: "Pureed Pumpkin"
     hex: "#c34121"
   - 
-    name: "Puritan Gray"
+    name: "Puritan Grey"
     hex: "#a8b0ae"
   - 
     name: "Purple"
@@ -10776,7 +10758,7 @@
     name: "Purpureus"
     hex: "#9a4eae"
   - 
-    name: "Pussywillow Gray"
+    name: "Pussywillow Grey"
     hex: "#aeaca1"
   - 
     name: "Putty"
@@ -10818,20 +10800,17 @@
     name: "Quicksilver"
     hex: "#7e7d88"
   - 
-    name: "Quiet Gray"
-    hex: "#b9babd"
-  - 
     name: "Quiet Green"
     hex: "#9ebc97"
+  - 
+    name: "Quiet Grey"
+    hex: "#b9babd"
   - 
     name: "Quiet Harbor"
     hex: "#5a789a"
   - 
     name: "Quiet Shade"
     hex: "#66676d"
-  - 
-    name: "Quill Gray"
-    hex: "#d6d6d1"
   - 
     name: "Quill Grey"
     hex: "#cbc9c0"
@@ -11553,6 +11532,9 @@
     name: "Sahara"
     hex: "#b79826"
   - 
+    name: "Sahara Dust"
+    hex: "#a8989b"
+  - 
     name: "Sahara Sand"
     hex: "#f1e788"
   - 
@@ -11649,6 +11631,9 @@
     name: "Sandwisp"
     hex: "#decb81"
   - 
+    name: "Sandworm"
+    hex: "#fce883"
+  - 
     name: "Sandy Beach"
     hex: "#fedbb7"
   - 
@@ -11670,11 +11655,8 @@
     name: "Santa Fe"
     hex: "#b16d52"
   - 
-    name: "Santas Gray"
-    hex: "#9fa0b1"
-  - 
     name: "Santas Grey"
-    hex: "#9998a7"
+    hex: "#9fa0b1"
   - 
     name: "Sante Fe"
     hex: "#a96a50"
@@ -11838,9 +11820,6 @@
     name: "Sea Spray"
     hex: "#f0ffff"
   - 
-    name: "Sea Spray"
-    hex: "#717e6f"
-  - 
     name: "Sea Turtle"
     hex: "#5e5749"
   - 
@@ -11940,11 +11919,11 @@
     name: "Shadow Blue"
     hex: "#778ba5"
   - 
-    name: "Shadow Gray"
-    hex: "#bba5a0"
-  - 
     name: "Shadow Green"
     hex: "#9ac0b6"
+  - 
+    name: "Shadow Grey"
+    hex: "#bba5a0"
   - 
     name: "Shadow Lime"
     hex: "#cfe09d"
@@ -12036,13 +12015,16 @@
     name: "Shingle Fawn"
     hex: "#745937"
   - 
+    name: "Shiny Armor"
+    hex: "#a1a9a8"
+  - 
     name: "Shiny Shamrock"
     hex: "#5fa778"
   - 
     name: "Ship Cove"
     hex: "#7988ab"
   - 
-    name: "Ship Gray"
+    name: "Ship Grey"
     hex: "#3e3a44"
   - 
     name: "Shiraz"
@@ -12050,6 +12032,9 @@
   - 
     name: "Shire Green"
     hex: "#68e52f"
+  - 
+    name: "Shisha Coal"
+    hex: "#3c3b3c"
   - 
     name: "Shitake"
     hex: "#736253"
@@ -12068,9 +12053,6 @@
   - 
     name: "Shrinking Violet"
     hex: "#f4e1e6"
-  - 
-    name: "Shuttle Gray"
-    hex: "#5f6672"
   - 
     name: "Shuttle Grey"
     hex: "#61666b"
@@ -12109,6 +12091,9 @@
     hex: "#8a9a9a"
   - 
     name: "Silver Bullet"
+    hex: "#818988"
+  - 
+    name: "Silver Bullet"
     hex: "#cdc5c2"
   - 
     name: "Silver Chalice"
@@ -12123,11 +12108,11 @@
     name: "Silver Filigree"
     hex: "#7f7c81"
   - 
-    name: "Silver Gray"
-    hex: "#c1b7b0"
-  - 
     name: "Silver Green"
     hex: "#d7d7c7"
+  - 
+    name: "Silver Grey"
+    hex: "#c1b7b0"
   - 
     name: "Silver Lake Blue"
     hex: "#618bb9"
@@ -12216,7 +12201,7 @@
     name: "Sky Captain"
     hex: "#262934"
   - 
-    name: "Sky Gray"
+    name: "Sky Grey"
     hex: "#bcc8c6"
   - 
     name: "Sky Magenta"
@@ -12240,11 +12225,11 @@
     name: "Slate Blue"
     hex: "#6a5acd"
   - 
-    name: "Slate Gray"
-    hex: "#708090"
-  - 
     name: "Slate Green"
     hex: "#a0987c"
+  - 
+    name: "Slate Grey"
+    hex: "#708090"
   - 
     name: "Slate Rose"
     hex: "#b45865"
@@ -12276,11 +12261,11 @@
     name: "Smoke Blue"
     hex: "#6d8994"
   - 
-    name: "Smoke Gray"
-    hex: "#cebaa8"
-  - 
     name: "Smoke Green"
     hex: "#a8bba2"
+  - 
+    name: "Smoke Grey"
+    hex: "#cebaa8"
   - 
     name: "Smoke Pine"
     hex: "#3e6257"
@@ -12423,11 +12408,11 @@
     name: "Spanish Crimson"
     hex: "#e51a4c"
   - 
-    name: "Spanish Gray"
-    hex: "#989898"
-  - 
     name: "Spanish Green"
     hex: "#7b8976"
+  - 
+    name: "Spanish Grey"
+    hex: "#989898"
   - 
     name: "Spanish Orange"
     hex: "#e86100"
@@ -12479,6 +12464,9 @@
   - 
     name: "Sphinx"
     hex: "#ab9895"
+  - 
+    name: "Sphynx"
+    hex: "#9998a7"
   - 
     name: "Spice"
     hex: "#6c4f3f"
@@ -12627,7 +12615,7 @@
     name: "Steel Blue"
     hex: "#4682b4"
   - 
-    name: "Steel Gray"
+    name: "Steel Grey"
     hex: "#43464b"
   - 
     name: "Steel Pink"
@@ -12636,7 +12624,7 @@
     name: "Steel Teal"
     hex: "#5f8a8b"
   - 
-    name: "Steeple Gray"
+    name: "Steeple Grey"
     hex: "#827e7c"
   - 
     name: "Stellar"
@@ -12663,11 +12651,11 @@
     name: "Stone Blue"
     hex: "#829ca5"
   - 
-    name: "Stone Gray"
-    hex: "#685e4f"
-  - 
     name: "Stone Green"
     hex: "#658e67"
+  - 
+    name: "Stone Grey"
+    hex: "#685e4f"
   - 
     name: "Stonewall"
     hex: "#807661"
@@ -12687,11 +12675,8 @@
     name: "Storm Front"
     hex: "#787376"
   - 
-    name: "Storm Gray"
-    hex: "#717486"
-  - 
     name: "Storm Grey"
-    hex: "#747880"
+    hex: "#717486"
   - 
     name: "Stormcloud"
     hex: "#4f666a"
@@ -12909,7 +12894,7 @@
     name: "Supernova"
     hex: "#ffb437"
   - 
-    name: "Supreme Gray"
+    name: "Supreme Grey"
     hex: "#86949f"
   - 
     name: "Surf"
@@ -12930,11 +12915,8 @@
     name: "Sushi"
     hex: "#7c9f2f"
   - 
-    name: "Suva Gray"
-    hex: "#888387"
-  - 
     name: "Suva Grey"
-    hex: "#8b8685"
+    hex: "#888387"
   - 
     name: "Swamp"
     hex: "#252f2f"
@@ -13074,6 +13056,9 @@
     name: "Tango Red"
     hex: "#ac0e2e"
   - 
+    name: "Tank Grey"
+    hex: "#848481"
+  - 
     name: "Tannin"
     hex: "#a68a6d"
   - 
@@ -13116,7 +13101,7 @@
     name: "Taupe"
     hex: "#483c41"
   - 
-    name: "Taupe Gray"
+    name: "Taupe Grey"
     hex: "#8b8589"
   - 
     name: "Tawny Birch"
@@ -13305,6 +13290,9 @@
     name: "Tin"
     hex: "#919191"
   - 
+    name: "Tin Soldier"
+    hex: "#bebebe"
+  - 
     name: "Tinsel"
     hex: "#c3964d"
   - 
@@ -13403,9 +13391,6 @@
   - 
     name: "Tourmaline"
     hex: "#86a1a9"
-  - 
-    name: "Tower Gray"
-    hex: "#a9bdbf"
   - 
     name: "Tower Grey"
     hex: "#9caca5"
@@ -13713,6 +13698,9 @@
     name: "Urban Chic"
     hex: "#464e4d"
   - 
+    name: "Urban Pigeon"
+    hex: "#9dacb7"
+  - 
     name: "Urobilin"
     hex: "#e1ad21"
   - 
@@ -13773,7 +13761,7 @@
     name: "Vapor Blue"
     hex: "#bebdbd"
   - 
-    name: "Vaporous Gray"
+    name: "Vaporous Grey"
     hex: "#dfddd7"
   - 
     name: "Varden"
@@ -14058,6 +14046,9 @@
     name: "Volcanic Glass"
     hex: "#615c60"
   - 
+    name: "Volcanic Sand"
+    hex: "#404048"
+  - 
     name: "Volcano"
     hex: "#4e2728"
   - 
@@ -14076,7 +14067,7 @@
     name: "Wageningen Green"
     hex: "#34b233"
   - 
-    name: "Waikawa Gray"
+    name: "Waikawa Grey"
     hex: "#5b6e91"
   - 
     name: "Waiouru"
@@ -14256,7 +14247,7 @@
     name: "White Whale"
     hex: "#edeeef"
   - 
-    name: "Whitecap Gray"
+    name: "Whitecap Grey"
     hex: "#e0d5c6"
   - 
     name: "Wild Aster"
@@ -14394,6 +14385,9 @@
     name: "Wintergreen Dream"
     hex: "#56887d"
   - 
+    name: "Wire Wool"
+    hex: "#676662"
+  - 
     name: "Wisp Pink"
     hex: "#f9e8e2"
   - 
@@ -14472,6 +14466,9 @@
     name: "Xmas Candy"
     hex: "#990020"
   - 
+    name: "Y7K Blue"
+    hex: "#1560fb"
+  - 
     name: "Yale Blue"
     hex: "#0f4d92"
   - 
@@ -14486,9 +14483,6 @@
   - 
     name: "Yellow"
     hex: "#ffff00"
-  - 
-    name: "Yellow (Crayola)"
-    hex: "#fce883"
   - 
     name: "Yellow (Munsell)"
     hex: "#efcc00"
@@ -14645,6 +14639,9 @@
   - 
     name: "Zuerich Blue"
     hex: "#8080ff"
+  - 
+    name: "Zughetti"
+    hex: "#014421"
   - 
     name: "Zumthor"
     hex: "#cdd5d5"
