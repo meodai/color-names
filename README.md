@@ -19,6 +19,7 @@ My goal is to create a as big as possible color name list. I merged different [l
 - [htmlcsscolor.com](http://www.htmlcsscolor.com/color-names-rgb-values/A)
 - [OSX Crayons](http://www.randomactsofsentience.com/2013/06/os-x-crayon-color-hex-table.html)
 - [Crayola Crayon names](https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors)
+- Different Paint Brand color lists
 
 ### Installation JS 📦
 
