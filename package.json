@@ -26,14 +26,20 @@
   },
   "homepage": "https://github.com/meodai/color-names#readme",
   "devDependencies": {
+    "commitizen": "^2.9.6",
     "csvdata": "^1.4.0",
     "csvtojson": "^1.1.4",
+    "cz-conventional-changelog": "^2.0.0",
     "json2yaml": "^1.1.0",
     "semantic-release": "^6.3.6",
-    "commitizen": "^2.9.6",
-    "cz-conventional-changelog": "^2.0.0"
+    "ghooks": "^2.0.0"
   },
   "czConfig": {
     "path": "node_modules/cz-conventional-changelog"
+  },
+  "config": {
+    "ghooks": {
+      "pre-commit": "npm run test && npm run build"
+    }
   }
 }
