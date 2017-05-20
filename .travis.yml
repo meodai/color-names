@@ -1,0 +1,20 @@
+sudo: false
+language: node_js
+cache:
+  directories:
+    - node_modules
+notifications:
+  email: true
+node_js:
+  - '7'
+  - '6'
+before_script:
+  - npm prune
+script:
+  - npm run test
+after_success:
+  - npm run build
+  - npm run semantic-release
+branches:
+  except:
+    - /^v\d+\.\d+\.\d+$/

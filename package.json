@@ -1,15 +1,16 @@
 {
   "name": "color-name-list",
-  "version": "1.2.0",
+  "version": "0.0.0-development",
   "description": "long list of color names",
   "main": "dist/colornames.json",
   "scripts": {
     "test": "node node_modules/csvdata/csvdata.js -c src/colornames.csv -d -e -x",
-    "build": "rm -rf dist && mkdir dist && cp -av src/colornames.csv dist/colornames.csv && node node_modules/.bin/csvtojson dist/colornames.csv >> dist/colornames.json && node node_modules/.bin/json2yaml dist/colornames.json >> dist/colornames.yaml"
+    "build": "rm -rf dist && mkdir dist && cp -av src/colornames.csv dist/colornames.csv && node node_modules/.bin/csvtojson dist/colornames.csv >> dist/colornames.json && node node_modules/.bin/json2yaml dist/colornames.json >> dist/colornames.yaml",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/meodai/color-names.git"
+    "url": "https://github.com/meodai/color-names.git"
   },
   "keywords": [
     "colors",
@@ -26,6 +27,7 @@
   "devDependencies": {
     "csvtojson": "^1.1.4",
     "json2yaml": "^1.1.0",
-    "csvdata": "^1.4.0"
+    "csvdata": "^1.4.0",
+    "semantic-release": "^6.3.6"
   }
 }
