@@ -4,6 +4,7 @@
   "description": "long list of color names",
   "main": "dist/colornames.json",
   "scripts": {
+    "commit": "git-cz",
     "test": "node node_modules/csvdata/csvdata.js -c src/colornames.csv -d -e -x",
     "build": "rm -rf dist && mkdir dist && cp -av src/colornames.csv dist/colornames.csv && node node_modules/.bin/csvtojson dist/colornames.csv >> dist/colornames.json && node node_modules/.bin/json2yaml dist/colornames.json >> dist/colornames.yaml",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
@@ -25,9 +26,14 @@
   },
   "homepage": "https://github.com/meodai/color-names#readme",
   "devDependencies": {
+    "csvdata": "^1.4.0",
     "csvtojson": "^1.1.4",
     "json2yaml": "^1.1.0",
-    "csvdata": "^1.4.0",
-    "semantic-release": "^6.3.6"
+    "semantic-release": "^6.3.6",
+    "commitizen": "^2.9.6",
+    "cz-conventional-changelog": "^2.0.0"
+  },
+  "czConfig": {
+    "path": "node_modules/cz-conventional-changelog"
   }
 }
