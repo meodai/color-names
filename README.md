@@ -46,3 +46,7 @@ console.log(someColor.name) // => white
 ```
 npm install && npm run build
 ```
+
+# Naming Contributors 
+- [yxklyx](https://github.com/yxklyx/) hunders of names!!
+- [Syl](https://twitter.com/Gypsy_Syl) 
