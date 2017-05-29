@@ -1,8 +1,9 @@
 # color-names 🎨
 
+A handpicked list of color names from various sources and thousands of user submissions. [Try it yourself](http://codepen.io/meodai/full/mEvZRx/) or read [the full list](https://docs.google.com/spreadsheets/d/14ny2oB7g5Tof9TmKiaaDFv25XSCRt-LlBRJhIDz_3Mo/pubhtml?gid=40578722).
+
 > The names of color function like a thread attached to a frightfully slender needle, capable of stitching together our most delicate emotions and memories. When the needle hits the target, we feel either pleasure or emathy. **Kenya Hara – White**
 
-A semi manual merge of different color name lists. [Try it yourself](http://codepen.io/meodai/full/mEvZRx/) or see [the full list](https://docs.google.com/spreadsheets/d/14ny2oB7g5Tof9TmKiaaDFv25XSCRt-LlBRJhIDz_3Mo/pubhtml?gid=40578722).
 
 ## Process 📋
 My goal is to create a as big as possible color name list. I merged different [lists](#sources-), modified the names when they where the same but had different hex values, and I shifted the colors a bit when the same color had different names but the same value.
