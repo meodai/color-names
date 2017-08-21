@@ -3,7 +3,7 @@
 [![npm version](https://badge.fury.io/js/color-name-list.svg)](https://badge.fury.io/js/color-name-list)
 [![travis build](https://api.travis-ci.org/meodai/color-names.svg?branch=master)](https://travis-ci.org/meodai/color-names)
 
-A handpicked list of __10469__ color names from various sources and thousands of user submissions. [Try it yourself](http://codepen.io/meodai/full/mEvZRx/) or read [the full list](https://docs.google.com/spreadsheets/d/14ny2oB7g5Tof9TmKiaaDFv25XSCRt-LlBRJhIDz_3Mo/pubhtml?gid=40578722).
+A handpicked list of __10469__ unique color names from various sources and thousands of user submissions. [Try it yourself](http://codepen.io/meodai/full/mEvZRx/) or read [the full list](https://docs.google.com/spreadsheets/d/14ny2oB7g5Tof9TmKiaaDFv25XSCRt-LlBRJhIDz_3Mo/pubhtml?gid=40578722).
 
 > The names of color function like a thread attached to a frightfully slender needle, capable of stitching together our most delicate emotions and memories. When the needle hits the target, we feel either pleasure or emathy. **Kenya Hara – White**
 
