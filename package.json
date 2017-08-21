@@ -29,11 +29,11 @@
   "devDependencies": {
     "commitizen": "^2.9.6",
     "csvdata": "^1.4.0",
-    "csvtojson": "^1.1.4",
+    "csvtojson": "^1.1.7",
     "cz-conventional-changelog": "^2.0.0",
+    "ghooks": "^2.0.0",
     "json2yaml": "^1.1.0",
-    "semantic-release": "^6.3.6",
-    "ghooks": "^2.0.0"
+    "semantic-release": "^6.3.6"
   },
   "czConfig": {
     "path": "node_modules/cz-conventional-changelog"
