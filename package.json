@@ -5,6 +5,7 @@
   "main": "dist/colornames.json",
   "scripts": {
     "commit": "git-cz",
+    "get-new-colors": "curl http://gsx2json.com/api?id=14ny2oB7g5Tof9TmKiaaDFv25XSCRt-LlBRJhIDz_3Mo -o src/colornames.json",
     "count-colors": "sed -i -E \"s/__[0-9^]+__/__`awk 'END {print NR}' src/colornames.csv`__/g\" README.md",
     "test": "node node_modules/csvdata/csvdata.js -c src/colornames.csv -d -e -x",
     "build": "rm -rf dist && mkdir dist && cp -av src/colornames.csv dist/colornames.csv && node node_modules/.bin/csvtojson dist/colornames.csv >> dist/colornames.json && node node_modules/.bin/json2yaml dist/colornames.json >> dist/colornames.yaml",
