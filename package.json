@@ -42,7 +42,7 @@
   },
   "config": {
     "ghooks": {
-      "pre-commit": "npm run test && npm run count-colors && npm run build"
+      "pre-commit": "npm run test && npm run count-colors && npm run build && npm run count-colors"
     }
   },
   "dependencies": {}
