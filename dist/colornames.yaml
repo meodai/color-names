@@ -2565,6 +2565,9 @@
     name: "Birch Forest"
     hex: "#899a8b"
   - 
+    name: "Birch Strain"
+    hex: "#dfb45f"
+  - 
     name: "Birch White"
     hex: "#f6eedf"
   - 
@@ -21170,9 +21173,6 @@
   - 
     name: "Pine Strain"
     hex: "#d5bfa5"
-  - 
-    name: "Pine Strain"
-    hex: "#dfb45f"
   - 
     name: "Pine Trail"
     hex: "#9c9f75"
