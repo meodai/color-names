@@ -165,8 +165,11 @@
     name: "Affinity"
     hex: "#fed2a5"
   - 
-    name: "Afghan Tan"
+    name: "Afghan Carpet"
     hex: "#905e26"
+  - 
+    name: "Afghan Sand"
+    hex: "#d3a95c"
   - 
     name: "African Bubinga"
     hex: "#c7927a"
@@ -726,6 +729,9 @@
     name: "Ancient Bamboo"
     hex: "#da6304"
   - 
+    name: "Ancient Chest"
+    hex: "#99522b"
+  - 
     name: "Ancient Copper"
     hex: "#9f543e"
   - 
@@ -929,12 +935,6 @@
   - 
     name: "Ao (English)"
     hex: "#00800c"
-  - 
-    name: "Apache"
-    hex: "#d3a95c"
-  - 
-    name: "Apache Tan"
-    hex: "#d5bfa5"
   - 
     name: "Apollo Landing"
     hex: "#e5e5e1"
@@ -3924,6 +3924,9 @@
     name: "Bright White"
     hex: "#f4f5f0"
   - 
+    name: "Bright Wood Grain"
+    hex: "#eecb88"
+  - 
     name: "Bright Yarrow"
     hex: "#face6d"
   - 
@@ -4280,9 +4283,6 @@
   - 
     name: "Burmese Gold"
     hex: "#bc8143"
-  - 
-    name: "Burmese Tan"
-    hex: "#eecb88"
   - 
     name: "Burnham"
     hex: "#234537"
@@ -8103,11 +8103,11 @@
     name: "Dark Wood"
     hex: "#855e42"
   - 
+    name: "Dark Wood Grain"
+    hex: "#4f301f"
+  - 
     name: "Dark Yellow"
     hex: "#9b870c"
-  - 
-    name: "Darker Tan"
-    hex: "#97694f"
   - 
     name: "Darkest Spruce"
     hex: "#303d3c"
@@ -8639,6 +8639,9 @@
   - 
     name: "Desert Panzer"
     hex: "#c0cabc"
+  - 
+    name: "Desert Riverbed"
+    hex: "#d5a884"
   - 
     name: "Desert Rock"
     hex: "#d5c6bd"
@@ -13194,9 +13197,6 @@
     name: "Hawaiian Surf"
     hex: "#0078a7"
   - 
-    name: "Hawaiian Tan"
-    hex: "#99522b"
-  - 
     name: "Hawaiian Vacation"
     hex: "#77cabd"
   - 
@@ -14150,9 +14150,6 @@
   - 
     name: "Indian Summer"
     hex: "#a85143"
-  - 
-    name: "Indian Tan"
-    hex: "#4f301f"
   - 
     name: "Indian Teal"
     hex: "#3c586b"
@@ -15410,6 +15407,9 @@
   - 
     name: "Leather Satchel"
     hex: "#7c4f3a"
+  - 
+    name: "Leather Tan"
+    hex: "#a48454"
   - 
     name: "Leek Green"
     hex: "#b7b17a"
@@ -16773,6 +16773,9 @@
     name: "Marigold Yellow"
     hex: "#fbe870"
   - 
+    name: "Marilyn Monroe"
+    hex: "#e7c3ac"
+  - 
     name: "Marina"
     hex: "#4f84c4"
   - 
@@ -17460,9 +17463,6 @@
     name: "Middle Yellow Red"
     hex: "#ecb176"
   - 
-    name: "Midland Tan"
-    hex: "#f3d5a1"
-  - 
     name: "Midnight"
     hex: "#21303e"
   - 
@@ -17898,7 +17898,7 @@
     name: "Modest Violet"
     hex: "#e9e4ef"
   - 
-    name: "Moenkopi Tan"
+    name: "Moenkopi Soil"
     hex: "#c8a692"
   - 
     name: "Moist Gold"
@@ -17969,6 +17969,9 @@
   - 
     name: "Monks Robe"
     hex: "#704822"
+  - 
+    name: "Monroe Kiss"
+    hex: "#dec1b8"
   - 
     name: "Monsoon"
     hex: "#7a7679"
@@ -18579,9 +18582,6 @@
     name: "Native Hue of Resolution"
     hex: "#d33300"
   - 
-    name: "Native Tan"
-    hex: "#d5a884"
-  - 
     name: "Natural"
     hex: "#aa907d"
   - 
@@ -18599,9 +18599,6 @@
   - 
     name: "Natural Radiance"
     hex: "#e7dcc1"
-  - 
-    name: "Natural Tan"
-    hex: "#f7d8c4"
   - 
     name: "Natural Wool"
     hex: "#fff6d7"
@@ -18776,9 +18773,6 @@
   - 
     name: "New Orleans"
     hex: "#e4c385"
-  - 
-    name: "New Tan"
-    hex: "#ebc79e"
   - 
     name: "New Wheat"
     hex: "#d7b57f"
@@ -19247,6 +19241,9 @@
   - 
     name: "Old Doeskin"
     hex: "#bdab9b"
+  - 
+    name: "Old Driftwood"
+    hex: "#97694f"
   - 
     name: "Old Eggplant"
     hex: "#614051"
@@ -20574,6 +20571,9 @@
     name: "Peach Parfait"
     hex: "#f8bfa8"
   - 
+    name: "Peach Patch"
+    hex: "#f3d5a1"
+  - 
     name: "Peach Pearl"
     hex: "#ffb2a5"
   - 
@@ -20642,6 +20642,9 @@
   - 
     name: "Peachy Milk"
     hex: "#f3e0d8"
+  - 
+    name: "Peachy Sand"
+    hex: "#ffdcb7"
   - 
     name: "Peacoat"
     hex: "#2b2e43"
@@ -20919,11 +20922,11 @@
     name: "Peru"
     hex: "#cd853f"
   - 
-    name: "Peru Tan"
-    hex: "#733d1f"
-  - 
     name: "Peruvian Lily"
     hex: "#cd7db5"
+  - 
+    name: "Peruvian Soil"
+    hex: "#733d1f"
   - 
     name: "Pesto"
     hex: "#c1b23e"
@@ -21138,6 +21141,9 @@
     name: "Pine Glade"
     hex: "#bdc07e"
   - 
+    name: "Pine Grain"
+    hex: "#ebc79e"
+  - 
     name: "Pine Green"
     hex: "#01796f"
   - 
@@ -21161,6 +21167,12 @@
   - 
     name: "Pine Ridge"
     hex: "#6d9185"
+  - 
+    name: "Pine Strain"
+    hex: "#d5bfa5"
+  - 
+    name: "Pine Strain"
+    hex: "#dfb45f"
   - 
     name: "Pine Trail"
     hex: "#9c9f75"
@@ -21783,6 +21795,9 @@
     name: "Porcelain Skin"
     hex: "#ffe7eb"
   - 
+    name: "Porcelain Tan"
+    hex: "#f7d8c4"
+  - 
     name: "Porch Swing"
     hex: "#597175"
   - 
@@ -22088,6 +22103,9 @@
   - 
     name: "Prophetic Sea"
     hex: "#818b9c"
+  - 
+    name: "Prosciutto"
+    hex: "#e0b4a4"
   - 
     name: "Prosecco"
     hex: "#fad6a5"
@@ -24296,9 +24314,6 @@
   - 
     name: "Santa Fe Sunset"
     hex: "#a75a4c"
-  - 
-    name: "Santa Fe Tan"
-    hex: "#dfb45f"
   - 
     name: "Santana Soul"
     hex: "#714636"
@@ -27093,9 +27108,6 @@
     name: "Summer Sunset"
     hex: "#d88167"
   - 
-    name: "Summer Tan"
-    hex: "#e0b4a4"
-  - 
     name: "Summer Weasel"
     hex: "#bb8e55"
   - 
@@ -27594,9 +27606,6 @@
     name: "Tahitian Sand"
     hex: "#f5dcb4"
   - 
-    name: "Tahitian Tan"
-    hex: "#ffdcb7"
-  - 
     name: "Tahitian Tide"
     hex: "#006b7e"
   - 
@@ -27744,9 +27753,6 @@
     name: "Tannin"
     hex: "#a68a6d"
   - 
-    name: "Tantalizing Tan"
-    hex: "#e7c3ac"
-  - 
     name: "Tanzanite"
     hex: "#1478a7"
   - 
@@ -27815,9 +27821,6 @@
   - 
     name: "Tattle Tail"
     hex: "#80736a"
-  - 
-    name: "Tattle Tan"
-    hex: "#a48454"
   - 
     name: "Taupe"
     hex: "#483c41"
@@ -28581,9 +28584,6 @@
     name: "Transparent Yellow"
     hex: "#f4ecc2"
   - 
-    name: "Traveling Tan"
-    hex: "#dec1b8"
-  - 
     name: "Travertine"
     hex: "#e2ddc7"
   - 
@@ -28728,9 +28728,6 @@
     name: "Tropical Tale"
     hex: "#e0deb8"
   - 
-    name: "Tropical Tan"
-    hex: "#ba8f68"
-  - 
     name: "Tropical Teal"
     hex: "#008794"
   - 
@@ -28742,6 +28739,9 @@
   - 
     name: "Tropical Waterfall"
     hex: "#bee7e2"
+  - 
+    name: "Tropical Wood"
+    hex: "#ba8f68"
   - 
     name: "Trout"
     hex: "#4c5356"
@@ -28935,14 +28935,14 @@
     name: "Tuscan Red"
     hex: "#7c4848"
   - 
+    name: "Tuscan Soil"
+    hex: "#a67b5b"
+  - 
     name: "Tuscan Sun"
     hex: "#ffd84d"
   - 
     name: "Tuscan Sunset"
     hex: "#bb7c3f"
-  - 
-    name: "Tuscan Tan"
-    hex: "#a67b5b"
   - 
     name: "Tuscany"
     hex: "#ad6242"
@@ -30648,14 +30648,14 @@
     name: "Windsor"
     hex: "#462c77"
   - 
+    name: "Windsor Brown"
+    hex: "#a75502"
+  - 
     name: "Windsor Haze"
     hex: "#a697a7"
   - 
     name: "Windsor Purple"
     hex: "#c9afd0"
-  - 
-    name: "Windsor Tan"
-    hex: "#a75502"
   - 
     name: "Windsor Toffee"
     hex: "#ccb490"

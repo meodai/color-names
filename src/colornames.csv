@@ -54,7 +54,8 @@ Aero Blue,#c0e8d5
 Aerospace Orange,#ff4e01
 Affair,#745085
 Affinity,#fed2a5
-Afghan Tan,#905e26
+Afghan Carpet,#905e26
+Afghan Sand,#d3a95c
 African Bubinga,#c7927a
 African Mahogany,#cd4a4a
 African Safari,#b16b40
@@ -241,6 +242,7 @@ Ancestral Water,#d0d0d0
 Anchor Gray,#596062
 Anchors Away,#9ebbcd
 Ancient Bamboo,#da6304
+Ancient Chest,#99522b
 Ancient Copper,#9f543e
 Ancient Doeskin,#dcc9a8
 Ancient Earth,#746550
@@ -309,8 +311,6 @@ Antler,#957a76
 Antler Moth,#864f3e
 Anzac,#c68e3f
 Ao (English),#00800c
-Apache,#d3a95c
-Apache Tan,#d5bfa5
 Apollo Landing,#e5e5e1
 Appalachian Forest,#848b80
 Appalachian Trail,#cfb989
@@ -1307,6 +1307,7 @@ Bright Ube,#d19fe8
 Bright Umber,#826644
 Bright Violet,#784384
 Bright White,#f4f5f0
+Bright Wood Grain,#eecb88
 Bright Yarrow,#face6d
 Bright Yellow,#ffaa1d
 Brilliance,#fdfdfd
@@ -1426,7 +1427,6 @@ Burled Redwood,#8f4c3a
 Burlwood,#9b716b
 Burlywood,#deb887
 Burmese Gold,#bc8143
-Burmese Tan,#eecb88
 Burnham,#234537
 Burning Bush,#a0403e
 Burning Orange,#ff7124
@@ -2700,8 +2700,8 @@ Dark Turquoise,#00ced1
 Dark Vanilla,#d1bea8
 Dark Violet,#9400d3
 Dark Wood,#855e42
+Dark Wood Grain,#4f301f
 Dark Yellow,#9b870c
-Darker Tan,#97694f
 Darkest Spruce,#303d3c
 Darling Lilac,#c9acd6
 Darth Vader,#0b0b0b
@@ -2879,6 +2879,7 @@ Desert Mist,#e0b589
 Desert Morning,#d0bbb0
 Desert Palm,#5a4632
 Desert Panzer,#c0cabc
+Desert Riverbed,#d5a884
 Desert Rock,#d5c6bd
 Desert Rose,#cf6977
 Desert Sage,#90926f
@@ -4397,7 +4398,6 @@ Hawaiian Ocean,#008db9
 Hawaiian Shell,#f3dbd9
 Hawaiian Sunset,#bb5c14
 Hawaiian Surf,#0078a7
-Hawaiian Tan,#99522b
 Hawaiian Vacation,#77cabd
 Hawk’s Eye,#34363a
 Hawkbit,#fddb6d
@@ -4716,7 +4716,6 @@ Indian Pale Ale,#d5bc26
 Indian Princess,#da846d
 Indian Red,#98514a
 Indian Summer,#a85143
-Indian Tan,#4f301f
 Indian Teal,#3c586b
 Indian Yellow,#e3a857
 Indiana Clay,#e88a5b
@@ -5136,6 +5135,7 @@ Leather Brown,#97572b
 Leather Chair,#a3754c
 Leather Loafers,#867354
 Leather Satchel,#7c4f3a
+Leather Tan,#a48454
 Leek Green,#b7b17a
 Legendary,#c6baaf
 Legendary Gray,#787976
@@ -5590,6 +5590,7 @@ Margarita,#b5c38e
 Mariana Trench,#445956
 Marigold,#b88a3d
 Marigold Yellow,#fbe870
+Marilyn Monroe,#e7c3ac
 Marina,#4f84c4
 Marine Blue,#76afb6
 Marine Green,#40a48e
@@ -5819,7 +5820,6 @@ Middle Red,#e58e73
 Middle Red Purple,#210837
 Middle Yellow,#ffeb00
 Middle Yellow Red,#ecb176
-Midland Tan,#f3d5a1
 Midnight,#21303e
 Midnight Badger,#585960
 Midnight Blue,#191970
@@ -5965,7 +5965,7 @@ Modern Ivory,#f5ecdc
 Modern Monument,#d6d6d1
 Moderne Class,#745b49
 Modest Violet,#e9e4ef
-Moenkopi Tan,#c8a692
+Moenkopi Soil,#c8a692
 Moist Gold,#dbdb70
 Mojave Desert,#c7b595
 Mojito,#e4f3e0
@@ -5989,6 +5989,7 @@ Money,#7b9a6d
 Mongoose,#a58b6f
 Monkey Madness,#63584c
 Monks Robe,#704822
+Monroe Kiss,#dec1b8
 Monsoon,#7a7679
 Montana,#393b3c
 Montana Grape,#6c5971
@@ -6192,14 +6193,12 @@ Nasturtium,#fe6347
 Native Berry,#dc6b67
 Native Flora,#9aa099
 Native Hue of Resolution,#d33300
-Native Tan,#d5a884
 Natural,#aa907d
 Natural Bridge,#a29171
 Natural Grey,#8b8680
 Natural Light,#f1ebc8
 Natural Pumice,#4a4a43
 Natural Radiance,#e7dcc1
-Natural Tan,#f7d8c4
 Natural Wool,#fff6d7
 Nature,#bfd5b3
 Nature Spirits,#c8c8b4
@@ -6258,7 +6257,6 @@ New Kenyan Copper,#7c1c05
 New Life,#7c916e
 New Limerick,#9dc209
 New Orleans,#e4c385
-New Tan,#ebc79e
 New Wheat,#d7b57f
 New Wool,#d6c3b9
 New York Pink,#dd8374
@@ -6415,6 +6413,7 @@ Old Burgundy,#43302e
 Old Copper,#73503b
 Old Cumin,#784430
 Old Doeskin,#bdab9b
+Old Driftwood,#97694f
 Old Eggplant,#614051
 Old Faithful,#82a2be
 Old Geranium,#c66787
@@ -6857,6 +6856,7 @@ Peach Nirvana,#edb48f
 Peach Nougat,#e6af91
 Peach Orange,#ffcc99
 Peach Parfait,#f8bfa8
+Peach Patch,#f3d5a1
 Peach Pearl,#ffb2a5
 Peach Pink,#fa9a85
 Peach Puff,#ffdab9
@@ -6880,6 +6880,7 @@ Peachy Bon-Bon,#ffd2b9
 Peachy Dust,#e2bdb3
 Peachy Keen,#ffdeda
 Peachy Milk,#f3e0d8
+Peachy Sand,#ffdcb7
 Peacoat,#2b2e43
 Peacock Blue,#00a0b0
 Peacock Green,#006a50
@@ -6972,8 +6973,8 @@ Persimmon Orange,#f47327
 Perspective,#cebeda
 Persuasion,#c4ae96
 Peru,#cd853f
-Peru Tan,#733d1f
 Peruvian Lily,#cd7db5
+Peruvian Soil,#733d1f
 Pesto,#c1b23e
 Petal Dust,#f4dfcd
 Petal Pink,#f2e2e0
@@ -7045,6 +7046,7 @@ Pine Forest,#415241
 Pine Frost,#deeae0
 Pine Garland,#797e65
 Pine Glade,#bdc07e
+Pine Grain,#ebc79e
 Pine Green,#01796f
 Pine Grove,#213631
 Pine Haven,#486358
@@ -7053,6 +7055,8 @@ Pine Mist,#d5d8bc
 Pine Needle,#3a7968
 Pine Nut,#eadac2
 Pine Ridge,#6d9185
+Pine Strain,#d5bfa5
+Pine Strain,#dfb45f
 Pine Trail,#9c9f75
 Pine Tree,#2a2f23
 Pine Whisper,#b3c6b9
@@ -7260,6 +7264,7 @@ Porcelain Blue,#95c0cb
 Porcelain Green,#108780
 Porcelain Rose,#ea6b6a
 Porcelain Skin,#ffe7eb
+Porcelain Tan,#f7d8c4
 Porch Swing,#597175
 Porcini,#cca580
 Porcupine Needles,#917a75
@@ -7362,6 +7367,7 @@ Prize Winning Orchid,#cc9dc6
 Prom Corsage,#e7c3e7
 Promenade,#f8f6df
 Prophetic Sea,#818b9c
+Prosciutto,#e0b4a4
 Prosecco,#fad6a5
 Proton Red,#840804
 Provence,#658dc6
@@ -8098,7 +8104,6 @@ Sanguine Brown,#6c3736
 Santa Fe,#b16d52
 Santa Fe Sunrise,#cc9469
 Santa Fe Sunset,#a75a4c
-Santa Fe Tan,#dfb45f
 Santana Soul,#714636
 Santas Grey,#9fa0b1
 Sante Fe,#a96a50
@@ -9030,7 +9035,6 @@ Summer Solstice,#ded1a3
 Summer Storm,#b0c5df
 Summer Sun,#ffdc00
 Summer Sunset,#d88167
-Summer Tan,#e0b4a4
 Summer Weasel,#bb8e55
 Summer's Heat,#f9e699
 Summertime,#f2d178
@@ -9197,7 +9201,6 @@ Taffy Pink,#fea6c8
 Taffy Twist,#aad0ba
 Tahiti Gold,#dc722a
 Tahitian Sand,#f5dcb4
-Tahitian Tan,#ffdcb7
 Tahitian Tide,#006b7e
 Tahitian Treat,#00686d
 Tahoe Snow,#d7e1e5
@@ -9247,7 +9250,6 @@ Tangy Taffy,#e7cac3
 Tank Grey,#848481
 Tanned Wood,#8f6e4b
 Tannin,#a68a6d
-Tantalizing Tan,#e7c3ac
 Tanzanite,#1478a7
 Taos Taupe,#bfa77f
 Tap Shoe,#2a2b2d
@@ -9271,7 +9273,6 @@ Tassel Flower,#f9c0ce
 Tatami,#deccaf
 Tattered Teddy,#a2806f
 Tattle Tail,#80736a
-Tattle Tan,#a48454
 Taupe,#483c41
 Taupe Grey,#8b8589
 Taupe Tapestry,#c3a79a
@@ -9526,7 +9527,6 @@ Transcend,#c3ac98
 Translucent Silk,#ffe9e1
 Translucent Vision,#e5efd7
 Transparent Yellow,#f4ecc2
-Traveling Tan,#dec1b8
 Travertine,#e2ddc7
 Treasure Casket,#9b7856
 Treasure Chest,#726854
@@ -9575,11 +9575,11 @@ Tropical Rain Forest,#00755e
 Tropical Siesta,#ddc073
 Tropical Splash,#70cbce
 Tropical Tale,#e0deb8
-Tropical Tan,#ba8f68
 Tropical Teal,#008794
 Tropical Tide,#5ecaae
 Tropical Violet,#cda5df
 Tropical Waterfall,#bee7e2
+Tropical Wood,#ba8f68
 Trout,#4c5356
 True Blonde,#dcc49b
 True Blue,#0073cf
@@ -9644,9 +9644,9 @@ Tuscan Clay,#aa5e5a
 Tuscan Mosaic,#a08d71
 Tuscan Olive,#5d583e
 Tuscan Red,#7c4848
+Tuscan Soil,#a67b5b
 Tuscan Sun,#ffd84d
 Tuscan Sunset,#bb7c3f
-Tuscan Tan,#a67b5b
 Tuscany,#ad6242
 Tusk,#e3e5b1
 Tussock,#bf914b
@@ -10215,9 +10215,9 @@ Window Box,#bcafbb
 Window Pane,#e4ecdf
 Windrock,#5e6c62
 Windsor,#462c77
+Windsor Brown,#a75502
 Windsor Haze,#a697a7
 Windsor Purple,#c9afd0
-Windsor Tan,#a75502
 Windsor Toffee,#ccb490
 Windsor Way,#9fc9e4
 Windsor Wine,#582b36
