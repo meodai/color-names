@@ -34,6 +34,7 @@
     "cz-conventional-changelog": "^2.0.0",
     "ghooks": "^2.0.0",
     "json2yaml": "^1.1.0",
+    "jsonexport": "^2.0.11",
     "semantic-release": "^6.3.6"
   },
   "czConfig": {
@@ -43,5 +44,6 @@
     "ghooks": {
       "pre-commit": "npm run test && npm run count-colors && npm run build"
     }
-  }
+  },
+  "dependencies": {}
 }

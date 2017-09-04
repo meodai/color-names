@@ -58,5 +58,6 @@ npm install && npm run build
 ```
 
 # Contributors
-- [yxklyx](https://github.com/yxklyx/) hunders of names!!
+- [yxklyx](https://github.com/yxklyx/) hundreds of names!!
 - [Syl](https://twitter.com/Gypsy_Syl)
+- [Stephanie Stutz](https://www.behance.net/stephaniestutzart)
