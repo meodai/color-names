@@ -16,9 +16,6 @@ My goal is to create a as big as possible color name list. I merged different [l
 
 ## [Submit a name 🌈](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform)
 
-#### Disclaimer 👉
-In the process I try to remove all names that are offensive or racist. Since some names come from other list it might happen that some slip in. [Please report them](https://github.com/meodai/color-names/issues), they will be removed as quickly as possible.
-
 ## Sources 🗒
 
 - [User submissions](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform).
@@ -62,3 +59,6 @@ npm install && npm run build
 - [yxklyx](https://github.com/yxklyx/) hundreds of names!!
 - [Syl](https://twitter.com/Gypsy_Syl)
 - [Stephanie Stutz](https://www.behance.net/stephaniestutzart)
+
+#### Disclaimer 👉
+In the process I try to remove all names that are offensive or racist. Since some names come from other list it might happen that some slip in. [Please report them](https://github.com/meodai/color-names/issues), they will be removed as quickly as possible.
