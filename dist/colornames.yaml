@@ -3939,6 +3939,9 @@
     name: "Bright Yellow"
     hex: "#ffaa1d"
   - 
+    name: "Brihaspati Orange"
+    hex: "#e2681b"
+  - 
     name: "Brilliance"
     hex: "#fdfdfd"
   - 
@@ -4178,6 +4181,9 @@
   - 
     name: "Buddha Gold"
     hex: "#bc9b1b"
+  - 
+    name: "Buddha Green"
+    hex: "#37b575"
   - 
     name: "Budding Fern"
     hex: "#edecd4"
@@ -5510,6 +5516,9 @@
   - 
     name: "Chance Of Showers"
     hex: "#9fadb7"
+  - 
+    name: "Chandra Cream"
+    hex: "#ecba5d"
   - 
     name: "Chanterelle"
     hex: "#daa520"
@@ -12792,6 +12801,9 @@
     name: "Greenland"
     hex: "#737d6a"
   - 
+    name: "Greenland Green"
+    hex: "#22acae"
+  - 
     name: "Greige"
     hex: "#b0a999"
   - 
@@ -13856,6 +13868,9 @@
   - 
     name: "Humming Bird"
     hex: "#ceefe4"
+  - 
+    name: "Humpback Whale"
+    hex: "#473b3b"
   - 
     name: "Humus"
     hex: "#b7a793"
@@ -16700,6 +16715,9 @@
   - 
     name: "Mandys Pink"
     hex: "#f5b799"
+  - 
+    name: "Mangala Pink"
+    hex: "#e781a6"
   - 
     name: "Mango"
     hex: "#b75e41"
@@ -24840,9 +24858,6 @@
     name: "Seville Scarlet"
     hex: "#955843"
   - 
-    name: "SFDR Green"
-    hex: "#22acae"
-  - 
     name: "Shabby Chic"
     hex: "#bb8a8e"
   - 
@@ -24956,6 +24971,9 @@
   - 
     name: "Shangri La"
     hex: "#ecd4d2"
+  - 
+    name: "Shani Purple"
+    hex: "#4c1050"
   - 
     name: "Shark"
     hex: "#cadcde"
@@ -25151,6 +25169,9 @@
   - 
     name: "Shrubbery"
     hex: "#a9c08a"
+  - 
+    name: "Shukra Blue"
+    hex: "#2b64ad"
   - 
     name: "Shutter Bug"
     hex: "#bba262"
@@ -25493,6 +25514,9 @@
   - 
     name: "Sisal"
     hex: "#c5baa0"
+  - 
+    name: "Sixteen Million Pink"
+    hex: "#fd02ff"
   - 
     name: "Sizzling Red"
     hex: "#ff3855"
@@ -27371,6 +27395,9 @@
   - 
     name: "Surfside"
     hex: "#9acad3"
+  - 
+    name: "Surya Red"
+    hex: "#70191f"
   - 
     name: "Sushi"
     hex: "#7c9f2f"
