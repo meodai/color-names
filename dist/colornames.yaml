@@ -1677,6 +1677,9 @@
     name: "Azure Blue"
     hex: "#4d91c6"
   - 
+    name: "Azure Dragon"
+    hex: "#053976"
+  - 
     name: "Azure Mist"
     hex: "#f0fff1"
   - 
@@ -2811,6 +2814,9 @@
     name: "Black Tie"
     hex: "#464647"
   - 
+    name: "Black Tortoise"
+    hex: "#353235"
+  - 
     name: "Black Truffle"
     hex: "#463d3e"
   - 
@@ -3563,6 +3569,9 @@
   - 
     name: "Boredom"
     hex: "#8c9c9c"
+  - 
+    name: "Borscht"
+    hex: "#8c2c24"
   - 
     name: "Boson Brown"
     hex: "#552c1c"
@@ -14889,6 +14898,9 @@
     name: "Keepsakes"
     hex: "#c0ced6"
   - 
+    name: "Kefir"
+    hex: "#d5d5ce"
+  - 
     name: "Kellie Belle"
     hex: "#dec7cf"
   - 
@@ -14957,6 +14969,9 @@
   - 
     name: "Kimberly"
     hex: "#695d87"
+  - 
+    name: "Kimchi"
+    hex: "#ed4b00"
   - 
     name: "Kimono"
     hex: "#6d86b6"
@@ -15045,6 +15060,9 @@
     name: "Kombu Green"
     hex: "#3a4032"
   - 
+    name: "Kombucha"
+    hex: "#d89f66"
+  - 
     name: "Kopi Luwak"
     hex: "#833d3e"
   - 
@@ -15077,6 +15095,9 @@
   - 
     name: "Kuroi Black"
     hex: "#14151d"
+  - 
+    name: "Kvass"
+    hex: "#c7610f"
   - 
     name: "La Grange"
     hex: "#7a7a60"
@@ -16667,6 +16688,9 @@
   - 
     name: "Mallardish"
     hex: "#3a4531"
+  - 
+    name: "Malmö FF"
+    hex: "#a7d7ff"
   - 
     name: "Malt"
     hex: "#ddcfbc"
@@ -19253,6 +19277,9 @@
   - 
     name: "Okra"
     hex: "#fdefe9"
+  - 
+    name: "Okroshka"
+    hex: "#40533d"
   - 
     name: "Old Army Helmet"
     hex: "#616652"
@@ -29436,6 +29463,9 @@
     name: "Vermilion (Plochere)"
     hex: "#d9623b"
   - 
+    name: "Vermilion Bird"
+    hex: "#f24433"
+  - 
     name: "Vermillion Orange"
     hex: "#f9633b"
   - 
@@ -30480,6 +30510,9 @@
     name: "White Swan"
     hex: "#e4d7c5"
   - 
+    name: "White Tiger"
+    hex: "#c5b8a8"
+  - 
     name: "White Truffle"
     hex: "#efdbcd"
   - 
@@ -31202,6 +31235,9 @@
   - 
     name: "Yellow Diamond"
     hex: "#f6f1d7"
+  - 
+    name: "Yellow Dragon"
+    hex: "#f8e47e"
   - 
     name: "Yellow Endive"
     hex: "#d2cc81"
