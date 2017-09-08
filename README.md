@@ -12,7 +12,7 @@ A handpicked list of __10488__ unique color names from various sources and thous
 > The names of color function like a thread attached to a frightfully slender needle, capable of stitching together our most delicate emotions and memories. When the needle hits the target, we feel either pleasure or emathy. **Kenya Hara – White**
 
 ## Process 📋
-My goal is to create a as big as possible color name list. I merged different [lists](#sources-), modified the names when they where the same but had different hex values, and I shifted the colors a bit when the same color had different names but the same value.
+My goal is to create a color name list as big as possible. I've merged various [lists](#sources-), modified the names when there were duplicates with different hex values, and shifted the colors a bit when there were identical colors with different names.
 
 ## [Submit a name 🌈](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform)
 
@@ -65,4 +65,4 @@ npm install && npm run build
 - [Stephanie Stutz](https://www.behance.net/stephaniestutzart)
 
 #### Disclaimer 👉
-In the process I try to remove all names that are offensive or racist. Since some names come from other list it might happen that some slip in. [Please report them](https://github.com/meodai/color-names/issues), they will be removed as quickly as possible.
+In the process I'll try to remove all names that are offensive or racist. As some of the color names come from other lists, it might happen that some bad ones slip in. [Please report them](https://github.com/meodai/color-names/issues), they will be removed as quickly as possible.
