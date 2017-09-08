@@ -6,15 +6,17 @@
 [![license](https://img.shields.io/npm/l/color-name-list.svg?colorB=ff77b4)](https://github.com/meodai/color-names/blob/master/LICENSE)
 [![color count](https://img.shields.io/badge/__10488__-colors-orange.svg)](https://github.com/meodai/color-names/blob/master/src/colornames.csv)
 
-
 A handpicked list of __10488__ unique color names from various sources and thousands of user submissions. [Try it yourself](http://codepen.io/meodai/full/mEvZRx/) or read [the full list](https://docs.google.com/spreadsheets/d/14ny2oB7g5Tof9TmKiaaDFv25XSCRt-LlBRJhIDz_3Mo/pubhtml?gid=40578722).
 
 > The names of color function like a thread attached to a frightfully slender needle, capable of stitching together our most delicate emotions and memories. When the needle hits the target, we feel either pleasure or emathy. **Kenya Hara – White**
 
-## Process 📋
-My goal is to create a color name list as big as possible. I've merged various [lists](#sources-), modified the names when there were duplicates with different hex values, and shifted the colors a bit when there were identical colors with different names.
+## About 📋
+
+The aim of this project is to create a as large possible color name list. We've merged various [lists](#sources-), modified the names when there were duplicates with different hex values, and shifted the colors a bit when there were identical colors with different names.
 
 ## [Submit a name 🌈](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform)
+
+### color count: __10488__ 🎉
 
 ## Sources 🗒
 
@@ -39,13 +41,27 @@ or
 yarn add color-name-list
 ```
 
-### color count: __10488__
 
-### Experimental API
-`https://color-names.herokuapp.com/v1/{{hexvalue without the #}}`
-ex: [https://color-names.herokuapp.com/v1/060606](https://color-names.herokuapp.com/v1/060606)
+### Experimental API 🃏
+
+```
+https://color-names.herokuapp.com/v1/{{hexvalue without the #}}
+```
+
+ex: `curl `[https://color-names.herokuapp.com/v1/060606](https://color-names.herokuapp.com/v1/060606)
+
+```
+{
+  "query":"060606",
+  "name":"Black Metal",
+  "hex":"#060606",
+  "rgb":{"r":6,"g":6,"b":6},
+  "isExact":true
+}
+```
 
 ### Usage JS ⌨
+
 ```javascript
 import namedColors from 'color-name-list';
 
@@ -55,14 +71,17 @@ console.log(someColor.name) // => white
 ```
 
 ### Create a new build 🔨
+
 ```
 npm install && npm run build
 ```
 
-# Contributors
+# Contributors 🦑
+
 - [yxklyx](https://github.com/yxklyx/) hundreds of names!!
 - [Syl](https://twitter.com/Gypsy_Syl)
 - [Stephanie Stutz](https://www.behance.net/stephaniestutzart)
 
-#### Disclaimer 👉
-In the process I'll try to remove all names that are offensive or racist. As some of the color names come from other lists, it might happen that some bad ones slip in. [Please report them](https://github.com/meodai/color-names/issues), they will be removed as quickly as possible.
+#### Disclaimer ⚠️
+
+In the process we try to remove all names that are offensive or racist. As some of the color names come from other lists, it might happen that some bad ones slip in. [Please report them](https://github.com/meodai/color-names/issues), they will be removed as quickly as possible.
