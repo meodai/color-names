@@ -41,6 +41,10 @@ yarn add color-name-list
 
 ### color count: __10488__
 
+### Experimental API
+`https://color-names.herokuapp.com/v1/{{hexvalue without the #}}`
+ex: [https://color-names.herokuapp.com/v1/060606](https://color-names.herokuapp.com/v1/060606)
+
 ### Usage JS ⌨
 ```javascript
 import namedColors from 'color-name-list';
