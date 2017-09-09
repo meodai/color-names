@@ -10,13 +10,16 @@ A handpicked list of __10754__ unique color names from various sources and thous
 
 > The names of color function like a thread attached to a frightfully slender needle, capable of stitching together our most delicate emotions and memories. When the needle hits the target, we feel either pleasure or emathy. **Kenya Hara – White**
 
+
 ## About 📋
 
 The aim of this project is to create as large a list as possible of color names. We've merged various [lists](#sources-), modified the names when there were duplicates with different hex values, and shifted the colors a bit when there were identical colors with different names.
 
 ## [Submit a name 🌈](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform)
 
+
 ### color count: __10754__ 🎉
+
 
 ## Sources 🗒
 
@@ -33,6 +36,7 @@ The aim of this project is to create as large a list as possible of color names.
 - [Traditional Colors of Japan](https://en.wikipedia.org/wiki/Traditional_colors_of_Japan)
 - Multiple Paint Brand color lists
 
+
 ### Installation JS 📦
 
 ```
@@ -42,6 +46,12 @@ or
 ```
 yarn add color-name-list
 ```
+
+### CDN 🌍
+
+- [JSON](https://unpkg.com/color-name-list/dist/colornames.json)
+- [CSV](https://unpkg.com/color-name-list/dist/colornames.csv)
+- [YML](https://unpkg.com/color-name-list/dist/colornames.yaml)
 
 
 ### Experimental API 🃏
@@ -62,6 +72,7 @@ ex: `curl `[https://color-names.herokuapp.com/v1/060606](https://color-names.her
 }
 ```
 
+
 ### Usage JS ⌨
 
 ```javascript
@@ -72,11 +83,13 @@ console.log(someColor.name) // => white
 
 ```
 
+
 ### Create a new build 🔨
 
 ```
 npm install && npm run build
 ```
+
 
 # Contributors 🦑
 
