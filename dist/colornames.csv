@@ -362,6 +362,7 @@ April Wedding,#c5cfb1
 Aqua,#00ffff
 Aqua Bloom,#96d3d8
 Aqua Blue,#5e97a9
+Aqua Cyan,#01f1f1
 Aqua Deep,#014b43
 Aqua Fiesta,#8cc3c3
 Aqua Foam,#adc3b4
@@ -383,7 +384,6 @@ Aqua Tint,#e5f1ee
 Aqua Velvet,#00a29e
 Aqua Whisper,#bfdfdf
 Aqua Zing,#7cd8d6
-Aqua-Cyan,#01f1f1
 Aquamarine,#d6eae8
 Aquamarine Blue,#71d9e2
 Aquamarine Dream,#b3c4ba
@@ -1067,6 +1067,7 @@ Blue Granite,#717388
 Blue Graphite,#323137
 Blue Grass,#007c7a
 Blue Green,#199ebd
+Blue Green Rules,#d8eeed
 Blue Grey,#6699cc
 Blue Grotto,#5cacce
 Blue Haze,#bdbace
@@ -1140,8 +1141,6 @@ Blue Wing Teal,#2c4053
 Blue Yonder,#5a77a8
 Blue Zephyr,#5b6676
 Blue Zodiac,#3c4354
-Blue-Green Rules,#d8eeed
-Blue-Violet,#8a2be2
 Bluebell,#333399
 Blueberry,#0433ff
 Blueberry Muffin,#5588ab
@@ -1234,6 +1233,7 @@ Boysenberry Shadow,#f1f3f9
 Bracken,#5b3d27
 Braided Raffia,#e1d0af
 Brainstorm,#d1d3c0
+Bramble Jam,#c71581
 Bran,#a66e4a
 Brandeis Blue,#0070ff
 Brandied Apricot,#ca848a
@@ -1286,6 +1286,7 @@ Brierwood Green,#545e4f
 Brig O'Doon,#ddcfbf
 Brigade,#365d73
 Bright Aqua,#30a299
+Bright Blue Violet,#8a2be2
 Bright Camouflage,#1cac78
 Bright Cerulean,#1dacd6
 Bright Chambray,#adbfc8
@@ -2640,10 +2641,10 @@ Dark,#634950
 Dark & Stormy,#353f51
 Dark Ash,#8c8475
 Dark Blue,#00008b
-Dark Blue-Grey,#666699
+Dark Blue Grey,#666699
 Dark Brown,#654321
 Dark Brown Sugar,#af7b57
-Dark Brown-Tangelo,#88654e
+Dark Brown Tangelo,#88654e
 Dark Burgundy,#770f05
 Dark Byzantium,#5d3954
 Dark Camouflage Green,#4f4d32
@@ -2676,6 +2677,7 @@ Dark Green,#013220
 Dark Green Copper,#4a766e
 Dark Green Velvet,#4a5b51
 Dark Grey,#a9a8a8
+Dark Grey Blue,#4d587a
 Dark Gull Grey,#625d5d
 Dark Gunmetal,#1f262a
 Dark Imperial Blue,#00416a
@@ -2744,6 +2746,7 @@ Dark Violet,#9400d3
 Dark Wood,#855e42
 Dark Wood Grain,#4f301f
 Dark Yellow,#9b870c
+Dark Yellow Green,#9acd32
 Darkest Spruce,#303d3c
 Darkness,#16160e
 Darling Lilac,#c9acd6
@@ -3687,7 +3690,6 @@ Fountain Blue,#65adb2
 Fountain City,#9cd4cf
 Fountain Frolic,#e4e4c5
 Four Leaf Clover,#738f5d
-Four-leaf Clover,#757d43
 Fox,#c38743
 Foxfire Brown,#9f6949
 Foxglove,#b98391
@@ -4009,11 +4011,11 @@ Gluon Gray,#1a1b1c
 Go Bananas,#f7ca50
 Go Ben,#786e4c
 Go Go Glow,#fcecd5
+Go Go Green,#008a7d
 Go Go Mango,#feb87e
 GO Green,#00ab66
 Go Green!,#359e6b
 Go To Gray,#dcd8d7
-Go-Go Green,#008a7d
 Goat,#a89a91
 Goblin,#34533d
 Goblin Blue,#5f7278
@@ -4325,7 +4327,7 @@ Grenadier,#c14d36
 Grenadine,#ac545e
 Grey,#808080
 Grey Asparagus,#465945
-Grey Blue,#4d587a
+Grey Blue,#8c92ac
 Grey Blueberry,#6c8096
 Grey Chateau,#9fa3a7
 Grey Cloud,#747880
@@ -4348,7 +4350,6 @@ Grey Ridge,#847986
 Grey Sand,#e5ccaf
 Grey Suit,#9391a0
 Grey Violet,#bbbcbc
-Grey-Blue,#8c92ac
 Greybeard,#d4d0c5
 Greyed Jade,#9bbea9
 Greyhound,#b2aca2
@@ -4618,6 +4619,7 @@ Honey Bee,#fcdfa4
 Honey Beehive,#d39f5f
 Honey Beige,#f3e2c6
 Honey Bunny,#dbb881
+Honey Do,#ededc7
 Honey Flower,#5c3c6d
 Honey Fungus,#d18e54
 Honey Ginger,#a86217
@@ -4633,7 +4635,6 @@ Honey Peach,#dcbd9e
 Honey Pot,#ffc863
 Honey Robber,#dfbb86
 Honey Yellow,#ca9456
-Honey-Do,#ededc7
 Honeydew,#f0fff0
 Honeydew Melon,#e6eccc
 Honeydew Peel,#d4fb79
@@ -5036,7 +5037,7 @@ Kashmir,#6f8d6a
 Kashmir Blue,#576d8e
 Katydid,#66bc91
 Kazakhstan Flag Yellow,#fec50c
-Keel-Joy,#d49595
+Keel Joy,#d49595
 Keepsake,#678779
 Keepsake Lilac,#c0a5ae
 Keepsake Rose,#b08693
@@ -5265,6 +5266,7 @@ Lemon Ice,#fffee6
 Lemon Icing,#f6ebc8
 Lemon Juice,#ffffec
 Lemon Lime,#e3ff00
+Lemon Lime Mojito,#cbba61
 Lemon Meringue,#f6e199
 Lemon Pepper,#ebeca7
 Lemon Pie,#f1ff62
@@ -5279,7 +5281,6 @@ Lemon Sponge Cake,#f7f0e1
 Lemon Verbena,#f3e779
 Lemon Yellow,#fff44f
 Lemon Zest,#f9d857
-Lemon-Lime Mojito,#cbba61
 Lemonade,#f0e79d
 Lemonade Stand,#f2ca3b
 Lemonwood Place,#f9f3d7
@@ -5407,7 +5408,7 @@ Lime Cream,#d7e8bc
 Lime Daiquiri,#dde6d7
 Lime Flip,#d2e3cc
 Lime Green,#32cd32
-Lime Hawk-Moth,#cdaea5
+Lime Hawk Moth,#cdaea5
 Lime Meringue,#e6ecd6
 Lime Peel,#c6c191
 Lime Popsicle,#c0db3a
@@ -5601,8 +5602,8 @@ Magenta (Dye),#ca1f7b
 Magenta (Pantone),#d0417e
 Magenta (Process),#ff0090
 Magenta Haze,#9d446e
+Magenta Pink,#cc338b
 Magenta Purple,#6b264b
-Magenta-Pink,#cc338b
 Maggie's Magic,#ddeee2
 Magic Carpet,#9488be
 Magic Dust,#817c85
@@ -5844,7 +5845,7 @@ Medium Taupe,#674c47
 Medium Turquoise,#48d1cc
 Medium Tuscan Red,#794431
 Medium Vermilion,#d9603b
-Medium Violet-Red,#c71585
+Medium Violet Red,#c71585
 Medium Wood,#a68064
 Meek Moss Green,#869f98
 Meerkat,#a46f44
@@ -6552,6 +6553,7 @@ Old Driftwood,#97694f
 Old Eggplant,#614051
 Old Faithful,#82a2be
 Old Fashioned Purple,#73486b
+Old Four Leaf Clover,#757d43
 Old Geranium,#c66787
 Old Glory Blue,#002868
 Old Glory Red,#bf0a30
@@ -6654,6 +6656,7 @@ Orange Peel,#ffa000
 Orange Pepper,#df7500
 Orange Poppy,#e68750
 Orange Popsicle,#ff7913
+Orange Red,#ff4500
 Orange Roughy,#a85335
 Orange Rust,#c25a3c
 Orange Salmonberry,#f0b073
@@ -6662,9 +6665,8 @@ Orange Tea Rose,#ff8379
 Orange Tiger,#f96714
 Orange Vermillion,#bc5339
 Orange White,#eae3cd
+Orange Yellow,#f8d568
 Orange Zest,#f07227
-Orange-Red,#ff4500
-Orange-Yellow,#f8d568
 Orangeade,#e2552c
 Orangeville,#e57059
 Orbital,#6d83bb
@@ -6816,7 +6818,7 @@ Pale Lilac,#e1c6cc
 Pale Lily,#f3ece7
 Pale Lime Yellow,#dfe69f
 Pale Magenta,#f984e5
-Pale Magenta-Pink,#ff99cc
+Pale Magenta Pink,#ff99cc
 Pale Marigold,#ffc66e
 Pale Mauve,#c6a4a4
 Pale Morning,#fcfcda
@@ -6839,7 +6841,7 @@ Pale Plum Blossom,#f0908d
 Pale Prim,#f9f59f
 Pale Primrose,#eec8d3
 Pale Rays,#fff8d5
-Pale Red-Violet,#db7192
+Pale Red Violet,#db7192
 Pale Robin Egg Blue,#96ded1
 Pale Rose,#efd6da
 Pale Sand,#e5d5ba
@@ -6855,7 +6857,7 @@ Pale Turquoise,#afeee1
 Pale Ultramarine,#5383c3
 Pale View,#f3f2e1
 Pale Violet,#cc99ff
-Pale Violet-Red,#db7093
+Pale Violet Red,#db7093
 Pale Vista,#d8dece
 Pale Wheat,#fcf0e5
 Pale Wisteris,#bbc8e6
@@ -7264,6 +7266,7 @@ Pink Lotus,#fadbd7
 Pink Makeup,#fc80a5
 Pink Mist,#e6bccd
 Pink Nectar,#d8aab7
+Pink Orange,#ff9066
 Pink Orchid,#da70d6
 Pink Orthoclase,#aa98a9
 Pink Pail,#eaced4
@@ -7291,7 +7294,6 @@ Pink Tint,#dbcbbd
 Pink Tutu,#f9e4e9
 Pink Yarrow,#ce3175
 Pink-N-Purple,#866180
-Pink-Orange,#ff9066
 Pinot Noir,#605258
 Pinwheel Geyser,#d2dcde
 Pinyon Pine,#625a42
@@ -7784,6 +7786,7 @@ Red Alert,#ff0101
 Red Bean,#3d0c02
 Red Beech,#7b3801
 Red Berry,#701f28
+Red Brown,#a52a2f
 Red Bud,#962d49
 Red Cabbage,#534a77
 Red Cedar,#d87678
@@ -7810,12 +7813,14 @@ Red Ochre,#913832
 Red October,#fe2712
 Red Onion,#473442
 Red Orange,#ff3f34
+Red Orange Juice,#ff5349
 Red Oxide,#5d1f1e
 Red Pear,#7b3539
 Red Perfume,#f6b894
 Red Pigment,#ed1c24
 Red Plum,#7c2946
 Red Power,#d63d3b
+Red Purple,#e40078
 Red Red Wine,#71424a
 Red Revival,#a8453b
 Red Ribbon,#ed0a3f
@@ -7832,11 +7837,7 @@ Red Sparowes,#c8756d
 Red Stage,#ad522e
 Red Velvet,#783b38
 Red Violet,#c0448f
-Red-Brown,#a52a2f
-Red-Orange,#ff5349
-Red-Purple,#e40078
 Red-Tailed-Hawk,#a27547
-Red-Violet,#c71581
 Rediscover,#c3cdc9
 Redrock,#b29e9d
 Redstone,#e46b71
@@ -10178,7 +10179,7 @@ Vivid Orange Peel,#ffa102
 Vivid Orchid,#cc00ff
 Vivid Raspberry,#ff006c
 Vivid Red,#f70d1a
-Vivid Red-Tangelo,#df6124
+Vivid Red Tangelo,#df6124
 Vivid Sky Blue,#00ccff
 Vivid Tangelo,#f07427
 Vivid Tangerine,#ff9980
@@ -10676,7 +10677,6 @@ Yellow Stone Park,#e4d6ba
 Yellow Summer,#f9b500
 Yellow Sunshine,#fff601
 Yellow Yarn,#fef6be
-Yellow-Green,#9acd32
 Yeti Footprint,#c7d7e0
 Yin Mist,#3b3c3c
 YInMn Blue,#2e5090

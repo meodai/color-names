@@ -1089,6 +1089,9 @@
     name: "Aqua Blue"
     hex: "#5e97a9"
   - 
+    name: "Aqua Cyan"
+    hex: "#01f1f1"
+  - 
     name: "Aqua Deep"
     hex: "#014b43"
   - 
@@ -1151,9 +1154,6 @@
   - 
     name: "Aqua Zing"
     hex: "#7cd8d6"
-  - 
-    name: "Aqua-Cyan"
-    hex: "#01f1f1"
   - 
     name: "Aquamarine"
     hex: "#d6eae8"
@@ -3204,6 +3204,9 @@
     name: "Blue Green"
     hex: "#199ebd"
   - 
+    name: "Blue Green Rules"
+    hex: "#d8eeed"
+  - 
     name: "Blue Grey"
     hex: "#6699cc"
   - 
@@ -3422,12 +3425,6 @@
   - 
     name: "Blue Zodiac"
     hex: "#3c4354"
-  - 
-    name: "Blue-Green Rules"
-    hex: "#d8eeed"
-  - 
-    name: "Blue-Violet"
-    hex: "#8a2be2"
   - 
     name: "Bluebell"
     hex: "#333399"
@@ -3705,6 +3702,9 @@
     name: "Brainstorm"
     hex: "#d1d3c0"
   - 
+    name: "Bramble Jam"
+    hex: "#c71581"
+  - 
     name: "Bran"
     hex: "#a66e4a"
   - 
@@ -3860,6 +3860,9 @@
   - 
     name: "Bright Aqua"
     hex: "#30a299"
+  - 
+    name: "Bright Blue Violet"
+    hex: "#8a2be2"
   - 
     name: "Bright Camouflage"
     hex: "#1cac78"
@@ -7923,7 +7926,7 @@
     name: "Dark Blue"
     hex: "#00008b"
   - 
-    name: "Dark Blue-Grey"
+    name: "Dark Blue Grey"
     hex: "#666699"
   - 
     name: "Dark Brown"
@@ -7932,7 +7935,7 @@
     name: "Dark Brown Sugar"
     hex: "#af7b57"
   - 
-    name: "Dark Brown-Tangelo"
+    name: "Dark Brown Tangelo"
     hex: "#88654e"
   - 
     name: "Dark Burgundy"
@@ -8030,6 +8033,9 @@
   - 
     name: "Dark Grey"
     hex: "#a9a8a8"
+  - 
+    name: "Dark Grey Blue"
+    hex: "#4d587a"
   - 
     name: "Dark Gull Grey"
     hex: "#625d5d"
@@ -8234,6 +8240,9 @@
   - 
     name: "Dark Yellow"
     hex: "#9b870c"
+  - 
+    name: "Dark Yellow Green"
+    hex: "#9acd32"
   - 
     name: "Darkest Spruce"
     hex: "#303d3c"
@@ -11064,9 +11073,6 @@
     name: "Four Leaf Clover"
     hex: "#738f5d"
   - 
-    name: "Four-leaf Clover"
-    hex: "#757d43"
-  - 
     name: "Fox"
     hex: "#c38743"
   - 
@@ -12030,6 +12036,9 @@
     name: "Go Go Glow"
     hex: "#fcecd5"
   - 
+    name: "Go Go Green"
+    hex: "#008a7d"
+  - 
     name: "Go Go Mango"
     hex: "#feb87e"
   - 
@@ -12041,9 +12050,6 @@
   - 
     name: "Go To Gray"
     hex: "#dcd8d7"
-  - 
-    name: "Go-Go Green"
-    hex: "#008a7d"
   - 
     name: "Goat"
     hex: "#a89a91"
@@ -12979,7 +12985,7 @@
     hex: "#465945"
   - 
     name: "Grey Blue"
-    hex: "#4d587a"
+    hex: "#8c92ac"
   - 
     name: "Grey Blueberry"
     hex: "#6c8096"
@@ -13046,9 +13052,6 @@
   - 
     name: "Grey Violet"
     hex: "#bbbcbc"
-  - 
-    name: "Grey-Blue"
-    hex: "#8c92ac"
   - 
     name: "Greybeard"
     hex: "#d4d0c5"
@@ -13857,6 +13860,9 @@
     name: "Honey Bunny"
     hex: "#dbb881"
   - 
+    name: "Honey Do"
+    hex: "#ededc7"
+  - 
     name: "Honey Flower"
     hex: "#5c3c6d"
   - 
@@ -13901,9 +13907,6 @@
   - 
     name: "Honey Yellow"
     hex: "#ca9456"
-  - 
-    name: "Honey-Do"
-    hex: "#ededc7"
   - 
     name: "Honeydew"
     hex: "#f0fff0"
@@ -15111,7 +15114,7 @@
     name: "Kazakhstan Flag Yellow"
     hex: "#fec50c"
   - 
-    name: "Keel-Joy"
+    name: "Keel Joy"
     hex: "#d49595"
   - 
     name: "Keepsake"
@@ -15798,6 +15801,9 @@
     name: "Lemon Lime"
     hex: "#e3ff00"
   - 
+    name: "Lemon Lime Mojito"
+    hex: "#cbba61"
+  - 
     name: "Lemon Meringue"
     hex: "#f6e199"
   - 
@@ -15839,9 +15845,6 @@
   - 
     name: "Lemon Zest"
     hex: "#f9d857"
-  - 
-    name: "Lemon-Lime Mojito"
-    hex: "#cbba61"
   - 
     name: "Lemonade"
     hex: "#f0e79d"
@@ -16224,7 +16227,7 @@
     name: "Lime Green"
     hex: "#32cd32"
   - 
-    name: "Lime Hawk-Moth"
+    name: "Lime Hawk Moth"
     hex: "#cdaea5"
   - 
     name: "Lime Meringue"
@@ -16806,11 +16809,11 @@
     name: "Magenta Haze"
     hex: "#9d446e"
   - 
+    name: "Magenta Pink"
+    hex: "#cc338b"
+  - 
     name: "Magenta Purple"
     hex: "#6b264b"
-  - 
-    name: "Magenta-Pink"
-    hex: "#cc338b"
   - 
     name: "Maggie's Magic"
     hex: "#ddeee2"
@@ -17535,7 +17538,7 @@
     name: "Medium Vermilion"
     hex: "#d9603b"
   - 
-    name: "Medium Violet-Red"
+    name: "Medium Violet Red"
     hex: "#c71585"
   - 
     name: "Medium Wood"
@@ -19659,6 +19662,9 @@
     name: "Old Fashioned Purple"
     hex: "#73486b"
   - 
+    name: "Old Four Leaf Clover"
+    hex: "#757d43"
+  - 
     name: "Old Geranium"
     hex: "#c66787"
   - 
@@ -19965,6 +19971,9 @@
     name: "Orange Popsicle"
     hex: "#ff7913"
   - 
+    name: "Orange Red"
+    hex: "#ff4500"
+  - 
     name: "Orange Roughy"
     hex: "#a85335"
   - 
@@ -19989,14 +19998,11 @@
     name: "Orange White"
     hex: "#eae3cd"
   - 
+    name: "Orange Yellow"
+    hex: "#f8d568"
+  - 
     name: "Orange Zest"
     hex: "#f07227"
-  - 
-    name: "Orange-Red"
-    hex: "#ff4500"
-  - 
-    name: "Orange-Yellow"
-    hex: "#f8d568"
   - 
     name: "Orangeade"
     hex: "#e2552c"
@@ -20451,7 +20457,7 @@
     name: "Pale Magenta"
     hex: "#f984e5"
   - 
-    name: "Pale Magenta-Pink"
+    name: "Pale Magenta Pink"
     hex: "#ff99cc"
   - 
     name: "Pale Marigold"
@@ -20520,7 +20526,7 @@
     name: "Pale Rays"
     hex: "#fff8d5"
   - 
-    name: "Pale Red-Violet"
+    name: "Pale Red Violet"
     hex: "#db7192"
   - 
     name: "Pale Robin Egg Blue"
@@ -20568,7 +20574,7 @@
     name: "Pale Violet"
     hex: "#cc99ff"
   - 
-    name: "Pale Violet-Red"
+    name: "Pale Violet Red"
     hex: "#db7093"
   - 
     name: "Pale Vista"
@@ -21795,6 +21801,9 @@
     name: "Pink Nectar"
     hex: "#d8aab7"
   - 
+    name: "Pink Orange"
+    hex: "#ff9066"
+  - 
     name: "Pink Orchid"
     hex: "#da70d6"
   - 
@@ -21875,9 +21884,6 @@
   - 
     name: "Pink-N-Purple"
     hex: "#866180"
-  - 
-    name: "Pink-Orange"
-    hex: "#ff9066"
   - 
     name: "Pinot Noir"
     hex: "#605258"
@@ -23355,6 +23361,9 @@
     name: "Red Berry"
     hex: "#701f28"
   - 
+    name: "Red Brown"
+    hex: "#a52a2f"
+  - 
     name: "Red Bud"
     hex: "#962d49"
   - 
@@ -23433,6 +23442,9 @@
     name: "Red Orange"
     hex: "#ff3f34"
   - 
+    name: "Red Orange Juice"
+    hex: "#ff5349"
+  - 
     name: "Red Oxide"
     hex: "#5d1f1e"
   - 
@@ -23450,6 +23462,9 @@
   - 
     name: "Red Power"
     hex: "#d63d3b"
+  - 
+    name: "Red Purple"
+    hex: "#e40078"
   - 
     name: "Red Red Wine"
     hex: "#71424a"
@@ -23499,20 +23514,8 @@
     name: "Red Violet"
     hex: "#c0448f"
   - 
-    name: "Red-Brown"
-    hex: "#a52a2f"
-  - 
-    name: "Red-Orange"
-    hex: "#ff5349"
-  - 
-    name: "Red-Purple"
-    hex: "#e40078"
-  - 
     name: "Red-Tailed-Hawk"
     hex: "#a27547"
-  - 
-    name: "Red-Violet"
-    hex: "#c71581"
   - 
     name: "Rediscover"
     hex: "#c3cdc9"
@@ -30537,7 +30540,7 @@
     name: "Vivid Red"
     hex: "#f70d1a"
   - 
-    name: "Vivid Red-Tangelo"
+    name: "Vivid Red Tangelo"
     hex: "#df6124"
   - 
     name: "Vivid Sky Blue"
@@ -32030,9 +32033,6 @@
   - 
     name: "Yellow Yarn"
     hex: "#fef6be"
-  - 
-    name: "Yellow-Green"
-    hex: "#9acd32"
   - 
     name: "Yeti Footprint"
     hex: "#c7d7e0"
