@@ -90,12 +90,6 @@
     name: "Ace"
     hex: "#c7cce7"
   - 
-    name: "Ace Half"
-    hex: "#d4d8ed"
-  - 
-    name: "Ace Quarter"
-    hex: "#dfe2f0"
-  - 
     name: "Aceto Balsamico"
     hex: "#4e4f48"
   - 
@@ -354,12 +348,6 @@
     name: "Airborne"
     hex: "#a2c2d0"
   - 
-    name: "Airborne Half"
-    hex: "#b5d1db"
-  - 
-    name: "Airborne Quarter"
-    hex: "#c6dde4"
-  - 
     name: "Aircraft Blue"
     hex: "#354f58"
   - 
@@ -524,12 +512,6 @@
   - 
     name: "Alley Cat"
     hex: "#656874"
-  - 
-    name: "Alley Half"
-    hex: "#c8d2e2"
-  - 
-    name: "Alley Quarter"
-    hex: "#d6dee9"
   - 
     name: "Alliance"
     hex: "#2b655f"
@@ -906,12 +888,6 @@
     name: "Amethyst Ice"
     hex: "#d0c9c6"
   - 
-    name: "Amethyst Ice Half"
-    hex: "#dcd6d3"
-  - 
-    name: "Amethyst Ice Quarter"
-    hex: "#e5e1dd"
-  - 
     name: "Amethyst Orchid"
     hex: "#926aa6"
   - 
@@ -935,12 +911,6 @@
   - 
     name: "Amourette"
     hex: "#c8c5d7"
-  - 
-    name: "Amourette Half"
-    hex: "#d4d3e0"
-  - 
-    name: "Amourette Quarter"
-    hex: "#e0dfe8"
   - 
     name: "Amparo Blue"
     hex: "#4960a8"
@@ -1056,23 +1026,11 @@
     name: "Angel Kiss"
     hex: "#cec7dc"
   - 
-    name: "Angel Kiss Half"
-    hex: "#dad4e4"
-  - 
-    name: "Angel Kiss Quarter"
-    hex: "#e3dfea"
-  - 
     name: "Angel Wing"
     hex: "#f3dfd7"
   - 
     name: "Angel's Face"
     hex: "#eed4c8"
-  - 
-    name: "Angel's Face Half"
-    hex: "#f3dfd5"
-  - 
-    name: "Angel's Face Quarter"
-    hex: "#f6e8df"
   - 
     name: "Angel's Feather"
     hex: "#f3f1e6"
@@ -1082,12 +1040,6 @@
   - 
     name: "Angelic Blue"
     hex: "#bbc6d6"
-  - 
-    name: "Angelic Blue Half"
-    hex: "#cbd4df"
-  - 
-    name: "Angelic Blue Quarter"
-    hex: "#d8dee7"
   - 
     name: "Angelic Choir"
     hex: "#e9d9dc"
@@ -1103,12 +1055,6 @@
   - 
     name: "Angora Blue"
     hex: "#b9c6d8"
-  - 
-    name: "Angora Blue Half"
-    hex: "#c9d4e1"
-  - 
-    name: "Angora Blue Quarter"
-    hex: "#d6dfe8"
   - 
     name: "Angora Pink"
     hex: "#ebdfea"
@@ -1149,12 +1095,6 @@
     name: "Anon"
     hex: "#bdbfc8"
   - 
-    name: "Anon Half"
-    hex: "#cdced5"
-  - 
-    name: "Anon Quarter"
-    hex: "#d9dbdf"
-  - 
     name: "Anonymous"
     hex: "#dadcd3"
   - 
@@ -1172,12 +1112,6 @@
   - 
     name: "Antarctica Lake"
     hex: "#bfd2d0"
-  - 
-    name: "Antarctica Lake Half"
-    hex: "#ceddda"
-  - 
-    name: "Antarctica Lake Quarter"
-    hex: "#dbe7e3"
   - 
     name: "Antelope"
     hex: "#b19664"
@@ -1253,12 +1187,6 @@
   - 
     name: "Antique Lace"
     hex: "#fdf2db"
-  - 
-    name: "Antique Lace Half"
-    hex: "#dad1ce"
-  - 
-    name: "Antique Lace Quarter"
-    hex: "#e3dcda"
   - 
     name: "Antique Linen"
     hex: "#faeedb"
@@ -1374,12 +1302,6 @@
     name: "Apple Cucumber"
     hex: "#dbdbbc"
   - 
-    name: "Apple Cucumber Half"
-    hex: "#e4e4cb"
-  - 
-    name: "Apple Cucumber Quarter"
-    hex: "#ebebd7"
-  - 
     name: "Apple Custard"
     hex: "#fddfae"
   - 
@@ -1409,12 +1331,6 @@
   - 
     name: "Apple Slice"
     hex: "#f1f0bf"
-  - 
-    name: "Apple Slice Half"
-    hex: "#f4f3cd"
-  - 
-    name: "Apple Slice Quarter"
-    hex: "#f3f4d9"
   - 
     name: "Apple Valley"
     hex: "#ea8386"
@@ -1539,12 +1455,6 @@
     name: "Aqua Clear"
     hex: "#8bd0dd"
   - 
-    name: "Aqua Clear Half"
-    hex: "#a5dbe5"
-  - 
-    name: "Aqua Clear Quarter"
-    hex: "#bce4eb"
-  - 
     name: "Aqua Cyan"
     hex: "#01f1f1"
   - 
@@ -1569,12 +1479,6 @@
     name: "Aqua Frost"
     hex: "#a9d1d7"
   - 
-    name: "Aqua Frost Half"
-    hex: "#bddde1"
-  - 
-    name: "Aqua Frost Quarter"
-    hex: "#cce5e8"
-  - 
     name: "Aqua Glass"
     hex: "#d2e8e0"
   - 
@@ -1595,12 +1499,6 @@
   - 
     name: "Aqua Mist"
     hex: "#a0c9cb"
-  - 
-    name: "Aqua Mist Half"
-    hex: "#b5d5d7"
-  - 
-    name: "Aqua Mist Quarter"
-    hex: "#c6e0e1"
   - 
     name: "Aqua Oasis"
     hex: "#bce8dd"
@@ -1755,12 +1653,6 @@
     name: "Arctic Daisy"
     hex: "#ebe4be"
   - 
-    name: "Arctic Daisy Half"
-    hex: "#f1ebcd"
-  - 
-    name: "Arctic Daisy Quarter"
-    hex: "#f3f0d9"
-  - 
     name: "Arctic Dawn"
     hex: "#e3e5e8"
   - 
@@ -1856,12 +1748,6 @@
   - 
     name: "Aroma Garden"
     hex: "#a1c4a8"
-  - 
-    name: "Aroma Half"
-    hex: "#decfd2"
-  - 
-    name: "Aroma Quarter"
-    hex: "#e7dbdd"
   - 
     name: "Aromatic"
     hex: "#706986"
@@ -2493,12 +2379,6 @@
     name: "Baby Motive"
     hex: "#8fcbdc"
   - 
-    name: "Baby Motive Half"
-    hex: "#a7d8e4"
-  - 
-    name: "Baby Motive Quarter"
-    hex: "#bce1eb"
-  - 
     name: "Baby Pink"
     hex: "#f4c2c2"
   - 
@@ -2516,12 +2396,6 @@
   - 
     name: "Baby Tone"
     hex: "#dcc2cb"
-  - 
-    name: "Baby Tone Half"
-    hex: "#e4cfd7"
-  - 
-    name: "Baby Tone Quarter"
-    hex: "#ecdbe0"
   - 
     name: "Baby's Blanket"
     hex: "#ffaec1"
@@ -2669,12 +2543,6 @@
   - 
     name: "Ballet Blue"
     hex: "#afc4d9"
-  - 
-    name: "Ballet Blue Half"
-    hex: "#c2d1e2"
-  - 
-    name: "Ballet Blue Quarter"
-    hex: "#d0dde9"
   - 
     name: "Ballet Shoes"
     hex: "#edb9bd"
@@ -2982,12 +2850,6 @@
     name: "Bassinet"
     hex: "#d3c1cb"
   - 
-    name: "Bassinet Half"
-    hex: "#ded0d8"
-  - 
-    name: "Bassinet Quarter"
-    hex: "#e7dbe1"
-  - 
     name: "Bastille"
     hex: "#2c2c32"
   - 
@@ -3005,12 +2867,6 @@
   - 
     name: "Bathing"
     hex: "#93c9d0"
-  - 
-    name: "Bathing Half"
-    hex: "#abd5dc"
-  - 
-    name: "Bathing Quarter"
-    hex: "#bfe0e4"
   - 
     name: "Batman"
     hex: "#656e72"
@@ -3062,12 +2918,6 @@
   - 
     name: "Bay Fog"
     hex: "#9899b0"
-  - 
-    name: "Bay Fog Half"
-    hex: "#d6ced3"
-  - 
-    name: "Bay Fog Quarter"
-    hex: "#e1dadd"
   - 
     name: "Bay Isle Pointe"
     hex: "#214048"
@@ -3339,12 +3189,6 @@
     name: "Beige Royal"
     hex: "#cfc8b8"
   - 
-    name: "Beige Royal Half"
-    hex: "#dad5c7"
-  - 
-    name: "Beige Royal Quarter"
-    hex: "#e4e0d4"
-  - 
     name: "Bel Air Blue"
     hex: "#819ac1"
   - 
@@ -3513,12 +3357,6 @@
     name: "Beru"
     hex: "#bfe4d4"
   - 
-    name: "Beru Half"
-    hex: "#cfebde"
-  - 
-    name: "Beru Quarter"
-    hex: "#daf0e6"
-  - 
     name: "Beryl Green"
     hex: "#bcbfa8"
   - 
@@ -3539,12 +3377,6 @@
   - 
     name: "Bethany"
     hex: "#cadbbd"
-  - 
-    name: "Bethany Half"
-    hex: "#d7e4cc"
-  - 
-    name: "Bethany Quarter"
-    hex: "#e1ebd8"
   - 
     name: "Betsy"
     hex: "#73c9d9"
@@ -4095,12 +3927,6 @@
     name: "Bleached Bare"
     hex: "#d0c7c3"
   - 
-    name: "Bleached Bare Half"
-    hex: "#dcd5d2"
-  - 
-    name: "Bleached Bare Quarter"
-    hex: "#e5dfdc"
-  - 
     name: "Bleached Bark"
     hex: "#8b7f78"
   - 
@@ -4109,12 +3935,6 @@
   - 
     name: "Bleached Coral"
     hex: "#ffd6d1"
-  - 
-    name: "Bleached Coral Half"
-    hex: "#fde0dc"
-  - 
-    name: "Bleached Coral Quarter"
-    hex: "#fbe8e4"
   - 
     name: "Bleached Denim"
     hex: "#646f9b"
@@ -4139,12 +3959,6 @@
   - 
     name: "Bleaches"
     hex: "#c7c7c3"
-  - 
-    name: "Bleaches Half"
-    hex: "#d5d4d0"
-  - 
-    name: "Bleaches Quarter"
-    hex: "#e0dfdb"
   - 
     name: "Bleeding Heart"
     hex: "#e66a77"
@@ -4173,17 +3987,11 @@
     name: "Blissful"
     hex: "#ddc4d4"
   - 
-    name: "Blissful Half"
-    hex: "#e5d2dd"
-  - 
     name: "Blissful Meditation"
     hex: "#d5daee"
   - 
     name: "Blissful Orange"
     hex: "#ffac39"
-  - 
-    name: "Blissful Quarter"
-    hex: "#ecdde5"
   - 
     name: "Blissful Serenity"
     hex: "#eaeed8"
@@ -4248,12 +4056,6 @@
     name: "Blossom Time"
     hex: "#e5d2c9"
   - 
-    name: "Blossom Time Half"
-    hex: "#ecddd6"
-  - 
-    name: "Blossom Time Quarter"
-    hex: "#f2e6e1"
-  - 
     name: "Blowout"
     hex: "#658499"
   - 
@@ -4302,12 +4104,6 @@
     name: "Blue Ballerina"
     hex: "#b4c7db"
   - 
-    name: "Blue Ballerina Half"
-    hex: "#c6d5e4"
-  - 
-    name: "Blue Ballerina Quarter"
-    hex: "#d3dfea"
-  - 
     name: "Blue Ballet"
     hex: "#576b6b"
   - 
@@ -4319,12 +4115,6 @@
   - 
     name: "Blue Bayou"
     hex: "#bec4d3"
-  - 
-    name: "Blue Bayou Half"
-    hex: "#cdd2de"
-  - 
-    name: "Blue Bayou Quarter"
-    hex: "#d9dde5"
   - 
     name: "Blue Bayoux"
     hex: "#62777e"
@@ -4371,12 +4161,6 @@
     name: "Blue Booties"
     hex: "#c8ddee"
   - 
-    name: "Blue Booties Half"
-    hex: "#97d5ea"
-  - 
-    name: "Blue Booties Quarter"
-    hex: "#afe0ef"
-  - 
     name: "Blue Bottle"
     hex: "#394e65"
   - 
@@ -4413,12 +4197,6 @@
     name: "Blue Charm"
     hex: "#82c2db"
   - 
-    name: "Blue Charm Half"
-    hex: "#9cd0e4"
-  - 
-    name: "Blue Charm Quarter"
-    hex: "#b3dbea"
-  - 
     name: "Blue Chill"
     hex: "#408f90"
   - 
@@ -4430,12 +4208,6 @@
   - 
     name: "Blue Cloud"
     hex: "#627188"
-  - 
-    name: "Blue Cloud Half"
-    hex: "#d2d3e1"
-  - 
-    name: "Blue Cloud Quarter"
-    hex: "#dddfe8"
   - 
     name: "Blue Coral"
     hex: "#1b5366"
@@ -4454,12 +4226,6 @@
   - 
     name: "Blue Dam"
     hex: "#a2c6d3"
-  - 
-    name: "Blue Dam Half"
-    hex: "#b6d5de"
-  - 
-    name: "Blue Dam Quarter"
-    hex: "#c7dfe6"
   - 
     name: "Blue Danube"
     hex: "#0087b6"
@@ -4548,12 +4314,6 @@
     name: "Blue Glint"
     hex: "#92c6d7"
   - 
-    name: "Blue Glint Half"
-    hex: "#a8d3e1"
-  - 
-    name: "Blue Glint Quarter"
-    hex: "#bcdfe8"
-  - 
     name: "Blue Glow"
     hex: "#b2d4dd"
   - 
@@ -4617,12 +4377,6 @@
     name: "Blue Ice"
     hex: "#70789b"
   - 
-    name: "Blue Ice Half"
-    hex: "#b7d2e3"
-  - 
-    name: "Blue Ice Quarter"
-    hex: "#c8ddea"
-  - 
     name: "Blue Iguana"
     hex: "#539ccc"
   - 
@@ -4664,12 +4418,6 @@
   - 
     name: "Blue Limewash"
     hex: "#7fcce2"
-  - 
-    name: "Blue Limewash Half"
-    hex: "#9bd7e9"
-  - 
-    name: "Blue Limewash Quarter"
-    hex: "#b2e1ee"
   - 
     name: "Blue Linen"
     hex: "#5a5e6a"
@@ -4713,12 +4461,6 @@
     name: "Blue Mist"
     hex: "#5bacc3"
   - 
-    name: "Blue Mist Half"
-    hex: "#bed7f0"
-  - 
-    name: "Blue Mist Quarter"
-    hex: "#cee1f2"
-  - 
     name: "Blue Monday"
     hex: "#637983"
   - 
@@ -4727,12 +4469,6 @@
   - 
     name: "Blue Moon"
     hex: "#3686a0"
-  - 
-    name: "Blue Moon Half"
-    hex: "#c9ccd2"
-  - 
-    name: "Blue Moon Quarter"
-    hex: "#d6d9dd"
   - 
     name: "Blue Mosque"
     hex: "#21426b"
@@ -4827,12 +4563,6 @@
     name: "Blue Rinse"
     hex: "#b7bdc6"
   - 
-    name: "Blue Rinse Half"
-    hex: "#c7cdd3"
-  - 
-    name: "Blue Rinse Quarter"
-    hex: "#d5d9dd"
-  - 
     name: "Blue Romance"
     hex: "#d8f0d2"
   - 
@@ -4899,12 +4629,6 @@
     name: "Blue Stream"
     hex: "#95cdd8"
   - 
-    name: "Blue Stream Half"
-    hex: "#add8e1"
-  - 
-    name: "Blue Stream Quarter"
-    hex: "#c1e3e9"
-  - 
     name: "Blue Suede"
     hex: "#687b92"
   - 
@@ -4929,12 +4653,6 @@
     name: "Blue To You"
     hex: "#babfc5"
   - 
-    name: "Blue To You Half"
-    hex: "#caced2"
-  - 
-    name: "Blue To You Quarter"
-    hex: "#d7dadd"
-  - 
     name: "Blue Topaz"
     hex: "#78bdd4"
   - 
@@ -4958,12 +4676,6 @@
   - 
     name: "Blue Veil"
     hex: "#aecbe5"
-  - 
-    name: "Blue Veil Half"
-    hex: "#c0d8eb"
-  - 
-    name: "Blue Veil Quarter"
-    hex: "#cfe1ef"
   - 
     name: "Blue Velvet"
     hex: "#0d6183"
@@ -5058,23 +4770,11 @@
     name: "Bluish Water"
     hex: "#89cfdb"
   - 
-    name: "Bluish Water Half"
-    hex: "#a4dbe4"
-  - 
-    name: "Bluish Water Quarter"
-    hex: "#bae3eb"
-  - 
     name: "Blumine"
     hex: "#305c71"
   - 
     name: "Blunt"
     hex: "#b5bbc7"
-  - 
-    name: "Blunt Half"
-    hex: "#c6ccd4"
-  - 
-    name: "Blunt Quarter"
-    hex: "#d3d8de"
   - 
     name: "Blush"
     hex: "#b55067"
@@ -5132,12 +4832,6 @@
   - 
     name: "Bobby Blue"
     hex: "#97c5da"
-  - 
-    name: "Bobby Blue Half"
-    hex: "#add2e3"
-  - 
-    name: "Bobby Blue Quarter"
-    hex: "#c1deea"
   - 
     name: "Bobcat Whiskers"
     hex: "#eadfd0"
@@ -5472,12 +5166,6 @@
     name: "Bread Crumb"
     hex: "#e4d4be"
   - 
-    name: "Bread Crumb Half"
-    hex: "#ebdfcd"
-  - 
-    name: "Bread Crumb Quarter"
-    hex: "#f2e8d7"
-  - 
     name: "Bread Crust"
     hex: "#b78b43"
   - 
@@ -5492,12 +5180,6 @@
   - 
     name: "Breakaway Blue"
     hex: "#424d60"
-  - 
-    name: "Breakaway Half"
-    hex: "#dae3d0"
-  - 
-    name: "Breakaway Quarter"
-    hex: "#e3eadb"
   - 
     name: "Breaker Bay"
     hex: "#517b78"
@@ -5534,12 +5216,6 @@
   - 
     name: "Breezy Beige"
     hex: "#f7f2d7"
-  - 
-    name: "Breezy Half"
-    hex: "#c0d5ef"
-  - 
-    name: "Breezy Quarter"
-    hex: "#cfe0f2"
   - 
     name: "Brewed Mustard"
     hex: "#e68364"
@@ -5744,12 +5420,6 @@
   - 
     name: "Bright Spark"
     hex: "#76c1e1"
-  - 
-    name: "Bright Spark Half"
-    hex: "#94d0e9"
-  - 
-    name: "Bright Spark Quarter"
-    hex: "#acdcee"
   - 
     name: "Bright Star"
     hex: "#dde2e6"
@@ -6006,12 +5676,6 @@
     name: "Brume"
     hex: "#c6c6c2"
   - 
-    name: "Brume Half"
-    hex: "#d6d5d2"
-  - 
-    name: "Brume Quarter"
-    hex: "#e0e0dc"
-  - 
     name: "Brunette"
     hex: "#664238"
   - 
@@ -6096,12 +5760,6 @@
     name: "Budding Bloom"
     hex: "#deeabd"
   - 
-    name: "Budding Bloom Half"
-    hex: "#e6efcc"
-  - 
-    name: "Budding Bloom Quarter"
-    hex: "#ecf3d8"
-  - 
     name: "Budding Fern"
     hex: "#edecd4"
   - 
@@ -6110,12 +5768,6 @@
   - 
     name: "Budgie Blue"
     hex: "#84c9e1"
-  - 
-    name: "Budgie Blue Half"
-    hex: "#9ed6e8"
-  - 
-    name: "Budgie Blue Quarter"
-    hex: "#b4dfed"
   - 
     name: "Budōnezumi Grape"
     hex: "#63424b"
@@ -6128,12 +5780,6 @@
   - 
     name: "Buff It"
     hex: "#d9cfbe"
-  - 
-    name: "Buff It Half"
-    hex: "#e3dbcd"
-  - 
-    name: "Buff It Quarter"
-    hex: "#eae4d8"
   - 
     name: "Buff Orange"
     hex: "#ffbb7c"
@@ -6225,20 +5871,8 @@
     name: "Bunny Pink"
     hex: "#dec3c9"
   - 
-    name: "Bunny Pink Half"
-    hex: "#e4cfd3"
-  - 
-    name: "Bunny Pink Quarter"
-    hex: "#ebdbdd"
-  - 
     name: "Bunny Soft"
     hex: "#d3bfc4"
-  - 
-    name: "Bunny Soft Half"
-    hex: "#deced1"
-  - 
-    name: "Bunny Soft Quarter"
-    hex: "#e8dbdd"
   - 
     name: "Bunny Tail"
     hex: "#ffe3f4"
@@ -6540,12 +6174,6 @@
     name: "Bypass"
     hex: "#b6c4d2"
   - 
-    name: "Bypass Half"
-    hex: "#c6d2de"
-  - 
-    name: "Bypass Quarter"
-    hex: "#d3dde4"
-  - 
     name: "Byron Place"
     hex: "#31667d"
   - 
@@ -6816,12 +6444,6 @@
     name: "Cameo Blue"
     hex: "#769da6"
   - 
-    name: "Cameo Blue Half"
-    hex: "#c6d4e1"
-  - 
-    name: "Cameo Blue Quarter"
-    hex: "#d4dee8"
-  - 
     name: "Cameo Brown"
     hex: "#c08a80"
   - 
@@ -6842,12 +6464,6 @@
   - 
     name: "Camisole"
     hex: "#fcd9c7"
-  - 
-    name: "Camisole Half"
-    hex: "#fce2d4"
-  - 
-    name: "Camisole Quarter"
-    hex: "#fbe9de"
   - 
     name: "Camo Green"
     hex: "#baab74"
@@ -6914,12 +6530,6 @@
   - 
     name: "Candela"
     hex: "#bac4d5"
-  - 
-    name: "Candela Half"
-    hex: "#c9d2df"
-  - 
-    name: "Candela Quarter"
-    hex: "#d6dde6"
   - 
     name: "Candelabra"
     hex: "#e1c161"
@@ -7272,12 +6882,6 @@
     name: "Cargo River"
     hex: "#cfcdbb"
   - 
-    name: "Cargo River Half"
-    hex: "#dbd9c9"
-  - 
-    name: "Cargo River Quarter"
-    hex: "#e4e2d6"
-  - 
     name: "Caribbean Cruise"
     hex: "#3f9da9"
   - 
@@ -7380,12 +6984,6 @@
     name: "Carolina Green"
     hex: "#008b6d"
   - 
-    name: "Carolina Half"
-    hex: "#d8f3d7"
-  - 
-    name: "Carolina Quarter"
-    hex: "#e2f5e1"
-  - 
     name: "Carona"
     hex: "#fba52e"
   - 
@@ -7412,12 +7010,6 @@
   - 
     name: "Carrot Flower"
     hex: "#cbd3c1"
-  - 
-    name: "Carrot Flower Half"
-    hex: "#d8decf"
-  - 
-    name: "Carrot Flower Quarter"
-    hex: "#e3e6da"
   - 
     name: "Carrot Orange"
     hex: "#ed9121"
@@ -7692,23 +7284,11 @@
     name: "Celery Satin"
     hex: "#d0d8be"
   - 
-    name: "Celery Satin Half"
-    hex: "#dbe2cc"
-  - 
-    name: "Celery Satin Quarter"
-    hex: "#e5ead8"
-  - 
     name: "Celery Sprig"
     hex: "#9ed686"
   - 
     name: "Celery Stick"
     hex: "#caedd0"
-  - 
-    name: "Celery Stick Half"
-    hex: "#d8f2dc"
-  - 
-    name: "Celery Stick Quarter"
-    hex: "#e2f4e4"
   - 
     name: "Celery Victor"
     hex: "#cceec2"
@@ -7859,12 +7439,6 @@
   - 
     name: "Chalk Blue"
     hex: "#ccdad7"
-  - 
-    name: "Chalk Blue Half"
-    hex: "#c4eee8"
-  - 
-    name: "Chalk Blue Quarter"
-    hex: "#d3f2ed"
   - 
     name: "Chalk Pink"
     hex: "#e6c5ca"
@@ -8331,12 +7905,6 @@
     name: "China Doll"
     hex: "#f3e4d5"
   - 
-    name: "China Doll Half"
-    hex: "#e7d8c7"
-  - 
-    name: "China Doll Quarter"
-    hex: "#ede2d4"
-  - 
     name: "China Ivory"
     hex: "#fbf3d3"
   - 
@@ -8426,12 +7994,6 @@
   - 
     name: "Chintz"
     hex: "#d5c7b9"
-  - 
-    name: "Chintz Half"
-    hex: "#e0d5c9"
-  - 
-    name: "Chintz Quarter"
-    hex: "#e8e0d5"
   - 
     name: "Chintz Rose"
     hex: "#eec4be"
@@ -8562,12 +8124,6 @@
     name: "Christobel"
     hex: "#d4c5ba"
   - 
-    name: "Christobel Half"
-    hex: "#dfd3ca"
-  - 
-    name: "Christobel Quarter"
-    hex: "#e7ded7"
-  - 
     name: "Chrome Chalice"
     hex: "#cdc8d2"
   - 
@@ -8687,12 +8243,6 @@
   - 
     name: "Cippolino"
     hex: "#c8cec3"
-  - 
-    name: "Cippolino Half"
-    hex: "#d5dad1"
-  - 
-    name: "Cippolino Quarter"
-    hex: "#e0e4db"
   - 
     name: "Circus"
     hex: "#fc5e30"
@@ -8858,12 +8408,6 @@
   - 
     name: "Clay Pipe"
     hex: "#d9c8b7"
-  - 
-    name: "Clay Pipe Half"
-    hex: "#e3d6c7"
-  - 
-    name: "Clay Pipe Quarter"
-    hex: "#ebe1d4"
   - 
     name: "Clay Play"
     hex: "#774433"
@@ -9056,12 +8600,6 @@
   - 
     name: "Club Cruise"
     hex: "#8bc3e1"
-  - 
-    name: "Club Cruise Half"
-    hex: "#a3d1e8"
-  - 
-    name: "Club Cruise Quarter"
-    hex: "#b8dced"
   - 
     name: "Club Moss"
     hex: "#6b977a"
@@ -9465,12 +9003,6 @@
     name: "Continental Waters"
     hex: "#98c6cb"
   - 
-    name: "Continental Waters Half"
-    hex: "#afd5d8"
-  - 
-    name: "Continental Waters Quarter"
-    hex: "#c2dfe2"
-  - 
     name: "Cook's Bay"
     hex: "#014e83"
   - 
@@ -9512,12 +9044,6 @@
   - 
     name: "Cool Crayon"
     hex: "#b0e6e3"
-  - 
-    name: "Cool Crayon Half"
-    hex: "#c3ece9"
-  - 
-    name: "Cool Crayon Quarter"
-    hex: "#d3f1ee"
   - 
     name: "Cool Current"
     hex: "#283c44"
@@ -10008,12 +9534,6 @@
     name: "Cowardly Custard"
     hex: "#fbf1c0"
   - 
-    name: "Cowardly Custard Half"
-    hex: "#faf3cf"
-  - 
-    name: "Cowardly Custard Quarter"
-    hex: "#f9f5da"
-  - 
     name: "Cowboy"
     hex: "#443736"
   - 
@@ -10142,12 +9662,6 @@
   - 
     name: "Cream Cake"
     hex: "#e3d0ad"
-  - 
-    name: "Cream Cake Half"
-    hex: "#f9eecb"
-  - 
-    name: "Cream Cake Quarter"
-    hex: "#faf1d7"
   - 
     name: "Cream Can"
     hex: "#eec051"
@@ -10425,12 +9939,6 @@
     name: "Crushed Almond"
     hex: "#d4cac5"
   - 
-    name: "Crushed Almond Half"
-    hex: "#ddd7d1"
-  - 
-    name: "Crushed Almond Quarter"
-    hex: "#e7e1dd"
-  - 
     name: "Crushed Berries"
     hex: "#d15b9b"
   - 
@@ -10581,12 +10089,6 @@
     name: "Cuddle"
     hex: "#bccae8"
   - 
-    name: "Cuddle Half"
-    hex: "#cbd7ed"
-  - 
-    name: "Cuddle Quarter"
-    hex: "#d8e1f1"
-  - 
     name: "Cuddlepot"
     hex: "#ad8068"
   - 
@@ -10634,12 +10136,6 @@
   - 
     name: "Curd"
     hex: "#f8e1ba"
-  - 
-    name: "Curd Half"
-    hex: "#f9e9c9"
-  - 
-    name: "Curd Quarter"
-    hex: "#f9eed6"
   - 
     name: "Curds And Whey"
     hex: "#bca483"
@@ -10827,12 +10323,6 @@
     name: "Daly Waters"
     hex: "#afdadf"
   - 
-    name: "Daly Waters Half"
-    hex: "#c2e4e7"
-  - 
-    name: "Daly Waters Quarter"
-    hex: "#d1eaec"
-  - 
     name: "Damask"
     hex: "#fcf2df"
   - 
@@ -10901,12 +10391,6 @@
   - 
     name: "Dante Peak"
     hex: "#b4d5d5"
-  - 
-    name: "Dante Peak Half"
-    hex: "#c6dedf"
-  - 
-    name: "Dante Peak Quarter"
-    hex: "#d4e7e7"
   - 
     name: "Danube"
     hex: "#5b89c0"
@@ -11337,12 +10821,6 @@
     name: "Day Dreamer"
     hex: "#d9cdc4"
   - 
-    name: "Day Dreamer Half"
-    hex: "#e2d9d2"
-  - 
-    name: "Day Dreamer Quarter"
-    hex: "#eae2dc"
-  - 
     name: "Day Glow"
     hex: "#eadd82"
   - 
@@ -11462,12 +10940,6 @@
   - 
     name: "Dedication"
     hex: "#fee2c8"
-  - 
-    name: "Dedication Half"
-    hex: "#fce9d5"
-  - 
-    name: "Dedication Quarter"
-    hex: "#faeede"
   - 
     name: "Deduction"
     hex: "#d4cb83"
@@ -11892,12 +11364,6 @@
     name: "Delphin"
     hex: "#86c4da"
   - 
-    name: "Delphin Half"
-    hex: "#9ed1e3"
-  - 
-    name: "Delphin Quarter"
-    hex: "#b5dcea"
-  - 
     name: "Delphinium Blue"
     hex: "#6198ae"
   - 
@@ -11918,12 +11384,6 @@
   - 
     name: "Deluxe Days"
     hex: "#8bc7e6"
-  - 
-    name: "Deluxe Days Half"
-    hex: "#a4d4ec"
-  - 
-    name: "Deluxe Days Quarter"
-    hex: "#b9def0"
   - 
     name: "Demerara Sugar"
     hex: "#e1b270"
@@ -12111,12 +11571,6 @@
     name: "Detroit"
     hex: "#bdd0d1"
   - 
-    name: "Detroit Half"
-    hex: "#cddbdc"
-  - 
-    name: "Detroit Quarter"
-    hex: "#d9e5e4"
-  - 
     name: "Deutzia White"
     hex: "#f7fcfe"
   - 
@@ -12152,12 +11606,6 @@
   - 
     name: "Dewpoint"
     hex: "#b2ced2"
-  - 
-    name: "Dewpoint Half"
-    hex: "#c4dadd"
-  - 
-    name: "Dewpoint Quarter"
-    hex: "#d3e3e5"
   - 
     name: "Dexter"
     hex: "#6bb1b4"
@@ -12558,12 +12006,6 @@
     name: "Dreamweaver"
     hex: "#ccc6d7"
   - 
-    name: "Dreamweaver Half"
-    hex: "#d7d3e0"
-  - 
-    name: "Dreamweaver Quarter"
-    hex: "#e1dee7"
-  - 
     name: "Drenched Rain"
     hex: "#c1d1e2"
   - 
@@ -12663,12 +12105,6 @@
     name: "Dry Lichen"
     hex: "#c7d9cc"
   - 
-    name: "Dry Lichen Half"
-    hex: "#d4e3d7"
-  - 
-    name: "Dry Lichen Quarter"
-    hex: "#dfeae1"
-  - 
     name: "Dry Mud"
     hex: "#777672"
   - 
@@ -12713,12 +12149,6 @@
   - 
     name: "Duck Egg Cream"
     hex: "#c8e3d2"
-  - 
-    name: "Duck Egg Cream Half"
-    hex: "#d5ebdd"
-  - 
-    name: "Duck Egg Cream Quarter"
-    hex: "#e0f0e5"
   - 
     name: "Duck Green"
     hex: "#53665c"
@@ -13032,12 +12462,6 @@
     name: "Easter Rabbit"
     hex: "#c7bfc3"
   - 
-    name: "Easter Rabbit Half"
-    hex: "#d4ced1"
-  - 
-    name: "Easter Rabbit Quarter"
-    hex: "#ded9db"
-  - 
     name: "Eastern Blue"
     hex: "#00879f"
   - 
@@ -13137,14 +12561,8 @@
     name: "Ecru"
     hex: "#c2b280"
   - 
-    name: "Ecru Half"
-    hex: "#e5deca"
-  - 
     name: "Ecru Olive"
     hex: "#927b3c"
-  - 
-    name: "Ecru Quarter"
-    hex: "#ede7d7"
   - 
     name: "Ecru Wealth"
     hex: "#d5cdb4"
@@ -13223,12 +12641,6 @@
   - 
     name: "Eggshell Pink"
     hex: "#cdc4ba"
-  - 
-    name: "Eggshell Pink Half"
-    hex: "#d9d2c9"
-  - 
-    name: "Eggshell Pink Quarter"
-    hex: "#e3dcd6"
   - 
     name: "Egret"
     hex: "#f3ece0"
@@ -13389,12 +12801,6 @@
     name: "Ellen"
     hex: "#e2c8b7"
   - 
-    name: "Ellen Half"
-    hex: "#ead5c7"
-  - 
-    name: "Ellen Quarter"
-    hex: "#f0e0d4"
-  - 
     name: "Ellis Mist"
     hex: "#778070"
   - 
@@ -13419,35 +12825,11 @@
     name: "Elusive Blue"
     hex: "#dde4e8"
   - 
-    name: "Elusive Blue Half"
-    hex: "#c5ced8"
-  - 
-    name: "Elusive Blue Quarter"
-    hex: "#d3dae1"
-  - 
     name: "Elusive Dream"
     hex: "#cdbfc6"
   - 
-    name: "Elusive Dream Half"
-    hex: "#d8cdd3"
-  - 
-    name: "Elusive Dream Quarter"
-    hex: "#e2d9dd"
-  - 
-    name: "Elusive Half"
-    hex: "#fddfda"
-  - 
     name: "Elusive Mauve"
     hex: "#dec4d2"
-  - 
-    name: "Elusive Mauve Half"
-    hex: "#e6d1dc"
-  - 
-    name: "Elusive Mauve Quarter"
-    hex: "#eddde4"
-  - 
-    name: "Elusive Quarter"
-    hex: "#fce8e3"
   - 
     name: "Elusive Violet"
     hex: "#d4c0c5"
@@ -13577,12 +12959,6 @@
   - 
     name: "Enchanted Evening"
     hex: "#d3e9ec"
-  - 
-    name: "Enchanted Half"
-    hex: "#d6eadb"
-  - 
-    name: "Enchanted Quarter"
-    hex: "#e0efe3"
   - 
     name: "Enchanted Wood"
     hex: "#94895f"
@@ -13778,12 +13154,6 @@
   - 
     name: "Eskimo White"
     hex: "#c2bdc2"
-  - 
-    name: "Eskimo White Half"
-    hex: "#d1cdd0"
-  - 
-    name: "Eskimo White Quarter"
-    hex: "#dcd9db"
   - 
     name: "Esplanade"
     hex: "#d5bda4"
@@ -14139,12 +13509,6 @@
     name: "Fairy Pink"
     hex: "#eed3cb"
   - 
-    name: "Fairy Pink Half"
-    hex: "#f3ded7"
-  - 
-    name: "Fairy Pink Quarter"
-    hex: "#f6e7e1"
-  - 
     name: "Fairy Princess"
     hex: "#f6dbdd"
   - 
@@ -14159,12 +13523,6 @@
   - 
     name: "Fairy Wings"
     hex: "#ffebf2"
-  - 
-    name: "Fairy Wings Half"
-    hex: "#fbdcdc"
-  - 
-    name: "Fairy Wings Quarter"
-    hex: "#fae6e5"
   - 
     name: "Fairy Wren"
     hex: "#9479af"
@@ -14301,23 +13659,11 @@
     name: "Favourite Lady"
     hex: "#e3c5d6"
   - 
-    name: "Favourite Lady Half"
-    hex: "#ead3e0"
-  - 
-    name: "Favourite Lady Quarter"
-    hex: "#f0dee7"
-  - 
     name: "Fawn"
     hex: "#e5aa70"
   - 
     name: "Feather Boa"
     hex: "#f1c9cd"
-  - 
-    name: "Feather Boa Half"
-    hex: "#f5d6d8"
-  - 
-    name: "Feather Boa Quarter"
-    hex: "#f7e0e1"
   - 
     name: "Feather Falls"
     hex: "#606972"
@@ -14330,12 +13676,6 @@
   - 
     name: "Featherbed"
     hex: "#afcbe5"
-  - 
-    name: "Featherbed Half"
-    hex: "#c1d8eb"
-  - 
-    name: "Featherbed Quarter"
-    hex: "#cfe2ef"
   - 
     name: "Featherstone"
     hex: "#cdc7bb"
@@ -14361,12 +13701,6 @@
     name: "Feijoa Flower"
     hex: "#edf2c3"
   - 
-    name: "Feijoa Flower Half"
-    hex: "#f1f4d1"
-  - 
-    name: "Feijoa Flower Quarter"
-    hex: "#f3f5dc"
-  - 
     name: "Feldgrau"
     hex: "#4d5d53"
   - 
@@ -14387,12 +13721,6 @@
   - 
     name: "Femininity"
     hex: "#c7c2ce"
-  - 
-    name: "Femininity Half"
-    hex: "#d4d1d9"
-  - 
-    name: "Femininity Quarter"
-    hex: "#dedce2"
   - 
     name: "Femme Fatale"
     hex: "#948593"
@@ -14538,12 +13866,6 @@
     name: "Figurine"
     hex: "#e4d5c0"
   - 
-    name: "Figurine Half"
-    hex: "#ebe0cf"
-  - 
-    name: "Figurine Quarter"
-    hex: "#f0e8da"
-  - 
     name: "Fiji Coral"
     hex: "#6b5f68"
   - 
@@ -14682,12 +14004,6 @@
     name: "First Love"
     hex: "#cf758a"
   - 
-    name: "First Love Half"
-    hex: "#fce6db"
-  - 
-    name: "First Love Quarter"
-    hex: "#faede3"
-  - 
     name: "First Plum"
     hex: "#b87592"
   - 
@@ -14711,12 +14027,6 @@
   - 
     name: "Fish Pond"
     hex: "#86c8ed"
-  - 
-    name: "Fish Pond Half"
-    hex: "#a1d5f1"
-  - 
-    name: "Fish Pond Quarter"
-    hex: "#b7dff3"
   - 
     name: "Fisher King"
     hex: "#5182b9"
@@ -14816,12 +14126,6 @@
   - 
     name: "Flaxen Fair"
     hex: "#e3ddbd"
-  - 
-    name: "Flaxen Fair Half"
-    hex: "#eae6cc"
-  - 
-    name: "Flaxen Fair Quarter"
-    hex: "#efedd8"
   - 
     name: "Flaxseed"
     hex: "#f7e6c6"
@@ -14960,12 +14264,6 @@
   - 
     name: "Flower Centre"
     hex: "#fde6c6"
-  - 
-    name: "Flower Centre Half"
-    hex: "#fbecd3"
-  - 
-    name: "Flower Centre Quarter"
-    hex: "#f9f1dd"
   - 
     name: "Flower Girl Dress"
     hex: "#ede7e6"
@@ -15252,12 +14550,6 @@
     name: "Foundation"
     hex: "#f8e8c5"
   - 
-    name: "Foundation Half"
-    hex: "#f8eed3"
-  - 
-    name: "Foundation Quarter"
-    hex: "#f8f2de"
-  - 
     name: "Fountain Blue"
     hex: "#65adb2"
   - 
@@ -15393,12 +14685,6 @@
     name: "French Limestone"
     hex: "#c9d6c2"
   - 
-    name: "French Limestone Half"
-    hex: "#d5e0d0"
-  - 
-    name: "French Limestone Quarter"
-    hex: "#e1e9db"
-  - 
     name: "French Market"
     hex: "#a2c7a3"
   - 
@@ -15434,12 +14720,6 @@
   - 
     name: "French Vanilla"
     hex: "#efe1a7"
-  - 
-    name: "French Vanilla Half"
-    hex: "#fbe8ce"
-  - 
-    name: "French Vanilla Quarter"
-    hex: "#faeed9"
   - 
     name: "French Violet"
     hex: "#8806ce"
@@ -15528,12 +14808,6 @@
     name: "Fresh Lime"
     hex: "#d8f1cb"
   - 
-    name: "Fresh Lime Half"
-    hex: "#e2f4d7"
-  - 
-    name: "Fresh Lime Quarter"
-    hex: "#e9f6e0"
-  - 
     name: "Fresh Linen"
     hex: "#ebe8da"
   - 
@@ -15581,12 +14855,6 @@
   - 
     name: "Freshman"
     hex: "#e6f2c4"
-  - 
-    name: "Freshman Half"
-    hex: "#ecf4d2"
-  - 
-    name: "Freshman Quarter"
-    hex: "#f0f6dd"
   - 
     name: "Friar Brown"
     hex: "#6e493a"
@@ -15684,12 +14952,6 @@
     name: "Frosted Sugar"
     hex: "#d5bcc2"
   - 
-    name: "Frosted Sugar Half"
-    hex: "#dfcbcf"
-  - 
-    name: "Frosted Sugar Quarter"
-    hex: "#e8d8da"
-  - 
     name: "Frosted Tulip"
     hex: "#f6d8d7"
   - 
@@ -15704,12 +14966,6 @@
   - 
     name: "Frosty Dawn"
     hex: "#cbe9c9"
-  - 
-    name: "Frosty Dawn Half"
-    hex: "#d7efd5"
-  - 
-    name: "Frosty Dawn Quarter"
-    hex: "#e1f2df"
   - 
     name: "Frosty Day"
     hex: "#ccebf5"
@@ -15749,12 +15005,6 @@
   - 
     name: "Frozen Frappe"
     hex: "#ddc5d2"
-  - 
-    name: "Frozen Frappe Half"
-    hex: "#e6d2dc"
-  - 
-    name: "Frozen Frappe Quarter"
-    hex: "#ecdee5"
   - 
     name: "Frozen Grass"
     hex: "#deeadc"
@@ -16080,12 +15330,6 @@
     name: "Garlic Suede"
     hex: "#cdd2bc"
   - 
-    name: "Garlic Suede Half"
-    hex: "#d9ddcb"
-  - 
-    name: "Garlic Suede Quarter"
-    hex: "#e3e6d6"
-  - 
     name: "Garnet"
     hex: "#953640"
   - 
@@ -16164,12 +15408,6 @@
     name: "Gentle Calm"
     hex: "#c4cebf"
   - 
-    name: "Gentle Calm Half"
-    hex: "#d2d9cd"
-  - 
-    name: "Gentle Calm Quarter"
-    hex: "#dde2d9"
-  - 
     name: "Gentle Caress"
     hex: "#fcd7ba"
   - 
@@ -16179,23 +15417,11 @@
     name: "Gentle Giant"
     hex: "#b3ebe0"
   - 
-    name: "Gentle Giant Half"
-    hex: "#c6f0e7"
-  - 
-    name: "Gentle Giant Quarter"
-    hex: "#d5f3ec"
-  - 
     name: "Gentle Glow"
     hex: "#f6e5b9"
   - 
     name: "Gentle Touch"
     hex: "#e3d5b8"
-  - 
-    name: "Gentle Touch Half"
-    hex: "#ebe0c8"
-  - 
-    name: "Gentle Touch Quarter"
-    hex: "#f0e8d5"
   - 
     name: "Gentle Yellow"
     hex: "#fff5be"
@@ -16266,12 +15492,6 @@
     name: "Ghost Town"
     hex: "#beb6a8"
   - 
-    name: "Ghost Town Half"
-    hex: "#d4cfcc"
-  - 
-    name: "Ghost Town Quarter"
-    hex: "#dfdbd8"
-  - 
     name: "Ghost Whisperer"
     hex: "#cbd1d0"
   - 
@@ -16284,23 +15504,11 @@
     name: "Ghosting"
     hex: "#cac6ba"
   - 
-    name: "Ghosting Half"
-    hex: "#d7d3ca"
-  - 
-    name: "Ghosting Quarter"
-    hex: "#e2ded6"
-  - 
     name: "Ghostly"
     hex: "#a7a09f"
   - 
     name: "Ghostly Green"
     hex: "#d9d7b8"
-  - 
-    name: "Ghostly Green Half"
-    hex: "#e2e1c8"
-  - 
-    name: "Ghostly Green Quarter"
-    hex: "#e9e9d5"
   - 
     name: "Giant Onion"
     hex: "#665d9e"
@@ -16463,12 +15671,6 @@
   - 
     name: "Glass Bead"
     hex: "#c7bec4"
-  - 
-    name: "Glass Bead Half"
-    hex: "#d4cdd2"
-  - 
-    name: "Glass Bead Quarter"
-    hex: "#dfd9dc"
   - 
     name: "Glass Green"
     hex: "#ecead0"
@@ -17064,12 +16266,6 @@
     name: "Gracilis"
     hex: "#c4d5cb"
   - 
-    name: "Gracilis Half"
-    hex: "#d2e0d6"
-  - 
-    name: "Gracilis Quarter"
-    hex: "#dde8e0"
-  - 
     name: "Gracious"
     hex: "#f8edd7"
   - 
@@ -17099,12 +16295,6 @@
   - 
     name: "Grand Piano"
     hex: "#d8d0bd"
-  - 
-    name: "Grand Piano Half"
-    hex: "#e2dccc"
-  - 
-    name: "Grand Piano Quarter"
-    hex: "#eae5d8"
   - 
     name: "Grand Poobah"
     hex: "#864764"
@@ -17373,20 +16563,8 @@
     name: "Green Alabaster"
     hex: "#c8ccba"
   - 
-    name: "Green Alabaster Half"
-    hex: "#d5d8c9"
-  - 
-    name: "Green Alabaster Quarter"
-    hex: "#e1e2d6"
-  - 
     name: "Green Ash"
     hex: "#a0daa9"
-  - 
-    name: "Green Ash Half"
-    hex: "#d7ddcd"
-  - 
-    name: "Green Ash Quarter"
-    hex: "#e2e6d7"
   - 
     name: "Green Balloon"
     hex: "#80c4a9"
@@ -17469,12 +16647,6 @@
     name: "Green Frost"
     hex: "#d0d6bf"
   - 
-    name: "Green Frost Half"
-    hex: "#dce0cd"
-  - 
-    name: "Green Frost Quarter"
-    hex: "#e5e8d9"
-  - 
     name: "Green Gables"
     hex: "#324241"
   - 
@@ -17490,20 +16662,8 @@
     name: "Green Glacier"
     hex: "#e7f0c2"
   - 
-    name: "Green Glacier Half"
-    hex: "#eef3d0"
-  - 
-    name: "Green Glacier Quarter"
-    hex: "#f1f5db"
-  - 
     name: "Green Glint"
     hex: "#dcf1c7"
-  - 
-    name: "Green Glint Half"
-    hex: "#e5f4d5"
-  - 
-    name: "Green Glint Quarter"
-    hex: "#ebf5de"
   - 
     name: "Green Globe"
     hex: "#79aa87"
@@ -17691,12 +16851,6 @@
     name: "Green Veil"
     hex: "#e0f1c4"
   - 
-    name: "Green Veil Half"
-    hex: "#e8f4d2"
-  - 
-    name: "Green Veil Quarter"
-    hex: "#edf5dd"
-  - 
     name: "Green Velvet"
     hex: "#127453"
   - 
@@ -17705,12 +16859,6 @@
   - 
     name: "Green Wash"
     hex: "#c6ddcd"
-  - 
-    name: "Green Wash Half"
-    hex: "#d4e6d9"
-  - 
-    name: "Green Wash Quarter"
-    hex: "#deece1"
   - 
     name: "Green Waterloo"
     hex: "#2c2d24"
@@ -17754,12 +16902,6 @@
     name: "Greenette"
     hex: "#daecc5"
   - 
-    name: "Greenette Half"
-    hex: "#e2f0d2"
-  - 
-    name: "Greenette Quarter"
-    hex: "#e9f3dd"
-  - 
     name: "Greenfinch"
     hex: "#bda928"
   - 
@@ -17787,12 +16929,6 @@
     name: "Greenland Ice"
     hex: "#b9d7d6"
   - 
-    name: "Greenland Ice Half"
-    hex: "#c9e1e0"
-  - 
-    name: "Greenland Ice Quarter"
-    hex: "#d7e9e8"
-  - 
     name: "Greenway"
     hex: "#419a7d"
   - 
@@ -17804,12 +16940,6 @@
   - 
     name: "Gregorio Garden"
     hex: "#cbc8dd"
-  - 
-    name: "Gregorio Garden Half"
-    hex: "#d7d4e4"
-  - 
-    name: "Gregorio Garden Quarter"
-    hex: "#e1e0eb"
   - 
     name: "Greige"
     hex: "#b0a999"
@@ -17924,12 +17054,6 @@
   - 
     name: "Grey Pebble"
     hex: "#cfcac1"
-  - 
-    name: "Grey Pebble Half"
-    hex: "#dbd7d0"
-  - 
-    name: "Grey Pebble Quarter"
-    hex: "#e3e0da"
   - 
     name: "Grey Pinstripe"
     hex: "#49494d"
@@ -18159,9 +17283,6 @@
     name: "Halayà Úbe"
     hex: "#663854"
   - 
-    name: "Half And Half"
-    hex: "#ede7c8"
-  - 
     name: "Half Baked"
     hex: "#558f93"
   - 
@@ -18221,12 +17342,6 @@
   - 
     name: "Handmade Linen"
     hex: "#ddd6b7"
-  - 
-    name: "Handmade Linen Half"
-    hex: "#e6e1c7"
-  - 
-    name: "Handmade Linen Quarter"
-    hex: "#eee9d3"
   - 
     name: "Handmade Red"
     hex: "#a87678"
@@ -18465,12 +17580,6 @@
     name: "Hazy Daze"
     hex: "#a5b8c5"
   - 
-    name: "Hazy Daze Half"
-    hex: "#b8c8d3"
-  - 
-    name: "Hazy Daze Quarter"
-    hex: "#c8d5dd"
-  - 
     name: "Hazy Grove"
     hex: "#f2f1dc"
   - 
@@ -18539,12 +17648,6 @@
   - 
     name: "Heaven Sent"
     hex: "#eee1eb"
-  - 
-    name: "Heaven Sent Half"
-    hex: "#bacad4"
-  - 
-    name: "Heaven Sent Quarter"
-    hex: "#cad6de"
   - 
     name: "Heavenly"
     hex: "#7eb2c5"
@@ -18753,12 +17856,6 @@
     name: "High Point"
     hex: "#bcd8d2"
   - 
-    name: "High Point Half"
-    hex: "#cce2dd"
-  - 
-    name: "High Point Quarter"
-    hex: "#d9e9e5"
-  - 
     name: "High Priest"
     hex: "#643949"
   - 
@@ -18831,50 +17928,1190 @@
     name: "Hindsight"
     hex: "#bdc9e3"
   - 
-    name: "Hindsight Half"
-    hex: "#cdd6ea"
-  - 
-    name: "Hindsight Quarter"
-    hex: "#d9e0ee"
-  - 
     name: "Hindu Lotus"
     hex: "#8e8062"
   - 
     name: "Hinomaru Red"
     hex: "#bc002d"
   - 
+    name: "Hint of Ace"
+    hex: "#dfe2f0"
+  - 
+    name: "Hint of Airborne"
+    hex: "#c6dde4"
+  - 
+    name: "Hint of Alley"
+    hex: "#d6dee9"
+  - 
+    name: "Hint of Amethyst Ice"
+    hex: "#e5e1dd"
+  - 
+    name: "Hint of Amourette"
+    hex: "#e0dfe8"
+  - 
+    name: "Hint of Angel Kiss"
+    hex: "#e3dfea"
+  - 
+    name: "Hint of Angel's Face"
+    hex: "#f6e8df"
+  - 
+    name: "Hint of Angelic Blue"
+    hex: "#d8dee7"
+  - 
+    name: "Hint of Angora Blue"
+    hex: "#d6dfe8"
+  - 
+    name: "Hint of Anon"
+    hex: "#d9dbdf"
+  - 
+    name: "Hint of Antarctica Lake"
+    hex: "#dbe7e3"
+  - 
+    name: "Hint of Antique Lace"
+    hex: "#e3dcda"
+  - 
+    name: "Hint of Apple Cucumber"
+    hex: "#ebebd7"
+  - 
+    name: "Hint of Apple Slice"
+    hex: "#f3f4d9"
+  - 
+    name: "Hint of Aqua Clear"
+    hex: "#bce4eb"
+  - 
+    name: "Hint of Aqua Frost"
+    hex: "#cce5e8"
+  - 
+    name: "Hint of Aqua Mist"
+    hex: "#c6e0e1"
+  - 
+    name: "Hint of Arctic Daisy"
+    hex: "#f3f0d9"
+  - 
+    name: "Hint of Aroma"
+    hex: "#e7dbdd"
+  - 
+    name: "Hint of Baby Motive"
+    hex: "#bce1eb"
+  - 
+    name: "Hint of Baby Tone"
+    hex: "#ecdbe0"
+  - 
+    name: "Hint of Ballet Blue"
+    hex: "#d0dde9"
+  - 
+    name: "Hint of Bassinet"
+    hex: "#e7dbe1"
+  - 
+    name: "Hint of Bathing"
+    hex: "#bfe0e4"
+  - 
+    name: "Hint of Bay Fog"
+    hex: "#e1dadd"
+  - 
+    name: "Hint of Beige Royal"
+    hex: "#e4e0d4"
+  - 
+    name: "Hint of Beru"
+    hex: "#daf0e6"
+  - 
+    name: "Hint of Bethany"
+    hex: "#e1ebd8"
+  - 
+    name: "Hint of Bleached Bare"
+    hex: "#e5dfdc"
+  - 
+    name: "Hint of Bleached Coral"
+    hex: "#fbe8e4"
+  - 
+    name: "Hint of Bleaches"
+    hex: "#e0dfdb"
+  - 
+    name: "Hint of Blissful"
+    hex: "#ecdde5"
+  - 
+    name: "Hint of Blossom Time"
+    hex: "#f2e6e1"
+  - 
+    name: "Hint of Blue Ballerina"
+    hex: "#d3dfea"
+  - 
+    name: "Hint of Blue Bayou"
+    hex: "#d9dde5"
+  - 
+    name: "Hint of Blue Booties"
+    hex: "#afe0ef"
+  - 
+    name: "Hint of Blue Charm"
+    hex: "#b3dbea"
+  - 
+    name: "Hint of Blue Cloud"
+    hex: "#dddfe8"
+  - 
+    name: "Hint of Blue Dam"
+    hex: "#c7dfe6"
+  - 
+    name: "Hint of Blue Glint"
+    hex: "#bcdfe8"
+  - 
+    name: "Hint of Blue Ice"
+    hex: "#c8ddea"
+  - 
+    name: "Hint of Blue Limewash"
+    hex: "#b2e1ee"
+  - 
+    name: "Hint of Blue Mist"
+    hex: "#cee1f2"
+  - 
+    name: "Hint of Blue Moon"
+    hex: "#d6d9dd"
+  - 
+    name: "Hint of Blue Rinse"
+    hex: "#d5d9dd"
+  - 
+    name: "Hint of Blue Stream"
+    hex: "#c1e3e9"
+  - 
+    name: "Hint of Blue To You"
+    hex: "#d7dadd"
+  - 
+    name: "Hint of Blue Veil"
+    hex: "#cfe1ef"
+  - 
+    name: "Hint of Bluish Water"
+    hex: "#bae3eb"
+  - 
+    name: "Hint of Blunt"
+    hex: "#d3d8de"
+  - 
+    name: "Hint of Bobby Blue"
+    hex: "#c1deea"
+  - 
+    name: "Hint of Bread Crumb"
+    hex: "#f2e8d7"
+  - 
+    name: "Hint of Breakaway"
+    hex: "#e3eadb"
+  - 
+    name: "Hint of Breezy"
+    hex: "#cfe0f2"
+  - 
+    name: "Hint of Bright Spark"
+    hex: "#acdcee"
+  - 
+    name: "Hint of Brume"
+    hex: "#e0e0dc"
+  - 
+    name: "Hint of Budding Bloom"
+    hex: "#ecf3d8"
+  - 
+    name: "Hint of Budgie Blue"
+    hex: "#b4dfed"
+  - 
+    name: "Hint of Buff It"
+    hex: "#eae4d8"
+  - 
+    name: "Hint of Bunny Pink"
+    hex: "#ebdbdd"
+  - 
+    name: "Hint of Bunny Soft"
+    hex: "#e8dbdd"
+  - 
+    name: "Hint of Bypass"
+    hex: "#d3dde4"
+  - 
+    name: "Hint of Cameo Blue"
+    hex: "#d4dee8"
+  - 
+    name: "Hint of Camisole"
+    hex: "#fbe9de"
+  - 
+    name: "Hint of Candela"
+    hex: "#d6dde6"
+  - 
+    name: "Hint of Cargo River"
+    hex: "#e4e2d6"
+  - 
+    name: "Hint of Carolina"
+    hex: "#e2f5e1"
+  - 
+    name: "Hint of Carrot Flower"
+    hex: "#e3e6da"
+  - 
+    name: "Hint of Celery Satin"
+    hex: "#e5ead8"
+  - 
+    name: "Hint of Celery Stick"
+    hex: "#e2f4e4"
+  - 
+    name: "Hint of Chalk Blue"
+    hex: "#d3f2ed"
+  - 
+    name: "Hint of China Doll"
+    hex: "#ede2d4"
+  - 
+    name: "Hint of Chintz"
+    hex: "#e8e0d5"
+  - 
+    name: "Hint of Christobel"
+    hex: "#e7ded7"
+  - 
+    name: "Hint of Cippolino"
+    hex: "#e0e4db"
+  - 
+    name: "Hint of Clay Pipe"
+    hex: "#ebe1d4"
+  - 
     name: "Hint of Clouds"
     hex: "#e8e7d7"
+  - 
+    name: "Hint of Club Cruise"
+    hex: "#b8dced"
+  - 
+    name: "Hint of Continental Waters"
+    hex: "#c2dfe2"
+  - 
+    name: "Hint of Cool Crayon"
+    hex: "#d3f1ee"
+  - 
+    name: "Hint of Cowardly Custard"
+    hex: "#f9f5da"
+  - 
+    name: "Hint of Cream Cake"
+    hex: "#faf1d7"
+  - 
+    name: "Hint of Crushed Almond"
+    hex: "#e7e1dd"
+  - 
+    name: "Hint of Cuddle"
+    hex: "#d8e1f1"
+  - 
+    name: "Hint of Curd"
+    hex: "#f9eed6"
+  - 
+    name: "Hint of Daly Waters"
+    hex: "#d1eaec"
+  - 
+    name: "Hint of Dante Peak"
+    hex: "#d4e7e7"
+  - 
+    name: "Hint of Day Dreamer"
+    hex: "#eae2dc"
+  - 
+    name: "Hint of Dedication"
+    hex: "#faeede"
+  - 
+    name: "Hint of Delphin"
+    hex: "#b5dcea"
+  - 
+    name: "Hint of Deluxe Days"
+    hex: "#b9def0"
+  - 
+    name: "Hint of Detroit"
+    hex: "#d9e5e4"
+  - 
+    name: "Hint of Dewpoint"
+    hex: "#d3e3e5"
+  - 
+    name: "Hint of Dreamweaver"
+    hex: "#e1dee7"
+  - 
+    name: "Hint of Dry Lichen"
+    hex: "#dfeae1"
+  - 
+    name: "Hint of Duck Egg Cream"
+    hex: "#e0f0e5"
+  - 
+    name: "Hint of Easter Rabbit"
+    hex: "#ded9db"
+  - 
+    name: "Hint of Ecru"
+    hex: "#ede7d7"
+  - 
+    name: "Hint of Eggshell Pink"
+    hex: "#e3dcd6"
+  - 
+    name: "Hint of Ellen"
+    hex: "#f0e0d4"
+  - 
+    name: "Hint of Elusive"
+    hex: "#fce8e3"
+  - 
+    name: "Hint of Elusive Blue"
+    hex: "#d3dae1"
+  - 
+    name: "Hint of Elusive Dream"
+    hex: "#e2d9dd"
+  - 
+    name: "Hint of Elusive Mauve"
+    hex: "#eddde4"
+  - 
+    name: "Hint of Enchanted"
+    hex: "#e0efe3"
+  - 
+    name: "Hint of Eskimo White"
+    hex: "#dcd9db"
+  - 
+    name: "Hint of Fairy Pink"
+    hex: "#f6e7e1"
+  - 
+    name: "Hint of Fairy Wings"
+    hex: "#fae6e5"
+  - 
+    name: "Hint of Favourite Lady"
+    hex: "#f0dee7"
+  - 
+    name: "Hint of Feather Boa"
+    hex: "#f7e0e1"
+  - 
+    name: "Hint of Featherbed"
+    hex: "#cfe2ef"
+  - 
+    name: "Hint of Feijoa Flower"
+    hex: "#f3f5dc"
+  - 
+    name: "Hint of Femininity"
+    hex: "#dedce2"
+  - 
+    name: "Hint of Figurine"
+    hex: "#f0e8da"
+  - 
+    name: "Hint of First Love"
+    hex: "#faede3"
+  - 
+    name: "Hint of Fish Pond"
+    hex: "#b7dff3"
+  - 
+    name: "Hint of Flaxen Fair"
+    hex: "#efedd8"
+  - 
+    name: "Hint of Flower Centre"
+    hex: "#f9f1dd"
+  - 
+    name: "Hint of Foundation"
+    hex: "#f8f2de"
+  - 
+    name: "Hint of French Limestone"
+    hex: "#e1e9db"
+  - 
+    name: "Hint of French Vanilla"
+    hex: "#faeed9"
+  - 
+    name: "Hint of Fresh Lime"
+    hex: "#e9f6e0"
+  - 
+    name: "Hint of Freshman"
+    hex: "#f0f6dd"
+  - 
+    name: "Hint of Frosted Sugar"
+    hex: "#e8d8da"
+  - 
+    name: "Hint of Frosty Dawn"
+    hex: "#e1f2df"
+  - 
+    name: "Hint of Frozen Frappe"
+    hex: "#ecdee5"
+  - 
+    name: "Hint of Garlic Suede"
+    hex: "#e3e6d6"
+  - 
+    name: "Hint of Gentle Calm"
+    hex: "#dde2d9"
+  - 
+    name: "Hint of Gentle Giant"
+    hex: "#d5f3ec"
+  - 
+    name: "Hint of Gentle Touch"
+    hex: "#f0e8d5"
+  - 
+    name: "Hint of Ghost Town"
+    hex: "#dfdbd8"
+  - 
+    name: "Hint of Ghosting"
+    hex: "#e2ded6"
+  - 
+    name: "Hint of Ghostly Green"
+    hex: "#e9e9d5"
+  - 
+    name: "Hint of Glass Bead"
+    hex: "#dfd9dc"
+  - 
+    name: "Hint of Gracilis"
+    hex: "#dde8e0"
+  - 
+    name: "Hint of Grand Piano"
+    hex: "#eae5d8"
   - 
     name: "Hint of Green"
     hex: "#dff1d6"
   - 
+    name: "Hint of Green Alabaster"
+    hex: "#e1e2d6"
+  - 
+    name: "Hint of Green Ash"
+    hex: "#e2e6d7"
+  - 
+    name: "Hint of Green Frost"
+    hex: "#e5e8d9"
+  - 
+    name: "Hint of Green Glacier"
+    hex: "#f1f5db"
+  - 
+    name: "Hint of Green Glint"
+    hex: "#ebf5de"
+  - 
+    name: "Hint of Green Veil"
+    hex: "#edf5dd"
+  - 
+    name: "Hint of Green Wash"
+    hex: "#deece1"
+  - 
+    name: "Hint of Greenette"
+    hex: "#e9f3dd"
+  - 
+    name: "Hint of Greenland Ice"
+    hex: "#d7e9e8"
+  - 
+    name: "Hint of Gregorio Garden"
+    hex: "#e1e0eb"
+  - 
+    name: "Hint of Grey Pebble"
+    hex: "#e3e0da"
+  - 
+    name: "Hint of Handmade Linen"
+    hex: "#eee9d3"
+  - 
+    name: "Hint of Hazy Daze"
+    hex: "#c8d5dd"
+  - 
+    name: "Hint of Heaven Sent"
+    hex: "#cad6de"
+  - 
+    name: "Hint of High Point"
+    hex: "#d9e9e5"
+  - 
+    name: "Hint of Hindsight"
+    hex: "#d9e0ee"
+  - 
+    name: "Hint of Hint Of Lavender"
+    hex: "#e5dbda"
+  - 
+    name: "Hint of Hog Bristle"
+    hex: "#ece6d7"
+  - 
+    name: "Hint of Horizon Sky"
+    hex: "#dcdde5"
+  - 
+    name: "Hint of Hugo"
+    hex: "#f1e4e1"
+  - 
+    name: "Hint of Ice Cap Green"
+    hex: "#d8f1eb"
+  - 
+    name: "Hint of Ice Pack"
+    hex: "#cbeaee"
+  - 
+    name: "Hint of Iced Aniseed"
+    hex: "#e2e6db"
+  - 
+    name: "Hint of Iced Lavender"
+    hex: "#dce0ea"
+  - 
+    name: "Hint of Image Tone"
+    hex: "#d9dce4"
+  - 
+    name: "Hint of Imagine"
+    hex: "#c0dfe2"
+  - 
+    name: "Hint of In The Slip"
+    hex: "#f0dce3"
+  - 
+    name: "Hint of Instant"
+    hex: "#ebe3de"
+  - 
+    name: "Hint of Island Light"
+    hex: "#cbe1f2"
+  - 
+    name: "Hint of Issey-San"
+    hex: "#e4ebdc"
+  - 
     name: "Hint of Jade"
     hex: "#e2e6d1"
+  - 
+    name: "Hint of Jellyfish Blue"
+    hex: "#c0e1e4"
+  - 
+    name: "Hint of Jodhpurs"
+    hex: "#f4ebd4"
+  - 
+    name: "Hint of July"
+    hex: "#bce6ef"
+  - 
+    name: "Hint of June"
+    hex: "#c2dde6"
+  - 
+    name: "Hint of Karma"
+    hex: "#cdeced"
+  - 
+    name: "Hint of Katsura"
+    hex: "#e0efe1"
+  - 
+    name: "Hint of Kinder"
+    hex: "#d5dae0"
+  - 
+    name: "Hint of Kiri Mist"
+    hex: "#dedee5"
+  - 
+    name: "Hint of Korila"
+    hex: "#e7f2de"
+  - 
+    name: "Hint of Lace Wisteria"
+    hex: "#dbd7d9"
+  - 
+    name: "Hint of Lady Fingers"
+    hex: "#e2d7da"
+  - 
+    name: "Hint of Lamb's Ears"
+    hex: "#e1e3d7"
+  - 
+    name: "Hint of Laughing Jack"
+    hex: "#e0dce4"
   - 
     name: "Hint Of Lavender"
     hex: "#d1c2c2"
   - 
-    name: "Hint Of Lavender Half"
-    hex: "#dccfce"
+    name: "Hint of Lavender Blush"
+    hex: "#ebdedb"
   - 
-    name: "Hint Of Lavender Quarter"
-    hex: "#e5dbda"
+    name: "Hint of Lavender Oil"
+    hex: "#dadbe0"
+  - 
+    name: "Hint of Lavender Water"
+    hex: "#e5e0ec"
+  - 
+    name: "Hint of Ligado"
+    hex: "#e3e8db"
+  - 
+    name: "Hint of Light Blush"
+    hex: "#f2dde1"
+  - 
+    name: "Hint of Light Lichen"
+    hex: "#deede4"
+  - 
+    name: "Hint of Light Rice"
+    hex: "#ede6d9"
+  - 
+    name: "Hint of Lilac Crystal"
+    hex: "#e1dee8"
+  - 
+    name: "Hint of Lily Legs"
+    hex: "#f5dfe7"
+  - 
+    name: "Hint of Lilylock"
+    hex: "#edeeda"
+  - 
+    name: "Hint of Lime Sherbet"
+    hex: "#e1ecd9"
+  - 
+    name: "Hint of Limed White"
+    hex: "#e4e0da"
+  - 
+    name: "Hint of Limpid Light"
+    hex: "#e3dce0"
+  - 
+    name: "Hint of Lip Gloss"
+    hex: "#eee3de"
+  - 
+    name: "Hint of Livingstone"
+    hex: "#e2e1d6"
+  - 
+    name: "Hint of Lost Lace"
+    hex: "#ddf3e5"
+  - 
+    name: "Hint of Lunette"
+    hex: "#e5e0dd"
+  - 
+    name: "Hint of Maiden's Blush"
+    hex: "#f8e6d9"
+  - 
+    name: "Hint of Male"
+    hex: "#eae4da"
+  - 
+    name: "Hint of Marsh Fog"
+    hex: "#dfeade"
+  - 
+    name: "Hint of Marshmallow Magic"
+    hex: "#f6e6e4"
+  - 
+    name: "Hint of Martian Moon"
+    hex: "#ddf3e6"
+  - 
+    name: "Hint of Mauve Organdie"
+    hex: "#eadee4"
+  - 
+    name: "Hint of Mauve Pansy"
+    hex: "#d9d7d9"
+  - 
+    name: "Hint of Meadow Lane"
+    hex: "#dae8e1"
+  - 
+    name: "Hint of Medlar"
+    hex: "#e7e9d8"
+  - 
+    name: "Hint of Melt Ice"
+    hex: "#d3e2ee"
   - 
     name: "Hint of Mint"
     hex: "#e3efe1"
   - 
+    name: "Hint of Missed"
+    hex: "#f5f5da"
+  - 
+    name: "Hint of Mistral"
+    hex: "#d5dae1"
+  - 
+    name: "Hint of Mizu"
+    hex: "#a7dbed"
+  - 
+    name: "Hint of Modesty"
+    hex: "#e6dfe8"
+  - 
+    name: "Hint of Moo"
+    hex: "#f8f0d8"
+  - 
+    name: "Hint of Morality"
+    hex: "#d2e2ef"
+  - 
+    name: "Hint of Mornington"
+    hex: "#ecdfd5"
+  - 
+    name: "Hint of Mosque"
+    hex: "#e2d9db"
+  - 
+    name: "Hint of Mountain Spring"
+    hex: "#eaeeda"
+  - 
+    name: "Hint of Mr Frosty"
+    hex: "#c8deea"
+  - 
+    name: "Hint of Mud Berry"
+    hex: "#e4e0dc"
+  - 
+    name: "Hint of Mystified"
+    hex: "#e1ebde"
+  - 
+    name: "Hint of Naked Pink"
+    hex: "#eadfe8"
+  - 
+    name: "Hint of Nantucket Mist"
+    hex: "#e1dad9"
+  - 
+    name: "Hint of New Hope"
+    hex: "#eef5db"
+  - 
+    name: "Hint of Newman's Eye"
+    hex: "#d2dfed"
+  - 
+    name: "Hint of Nursery"
+    hex: "#f6e6e5"
+  - 
+    name: "Hint of Nut Milk"
+    hex: "#eae2df"
+  - 
+    name: "Hint of Objectivity"
+    hex: "#d7deeb"
+  - 
+    name: "Hint of Oil Of Lavender"
+    hex: "#dfdad9"
+  - 
+    name: "Hint of Olive Creed"
+    hex: "#f1f3da"
+  - 
+    name: "Hint of Opale"
+    hex: "#d1edee"
+  - 
+    name: "Hint of Opus"
+    hex: "#e3e1ed"
+  - 
+    name: "Hint of Orchid Haze"
+    hex: "#e0d9da"
+  - 
+    name: "Hint of Oriental Blush"
+    hex: "#e8dfed"
+  - 
+    name: "Hint of Otto Ice"
+    hex: "#daeee6"
+  - 
+    name: "Hint of Oxford"
+    hex: "#d1d8dd"
+  - 
+    name: "Hint of Pale Celadon"
+    hex: "#e0e1d8"
+  - 
+    name: "Hint of Pale Icelandish"
+    hex: "#d9e7e3"
+  - 
+    name: "Hint of Pale Lady"
+    hex: "#dfd9da"
+  - 
+    name: "Hint of Pale Lilac"
+    hex: "#dadfea"
+  - 
+    name: "Hint of Pale Pearl"
+    hex: "#ded7da"
+  - 
+    name: "Hint of Pale Tendril"
+    hex: "#e3e2d7"
+  - 
+    name: "Hint of Parchment Paper"
+    hex: "#ece6dc"
+  - 
+    name: "Hint of Passion Flower"
+    hex: "#fae9e1"
+  - 
+    name: "Hint of Pastel Mint"
+    hex: "#e4f5e1"
+  - 
+    name: "Hint of Pastry"
+    hex: "#faedd5"
+  - 
+    name: "Hint of Pax"
+    hex: "#dfdfea"
+  - 
+    name: "Hint of Pearl Ash"
+    hex: "#e5e0db"
+  - 
+    name: "Hint of Pelican Bill"
+    hex: "#e9dbdf"
+  - 
+    name: "Hint of Penna"
+    hex: "#d6dfec"
+  - 
+    name: "Hint of Pensive"
+    hex: "#dddce1"
+  - 
+    name: "Hint of Perk Up"
+    hex: "#e8dfd8"
+  - 
+    name: "Hint of Petite Pink"
+    hex: "#f4e2e1"
+  - 
+    name: "Hint of Pianissimo"
+    hex: "#f2e5e0"
+  - 
+    name: "Hint of Piccolo"
+    hex: "#bae5ee"
+  - 
+    name: "Hint of Pickford"
+    hex: "#e1f5e5"
+  - 
+    name: "Hint of Picnic Bay"
+    hex: "#d9ece6"
+  - 
     name: "Hint of Pine"
     hex: "#e5e7d5"
+  - 
+    name: "Hint of Pink Clay"
+    hex: "#fce7e4"
+  - 
+    name: "Hint of Pink Linen"
+    hex: "#e5d9dc"
+  - 
+    name: "Hint of Pink Marble"
+    hex: "#f1e5e0"
+  - 
+    name: "Hint of Pink Pandora"
+    hex: "#efdedf"
+  - 
+    name: "Hint of Pink Polar"
+    hex: "#e2d6d8"
+  - 
+    name: "Hint of Pink Tutu"
+    hex: "#fbe7e6"
+  - 
+    name: "Hint of Pinktone"
+    hex: "#fae3e3"
+  - 
+    name: "Hint of Pinnacle"
+    hex: "#daece7"
+  - 
+    name: "Hint of Pipe Clay"
+    hex: "#e2e0d8"
+  - 
+    name: "Hint of Pistachio Tang"
+    hex: "#e9e6d4"
+  - 
+    name: "Hint of Placid Blue"
+    hex: "#d5e2ee"
+  - 
+    name: "Hint of Pollinate"
+    hex: "#f0ead7"
+  - 
+    name: "Hint of Pool Side"
+    hex: "#cce7e8"
+  - 
+    name: "Hint of Porcelain"
+    hex: "#eee2e0"
+  - 
+    name: "Hint of Porcelain Pink"
+    hex: "#f4ead5"
+  - 
+    name: "Hint of Powder Blue"
+    hex: "#d2e2f2"
+  - 
+    name: "Hint of Powdered Granite"
+    hex: "#dcdfef"
+  - 
+    name: "Hint of Pre School"
+    hex: "#d3dbe2"
+  - 
+    name: "Hint of Precious Pink"
+    hex: "#f6e4e4"
+  - 
+    name: "Hint of Pretty Pale"
+    hex: "#efdfe7"
+  - 
+    name: "Hint of Prudence"
+    hex: "#e6deea"
+  - 
+    name: "Hint of Puffball"
+    hex: "#e2dadf"
+  - 
+    name: "Hint of Pure Blue"
+    hex: "#d1dde1"
+  - 
+    name: "Hint of Purity"
+    hex: "#e7e0ee"
+  - 
+    name: "Hint of Quaver"
+    hex: "#d9e6e0"
+  - 
+    name: "Hint of Quilt"
+    hex: "#fce9df"
+  - 
+    name: "Hint of Radar"
+    hex: "#d4e0ef"
+  - 
+    name: "Hint of Raspberry Ice"
+    hex: "#eae2de"
+  - 
+    name: "Hint of Raw Cotton"
+    hex: "#f1e8d6"
+  - 
+    name: "Hint of Recuperate"
+    hex: "#ede2ee"
   - 
     name: "Hint of Red"
     hex: "#f5efeb"
   - 
+    name: "Hint of Registra"
+    hex: "#dbd6d8"
+  - 
+    name: "Hint of Relax"
+    hex: "#d6e6e6"
+  - 
+    name: "Hint of Ridge Light"
+    hex: "#d1dfeb"
+  - 
+    name: "Hint of Ringlet"
+    hex: "#f9f4d9"
+  - 
+    name: "Hint of Rose Aspect"
+    hex: "#f6dfe0"
+  - 
+    name: "Hint of Rose Romantic"
+    hex: "#f5e5e1"
+  - 
+    name: "Hint of Sago"
+    hex: "#e9e2db"
+  - 
+    name: "Hint of Salome"
+    hex: "#d9f4ea"
+  - 
+    name: "Hint of Salt Spray"
+    hex: "#cbdee3"
+  - 
+    name: "Hint of Sand Diamond"
+    hex: "#f9f1d7"
+  - 
+    name: "Hint of Sandbank"
+    hex: "#e6e5d3"
+  - 
+    name: "Hint of Sandy Day"
+    hex: "#e9e3da"
+  - 
+    name: "Hint of Scallywag"
+    hex: "#f0e8d7"
+  - 
+    name: "Hint of Sea Breeze"
+    hex: "#c8dae3"
+  - 
+    name: "Hint of Sea Cliff"
+    hex: "#cadfec"
+  - 
+    name: "Hint of Sea Foam"
+    hex: "#d3eeec"
+  - 
+    name: "Hint of Sea Spray"
+    hex: "#bfe1e6"
+  - 
+    name: "Hint of Searchlight"
+    hex: "#f5f5d9"
+  - 
+    name: "Hint of Security"
+    hex: "#e8efdb"
+  - 
+    name: "Hint of Seduction"
+    hex: "#f8f6da"
+  - 
+    name: "Hint of Serena"
+    hex: "#e3e4d9"
+  - 
+    name: "Hint of Shell Haven"
+    hex: "#f4eeda"
+  - 
+    name: "Hint of Shelltint"
+    hex: "#fbe8e0"
+  - 
+    name: "Hint of Shetland Lace"
+    hex: "#eee5da"
+  - 
+    name: "Hint of Shimmer"
+    hex: "#b8def2"
+  - 
+    name: "Hint of Short Phase"
+    hex: "#d8eee7"
+  - 
+    name: "Hint of Shutterbug"
+    hex: "#daf4ea"
+  - 
+    name: "Hint of Shy Girl"
+    hex: "#fbe8e2"
+  - 
+    name: "Hint of Silver Dollar"
+    hex: "#e0e7dd"
+  - 
+    name: "Hint of Silver Grass"
+    hex: "#dfe4dc"
+  - 
+    name: "Hint of Silver Sweetpea"
+    hex: "#dee1ed"
+  - 
+    name: "Hint of Silverton"
+    hex: "#daeae2"
+  - 
+    name: "Hint of Sky Babe"
+    hex: "#b6dbe9"
+  - 
+    name: "Hint of Sky Bus"
+    hex: "#c1dbe7"
+  - 
+    name: "Hint of Sky Chase"
+    hex: "#cbe1e4"
+  - 
+    name: "Hint of Sky Cloud"
+    hex: "#d1edef"
+  - 
+    name: "Hint of Skyway"
+    hex: "#d1eaed"
+  - 
+    name: "Hint of Slight Mushroom"
+    hex: "#e4e0dd"
+  - 
+    name: "Hint of Slightly Rose"
+    hex: "#f2e4e2"
+  - 
+    name: "Hint of Slipper Satin"
+    hex: "#dadbe1"
+  - 
+    name: "Hint of Snow Goose"
+    hex: "#ddeae0"
+  - 
+    name: "Hint of Snow Green"
+    hex: "#dfeadb"
+  - 
+    name: "Hint of Soft Celadon"
+    hex: "#dae4de"
+  - 
+    name: "Hint of Soft Fresco"
+    hex: "#dbe8df"
+  - 
+    name: "Hint of Soft Kind"
+    hex: "#e6e6d8"
+  - 
+    name: "Hint of Soft Satin"
+    hex: "#f5dee2"
+  - 
+    name: "Hint of Solar"
+    hex: "#f9f2d4"
+  - 
+    name: "Hint of Soya"
+    hex: "#f8efd8"
+  - 
+    name: "Hint of Spanish Cream"
+    hex: "#faf0da"
+  - 
+    name: "Hint of Spatial Spirit"
+    hex: "#dcf4e6"
+  - 
+    name: "Hint of Spearmint Ice"
+    hex: "#dbe7e1"
+  - 
+    name: "Hint of Spirit"
+    hex: "#d2d8de"
+  - 
+    name: "Hint of Sprig Muslin"
+    hex: "#e9dbde"
+  - 
     name: "Hint of Spring"
     hex: "#fffddd"
   - 
+    name: "Hint of Spring Burst"
+    hex: "#e0eedf"
+  - 
+    name: "Hint of Spring Fever"
+    hex: "#f0f0d9"
+  - 
+    name: "Hint of Spring Shoot"
+    hex: "#eef4db"
+  - 
+    name: "Hint of Spritzig"
+    hex: "#abddf1"
+  - 
+    name: "Hint of Star Gate"
+    hex: "#d5dde5"
+  - 
+    name: "Hint of Starlight"
+    hex: "#d8dbe1"
+  - 
+    name: "Hint of Starlight Blue"
+    hex: "#d7edea"
+  - 
+    name: "Hint of Stately Frills"
+    hex: "#ded8dc"
+  - 
+    name: "Hint of Subdue"
+    hex: "#e0dcd8"
+  - 
+    name: "Hint of Subpoena"
+    hex: "#eae2dd"
+  - 
+    name: "Hint of Supernova"
+    hex: "#d9ece9"
+  - 
+    name: "Hint of Tactile"
+    hex: "#e6f1de"
+  - 
+    name: "Hint of Taupe White"
+    hex: "#e0dcd7"
+  - 
+    name: "Hint of Tea Party"
+    hex: "#fde7e3"
+  - 
+    name: "Hint of Template"
+    hex: "#cbe1ee"
+  - 
+    name: "Hint of Tender Touch"
+    hex: "#e9dfe8"
+  - 
+    name: "Hint of Tenzing"
+    hex: "#c6e4e9"
+  - 
+    name: "Hint of Thought"
+    hex: "#ebe2de"
+  - 
+    name: "Hint of Tidal Foam"
+    hex: "#cce1ee"
+  - 
+    name: "Hint of Time Travel"
+    hex: "#d3dde7"
+  - 
+    name: "Hint of Timeless"
+    hex: "#d2eaea"
+  - 
+    name: "Hint of Tinge Of Mauve"
+    hex: "#e8dde2"
+  - 
+    name: "Hint of Tinker Light"
+    hex: "#f9f3d5"
+  - 
+    name: "Hint of Tip Toes"
+    hex: "#eadce2"
+  - 
+    name: "Hint of Unbleached Calico"
+    hex: "#f9e9d7"
+  - 
+    name: "Hint of Vandamint"
+    hex: "#cfecee"
+  - 
+    name: "Hint of Vanilla Frost"
+    hex: "#faf3dd"
+  - 
+    name: "Hint of Vanilla Ice"
+    hex: "#c9dae2"
+  - 
+    name: "Hint of Vanilla Quake"
+    hex: "#e2e0db"
+  - 
+    name: "Hint of Vision"
+    hex: "#e5e3ef"
+  - 
+    name: "Hint of Wallis"
+    hex: "#dfd8d9"
+  - 
+    name: "Hint of Warm Ash"
+    hex: "#e4e1de"
+  - 
+    name: "Hint of Washed Blue"
+    hex: "#c0e5ec"
+  - 
+    name: "Hint of Water Wash"
+    hex: "#cfdfef"
+  - 
+    name: "Hint of Watermark"
+    hex: "#c9e3e5"
+  - 
+    name: "Hint of Watermelon Milk"
+    hex: "#ede3e0"
+  - 
+    name: "Hint of Waterwings"
+    hex: "#d2f3eb"
+  - 
+    name: "Hint of Wave"
+    hex: "#cbe4e7"
+  - 
+    name: "Hint of Wavecrest"
+    hex: "#c6dce7"
+  - 
+    name: "Hint of Weathered Hide"
+    hex: "#e8dedb"
+  - 
+    name: "Hint of Wheaten White"
+    hex: "#f8f2d8"
+  - 
+    name: "Hint of Whimsy"
+    hex: "#b0dced"
+  - 
+    name: "Hint of White Box"
+    hex: "#dae5e0"
+  - 
+    name: "Hint of White Duck"
+    hex: "#e4e1d6"
+  - 
+    name: "Hint of White Flag"
+    hex: "#e0dcda"
+  - 
     name: "Hint of Yellow"
     hex: "#f6f5d7"
+  - 
+    name: "Hint of Youth"
+    hex: "#f0e1df"
+  - 
+    name: "Hint of Zen"
+    hex: "#dce4dd"
+  - 
+    name: "Hint of Zenith Heights"
+    hex: "#cae0df"
   - 
     name: "Hinterland"
     hex: "#616c51"
@@ -18938,12 +19175,6 @@
   - 
     name: "Hog Bristle"
     hex: "#dcd1bb"
-  - 
-    name: "Hog Bristle Half"
-    hex: "#e5ddcb"
-  - 
-    name: "Hog Bristle Quarter"
-    hex: "#ece6d7"
   - 
     name: "Hokey Pokey"
     hex: "#bb8e34"
@@ -19161,12 +19392,6 @@
     name: "Horizon Sky"
     hex: "#c2c3d3"
   - 
-    name: "Horizon Sky Half"
-    hex: "#d0d2de"
-  - 
-    name: "Horizon Sky Quarter"
-    hex: "#dcdde5"
-  - 
     name: "Horned Frog"
     hex: "#c2ae87"
   - 
@@ -19280,12 +19505,6 @@
   - 
     name: "Hugo"
     hex: "#e6cfcc"
-  - 
-    name: "Hugo Half"
-    hex: "#eddbd7"
-  - 
-    name: "Hugo Quarter"
-    hex: "#f1e4e1"
   - 
     name: "Hula Girl"
     hex: "#929264"
@@ -19413,12 +19632,6 @@
     name: "Ice Cap Green"
     hex: "#b9e7dd"
   - 
-    name: "Ice Cap Green Half"
-    hex: "#caede4"
-  - 
-    name: "Ice Cap Green Quarter"
-    hex: "#d8f1eb"
-  - 
     name: "Ice Castle"
     hex: "#d5edfb"
   - 
@@ -19461,12 +19674,6 @@
     name: "Ice Pack"
     hex: "#a5dbe3"
   - 
-    name: "Ice Pack Half"
-    hex: "#bbe4ea"
-  - 
-    name: "Ice Pack Quarter"
-    hex: "#cbeaee"
-  - 
     name: "Ice Palace"
     hex: "#e2e4d7"
   - 
@@ -19478,12 +19685,6 @@
   - 
     name: "Iced Aniseed"
     hex: "#cbd3c3"
-  - 
-    name: "Iced Aniseed Half"
-    hex: "#d8ded0"
-  - 
-    name: "Iced Aniseed Quarter"
-    hex: "#e2e6db"
   - 
     name: "Iced Aqua"
     hex: "#abd3db"
@@ -19502,12 +19703,6 @@
   - 
     name: "Iced Lavender"
     hex: "#c2c7db"
-  - 
-    name: "Iced Lavender Half"
-    hex: "#d0d4e3"
-  - 
-    name: "Iced Lavender Quarter"
-    hex: "#dce0ea"
   - 
     name: "Iced Lemon"
     hex: "#fffbc1"
@@ -19590,12 +19785,6 @@
     name: "Image Tone"
     hex: "#bec1cf"
   - 
-    name: "Image Tone Half"
-    hex: "#ccd0da"
-  - 
-    name: "Image Tone Quarter"
-    hex: "#d9dce4"
-  - 
     name: "Imagery"
     hex: "#7a6e70"
   - 
@@ -19604,12 +19793,6 @@
   - 
     name: "Imagine"
     hex: "#af9468"
-  - 
-    name: "Imagine Half"
-    hex: "#aed4d8"
-  - 
-    name: "Imagine Quarter"
-    hex: "#c0dfe2"
   - 
     name: "Imayou Pink"
     hex: "#d0576b"
@@ -19679,12 +19862,6 @@
   - 
     name: "In The Slip"
     hex: "#e2c3cf"
-  - 
-    name: "In The Slip Half"
-    hex: "#ead1da"
-  - 
-    name: "In The Slip Quarter"
-    hex: "#f0dce3"
   - 
     name: "In the Tropics"
     hex: "#a3bc3a"
@@ -19887,14 +20064,8 @@
     name: "Instant Classic"
     hex: "#e3dac6"
   - 
-    name: "Instant Half"
-    hex: "#e2d9d4"
-  - 
     name: "Instant Orange"
     hex: "#ff8d28"
-  - 
-    name: "Instant Quarter"
-    hex: "#ebe3de"
   - 
     name: "Instant Relief"
     hex: "#ede7d2"
@@ -20076,12 +20247,6 @@
     name: "Island Light"
     hex: "#a7c9eb"
   - 
-    name: "Island Light Half"
-    hex: "#bbd5ef"
-  - 
-    name: "Island Light Quarter"
-    hex: "#cbe1f2"
-  - 
     name: "Island Lush"
     hex: "#008292"
   - 
@@ -20108,12 +20273,6 @@
   - 
     name: "Issey-San"
     hex: "#cfdac3"
-  - 
-    name: "Issey-San Half"
-    hex: "#dbe4d1"
-  - 
-    name: "Issey-San Quarter"
-    hex: "#e4ebdc"
   - 
     name: "It Works"
     hex: "#af8a5b"
@@ -20439,12 +20598,6 @@
     name: "Jellyfish Blue"
     hex: "#95cad0"
   - 
-    name: "Jellyfish Blue Half"
-    hex: "#acd6db"
-  - 
-    name: "Jellyfish Blue Quarter"
-    hex: "#c0e1e4"
-  - 
     name: "Jemima"
     hex: "#f6d67f"
   - 
@@ -20505,12 +20658,6 @@
     name: "Jodhpurs"
     hex: "#ebdcb6"
   - 
-    name: "Jodhpurs Half"
-    hex: "#f0e4c6"
-  - 
-    name: "Jodhpurs Quarter"
-    hex: "#f4ebd4"
-  - 
     name: "Jojoba"
     hex: "#dabe81"
   - 
@@ -20565,12 +20712,6 @@
     name: "July"
     hex: "#8bd2e3"
   - 
-    name: "July Half"
-    hex: "#a5ddea"
-  - 
-    name: "July Quarter"
-    hex: "#bce6ef"
-  - 
     name: "Jumbo"
     hex: "#878785"
   - 
@@ -20582,12 +20723,6 @@
   - 
     name: "June Bug"
     hex: "#264a48"
-  - 
-    name: "June Half"
-    hex: "#b1d2df"
-  - 
-    name: "June Quarter"
-    hex: "#c2dde6"
   - 
     name: "Jungle"
     hex: "#00a466"
@@ -20751,12 +20886,6 @@
     name: "Karma Chameleon"
     hex: "#9f78a9"
   - 
-    name: "Karma Half"
-    hex: "#bce6e8"
-  - 
-    name: "Karma Quarter"
-    hex: "#cdeced"
-  - 
     name: "Karry"
     hex: "#fedcc1"
   - 
@@ -20771,12 +20900,6 @@
   - 
     name: "Katsura"
     hex: "#c9e3cc"
-  - 
-    name: "Katsura Half"
-    hex: "#d6ead8"
-  - 
-    name: "Katsura Quarter"
-    hex: "#e0efe1"
   - 
     name: "Katydid"
     hex: "#66bc91"
@@ -20940,12 +21063,6 @@
     name: "Kinder"
     hex: "#b8bfca"
   - 
-    name: "Kinder Half"
-    hex: "#c8ced6"
-  - 
-    name: "Kinder Quarter"
-    hex: "#d5dae0"
-  - 
     name: "Kindness"
     hex: "#d4b2c0"
   - 
@@ -20993,12 +21110,6 @@
   - 
     name: "Kiri Mist"
     hex: "#c5c5d3"
-  - 
-    name: "Kiri Mist Half"
-    hex: "#d3d2dd"
-  - 
-    name: "Kiri Mist Quarter"
-    hex: "#dedee5"
   - 
     name: "Kiriume Red"
     hex: "#8b352d"
@@ -21135,12 +21246,6 @@
     name: "Korila"
     hex: "#d7e9c8"
   - 
-    name: "Korila Half"
-    hex: "#e0eed4"
-  - 
-    name: "Korila Quarter"
-    hex: "#e7f2de"
-  - 
     name: "Korma"
     hex: "#804e2c"
   - 
@@ -21258,12 +21363,6 @@
     name: "Lace Wisteria"
     hex: "#c2bbc0"
   - 
-    name: "Lace Wisteria Half"
-    hex: "#d0cbce"
-  - 
-    name: "Lace Wisteria Quarter"
-    hex: "#dbd7d9"
-  - 
     name: "Lacey"
     hex: "#caaeab"
   - 
@@ -21281,12 +21380,6 @@
   - 
     name: "Lady Fingers"
     hex: "#ccbbc0"
-  - 
-    name: "Lady Fingers Half"
-    hex: "#d8cbcf"
-  - 
-    name: "Lady Fingers Quarter"
-    hex: "#e2d7da"
   - 
     name: "Lady in Red"
     hex: "#b34b47"
@@ -21350,12 +21443,6 @@
   - 
     name: "Lamb's Ears"
     hex: "#c8ccbc"
-  - 
-    name: "Lamb's Ears Half"
-    hex: "#d6d9cb"
-  - 
-    name: "Lamb's Ears Quarter"
-    hex: "#e1e3d7"
   - 
     name: "Lamb's Wool"
     hex: "#ffffe3"
@@ -21462,12 +21549,6 @@
     name: "Laughing Jack"
     hex: "#c9c3d2"
   - 
-    name: "Laughing Jack Half"
-    hex: "#d6d1dc"
-  - 
-    name: "Laughing Jack Quarter"
-    hex: "#e0dce4"
-  - 
     name: "Laura"
     hex: "#a6979a"
   - 
@@ -21527,12 +21608,6 @@
   - 
     name: "Lavender Blush"
     hex: "#fff0f5"
-  - 
-    name: "Lavender Blush Half"
-    hex: "#e3d2cf"
-  - 
-    name: "Lavender Blush Quarter"
-    hex: "#ebdedb"
   - 
     name: "Lavender Bonnet"
     hex: "#9994c0"
@@ -21606,12 +21681,6 @@
     name: "Lavender Oil"
     hex: "#c0c0ca"
   - 
-    name: "Lavender Oil Half"
-    hex: "#cecfd6"
-  - 
-    name: "Lavender Oil Quarter"
-    hex: "#dadbe0"
-  - 
     name: "Lavender Pearl"
     hex: "#ede5e8"
   - 
@@ -21659,12 +21728,6 @@
   - 
     name: "Lavender Water"
     hex: "#d2c9df"
-  - 
-    name: "Lavender Water Half"
-    hex: "#ddd6e7"
-  - 
-    name: "Lavender Water Quarter"
-    hex: "#e5e0ec"
   - 
     name: "Lavendula"
     hex: "#bca4cb"
@@ -21990,17 +22053,68 @@
     name: "Ligado"
     hex: "#cdd6c2"
   - 
-    name: "Ligado Half"
-    hex: "#d9e0d0"
+    name: "Light Ace"
+    hex: "#d4d8ed"
   - 
-    name: "Ligado Quarter"
-    hex: "#e3e8db"
+    name: "Light Airborne"
+    hex: "#b5d1db"
+  - 
+    name: "Light Alley"
+    hex: "#c8d2e2"
+  - 
+    name: "Light Amethyst Ice"
+    hex: "#dcd6d3"
+  - 
+    name: "Light Amourette"
+    hex: "#d4d3e0"
   - 
     name: "Light And Low"
     hex: "#f9e3b4"
   - 
+    name: "Light Angel Kiss"
+    hex: "#dad4e4"
+  - 
+    name: "Light Angel's Face"
+    hex: "#f3dfd5"
+  - 
+    name: "Light Angelic Blue"
+    hex: "#cbd4df"
+  - 
+    name: "Light Angora Blue"
+    hex: "#c9d4e1"
+  - 
+    name: "Light Anon"
+    hex: "#cdced5"
+  - 
+    name: "Light Antarctica Lake"
+    hex: "#ceddda"
+  - 
+    name: "Light Antique Lace"
+    hex: "#dad1ce"
+  - 
+    name: "Light Apple Cucumber"
+    hex: "#e4e4cb"
+  - 
+    name: "Light Apple Slice"
+    hex: "#f4f3cd"
+  - 
     name: "Light Apricot"
     hex: "#fdd5b1"
+  - 
+    name: "Light Aqua Clear"
+    hex: "#a5dbe5"
+  - 
+    name: "Light Aqua Frost"
+    hex: "#bddde1"
+  - 
+    name: "Light Aqua Mist"
+    hex: "#b5d5d7"
+  - 
+    name: "Light Arctic Daisy"
+    hex: "#f1ebcd"
+  - 
+    name: "Light Aroma"
+    hex: "#decfd2"
   - 
     name: "Light Aspiration"
     hex: "#dacba7"
@@ -22008,20 +22122,122 @@
     name: "Light Azure"
     hex: "#92cbf1"
   - 
+    name: "Light Baby Motive"
+    hex: "#a7d8e4"
+  - 
+    name: "Light Baby Tone"
+    hex: "#e4cfd7"
+  - 
+    name: "Light Ballet Blue"
+    hex: "#c2d1e2"
+  - 
+    name: "Light Bassinet"
+    hex: "#ded0d8"
+  - 
+    name: "Light Bathing"
+    hex: "#abd5dc"
+  - 
+    name: "Light Bay Fog"
+    hex: "#d6ced3"
+  - 
     name: "Light Beige"
     hex: "#f5efe8"
+  - 
+    name: "Light Beige Royal"
+    hex: "#dad5c7"
+  - 
+    name: "Light Beru"
+    hex: "#cfebde"
+  - 
+    name: "Light Bethany"
+    hex: "#d7e4cc"
+  - 
+    name: "Light Bleached Bare"
+    hex: "#dcd5d2"
+  - 
+    name: "Light Bleached Coral"
+    hex: "#fde0dc"
+  - 
+    name: "Light Bleaches"
+    hex: "#d5d4d0"
+  - 
+    name: "Light Blissful"
+    hex: "#e5d2dd"
+  - 
+    name: "Light Blossom Time"
+    hex: "#ecddd6"
   - 
     name: "Light Blue"
     hex: "#add8e6"
   - 
+    name: "Light Blue Ballerina"
+    hex: "#c6d5e4"
+  - 
+    name: "Light Blue Bayou"
+    hex: "#cdd2de"
+  - 
+    name: "Light Blue Booties"
+    hex: "#97d5ea"
+  - 
+    name: "Light Blue Charm"
+    hex: "#9cd0e4"
+  - 
+    name: "Light Blue Cloud"
+    hex: "#d2d3e1"
+  - 
+    name: "Light Blue Dam"
+    hex: "#b6d5de"
+  - 
+    name: "Light Blue Glint"
+    hex: "#a8d3e1"
+  - 
+    name: "Light Blue Ice"
+    hex: "#b7d2e3"
+  - 
+    name: "Light Blue Limewash"
+    hex: "#9bd7e9"
+  - 
+    name: "Light Blue Mist"
+    hex: "#bed7f0"
+  - 
+    name: "Light Blue Moon"
+    hex: "#c9ccd2"
+  - 
+    name: "Light Blue Rinse"
+    hex: "#c7cdd3"
+  - 
+    name: "Light Blue Stream"
+    hex: "#add8e1"
+  - 
+    name: "Light Blue To You"
+    hex: "#caced2"
+  - 
+    name: "Light Blue Veil"
+    hex: "#c0d8eb"
+  - 
+    name: "Light Bluish Water"
+    hex: "#a4dbe4"
+  - 
+    name: "Light Blunt"
+    hex: "#c6ccd4"
+  - 
     name: "Light Blush"
     hex: "#e9c4cc"
   - 
-    name: "Light Blush Half"
-    hex: "#eed2d7"
+    name: "Light Bobby Blue"
+    hex: "#add2e3"
   - 
-    name: "Light Blush Quarter"
-    hex: "#f2dde1"
+    name: "Light Bread Crumb"
+    hex: "#ebdfcd"
+  - 
+    name: "Light Breakaway"
+    hex: "#dae3d0"
+  - 
+    name: "Light Breezy"
+    hex: "#c0d5ef"
+  - 
+    name: "Light Bright Spark"
+    hex: "#94d0e9"
   - 
     name: "Light Brown"
     hex: "#b5651d"
@@ -22029,17 +22245,89 @@
     name: "Light Brown Sugar"
     hex: "#c8ae96"
   - 
+    name: "Light Brume"
+    hex: "#d6d5d2"
+  - 
+    name: "Light Budding Bloom"
+    hex: "#e6efcc"
+  - 
+    name: "Light Budgie Blue"
+    hex: "#9ed6e8"
+  - 
+    name: "Light Buff It"
+    hex: "#e3dbcd"
+  - 
+    name: "Light Bunny Pink"
+    hex: "#e4cfd3"
+  - 
+    name: "Light Bunny Soft"
+    hex: "#deced1"
+  - 
+    name: "Light Bypass"
+    hex: "#c6d2de"
+  - 
+    name: "Light Cameo Blue"
+    hex: "#c6d4e1"
+  - 
+    name: "Light Camisole"
+    hex: "#fce2d4"
+  - 
+    name: "Light Candela"
+    hex: "#c9d2df"
+  - 
+    name: "Light Cargo River"
+    hex: "#dbd9c9"
+  - 
     name: "Light Carmine Pink"
     hex: "#e66771"
   - 
     name: "Light Carob"
     hex: "#f9dbcf"
   - 
+    name: "Light Carolina"
+    hex: "#d8f3d7"
+  - 
+    name: "Light Carrot Flower"
+    hex: "#d8decf"
+  - 
+    name: "Light Celery Satin"
+    hex: "#dbe2cc"
+  - 
+    name: "Light Celery Stick"
+    hex: "#d8f2dc"
+  - 
     name: "Light Ceramic"
     hex: "#bbc5b2"
   - 
+    name: "Light Chalk Blue"
+    hex: "#c4eee8"
+  - 
+    name: "Light China Doll"
+    hex: "#e7d8c7"
+  - 
+    name: "Light Chintz"
+    hex: "#e0d5c9"
+  - 
+    name: "Light Christobel"
+    hex: "#dfd3ca"
+  - 
+    name: "Light Cippolino"
+    hex: "#d5dad1"
+  - 
+    name: "Light Clay Pipe"
+    hex: "#e3d6c7"
+  - 
+    name: "Light Club Cruise"
+    hex: "#a3d1e8"
+  - 
     name: "Light Cobalt Blue"
     hex: "#88ace0"
+  - 
+    name: "Light Continental Waters"
+    hex: "#afd5d8"
+  - 
+    name: "Light Cool Crayon"
+    hex: "#c3ece9"
   - 
     name: "Light Coral"
     hex: "#f08080"
@@ -22047,29 +22335,191 @@
     name: "Light Cornflower Blue"
     hex: "#93ccea"
   - 
+    name: "Light Cowardly Custard"
+    hex: "#faf3cf"
+  - 
+    name: "Light Cream Cake"
+    hex: "#f9eecb"
+  - 
     name: "Light Crimson"
     hex: "#f56991"
+  - 
+    name: "Light Crushed Almond"
+    hex: "#ddd7d1"
+  - 
+    name: "Light Cuddle"
+    hex: "#cbd7ed"
+  - 
+    name: "Light Curd"
+    hex: "#f9e9c9"
   - 
     name: "Light Cyan"
     hex: "#e0ffff"
   - 
+    name: "Light Daly Waters"
+    hex: "#c2e4e7"
+  - 
+    name: "Light Dante Peak"
+    hex: "#c6dedf"
+  - 
+    name: "Light Day Dreamer"
+    hex: "#e2d9d2"
+  - 
+    name: "Light Dedication"
+    hex: "#fce9d5"
+  - 
     name: "Light Deep Pink"
     hex: "#ff5ccd"
+  - 
+    name: "Light Delphin"
+    hex: "#9ed1e3"
+  - 
+    name: "Light Deluxe Days"
+    hex: "#a4d4ec"
+  - 
+    name: "Light Detroit"
+    hex: "#cddbdc"
+  - 
+    name: "Light Dewpoint"
+    hex: "#c4dadd"
+  - 
+    name: "Light Dreamweaver"
+    hex: "#d7d3e0"
   - 
     name: "Light Drizzle"
     hex: "#a7aea5"
   - 
+    name: "Light Dry Lichen"
+    hex: "#d4e3d7"
+  - 
+    name: "Light Duck Egg Cream"
+    hex: "#d5ebdd"
+  - 
+    name: "Light Easter Rabbit"
+    hex: "#d4ced1"
+  - 
     name: "Light Ebony"
     hex: "#555d50"
+  - 
+    name: "Light Ecru"
+    hex: "#e5deca"
+  - 
+    name: "Light Eggshell Pink"
+    hex: "#d9d2c9"
+  - 
+    name: "Light Ellen"
+    hex: "#ead5c7"
+  - 
+    name: "Light Elusive"
+    hex: "#fddfda"
+  - 
+    name: "Light Elusive Blue"
+    hex: "#c5ced8"
+  - 
+    name: "Light Elusive Dream"
+    hex: "#d8cdd3"
+  - 
+    name: "Light Elusive Mauve"
+    hex: "#e6d1dc"
+  - 
+    name: "Light Enchanted"
+    hex: "#d6eadb"
+  - 
+    name: "Light Eskimo White"
+    hex: "#d1cdd0"
+  - 
+    name: "Light Fairy Pink"
+    hex: "#f3ded7"
+  - 
+    name: "Light Fairy Wings"
+    hex: "#fbdcdc"
+  - 
+    name: "Light Favourite Lady"
+    hex: "#ead3e0"
+  - 
+    name: "Light Feather Boa"
+    hex: "#f5d6d8"
+  - 
+    name: "Light Featherbed"
+    hex: "#c1d8eb"
+  - 
+    name: "Light Feijoa Flower"
+    hex: "#f1f4d1"
+  - 
+    name: "Light Femininity"
+    hex: "#d4d1d9"
+  - 
+    name: "Light Figurine"
+    hex: "#ebe0cf"
+  - 
+    name: "Light First Love"
+    hex: "#fce6db"
+  - 
+    name: "Light Fish Pond"
+    hex: "#a1d5f1"
+  - 
+    name: "Light Flaxen Fair"
+    hex: "#eae6cc"
+  - 
+    name: "Light Flower Centre"
+    hex: "#fbecd3"
+  - 
+    name: "Light Foundation"
+    hex: "#f8eed3"
   - 
     name: "Light French Beige"
     hex: "#c8ad7f"
   - 
+    name: "Light French Limestone"
+    hex: "#d5e0d0"
+  - 
+    name: "Light French Vanilla"
+    hex: "#fbe8ce"
+  - 
+    name: "Light Fresh Lime"
+    hex: "#e2f4d7"
+  - 
+    name: "Light Freshman"
+    hex: "#ecf4d2"
+  - 
     name: "Light Frost"
     hex: "#ede8d7"
   - 
+    name: "Light Frosted Sugar"
+    hex: "#dfcbcf"
+  - 
+    name: "Light Frosty Dawn"
+    hex: "#d7efd5"
+  - 
+    name: "Light Frozen Frappe"
+    hex: "#e6d2dc"
+  - 
     name: "Light Fuchsia Pink"
     hex: "#f984ef"
+  - 
+    name: "Light Garlic Suede"
+    hex: "#d9ddcb"
+  - 
+    name: "Light Gentle Calm"
+    hex: "#d2d9cd"
+  - 
+    name: "Light Gentle Giant"
+    hex: "#c6f0e7"
+  - 
+    name: "Light Gentle Touch"
+    hex: "#ebe0c8"
+  - 
+    name: "Light Ghost Town"
+    hex: "#d4cfcc"
+  - 
+    name: "Light Ghosting"
+    hex: "#d7d3ca"
+  - 
+    name: "Light Ghostly Green"
+    hex: "#e2e1c8"
+  - 
+    name: "Light Glass Bead"
+    hex: "#d4cdd2"
   - 
     name: "Light Glaze"
     hex: "#c0b5aa"
@@ -22080,26 +22530,173 @@
     name: "Light Goldenrod Yellow"
     hex: "#fafad2"
   - 
+    name: "Light Gracilis"
+    hex: "#d2e0d6"
+  - 
+    name: "Light Grand Piano"
+    hex: "#e2dccc"
+  - 
     name: "Light Grass Green"
     hex: "#7cb68e"
   - 
     name: "Light Green"
     hex: "#90ee90"
   - 
+    name: "Light Green Alabaster"
+    hex: "#d5d8c9"
+  - 
+    name: "Light Green Ash"
+    hex: "#d7ddcd"
+  - 
+    name: "Light Green Frost"
+    hex: "#dce0cd"
+  - 
+    name: "Light Green Glacier"
+    hex: "#eef3d0"
+  - 
+    name: "Light Green Glint"
+    hex: "#e5f4d5"
+  - 
+    name: "Light Green Veil"
+    hex: "#e8f4d2"
+  - 
+    name: "Light Green Wash"
+    hex: "#d4e6d9"
+  - 
+    name: "Light Greenette"
+    hex: "#e2f0d2"
+  - 
+    name: "Light Greenland Ice"
+    hex: "#c9e1e0"
+  - 
+    name: "Light Gregorio Garden"
+    hex: "#d7d4e4"
+  - 
     name: "Light Grey"
     hex: "#979d9a"
+  - 
+    name: "Light Grey Pebble"
+    hex: "#dbd7d0"
   - 
     name: "Light Greyish Magenta"
     hex: "#cc99cc"
   - 
+    name: "Light Half And"
+    hex: "#ede7c8"
+  - 
+    name: "Light Handmade Linen"
+    hex: "#e6e1c7"
+  - 
+    name: "Light Hazy Daze"
+    hex: "#b8c8d3"
+  - 
+    name: "Light Heaven Sent"
+    hex: "#bacad4"
+  - 
+    name: "Light High Point"
+    hex: "#cce2dd"
+  - 
+    name: "Light Hindsight"
+    hex: "#cdd6ea"
+  - 
+    name: "Light Hint Of Lavender"
+    hex: "#dccfce"
+  - 
+    name: "Light Hog Bristle"
+    hex: "#e5ddcb"
+  - 
+    name: "Light Horizon Sky"
+    hex: "#d0d2de"
+  - 
     name: "Light Hot Pink"
     hex: "#ffb3de"
+  - 
+    name: "Light Hugo"
+    hex: "#eddbd7"
+  - 
+    name: "Light Ice Cap Green"
+    hex: "#caede4"
+  - 
+    name: "Light Ice Pack"
+    hex: "#bbe4ea"
+  - 
+    name: "Light Iced Aniseed"
+    hex: "#d8ded0"
+  - 
+    name: "Light Iced Lavender"
+    hex: "#d0d4e3"
+  - 
+    name: "Light Image Tone"
+    hex: "#ccd0da"
+  - 
+    name: "Light Imagine"
+    hex: "#aed4d8"
+  - 
+    name: "Light In The Slip"
+    hex: "#ead1da"
+  - 
+    name: "Light Instant"
+    hex: "#e2d9d4"
+  - 
+    name: "Light Island Light"
+    hex: "#bbd5ef"
+  - 
+    name: "Light Issey-San"
+    hex: "#dbe4d1"
+  - 
+    name: "Light Jellyfish Blue"
+    hex: "#acd6db"
+  - 
+    name: "Light Jodhpurs"
+    hex: "#f0e4c6"
+  - 
+    name: "Light July"
+    hex: "#a5ddea"
+  - 
+    name: "Light June"
+    hex: "#b1d2df"
+  - 
+    name: "Light Karma"
+    hex: "#bce6e8"
+  - 
+    name: "Light Katsura"
+    hex: "#d6ead8"
   - 
     name: "Light Khaki"
     hex: "#f0e681"
   - 
+    name: "Light Kinder"
+    hex: "#c8ced6"
+  - 
+    name: "Light Kiri Mist"
+    hex: "#d3d2dd"
+  - 
+    name: "Light Korila"
+    hex: "#e0eed4"
+  - 
+    name: "Light Lace Wisteria"
+    hex: "#d0cbce"
+  - 
+    name: "Light Lady Fingers"
+    hex: "#d8cbcf"
+  - 
+    name: "Light Lamb's Ears"
+    hex: "#d6d9cb"
+  - 
+    name: "Light Laughing Jack"
+    hex: "#d6d1dc"
+  - 
     name: "Light Lavender"
     hex: "#f1bfe2"
+  - 
+    name: "Light Lavender Blush"
+    hex: "#e3d2cf"
+  - 
+    name: "Light Lavender Oil"
+    hex: "#cecfd6"
+  - 
+    name: "Light Lavender Water"
+    hex: "#ddd6e7"
   - 
     name: "Light Leaf"
     hex: "#9ab38d"
@@ -22110,35 +22707,170 @@
     name: "Light Lichen"
     hex: "#c5ded1"
   - 
-    name: "Light Lichen Half"
+    name: "Light Ligado"
+    hex: "#d9e0d0"
+  - 
+    name: "Light Light Blush"
+    hex: "#eed2d7"
+  - 
+    name: "Light Light Lichen"
     hex: "#d3e7dc"
   - 
-    name: "Light Lichen Quarter"
-    hex: "#deede4"
+    name: "Light Light Rice"
+    hex: "#e6ddcd"
   - 
     name: "Light Lilac"
     hex: "#dec6d3"
   - 
+    name: "Light Lilac Crystal"
+    hex: "#d7d2e2"
+  - 
     name: "Light Lily"
     hex: "#e1c3bb"
+  - 
+    name: "Light Lily Legs"
+    hex: "#f2d4df"
+  - 
+    name: "Light Lilylock"
+    hex: "#e8e9cf"
+  - 
+    name: "Light Lime Sherbet"
+    hex: "#d8e6ce"
+  - 
+    name: "Light Limed White"
+    hex: "#dbd5ce"
+  - 
+    name: "Light Limpid Light"
+    hex: "#dad1d7"
+  - 
+    name: "Light Lip Gloss"
+    hex: "#e7d9d4"
+  - 
+    name: "Light Livingstone"
+    hex: "#d8d7ca"
+  - 
+    name: "Light Lost Lace"
+    hex: "#d1f0dd"
+  - 
+    name: "Light Lunette"
+    hex: "#dcd5d3"
   - 
     name: "Light Mahogany"
     hex: "#ad6d68"
   - 
+    name: "Light Maiden's Blush"
+    hex: "#f6ddce"
+  - 
+    name: "Light Male"
+    hex: "#e3dbd0"
+  - 
+    name: "Light Marsh Fog"
+    hex: "#d3e1d3"
+  - 
+    name: "Light Marshmallow Magic"
+    hex: "#f4dddb"
+  - 
+    name: "Light Martian Moon"
+    hex: "#d1efdd"
+  - 
+    name: "Light Mauve Organdie"
+    hex: "#e3d2db"
+  - 
+    name: "Light Mauve Pansy"
+    hex: "#cdcace"
+  - 
+    name: "Light Meadow Lane"
+    hex: "#cee1d9"
+  - 
     name: "Light Medium Orchid"
     hex: "#d39bcb"
+  - 
+    name: "Light Medlar"
+    hex: "#dfe1cc"
+  - 
+    name: "Light Melt Ice"
+    hex: "#c5d8e9"
+  - 
+    name: "Light Missed"
+    hex: "#f2f3cf"
   - 
     name: "Light Mist"
     hex: "#fcf7db"
   - 
+    name: "Light Mistral"
+    hex: "#c8cdd8"
+  - 
+    name: "Light Mizu"
+    hex: "#8ecfe8"
+  - 
+    name: "Light Modesty"
+    hex: "#ded5e2"
+  - 
+    name: "Light Moo"
+    hex: "#f9ebcc"
+  - 
+    name: "Light Morality"
+    hex: "#c4d9eb"
+  - 
+    name: "Light Mornington"
+    hex: "#e5d4c9"
+  - 
+    name: "Light Mosque"
+    hex: "#d8cdd0"
+  - 
     name: "Light Moss Green"
     hex: "#acdfad"
+  - 
+    name: "Light Mountain Spring"
+    hex: "#e3e9cf"
+  - 
+    name: "Light Mr Frosty"
+    hex: "#b8d3e4"
+  - 
+    name: "Light Mud Berry"
+    hex: "#dcd6d2"
   - 
     name: "Light Mulberry"
     hex: "#d8b7cf"
   - 
+    name: "Light Mystified"
+    hex: "#d6e4d4"
+  - 
+    name: "Light Naked Pink"
+    hex: "#e2d4e1"
+  - 
+    name: "Light Nantucket Mist"
+    hex: "#d7cecd"
+  - 
+    name: "Light New Hope"
+    hex: "#eaf3d0"
+  - 
+    name: "Light Newman's Eye"
+    hex: "#c3d5e8"
+  - 
+    name: "Light Nursery"
+    hex: "#f4dcdc"
+  - 
+    name: "Light Nut Milk"
+    hex: "#e3d8d4"
+  - 
+    name: "Light Objectivity"
+    hex: "#cbd3e6"
+  - 
     name: "Light of the Moon"
     hex: "#fdf5d7"
+  - 
+    name: "Light Oil Of Lavender"
+    hex: "#d4cecd"
+  - 
+    name: "Light Olive Creed"
+    hex: "#eef0ce"
+  - 
+    name: "Light Opale"
+    hex: "#c1e8ea"
+  - 
+    name: "Light Opus"
+    hex: "#dad7e8"
   - 
     name: "Light Orange"
     hex: "#fed8b1"
@@ -22146,8 +22878,53 @@
     name: "Light Orchid"
     hex: "#e6a8d7"
   - 
+    name: "Light Orchid Haze"
+    hex: "#d6cdd0"
+  - 
+    name: "Light Oriental Blush"
+    hex: "#e1d4e8"
+  - 
+    name: "Light Otto Ice"
+    hex: "#cde7dd"
+  - 
+    name: "Light Oxford"
+    hex: "#c2cbd2"
+  - 
+    name: "Light Pale Celadon"
+    hex: "#d6d8cd"
+  - 
+    name: "Light Pale Icelandish"
+    hex: "#ccdfdc"
+  - 
+    name: "Light Pale Lady"
+    hex: "#d3cccd"
+  - 
+    name: "Light Pale Lilac"
+    hex: "#ced5e4"
+  - 
+    name: "Light Pale Pearl"
+    hex: "#d4cbce"
+  - 
+    name: "Light Pale Tendril"
+    hex: "#dbdacb"
+  - 
+    name: "Light Parchment Paper"
+    hex: "#e6ddd2"
+  - 
+    name: "Light Passion Flower"
+    hex: "#fce2d7"
+  - 
+    name: "Light Pastel Mint"
+    hex: "#dbf4d8"
+  - 
     name: "Light Pastel Purple"
     hex: "#b19cd9"
+  - 
+    name: "Light Pastry"
+    hex: "#f9e7c8"
+  - 
+    name: "Light Pax"
+    hex: "#d5d3e3"
   - 
     name: "Light Payne's Grey"
     hex: "#536871"
@@ -22155,32 +22932,167 @@
     name: "Light Peach"
     hex: "#f2e1d2"
   - 
+    name: "Light Pearl Ash"
+    hex: "#dcd6d1"
+  - 
+    name: "Light Pelican Bill"
+    hex: "#e1ced4"
+  - 
+    name: "Light Penna"
+    hex: "#c8d4e7"
+  - 
+    name: "Light Pensive"
+    hex: "#d0d0d7"
+  - 
+    name: "Light Perk Up"
+    hex: "#e0d5cd"
+  - 
+    name: "Light Petite Pink"
+    hex: "#f0d7d7"
+  - 
+    name: "Light Pianissimo"
+    hex: "#ecdbd6"
+  - 
+    name: "Light Piccolo"
+    hex: "#a4dde9"
+  - 
+    name: "Light Pickford"
+    hex: "#d7f3dd"
+  - 
+    name: "Light Picnic Bay"
+    hex: "#cde5de"
+  - 
     name: "Light Pine"
     hex: "#bcc09e"
   - 
     name: "Light Pink"
     hex: "#ffb6c1"
   - 
+    name: "Light Pink Clay"
+    hex: "#fedfdc"
+  - 
+    name: "Light Pink Linen"
+    hex: "#ddced1"
+  - 
+    name: "Light Pink Marble"
+    hex: "#ebdcd7"
+  - 
+    name: "Light Pink Pandora"
+    hex: "#e9d3d5"
+  - 
+    name: "Light Pink Polar"
+    hex: "#d8c9cc"
+  - 
+    name: "Light Pink Tutu"
+    hex: "#fedddd"
+  - 
+    name: "Light Pinktone"
+    hex: "#fad9da"
+  - 
+    name: "Light Pinnacle"
+    hex: "#cee5df"
+  - 
+    name: "Light Pipe Clay"
+    hex: "#d8d6cc"
+  - 
+    name: "Light Pistachio Tang"
+    hex: "#e2dec8"
+  - 
+    name: "Light Placid Blue"
+    hex: "#c8d8e8"
+  - 
+    name: "Light Pollinate"
+    hex: "#ebe1cb"
+  - 
+    name: "Light Pool Side"
+    hex: "#bee0e2"
+  - 
+    name: "Light Porcelain"
+    hex: "#e7dad7"
+  - 
+    name: "Light Porcelain Pink"
+    hex: "#f1e2c9"
+  - 
+    name: "Light Powder Blue"
+    hex: "#c4d9ef"
+  - 
+    name: "Light Powdered Granite"
+    hex: "#d1d6eb"
+  - 
+    name: "Light Pre School"
+    hex: "#c5d0d9"
+  - 
+    name: "Light Precious Pink"
+    hex: "#f4dbdc"
+  - 
+    name: "Light Pretty Pale"
+    hex: "#ead4e0"
+  - 
+    name: "Light Prudence"
+    hex: "#dfd3e3"
+  - 
+    name: "Light Puffball"
+    hex: "#d9ced5"
+  - 
+    name: "Light Pure Blue"
+    hex: "#c2d2d8"
+  - 
+    name: "Light Purity"
+    hex: "#e0d5e9"
+  - 
     name: "Light Purple"
     hex: "#c4a3bf"
+  - 
+    name: "Light Quaver"
+    hex: "#cdded7"
+  - 
+    name: "Light Quilt"
+    hex: "#fde1d4"
+  - 
+    name: "Light Radar"
+    hex: "#c6d5ea"
+  - 
+    name: "Light Raspberry Ice"
+    hex: "#e2d8d3"
+  - 
+    name: "Light Raw Cotton"
+    hex: "#ecdfca"
+  - 
+    name: "Light Recuperate"
+    hex: "#e7d8ea"
   - 
     name: "Light Red Ochre"
     hex: "#e97551"
   - 
+    name: "Light Registra"
+    hex: "#d0cacd"
+  - 
+    name: "Light Relax"
+    hex: "#caddde"
+  - 
     name: "Light Rice"
     hex: "#ddd1bf"
   - 
-    name: "Light Rice Half"
-    hex: "#e6ddcd"
+    name: "Light Ridge Light"
+    hex: "#c3d5e5"
   - 
-    name: "Light Rice Quarter"
-    hex: "#ede6d9"
+    name: "Light Ringlet"
+    hex: "#faf1cd"
   - 
     name: "Light Roast"
     hex: "#615544"
   - 
+    name: "Light Rose Aspect"
+    hex: "#f4d4d6"
+  - 
+    name: "Light Rose Romantic"
+    hex: "#f3dcd8"
+  - 
     name: "Light Sage"
     hex: "#b2b9a5"
+  - 
+    name: "Light Sago"
+    hex: "#e2dad1"
   - 
     name: "Light Salmon"
     hex: "#ffa07a"
@@ -22188,14 +23100,104 @@
     name: "Light Salmon Pink"
     hex: "#f99"
   - 
+    name: "Light Salome"
+    hex: "#ccf1e3"
+  - 
+    name: "Light Salt Spray"
+    hex: "#bbd3da"
+  - 
+    name: "Light Sand Diamond"
+    hex: "#faeecb"
+  - 
+    name: "Light Sandbank"
+    hex: "#dedcc6"
+  - 
+    name: "Light Sandy Day"
+    hex: "#e1dacf"
+  - 
     name: "Light Sappanwood"
     hex: "#a25768"
+  - 
+    name: "Light Scallywag"
+    hex: "#ebe0ca"
+  - 
+    name: "Light Sea Breeze"
+    hex: "#b7cdd9"
+  - 
+    name: "Light Sea Cliff"
+    hex: "#b9d4e7"
+  - 
+    name: "Light Sea Foam"
+    hex: "#c5e8e7"
   - 
     name: "Light Sea Green"
     hex: "#20b2aa"
   - 
+    name: "Light Sea Spray"
+    hex: "#abd6de"
+  - 
+    name: "Light Searchlight"
+    hex: "#f2f3ce"
+  - 
+    name: "Light Security"
+    hex: "#e0e9d0"
+  - 
+    name: "Light Seduction"
+    hex: "#faf4ce"
+  - 
+    name: "Light Serena"
+    hex: "#dcdccf"
+  - 
+    name: "Light Shell Haven"
+    hex: "#f1e8ce"
+  - 
+    name: "Light Shelltint"
+    hex: "#fce0d6"
+  - 
+    name: "Light Shetland Lace"
+    hex: "#e7dccf"
+  - 
+    name: "Light Shimmer"
+    hex: "#a3d4ef"
+  - 
+    name: "Light Short Phase"
+    hex: "#cbe8df"
+  - 
+    name: "Light Shutterbug"
+    hex: "#cef2e4"
+  - 
+    name: "Light Shy Girl"
+    hex: "#fde0da"
+  - 
+    name: "Light Silver Dollar"
+    hex: "#d5dfd3"
+  - 
+    name: "Light Silver Grass"
+    hex: "#d4dbd1"
+  - 
+    name: "Light Silver Sweetpea"
+    hex: "#d3d6e9"
+  - 
+    name: "Light Silverton"
+    hex: "#cee3d9"
+  - 
+    name: "Light Sky Babe"
+    hex: "#a1d0e2"
+  - 
     name: "Light Sky Blue"
     hex: "#87cefa"
+  - 
+    name: "Light Sky Bus"
+    hex: "#afcfe0"
+  - 
+    name: "Light Sky Chase"
+    hex: "#bad7dc"
+  - 
+    name: "Light Sky Cloud"
+    hex: "#c0e7eb"
+  - 
+    name: "Light Skyway"
+    hex: "#c2e3e8"
   - 
     name: "Light Slate Blue"
     hex: "#8470ff"
@@ -22203,23 +23205,203 @@
     name: "Light Slate Grey"
     hex: "#778899"
   - 
+    name: "Light Slight Mushroom"
+    hex: "#dbd6d2"
+  - 
+    name: "Light Slightly Rose"
+    hex: "#eddbda"
+  - 
+    name: "Light Slipper Satin"
+    hex: "#cfd1d8"
+  - 
+    name: "Light Snow Goose"
+    hex: "#d1e2d8"
+  - 
+    name: "Light Snow Green"
+    hex: "#d5e3d0"
+  - 
+    name: "Light Soft Celadon"
+    hex: "#cedcd4"
+  - 
+    name: "Light Soft Fresco"
+    hex: "#cfe0d7"
+  - 
+    name: "Light Soft Kind"
+    hex: "#dcddcc"
+  - 
+    name: "Light Soft Satin"
+    hex: "#f3d3d9"
+  - 
+    name: "Light Solar"
+    hex: "#faf0c9"
+  - 
+    name: "Light Soya"
+    hex: "#f9eacc"
+  - 
+    name: "Light Spanish Cream"
+    hex: "#fbebcf"
+  - 
+    name: "Light Spatial Spirit"
+    hex: "#d1f1de"
+  - 
+    name: "Light Spearmint Ice"
+    hex: "#cfded7"
+  - 
+    name: "Light Spirit"
+    hex: "#c3cad3"
+  - 
+    name: "Light Sprig Muslin"
+    hex: "#e0cfd2"
+  - 
+    name: "Light Spring Burst"
+    hex: "#d6e8d5"
+  - 
+    name: "Light Spring Fever"
+    hex: "#ecebce"
+  - 
+    name: "Light Spring Shoot"
+    hex: "#e9f1d0"
+  - 
     name: "Light Sprinkle"
     hex: "#e3e3d7"
+  - 
+    name: "Light Spritzig"
+    hex: "#92d2ed"
+  - 
+    name: "Light Star Gate"
+    hex: "#c7d2dd"
+  - 
+    name: "Light Starlight"
+    hex: "#cbd0d7"
+  - 
+    name: "Light Starlight Blue"
+    hex: "#c9e7e3"
+  - 
+    name: "Light Stately Frills"
+    hex: "#d2ccd1"
   - 
     name: "Light Steel Blue"
     hex: "#b0c4de"
   - 
+    name: "Light Subdue"
+    hex: "#d5d1cc"
+  - 
+    name: "Light Subpoena"
+    hex: "#e4dad3"
+  - 
+    name: "Light Supernova"
+    hex: "#cde5e2"
+  - 
+    name: "Light Tactile"
+    hex: "#deedd4"
+  - 
     name: "Light Taupe"
     hex: "#b38b6d"
+  - 
+    name: "Light Taupe White"
+    hex: "#d5d0cb"
+  - 
+    name: "Light Tea Party"
+    hex: "#fee0da"
+  - 
+    name: "Light Template"
+    hex: "#bbd6ea"
+  - 
+    name: "Light Tender Touch"
+    hex: "#e0d4e0"
+  - 
+    name: "Light Tenzing"
+    hex: "#b3dae2"
+  - 
+    name: "Light Thought"
+    hex: "#e2d8d4"
   - 
     name: "Light Thulian Pink"
     hex: "#e38fac"
   - 
+    name: "Light Tidal Foam"
+    hex: "#bcd6e9"
+  - 
+    name: "Light Time Travel"
+    hex: "#c5d2df"
+  - 
+    name: "Light Timeless"
+    hex: "#c2e2e3"
+  - 
+    name: "Light Tinge Of Mauve"
+    hex: "#dfd2d9"
+  - 
+    name: "Light Tinker Light"
+    hex: "#faf1c8"
+  - 
+    name: "Light Tip Toes"
+    hex: "#e1d0d8"
+  - 
     name: "Light Truffle"
     hex: "#aa9c8b"
   - 
+    name: "Light Unbleached Calico"
+    hex: "#f8e2ca"
+  - 
+    name: "Light Vandamint"
+    hex: "#bfe7ea"
+  - 
+    name: "Light Vanilla Frost"
+    hex: "#faedd2"
+  - 
+    name: "Light Vanilla Ice"
+    hex: "#b8ced9"
+  - 
+    name: "Light Vanilla Quake"
+    hex: "#d8d5d0"
+  - 
+    name: "Light Vision"
+    hex: "#dcd9eb"
+  - 
+    name: "Light Wallis"
+    hex: "#d4ccce"
+  - 
+    name: "Light Warm Ash"
+    hex: "#dbd6d3"
+  - 
+    name: "Light Washed Blue"
+    hex: "#acdce7"
+  - 
+    name: "Light Water Wash"
+    hex: "#bfd5eb"
+  - 
+    name: "Light Watermark"
+    hex: "#b7dadd"
+  - 
+    name: "Light Watermelon Milk"
+    hex: "#e6dad6"
+  - 
+    name: "Light Waterwings"
+    hex: "#c2f0e6"
+  - 
     name: "Light Wave"
-    hex: "#e0efe9"
+    hex: "#badbdf"
+  - 
+    name: "Light Wavecrest"
+    hex: "#b5d1df"
+  - 
+    name: "Light Weathered Hide"
+    hex: "#e0d4d0"
+  - 
+    name: "Light Wheaten White"
+    hex: "#faf0cb"
+  - 
+    name: "Light Whimsy"
+    hex: "#99d0e7"
+  - 
+    name: "Light White Box"
+    hex: "#cedcd6"
+  - 
+    name: "Light White Duck"
+    hex: "#dcd8cb"
+  - 
+    name: "Light White Flag"
+    hex: "#d6d0cf"
   - 
     name: "Light Wisteria"
     hex: "#c9a0ff"
@@ -22232,6 +23414,15 @@
   - 
     name: "Light Yellow"
     hex: "#ffffe0"
+  - 
+    name: "Light Youth"
+    hex: "#ead7d5"
+  - 
+    name: "Light Zen"
+    hex: "#d1dbd2"
+  - 
+    name: "Light Zenith Heights"
+    hex: "#bad5d4"
   - 
     name: "Lightest Sky"
     hex: "#e4eadf"
@@ -22277,12 +23468,6 @@
   - 
     name: "Lilac Crystal"
     hex: "#cbc5d9"
-  - 
-    name: "Lilac Crystal Half"
-    hex: "#d7d2e2"
-  - 
-    name: "Lilac Crystal Quarter"
-    hex: "#e1dee8"
   - 
     name: "Lilac Flare"
     hex: "#b2badb"
@@ -22347,12 +23532,6 @@
     name: "Lily Legs"
     hex: "#eec7d6"
   - 
-    name: "Lily Legs Half"
-    hex: "#f2d4df"
-  - 
-    name: "Lily Legs Quarter"
-    hex: "#f5dfe7"
-  - 
     name: "Lily Pad"
     hex: "#818f84"
   - 
@@ -22367,12 +23546,6 @@
   - 
     name: "Lilylock"
     hex: "#e0e1c1"
-  - 
-    name: "Lilylock Half"
-    hex: "#e8e9cf"
-  - 
-    name: "Lilylock Quarter"
-    hex: "#edeeda"
   - 
     name: "Lima"
     hex: "#7aac21"
@@ -22443,12 +23616,6 @@
     name: "Lime Sherbet"
     hex: "#cdd78a"
   - 
-    name: "Lime Sherbet Half"
-    hex: "#d8e6ce"
-  - 
-    name: "Lime Sherbet Quarter"
-    hex: "#e1ecd9"
-  - 
     name: "Lime Shot"
     hex: "#1df914"
   - 
@@ -22491,12 +23658,6 @@
     name: "Limed White"
     hex: "#cfc9c0"
   - 
-    name: "Limed White Half"
-    hex: "#dbd5ce"
-  - 
-    name: "Limed White Quarter"
-    hex: "#e4e0da"
-  - 
     name: "Limelight"
     hex: "#f0e87d"
   - 
@@ -22538,12 +23699,6 @@
   - 
     name: "Limpid Light"
     hex: "#cdc2ca"
-  - 
-    name: "Limpid Light Half"
-    hex: "#dad1d7"
-  - 
-    name: "Limpid Light Quarter"
-    hex: "#e3dce0"
   - 
     name: "Lincoln Green"
     hex: "#195905"
@@ -22595,12 +23750,6 @@
   - 
     name: "Lip Gloss"
     hex: "#dfcdc7"
-  - 
-    name: "Lip Gloss Half"
-    hex: "#e7d9d4"
-  - 
-    name: "Lip Gloss Quarter"
-    hex: "#eee3de"
   - 
     name: "Lippie"
     hex: "#d16a68"
@@ -22706,12 +23855,6 @@
   - 
     name: "Livingstone"
     hex: "#cbcbbb"
-  - 
-    name: "Livingstone Half"
-    hex: "#d8d7ca"
-  - 
-    name: "Livingstone Quarter"
-    hex: "#e2e1d6"
   - 
     name: "Lizard"
     hex: "#71643e"
@@ -22850,12 +23993,6 @@
   - 
     name: "Lost Lace"
     hex: "#c2ebd1"
-  - 
-    name: "Lost Lace Half"
-    hex: "#d1f0dd"
-  - 
-    name: "Lost Lace Quarter"
-    hex: "#ddf3e5"
   - 
     name: "Lost Lake"
     hex: "#b5adb5"
@@ -23003,12 +24140,6 @@
   - 
     name: "Lunette"
     hex: "#d0c8c6"
-  - 
-    name: "Lunette Half"
-    hex: "#dcd5d3"
-  - 
-    name: "Lunette Quarter"
-    hex: "#e5e0dd"
   - 
     name: "Lupine"
     hex: "#be9cc1"
@@ -23343,12 +24474,6 @@
     name: "Maiden's Blush"
     hex: "#f3d3bf"
   - 
-    name: "Maiden's Blush Half"
-    hex: "#f6ddce"
-  - 
-    name: "Maiden's Blush Quarter"
-    hex: "#f8e6d9"
-  - 
     name: "Maidenhair Fern"
     hex: "#44764a"
   - 
@@ -23414,12 +24539,6 @@
   - 
     name: "Male Betta"
     hex: "#347699"
-  - 
-    name: "Male Half"
-    hex: "#e3dbd0"
-  - 
-    name: "Male Quarter"
-    hex: "#eae4da"
   - 
     name: "Malibu"
     hex: "#66b7e1"
@@ -23739,12 +24858,6 @@
     name: "Marsh Fog"
     hex: "#c6d8c7"
   - 
-    name: "Marsh Fog Half"
-    hex: "#d3e1d3"
-  - 
-    name: "Marsh Fog Quarter"
-    hex: "#dfeade"
-  - 
     name: "Marsh Mix"
     hex: "#5a653a"
   - 
@@ -23763,12 +24876,6 @@
     name: "Marshmallow Magic"
     hex: "#efd2d0"
   - 
-    name: "Marshmallow Magic Half"
-    hex: "#f4dddb"
-  - 
-    name: "Marshmallow Magic Quarter"
-    hex: "#f6e6e4"
-  - 
     name: "Marshmallow Rose"
     hex: "#f7e5e6"
   - 
@@ -23783,12 +24890,6 @@
   - 
     name: "Martian Moon"
     hex: "#c3e9d3"
-  - 
-    name: "Martian Moon Half"
-    hex: "#d1efdd"
-  - 
-    name: "Martian Moon Quarter"
-    hex: "#ddf3e6"
   - 
     name: "Martini"
     hex: "#b7a8a3"
@@ -23925,20 +25026,8 @@
     name: "Mauve Organdie"
     hex: "#d9c4d0"
   - 
-    name: "Mauve Organdie Half"
-    hex: "#e3d2db"
-  - 
-    name: "Mauve Organdie Quarter"
-    hex: "#eadee4"
-  - 
     name: "Mauve Pansy"
     hex: "#bebbc0"
-  - 
-    name: "Mauve Pansy Half"
-    hex: "#cdcace"
-  - 
-    name: "Mauve Pansy Quarter"
-    hex: "#d9d7d9"
   - 
     name: "Mauve Shadows"
     hex: "#b598a3"
@@ -24065,12 +25154,6 @@
   - 
     name: "Meadow Lane"
     hex: "#c0d7cd"
-  - 
-    name: "Meadow Lane Half"
-    hex: "#cee1d9"
-  - 
-    name: "Meadow Lane Quarter"
-    hex: "#dae8e1"
   - 
     name: "Meadow Mauve"
     hex: "#a9568c"
@@ -24234,12 +25317,6 @@
     name: "Medlar"
     hex: "#d5d7bf"
   - 
-    name: "Medlar Half"
-    hex: "#dfe1cc"
-  - 
-    name: "Medlar Quarter"
-    hex: "#e7e9d8"
-  - 
     name: "Meek Moss Green"
     hex: "#869f98"
   - 
@@ -24332,12 +25409,6 @@
   - 
     name: "Melt Ice"
     hex: "#b4cbe3"
-  - 
-    name: "Melt Ice Half"
-    hex: "#c5d8e9"
-  - 
-    name: "Melt Ice Quarter"
-    hex: "#d3e2ee"
   - 
     name: "Melt with You"
     hex: "#e3cfab"
@@ -24981,12 +26052,6 @@
     name: "Missed"
     hex: "#eff0c0"
   - 
-    name: "Missed Half"
-    hex: "#f2f3cf"
-  - 
-    name: "Missed Quarter"
-    hex: "#f5f5da"
-  - 
     name: "Missing Link"
     hex: "#6f5d57"
   - 
@@ -25043,12 +26108,6 @@
   - 
     name: "Mistral"
     hex: "#b8bfcc"
-  - 
-    name: "Mistral Half"
-    hex: "#c8cdd8"
-  - 
-    name: "Mistral Quarter"
-    hex: "#d5dae1"
   - 
     name: "Misty Afternoon"
     hex: "#c6dcc7"
@@ -25125,12 +26184,6 @@
     name: "Mizu"
     hex: "#70c1e0"
   - 
-    name: "Mizu Half"
-    hex: "#8ecfe8"
-  - 
-    name: "Mizu Quarter"
-    hex: "#a7dbed"
-  - 
     name: "Mizuasagi Green"
     hex: "#749f8d"
   - 
@@ -25196,12 +26249,6 @@
   - 
     name: "Modesty"
     hex: "#d4c7d9"
-  - 
-    name: "Modesty Half"
-    hex: "#ded5e2"
-  - 
-    name: "Modesty Quarter"
-    hex: "#e6dfe8"
   - 
     name: "Moegi Green"
     hex: "#f19172"
@@ -25368,12 +26415,6 @@
     name: "Moo"
     hex: "#fbe5bd"
   - 
-    name: "Moo Half"
-    hex: "#f9ebcc"
-  - 
-    name: "Moo Quarter"
-    hex: "#f8f0d8"
-  - 
     name: "Mood Indigo"
     hex: "#353a4c"
   - 
@@ -25482,12 +26523,6 @@
     name: "Morality"
     hex: "#b4cde5"
   - 
-    name: "Morality Half"
-    hex: "#c4d9eb"
-  - 
-    name: "Morality Quarter"
-    hex: "#d2e2ef"
-  - 
     name: "Morass"
     hex: "#726138"
   - 
@@ -25542,6 +26577,9 @@
     name: "Morning Green"
     hex: "#89bab2"
   - 
+    name: "Morning Light Wave"
+    hex: "#e0efe9"
+  - 
     name: "Morning Mist"
     hex: "#e5edf1"
   - 
@@ -25562,12 +26600,6 @@
   - 
     name: "Mornington"
     hex: "#dcc6b9"
-  - 
-    name: "Mornington Half"
-    hex: "#e5d4c9"
-  - 
-    name: "Mornington Quarter"
-    hex: "#ecdfd5"
   - 
     name: "Moroccan Blue"
     hex: "#0f4e67"
@@ -25616,12 +26648,6 @@
   - 
     name: "Mosque"
     hex: "#005f5b"
-  - 
-    name: "Mosque Half"
-    hex: "#d8cdd0"
-  - 
-    name: "Mosque Quarter"
-    hex: "#e2d9db"
   - 
     name: "Moss"
     hex: "#009051"
@@ -25773,12 +26799,6 @@
     name: "Mountain Spring"
     hex: "#d9e1c1"
   - 
-    name: "Mountain Spring Half"
-    hex: "#e3e9cf"
-  - 
-    name: "Mountain Spring Quarter"
-    hex: "#eaeeda"
-  - 
     name: "Mountain Stream"
     hex: "#96afb7"
   - 
@@ -25812,12 +26832,6 @@
     name: "Mr Frosty"
     hex: "#a3c5db"
   - 
-    name: "Mr Frosty Half"
-    hex: "#b8d3e4"
-  - 
-    name: "Mr Frosty Quarter"
-    hex: "#c8deea"
-  - 
     name: "Mr Mustard"
     hex: "#e4b857"
   - 
@@ -25835,12 +26849,6 @@
   - 
     name: "Mud Berry"
     hex: "#d0c8c4"
-  - 
-    name: "Mud Berry Half"
-    hex: "#dcd6d2"
-  - 
-    name: "Mud Berry Quarter"
-    hex: "#e4e0dc"
   - 
     name: "Mud House"
     hex: "#847146"
@@ -26118,12 +27126,6 @@
     name: "Mystified"
     hex: "#c9dbc7"
   - 
-    name: "Mystified Half"
-    hex: "#d6e4d4"
-  - 
-    name: "Mystified Quarter"
-    hex: "#e1ebde"
-  - 
     name: "Mystique"
     hex: "#a598a0"
   - 
@@ -26150,12 +27152,6 @@
   - 
     name: "Naked Pink"
     hex: "#d8c6d6"
-  - 
-    name: "Naked Pink Half"
-    hex: "#e2d4e1"
-  - 
-    name: "Naked Pink Quarter"
-    hex: "#eadfe8"
   - 
     name: "Naked Rose"
     hex: "#ebb5b3"
@@ -26186,12 +27182,6 @@
   - 
     name: "Nantucket Mist"
     hex: "#cabfbf"
-  - 
-    name: "Nantucket Mist Half"
-    hex: "#d7cecd"
-  - 
-    name: "Nantucket Mist Quarter"
-    hex: "#e1dad9"
   - 
     name: "Napa"
     hex: "#a39a87"
@@ -26499,12 +27489,6 @@
     name: "New Hope"
     hex: "#e2efc2"
   - 
-    name: "New Hope Half"
-    hex: "#eaf3d0"
-  - 
-    name: "New Hope Quarter"
-    hex: "#eef5db"
-  - 
     name: "New Kenyan Copper"
     hex: "#7c1c05"
   - 
@@ -26540,12 +27524,6 @@
   - 
     name: "Newman's Eye"
     hex: "#b2c7e1"
-  - 
-    name: "Newman's Eye Half"
-    hex: "#c3d5e8"
-  - 
-    name: "Newman's Eye Quarter"
-    hex: "#d2dfed"
   - 
     name: "Newport Blue"
     hex: "#1c8ac9"
@@ -26868,12 +27846,6 @@
     name: "Nursery Green"
     hex: "#edf0de"
   - 
-    name: "Nursery Half"
-    hex: "#f4dcdc"
-  - 
-    name: "Nursery Quarter"
-    hex: "#f6e6e5"
-  - 
     name: "Nurude Brown"
     hex: "#9d896c"
   - 
@@ -26885,12 +27857,6 @@
   - 
     name: "Nut Milk"
     hex: "#d9ccc8"
-  - 
-    name: "Nut Milk Half"
-    hex: "#e3d8d4"
-  - 
-    name: "Nut Milk Quarter"
-    hex: "#eae2df"
   - 
     name: "Nut Oil"
     hex: "#775d38"
@@ -26987,12 +27953,6 @@
   - 
     name: "Objectivity"
     hex: "#bbc6de"
-  - 
-    name: "Objectivity Half"
-    hex: "#cbd3e6"
-  - 
-    name: "Objectivity Quarter"
-    hex: "#d7deeb"
   - 
     name: "Obligation"
     hex: "#54645c"
@@ -27146,12 +28106,6 @@
   - 
     name: "Oil Of Lavender"
     hex: "#c7bebe"
-  - 
-    name: "Oil Of Lavender Half"
-    hex: "#d4cecd"
-  - 
-    name: "Oil Of Lavender Quarter"
-    hex: "#dfdad9"
   - 
     name: "Oil Yellow"
     hex: "#c4a647"
@@ -27321,12 +28275,6 @@
     name: "Olive Creed"
     hex: "#e8ecc0"
   - 
-    name: "Olive Creed Half"
-    hex: "#eef0ce"
-  - 
-    name: "Olive Creed Quarter"
-    hex: "#f1f3da"
-  - 
     name: "Olive Drab"
     hex: "#6b8c23"
   - 
@@ -27477,12 +28425,6 @@
     name: "Opale"
     hex: "#aee0e4"
   - 
-    name: "Opale Half"
-    hex: "#c1e8ea"
-  - 
-    name: "Opale Quarter"
-    hex: "#d1edee"
-  - 
     name: "Opalescent"
     hex: "#3c94c1"
   - 
@@ -27515,12 +28457,6 @@
   - 
     name: "Opus"
     hex: "#cecae1"
-  - 
-    name: "Opus Half"
-    hex: "#dad7e8"
-  - 
-    name: "Opus Quarter"
-    hex: "#e3e1ed"
   - 
     name: "Oracle"
     hex: "#395555"
@@ -27663,12 +28599,6 @@
     name: "Orchid Haze"
     hex: "#b0879b"
   - 
-    name: "Orchid Haze Half"
-    hex: "#d6cdd0"
-  - 
-    name: "Orchid Haze Quarter"
-    hex: "#e0d9da"
-  - 
     name: "Orchid Hue"
     hex: "#e5e999"
   - 
@@ -27753,12 +28683,6 @@
     name: "Oriental Blush"
     hex: "#d7c6e1"
   - 
-    name: "Oriental Blush Half"
-    hex: "#e1d4e8"
-  - 
-    name: "Oriental Blush Quarter"
-    hex: "#e8dfed"
-  - 
     name: "Oriental Pink"
     hex: "#c28e88"
   - 
@@ -27824,12 +28748,6 @@
   - 
     name: "Otto Ice"
     hex: "#bedfd3"
-  - 
-    name: "Otto Ice Half"
-    hex: "#cde7dd"
-  - 
-    name: "Otto Ice Quarter"
-    hex: "#daeee6"
   - 
     name: "Ottoman"
     hex: "#d3dbcb"
@@ -27908,12 +28826,6 @@
   - 
     name: "Oxford Brown"
     hex: "#504139"
-  - 
-    name: "Oxford Half"
-    hex: "#c2cbd2"
-  - 
-    name: "Oxford Quarter"
-    hex: "#d1d8dd"
   - 
     name: "Oxford Tan"
     hex: "#b8a99a"
@@ -28134,12 +29046,6 @@
     name: "Pale Celadon"
     hex: "#c9cbbe"
   - 
-    name: "Pale Celadon Half"
-    hex: "#d6d8cd"
-  - 
-    name: "Pale Celadon Quarter"
-    hex: "#e0e1d8"
-  - 
     name: "Pale Cerulean"
     hex: "#9bc4e2"
   - 
@@ -28227,12 +29133,6 @@
     name: "Pale Icelandish"
     hex: "#bdd4d1"
   - 
-    name: "Pale Icelandish Half"
-    hex: "#ccdfdc"
-  - 
-    name: "Pale Icelandish Quarter"
-    hex: "#d9e7e3"
-  - 
     name: "Pale Incense"
     hex: "#ffa565"
   - 
@@ -28254,12 +29154,6 @@
     name: "Pale Lady"
     hex: "#c7bdc1"
   - 
-    name: "Pale Lady Half"
-    hex: "#d3cccd"
-  - 
-    name: "Pale Lady Quarter"
-    hex: "#dfd9da"
-  - 
     name: "Pale Lavender"
     hex: "#dcd0ff"
   - 
@@ -28268,12 +29162,6 @@
   - 
     name: "Pale Lilac"
     hex: "#e1c6cc"
-  - 
-    name: "Pale Lilac Half"
-    hex: "#ced5e4"
-  - 
-    name: "Pale Lilac Quarter"
-    hex: "#dadfea"
   - 
     name: "Pale Lily"
     hex: "#f3ece7"
@@ -28349,12 +29237,6 @@
   - 
     name: "Pale Pearl"
     hex: "#fff2de"
-  - 
-    name: "Pale Pearl Half"
-    hex: "#d4cbce"
-  - 
-    name: "Pale Pearl Quarter"
-    hex: "#ded7da"
   - 
     name: "Pale Persimmon"
     hex: "#d4acad"
@@ -28433,12 +29315,6 @@
   - 
     name: "Pale Tendril"
     hex: "#cecdbb"
-  - 
-    name: "Pale Tendril Half"
-    hex: "#dbdacb"
-  - 
-    name: "Pale Tendril Quarter"
-    hex: "#e3e2d7"
   - 
     name: "Pale Turquoise"
     hex: "#afeee1"
@@ -28659,12 +29535,6 @@
     name: "Parchment Paper"
     hex: "#f0e7d8"
   - 
-    name: "Parchment Paper Half"
-    hex: "#e6ddd2"
-  - 
-    name: "Parchment Paper Quarter"
-    hex: "#ece6dc"
-  - 
     name: "Parfait"
     hex: "#c8a6a1"
   - 
@@ -28752,12 +29622,6 @@
     name: "Passion Flower"
     hex: "#6d5698"
   - 
-    name: "Passion Flower Half"
-    hex: "#fce2d7"
-  - 
-    name: "Passion Flower Quarter"
-    hex: "#fae9e1"
-  - 
     name: "Passion Potion"
     hex: "#e398af"
   - 
@@ -28812,12 +29676,6 @@
     name: "Pastel Mint"
     hex: "#cef0cc"
   - 
-    name: "Pastel Mint Half"
-    hex: "#dbf4d8"
-  - 
-    name: "Pastel Mint Quarter"
-    hex: "#e4f5e1"
-  - 
     name: "Pastel Orange"
     hex: "#ffb347"
   - 
@@ -28853,12 +29711,6 @@
   - 
     name: "Pastry"
     hex: "#f8deb8"
-  - 
-    name: "Pastry Half"
-    hex: "#f9e7c8"
-  - 
-    name: "Pastry Quarter"
-    hex: "#faedd5"
   - 
     name: "Pastry Shell"
     hex: "#bd8c66"
@@ -28940,12 +29792,6 @@
   - 
     name: "Pax"
     hex: "#c8c6da"
-  - 
-    name: "Pax Half"
-    hex: "#d5d3e3"
-  - 
-    name: "Pax Quarter"
-    hex: "#dfdfea"
   - 
     name: "Payne's Grey"
     hex: "#536878"
@@ -29205,12 +30051,6 @@
     name: "Pearl Ash"
     hex: "#d0c9c3"
   - 
-    name: "Pearl Ash Half"
-    hex: "#dcd6d1"
-  - 
-    name: "Pearl Ash Quarter"
-    hex: "#e5e0db"
-  - 
     name: "Pearl Bay"
     hex: "#7fc6cc"
   - 
@@ -29331,12 +30171,6 @@
     name: "Pelican Bill"
     hex: "#d7c0c7"
   - 
-    name: "Pelican Bill Half"
-    hex: "#e1ced4"
-  - 
-    name: "Pelican Bill Quarter"
-    hex: "#e9dbdf"
-  - 
     name: "Pelican Feather"
     hex: "#e8c3c2"
   - 
@@ -29358,23 +30192,11 @@
     name: "Penna"
     hex: "#b9c8e0"
   - 
-    name: "Penna Half"
-    hex: "#c8d4e7"
-  - 
-    name: "Penna Quarter"
-    hex: "#d6dfec"
-  - 
     name: "Pensive"
     hex: "#c2c1cb"
   - 
-    name: "Pensive Half"
-    hex: "#d0d0d7"
-  - 
     name: "Pensive Pink"
     hex: "#eab6ad"
-  - 
-    name: "Pensive Quarter"
-    hex: "#dddce1"
   - 
     name: "Pentagon"
     hex: "#96ccd1"
@@ -29502,12 +30324,6 @@
     name: "Perk Up"
     hex: "#d6c7be"
   - 
-    name: "Perk Up Half"
-    hex: "#e0d5cd"
-  - 
-    name: "Perk Up Quarter"
-    hex: "#e8dfd8"
-  - 
     name: "Perky"
     hex: "#408e7c"
   - 
@@ -29628,12 +30444,6 @@
     name: "Petite Pink"
     hex: "#eacacb"
   - 
-    name: "Petite Pink Half"
-    hex: "#f0d7d7"
-  - 
-    name: "Petite Pink Quarter"
-    hex: "#f4e2e1"
-  - 
     name: "Petite Purple"
     hex: "#cfbbd8"
   - 
@@ -29748,12 +30558,6 @@
     name: "Pianissimo"
     hex: "#e6d0ca"
   - 
-    name: "Pianissimo Half"
-    hex: "#ecdbd6"
-  - 
-    name: "Pianissimo Quarter"
-    hex: "#f2e5e0"
-  - 
     name: "Piano Keys"
     hex: "#eee5d4"
   - 
@@ -29772,23 +30576,11 @@
     name: "Piccolo"
     hex: "#8bd2e2"
   - 
-    name: "Piccolo Half"
-    hex: "#a4dde9"
-  - 
-    name: "Piccolo Quarter"
-    hex: "#bae5ee"
-  - 
     name: "Picket Fence"
     hex: "#f3f2ea"
   - 
     name: "Pickford"
     hex: "#c9f0d1"
-  - 
-    name: "Pickford Half"
-    hex: "#d7f3dd"
-  - 
-    name: "Pickford Quarter"
-    hex: "#e1f5e5"
   - 
     name: "Pickle Juice"
     hex: "#bba528"
@@ -29822,12 +30614,6 @@
   - 
     name: "Picnic Bay"
     hex: "#bcdbd4"
-  - 
-    name: "Picnic Bay Half"
-    hex: "#cde5de"
-  - 
-    name: "Picnic Bay Quarter"
-    hex: "#d9ece6"
   - 
     name: "Picton Blue"
     hex: "#5ba0d0"
@@ -30036,14 +30822,8 @@
     name: "Pink Clay"
     hex: "#ffd5d1"
   - 
-    name: "Pink Clay Half"
-    hex: "#fedfdc"
-  - 
     name: "Pink Clay Pot"
     hex: "#d99294"
-  - 
-    name: "Pink Clay Quarter"
-    hex: "#fce7e4"
   - 
     name: "Pink Cupcake"
     hex: "#f5d0d6"
@@ -30135,12 +30915,6 @@
     name: "Pink Linen"
     hex: "#d2bfc4"
   - 
-    name: "Pink Linen Half"
-    hex: "#ddced1"
-  - 
-    name: "Pink Linen Quarter"
-    hex: "#e5d9dc"
-  - 
     name: "Pink Lotus"
     hex: "#fadbd7"
   - 
@@ -30152,12 +30926,6 @@
   - 
     name: "Pink Marble"
     hex: "#e5d0ca"
-  - 
-    name: "Pink Marble Half"
-    hex: "#ebdcd7"
-  - 
-    name: "Pink Marble Quarter"
-    hex: "#f1e5e0"
   - 
     name: "Pink Mist"
     hex: "#e6bccd"
@@ -30185,12 +30953,6 @@
   - 
     name: "Pink Pandora"
     hex: "#e1c5c9"
-  - 
-    name: "Pink Pandora Half"
-    hex: "#e9d3d5"
-  - 
-    name: "Pink Pandora Quarter"
-    hex: "#efdedf"
   - 
     name: "Pink Panther"
     hex: "#ff0090"
@@ -30227,12 +30989,6 @@
   - 
     name: "Pink Polar"
     hex: "#ccbabe"
-  - 
-    name: "Pink Polar Half"
-    hex: "#d8c9cc"
-  - 
-    name: "Pink Polar Quarter"
-    hex: "#e2d6d8"
   - 
     name: "Pink Poppy"
     hex: "#8e6e74"
@@ -30306,12 +31062,6 @@
     name: "Pink Tutu"
     hex: "#f9e4e9"
   - 
-    name: "Pink Tutu Half"
-    hex: "#fedddd"
-  - 
-    name: "Pink Tutu Quarter"
-    hex: "#fbe7e6"
-  - 
     name: "Pink Yarrow"
     hex: "#ce3175"
   - 
@@ -30324,20 +31074,8 @@
     name: "Pinktone"
     hex: "#f9ced1"
   - 
-    name: "Pinktone Half"
-    hex: "#fad9da"
-  - 
-    name: "Pinktone Quarter"
-    hex: "#fae3e3"
-  - 
     name: "Pinnacle"
     hex: "#beddd5"
-  - 
-    name: "Pinnacle Half"
-    hex: "#cee5df"
-  - 
-    name: "Pinnacle Quarter"
-    hex: "#daece7"
   - 
     name: "Pinot Noir"
     hex: "#605258"
@@ -30359,12 +31097,6 @@
   - 
     name: "Pipe Clay"
     hex: "#cac7bc"
-  - 
-    name: "Pipe Clay Half"
-    hex: "#d8d6cc"
-  - 
-    name: "Pipe Clay Quarter"
-    hex: "#e2e0d8"
   - 
     name: "Piper"
     hex: "#9d5432"
@@ -30423,12 +31155,6 @@
     name: "Pistachio Tang"
     hex: "#d7d2b8"
   - 
-    name: "Pistachio Tang Half"
-    hex: "#e2dec8"
-  - 
-    name: "Pistachio Tang Quarter"
-    hex: "#e9e6d4"
-  - 
     name: "Pit Stop"
     hex: "#414958"
   - 
@@ -30464,12 +31190,6 @@
   - 
     name: "Placid Blue"
     hex: "#8cadd3"
-  - 
-    name: "Placid Blue Half"
-    hex: "#c8d8e8"
-  - 
-    name: "Placid Blue Quarter"
-    hex: "#d5e2ee"
   - 
     name: "Plain And Simple"
     hex: "#ebf0d6"
@@ -30759,12 +31479,6 @@
     name: "Pollinate"
     hex: "#e3d6bc"
   - 
-    name: "Pollinate Half"
-    hex: "#ebe1cb"
-  - 
-    name: "Pollinate Quarter"
-    hex: "#f0ead7"
-  - 
     name: "Pollination"
     hex: "#b8a02a"
   - 
@@ -30864,12 +31578,6 @@
     name: "Pool Side"
     hex: "#aad5d9"
   - 
-    name: "Pool Side Half"
-    hex: "#bee0e2"
-  - 
-    name: "Pool Side Quarter"
-    hex: "#cce7e8"
-  - 
     name: "Pop Shop"
     hex: "#93d4c0"
   - 
@@ -30921,20 +31629,8 @@
     name: "Porcelain Green"
     hex: "#108780"
   - 
-    name: "Porcelain Half"
-    hex: "#e7dad7"
-  - 
     name: "Porcelain Pink"
     hex: "#ecd9b9"
-  - 
-    name: "Porcelain Pink Half"
-    hex: "#f1e2c9"
-  - 
-    name: "Porcelain Pink Quarter"
-    hex: "#f4ead5"
-  - 
-    name: "Porcelain Quarter"
-    hex: "#eee2e0"
   - 
     name: "Porcelain Rose"
     hex: "#ea6b6a"
@@ -31095,12 +31791,6 @@
     name: "Powder Blue"
     hex: "#b0e0e6"
   - 
-    name: "Powder Blue Half"
-    hex: "#c4d9ef"
-  - 
-    name: "Powder Blue Quarter"
-    hex: "#d2e2f2"
-  - 
     name: "Powder Dust"
     hex: "#b7b7bc"
   - 
@@ -31127,12 +31817,6 @@
   - 
     name: "Powdered Granite"
     hex: "#c3c9e6"
-  - 
-    name: "Powdered Granite Half"
-    hex: "#d1d6eb"
-  - 
-    name: "Powdered Granite Quarter"
-    hex: "#dcdfef"
   - 
     name: "Powdered Green Tea"
     hex: "#c5c56a"
@@ -31209,12 +31893,6 @@
     name: "Pre School"
     hex: "#b5c2cd"
   - 
-    name: "Pre School Half"
-    hex: "#c5d0d9"
-  - 
-    name: "Pre School Quarter"
-    hex: "#d3dbe2"
-  - 
     name: "Pre-Raphaelite"
     hex: "#8b7f7a"
   - 
@@ -31226,12 +31904,6 @@
   - 
     name: "Precious Pink"
     hex: "#f6b5b6"
-  - 
-    name: "Precious Pink Half"
-    hex: "#f4dbdc"
-  - 
-    name: "Precious Pink Quarter"
-    hex: "#f6e4e4"
   - 
     name: "Precision"
     hex: "#2c3944"
@@ -31286,12 +31958,6 @@
   - 
     name: "Pretty Pale"
     hex: "#e3c6d6"
-  - 
-    name: "Pretty Pale Half"
-    hex: "#ead4e0"
-  - 
-    name: "Pretty Pale Quarter"
-    hex: "#efdfe7"
   - 
     name: "Pretty Petunia"
     hex: "#d6b7e2"
@@ -31461,12 +32127,6 @@
     name: "Prudence"
     hex: "#d4c6db"
   - 
-    name: "Prudence Half"
-    hex: "#dfd3e3"
-  - 
-    name: "Prudence Quarter"
-    hex: "#e6deea"
-  - 
     name: "Prune"
     hex: "#701c11"
   - 
@@ -31514,12 +32174,6 @@
   - 
     name: "Puffball"
     hex: "#ccbfc9"
-  - 
-    name: "Puffball Half"
-    hex: "#d9ced5"
-  - 
-    name: "Puffball Quarter"
-    hex: "#e2dadf"
   - 
     name: "Puffins Bill"
     hex: "#e95c20"
@@ -31593,12 +32247,6 @@
     name: "Pure Blue"
     hex: "#b1c4cb"
   - 
-    name: "Pure Blue Half"
-    hex: "#c2d2d8"
-  - 
-    name: "Pure Blue Quarter"
-    hex: "#d1dde1"
-  - 
     name: "Pure Cashmere"
     hex: "#ada396"
   - 
@@ -31619,12 +32267,6 @@
   - 
     name: "Purity"
     hex: "#d7c9e3"
-  - 
-    name: "Purity Half"
-    hex: "#e0d5e9"
-  - 
-    name: "Purity Quarter"
-    hex: "#e7e0ee"
   - 
     name: "Purple"
     hex: "#800080"
@@ -31950,12 +32592,6 @@
     name: "Quaver"
     hex: "#bed3cb"
   - 
-    name: "Quaver Half"
-    hex: "#cdded7"
-  - 
-    name: "Quaver Quarter"
-    hex: "#d9e6e0"
-  - 
     name: "Queen Anne's Lace"
     hex: "#f2eede"
   - 
@@ -32043,12 +32679,6 @@
     name: "Quilt"
     hex: "#fcd9c6"
   - 
-    name: "Quilt Half"
-    hex: "#fde1d4"
-  - 
-    name: "Quilt Quarter"
-    hex: "#fce9df"
-  - 
     name: "Quinacridone Magenta"
     hex: "#8e3a59"
   - 
@@ -32102,12 +32732,6 @@
   - 
     name: "Radar"
     hex: "#b6c8e4"
-  - 
-    name: "Radar Half"
-    hex: "#c6d5ea"
-  - 
-    name: "Radar Quarter"
-    hex: "#d4e0ef"
   - 
     name: "Radiant Glow"
     hex: "#ffeed2"
@@ -32340,12 +32964,6 @@
     name: "Raspberry Ice"
     hex: "#d9ccc7"
   - 
-    name: "Raspberry Ice Half"
-    hex: "#e2d8d3"
-  - 
-    name: "Raspberry Ice Quarter"
-    hex: "#eae2de"
-  - 
     name: "Raspberry Jam"
     hex: "#ca3767"
   - 
@@ -32420,12 +33038,6 @@
   - 
     name: "Raw Cotton"
     hex: "#e3d4bb"
-  - 
-    name: "Raw Cotton Half"
-    hex: "#ecdfca"
-  - 
-    name: "Raw Cotton Quarter"
-    hex: "#f1e8d6"
   - 
     name: "Raw Sienna"
     hex: "#d27d46"
@@ -32516,12 +33128,6 @@
   - 
     name: "Recuperate"
     hex: "#decce4"
-  - 
-    name: "Recuperate Half"
-    hex: "#e7d8ea"
-  - 
-    name: "Recuperate Quarter"
-    hex: "#ede2ee"
   - 
     name: "Recycled"
     hex: "#cdb6a0"
@@ -32850,12 +33456,6 @@
     name: "Registra"
     hex: "#c2bbbf"
   - 
-    name: "Registra Half"
-    hex: "#d0cacd"
-  - 
-    name: "Registra Quarter"
-    hex: "#dbd6d8"
-  - 
     name: "Registration Black"
     hex: "#000100"
   - 
@@ -32867,12 +33467,6 @@
   - 
     name: "Relax"
     hex: "#b9d2d3"
-  - 
-    name: "Relax Half"
-    hex: "#caddde"
-  - 
-    name: "Relax Quarter"
-    hex: "#d6e6e6"
   - 
     name: "Relic"
     hex: "#88789b"
@@ -33069,12 +33663,6 @@
     name: "Ridge Light"
     hex: "#b2c8dd"
   - 
-    name: "Ridge Light Half"
-    hex: "#c3d5e5"
-  - 
-    name: "Ridge Light Quarter"
-    hex: "#d1dfeb"
-  - 
     name: "Ridgecrest"
     hex: "#9d8861"
   - 
@@ -33107,12 +33695,6 @@
   - 
     name: "Ringlet"
     hex: "#fbedbe"
-  - 
-    name: "Ringlet Half"
-    hex: "#faf1cd"
-  - 
-    name: "Ringlet Quarter"
-    hex: "#f9f4d9"
   - 
     name: "Rinsed-Out red"
     hex: "#ff7952"
@@ -33444,12 +34026,6 @@
     name: "Rose Aspect"
     hex: "#f1c6ca"
   - 
-    name: "Rose Aspect Half"
-    hex: "#f4d4d6"
-  - 
-    name: "Rose Aspect Quarter"
-    hex: "#f6dfe0"
-  - 
     name: "Rose Bisque"
     hex: "#c6a499"
   - 
@@ -33548,12 +34124,6 @@
   - 
     name: "Rose Romantic"
     hex: "#eed1cd"
-  - 
-    name: "Rose Romantic Half"
-    hex: "#f3dcd8"
-  - 
-    name: "Rose Romantic Quarter"
-    hex: "#f5e5e1"
   - 
     name: "Rose Shadow"
     hex: "#f9c2cd"
@@ -34086,12 +34656,6 @@
     name: "Sago Garden"
     hex: "#94be7f"
   - 
-    name: "Sago Half"
-    hex: "#e2dad1"
-  - 
-    name: "Sago Quarter"
-    hex: "#e9e2db"
-  - 
     name: "Sahara"
     hex: "#b79826"
   - 
@@ -34230,12 +34794,6 @@
     name: "Salome"
     hex: "#bbeddb"
   - 
-    name: "Salome Half"
-    hex: "#ccf1e3"
-  - 
-    name: "Salome Quarter"
-    hex: "#d9f4ea"
-  - 
     name: "Salomie"
     hex: "#ffd67b"
   - 
@@ -34265,12 +34823,6 @@
   - 
     name: "Salt Spray"
     hex: "#a7c5ce"
-  - 
-    name: "Salt Spray Half"
-    hex: "#bbd3da"
-  - 
-    name: "Salt Spray Quarter"
-    hex: "#cbdee3"
   - 
     name: "Salt Water"
     hex: "#95bbd8"
@@ -34356,12 +34908,6 @@
     name: "Sand Diamond"
     hex: "#fae8bc"
   - 
-    name: "Sand Diamond Half"
-    hex: "#faeecb"
-  - 
-    name: "Sand Diamond Quarter"
-    hex: "#f9f1d7"
-  - 
     name: "Sand Dollar"
     hex: "#decdbe"
   - 
@@ -34391,12 +34937,6 @@
   - 
     name: "Sandbank"
     hex: "#e9d5ad"
-  - 
-    name: "Sandbank Half"
-    hex: "#dedcc6"
-  - 
-    name: "Sandbank Quarter"
-    hex: "#e6e5d3"
   - 
     name: "Sandcastle"
     hex: "#e5d7c4"
@@ -34451,12 +34991,6 @@
   - 
     name: "Sandy Day"
     hex: "#d7cfc1"
-  - 
-    name: "Sandy Day Half"
-    hex: "#e1dacf"
-  - 
-    name: "Sandy Day Quarter"
-    hex: "#e9e3da"
   - 
     name: "Sandy Pail"
     hex: "#d2c098"
@@ -34677,12 +35211,6 @@
     name: "Scallywag"
     hex: "#e5d5bd"
   - 
-    name: "Scallywag Half"
-    hex: "#ebe0ca"
-  - 
-    name: "Scallywag Quarter"
-    hex: "#f0e8d7"
-  - 
     name: "Scampi"
     hex: "#6f63a0"
   - 
@@ -34857,12 +35385,6 @@
     name: "Sea Breeze"
     hex: "#a4bfce"
   - 
-    name: "Sea Breeze Half"
-    hex: "#b7cdd9"
-  - 
-    name: "Sea Breeze Quarter"
-    hex: "#c8dae3"
-  - 
     name: "Sea Buckthorn"
     hex: "#ffbf65"
   - 
@@ -34883,12 +35405,6 @@
   - 
     name: "Sea Cliff"
     hex: "#a5c7df"
-  - 
-    name: "Sea Cliff Half"
-    hex: "#b9d4e7"
-  - 
-    name: "Sea Cliff Quarter"
-    hex: "#cadfec"
   - 
     name: "Sea Creature"
     hex: "#00586d"
@@ -34919,12 +35435,6 @@
   - 
     name: "Sea Foam Green"
     hex: "#cbd5b1"
-  - 
-    name: "Sea Foam Half"
-    hex: "#c5e8e7"
-  - 
-    name: "Sea Foam Quarter"
-    hex: "#d3eeec"
   - 
     name: "Sea Fog"
     hex: "#dfddd6"
@@ -35028,12 +35538,6 @@
     name: "Sea Spray"
     hex: "#d2ebea"
   - 
-    name: "Sea Spray Half"
-    hex: "#abd6de"
-  - 
-    name: "Sea Spray Quarter"
-    hex: "#bfe1e6"
-  - 
     name: "Sea Sprite"
     hex: "#b7ccc7"
   - 
@@ -35102,12 +35606,6 @@
   - 
     name: "Searchlight"
     hex: "#eff0bf"
-  - 
-    name: "Searchlight Half"
-    hex: "#f2f3ce"
-  - 
-    name: "Searchlight Quarter"
-    hex: "#f5f5d9"
   - 
     name: "Seared Earth"
     hex: "#9a5633"
@@ -35184,12 +35682,6 @@
     name: "Security"
     hex: "#d6e1c2"
   - 
-    name: "Security Half"
-    hex: "#e0e9d0"
-  - 
-    name: "Security Quarter"
-    hex: "#e8efdb"
-  - 
     name: "Sedge Green"
     hex: "#707a68"
   - 
@@ -35204,12 +35696,6 @@
   - 
     name: "Seduction"
     hex: "#fbf2bf"
-  - 
-    name: "Seduction Half"
-    hex: "#faf4ce"
-  - 
-    name: "Seduction Quarter"
-    hex: "#f8f6da"
   - 
     name: "Seed Pearl"
     hex: "#e6dac4"
@@ -35324,12 +35810,6 @@
   - 
     name: "Serena"
     hex: "#cfd0c1"
-  - 
-    name: "Serena Half"
-    hex: "#dcdccf"
-  - 
-    name: "Serena Quarter"
-    hex: "#e3e4d9"
   - 
     name: "Serenade"
     hex: "#fce9d7"
@@ -35622,23 +36102,11 @@
     name: "Shell Haven"
     hex: "#ebdfc0"
   - 
-    name: "Shell Haven Half"
-    hex: "#f1e8ce"
-  - 
-    name: "Shell Haven Quarter"
-    hex: "#f4eeda"
-  - 
     name: "Shell Pink"
     hex: "#f88180"
   - 
     name: "Shelltint"
     hex: "#fdd7ca"
-  - 
-    name: "Shelltint Half"
-    hex: "#fce0d6"
-  - 
-    name: "Shelltint Quarter"
-    hex: "#fbe8e0"
   - 
     name: "Shelter"
     hex: "#b8986c"
@@ -35667,12 +36135,6 @@
     name: "Shetland Lace"
     hex: "#dfd0c0"
   - 
-    name: "Shetland Lace Half"
-    hex: "#e7dccf"
-  - 
-    name: "Shetland Lace Quarter"
-    hex: "#eee5da"
-  - 
     name: "Shifting Sand"
     hex: "#d8c0ad"
   - 
@@ -35687,12 +36149,6 @@
   - 
     name: "Shimmer"
     hex: "#88c7e9"
-  - 
-    name: "Shimmer Half"
-    hex: "#a3d4ef"
-  - 
-    name: "Shimmer Quarter"
-    hex: "#b8def2"
   - 
     name: "Shimmering Blush"
     hex: "#d98695"
@@ -35832,12 +36288,6 @@
     name: "Short Phase"
     hex: "#bbdfd5"
   - 
-    name: "Short Phase Half"
-    hex: "#cbe8df"
-  - 
-    name: "Short Phase Quarter"
-    hex: "#d8eee7"
-  - 
     name: "Shortbread"
     hex: "#f5e6d3"
   - 
@@ -35886,12 +36336,6 @@
     name: "Shutterbug"
     hex: "#beeddc"
   - 
-    name: "Shutterbug Half"
-    hex: "#cef2e4"
-  - 
-    name: "Shutterbug Quarter"
-    hex: "#daf4ea"
-  - 
     name: "Shutters"
     hex: "#6c705e"
   - 
@@ -35903,12 +36347,6 @@
   - 
     name: "Shy Girl"
     hex: "#ffd7cf"
-  - 
-    name: "Shy Girl Half"
-    hex: "#fde0da"
-  - 
-    name: "Shy Girl Quarter"
-    hex: "#fbe8e2"
   - 
     name: "Shy Violet"
     hex: "#d6c7d6"
@@ -36102,12 +36540,6 @@
     name: "Silver Dollar"
     hex: "#bdb6ae"
   - 
-    name: "Silver Dollar Half"
-    hex: "#d5dfd3"
-  - 
-    name: "Silver Dollar Quarter"
-    hex: "#e0e7dd"
-  - 
     name: "Silver Drop"
     hex: "#9ab2a9"
   - 
@@ -36125,12 +36557,6 @@
   - 
     name: "Silver Grass"
     hex: "#c6cec3"
-  - 
-    name: "Silver Grass Half"
-    hex: "#d4dbd1"
-  - 
-    name: "Silver Grass Quarter"
-    hex: "#dfe4dc"
   - 
     name: "Silver Green"
     hex: "#d7d7c7"
@@ -36228,12 +36654,6 @@
     name: "Silver Sweetpea"
     hex: "#c4c9e2"
   - 
-    name: "Silver Sweetpea Half"
-    hex: "#d3d6e9"
-  - 
-    name: "Silver Sweetpea Quarter"
-    hex: "#dee1ed"
-  - 
     name: "Silver Tree"
     hex: "#67be90"
   - 
@@ -36254,12 +36674,6 @@
   - 
     name: "Silverton"
     hex: "#bfd9ce"
-  - 
-    name: "Silverton Half"
-    hex: "#cee3d9"
-  - 
-    name: "Silverton Quarter"
-    hex: "#daeae2"
   - 
     name: "Silvery Moon"
     hex: "#e6e5dc"
@@ -36393,12 +36807,6 @@
     name: "Sky Babe"
     hex: "#88c1d8"
   - 
-    name: "Sky Babe Half"
-    hex: "#a1d0e2"
-  - 
-    name: "Sky Babe Quarter"
-    hex: "#b6dbe9"
-  - 
     name: "Sky Blue"
     hex: "#80dbeb"
   - 
@@ -36408,35 +36816,17 @@
     name: "Sky Bus"
     hex: "#99c1d6"
   - 
-    name: "Sky Bus Half"
-    hex: "#afcfe0"
-  - 
-    name: "Sky Bus Quarter"
-    hex: "#c1dbe7"
-  - 
     name: "Sky Captain"
     hex: "#262934"
   - 
     name: "Sky Chase"
     hex: "#a5cad1"
   - 
-    name: "Sky Chase Half"
-    hex: "#bad7dc"
-  - 
-    name: "Sky Chase Quarter"
-    hex: "#cbe1e4"
-  - 
     name: "Sky City"
     hex: "#a0bdd9"
   - 
     name: "Sky Cloud"
     hex: "#addee5"
-  - 
-    name: "Sky Cloud Half"
-    hex: "#c0e7eb"
-  - 
-    name: "Sky Cloud Quarter"
-    hex: "#d1edef"
   - 
     name: "Sky Diver"
     hex: "#83acd3"
@@ -36485,12 +36875,6 @@
   - 
     name: "Skyway"
     hex: "#adbed3"
-  - 
-    name: "Skyway Half"
-    hex: "#c2e3e8"
-  - 
-    name: "Skyway Quarter"
-    hex: "#d1eaed"
   - 
     name: "Slap Happy"
     hex: "#c9cc4a"
@@ -36552,12 +36936,6 @@
     name: "Slight Mushroom"
     hex: "#cfc9c5"
   - 
-    name: "Slight Mushroom Half"
-    hex: "#dbd6d2"
-  - 
-    name: "Slight Mushroom Quarter"
-    hex: "#e4e0dd"
-  - 
     name: "Slightly Golden"
     hex: "#cb904e"
   - 
@@ -36567,12 +36945,6 @@
     name: "Slightly Rose"
     hex: "#e6cfce"
   - 
-    name: "Slightly Rose Half"
-    hex: "#eddbda"
-  - 
-    name: "Slightly Rose Quarter"
-    hex: "#f2e4e2"
-  - 
     name: "Slimlime"
     hex: "#b8ebc5"
   - 
@@ -36581,12 +36953,6 @@
   - 
     name: "Slipper Satin"
     hex: "#bfc1cb"
-  - 
-    name: "Slipper Satin Half"
-    hex: "#cfd1d8"
-  - 
-    name: "Slipper Satin Quarter"
-    hex: "#dadbe1"
   - 
     name: "Slippery Moss"
     hex: "#beba82"
@@ -36798,20 +37164,8 @@
     name: "Snow Goose"
     hex: "#c3d9cb"
   - 
-    name: "Snow Goose Half"
-    hex: "#d1e2d8"
-  - 
-    name: "Snow Goose Quarter"
-    hex: "#ddeae0"
-  - 
     name: "Snow Green"
     hex: "#c8dac2"
-  - 
-    name: "Snow Green Half"
-    hex: "#d5e3d0"
-  - 
-    name: "Snow Green Quarter"
-    hex: "#dfeadb"
   - 
     name: "Snow Leopard"
     hex: "#cfdfdb"
@@ -36930,12 +37284,6 @@
     name: "Soft Celadon"
     hex: "#bfcfc8"
   - 
-    name: "Soft Celadon Half"
-    hex: "#cedcd4"
-  - 
-    name: "Soft Celadon Quarter"
-    hex: "#dae4de"
-  - 
     name: "Soft Celery"
     hex: "#c4cd87"
   - 
@@ -36969,12 +37317,6 @@
     name: "Soft Fresco"
     hex: "#c0d5ca"
   - 
-    name: "Soft Fresco Half"
-    hex: "#cfe0d7"
-  - 
-    name: "Soft Fresco Quarter"
-    hex: "#dbe8df"
-  - 
     name: "Soft Froth"
     hex: "#bdccb3"
   - 
@@ -36992,12 +37334,6 @@
   - 
     name: "Soft Kind"
     hex: "#d1d2be"
-  - 
-    name: "Soft Kind Half"
-    hex: "#dcddcc"
-  - 
-    name: "Soft Kind Quarter"
-    hex: "#e6e6d8"
   - 
     name: "Soft Lavender"
     hex: "#f6e5f6"
@@ -37047,12 +37383,6 @@
     name: "Soft Satin"
     hex: "#eec5ce"
   - 
-    name: "Soft Satin Half"
-    hex: "#f3d3d9"
-  - 
-    name: "Soft Satin Quarter"
-    hex: "#f5dee2"
-  - 
     name: "Soft Savvy"
     hex: "#837e87"
   - 
@@ -37095,14 +37425,8 @@
     name: "Solar"
     hex: "#fbeab8"
   - 
-    name: "Solar Half"
-    hex: "#faf0c9"
-  - 
     name: "Solar Power"
     hex: "#f4bf3a"
-  - 
-    name: "Solar Quarter"
-    hex: "#f9f2d4"
   - 
     name: "Solar Wind"
     hex: "#fce9b9"
@@ -37275,12 +37599,6 @@
     name: "Soya Bean"
     hex: "#6f634b"
   - 
-    name: "Soya Half"
-    hex: "#f9eacc"
-  - 
-    name: "Soya Quarter"
-    hex: "#f8efd8"
-  - 
     name: "Soybean"
     hex: "#d2c29d"
   - 
@@ -37331,12 +37649,6 @@
   - 
     name: "Spanish Cream"
     hex: "#fce5c0"
-  - 
-    name: "Spanish Cream Half"
-    hex: "#fbebcf"
-  - 
-    name: "Spanish Cream Quarter"
-    hex: "#faf0da"
   - 
     name: "Spanish Crimson"
     hex: "#e51a4c"
@@ -37428,12 +37740,6 @@
     name: "Spatial Spirit"
     hex: "#c1edd3"
   - 
-    name: "Spatial Spirit Half"
-    hex: "#d1f1de"
-  - 
-    name: "Spatial Spirit Quarter"
-    hex: "#dcf4e6"
-  - 
     name: "Speak To Me"
     hex: "#ffd9a6"
   - 
@@ -37448,12 +37754,6 @@
   - 
     name: "Spearmint Ice"
     hex: "#bfd3cb"
-  - 
-    name: "Spearmint Ice Half"
-    hex: "#cfded7"
-  - 
-    name: "Spearmint Ice Quarter"
-    hex: "#dbe7e1"
   - 
     name: "Spearmint Stick"
     hex: "#e8f0e2"
@@ -37524,9 +37824,6 @@
     name: "Spice of Life"
     hex: "#86493f"
   - 
-    name: "Spice Of Life"
-    hex: "#b14b38"
-  - 
     name: "Spice Route"
     hex: "#b95b3f"
   - 
@@ -37562,6 +37859,9 @@
   - 
     name: "Spiced Plum"
     hex: "#6d4773"
+  - 
+    name: "Spiced Up"
+    hex: "#b14b38"
   - 
     name: "Spiced Vinegar"
     hex: "#cdba99"
@@ -37620,14 +37920,8 @@
     name: "Spirit Dance"
     hex: "#514b80"
   - 
-    name: "Spirit Half"
-    hex: "#c3cad3"
-  - 
     name: "Spirit Mountain"
     hex: "#6a8b98"
-  - 
-    name: "Spirit Quarter"
-    hex: "#d2d8de"
   - 
     name: "Spirit Rock"
     hex: "#5f534e"
@@ -37695,12 +37989,6 @@
     name: "Sprig Muslin"
     hex: "#d6c1c5"
   - 
-    name: "Sprig Muslin Half"
-    hex: "#e0cfd2"
-  - 
-    name: "Sprig Muslin Quarter"
-    hex: "#e9dbde"
-  - 
     name: "Sprig of Mint"
     hex: "#8be0ba"
   - 
@@ -37722,12 +38010,6 @@
     name: "Spring Burst"
     hex: "#c9e0c8"
   - 
-    name: "Spring Burst Half"
-    hex: "#d6e8d5"
-  - 
-    name: "Spring Burst Quarter"
-    hex: "#e0eedf"
-  - 
     name: "Spring Buttercup"
     hex: "#fff6c2"
   - 
@@ -37736,12 +38018,6 @@
   - 
     name: "Spring Fever"
     hex: "#e5e3bf"
-  - 
-    name: "Spring Fever Half"
-    hex: "#ecebce"
-  - 
-    name: "Spring Fever Quarter"
-    hex: "#f0f0d9"
   - 
     name: "Spring Fields"
     hex: "#b3cdac"
@@ -37797,12 +38073,6 @@
     name: "Spring Shoot"
     hex: "#e2edc1"
   - 
-    name: "Spring Shoot Half"
-    hex: "#e9f1d0"
-  - 
-    name: "Spring Shoot Quarter"
-    hex: "#eef4db"
-  - 
     name: "Spring Shower"
     hex: "#abdcee"
   - 
@@ -37835,12 +38105,6 @@
   - 
     name: "Spritzig"
     hex: "#76c5e7"
-  - 
-    name: "Spritzig Half"
-    hex: "#92d2ed"
-  - 
-    name: "Spritzig Quarter"
-    hex: "#abddf1"
   - 
     name: "Sprout"
     hex: "#b8ca9d"
@@ -37965,12 +38229,6 @@
     name: "Star Gate"
     hex: "#b7c4d3"
   - 
-    name: "Star Gate Half"
-    hex: "#c7d2dd"
-  - 
-    name: "Star Gate Quarter"
-    hex: "#d5dde5"
-  - 
     name: "Star Grass"
     hex: "#75dbc1"
   - 
@@ -38016,18 +38274,6 @@
     name: "Starlight Blue"
     hex: "#b5ced4"
   - 
-    name: "Starlight Blue Half"
-    hex: "#c9e7e3"
-  - 
-    name: "Starlight Blue Quarter"
-    hex: "#d7edea"
-  - 
-    name: "Starlight Half"
-    hex: "#cbd0d7"
-  - 
-    name: "Starlight Quarter"
-    hex: "#d8dbe1"
-  - 
     name: "Starlit Eve"
     hex: "#384351"
   - 
@@ -38045,12 +38291,6 @@
   - 
     name: "Stately Frills"
     hex: "#c5bdc4"
-  - 
-    name: "Stately Frills Half"
-    hex: "#d2ccd1"
-  - 
-    name: "Stately Frills Quarter"
-    hex: "#ded8dc"
   - 
     name: "Stately Stems"
     hex: "#577a6c"
@@ -38475,12 +38715,6 @@
     name: "Subdue"
     hex: "#c7c3be"
   - 
-    name: "Subdue Half"
-    hex: "#d5d1cc"
-  - 
-    name: "Subdue Quarter"
-    hex: "#e0dcd8"
-  - 
     name: "Subdued"
     hex: "#ccb8b3"
   - 
@@ -38495,12 +38729,6 @@
   - 
     name: "Subpoena"
     hex: "#d8ccc6"
-  - 
-    name: "Subpoena Half"
-    hex: "#e4dad3"
-  - 
-    name: "Subpoena Quarter"
-    hex: "#eae2dd"
   - 
     name: "Subtle Blue"
     hex: "#d9e3e5"
@@ -38976,12 +39204,6 @@
     name: "Supernova"
     hex: "#fff8d9"
   - 
-    name: "Supernova Half"
-    hex: "#cde5e2"
-  - 
-    name: "Supernova Quarter"
-    hex: "#d9ece9"
-  - 
     name: "Superstar"
     hex: "#1d4769"
   - 
@@ -39363,12 +39585,6 @@
     name: "Tactile"
     hex: "#d3e7c7"
   - 
-    name: "Tactile Half"
-    hex: "#deedd4"
-  - 
-    name: "Tactile Quarter"
-    hex: "#e6f1de"
-  - 
     name: "Tadpole"
     hex: "#7d7771"
   - 
@@ -39705,12 +39921,6 @@
     name: "Taupe White"
     hex: "#c7c1bb"
   - 
-    name: "Taupe White Half"
-    hex: "#d5d0cb"
-  - 
-    name: "Taupe White Quarter"
-    hex: "#e0dcd7"
-  - 
     name: "Tavern"
     hex: "#b7a594"
   - 
@@ -39782,12 +39992,6 @@
   - 
     name: "Tea Party"
     hex: "#ffd7d0"
-  - 
-    name: "Tea Party Half"
-    hex: "#fee0da"
-  - 
-    name: "Tea Party Quarter"
-    hex: "#fde7e3"
   - 
     name: "Tea Rose"
     hex: "#f883c2"
@@ -39882,12 +40086,6 @@
     name: "Template"
     hex: "#a6c9e3"
   - 
-    name: "Template Half"
-    hex: "#bbd6ea"
-  - 
-    name: "Template Quarter"
-    hex: "#cbe1ee"
-  - 
     name: "Tempo"
     hex: "#33abb2"
   - 
@@ -39906,12 +40104,6 @@
     name: "Tender Touch"
     hex: "#d5c6d6"
   - 
-    name: "Tender Touch Half"
-    hex: "#e0d4e0"
-  - 
-    name: "Tender Touch Quarter"
-    hex: "#e9dfe8"
-  - 
     name: "Tender Yellow"
     hex: "#ededb7"
   - 
@@ -39929,12 +40121,6 @@
   - 
     name: "Tenzing"
     hex: "#9ecfd9"
-  - 
-    name: "Tenzing Half"
-    hex: "#b3dae2"
-  - 
-    name: "Tenzing Quarter"
-    hex: "#c6e4e9"
   - 
     name: "Tequila"
     hex: "#f4d0a4"
@@ -40119,12 +40305,6 @@
     name: "Thought"
     hex: "#d8cdc8"
   - 
-    name: "Thought Half"
-    hex: "#e2d8d4"
-  - 
-    name: "Thought Quarter"
-    hex: "#ebe2de"
-  - 
     name: "Thousand Herb"
     hex: "#317589"
   - 
@@ -40236,12 +40416,6 @@
     name: "Tidal Foam"
     hex: "#bfb9a3"
   - 
-    name: "Tidal Foam Half"
-    hex: "#bcd6e9"
-  - 
-    name: "Tidal Foam Quarter"
-    hex: "#cce1ee"
-  - 
     name: "Tidal Green"
     hex: "#cdca98"
   - 
@@ -40323,12 +40497,6 @@
     name: "Time Travel"
     hex: "#b3c4d5"
   - 
-    name: "Time Travel Half"
-    hex: "#c5d2df"
-  - 
-    name: "Time Travel Quarter"
-    hex: "#d3dde7"
-  - 
     name: "Time Warp"
     hex: "#9397a3"
   - 
@@ -40338,14 +40506,8 @@
     name: "Timeless Beauty"
     hex: "#b6273e"
   - 
-    name: "Timeless Half"
-    hex: "#c2e2e3"
-  - 
     name: "Timeless Lilac"
     hex: "#afb2c4"
-  - 
-    name: "Timeless Quarter"
-    hex: "#d2eaea"
   - 
     name: "Timid Sea"
     hex: "#66a9b0"
@@ -40365,28 +40527,16 @@
     name: "Tinge Of Mauve"
     hex: "#d4c3cc"
   - 
-    name: "Tinge Of Mauve Half"
-    hex: "#dfd2d9"
-  - 
-    name: "Tinge Of Mauve Quarter"
-    hex: "#e8dde2"
-  - 
     name: "Tingle"
     hex: "#e6541b"
   - 
     name: "Tinker Light"
     hex: "#fbedb8"
   - 
-    name: "Tinker Light Half"
-    hex: "#faf1c8"
-  - 
-    name: "Tinker Light Quarter"
-    hex: "#f9f3d5"
-  - 
     name: "Tinsel"
     hex: "#c3964d"
   - 
-    name: "Tint Of Earth"
+    name: "Tint of Earth"
     hex: "#ce9480"
   - 
     name: "Tint of Green"
@@ -40415,12 +40565,6 @@
   - 
     name: "Tip Toes"
     hex: "#d8c2cd"
-  - 
-    name: "Tip Toes Half"
-    hex: "#e1d0d8"
-  - 
-    name: "Tip Toes Quarter"
-    hex: "#eadce2"
   - 
     name: "Tiramisu"
     hex: "#634235"
@@ -41400,12 +41544,6 @@
     name: "Unbleached Calico"
     hex: "#f5d8bb"
   - 
-    name: "Unbleached Calico Half"
-    hex: "#f8e2ca"
-  - 
-    name: "Unbleached Calico Quarter"
-    hex: "#f9e9d7"
-  - 
     name: "Unbleached Silk"
     hex: "#ffddca"
   - 
@@ -41616,12 +41754,6 @@
     name: "Vandamint"
     hex: "#abdee4"
   - 
-    name: "Vandamint Half"
-    hex: "#bfe7ea"
-  - 
-    name: "Vandamint Quarter"
-    hex: "#cfecee"
-  - 
     name: "Vanilla"
     hex: "#f3e5ab"
   - 
@@ -41640,20 +41772,8 @@
     name: "Vanilla Frost"
     hex: "#fde9c5"
   - 
-    name: "Vanilla Frost Half"
-    hex: "#faedd2"
-  - 
-    name: "Vanilla Frost Quarter"
-    hex: "#faf3dd"
-  - 
     name: "Vanilla Ice"
     hex: "#fdf2d1"
-  - 
-    name: "Vanilla Ice Half"
-    hex: "#b8ced9"
-  - 
-    name: "Vanilla Ice Quarter"
-    hex: "#c9dae2"
   - 
     name: "Vanilla Love"
     hex: "#e6e0cc"
@@ -41663,12 +41783,6 @@
   - 
     name: "Vanilla Quake"
     hex: "#cbc8c2"
-  - 
-    name: "Vanilla Quake Half"
-    hex: "#d8d5d0"
-  - 
-    name: "Vanilla Quake Quarter"
-    hex: "#e2e0db"
   - 
     name: "Vanilla Seed"
     hex: "#ccb69b"
@@ -42243,12 +42357,6 @@
     name: "Vision"
     hex: "#d2cce5"
   - 
-    name: "Vision Half"
-    hex: "#dcd9eb"
-  - 
-    name: "Vision Quarter"
-    hex: "#e5e3ef"
-  - 
     name: "Vision Quest"
     hex: "#9b94c2"
   - 
@@ -42462,12 +42570,6 @@
     name: "Wallis"
     hex: "#c6bdbf"
   - 
-    name: "Wallis Half"
-    hex: "#d4ccce"
-  - 
-    name: "Wallis Quarter"
-    hex: "#dfd8d9"
-  - 
     name: "Walls of Santorini"
     hex: "#e9edf1"
   - 
@@ -42512,12 +42614,6 @@
   - 
     name: "Warm Ash"
     hex: "#cfc9c7"
-  - 
-    name: "Warm Ash Half"
-    hex: "#dbd6d3"
-  - 
-    name: "Warm Ash Quarter"
-    hex: "#e4e1de"
   - 
     name: "Warm Biscuits"
     hex: "#e3cdac"
@@ -42630,12 +42726,6 @@
     name: "Washed Blue"
     hex: "#94d1df"
   - 
-    name: "Washed Blue Half"
-    hex: "#acdce7"
-  - 
-    name: "Washed Blue Quarter"
-    hex: "#c0e5ec"
-  - 
     name: "Washed Green"
     hex: "#ccd1c8"
   - 
@@ -42708,12 +42798,6 @@
     name: "Water Wash"
     hex: "#acc7e5"
   - 
-    name: "Water Wash Half"
-    hex: "#bfd5eb"
-  - 
-    name: "Water Wash Quarter"
-    hex: "#cfdfef"
-  - 
     name: "Water Welt"
     hex: "#3994af"
   - 
@@ -42738,23 +42822,11 @@
     name: "Watermark"
     hex: "#a2cdd2"
   - 
-    name: "Watermark Half"
-    hex: "#b7dadd"
-  - 
-    name: "Watermark Quarter"
-    hex: "#c9e3e5"
-  - 
     name: "Watermelon Candy"
     hex: "#fd5b78"
   - 
     name: "Watermelon Milk"
     hex: "#dfcfca"
-  - 
-    name: "Watermelon Milk Half"
-    hex: "#e6dad6"
-  - 
-    name: "Watermelon Milk Quarter"
-    hex: "#ede3e0"
   - 
     name: "Watermelon Pink"
     hex: "#c77690"
@@ -42773,12 +42845,6 @@
   - 
     name: "Waterwings"
     hex: "#afebde"
-  - 
-    name: "Waterwings Half"
-    hex: "#c2f0e6"
-  - 
-    name: "Waterwings Quarter"
-    hex: "#d2f3eb"
   - 
     name: "Waterwonder"
     hex: "#80d4d0"
@@ -42801,23 +42867,11 @@
     name: "Wave"
     hex: "#a5ced5"
   - 
-    name: "Wave Half"
-    hex: "#badbdf"
-  - 
     name: "Wave Jumper"
     hex: "#6c919f"
   - 
-    name: "Wave Quarter"
-    hex: "#cbe4e7"
-  - 
     name: "Wavecrest"
     hex: "#d6e1e4"
-  - 
-    name: "Wavecrest Half"
-    hex: "#b5d1df"
-  - 
-    name: "Wavecrest Quarter"
-    hex: "#c6dce7"
   - 
     name: "Wavelet"
     hex: "#7dc4cd"
@@ -42875,12 +42929,6 @@
   - 
     name: "Weathered Hide"
     hex: "#d5c6c2"
-  - 
-    name: "Weathered Hide Half"
-    hex: "#e0d4d0"
-  - 
-    name: "Weathered Hide Quarter"
-    hex: "#e8dedb"
   - 
     name: "Weathered Leather"
     hex: "#90614a"
@@ -43065,12 +43113,6 @@
     name: "Wheaten White"
     hex: "#fbebbb"
   - 
-    name: "Wheaten White Half"
-    hex: "#faf0cb"
-  - 
-    name: "Wheaten White Quarter"
-    hex: "#f8f2d8"
-  - 
     name: "Wheatfield"
     hex: "#dfd7bd"
   - 
@@ -43088,12 +43130,6 @@
   - 
     name: "Whimsy"
     hex: "#ed9987"
-  - 
-    name: "Whimsy Half"
-    hex: "#99d0e7"
-  - 
-    name: "Whimsy Quarter"
-    hex: "#b0dced"
   - 
     name: "Whipped Citron"
     hex: "#f0edd2"
@@ -43203,12 +43239,6 @@
     name: "White Box"
     hex: "#bfd0cb"
   - 
-    name: "White Box Half"
-    hex: "#cedcd6"
-  - 
-    name: "White Box Quarter"
-    hex: "#dae5e0"
-  - 
     name: "White Cabbage"
     hex: "#b0b49b"
   - 
@@ -43230,12 +43260,6 @@
     name: "White Duck"
     hex: "#cecaba"
   - 
-    name: "White Duck Half"
-    hex: "#dcd8cb"
-  - 
-    name: "White Duck Quarter"
-    hex: "#e4e1d6"
-  - 
     name: "White Edgar"
     hex: "#ededed"
   - 
@@ -43247,12 +43271,6 @@
   - 
     name: "White Flag"
     hex: "#c8c2c0"
-  - 
-    name: "White Flag Half"
-    hex: "#d6d0cf"
-  - 
-    name: "White Flag Quarter"
-    hex: "#e0dcda"
   - 
     name: "White Granite"
     hex: "#c8d1c4"
@@ -44439,12 +44457,6 @@
     name: "Youth"
     hex: "#e2c9c8"
   - 
-    name: "Youth Half"
-    hex: "#ead7d5"
-  - 
-    name: "Youth Quarter"
-    hex: "#f0e1df"
-  - 
     name: "Yreka!"
     hex: "#a7b3b7"
   - 
@@ -44511,20 +44523,8 @@
     name: "Zen Garden"
     hex: "#d1dac0"
   - 
-    name: "Zen Half"
-    hex: "#d1dbd2"
-  - 
-    name: "Zen Quarter"
-    hex: "#dce4dd"
-  - 
     name: "Zenith Heights"
     hex: "#a6c8c7"
-  - 
-    name: "Zenith Heights Half"
-    hex: "#bad5d4"
-  - 
-    name: "Zenith Heights Quarter"
-    hex: "#cae0df"
   - 
     name: "Zephyr"
     hex: "#c89fa5"
