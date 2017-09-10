@@ -96,4 +96,5 @@ npm install && npm run build
 
 #### Disclaimer ⚠️
 
-In the process we try to remove all names that are offensive or racist. As some of the color names come from other lists, it might happen that some bad ones slip in. [Please report them](https://github.com/meodai/color-names/issues), they will be removed as quickly as possible.
+In the process we try to remove all names that are offensive or racist, as well as protect brandnames.
+As some of the color names come from other lists, it might happen that some bad ones slip in. [Please report them](https://github.com/meodai/color-names/issues), they will be removed as quickly as possible.
