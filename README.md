@@ -94,6 +94,7 @@ npm install && npm run build
 - [yxklyx](https://github.com/yxklyx/) hundreds of names!!
 - [Syl](https://twitter.com/Gypsy_Syl)
 - [Stephanie Stutz](https://www.behance.net/stephaniestutzart)
+- [Simbiasamba](https://www.instagram.com/simbisamba/)
 
 #### Disclaimer ⚠️
 
