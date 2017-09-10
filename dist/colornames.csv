@@ -227,7 +227,7 @@ Alpine Haze,#abbec0
 Alpine Landing,#117b87
 Alpine Moon,#ded3e6
 Alpine Race,#234162
-Alpine salamander,#051009
+Alpine Salamander,#051009
 Alpine Summer,#a5a99a
 Altered Pink,#efc7be
 Alto,#cdc6c5
@@ -601,6 +601,7 @@ Artesian Well,#5eb2aa
 Artichoke,#8f9779
 Artichoke Dip,#a19676
 Artichoke Green,#4b6d41
+Artichoke Mauve,#c19aa5
 Artificial Strawberry,#ff43a4
 Artificial Turf,#41b45c
 Artillery,#746f67
@@ -760,9 +761,9 @@ Azalea Pink,#f9c0c4
 Azraq Blue,#4c6cb3
 Aztec,#293432
 Aztec Aura,#ffefbc
+Aztec Brick,#9e8352
 Aztec Glimmer,#e7b347
 Aztec Gold,#c39953
-Aztec Tan,#9e8352
 Azuki Bean,#96514d
 Azuki Red,#672422
 Azure,#007fff
@@ -1424,8 +1425,7 @@ Blue Exult,#2b2f43
 Blue Eyed Boy,#87bde3
 Blue Fantastic,#2c3b4d
 Blue Fin,#577fae
-Blue Fiord,#628daa
-Blue Fjord,#4c6177
+Blue Fjord,#628daa
 Blue Flag,#3b506f
 Blue Flame,#005e88
 Blue Flower,#d0d9d4
@@ -1694,6 +1694,7 @@ Bracken Fern,#31453b
 Bracken Green,#626f5d
 Braid,#77675b
 Braided Raffia,#e1d0af
+Brain Pink,#f2aeb1
 Brainstorm,#d1d3c0
 Bramble Jam,#c71581
 Bran,#a66e4a
@@ -2025,7 +2026,7 @@ Butter Lettuce,#cfe7cb
 Butter Ridge,#f9e097
 Butter Up,#f4e0bb
 Butterblond,#f1c766
-Buttercookie,#c5ae7c
+Butterbrot,#c5ae7c
 Buttercream,#efe0cd
 Buttercream Frosting,#f5edd7
 Buttercup,#da9429
@@ -2373,8 +2374,6 @@ Castleton Green,#00564f
 Castor Grey,#646762
 Castro,#44232f
 Casual Elegance,#dfd5c8
-Cat Mint,#b9bdae
-Cat Nip,#6f6066
 Cat's Purr,#0071a0
 Catalan,#429395
 Catalina,#72a49f
@@ -2391,6 +2390,7 @@ Cathedral Stone,#80796e
 Catmint,#c9a8ce
 Catnap,#9fc3ac
 Catnip,#80aa95
+Catnip Wood,#6f6066
 Catskill White,#e0e4dc
 Cattail Red,#b64925
 Caulerpa Lentillifera,#599c99
@@ -2839,7 +2839,6 @@ Cloisonne,#0075af
 Cloistered Garden,#99b090
 Closed Shutter,#25252c
 Clotted Cream,#f3efcd
-Cloud,#d8d7d3
 Cloud Abyss,#dfe7eb
 Cloud Blue,#a2b6b9
 Cloud Cream,#e6ddc5
@@ -2853,8 +2852,9 @@ Clouded Blue,#1f75fe
 Clouded Sky,#7d93a2
 Clouded Vision,#d1d0d1
 Cloudless,#d6eafc
-Cloudy,#b0a99f
+Cloudy,#d8d7d3
 Cloudy Day,#dfe6da
+Cloudy Desert,#b0a99f
 Cloudy Grey,#ece3e1
 Cloudy Plum,#9d7aac
 Cloudy Viridian,#4b5f56
@@ -3134,8 +3134,7 @@ Cosmic Cobalt,#2e2d88
 Cosmic Dust,#dce2e5
 Cosmic Energy,#9392ab
 Cosmic Latte,#fff8e7
-Cosmic Ray,#573935
-Cosmic Rays,#cadada
+Cosmic Ray,#cadada
 Cosmic Sky,#aaaac4
 Cosmo Purple,#a09bc6
 Cosmopolitan,#528bab
@@ -3420,7 +3419,6 @@ Czech Bakery,#dec9a9
 Da Blues,#516172
 Dachshund,#704f37
 Daddy-O,#b0af8a
-Daddyo,#7d94c6
 Daffodil,#ffff31
 Dagger Moth,#e8e1d5
 Dahlia,#843e83
@@ -3554,6 +3552,7 @@ Dark Purple,#871f78
 Dark Rainforest,#505838
 Dark Raspberry,#872657
 Dark Red,#8b0000
+Dark Rose Tan,#d19c97
 Dark Ruby,#734a45
 Dark Rum,#45362b
 Dark Rye,#905d36
@@ -3739,6 +3738,7 @@ Deep Sea,#167e65
 Deep Sea Blue,#002366
 Deep Sea Coral,#d9615b
 Deep Sea Diver,#255c61
+Deep Sea Dolphin,#6a6873
 Deep Sea Green,#095859
 Deep Sea Shadow,#4f5a4c
 Deep Sea Turtle,#5e5749
@@ -3786,7 +3786,6 @@ Dell,#486531
 Della Robbia Blue,#7a9dcb
 Delltone,#8ec39e
 Delos Blue,#169ec0
-Delphin,#86c4da
 Delphinium Blue,#6198ae
 Delta,#999b95
 Delta Break,#979147
@@ -3833,6 +3832,7 @@ Desert Morning,#d0bbb0
 Desert Palm,#5a4632
 Desert Panzer,#c0cabc
 Desert Pear,#aaae9a
+Desert Pebble,#cab698
 Desert Riverbed,#d5a884
 Desert Rock,#d5c6bd
 Desert Rose,#cf6977
@@ -3947,10 +3947,9 @@ Dogwood Rose,#d71868
 Doll House,#facfc1
 Dollar,#7d8774
 Dollar Bill,#85bb65
-Dolls House,#f2aeb1
 Dolly,#f5f171
 Dolomite Crystal,#fee8f5
-Dolphin,#6a6873
+Dolphin,#86c4da
 Dolphin Daze,#659fb5
 Dolphin Grey,#828e74
 Dolphin Tales,#c7c7c2
@@ -4024,10 +4023,10 @@ Drizzle,#a0af9d
 Dromedary,#e3c295
 Drop of Lemon,#fcf1bd
 Droplet,#afc3bc
-Droplets,#f6f4ef
 Drops of Honey,#d4ae76
 Drover,#fbeb9b
 Dry Bone,#eadfce
+Dry Catmint,#b9bdae
 Dry Creek,#d8c7b6
 Dry Dock,#817665
 Dry Dune,#efdfcf
@@ -4428,8 +4427,7 @@ Evening Mist,#e3e9e8
 Evening Primrose,#ccdb1e
 Evening Sand,#ddb6ab
 Evening Sea,#26604f
-Evening Shadow,#eaf2f1
-Evening Shadows,#a1838b
+Evening Shadow,#a1838b
 Evening Sunset,#edb06d
 Eventide,#656470
 Everglade,#264334
@@ -4483,6 +4481,7 @@ Faded Grey,#eae8e4
 Faded Jade,#427977
 Faded Jeans,#5dbdcb
 Faded Light,#f5e4de
+Faded Pink,#b48993
 Faded Rose,#bf6464
 Faded Violet,#ddbedd
 Fading Ember,#df691e
@@ -4673,6 +4672,7 @@ First Schoolday,#fffce3
 First Snow,#e8eff8
 First Tulip,#ffe79c
 Fish Bone,#e4d9c5
+Fish Ceviche,#e1e1d5
 Fish Net Blue,#1e446e
 Fish Pond,#86c8ed
 Fisher King,#5182b9
@@ -4748,7 +4748,6 @@ Florentine Lapis,#1c5798
 Florida Keys,#56beab
 Floriography,#a54049
 Floss,#d7b3b9
-Flossy,#deb4c5
 Flotation,#7bb0ba
 Flounce,#4a8791
 Flour Sack,#b9b297
@@ -4792,6 +4791,7 @@ Foggy Grey,#a7a69d
 Foggy London,#5c5658
 Foggy Love,#d5c7e8
 Foggy Night,#a79c8e
+Foggy Quartz,#bfa2a1
 Fogtown,#eef0e7
 Foil,#c0c3c4
 Foille,#b0b99c
@@ -4894,6 +4894,7 @@ French Lilac,#deb7d9
 French Lilac Blue,#adbae3
 French Lime,#c0ff00
 French Limestone,#c9d6c2
+French Manicure,#fee6dc
 French Market,#a2c7a3
 French Mauve,#d473d4
 French Oak,#bb9e7c
@@ -4919,6 +4920,7 @@ Fresh Artichoke,#7c8447
 Fresh Auburn,#a52a24
 Fresh Baked Bread,#f8d7be
 Fresh Basil,#5c5f4b
+Fresh Breeze,#beeddc
 Fresh Cantaloupe,#ff9c68
 Fresh Clay,#be8035
 Fresh Cut,#f2003c
@@ -5360,7 +5362,6 @@ Golden Poppy,#fcc200
 Golden Rays,#f6da74
 Golden Retriever,#eedec7
 Golden Rice,#e3d474
-Golden Rod,#fb9a30
 Golden Rule,#daae49
 Golden Sand,#eace6a
 Golden Slumber,#b98841
@@ -5453,7 +5454,6 @@ Grant Village,#6c90b2
 Grant Wood Ivy,#a8b989
 Granulated Sugar,#fffdf2
 Grape,#9437ff
-Grape Ade,#aa9fb2
 Grape Arbor,#a598c7
 Grape Candy,#905284
 Grape Cassata,#dfe384
@@ -5478,7 +5478,7 @@ Grape Shake,#886971
 Grape Soda,#ae94a6
 Grape Taffy,#f4daf1
 Grape Wine,#5a2f43
-Grapeade,#85677b
+Grapeade,#aa9fb2
 Grapefruit Juice,#ee6d8a
 Grapefruit Pulp,#fe6f5e
 Grapemist,#8398ca
@@ -5522,8 +5522,7 @@ Green,#00ff00
 Green Alabaster,#c8ccba
 Green Ash,#a0daa9
 Green Balloon,#80c4a9
-Green Banana,#babc72
-Green Bananas,#a8b453
+Green Banana,#a8b453
 Green Bark,#a9c4a6
 Green Bay,#7e9285
 Green Bayou,#566e57
@@ -6387,8 +6386,7 @@ Hisui Kingfisher,#38b48b
 Hit Grey,#a1adb5
 Hit Pink,#fda470
 Hitching Post,#c48d69
-Hob Goblin,#01ad8f
-Hobgoblin,#234e86
+Hobgoblin,#01ad8f
 Hockham Green,#59685f
 Hog Bristle,#dcd1bb
 Hokey Pokey,#bb8e34
@@ -6447,6 +6445,7 @@ Honeydew Peel,#d4fb79
 Honeysuckle,#e8ed69
 Honeysuckle Vine,#fbf1c8
 Honeysweet,#e9cfc8
+Hong Kong Skyline,#676e7a
 Hong Kong Taxi,#a8102a
 Honolulu Blue,#007fbf
 Hooked Mimosa,#ffc9c4
@@ -6554,7 +6553,7 @@ Ice Flow,#c6d2d2
 Ice Glow,#ffffe9
 Ice Green,#87d8c3
 Ice Grey,#cac7c4
-Ice Lemon,#fae8ab
+Ice Lemon,#fffbc1
 Ice Mist,#b6dbbf
 Ice Pack,#a5dbe3
 Ice Palace,#e2e4d7
@@ -6567,7 +6566,6 @@ Iced Cappuccino,#9c8866
 Iced Celery,#e5e9b7
 Iced Coffee,#b18f6a
 Iced Lavender,#c2c7db
-Iced Lemon,#fffbc1
 Iced Tulip,#afa9af
 Iced Vovo,#e1a4b2
 Iced Watermelon,#d1afb7
@@ -6696,6 +6694,7 @@ Intellectual,#3f414c
 Intense Purple,#4d4a6f
 Interdimensional Blue,#360ccc
 Intergalactic,#4d516c
+Intergalactic Ray,#573935
 International,#3762a5
 International Blue,#002fa7
 International Klein Blue,#002fa6
@@ -6916,7 +6915,6 @@ Jungle Green,#29ab87
 Jungle Juice,#a4c161
 Jungle Mist,#b0c4c4
 Jungle Moss,#bdc3ac
-Junglebook Green,#3bb08f
 Juniper,#74918e
 Juniper Berry,#b9b3c2
 Juniper Oil,#6b8b75
@@ -7285,6 +7283,7 @@ Legion Blue,#1f495b
 Lemon,#fff700
 Lemon Blast,#fcecad
 Lemon Caipirinha,#f7de9d
+Lemon Candy,#fae8ab
 Lemon Chiffon,#fffacd
 Lemon Chiffon Pie,#fff7c4
 Lemon Chrome,#ffc300
@@ -7839,7 +7838,6 @@ Lilac Snow,#e0c7d7
 Lilac Suede,#ba9b97
 Lilac Time,#a4abbf
 Lilas,#b88995
-Lilly Pad,#6a8472
 Lily,#c19fb3
 Lily Green,#c5cf98
 Lily Legs,#eec7d6
@@ -8057,7 +8055,6 @@ Lush Mauve,#a091b7
 Lush Meadow,#006e51
 Lust,#e62020
 Lustrous Yellow,#e6da78
-Lusty,#782e2c
 Lusty Lavender,#8d828c
 Luxor Gold,#ab8d3f
 Luxury,#818eb1
@@ -8482,6 +8479,7 @@ Memorize,#9197a4
 Memory Lane,#c7d1db
 Men Brown,#5e5239
 Mendocino Hills,#837a64
+Mental Floss,#deb4c5
 Mental Note,#eaeede
 Meranda's Spike,#614251
 Mercer Charcoal,#aca495
@@ -8791,9 +8789,9 @@ Monroe Kiss,#dec1b8
 Monsoon,#7a7679
 Monstera Deliciosa,#75bf0a
 Mont Blanc,#9eb6d8
+Mont Blanc Peak,#f2e7e7
 Montana,#393b3c
 Montana Grape,#6c5971
-Montblanc,#f2e7e7
 Monte Carlo,#7ac5b4
 Montecito,#b6a180
 Montego Bay,#3fbabd
@@ -9185,7 +9183,8 @@ Night Bloom,#613e3d
 Night Fog,#2d1962
 Night Hawk,#615452
 Night Kite,#005572
-Night Life,#27426b
+Night Market,#4c6177
+Night Mode,#234e86
 Night Night,#4f4f5e
 Night Owl,#5d7b89
 Night Rendezvous,#66787e
@@ -9202,7 +9201,7 @@ Night Wind,#d7e2db
 Night Wizard,#313740
 Nightfall,#43535e
 Nightingale,#5c4827
-Nightlife,#676e7a
+Nightlife,#27426b
 Nightly Ivy,#444940
 Nightshade,#4f4352
 Nightshadow Blue,#4e5368
@@ -9596,6 +9595,7 @@ Outrigger,#82714d
 Overcast,#73a3d0
 Overcast Night,#42426f
 Overcast Sky,#a7b8c4
+Overdue Grey,#c7c3be
 Overgrown,#6b6048
 Overgrown Trellis,#6a8988
 Overtake,#33557f
@@ -9637,6 +9637,7 @@ Pacific Palisade,#69a4b9
 Pacific Pearl,#e8eae6
 Pacific Queen,#026b5d
 Pacific Spirit,#3c4a56
+Pacific Storm,#035453
 Pacifica,#4e77a3
 Pacifika,#778120
 Paco,#4f4037
@@ -9831,6 +9832,7 @@ Par Four,#507069
 Parachute,#beb755
 Parachute Purple,#392852
 Parachute Silk,#ffe2b5
+Parachuting,#00589b
 Paradise Bird,#ff8c55
 Paradise Found,#83988c
 Paradise Grape,#746565
@@ -10017,11 +10019,12 @@ Pearl,#eae0c8
 Pearl Aqua,#88d8c0
 Pearl Ash,#d0c9c3
 Pearl Bay,#7fc6cc
-Pearl Blue,#b0b7be
+Pearl Blue,#79b4c9
 Pearl Blush,#f4cec5
 Pearl Bush,#ded1c6
 Pearl City,#dce4e9
 Pearl Dust,#efe5d9
+Pearl Grey,#b0b7be
 Pearl Lusta,#eae1c8
 Pearl Necklace,#fcf7eb
 Pearl Oyster,#ddd6cb
@@ -10030,7 +10033,6 @@ Pearl White,#f3f2ed
 Pearled Couscous,#f2e9d5
 Pearled Ivory,#f0dfcc
 Pearls And Lace,#eee7dc
-Pearly Blue,#79b4c9
 Pearly Purple,#b768a2
 Pearly Putty,#dbd3bd
 Pearly Star,#e4e4da
@@ -10041,10 +10043,9 @@ Peaslake,#8caa95
 Peat,#766d52
 Peat Swamp Forest,#988c75
 Peatmoss,#00844b
-Pebble,#cab698
+Pebble,#9d9880
 Pebble Beach,#7f8285
 Pebble Walk,#afb2a7
-Pebbles,#9d9880
 Pecan Brown,#a36e51
 Pecan Sandie,#f4decb
 Pecan Veneer,#e09f78
@@ -10057,6 +10058,7 @@ Pelagic,#355d83
 Pelican,#c1bcac
 Pelican Bill,#d7c0c7
 Pelican Feather,#e8c3c2
+Pelican Pecker,#fb9a30
 Pelican Pink,#e2a695
 Pelorous,#2599b2
 Pencil Eraser,#dbb7bb
@@ -10449,7 +10451,6 @@ Plumburn,#7d665f
 Plume,#a5cfd5
 Plume Grass,#d9d5c5
 Plumosa,#64a281
-Plump Purple,#5946b2
 Plumville,#9e8185
 Plunder,#5072a9
 Plunge,#035568
@@ -10564,6 +10565,7 @@ Port Gore,#3b436c
 Port Hope,#54c3c1
 Port Royale,#502b33
 Port Wine,#a17a83
+Port-Wine Stain,#85677b
 Portabella,#937b6a
 Portage,#8b98d8
 Portica,#f0d555
@@ -10930,7 +10932,7 @@ Raging Tide,#5187a0
 Ragtime Blues,#4a5e6c
 Railroad Ties,#544540
 Rain Barrel,#8b795f
-Rain Cloud,#e1e1d5
+Rain Cloud,#919fa1
 Rain Dance,#a9ccdb
 Rain Drop,#e7eee8
 Rain Drum,#5f4c40
@@ -10948,7 +10950,6 @@ Rainforest Zipline,#7f795f
 Rainier Blue,#558484
 Rainmaker,#485769
 Rainsong,#acbdb1
-Rainy Cloud,#919fa1
 Rainy Day,#cfc8bd
 Rainy Lake,#3f6c8f
 Rainy Season,#d1d8d6
@@ -10962,9 +10963,11 @@ Ramadi Grey,#b7a9ac
 Ramjet,#4c73af
 Ramona,#8f9a88
 Rampart,#bcb7b1
+Ramsons,#195456
 Ranch Mink,#968379
 Rancho Verde,#dfd8b3
 Randall,#756e60
+Ranger Green,#6a8472
 Ranger Station,#707651
 Rangitoto,#2e3222
 Rangoon Green,#2b2e25
@@ -11104,6 +11107,7 @@ Red Rooster,#7e5146
 Red Rust,#8a3319
 Red Safflower,#c53d43
 Red Salsa,#fd3a4a
+Red Sandstorm,#e5cac0
 Red Sparowes,#c8756d
 Red Stage,#ad522e
 Red Stop,#97382c
@@ -11187,6 +11191,7 @@ Rhinoceros,#727a7c
 Rhode Island Red,#9b5b55
 Rhododendron,#722b3f
 Rhubarb,#77202f
+Rhubarb Gin,#d9a6c1
 Rhubarb Pie,#d78187
 Rhubarb Smoothie,#8c474b
 Rhys,#beceb4
@@ -11312,7 +11317,7 @@ Rokō Brown,#665343
 Rokou Brown,#8c7042
 Rokushō Green,#407a52
 Roller Coaster,#8c8578
-Rollercoaster,#0078be
+Roller Coaster Chariot,#0078be
 Rolling Hills,#7c7e6a
 Rolling Sea,#5a6d77
 Rolling Stone,#6d7876
@@ -11343,11 +11348,12 @@ Rose Ashes,#b5acab
 Rose Aspect,#f1c6ca
 Rose Bisque,#c6a499
 Rose Bonbon,#f9429e
-Rose Brown,#80565b
+Rose Branch,#80565b
+Rose Brown,#bc8f8f
 Rose Bud,#b65f9a
 Rose Cloud,#dbb0a2
 Rose Colored Glasses,#e5c4c0
-Rose Dawn,#c2877b
+Rose Dawn,#b38380
 Rose de Mai,#cb8e81
 Rose Dusk,#e5a192
 Rose Dust,#cdb2a5
@@ -11377,7 +11383,7 @@ Rose Romantic,#eed1cd
 Rose Shadow,#f9c2cd
 Rose Smoke,#d3b4ad
 Rose Stain,#d3b6ba
-Rose Tan,#d19c97
+Rose Tan,#fae8e1
 Rose Tattoo,#e1a890
 Rose Taupe,#905d5d
 Rose Vale,#ab4e5f
@@ -11397,16 +11403,10 @@ Rosetta,#ba8f7f
 Rosette,#ce8e8b
 Rosewood,#65000b
 Rosey Afterglow,#fac8ce
-Rosey Mauve,#c19aa5
-Rosey Pink,#d9a6c1
 Rosin,#36362d
 Rosso Corsa,#d40000
-Rosy Brown,#bc8f8f
 Rosy Cheeks,#dc506e
-Rosy Cloud,#fee6dc
-Rosy Dawn,#b38380
 Rosy Queen,#cf9384
-Rosy Tan,#fae8e1
 Roti,#b69642
 Rotunda White,#d7d1c6
 Rouge,#a94064
@@ -11639,7 +11639,6 @@ Sand Dollar,#decdbe
 Sand Dune,#e3d2c0
 Sand Fossil,#decfb3
 Sand Pebble,#b09d7f
-Sand Storm,#e5cac0
 Sand Trail,#d0c6a1
 Sand Verbena,#9f90c1
 Sandal,#a3876a
@@ -11721,6 +11720,7 @@ Sauterne,#c5a253
 Sauvignon,#f4eae4
 Sauvignon Blanc,#b18276
 Savannah,#d1bd92
+Savannah Grass,#babc72
 Savannah Sun,#ffb989
 Savile Row,#c0b7cf
 Savon de Provence,#eed9b6
@@ -12109,8 +12109,7 @@ Shrubbery,#a9c08a
 Shu Red,#eb6101
 Shukra Blue,#2b64ad
 Shutter Blue,#666e7f
-Shutter Bug,#bba262
-Shutterbug,#beeddc
+Shutterbug,#bba262
 Shutters,#6c705e
 Shuttle Grey,#61666b
 Shy Cupid,#f0d6ca
@@ -12233,7 +12232,6 @@ Simply Delicious,#ffd2c1
 Simply Elegant,#cedde7
 Simply Green,#009b75
 Simply Peachy,#ffc06c
-Simply Pink,#b48993
 Simply Taupe,#ad9f93
 Simply Violet,#a6a1d7
 Simpson Surprise,#82856d
@@ -12275,7 +12273,6 @@ Sky Captain,#262934
 Sky Chase,#a5cad1
 Sky City,#a0bdd9
 Sky Cloud,#addee5
-Sky Diver,#83acd3
 Sky Diving,#c6d6d7
 Sky Eyes,#8eaabd
 Sky Glass,#d1dcd8
@@ -12285,7 +12282,7 @@ Sky Lodge,#546977
 Sky Magenta,#cf71af
 Sky Pilot,#a2bad4
 Sky Splash,#c9d3d3
-Skydiver,#00589b
+Skydiver,#83acd3
 Skydome,#38a3cc
 Skylight,#c8e0e0
 Skyline,#959eb7
@@ -12352,7 +12349,6 @@ Smoked Paprika,#6e362c
 Smoked Pearl,#656466
 Smoked Purple,#444251
 Smoked Salmon,#fa8072
-Smokey Quartz,#51484f
 Smoky,#605d6b
 Smoky Black,#100c08
 Smoky Blue,#7196a6
@@ -12363,7 +12359,7 @@ Smoky Grape,#9b8fa6
 Smoky Mountain,#afa8a9
 Smoky Orchid,#e1d9dc
 Smoky Pink,#bb8d88
-Smoky Quartz,#bfa2a1
+Smoky Quartz,#51484f
 Smoky Slate,#a1a18f
 Smoky Sunrise,#aa9793
 Smoky Topaz,#7e7668
@@ -12774,6 +12770,7 @@ Steamy Spring,#b1cfc7
 Steel,#797979
 Steel Armor,#767275
 Steel Blue,#4682b4
+Steel Blue Eyes ,#7d94c6
 Steel Grey,#43464b
 Steel Me,#ddd5ce
 Steel Pink,#cc33cc
@@ -12834,7 +12831,6 @@ Stonewall,#807661
 Stonewash,#74809a
 Stonish Beige,#ccb49a
 Stony Creek,#948f82
-Storm,#035453
 Storm Blue,#47788a
 Storm Break,#938988
 Storm Cloud,#808283
@@ -12890,6 +12886,7 @@ String Deep,#7f7860
 String of Pearls,#ebe3d8
 Stromboli,#406356
 Strong Blue,#1f5da0
+Strong Envy,#782e2c
 Strong Olive,#646756
 Strong Sage,#2b6460
 Strong Strawberry,#8a3e34
@@ -12903,8 +12900,7 @@ Stunning Sapphire,#185887
 Stylish,#cec1a5
 Su-Nezumi Grey,#9fa0a0
 Subaqueous,#00576f
-Subdue,#c7c3be
-Subdued,#ccb8b3
+Subdue Red,#ccb8b3
 Submarine,#7a7778
 Submerge,#4a7d82
 Submersible,#00576e
@@ -13098,12 +13094,12 @@ Suzume Brown,#aa4f37
 Suzumecha Brown,#8c4736
 Swagger,#19b6b5
 Swallow-Tailed Moth,#ece9dd
-Swamp,#252f2f
+Swamp,#7f755f
 Swamp Fox,#b79d69
 Swamp Green,#acb78e
+Swamp Mosquito,#252f2f
 Swamp Mud,#857947
 Swamp Shrub,#6d753b
-Swampy,#7f755f
 Swan Dive,#e5e4dd
 Swan Lake,#c5e5e2
 Swan White,#f7f1e2
@@ -13174,6 +13170,7 @@ Swirling Smoke,#cecac1
 Swiss Cheese,#fff4b9
 Swiss Coffee,#d5c3ad
 Swiss Lilac,#86608e
+Swiss Plum,#5946b2
 Swollen Sky,#67667c
 Sycamore,#908d39
 Sycamore Stand,#959e8f
@@ -13415,6 +13412,7 @@ The Bluff,#ffc8c2
 The Boulevard,#d0a492
 The Broadway,#145775
 The Golden State,#e9d2af
+The Speed of Light,#f6f4ef
 The White in my Eye,#f1eee5
 Theatre Dress,#274242
 Themeda Japonica,#e2b13c
@@ -13448,7 +13446,6 @@ Thunder Cat,#8a99a3
 Thunder Chi,#aac4d4
 Thunder Storm,#9098a1
 Thunderbird,#923830
-Thunderbirds,#195456
 Thunderbolt,#7c8783
 Thunderbolt Blue,#454c56
 Thundercloud,#698589
@@ -14185,6 +14182,7 @@ Wakatake Green,#6b9362
 Wake Me Up,#f6d559
 Wakefield,#295468
 Walden Pond,#789bb6
+Walk in the Woods,#3bb08f
 Walker Lake,#3d87bb
 Walleye,#9b5953
 Wallflower,#a0848a
@@ -14234,6 +14232,7 @@ Warm Wollen,#d0b55a
 Warmed Wine,#5c3839
 Warmstone,#e6d7cc
 Warmth,#9f552d
+Warp Drive,#eaf2f1
 Warrant,#b8966e
 Warrior,#7d685b
 Wasabi,#afd77f
@@ -14251,7 +14250,6 @@ Water Carrier,#4999a1
 Water Chestnut,#ede4cf
 Water Chi,#355873
 Water Cooler,#75a7ad
-Water Cress,#6e9377
 Water Droplet,#e1e5dc
 Water Fern,#75b790
 Water Iris,#e2e3eb
@@ -14268,7 +14266,8 @@ Water Wash,#acc7e5
 Water Welt,#3994af
 Water Wheel,#a28566
 Watercourse,#006e4e
-Watercress,#c7c7a1
+Watercress,#6e9377
+Watercress Pesto,#c7c7a1
 Watercress Spice,#748c69
 Waterfall,#3ab0a2
 Waterloo,#7b7c94
@@ -14387,6 +14386,7 @@ Whirlwind,#e2d5d3
 Whiskers,#f6f1e2
 Whiskey,#d29062
 Whiskey Sour,#d4915d
+Whisky,#c2877b
 Whisper,#efe6e6
 Whisper Blue,#e5e8f2
 Whisper Green,#e0e6d7
