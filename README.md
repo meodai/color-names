@@ -21,6 +21,12 @@ The aim of this project is to create as large a list as possible of color names.
 
 ### color count: __14874__ 🎉
 
+## Color distribution 🛰 [RGB](https://codepen.io/meodai/full/zdgXJj/)
+
+When coming up with new color names, it is vital to know what spots in a certain color-space are crowded and where there is still room for new colors.
+Our API for example returns the closest RGB color to a given hex value. To avoid that to many colors snap to the same name we aim to distribute the colors
+evenly in the color space: [RGB Visualization](https://codepen.io/meodai/full/zdgXJj/)
+
 
 ## Sources 🗒
 
