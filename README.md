@@ -1,4 +1,5 @@
 # __14874__ color-names 🎨
+<img align="right" height="200" width="200" src="https://meodai.github.io/color-names/logo/cockatoo-fill.svg">
 
 [![GitHub release](https://img.shields.io/github/release/meodai/color-names.svg)](https://github.com/meodai/color-names/)
 [![npm version](https://img.shields.io/npm/v/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
@@ -6,8 +7,6 @@
 [![Travis](https://img.shields.io/travis/meodai/color-names.svg)](https://travis-ci.org/meodai/color-names)
 [![license](https://img.shields.io/npm/l/color-name-list.svg?colorB=ff77b4)](https://github.com/meodai/color-names/blob/master/LICENSE)
 [![color count](https://img.shields.io/badge/__14874__-colors-orange.svg)](https://github.com/meodai/color-names/blob/master/src/colornames.csv)
-
-<img align="right" height="200" width="200" src="https://meodai.github.io/color-names/logo/cockatoo-fill.svg">
 
 A handpicked list of __14874__ unique color names from various sources and thousands of user submissions. [Try it yourself](http://codepen.io/meodai/full/mEvZRx/) or read [the full list](https://docs.google.com/spreadsheets/d/14ny2oB7g5Tof9TmKiaaDFv25XSCRt-LlBRJhIDz_3Mo/pubhtml?gid=40578722).
 
