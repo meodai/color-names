@@ -7,6 +7,8 @@
 [![license](https://img.shields.io/npm/l/color-name-list.svg?colorB=ff77b4)](https://github.com/meodai/color-names/blob/master/LICENSE)
 [![color count](https://img.shields.io/badge/__14874__-colors-orange.svg)](https://github.com/meodai/color-names/blob/master/src/colornames.csv)
 
+<img align="right" height="200" width="200" src="https://meodai.github.io/color-names/logo/cockatoo-fill.svg">
+
 A handpicked list of __14874__ unique color names from various sources and thousands of user submissions. [Try it yourself](http://codepen.io/meodai/full/mEvZRx/) or read [the full list](https://docs.google.com/spreadsheets/d/14ny2oB7g5Tof9TmKiaaDFv25XSCRt-LlBRJhIDz_3Mo/pubhtml?gid=40578722).
 
 > The names of color function like a thread attached to a frightfully slender needle, capable of stitching together our most delicate emotions and memories. When the needle hits the target, we feel either pleasure or emathy. **Kenya Hara – White**
@@ -97,6 +99,9 @@ npm install && npm run build
 - [Syl](https://twitter.com/Gypsy_Syl)
 - [Stephanie Stutz](https://www.behance.net/stephaniestutzart)
 - [Simbiasamba](https://www.instagram.com/simbisamba/)
+
+- [Sponsored by Metafizzy](https://metafizzy.co/) Logo 💖
+
 
 #### Disclaimer ⚠️
 
