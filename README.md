@@ -1,4 +1,4 @@
-# __14874__ color-names 🎨
+# __14874__ color-names
 <img align="right" height="200" width="200" src="https://meodai.github.io/color-names/logo/cockatoo-fill.svg">
 
 [![GitHub release](https://img.shields.io/github/release/meodai/color-names.svg)](https://github.com/meodai/color-names/)
@@ -52,7 +52,7 @@ or
 yarn add color-name-list
 ```
 
-### CDN 🌍: [JSON](https://unpkg.com/color-name-list/dist/colornames.json), [CSV](https://unpkg.com/color-name-list/dist/colornames.csv), [YML](https://unpkg.com/color-name-list/dist/colornames.yaml)
+### CDN 🌍 [JSON](https://unpkg.com/color-name-list/dist/colornames.json), [CSV](https://unpkg.com/color-name-list/dist/colornames.csv), [YML](https://unpkg.com/color-name-list/dist/colornames.yaml)
 
 
 ### Experimental API 🃏
