@@ -76,13 +76,45 @@ ex: `curl `[https://color-names.herokuapp.com/v1/060606](https://color-names.her
 
 ### Usage JS ⌨
 
+#### Exact Color
+
 ```javascript
 import namedColors from 'color-name-list';
 
 let someColor = namedColors.find(color => color.hex === '#ffffff')
 console.log(someColor.name) // => white
 
+let someNamedColor = namedColors.find(color => color.name === 'Eigengrau')
+console.log(someColor.hex) // => #16161d
 ```
+
+#### Closest Named Color
+
+Since there are 16581375 possible RGB colors, you might use a library to help you
+find the the closest named color.
+
+```javascript
+import namedColors from 'color-name-list';
+import nearestColor from 'nearest-color';
+
+// create Object needed for 
+let colors = {};
+
+namedColors.forEach(color => {
+  colors[color.name] = color.hex
+});
+
+nearestColorName = nearestColor.from(colors);
+
+// get closest named color
+nearestColorName('#f1c1d1') // => Fairy Tale
+```
+
+**Note**: In this example we are using [nearest-color](https://github.com/dtao/nearest-color).
+it is not the most accurate method, but by far the quickest since it looks for 
+the nearest RGB neighbor. If you are looking for something visually more accurate, you
+might use a library returning the color with the closest [DeltaE](https://github.com/zschuessler/DeltaE)
+based on the Lab color-space.
 
 
 ### Create a new build 🔨
@@ -98,7 +130,6 @@ npm install && npm run build
 - [Syl](https://twitter.com/Gypsy_Syl)
 - [Stephanie Stutz](https://www.behance.net/stephaniestutzart)
 - [Simbiasamba](https://www.instagram.com/simbisamba/)
-
 - [Sponsored by Metafizzy](https://metafizzy.co/) Logo 💖
 
 
