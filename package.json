@@ -39,7 +39,7 @@
     "ghooks": "^2.0.0",
     "json2yaml": "^1.1.0",
     "jsonexport": "^2.0.11",
-    "semantic-release": "^6.3.6"
+    "semantic-release": "^8.0.0"
   },
   "czConfig": {
     "path": "node_modules/cz-conventional-changelog"
