@@ -21,6 +21,8 @@ Please note we have a code of conduct, please follow it in all your interactions
 - No enumerations (`Grey 1`, `Grey 2`, `Grey 3`, `Grey 4`)
 - British English spelling (ex. `Grey` not `Gray`), unless its something U.S. typical.
 - Capitalize colors: `Kind of Orange`
+- Prefer common names, especially when adding colors form the flora and fauna (flowers and animals ;) ) 
+  ex. `Venus Slipper Orchid` instead of `Paphiopedilum`.
 
 ### Attribution
 
