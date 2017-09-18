@@ -97,7 +97,7 @@ find the the closest named color.
 import namedColors from 'color-name-list';
 import nearestColor from 'nearest-color';
 
-// create Object needed for 
+// create Object needed for
 let colors = {};
 
 namedColors.forEach(color => {
@@ -111,7 +111,7 @@ nearestColorName('#f1c1d1') // => Fairy Tale
 ```
 
 **Note**: In this example we are using [nearest-color](https://github.com/dtao/nearest-color).
-it is not the most accurate method, but by far the quickest since it looks for 
+it is not the most accurate method, but by far the quickest since it looks for
 the nearest RGB neighbor. If you are looking for something visually more accurate, you
 might use a library returning the color with the closest [DeltaE](https://github.com/zschuessler/DeltaE)
 based on the Lab color-space.
@@ -130,6 +130,7 @@ npm install && npm run build
 - [Syl](https://twitter.com/Gypsy_Syl)
 - [Stephanie Stutz](https://www.behance.net/stephaniestutzart)
 - [Simbiasamba](https://www.instagram.com/simbisamba/)
+- [Jason Wilson](https://github.com/SgiobairOg)
 - [Sponsored by Metafizzy](https://metafizzy.co/) Logo 💖
 
 
