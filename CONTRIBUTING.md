@@ -17,6 +17,7 @@ Please note we have a code of conduct, please follow it in all your interactions
 
 - No racist names
 - No offensive names
+- No obscene 💩
 - No protected brand-names (`Facebook Blue`, `Twitter Blue`)
 - No enumerations (`Grey 1`, `Grey 2`, `Grey 3`, `Grey 4`)
 - British English spelling (ex. `Grey` not `Gray`), unless its something U.S. typical.
