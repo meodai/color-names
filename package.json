@@ -36,6 +36,10 @@
     "nearest-color": "^0.4.0",
     "semantic-release": "^8.0.3"
   },
+  "engines": {
+    "node": ">=8",
+    "npm": ">=5"
+  },
   "czConfig": {
     "path": "node_modules/cz-conventional-changelog"
   },
