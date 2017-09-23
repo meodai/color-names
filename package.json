@@ -40,12 +40,12 @@
     "node": ">=8",
     "npm": ">=5"
   },
-  "czConfig": {
-    "path": "node_modules/cz-conventional-changelog"
-  },
   "config": {
     "ghooks": {
       "pre-commit": "npm run test && npm run build"
+    },
+    "commitizen": {
+      "path": "cz-conventional-changelog"
     }
   },
   "dependencies": {}
