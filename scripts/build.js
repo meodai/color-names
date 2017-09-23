@@ -77,6 +77,13 @@ const scssExportString = objArrToString(colorsSrc.entires, csvKeys, {
   rowDelimitor: ',',
 });
 
+const htmlExportString = objArrToString(colorsSrc.entires, csvKeys, {
+  insertBefore: `<table><thead><tr><th>${csvKeys.join('</th><th>')}</th></tr><thead><tbody><tr><td>`,
+  itemDelimitor: '</td><td>',
+  rowDelimitor: '</td></tr><tr><td>',
+  insertAfter: `</td></tr></tbody></table>`
+});
+
 const JSONExportString = JSON.stringify(colorsSrc.entires);
 
 const jsExportString = `module.exports = ${JSONExportString};`;
@@ -86,6 +93,7 @@ fs.writeFileSync(path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.csv`),
 fs.writeFileSync(path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.yaml`), yamlExportString);
 fs.writeFileSync(path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.json`), JSONExportString);
 fs.writeFileSync(path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.js`), jsExportString);
+fs.writeFileSync(path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.html`), htmlExportString);
 
 function showLog () {
   let errorLevel = 0;
