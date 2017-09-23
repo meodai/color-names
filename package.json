@@ -7,12 +7,9 @@
     "commit": "git-cz",
     "get-new-colors": "curl http://gsx2json.com/api?id=14ny2oB7g5Tof9TmKiaaDFv25XSCRt-LlBRJhIDz_3Mo -o src/colornames.json",
     "count-colors": "sed -i -E \"s/__[0-9^]+__/__`awk 'END {print NR}' src/colornames.csv`__/g\" README.md",
-    "test": "node node_modules/csvdata/csvdata.js -c src/colornames.csv -d -e -x",
+    "test": "node scripts/build.js --testOnly",
     "clean-dist-folder": "rm -rf dist && mkdir dist",
-    "copy-csv": "cp -av src/colornames.csv dist/colornames.csv",
-    "build-json": "node node_modules/.bin/csvtojson dist/colornames.csv >> dist/colornames.json",
-    "build-yml": "node node_modules/.bin/json2yaml dist/colornames.json >> dist/colornames.yaml",
-    "build": "npm run clean-dist-folder && npm run copy-csv && npm run build-json && npm run build-yml && npm run count-colors",
+    "build": "npm run clean-dist-folder && node scripts/build.js",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "repository": {
@@ -33,12 +30,9 @@
   "homepage": "https://github.com/meodai/color-names#readme",
   "devDependencies": {
     "commitizen": "^2.9.6",
-    "csvdata": "^1.4.0",
-    "csvtojson": "^1.1.7",
     "cz-conventional-changelog": "^2.0.0",
     "ghooks": "^2.0.0",
     "json2yaml": "^1.1.0",
-    "jsonexport": "^2.0.11",
     "semantic-release": "^8.0.0"
   },
   "czConfig": {
