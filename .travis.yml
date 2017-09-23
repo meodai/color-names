@@ -17,7 +17,7 @@ after_success:
   - npm run semantic-release
 branches:
   except:
-  - "/^v\\d+\\.\\d+\\.\\d+$/"
+    - "/^v\\d+\\.\\d+\\.\\d+$/"
 deploy:
   provider: rubygems
   api_key:
