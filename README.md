@@ -61,15 +61,23 @@ yarn add color-name-list
 https://color-names.herokuapp.com/v1/{{hexvalue without the #}}
 ```
 
-ex: `curl `[https://color-names.herokuapp.com/v1/060606](https://color-names.herokuapp.com/v1/060606)
+ex: `curl `[https://color-names.herokuapp.com/v1/212121,010101,999666](https://color-names.herokuapp.com/v1/060606)
 
 ```
 {
-  "query":"060606",
-  "name":"Black Metal",
-  "hex":"#060606",
-  "rgb":{"r":6,"g":6,"b":6},
-  "isExact":true
+  "status": "names for '212121,010101,999666' returned",
+  "colors": {
+    "#212121": {
+      "name": "Lead",
+      "hex": "#212121",
+      "rgb": {
+        "r": 33,
+        "g": 33,
+        "b": 33
+      },
+      "isExactMatch": true
+   },
+   "#010101": // ...
 }
 ```
 
