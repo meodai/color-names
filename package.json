@@ -5,7 +5,7 @@
   "main": "dist/colornames.json",
   "scripts": {
     "commit": "git-cz",
-    "get-new-colors": "curl http://gsx2json.com/api?id=14ny2oB7g5Tof9TmKiaaDFv25XSCRt-LlBRJhIDz_3Mo -o src/colornames.json",
+    "get-new-colors": "curl 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQube6Y0wHyEtJnjg0eU3N7VseoxVnD4L9uDqvWZdl_tzzrHDVN10IPP7cdFipX8j70atNMLfPCB0Q6/pub?gid=40578722&single=true&output=csv' -o src/colornames.csv",
     "count-colors": "sed -i -E \"s/__[0-9^]+__/__`awk 'END {print NR}' src/colornames.csv`__/g\" README.md",
     "test": "node scripts/build.js --testOnly",
     "clean-dist-folder": "rm -rf dist && mkdir dist",
