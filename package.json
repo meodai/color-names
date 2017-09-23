@@ -48,5 +48,9 @@
       "path": "cz-conventional-changelog"
     }
   },
+  "bin": {
+    "git-cz": "./bin/git-cz",
+    "commitizen": "./bin/commitizen"
+  },
   "dependencies": {}
 }
