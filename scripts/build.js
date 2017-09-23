@@ -70,8 +70,8 @@ const yamlExportString = objArrToString(colorsSrc.entires, csvKeys, {
 
 const scssExportString = objArrToString(colorsSrc.entires, csvKeys, {
   insertBefore: '$color-name-list: (',
-  beforeKey: '"',
-  afterKey: '"',
+  beforeValue: '"',
+  afterValue: '"',
   insertAfter: ');',
   itemDelimitor: ':',
   rowDelimitor: ',',
