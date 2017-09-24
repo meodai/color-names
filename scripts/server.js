@@ -92,7 +92,7 @@ const requestHandler = (request, response) => {
     responseObj.status = 'invalid URL: make sure to provide the API version';
     statusCode = 400;
   } else if (!urlColorList[0]) {
-    responseObj.status = 'no color(s) provided, returning all the colors';
+    responseObj.status = `no color(s) provided, returning all the ${colors.length} colors`;
     responseObj.colors = colors;
     statusCode = 200;
   } else if (invalidColors.length) {
