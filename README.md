@@ -33,13 +33,15 @@ When coming up with new color names, it is vital to know what spots in a certain
 - [Wikipedia list of named colors](https://en.wikipedia.org/wiki/List_of_colors:_A%E2%80%93F)
 - [CSS/HTML Color Names](https://developer.mozilla.org/en/docs/Web/CSS/color_value)
 - [ntc.js](http://chir.ag/projects/ntc/)
+- [xkcd color survey list](https://blog.xkcd.com/2010/05/03/color-survey-results/)
 - [htmlcsscolor.com](http://www.htmlcsscolor.com/color-names-rgb-values/A)
 - [OSX Crayons](http://www.randomactsofsentience.com/2013/06/os-x-crayon-color-hex-table.html)
 - [Crayola Crayon names](https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors)
 - [Thailand Weekday Colors](https://en.wikipedia.org/wiki/Colors_of_the_day_in_Thailand)
 - [Chinese Heavenly Creatures Colors](https://en.wikipedia.org/wiki/Color_in_Chinese_culture)
 - [Traditional Colors of Japan](https://en.wikipedia.org/wiki/Traditional_colors_of_Japan)
-- Multiple Paint & Print Brand color lists
+- [Mandarin Color Names](http://www.fluentu.com/blog/chinese/2016/07/25/chinese-colors/)
+- Multiple Paint/Print/Model/Nail Polish Brand color lists
 
 ## Usage 📖
 
@@ -140,12 +142,14 @@ See [package.json](package.json#L6) for more.
 
 ## Contributors 🦑
 
-- [yxklyx](https://github.com/yxklyx/) hundreds of names!!
-- [Syl](https://twitter.com/Gypsy_Syl)
-- [Stephanie Stutz](https://www.behance.net/stephaniestutzart)
-- [Simbiasamba](https://www.instagram.com/simbisamba/)
-- [Jason Wilson](https://github.com/SgiobairOg)
-- [Sponsored by Metafizzy](https://metafizzy.co/) Logo 💖
+- [yxklyx](//github.com/yxklyx/) hundreds of names!!
+- [Syl](https://twitter.com/Gypsy_Syl) Name creator
+- [Stephanie Stutz](https://www.behance.net/stephaniestutzart) Name creator
+- [Simbiasamba](https://www.instagram.com/simbisamba/) Name creator
+- [Jason Wilson](//github.com/SgiobairOg) Manual Merging of some lists
+- [Inês João](https://www.inesjoao.me/) Mostly Portuguese names
+- [Nirazul](//github.com/Nirazul) Name Creator & Tooling
+- [Metafizzy](https://metafizzy.co/) Logo Sponsor 💖
 
 ## Disclaimer 👮🏾‍
 
