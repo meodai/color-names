@@ -58,12 +58,13 @@ or `yarn add color-name-list`
 ```url
 https://color-names.herokuapp.com/v1/{{hexvalue without the #}},{{more comma separated values}}
 ```
+#### Single Color
 
-ex: `curl` [https://color-names.herokuapp.com/v1/212121,010101,999666](https://color-names.herokuapp.com/v1/060606)
+`curl` [https://color-names.herokuapp.com/v1/212121](https://color-names.herokuapp.com/v1/212121)
 
 ```json
 {
-  "status": "names for '212121,010101,999666' returned",
+  "status": "names for '212121' returned",
   "colors": {
     "#212121": {
       "name": "Lead",
@@ -74,10 +75,17 @@ ex: `curl` [https://color-names.herokuapp.com/v1/212121,010101,999666](https://c
         "b": 33
       },
       "isExactMatch": true
-   },
-   "#010101": // ...
+   }
 }
 ```
+#### Multiple Colors
+
+`curl` [https://color-names.herokuapp.com/v1/212121,060606,ff0012,550055,123456](https://color-names.herokuapp.com/v1/212121,060606,ff0012,550055,123456)
+
+#### All colors Colors
+
+`curl` [https://color-names.herokuapp.com/v1/](https://color-names.herokuapp.com/v1/)
+In this case colors is not an `object` but an `array` of `objects` sorted by color-name
 
 ### Usage JS ⌨
 

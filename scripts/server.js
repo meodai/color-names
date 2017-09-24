@@ -6,7 +6,9 @@ const colors = JSON.parse(
   fs.readFileSync(__dirname + '/../dist/colornames.json', 'utf8')
 );
 const port = process.env.PORT || 8080;
-const baseUrl = 'v1/';
+const currentVersion = 'v1';
+const APIurl = ''; // subfolder for the API
+const baseUrl = `${APIurl}${currentVersion}/`;
 
 /**
  * disassembles a HEX color to its RGB components
@@ -113,6 +115,5 @@ server.listen(port, '0.0.0.0', (error) => {
     return console.log(`something terrible happened: ${error}`);
   }
   console.log(`Server running and listening on port ${port}`);
-  console.log(`http://localhost:${port}`);
+  console.log(`http://localhost:${port}/${baseUrl}`);
 });
-
