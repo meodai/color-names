@@ -19,6 +19,7 @@ The aim of this project is to create as large a list as possible of color names.
 
 ## Submit a color [via form 🌈](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform) / or [twitter 🐦](https://codepen.io/meodai/full/ZXQzLb/)
 
+Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute.
 
 ### color count: __14874__ 🎉
 
@@ -42,23 +43,20 @@ When coming up with new color names, it is vital to know what spots in a certain
 - Multiple Paint & Print Brand color lists
 
 
-### Installation JS 📦
+### Installation Node.js 📦
 
 ```
 npm install color-name-list --save
 ```
-or
-```
-yarn add color-name-list
-```
+or `yarn add color-name-list`
 
 ### CDN 🌍 [JSON](https://unpkg.com/color-name-list/dist/colornames.json), [CSV](https://unpkg.com/color-name-list/dist/colornames.csv), [YML](https://unpkg.com/color-name-list/dist/colornames.yaml)
 
 
-### Experimental API 🃏
+### API (v1) 🃏
 
 ```
-https://color-names.herokuapp.com/v1/{{hexvalue without the #}}
+https://color-names.herokuapp.com/v1/{{hexvalue without the #}},{{more comma separated values}}
 ```
 
 ex: `curl `[https://color-names.herokuapp.com/v1/212121,010101,999666](https://color-names.herokuapp.com/v1/060606)
@@ -130,7 +128,7 @@ based on the Lab color-space.
 ```
 npm install && npm run build
 ```
-
+See [package.json](package.json#L6) for more.
 
 # Contributors 🦑
 
