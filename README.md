@@ -29,7 +29,7 @@ When coming up with new color names, it is vital to know what spots in a certain
 
 ## Sources 🗒
 
-- [User submissions](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform).
+- Thousands of user submissions [Twitter](https://codepen.io/meodai/full/ZXQzLb/)/[Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform)/[Github](#contributors-)
 - [Wikipedia list of named colors](https://en.wikipedia.org/wiki/List_of_colors:_A%E2%80%93F)
 - [CSS/HTML Color Names](https://developer.mozilla.org/en/docs/Web/CSS/color_value)
 - [ntc.js](http://chir.ag/projects/ntc/)
@@ -41,6 +41,7 @@ When coming up with new color names, it is vital to know what spots in a certain
 - [Chinese Heavenly Creatures Colors](https://en.wikipedia.org/wiki/Color_in_Chinese_culture)
 - [Traditional Colors of Japan](https://en.wikipedia.org/wiki/Traditional_colors_of_Japan)
 - [Mandarin Color Names](http://www.fluentu.com/blog/chinese/2016/07/25/chinese-colors/)
+- [Game Console color palettes](https://en.wikipedia.org/wiki/List_of_video_game_console_palettes)
 - Multiple Paint/Print/Model/Nail Polish Brand color lists
 
 ## Usage 📖
@@ -142,7 +143,8 @@ See [package.json](package.json#L6) for more.
 
 ## Contributors 🦑
 
-- [yxklyx](//github.com/yxklyx/) hundreds of names!!
+- [meodai](//github.com/meodai) Initiator, Maintainer, Name Creator & Tooling
+- [yxklyx](//github.com/yxklyx/) Hundreds of names!!
 - [Syl](https://twitter.com/Gypsy_Syl) Name creator
 - [Stephanie Stutz](https://www.behance.net/stephaniestutzart) Name creator
 - [Simbiasamba](https://www.instagram.com/simbisamba/) Name creator
