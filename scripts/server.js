@@ -85,7 +85,7 @@ const requestHandler = (request, response) => {
   const urlColorList = colorQuery.split(',');
   const responseObj = {status: 'Someting went wrong', colors: {}};
   const invalidColors = urlColorList.filter((hex) => (
-    !validateColor(hex) && hex;
+    !validateColor(hex) && hex
   ));
 
   if (!isAPI) {
@@ -98,7 +98,7 @@ const requestHandler = (request, response) => {
   } else if (invalidColors.length) {
     responseObj.status = `'${invalidColors.join(', ')}' is not a valid HEX color`;
     statusCode = 400;
-  } else if (statusCode === 200) {
+  } else if (!invalidColors.length && isAPI) {
     responseObj.status = `names for '${urlColorList.join(', ')}' returned`;
     responseObj.colors = nameColors(urlColorList);
     statusCode = 200;
