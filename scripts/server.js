@@ -84,9 +84,9 @@ const requestHandler = (request, response) => {
 
   const urlColorList = colorQuery.split(',');
   const responseObj = {status: 'Someting went wrong', colors: {}};
-  const invalidColors = urlColorList.filter((hex) => {
+  const invalidColors = urlColorList.filter((hex) => (
     !validateColor(hex) && hex;
-  });
+  ));
 
   if (!isAPI) {
     responseObj.status = 'invalid URL: make sure to provide the API version';
