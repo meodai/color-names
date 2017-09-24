@@ -1,29 +1,29 @@
-'use strict';
+const fs = require('fs');
+const path = require('path');
+const lib = require('./lib.js');
+const parseCSVString = lib.parseCSVString;
+const findDuplicates = lib.findDuplicates;
+const objArrToString = lib.objArrToString;
+const args = process.argv;
+const isTestRun = !!args.find((arg) => (arg === '--testOnly'));
 
-const fs = require('fs'),
-      path = require('path'),
-      lib = require('./lib.js'),
-      parseCSVString = lib.parseCSVString,
-      findDuplicates = lib.findDuplicates,
-      objArrToString = lib.objArrToString,
-      args = process.argv,
-      isTestRun = !!args.find(arg => (arg === '--testOnly')),
+// we only want hex colors with 6 values
+const hexColorValidation = /^#[0-9a-f]{6}$/;
+const errors = [];
 
-      // we only want hex colors with 6 values
-      hexColorValidation = /^#[0-9a-f]{6}$/,
-      errors = [],
+// setting
+const baseFolder = __dirname + '/../';
+const folderSrc = 'src/';
+const folderDist = 'dist/';
+const fileNameSrc = 'colornames';
 
-      // setting
-      baseFolder = __dirname + '/../',
-      folderSrc = 'src/',
-      folderDist = 'dist/',
-      fileNameSrc = 'colornames',
-
-      sortBy = 'name',
-      csvKeys = ['name', 'hex'];
+const sortBy = 'name';
+const csvKeys = ['name', 'hex'];
 
 // reads the CSV file contents
-const src = fs.readFileSync(path.normalize(`${baseFolder}${folderSrc}${fileNameSrc}.csv`)).toString();
+const src = fs.readFileSync(
+              path.normalize(`${baseFolder}${folderSrc}${fileNameSrc}.csv`)
+            ).toString();
 const colorsSrc = parseCSVString(src);
 
 // sort by sorting criteria
@@ -32,18 +32,17 @@ colorsSrc.entires.sort((a, b) => {
 });
 
 // find duplicates
-csvKeys.forEach(key => {
+csvKeys.forEach((key) => {
   const dupes = findDuplicates(colorsSrc.values[key]);
-  dupes.forEach(dupe => {
+  dupes.forEach((dupe) => {
     log(key, dupe, `found a double ${key}`);
   });
 });
 
 // validate HEX values
-colorsSrc.values['hex'].forEach(hex => {
+colorsSrc.values['hex'].forEach((hex) => {
   if ( !hexColorValidation.test(hex) ) {
-    log('hex', hex, `${hex} is not a valid hex value. (Or to short, we avoid
-    using the hex shorthands, no capital letters)`);
+    log('hex', hex, `${hex} is not a valid hex value. (Or to short, we avoid using the hex shorthands, no capital letters)`);
   }
 });
 
@@ -54,50 +53,68 @@ if (isTestRun) {
   process.exit();
 }
 
-// create files
-const csvExportString = objArrToString(colorsSrc.entires, csvKeys, {
-  insertBefore: csvKeys.join(',') + '\r\n'
-});
-
-const yamlExportString = objArrToString(colorsSrc.entires, csvKeys, {
-  insertBefore: '-\r\n  ',
-  beforeValue: '"',
-  afterValue: '"',
-  includeKeyPerItem: true,
-  rowDelimitor: '\r\n-\r\n  ',
-  itemDelimitor: '\r\n  '
-});
-
-const scssExportString = objArrToString(colorsSrc.entires, csvKeys, {
-  insertBefore: '$color-name-list: (',
-  beforeValue: '"',
-  afterValue: '"',
-  insertAfter: ');',
-  itemDelimitor: ':',
-  rowDelimitor: ',',
-});
-
-const htmlExportString = objArrToString(colorsSrc.entires, csvKeys, {
-  insertBefore: `<table><thead><tr><th>${csvKeys.join('</th><th>')}</th></tr><thead><tbody><tr><td>`,
-  itemDelimitor: '</td><td>',
-  rowDelimitor: '</td></tr><tr><td>',
-  insertAfter: `</td></tr></tbody></table>`
-});
-
+// create JS related files
 const JSONExportString = JSON.stringify(colorsSrc.entires);
-
 const jsExportString = `module.exports = ${JSONExportString};`;
 
-fs.writeFileSync(path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.scss`), scssExportString);
-fs.writeFileSync(path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.csv`), csvExportString);
-fs.writeFileSync(path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.yaml`), yamlExportString);
-fs.writeFileSync(path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.json`), JSONExportString);
-fs.writeFileSync(path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.js`), jsExportString);
-fs.writeFileSync(path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.html`), htmlExportString);
+fs.writeFileSync(
+  path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.json`),
+  JSONExportString
+);
 
-function showLog () {
+fs.writeFileSync(
+  path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.js`),
+  jsExportString
+);
+
+// create foreign formats
+// configuration for the file outputs
+const outputFormats = {
+  'csv': {
+    insertBefore: csvKeys.join(',') + '\r\n',
+  },
+  'yaml': {
+    insertBefore: '-\r\n  ',
+    beforeValue: '"',
+    afterValue: '"',
+    includeKeyPerItem: true,
+    rowDelimitor: '\r\n-\r\n  ',
+    itemDelimitor: '\r\n  ',
+  },
+  'scss': {
+    insertBefore: '$color-name-list: (',
+    beforeValue: '"',
+    afterValue: '"',
+    insertAfter: ');',
+    itemDelimitor: ':',
+    rowDelimitor: ',',
+  },
+  'html': {
+    insertBefore: `<table><thead><tr><th>${csvKeys.join('</th><th>')}</th></tr><thead><tbody><tr><td>`,
+    itemDelimitor: '</td><td>',
+    rowDelimitor: '</td></tr><tr><td>',
+    insertAfter: `</td></tr></tbody></table>`,
+  },
+};
+
+for (let outputFormat in outputFormats) {
+  let outputString = objArrToString(
+    colorsSrc.entires,
+    csvKeys,
+    outputFormats[outputFormat]
+  );
+  fs.writeFileSync(
+    path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.${outputFormat}`),
+    outputString
+  );
+}
+
+/**
+ * outputs the collected logs
+ */
+function showLog() {
   let errorLevel = 0;
-  errors.forEach(error => {
+  errors.forEach((error) => {
     errorLevel = error.errorLevel || errorLevel;
     console.log(`${error.errorLevel ? '⛔' : '⚠'}  ${error.message}`);
     console.log(JSON.stringify(error.entries));
@@ -108,12 +125,19 @@ function showLog () {
   }
 }
 
-function log (key, value, message, errorLevel = 1) {
+/**
+ * logs errors and warning
+ * @param   {string} key        key to look for in input
+ * @param   {string} value      value to look for
+ * @param   {string} message    error message
+ * @param   {Number} errorLevel if any error is set to 1, the program will exit
+ */
+function log(key, value, message, errorLevel = 1) {
   const error = {};
 
   // looks for the original item that caused the error
   error.entries = colorsSrc.entires.filter((entry) => {
-      return entry[key] === value
+      return entry[key] === value;
   });
 
   error.message = message;

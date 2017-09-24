@@ -4,8 +4,8 @@ module.exports = {
    * @param   {String} csvString    CSV file contents
    * @param   {String} csvDelimitor
    * @param   {String} csvNewLine
-   * @returns {Object}              Object with all entries,
-   *                                headers as Array, and entires per header as Array
+   * @return {Object} Object with all entries, headers as Array,
+   *                   and entires per header as Array
    */
   parseCSVString: (csvString, csvDelimitor = ',', csvNewLine = '\r\n') => {
     const rows = csvString.split(csvNewLine);
@@ -13,7 +13,7 @@ module.exports = {
     // remove last empty row (if there is any)
     if (!rows.slice(-1)[0]) {
       rows.pop();
-    };
+    }
 
     // extracts all the CSV headers
     const headers = rows.shift().split(csvDelimitor);
@@ -21,12 +21,11 @@ module.exports = {
     // collection of values per row
     const values = {};
 
-    headers.forEach(header => {
+    headers.forEach((header) => {
       values[header] = [];
     });
 
-    const entires = rows.map(row => {
-
+    const entires = rows.map((row) => {
       // decomposes each row into its single entries
       const rowArr = row.split(csvDelimitor);
 
@@ -51,14 +50,15 @@ module.exports = {
   /**
    * finds duplicates in a simple array
    * @param   {array} arr array of items containing comparable items
-   * @returns {array}     array of second (or more) instance of duplicate items
+   * @return  {array}     array of second (or more) instance of duplicate items
    */
   findDuplicates: (arr) => {
-    let i, lookUpObj={}, dupes = [];
+    const lookUpObj={};
+    const dupes = [];
 
-    arr.forEach(item => {
+    arr.forEach((item) => {
       if (lookUpObj.hasOwnProperty(item)) {
-        dupes.push(item)
+        dupes.push(item);
       }
       lookUpObj[item]=0;
     });
@@ -81,10 +81,10 @@ module.exports = {
     }, options);
 
 
-    return settings.insertBefore + arr.map(item => {
-      return keys.map(key => {
+    return settings.insertBefore + arr.map((item) => {
+      return keys.map((key) => {
         return (settings.includeKeyPerItem ? settings.beforeKey + key + settings.afterKey + settings.keyValueSeparator : '') + settings.beforeValue + item[key] + settings.afterValue;
       }).join(settings.itemDelimitor);
     }).join(settings.rowDelimitor) + settings.insertAfter;
-  }
-}
+  },
+};
