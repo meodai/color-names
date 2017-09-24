@@ -1,4 +1,5 @@
 # __14874__ color-names
+
 <img align="right" height="200" width="200" src="https://meodai.github.io/color-names/logo/cockatoo-fill.svg">
 
 [![GitHub release](https://img.shields.io/github/release/meodai/color-names.svg)](https://github.com/meodai/color-names/)
@@ -12,21 +13,19 @@ A handpicked list of __14874__ unique color names from various sources and thous
 
 > The names of color function like a thread attached to a frightfully slender needle, capable of stitching together our most delicate emotions and memories. When the needle hits the target, we feel either pleasure or emathy. **Kenya Hara – White**
 
-
 ## About 📋
 
 The aim of this project is to create as large a list as possible of color names. We've merged various [lists](#sources-), modified the names when there were duplicates with different hex values, and shifted the colors a bit when there were identical colors with different names.
 
-## Submit a color [via form 🌈](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform) / or [twitter 🐦](https://codepen.io/meodai/full/ZXQzLb/)
+### Submit a color [via form 🌈](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform) / or [twitter 🐦](https://codepen.io/meodai/full/ZXQzLb/)
 
 Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute.
 
 ### color count: __14874__ 🎉
 
-## [Color distribution](https://codepen.io/meodai/full/zdgXJj/) 🛰
+### [Color distribution](https://codepen.io/meodai/full/zdgXJj/) 🛰
 
 When coming up with new color names, it is vital to know what spots in a certain color-space are crowded and where there is still room for new colors. For example; Our API returns the closest `RGB` color to a given `HEX` value. To avoid that to many colors snap to the same name, we aim to distribute the colors evenly in the color space: [Visualization](https://codepen.io/meodai/full/zdgXJj/) PS: you can choose between different color spaces on the bottom right.
-
 
 ## Sources 🗒
 
@@ -42,26 +41,27 @@ When coming up with new color names, it is vital to know what spots in a certain
 - [Traditional Colors of Japan](https://en.wikipedia.org/wiki/Traditional_colors_of_Japan)
 - Multiple Paint & Print Brand color lists
 
+## Usage 📖
 
 ### Installation Node.js 📦
 
-```
+```shell
 npm install color-name-list --save
 ```
+
 or `yarn add color-name-list`
 
 ### CDN 🌍 [JSON](https://unpkg.com/color-name-list/dist/colornames.json), [CSV](https://unpkg.com/color-name-list/dist/colornames.csv), [YML](https://unpkg.com/color-name-list/dist/colornames.yaml), [JS](https://unpkg.com/color-name-list/dist/colornames.js)
 
-
 ### API (v1) 🃏
 
-```
+```url
 https://color-names.herokuapp.com/v1/{{hexvalue without the #}},{{more comma separated values}}
 ```
 
-ex: `curl `[https://color-names.herokuapp.com/v1/212121,010101,999666](https://color-names.herokuapp.com/v1/060606)
+ex: `curl` [https://color-names.herokuapp.com/v1/212121,010101,999666](https://color-names.herokuapp.com/v1/060606)
 
-```
+```json
 {
   "status": "names for '212121,010101,999666' returned",
   "colors": {
@@ -78,7 +78,6 @@ ex: `curl `[https://color-names.herokuapp.com/v1/212121,010101,999666](https://c
    "#010101": // ...
 }
 ```
-
 
 ### Usage JS ⌨
 
@@ -122,15 +121,15 @@ the nearest RGB neighbor. If you are looking for something visually more accurat
 might use a library returning the color with the closest [DeltaE](https://github.com/zschuessler/DeltaE)
 based on the Lab color-space.
 
+### Building 🔨
 
-### Create a new build 🔨
-
-```
+```shell
 npm install && npm run build
 ```
+
 See [package.json](package.json#L6) for more.
 
-# Contributors 🦑
+## Contributors 🦑
 
 - [yxklyx](https://github.com/yxklyx/) hundreds of names!!
 - [Syl](https://twitter.com/Gypsy_Syl)
@@ -139,8 +138,7 @@ See [package.json](package.json#L6) for more.
 - [Jason Wilson](https://github.com/SgiobairOg)
 - [Sponsored by Metafizzy](https://metafizzy.co/) Logo 💖
 
-
-#### Disclaimer ⚠️
+## Disclaimer 👮🏾‍♀️
 
 In the process we try to remove all names that are offensive or racist, as well as protect brandnames.
 As some of the color names come from other lists, it might happen that some bad ones slip in. [Please report them](https://github.com/meodai/color-names/issues), they will be removed as quickly as possible.
