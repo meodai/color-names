@@ -138,7 +138,7 @@ See [package.json](package.json#L6) for more.
 - [Jason Wilson](https://github.com/SgiobairOg)
 - [Sponsored by Metafizzy](https://metafizzy.co/) Logo 💖
 
-## Disclaimer 👮🏾‍♀️
+## Disclaimer 👮🏾‍
 
 In the process we try to remove all names that are offensive or racist, as well as protect brandnames.
 As some of the color names come from other lists, it might happen that some bad ones slip in. [Please report them](https://github.com/meodai/color-names/issues), they will be removed as quickly as possible.
