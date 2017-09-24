@@ -31,18 +31,18 @@ When coming up with new color names, it is vital to know what spots in a certain
 
 - Thousands of user submissions [Twitter](https://codepen.io/meodai/full/ZXQzLb/)/[Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform)/[Github](#contributors-)
 - [Wikipedia list of named colors](https://en.wikipedia.org/wiki/List_of_colors:_A%E2%80%93F)
-- [CSS/HTML Color Names](https://developer.mozilla.org/en/docs/Web/CSS/color_value)
+- [CSS/HTML color names](https://developer.mozilla.org/en/docs/Web/CSS/color_value)
 - [ntc.js](http://chir.ag/projects/ntc/)
 - [xkcd color survey list](https://blog.xkcd.com/2010/05/03/color-survey-results/)
 - [htmlcsscolor.com](http://www.htmlcsscolor.com/color-names-rgb-values/A)
 - [OSX Crayons](http://www.randomactsofsentience.com/2013/06/os-x-crayon-color-hex-table.html)
-- [Crayola Crayon names](https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors)
-- [Thailand Weekday Colors](https://en.wikipedia.org/wiki/Colors_of_the_day_in_Thailand)
-- [Chinese Heavenly Creatures Colors](https://en.wikipedia.org/wiki/Color_in_Chinese_culture)
-- [Traditional Colors of Japan](https://en.wikipedia.org/wiki/Traditional_colors_of_Japan)
-- [Mandarin Color Names](http://www.fluentu.com/blog/chinese/2016/07/25/chinese-colors/)
-- [Game Console color palettes](https://en.wikipedia.org/wiki/List_of_video_game_console_palettes)
-- Multiple Paint/Print/Model/Nail Polish Brand color lists
+- [Crayola crayon names](https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors)
+- [Thailand weekday colors](https://en.wikipedia.org/wiki/Colors_of_the_day_in_Thailand)
+- [Chinese heavenly creatures colors](https://en.wikipedia.org/wiki/Color_in_Chinese_culture)
+- [Traditional colors of Japan](https://en.wikipedia.org/wiki/Traditional_colors_of_Japan)
+- [Mandarin color names](http://www.fluentu.com/blog/chinese/2016/07/25/chinese-colors/)
+- [8-Bit color palettes](https://en.wikipedia.org/wiki/List_of_color_palettes)
+- Multiple paint/print/nail polish/model brand color lists
 
 ## Usage 📖
 
@@ -144,7 +144,7 @@ See [package.json](package.json#L6) for more.
 ## Contributors 🦑
 
 - [meodai](//github.com/meodai) Initiator, Maintainer, Name Creator & Tooling
-- [yxklyx](//github.com/yxklyx/) Hundreds of names!!
+- [Verena](//github.com/yxklyx/) Hundreds of names!!
 - [Syl](https://twitter.com/Gypsy_Syl) Name creator
 - [Stephanie Stutz](https://www.behance.net/stephaniestutzart) Name creator
 - [Simbiasamba](https://www.instagram.com/simbisamba/) Name creator
