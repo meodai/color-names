@@ -99,7 +99,7 @@ const requestHandler = (request, response) => {
     responseObj.status = `'${invalidColors.join(', ')}' is not a valid HEX color`;
     statusCode = 400;
   } else {
-    responseObj.status = `names for '${urlColorList.join(',')}' returned`;
+    responseObj.status = `names for '${urlColorList.join(', ')}' returned`;
     responseObj.colors = nameColors(urlColorList);
     statusCode = 200;
   }
