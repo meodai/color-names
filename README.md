@@ -112,7 +112,7 @@ namedColors.forEach(color => {
 nearestColorName = nearestColor.from(colors);
 
 // get closest named color
-nearestColorName('#f1c1d1') // => Fairy Tale
+nearestColorName('#f1c1d1'); // => Fairy Tale
 ```
 
 **Note**: In this example we are using [nearest-color](https://github.com/dtao/nearest-color).
