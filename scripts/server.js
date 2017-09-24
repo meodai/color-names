@@ -1,4 +1,5 @@
 const http = require('http');
+const url = require('url');
 const fs = require('fs');
 const nearestColor = require('../node_modules/nearest-color/nearestColor.js');
 const colors = JSON.parse(
@@ -75,7 +76,8 @@ const httpRespond = (response, responseObj = {}, statusCode = 200) => {
 };
 
 const requestHandler = (request, response) => {
-  const isAPI = request.url.indexOf(baseUrl) !== -1;
+  const requestUrl = url.parse(request.url);
+  const isAPI = requestUrl.pathname.indexOf(baseUrl) !== -1;
   let statusCode = 400;
   let colorQuery = request.url.toLowerCase();
       colorQuery = colorQuery.split(baseUrl)[1] || '';
