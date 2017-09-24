@@ -82,9 +82,10 @@ https://color-names.herokuapp.com/v1/{{hexvalue without the #}},{{more comma sep
 
 `curl` [https://color-names.herokuapp.com/v1/212121,060606,ff0012,550055,123456](https://color-names.herokuapp.com/v1/212121,060606,ff0012,550055,123456)
 
-#### All colors Colors
+#### All Named Colors
 
 `curl` [https://color-names.herokuapp.com/v1/](https://color-names.herokuapp.com/v1/)
+
 In this case colors is not an `object` but an `array` of `objects` sorted by color-name
 
 ### Usage JS ⌨
