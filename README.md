@@ -86,11 +86,11 @@ ex: `curl` [https://color-names.herokuapp.com/v1/212121,010101,999666](https://c
 ```javascript
 import namedColors from 'color-name-list';
 
-let someColor = namedColors.find(color => color.hex === '#ffffff')
-console.log(someColor.name) // => white
+let someColor = namedColors.find(color => color.hex === '#ffffff');
+console.log(someColor.name); // => white
 
 let someNamedColor = namedColors.find(color => color.name === 'Eigengrau')
-console.log(someColor.hex) // => #16161d
+console.log(someColor.hex); // => #16161d
 ```
 
 #### Closest Named Color
