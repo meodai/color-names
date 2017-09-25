@@ -117,6 +117,7 @@ const readme = fs.readFileSync(
 fs.writeFileSync(
   path.normalize(`${baseFolder}${readmeFileName}`),
   readme.replace(/__\d+__/g, `__${colorsSrc.entires.length}__`)
+  .replace(/\d+-colors-orange/,`${colorsSrc.entires.length}-colors-orange`)
 );
 
 /**
