@@ -16,6 +16,7 @@ const baseFolder = __dirname + '/../';
 const folderSrc = 'src/';
 const folderDist = 'dist/';
 const fileNameSrc = 'colornames';
+const readmeFileName = 'README.md';
 
 const sortBy = 'name';
 const csvKeys = ['name', 'hex'];
@@ -108,6 +109,15 @@ for (let outputFormat in outputFormats) {
     outputString
   );
 }
+
+// adapts the count in the readme file
+const readme = fs.readFileSync(
+  path.normalize(`${baseFolder}${readmeFileName}`)
+).toString();
+fs.writeFileSync(
+  path.normalize(`${baseFolder}${readmeFileName}`),
+  readme.replace(/__\d+__/g, `__${colorsSrc.entires.length}__`)
+);
 
 /**
  * outputs the collected logs

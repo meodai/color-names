@@ -6,10 +6,9 @@
   "scripts": {
     "commit": "git-cz",
     "get-new-colors": "curl 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQube6Y0wHyEtJnjg0eU3N7VseoxVnD4L9uDqvWZdl_tzzrHDVN10IPP7cdFipX8j70atNMLfPCB0Q6/pub?gid=40578722&single=true&output=csv' -o src/colornames.csv",
-    "count-colors": "sed -i -E \"s/__[0-9^]+__/__`awk 'END {print NR}' src/colornames.csv`__/g\" README.md",
     "test": "node scripts/build.js --testOnly",
     "clean-dist-folder": "rm -rf dist && mkdir dist",
-    "build": "npm run clean-dist-folder && node scripts/build.js && npm run count-colors",
+    "build": "npm run clean-dist-folder && node scripts/build.js",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post",
     "start": "node scripts/server.js"
   },

@@ -1,4 +1,4 @@
-# __15931__ color-names
+# __15930__ color-names
 
 <img align="right" height="200" width="200" src="https://meodai.github.io/color-names/logo/cockatoo-fill.svg">
 
@@ -7,9 +7,9 @@
 [![npm](https://img.shields.io/npm/dt/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
 [![Travis](https://img.shields.io/travis/meodai/color-names.svg)](https://travis-ci.org/meodai/color-names)
 [![license](https://img.shields.io/npm/l/color-name-list.svg?colorB=ff77b4)](https://github.com/meodai/color-names/blob/master/LICENSE)
-[![color count](https://img.shields.io/badge/__15931__-colors-orange.svg)](https://github.com/meodai/color-names/blob/master/src/colornames.csv)
+[![color count](https://img.shields.io/badge/__15930__-colors-orange.svg)](https://github.com/meodai/color-names/blob/master/src/colornames.csv)
 
-A handpicked list of __15931__ unique color names from various sources and thousands of user submissions. [Try it yourself](http://codepen.io/meodai/full/mEvZRx/) or read [the full list](https://docs.google.com/spreadsheets/d/14ny2oB7g5Tof9TmKiaaDFv25XSCRt-LlBRJhIDz_3Mo/pubhtml?gid=40578722).
+A handpicked list of __15930__ unique color names from various sources and thousands of user submissions. [Try it yourself](http://codepen.io/meodai/full/mEvZRx/) or read [the full list](https://docs.google.com/spreadsheets/d/14ny2oB7g5Tof9TmKiaaDFv25XSCRt-LlBRJhIDz_3Mo/pubhtml?gid=40578722).
 
 > The names of color function like a thread attached to a frightfully slender needle, capable of stitching together our most delicate emotions and memories. When the needle hits the target, we feel either pleasure or emathy. **Kenya Hara – White**
 
@@ -21,7 +21,7 @@ The aim of this project is to create as large a list as possible of color names.
 
 Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute.
 
-### color count: __15931__ 🎉
+### color count: __15930__ 🎉
 
 ### [Color distribution](https://codepen.io/meodai/full/zdgXJj/) 🛰
 
