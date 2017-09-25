@@ -30,7 +30,7 @@ When coming up with new color names, it is vital to know what spots in a certain
 ## Sources 🗒
 
 - Thousands of user submissions [Twitter](https://codepen.io/meodai/full/ZXQzLb/)/[Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform)/[Github](#contributors-)
-- [Wikipedia list of named colors](https://en.wikipedia.org/wiki/List_of_colors:_A%E2%80%93F)
+- [Wikipedia list of named colors](https://en.wikipedia.org/wiki/List_of_colors:_A%E2%80%93F) (9 May 2017)
 - [CSS/HTML color names](https://developer.mozilla.org/en/docs/Web/CSS/color_value)
 - [ntc.js](http://chir.ag/projects/ntc/)
 - [xkcd color survey list](https://blog.xkcd.com/2010/05/03/color-survey-results/)
