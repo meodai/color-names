@@ -23,8 +23,9 @@ const csvKeys = ['name', 'hex'];
 
 // reads the CSV file contents
 const src = fs.readFileSync(
-              path.normalize(`${baseFolder}${folderSrc}${fileNameSrc}.csv`)
-            ).toString();
+  path.normalize(`${baseFolder}${folderSrc}${fileNameSrc}.csv`),
+  'utf8'
+).toString();
 const colorsSrc = parseCSVString(src);
 
 // sort by sorting criteria
@@ -112,12 +113,14 @@ for (let outputFormat in outputFormats) {
 
 // adapts the count in the readme file
 const readme = fs.readFileSync(
-  path.normalize(`${baseFolder}${readmeFileName}`)
+  path.normalize(`${baseFolder}${readmeFileName}`),
+  'utf8'
 ).toString();
 fs.writeFileSync(
   path.normalize(`${baseFolder}${readmeFileName}`),
   readme.replace(/__\d+__/g, `__${colorsSrc.entires.length}__`)
-  .replace(/\d+-colors-orange/,`${colorsSrc.entires.length}-colors-orange`)
+  .replace(/\d+-colors-orange/,`${colorsSrc.entires.length}-colors-orange`),
+  'utf8'
 );
 
 /**

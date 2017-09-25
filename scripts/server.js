@@ -80,7 +80,7 @@ const httpRespond = (response, responseObj = {}, statusCode = 200) => {
 const requestHandler = (request, response) => {
   const requestUrl = url.parse(request.url);
   const isAPI = requestUrl.pathname.indexOf(baseUrl) !== -1;
-  let statusCode = 400;
+  let statusCode = 404;
   let colorQuery = request.url.toLowerCase();
       colorQuery = colorQuery.split(baseUrl)[1] || '';
 
@@ -92,14 +92,14 @@ const requestHandler = (request, response) => {
 
   if (!isAPI) {
     responseObj.status = 'invalid URL: make sure to provide the API version';
-    statusCode = 400;
+    statusCode = 404;
   } else if (!urlColorList[0]) {
     responseObj.status = `no color(s) provided, returning all the ${colors.length} colors`;
     responseObj.colors = colors;
     statusCode = 200;
   } else if (invalidColors.length) {
     responseObj.status = `'${invalidColors.join(', ')}' is not a valid HEX color`;
-    statusCode = 400;
+    statusCode = 404;
   } else if (!invalidColors.length && isAPI) {
     responseObj.status = `names for '${urlColorList.join(', ')}' returned`;
     responseObj.colors = nameColors(urlColorList);
