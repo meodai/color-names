@@ -24,7 +24,7 @@ Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute.
 
 ### color count: __15930__ 🎉
 
-(~__0.001%__ of all RGB Colors)
+(~__0.00096%__ of all RGB Colors)
 
 ### [Color distribution](https://codepen.io/meodai/full/zdgXJj/) 🛰
 

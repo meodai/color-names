@@ -120,7 +120,7 @@ fs.writeFileSync(
   path.normalize(`${baseFolder}${readmeFileName}`),
   readme.replace(/__\d+__/g, `__${colorsSrc.entires.length}__`)
   .replace(/\d+-colors-orange/,`${colorsSrc.entires.length}-colors-orange`)
-  .replace(/__\d+(\.\d+)?%__/, `__${(colorsSrc.entires.length / (255 * 255 * 255)).toFixed(3)}%__`),
+  .replace(/__\d+(\.\d+)?%__/, `__${(colorsSrc.entires.length / (255 * 255 * 255)).toFixed(5)}%__`),
   'utf8'
 );
 
