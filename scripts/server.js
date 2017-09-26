@@ -1,6 +1,7 @@
 const http = require('http');
 const url = require('url');
 const fs = require('fs');
+const zlib = require('zlib');
 const nearestColor = require('../node_modules/nearest-color/nearestColor.js');
 const colors = JSON.parse(
   fs.readFileSync(__dirname + '/../dist/colornames.json', 'utf8')
@@ -75,10 +76,14 @@ const httpRespond = (response, responseObj = {}, statusCode = 200) => {
     'Access-Control-Allow-Credentials': false,
     'Access-Control-Max-Age': '86400',
     'Access-Control-Allow-Headers': 'X-Requested-With, X-HTTP-Method-Override, Content-Type, Accept',
+    'Content-Encoding': 'gzip',
     'Content-Type': 'application/json; charset=utf-8',
   });
+
   // ends the response with the API answer
-  response.end(JSON.stringify(responseObj));
+  zlib.gzip(JSON.stringify(responseObj), (_, result) => {
+    response.end(result);
+  });
 };
 
 const requestHandler = (request, response) => {
