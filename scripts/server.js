@@ -70,9 +70,8 @@ const httpRespond = (response, responseObj = {}, statusCode = 200) => {
     'Access-Control-Allow-Credentials': false,
     'Access-Control-Max-Age': '86400',
     'Access-Control-Allow-Headers': 'X-Requested-With, X-HTTP-Method-Override, Content-Type, Accept',
-    'Content-Type': 'application/json',
+    'Content-Type': 'application/json; charset=utf-8',
   });
-
   // ends the response with the API answer
   response.end(JSON.stringify(responseObj));
 };
