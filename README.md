@@ -58,11 +58,7 @@ https://color-names.herokuapp.com/v1/{{hexvalue without the #}},{{more comma sep
     "#212121": {
       "name": "Lead",
       "hex": "#212121",
-      "rgb": {
-        "r": 33,
-        "g": 33,
-        "b": 33
-      },
+      "rgb": {"r":33, "g":33, "b":33},
       "isExactMatch": true
    }
 }
@@ -142,7 +138,7 @@ See [package.json](package.json#L6) for more.
 - [Chinese heavenly creatures colors](https://en.wikipedia.org/wiki/Color_in_Chinese_culture)
 - [Traditional colors of Japan](https://en.wikipedia.org/wiki/Traditional_colors_of_Japan)
 - [Mandarin color names](http://www.fluentu.com/blog/chinese/2016/07/25/chinese-colors/)
-- Multiple paint/print/nail polish/model brand color lists
+- Multiple paint, print, nail polish, model paint color lists
 
 ### Sources: Color 🎨
 - [12-Bit & 8-Bit color palettes](https://en.wikipedia.org/wiki/List_of_color_palettes)
