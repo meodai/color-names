@@ -16,18 +16,12 @@ const baseUrl = `${APIurl}${currentVersion}/`;
  * @return  {object}     {r,g,b}
  */
 const hexToRgb = (hex) => {
-  const shorthandRegex = /^#?([a-f\d])([a-f\d])([a-f\d])$/i;
-  // Expand shorthand form (e.g. "03F") to full form (e.g. "0033FF")
-  hex = hex.replace(shorthandRegex, function(m, r, g, b) {
-    return r + r + g + g + b + b;
-  });
-
-  const result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
-  return result ? {
-      r: parseInt(result[1], 16),
-      g: parseInt(result[2], 16),
-      b: parseInt(result[3], 16),
-  } : null;
+  const int = parseInt(hex.replace('#', ''), 16);
+  return {
+    r: (int >> 16) & 255,
+    g: (int >> 8) & 255,
+    b: int & 255
+  };
 };
 
 // object containing the name:hex pairs for nearestColor()
