@@ -53,14 +53,13 @@ https://color-names.herokuapp.com/v1/{{hexvalue without the #}},{{more comma sep
 
 ```json
 {
-  "status": "names for '212121' returned",
-  "colors": {
-    "#212121": {
-      "name": "Lead",
-      "hex": "#212121",
-      "rgb": {"r":33, "g":33, "b":33},
-      "isExactMatch": true
-   }
+  "colors": [{
+    "name": "Lead",
+    "hex": "#212121",
+    "rgb": {"r":33, "g":33, "b":33},
+    "distance": 0, // its an exact match
+    "requestedHex": "#212121"
+  }]
 }
 ```
 #### Multiple Colors

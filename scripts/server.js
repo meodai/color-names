@@ -38,7 +38,7 @@ const nc = nearestColor.from(colorsObj);
 /**
  * validates a hex color
  * @param   {string} color hex representation of color
- * @return {boolen}
+ * @return  {boolen}
  */
 const validateColor = (color) => (
   /(^[0-9A-F]{6}$)|(^[0-9A-F]{3}$)/i.test(color)
@@ -50,26 +50,28 @@ const validateColor = (color) => (
  * @return  {object}         object containing all nearest colors
  */
 const nameColors = (colorArr) => {
-  let colors = {};
-  colorArr.forEach((hex) => {
+  return colorArr.map((hex) => {
     const closestColor = nc(`#${hex}`);
     const rgb = hexToRgb(hex);
-    colors[`#${hex}`] = {
-      name: closestColor.name,
+    return {
       hex: closestColor.value,
+      name: closestColor.name,
       rgb: closestColor.rgb,
-      isExactMatch: closestColor.rgb.r === rgb.r &&
-                    closestColor.rgb.g === rgb.g &&
-                    closestColor.rgb.b === rgb.b
+      requestedHex: `#${hex}`,
+      // checks if the requested & returned color are identical
+      distance: Math.sqrt(
+        Math.pow(closestColor.rgb.r - rgb.r, 2) +
+        Math.pow(closestColor.rgb.g - rgb.g, 2) +
+        Math.pow(closestColor.rgb.b - rgb.b, 2)
+      ),
     };
-  });
-  return colors;
+  })
 };
 
 const httpRespond = (response, responseObj = {}, statusCode = 200) => {
   response.writeHead(statusCode, {
     'Access-Control-Allow-Origin': '*',
-    'Access-Control-Allow-Methods': 'POST, GET, PUT, DELETE, OPTIONS',
+    'Access-Control-Allow-Methods': 'GET',
     'Access-Control-Allow-Credentials': false,
     'Access-Control-Max-Age': '86400',
     'Access-Control-Allow-Headers': 'X-Requested-With, X-HTTP-Method-Override, Content-Type, Accept',
@@ -82,33 +84,36 @@ const httpRespond = (response, responseObj = {}, statusCode = 200) => {
 const requestHandler = (request, response) => {
   const requestUrl = url.parse(request.url);
   const isAPI = requestUrl.pathname.indexOf(baseUrl) !== -1;
-  let statusCode = 404;
   let colorQuery = request.url.toLowerCase();
       colorQuery = colorQuery.split(baseUrl)[1] || '';
 
-  const urlColorList = colorQuery.split(',');
-  const responseObj = {status: 'Someting went wrong', colors: {}};
+  const urlColorList = colorQuery.split(',').filter((hex) => (hex));
+  const responseObj = {};
   const invalidColors = urlColorList.filter((hex) => (
     !validateColor(hex) && hex
   ));
 
   if (!isAPI) {
-    responseObj.status = 'invalid URL: make sure to provide the API version';
-    statusCode = 404;
+    responseObj.error = {
+      status: 404,
+      message: 'invalid URL: make sure to provide the API version',
+    };
   } else if (!urlColorList[0]) {
-    responseObj.status = `no color(s) provided, returning all the ${colors.length} colors`;
     responseObj.colors = colors;
-    statusCode = 200;
   } else if (invalidColors.length) {
-    responseObj.status = `'${invalidColors.join(', ')}' is not a valid HEX color`;
-    statusCode = 404;
+    responseObj.error = {
+      status: 404,
+      message: `'${invalidColors.join(', ')}' is not a valid HEX color`,
+    };
   } else if (!invalidColors.length && isAPI) {
-    responseObj.status = `names for '${urlColorList.join(', ')}' returned`;
     responseObj.colors = nameColors(urlColorList);
-    statusCode = 200;
   }
 
-  httpRespond(response, responseObj, statusCode);
+  httpRespond(
+    response,
+    responseObj,
+    responseObj.error ? responseObj.error.status : 200
+  );
 };
 
 const server = http.createServer(requestHandler);
