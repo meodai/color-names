@@ -3,6 +3,7 @@
   "version": "0.0.0-development",
   "description": "long list of color names",
   "main": "dist/colornames.json",
+  "browser": "dist/colornames.umd.js",
   "scripts": {
     "commit": "git-cz",
     "get-new-colors": "curl 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQube6Y0wHyEtJnjg0eU3N7VseoxVnD4L9uDqvWZdl_tzzrHDVN10IPP7cdFipX8j70atNMLfPCB0Q6/pub?gid=40578722&single=true&output=csv' -o src/colornames.csv",

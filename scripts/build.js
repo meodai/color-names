@@ -57,16 +57,22 @@ if (isTestRun) {
 
 // create JS related files
 const JSONExportString = JSON.stringify(colorsSrc.entires);
-const jsExportString = `module.exports = ${JSONExportString};`;
 
 fs.writeFileSync(
   path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.json`),
   JSONExportString
 );
 
+// gets UMD template
+const umdTpl = fs.readFileSync(
+  path.normalize(__dirname + '/umd.js.tpl'),
+  'utf8'
+).toString();
+
+// create UMD
 fs.writeFileSync(
-  path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.js`),
-  jsExportString
+  path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.umd.js`),
+  umdTpl.replace('"{{COLORS}}"', JSONExportString)
 );
 
 // create foreign formats
