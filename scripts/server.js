@@ -89,7 +89,9 @@ const httpRespond = (response, responseObj = {}, statusCode = 200) => {
 const requestHandler = (request, response) => {
   const requestUrl = url.parse(request.url);
   const isAPI = requestUrl.pathname.indexOf(baseUrl) !== -1;
+  const search = requestUrl.search || '';
   let colorQuery = request.url.toLowerCase();
+      colorQuery = colorQuery.replace(requestUrl.search, '');
       colorQuery = colorQuery.split(baseUrl)[1] || '';
 
   const urlColorList = colorQuery.split(',').filter((hex) => (hex));
