@@ -155,6 +155,7 @@ See [package.json](package.json#L6) for more.
 - [Jason Wilson](//github.com/SgiobairOg) Manual Merging of some lists
 - [Inês João](https://www.inesjoao.me/) Mostly Portuguese names
 - [Nirazul](//github.com/Nirazul) Name Creator & Tooling
+- [Nick Niles](http://nickniles.com/) Name Creator
 - [Metafizzy](https://metafizzy.co/) Logo Sponsor 💖
 
 ## Disclaimer 👮🏾‍
