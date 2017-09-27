@@ -2,6 +2,7 @@ const http = require('http');
 const url = require('url');
 const fs = require('fs');
 const zlib = require('zlib');
+const lib = require('./lib.js');
 const nearestColor = require('../node_modules/nearest-color/nearestColor.js');
 const colors = JSON.parse(
   fs.readFileSync(__dirname + '/../dist/colornames.json', 'utf8')
@@ -29,10 +30,13 @@ const hexToRgb = (hex) => {
 const colorsObj = {};
 
 colors.forEach((c) => {
+  const rgb =hexToRgb(c.hex);
   // populates object needed for nearestColor()
   colorsObj[c.name] = c.hex;
   // transform hex to RGB
-  c.rgb = hexToRgb(c.hex);
+  c.rgb = rgb;
+  //
+  c.luminance = lib.luminance(rgb);
 });
 
 const nc = nearestColor.from(colorsObj);
@@ -59,6 +63,7 @@ const nameColors = (colorArr) => {
       name: closestColor.name,
       rgb: closestColor.rgb,
       requestedHex: `#${hex}`,
+      luminance: lib.luminance(closestColor.rgb),
       // checks if the requested & returned color are identical
       distance: Math.sqrt(
         Math.pow(closestColor.rgb.r - rgb.r, 2) +
