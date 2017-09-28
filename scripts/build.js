@@ -142,7 +142,7 @@ function showLog() {
     console.log('*-------------------------*');
   });
   if (errorLevel) {
-    throw `⚠ failed because of ${errors.length} errors ⚠`;
+    throw `⚠ failed because of errors above ⚠`;
   }
 }
 
