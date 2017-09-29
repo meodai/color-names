@@ -15,7 +15,7 @@ A handpicked list of __16706__ unique color names from [various sources](#source
 > The names of color function like a thread attached to a frightfully slender needle, capable of stitching together our most delicate emotions and memories. When the needle hits the target, we feel either pleasure or emathy. **Kenya Hara – White**
 
 ## About 📋
-The aim of this project is to create as large a list as possible of color names. We've merged various [lists](#sources-), modified the names when there were duplicates with different hex values, and shifted the colors a bit when there were identical colors with different names.
+The aim of this project is to create as large a list of color names as possible. We've merged various [lists](#sources-), modified the names when there were duplicates with different hex values, and shifted the colors a bit when there were identical colors with different names.
 
 ### Submit a color [via form 🌈](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform) / or [twitter 🐦](https://codepen.io/meodai/full/ZXQzLb/)
 Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute.
@@ -24,7 +24,9 @@ Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute.
 (~__0.0010%__ of all RGB Colors)
 
 ### [Color distribution](https://codepen.io/meodai/full/zdgXJj/) 🛰
-When coming up with new color names, it is vital to know what spots in a certain color-space are crowded and where there is still room for new colors. For example; Our API returns the closest `RGB` color to a given `HEX` value. To avoid that to many colors snap to the same name, we aim to distribute the colors evenly in the color space: [Visualization](https://codepen.io/meodai/full/zdgXJj/) PS: you can choose between different color spaces on the bottom right.
+When coming up with new color names, it is vital to know what spots in a certain color-space are crowded and where there is still room for new colors. For example: Our API returns the closest `RGB` color to a given `HEX` value. To avoid too many colors snapping to the same name, we aim to distribute the colors evenly in the color space: [Visualization](https://codepen.io/meodai/full/zdgXJj/)
+
+PS: You can choose between different color spaces on the bottom right.
 
 ## Usage 📖
 ### Installation Node.js 📦
@@ -97,7 +99,7 @@ nearestColorName('#f1c1d1'); // => Fairy Tale
 **Note**: In this example we are using [nearest-color](https://github.com/dtao/nearest-color).
 it is not the most accurate method, but by far the quickest since it looks for
 the nearest RGB neighbor. If you are looking for something visually more accurate, you
-might use a library returning the color with the closest [DeltaE](https://github.com/zschuessler/DeltaE)
+can use a library returning the color with the closest [DeltaE](https://github.com/zschuessler/DeltaE)
 based on the Lab color-space.
 
 ### Building 🔨
@@ -142,5 +144,5 @@ See [package.json](package.json#L6) for more.
 - [Metafizzy](https://metafizzy.co/) Logo Sponsor 💖
 
 ## Disclaimer 👮🏾‍
-In the process we try to remove all names that are offensive or racist, as well as protect brandnames.
-As some of the color names come from other lists, it might happen that some bad ones slip in. [Please report them](https://github.com/meodai/color-names/issues), they will be removed as quickly as possible.
+In the process we try to remove all names that are offensive or racist, as well as protected brandnames.
+As some of the color names come from other lists, some bad ones might slip in. [Please report them](https://github.com/meodai/color-names/issues), they will be removed as quickly as possible.
