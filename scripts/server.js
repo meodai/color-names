@@ -30,7 +30,7 @@ const hexToRgb = (hex) => {
 const colorsObj = {};
 
 colors.forEach((c) => {
-  const rgb =hexToRgb(c.hex);
+  const rgb = hexToRgb(c.hex);
   // populates object needed for nearestColor()
   colorsObj[c.name] = c.hex;
   // transform hex to RGB
