@@ -95,5 +95,31 @@ module.exports = {
       Math.pow(0.587 * rgb.g, 2) +
       Math.pow(0.114 * rgb.b, 2)
     )
-  }
+  },
+
+  /**
+   * disassembles a HEX color to its RGB components
+   * @param   {string} hex hex color representatin
+   * @return  {object}     {r,g,b}
+   */
+  hexToRgb: (hex) => {
+    const int = parseInt(hex.replace('#', ''), 16);
+    return {
+      r: (int >> 16) & 255,
+      g: (int >> 8) & 255,
+      b: int & 255
+    };
+  },
+
+  /**
+   * calculates the distabce between two RGB colors
+   * @param {object} rgb1 object containing r,g and b properties
+   * @param {object} rgb2 object containing r,g and b properties
+   * @return {int} distance
+   */
+  distance: (rgb1, rgb2) => (Math.sqrt(
+    Math.pow(rgb1.r - rgb2.r, 2) +
+    Math.pow(rgb1.g - rgb2.g, 2) +
+    Math.pow(rgb1.b - rgb2.b, 2)
+  ))
 };
