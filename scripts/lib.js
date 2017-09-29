@@ -89,13 +89,11 @@ module.exports = {
   },
 
   // return HSP luminance http://alienryderflex.com/hsp.html
-  luminance: (rgb) => {
-    return Math.sqrt(
+  luminance: (rgb) => (Math.sqrt(
       Math.pow(0.299 * rgb.r, 2) +
       Math.pow(0.587 * rgb.g, 2) +
       Math.pow(0.114 * rgb.b, 2)
-    )
-  },
+  )),
 
   /**
    * disassembles a HEX color to its RGB components
