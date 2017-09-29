@@ -1,6 +1,6 @@
 # __16706__ color-names
 
-<img align="right" height="200" width="200" src="https://meodai.github.io/color-names/logo/cockatoo-fill.svg">
+<img align="right" height="222" width="222" src="https://meodai.github.io/color-names/logo/cockatoo-fill.svg">
 
 [![GitHub release](https://img.shields.io/github/release/meodai/color-names.svg)](https://github.com/meodai/color-names/)
 [![npm version](https://img.shields.io/npm/v/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
@@ -21,7 +21,7 @@ The aim of this project is to create as large a list as possible of color names.
 Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute.
 
 ### color count: __16706__ 🎉
-(~__0.00101%__ of all RGB Colors)
+(~__0.0010%__ of all RGB Colors)
 
 ### [Color distribution](https://codepen.io/meodai/full/zdgXJj/) 🛰
 When coming up with new color names, it is vital to know what spots in a certain color-space are crowded and where there is still room for new colors. For example; Our API returns the closest `RGB` color to a given `HEX` value. To avoid that to many colors snap to the same name, we aim to distribute the colors evenly in the color space: [Visualization](https://codepen.io/meodai/full/zdgXJj/) PS: you can choose between different color spaces on the bottom right.
