@@ -125,9 +125,13 @@ const readme = fs.readFileSync(
 fs.writeFileSync(
   path.normalize(`${baseFolder}${readmeFileName}`),
   readme.replace(/__\d+__/g, `__${colorsSrc.entires.length}__`)
-  .replace(/\d+-colors-orange/,`${colorsSrc.entires.length}-colors-orange`)
-  .replace(/__\d+(\.\d+)?%__/, `__${(colorsSrc.entires.length / (255 * 255 * 255)).toFixed(4)}%__`),
-  'utf8'
+  .replace(
+    /\d+-colors-orange/,
+    `${colorsSrc.entires.length}-colors-orange`
+  ).replace(
+    /__\d+(\.\d+)?%__/,
+    `__${(colorsSrc.entires.length / (255 * 255 * 255)).toFixed(4)}%__`
+  ),'utf8'
 );
 
 /**
@@ -155,10 +159,9 @@ function showLog() {
  */
 function log(key, value, message, errorLevel = 1) {
   const error = {};
-
   // looks for the original item that caused the error
   error.entries = colorsSrc.entires.filter((entry) => {
-      return entry[key] === value;
+    return entry[key] === value;
   });
 
   error.message = message;
