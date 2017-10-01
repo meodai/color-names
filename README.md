@@ -44,14 +44,15 @@ https://color-names.herokuapp.com/v1/{{hexvalue without the #}},{{more comma sep
 #### Single Color
 `curl` [https://color-names.herokuapp.com/v1/212121](https://color-names.herokuapp.com/v1/212121)
 
-```json
+```javascript
 {
   "colors": [{
     "name": "Lead",
     "hex": "#212121",
     "rgb": {"r":33, "g":33, "b":33},
     "distance": 0, // its an exact match
-    "requestedHex": "#212121"
+    "luminance": 22.062320231562225,
+    "requestedHex": "#212121",
   }]
 }
 ```
