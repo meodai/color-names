@@ -37,7 +37,7 @@ or `yarn add color-name-list`
 
 ### CDN 🌍 [JSON](https://unpkg.com/color-name-list/dist/colornames.json) / [CSV](https://unpkg.com/color-name-list/dist/colornames.csv) / [YML](https://unpkg.com/color-name-list/dist/colornames.yaml) / [JS](https://unpkg.com/color-name-list/dist/colornames.umd.js)
 
-### API (v1) 🃏
+### API 🃏
 ```url
 https://color-names.herokuapp.com/v1/{{hexvalue without the #}},{{more comma separated values}}
 ```
