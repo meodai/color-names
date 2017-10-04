@@ -18,7 +18,7 @@ A handpicked list of __16706__ unique color names from [various sources](#source
 The aim of this project is to create as large a list of color names as possible. We've merged various [lists](#sources-), modified the names when there were duplicates with different hex values, and shifted the colors a bit when there were identical colors with different names.
 
 ### Submit a color [via form 🌈](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform) / or [twitter 🐦](https://codepen.io/meodai/full/ZXQzLb/)
-Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute.
+Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute!
 
 ### color count: __16706__ 🎉
 (~__0.0010%__ of all RGB Colors)
