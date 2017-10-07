@@ -1,6 +1,6 @@
 {
   "name": "color-name-list",
-  "version": "0.0.0-development",
+  "version": "3.8.2-development",
   "description": "long list of color names",
   "main": "dist/colornames.json",
   "browser": "dist/colornames.umd.js",
