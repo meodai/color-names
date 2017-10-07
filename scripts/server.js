@@ -25,6 +25,7 @@ const responseHeaderObj = {
 // object containing the name:hex pairs for nearestColor()
 const rgbColorsArr = [];
 
+// prepare color array
 colors.forEach((c) => {
   const rgb = lib.hexToRgb(c.hex);
   // populates array needed for ClosestVector()
@@ -68,6 +69,8 @@ const nameColors = (colorArr) => {
       distance: closestColor.distance,
     };
   });
+
+  // closest.clearCache()
 };
 
 /**
