@@ -3,7 +3,7 @@ const url = require('url');
 const fs = require('fs');
 const zlib = require('zlib');
 const lib = require('./lib.js');
-const nearestColor = require('../node_modules/nearest-color/nearestColor.js');
+const ClosestVector = require('../node_modules/closestvector/index.umd.js');
 const colors = JSON.parse(
   fs.readFileSync(__dirname + '/../dist/colornames.json', 'utf8')
 );
@@ -23,19 +23,20 @@ const responseHeaderObj = {
 }
 
 // object containing the name:hex pairs for nearestColor()
-const colorsObj = {};
+const rgbColorsArr = [];
 
 colors.forEach((c) => {
   const rgb = lib.hexToRgb(c.hex);
-  // populates object needed for nearestColor()
-  colorsObj[c.name] = c.hex;
+  // populates array needed for ClosestVector()
+  rgbColorsArr.push([rgb.r, rgb.g, rgb.b]);
   // transform hex to RGB
   c.rgb = rgb;
   // calculate luminancy for each color
   c.luminance = lib.luminance(rgb);
 });
 
-const nc = nearestColor.from(colorsObj);
+
+const closest = new ClosestVector(rgbColorsArr);
 /**
  * validates a hex color
  * @param   {string} color hex representation of color
@@ -52,17 +53,19 @@ const validateColor = (color) => (
  */
 const nameColors = (colorArr) => {
   return colorArr.map((hex) => {
-    // get the closest named colors
-    const closestColor = nc(`#${hex}`);
     // calculate RGB values for passed color
     const rgb = lib.hexToRgb(hex);
+
+    // get the closest named colors
+    const closestColor = closest.get([rgb.r, rgb.g, rgb.b]);
+    const color = colors[closestColor.closestIndex];
     return {
-      hex: closestColor.value,
-      name: closestColor.name,
-      rgb: closestColor.rgb,
+      hex: color.value,
+      name: color.name,
+      rgb: color.rgb,
       requestedHex: `#${hex}`,
-      luminance: lib.luminance(closestColor.rgb),
-      distance: lib.distance(closestColor.rgb, rgb),
+      luminance: color.luminance,
+      distance: closestColor.distance,
     };
   })
 };
