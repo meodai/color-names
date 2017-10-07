@@ -60,7 +60,7 @@ const nameColors = (colorArr) => {
     const closestColor = closest.get([rgb.r, rgb.g, rgb.b]);
     const color = colors[closestColor.closestIndex];
     return {
-      hex: color.value,
+      hex: color.hex,
       name: color.name,
       rgb: color.rgb,
       requestedHex: `#${hex}`,
