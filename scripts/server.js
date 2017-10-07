@@ -141,6 +141,7 @@ server.listen(port, '0.0.0.0', (error) => {
   if (error) {
     return console.log(`something terrible happened: ${error}`);
   }
+
   console.log(`Server running and listening on port ${port}`);
   console.log(`http://localhost:${port}/${baseUrl}`);
 });
