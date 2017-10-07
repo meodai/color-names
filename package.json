@@ -30,12 +30,12 @@
   },
   "homepage": "https://github.com/meodai/color-names#readme",
   "devDependencies": {
+    "closestvector": "^0.1.1",
     "commitizen": "^2.9.6",
     "cz-conventional-changelog": "^2.0.0",
     "eslint": "^4.7.2",
     "eslint-config-google": "^0.9.1",
     "ghooks": "^2.0.0",
-    "nearest-color": "^0.4.0",
     "semantic-release": "^8.0.3"
   },
   "engines": {
