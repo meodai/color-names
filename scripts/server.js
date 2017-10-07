@@ -20,7 +20,7 @@ const responseHeaderObj = {
   'Access-Control-Allow-Headers': 'X-Requested-With, X-HTTP-Method-Override, Content-Type, Accept',
   'Content-Encoding': 'gzip',
   'Content-Type': 'application/json; charset=utf-8',
-}
+};
 
 // object containing the name:hex pairs for nearestColor()
 const rgbColorsArr = [];
@@ -67,7 +67,7 @@ const nameColors = (colorArr) => {
       luminance: color.luminance,
       distance: closestColor.distance,
     };
-  })
+  });
 };
 
 /**
