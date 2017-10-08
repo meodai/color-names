@@ -3,7 +3,7 @@ const url = require('url');
 const fs = require('fs');
 const zlib = require('zlib');
 const lib = require('./lib.js');
-const ClosestVector = require('../node_modules/closestvector/index.umd.js');
+const ClosestVector = require('../node_modules/closestvector/.');
 const colors = JSON.parse(
   fs.readFileSync(__dirname + '/../dist/colornames.json', 'utf8')
 );
@@ -59,7 +59,7 @@ const nameColors = (colorArr) => {
 
     // get the closest named colors
     const closestColor = closest.get([rgb.r, rgb.g, rgb.b]);
-    const color = colors[closestColor.closestIndex];
+    const color = colors[closestColor.index];
     return {
       hex: color.hex,
       name: color.name,
