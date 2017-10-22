@@ -10805,6 +10805,9 @@
   name:"Creamy Mint"
   hex:"#aaffaa"
 -
+  name:"Creamy Peach"
+  hex:"#f4a384"
+-
   name:"Creamy Strawberry"
   hex:"#fcd2df"
 -
@@ -13546,6 +13549,9 @@
 -
   name:"Dry Hemlock"
   hex:"#909373"
+-
+  name:"Dry Highlighter Green"
+  hex:"#2ba727"
 -
   name:"Dry Lichen"
   hex:"#c7d9cc"
@@ -20222,8 +20228,32 @@
   name:"Highlighter"
   hex:"#ffe536"
 -
+  name:"Highlighter Blue"
+  hex:"#3aafdc"
+-
   name:"Highlighter Green"
   hex:"#1bfc06"
+-
+  name:"Highlighter Lavender"
+  hex:"#85569c"
+-
+  name:"Highlighter Lilac"
+  hex:"#d72e83"
+-
+  name:"Highlighter Orange"
+  hex:"#f39539"
+-
+  name:"Highlighter Pink"
+  hex:"#ea5a79"
+-
+  name:"Highlighter Red"
+  hex:"#e94f58"
+-
+  name:"Highlighter Torquoise"
+  hex:"#009e6c"
+-
+  name:"Highlighter Yellow"
+  hex:"#f1e740"
 -
   name:"Hihada Brown"
   hex:"#752e23"
@@ -21010,6 +21040,9 @@
 -
   name:"Hint of Pensive"
   hex:"#dddce1"
+-
+  name:"Hint of Peppermint"
+  hex:"#90cbaa"
 -
   name:"Hint of Perk Up"
   hex:"#e8dfd8"
@@ -26369,6 +26402,9 @@
   name:"Lilac Grey"
   hex:"#9896a4"
 -
+  name:"Lilac Haze"
+  hex:"#d5b6d4"
+-
   name:"Lilac Hint"
   hex:"#d0d0da"
 -
@@ -29050,6 +29086,9 @@
 -
   name:"Milky Way"
   hex:"#e8f4f7"
+-
+  name:"Milky Yellow"
+  hex:"#f8dd74"
 -
   name:"Mill Creek"
   hex:"#876e59"
@@ -34540,6 +34579,9 @@
 -
   name:"Pink Bite"
   hex:"#e936a7"
+-
+  name:"Pink Blush"
+  hex:"#f4acb6"
 -
   name:"Pink Booties"
   hex:"#efe1e4"
@@ -45739,6 +45781,9 @@
 -
   name:"Touch of Tan"
   hex:"#eed9d1"
+-
+  name:"Touch of Turquoise"
+  hex:"#a1d4cf"
 -
   name:"Touchable"
   hex:"#ecdfd8"
