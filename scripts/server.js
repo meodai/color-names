@@ -66,7 +66,11 @@ const nameColors = (colorArr) => {
       rgb: color.rgb,
       requestedHex: `#${hex}`,
       luminance: color.luminance,
-      distance: closestColor.distance,
+      distance: Math.sqrt(
+        Math.pow(color.rgb.r - rgb.r, 2) +
+        Math.pow(color.rgb.g - rgb.g, 2) +
+        Math.pow(color.rgb.b - rgb.b, 2)
+      ),
     };
   });
 
