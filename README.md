@@ -77,29 +77,17 @@ console.log(someColor.hex); // => #16161d
 ```
 
 #### Closest Named Color
-Since there are 16581375 possible RGB colors, you might use a library to help you
-find the the closest named color.
+Since there are 16581375 possible RGB colors, you might use a library such as [color-octree](https://github.com/caub/color-octree) to help you find the the closest named color.
 
-```javascript
+```js
 import namedColors from 'color-name-list';
-import nearestColor from 'nearest-color';
+import * as colorOctree from 'color-octree';
 
-// create Object needed for
-let colors = {};
-
-namedColors.forEach(color => {
-  colors[color.name] = color.hex
-});
-
-nearestColorName = nearestColor.from(colors);
-
-// get closest named color
-nearestColorName('#f1c1d1'); // => Fairy Tale
+colorOctree.add(namedColors); // .add expects an array of {name, hex} objects, like color-name-list provides
+console.log(colorOctree.closest('#f1c1d1')); // => Fairy Tale
 ```
 
-**Note**: In this example we are using [nearest-color](https://github.com/dtao/nearest-color).
-it is not the most accurate method, but by far the quickest since it looks for
-the nearest RGB neighbor. If you are looking for something visually more accurate, you
+**Note**: If you are looking for something visually more accurate, you
 can use a library returning the color with the closest [DeltaE](https://github.com/zschuessler/DeltaE)
 based on the Lab color-space.
 
