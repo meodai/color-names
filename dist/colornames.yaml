@@ -4268,6 +4268,9 @@
   name:"Black Pudding"
   hex:"#a44a56"
 -
+  name:"Black Raspberry"
+  hex:"#16110d"
+-
   name:"Black River Falls"
   hex:"#343e54"
 -
@@ -7850,6 +7853,9 @@
   name:"Cargo River"
   hex:"#cfcdbb"
 -
+  name:"Caribbean Blue"
+  hex:"#1ac1dd"
+-
   name:"Caribbean Cruise"
   hex:"#3f9da9"
 -
@@ -9272,14 +9278,47 @@
   name:"Christina Brown"
   hex:"#009094"
 -
+  name:"Christmas Blue"
+  hex:"#2a8fbd"
+-
+  name:"Christmas Brown"
+  hex:"#5d2b2c"
+-
+  name:"Christmas Gold"
+  hex:"#caa906"
+-
+  name:"Christmas Green"
+  hex:"#3c8d0d"
+-
   name:"Christmas Holly"
   hex:"#68846a"
 -
   name:"Christmas Ivy"
   hex:"#477266"
 -
+  name:"Christmas Orange"
+  hex:"#d56c2b"
+-
+  name:"Christmas Pink"
+  hex:"#e34285"
+-
+  name:"Christmas Purple"
+  hex:"#4d084b"
+-
+  name:"Christmas Red"
+  hex:"#b01b2e"
+-
+  name:"Christmas Silver"
+  hex:"#e1dfe0"
+-
+  name:"Christmas Yellow"
+  hex:"#fef200"
+-
   name:"Christobel"
   hex:"#d4c5ba"
+-
+  name:"Chrome Aluminum"
+  hex:"#a8a9ad"
 -
   name:"Chrome Chalice"
   hex:"#cdc8d2"
@@ -12865,6 +12904,9 @@
 -
   name:"Delicate Daisy"
   hex:"#e9edc0"
+-
+  name:"Delicate Girl Blue"
+  hex:"#6ab2ca"
 -
   name:"Delicate Mauve"
   hex:"#c5b5ca"
@@ -33635,6 +33677,9 @@
   name:"Paspalum Grass"
   hex:"#b9bd97"
 -
+  name:"Pass Time Blue"
+  hex:"#5d98b3"
+-
   name:"Passion Flower"
   hex:"#6d5698"
 -
@@ -38138,6 +38183,9 @@
   name:"Revered"
   hex:"#a78faf"
 -
+  name:"Reversed Grey"
+  hex:"#080808"
+-
   name:"Revival"
   hex:"#5f81a4"
 -
@@ -39634,6 +39682,9 @@
 -
   name:"Sambuca"
   hex:"#3b2e25"
+-
+  name:"Sambucus"
+  hex:"#17182b"
 -
   name:"Samoan Sun"
   hex:"#fbc85f"
@@ -42667,6 +42718,9 @@
 -
   name:"Space Cadet"
   hex:"#1d2951"
+-
+  name:"Space Grey"
+  hex:"#110022"
 -
   name:"Space Invader"
   hex:"#139d08"
