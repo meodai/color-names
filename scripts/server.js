@@ -77,6 +77,19 @@ const nameColors = (colorArr) => {
   // closest.clearCache()
 };
 
+const parseSearchString = (searchStr) => {
+  const objURL = {};
+
+  searchStr.replace(
+    new RegExp('([^?=&]+)(=([^&]*))?', 'g'),
+    ($0, $1, $2, $3) => {
+      objURL[$1] = $3;
+    }
+  );
+
+  return objURL;
+};
+
 /**
  * responds to the client
  * @param {object} response      server response object
@@ -113,6 +126,7 @@ const requestHandler = (request, response) => {
   }
 
   const search = requestUrl.search || '';
+
   let colorQuery = request.url.replace(requestUrl.search, '')
                    // splits the base url from the everything
                    // after the API URL
