@@ -12,7 +12,7 @@
 
 A handpicked list of __16898__ unique color names from [various sources](#sources-) and thousands of user submissions. [Try it yourself](http://codepen.io/meodai/full/mEvZRx/) or read [the full list](https://codepen.io/meodai/full/VMpNdQ/).
 
-> The names of color function like a thread attached to a frightfully slender needle, capable of stitching together our most delicate emotions and memories. When the needle hits the target, we feel either pleasure or emathy. **Kenya Hara – White**
+> The names of color function like a thread attached to a frightfully slender needle, capable of stitching together our most delicate emotions and memories. When the needle hits the target, we feel either pleasure or empathy. **Kenya Hara – White**
 
 ## About 📋
 The aim of this project is to create as large a list of color names as possible. We've merged various [lists](#sources-), modified the names when there were duplicates with different hex values, and shifted the colors a bit when there were identical colors with different names.
@@ -145,5 +145,5 @@ See [package.json](package.json#L6) for more.
 - [Metafizzy](https://metafizzy.co/) Logo Sponsor 💖
 
 ## Disclaimer 👮🏾‍
-In the process we try to remove all names that are offensive or racist, as well as protected brandnames.
+In the process we try to remove all names that are offensive or racist, as well as protected brand names.
 As some of the color names come from other lists, some bad ones might slip in. [Please report them](https://github.com/meodai/color-names/issues), they will be removed as quickly as possible.
