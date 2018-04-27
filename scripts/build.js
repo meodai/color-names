@@ -130,7 +130,7 @@ fs.writeFileSync(
     `${colorsSrc.entires.length}-colors-orange`
   ).replace(
     /__\d+(\.\d+)?%__/,
-    `__${(colorsSrc.entires.length / (255 * 255 * 255)).toFixed(4)}%__`
+    `__${((colorsSrc.entires.length / (255 * 255 * 255)) * 100).toFixed(2)}%__`
   ),'utf8'
 );
 
