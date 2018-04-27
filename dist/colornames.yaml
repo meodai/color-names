@@ -2447,6 +2447,9 @@
   name:"Australian Mint"
   hex:"#eff8aa"
 -
+  name:"Australien"
+  hex:"#cc9911"
+-
   name:"Austrian Ice"
   hex:"#dee6e7"
 -
@@ -3262,6 +3265,9 @@
 -
   name:"Bassinet"
   hex:"#d3c1cb"
+-
+  name:"Bastard-amber"
+  hex:"#ffcc88"
 -
   name:"Bastille"
   hex:"#2c2c32"
@@ -13688,8 +13694,11 @@
   name:"Dragonlord Purple"
   hex:"#6241c7"
 -
-  name:"Drake Tooth ?"
+  name:"Drake Tooth"
   hex:"#bbb0a4"
+-
+  name:"Drake’s Neck"
+  hex:"#31668a"
 -
   name:"Drakenhof Nightshade"
   hex:"#1f5da0"
@@ -13807,6 +13816,9 @@
 -
   name:"Druid Green"
   hex:"#427131"
+-
+  name:"Drunk-Tank Pink"
+  hex:"#dd11dd"
 -
   name:"Dry Bone"
   hex:"#eadfce"
@@ -14362,6 +14374,9 @@
 -
   name:"Ebony Wood"
   hex:"#2c3227"
+-
+  name:"Eburnean"
+  hex:"#ffffee"
 -
   name:"Eccentricity"
   hex:"#968a9f"
@@ -17848,6 +17863,9 @@
 -
   name:"Gingerbread House"
   hex:"#ca994e"
+-
+  name:"Gingerline"
+  hex:"#ffdd11"
 -
   name:"Ginnezumi"
   hex:"#97867c"
@@ -22666,6 +22684,9 @@
 -
   name:"Inca Yellow"
   hex:"#ffd301"
+-
+  name:"Incarnadine"
+  hex:"#aa0022"
 -
   name:"Incense"
   hex:"#af9a7e"
@@ -27559,6 +27580,9 @@
 -
   name:"Lusty Lips"
   hex:"#d5174e"
+-
+  name:"Lusty-Gallant"
+  hex:"#ffcccc"
 -
   name:"Luxor Gold"
   hex:"#ab8d3f"
@@ -34550,6 +34574,9 @@
   name:"Peruvian Soil"
   hex:"#733d1f"
 -
+  name:"Pervenche"
+  hex:"#0099ee"
+-
   name:"Pesto"
   hex:"#c1b23e"
 -
@@ -39860,6 +39887,9 @@
   name:"Sandy Toes"
   hex:"#c7b8a4"
 -
+  name:"Sang de Boeuf"
+  hex:"#771100"
+-
   name:"Sango Pink"
   hex:"#f5b1aa"
 -
@@ -39931,6 +39961,9 @@
 -
   name:"Sarawak White Pepper"
   hex:"#f4eeba"
+-
+  name:"Sarcoline"
+  hex:"#ffddaa"
 -
   name:"Sardinia Beaches"
   hex:"#28a4cb"
@@ -41777,6 +41810,9 @@
   name:"Sinner's City"
   hex:"#fee5cb"
 -
+  name:"Sinoper Red"
+  hex:"#bb1111"
+-
   name:"Sinopia"
   hex:"#cb410b"
 -
@@ -42055,6 +42091,9 @@
 -
   name:"Smalt Blue"
   hex:"#496267"
+-
+  name:"Smaragdine"
+  hex:"#4a9976"
 -
   name:"Smashed Grape"
   hex:"#8775a1"
@@ -43405,6 +43444,9 @@
 -
   name:"Stand Out"
   hex:"#7f8596"
+-
+  name:"Standing Waters"
+  hex:"#005599"
 -
   name:"Stanford Green"
   hex:"#658f7c"
@@ -47075,9 +47117,6 @@
   name:"UFO Green"
   hex:"#3cd070"
 -
-  name:"Ugly Blue"
-  hex:"#31668a"
--
   name:"Ugly Brown"
   hex:"#7d7103"
 -
@@ -47647,6 +47686,9 @@
 -
   name:"Verdigris Foncé"
   hex:"#62603e"
+-
+  name:"Verditer"
+  hex:"#00bbaa"
 -
   name:"Verdun Green"
   hex:"#48531a"
