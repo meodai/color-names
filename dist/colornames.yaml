@@ -251,6 +251,9 @@
   name:"Affair"
   hex:"#745085"
 -
+  name:"Affen Turquoise"
+  hex:"#aaffff"
+-
   name:"Affinity"
   hex:"#fed2a5"
 -
@@ -358,6 +361,9 @@
 -
   name:"Aged Plastic Casing"
   hex:"#fffa86"
+-
+  name:"Aged Purple"
+  hex:"#a442a0"
 -
   name:"Aged Teak"
   hex:"#7a4134"
@@ -1472,6 +1478,9 @@
   name:"Apeland"
   hex:"#8a843b"
 -
+  name:"Aphrodite's Pearls"
+  hex:"#eeffff"
+-
   name:"Apium"
   hex:"#b5d0a2"
 -
@@ -1483,6 +1492,9 @@
 -
   name:"Apollo Landing"
   hex:"#e5e5e1"
+-
+  name:"Apollo's White"
+  hex:"#ddffff"
 -
   name:"Appalachian Forest"
   hex:"#848b80"
@@ -1946,6 +1958,9 @@
   name:"Ardósia"
   hex:"#232f2c"
 -
+  name:"Ares Red"
+  hex:"#dd2200"
+-
   name:"Argan Oil"
   hex:"#8b593e"
 -
@@ -2062,6 +2077,9 @@
 -
   name:"Artemis"
   hex:"#d2a96e"
+-
+  name:"Artemis Silver "
+  hex:"#ddddee"
 -
   name:"Artesian Pool"
   hex:"#a6bee1"
@@ -2196,7 +2214,7 @@
   hex:"#8b818c"
 -
   name:"Āsmānī Sky"
-  hex:"#aaffff"
+  hex:"#88ddbb"
 -
   name:"Aspara"
   hex:"#70b2cc"
@@ -2320,6 +2338,9 @@
 -
   name:"Ateneo Blue"
   hex:"#003a6c"
+-
+  name:"Athena Blue"
+  hex:"#66ddff"
 -
   name:"Athens Grey"
   hex:"#dcdddd"
@@ -8651,6 +8672,9 @@
   name:"Charleston Green"
   hex:"#232b2b"
 -
+  name:"Charlie Brown"
+  hex:"#7d7103"
+-
   name:"Charlie Horse"
   hex:"#948263"
 -
@@ -9105,7 +9129,7 @@
   hex:"#b94047"
 -
   name:"Chinese Silver"
-  hex:"#ddddee"
+  hex:"#dddcef"
 -
   name:"Chinese Tzu"
   hex:"#8fbfbd"
@@ -12977,6 +13001,9 @@
   name:"Demeter"
   hex:"#ecda9e"
 -
+  name:"Demeter Green"
+  hex:"#00cc00"
+-
   name:"Demitasse"
   hex:"#40342b"
 -
@@ -13405,6 +13432,9 @@
 -
   name:"Discreet Orange"
   hex:"#ffad98"
+-
+  name:"Discrete Pink"
+  hex:"#cd7584"
 -
   name:"Discretion"
   hex:"#9f6f62"
@@ -18311,6 +18341,9 @@
   name:"Golden Haze"
   hex:"#fbd897"
 -
+  name:"Golden Hermes"
+  hex:"#ffffbb"
+-
   name:"Golden Hind"
   hex:"#a37111"
 -
@@ -20399,6 +20432,12 @@
   name:"Henna Red"
   hex:"#6e3530"
 -
+  name:"Hephaestus Gold"
+  hex:"#ff9911"
+-
+  name:"Hera Blue"
+  hex:"#7777ee"
+-
   name:"Herald's Trumpet"
   hex:"#ce9f2f"
 -
@@ -20446,6 +20485,9 @@
 -
   name:"Hesperide Apple Gold"
   hex:"#ffe296"
+-
+  name:"Hestia Red"
+  hex:"#ee2200"
 -
   name:"Hexed Lichen"
   hex:"#6e0060"
@@ -30404,6 +30446,9 @@
   name:"Mossy Shade"
   hex:"#7e6c44"
 -
+  name:"Mossy Woods"
+  hex:"#7a9703"
+-
   name:"Mostly Metal"
   hex:"#575e5f"
 -
@@ -35585,6 +35630,9 @@
   name:"Plaster Mix"
   hex:"#ead1a6"
 -
+  name:"Plastic Veggie"
+  hex:"#22ff22"
+-
   name:"Plasticine"
   hex:"#4a623b"
 -
@@ -36148,6 +36196,9 @@
 -
   name:"Poseidon"
   hex:"#123955"
+-
+  name:"Poseidon Jr."
+  hex:"#66eeee"
 -
   name:"Posey Blue"
   hex:"#a5b4c6"
@@ -47147,18 +47198,6 @@
   name:"UFO Green"
   hex:"#3cd070"
 -
-  name:"Ugly Brown"
-  hex:"#7d7103"
--
-  name:"Ugly Green"
-  hex:"#7a9703"
--
-  name:"Ugly Pink"
-  hex:"#cd7584"
--
-  name:"Ugly Purple"
-  hex:"#a442a0"
--
   name:"Uguisu Brown"
   hex:"#645530"
 -
@@ -50713,6 +50752,9 @@
 -
   name:"Zeus Palace"
   hex:"#3c343d"
+-
+  name:"Zeus Purple"
+  hex:"#660077"
 -
   name:"Zeus'Temple"
   hex:"#6c94cd"
