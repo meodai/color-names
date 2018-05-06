@@ -287,6 +287,9 @@
   name:"African Safari"
   hex:"#b16b40"
 -
+  name:"African Sand"
+  hex:"#ccaa88"
+-
   name:"African Violet"
   hex:"#b085b7"
 -
@@ -893,6 +896,9 @@
   name:"Amaranth Red"
   hex:"#d3212d"
 -
+  name:"Amarantha Red"
+  hex:"#cc3311"
+-
   name:"Amaranthine"
   hex:"#5f4053"
 -
@@ -1204,6 +1210,9 @@
 -
   name:"Andorra"
   hex:"#603535"
+-
+  name:"Andrea Blue"
+  hex:"#4477dd"
 -
   name:"Android Green"
   hex:"#a4c639"
@@ -4238,6 +4247,9 @@
   name:"Black Forest"
   hex:"#5e6354"
 -
+  name:"Black Glaze"
+  hex:"#001111"
+-
   name:"Black Green"
   hex:"#384e49"
 -
@@ -6451,6 +6463,9 @@
 -
   name:"Brown Beauty"
   hex:"#4a3832"
+-
+  name:"Brown Beige"
+  hex:"#cc8833"
 -
   name:"Brown Bramble"
   hex:"#53331e"
@@ -9752,6 +9767,9 @@
   name:"Clear Lake Trail"
   hex:"#a3bbda"
 -
+  name:"Clear Orange"
+  hex:"#ee8800"
+-
   name:"Clear Plum"
   hex:"#64005e"
 -
@@ -10675,6 +10693,9 @@
 -
   name:"Cork Bark"
   hex:"#7e6b43"
+-
+  name:"Cork Brown"
+  hex:"#cc8855"
 -
   name:"Corkboard"
   hex:"#9d805d"
@@ -12263,6 +12284,9 @@
   name:"Dark Seafoam Green"
   hex:"#3eaf76"
 -
+  name:"Dark Seagreen"
+  hex:"#666655"
+-
   name:"Dark Secret"
   hex:"#3e5361"
 -
@@ -12940,6 +12964,9 @@
 -
   name:"Deep Wisteria"
   hex:"#443f6f"
+-
+  name:"Deep Yellow"
+  hex:"#ffff33"
 -
   name:"Deepest Sea"
   hex:"#444d56"
@@ -14921,7 +14948,7 @@
   name:"Empress Teal"
   hex:"#10605a"
 -
-  name:"Emptyness"
+  name:"Emptiness"
   hex:"#fcfdfc"
 -
   name:"Emu Egg"
@@ -15905,6 +15932,9 @@
   name:"Fiddlesticks"
   hex:"#bb9fb1"
 -
+  name:"Field Blue"
+  hex:"#4477aa"
+-
   name:"Field Day"
   hex:"#c5e6a4"
 -
@@ -16261,6 +16291,9 @@
 -
   name:"Flat Brown"
   hex:"#754600"
+-
+  name:"Flat Earth"
+  hex:"#aa5533"
 -
   name:"Flat Flesh"
   hex:"#f7d48f"
@@ -16784,6 +16817,9 @@
   name:"Foundation"
   hex:"#f8e8c5"
 -
+  name:"Foundation White"
+  hex:"#eeeeff"
+-
   name:"Fountain Blue"
   hex:"#65adb2"
 -
@@ -16939,6 +16975,9 @@
 -
   name:"French Mauve"
   hex:"#d473d4"
+-
+  name:"French Mirage Blue"
+  hex:"#446688"
 -
   name:"French Oak"
   hex:"#bb9e7c"
@@ -18139,6 +18178,9 @@
 -
   name:"Glorious Gold"
   hex:"#cba956"
+-
+  name:"Glossy Black"
+  hex:"#110011"
 -
   name:"Glossy Grape"
   hex:"#ab92b3"
@@ -22618,6 +22660,9 @@
 -
   name:"Ice Rink"
   hex:"#bbddee"
+-
+  name:"Ice Yellow"
+  hex:"#fefecd"
 -
   name:"Ice-Cold White"
   hex:"#dff0e2"
@@ -27443,6 +27488,9 @@
   name:"London Fog"
   hex:"#a29e92"
 -
+  name:"London Grey"
+  hex:"#666677"
+-
   name:"London Hue"
   hex:"#ae94ab"
 -
@@ -32147,6 +32195,9 @@
   name:"Ochre Brown"
   hex:"#9f7b3e"
 -
+  name:"Ochre Maroon"
+  hex:"#cc7733"
+-
   name:"Ochre Revival"
   hex:"#eec987"
 -
@@ -32227,6 +32278,9 @@
 -
   name:"Oilseed Crops"
   hex:"#c2be0e"
+-
+  name:"Oily Steel"
+  hex:"#99aaaa"
 -
   name:"Oitake Green"
   hex:"#5e644f"
@@ -38565,7 +38619,7 @@
   hex:"#de7a63"
 -
   name:"Rich Gold"
-  hex:"#a15226"
+  hex:"#aa8833"
 -
   name:"Rich Honey"
   hex:"#f9bc7d"
@@ -44795,6 +44849,9 @@
   name:"Super Banana"
   hex:"#fffe71"
 -
+  name:"Super Gold"
+  hex:"#aa8822"
+-
   name:"Super Leaf Brown"
   hex:"#ba5e0f"
 -
@@ -44803,6 +44860,9 @@
 -
   name:"Super Pink"
   hex:"#ce6ba4"
+-
+  name:"Super Silver"
+  hex:"#eeeeee"
 -
   name:"Superman Red"
   hex:"#ff1122"
@@ -46721,8 +46781,23 @@
   name:"Translucent Vision"
   hex:"#e5efd7"
 -
-  name:"Transparent Yellow"
+  name:"Transparent Beige"
   hex:"#f4ecc2"
+-
+  name:"Transparent Blue"
+  hex:"#ddddff"
+-
+  name:"Transparent Green"
+  hex:"#ddffdd"
+-
+  name:"Transparent Orange"
+  hex:"#ffaa66"
+-
+  name:"Transparent Pink"
+  hex:"#ffddee"
+-
+  name:"Transparent Yellow"
+  hex:"#ffeeaa"
 -
   name:"Transtasman"
   hex:"#307d67"
@@ -47143,6 +47218,9 @@
 -
   name:"Turning Oakleaf"
   hex:"#ede1a8"
+-
+  name:"Turquesa"
+  hex:"#448899"
 -
   name:"Turquoise"
   hex:"#06c2ac"
@@ -49465,6 +49543,12 @@
 -
   name:"White Flag"
   hex:"#c8c2c0"
+-
+  name:"White Glaze"
+  hex:"#ddeeee"
+-
+  name:"White Gloss "
+  hex:"#ffeeee"
 -
   name:"White Granite"
   hex:"#c8d1c4"
