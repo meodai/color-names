@@ -2777,9 +2777,6 @@
   name:"Baby Seal"
   hex:"#a1a5a8"
 -
-  name:"Baby Shit Brown"
-  hex:"#ad900d"
--
   name:"Baby Shoes"
   hex:"#005784"
 -
@@ -4654,6 +4651,9 @@
 -
   name:"Bloodletter"
   hex:"#e97451"
+-
+  name:"Bloodline"
+  hex:"#882200"
 -
   name:"Bloodstone"
   hex:"#413431"
@@ -7015,6 +7015,9 @@
 -
   name:"Butter Cookie"
   hex:"#f0e4b2"
+-
+  name:"Butter Cupcake"
+  hex:"#ffdd99"
 -
   name:"Butter Fingers"
   hex:"#fce9ad"
@@ -18092,6 +18095,9 @@
   name:"Glass Bead"
   hex:"#c7bec4"
 -
+  name:"Glass Bull"
+  hex:"#880000"
+-
   name:"Glass Green"
   hex:"#dcdfb0"
 -
@@ -20162,6 +20168,9 @@
   name:"Harbourmaster"
   hex:"#4e536b"
 -
+  name:"Hard Candy"
+  hex:"#ffbbbb"
+-
   name:"Harem Silk"
   hex:"#006383"
 -
@@ -20602,6 +20611,9 @@
 -
   name:"Herbalist"
   hex:"#969e86"
+-
+  name:"Herbery Honey"
+  hex:"#eeee22"
 -
   name:"Here Comes the Sun"
   hex:"#fcdf63"
@@ -26987,6 +26999,9 @@
   name:"Lilac Frost"
   hex:"#e8deea"
 -
+  name:"Lilac Geode"
+  hex:"#bb88ff"
+-
   name:"Lilac Grey"
   hex:"#9896a4"
 -
@@ -28415,6 +28430,9 @@
   name:"Mantle"
   hex:"#96a793"
 -
+  name:"Manure"
+  hex:"#ad900d"
+-
   name:"Manz"
   hex:"#e4db55"
 -
@@ -28805,6 +28823,9 @@
   name:"Mauvewood"
   hex:"#a75d67"
 -
+  name:"Mauvey Nude"
+  hex:"#bb8899"
+-
   name:"Mauvey Pink"
   hex:"#8c8188"
 -
@@ -28888,6 +28909,9 @@
 -
   name:"Mazzone"
   hex:"#b0907c"
+-
+  name:"Mazzy Star"
+  hex:"#bf5bb0"
 -
   name:"McKenzie"
   hex:"#8c6338"
@@ -36076,6 +36100,9 @@
 -
   name:"Poison Purple"
   hex:"#7f01fe"
+-
+  name:"Poisonous Dart"
+  hex:"#77ff66"
 -
   name:"Poker Green"
   hex:"#35654d"
@@ -43703,6 +43730,9 @@
   name:"Squid Hat"
   hex:"#6e2233"
 -
+  name:"Squid Ink Powder"
+  hex:"#001133"
+-
   name:"Squid Pink"
   hex:"#f5b4bd"
 -
@@ -43915,6 +43945,9 @@
 -
   name:"Steel Teal"
   hex:"#5f8a8b"
+-
+  name:"Steel Wool"
+  hex:"#777777"
 -
   name:"Steeple Grey"
   hex:"#827e7c"
@@ -44485,6 +44518,9 @@
 -
   name:"Sugarloaf Brown"
   hex:"#554400"
+-
+  name:"Sugarpills"
+  hex:"#ffddff"
 -
   name:"Sulferic Yellow"
   hex:"#a79f5c"
@@ -47783,6 +47819,9 @@
   name:"Vampire Red"
   hex:"#dd4132"
 -
+  name:"Vampire State Building"
+  hex:"#cc1100"
+-
   name:"Vampiric Shadow"
   hex:"#bfb6aa"
 -
@@ -49783,6 +49822,9 @@
 -
   name:"Wild Hemp"
   hex:"#9d7b74"
+-
+  name:"Wild Honey"
+  hex:"#eecc00"
 -
   name:"Wild Horses"
   hex:"#8d6747"
