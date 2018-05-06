@@ -123,6 +123,7 @@ See [package.json](package.json#L6) for more.
 - [Chinese heavenly creatures colors](https://en.wikipedia.org/wiki/Color_in_Chinese_culture)
 - [Military Paint](http://paintref.com/cgi-bin/colorcodedisplay.cgi?manuf=Military)
 - [Olympian god colors](http://www.hellenicgods.org/colors-associated-with-the-olympian-gods)
+- Model Color Paints: [Vallejo](http://www.danbecker.info/minis/miniother/PaintCharts/VallejoModelColor.html)
 - Non English Transliterations: [Japanese](https://en.wikipedia.org/wiki/Traditional_colors_of_Japan), [Mandarin](http://www.fluentu.com/blog/chinese/2016/07/25/chinese-colors/), [Hindi](https://en.wikibooks.org/wiki/Hindi/Colors), [Persian](https://en.wikibooks.org/wiki/Persian/Phrasebook/Colors), [Russian](//github.com/AleksejDix)
 - Multiple paint, print, nail polish, model paint color lists
 
