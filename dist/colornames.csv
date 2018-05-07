@@ -6,6 +6,7 @@ name,hex
 5-Masted Preußen,#9bafad
 8Bit Eggplant,#990066
 90% Cocoa,#3d1c02
+A Hint of Incremental Blue,#456789
 Aare River,#00b89f
 Abaddon Black,#231f20
 Abaidh White,#f2f1e6
@@ -4018,7 +4019,6 @@ Dark Highlight,#705446
 Dark Horizon,#666699
 Dark Hot Pink,#d90166
 Dark Imperial Blue,#00416a
-Dark Incremental Blue,#123456
 Dark Indigo,#1f0954
 Dark Ivy,#5b7763
 Dark Jonquil,#fada5e
@@ -4064,7 +4064,7 @@ Dark Pastel Red,#c23b22
 Dark Peach,#de7e5d
 Dark Periwinkle,#665fd1
 Dark Pewter,#606865
-Dark PHP,#4f5b93
+Dark PHP Purple,#4f5b93
 Dark Pink,#cb416b
 Dark Plum,#3f012c
 Dark Potion,#603e53
@@ -7617,6 +7617,7 @@ Inca Yellow,#ffd301
 Incarnadine,#aa0022
 Incense,#af9a7e
 Inchworm,#b2ec5d
+Incremental Blue,#123456
 Incubi Darkness,#0b474a
 Independence,#4c516d
 India Green,#138808
@@ -8658,7 +8659,6 @@ Light Iced Lavender,#d0d4e3
 Light Image Tone,#ccd0da
 Light Imagine,#aed4d8
 Light In The Slip,#ead1da
-Light Incremental Blue,#456789
 Light Indigo,#6d5acf
 Light Instant,#e2d9d4
 Light Island Light,#bbd5ef
@@ -11652,7 +11652,7 @@ Phosphor Green,#00aa00
 Phosphorus,#a5d0c6
 Photo Grey,#aead96
 Photon White,#f8f8e8
-PHP,#8892bf
+PHP Purple,#8892bf
 Phthalo Blue,#000f89
 Phthalo Green,#123524
 Phuket Palette,#0480bd

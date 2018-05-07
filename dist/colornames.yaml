@@ -20,6 +20,9 @@
   name:"90% Cocoa"
   hex:"#3d1c02"
 -
+  name:"A Hint of Incremental Blue"
+  hex:"#456789"
+-
   name:"Aare River"
   hex:"#00b89f"
 -
@@ -12056,9 +12059,6 @@
   name:"Dark Imperial Blue"
   hex:"#00416a"
 -
-  name:"Dark Incremental Blue"
-  hex:"#123456"
--
   name:"Dark Indigo"
   hex:"#1f0954"
 -
@@ -12194,7 +12194,7 @@
   name:"Dark Pewter"
   hex:"#606865"
 -
-  name:"Dark PHP"
+  name:"Dark PHP Purple"
   hex:"#4f5b93"
 -
   name:"Dark Pink"
@@ -22853,6 +22853,9 @@
   name:"Inchworm"
   hex:"#b2ec5d"
 -
+  name:"Incremental Blue"
+  hex:"#123456"
+-
   name:"Incubi Darkness"
   hex:"#0b474a"
 -
@@ -25975,9 +25978,6 @@
 -
   name:"Light In The Slip"
   hex:"#ead1da"
--
-  name:"Light Incremental Blue"
-  hex:"#456789"
 -
   name:"Light Indigo"
   hex:"#6d5acf"
@@ -34958,7 +34958,7 @@
   name:"Photon White"
   hex:"#f8f8e8"
 -
-  name:"PHP"
+  name:"PHP Purple"
   hex:"#8892bf"
 -
   name:"Phthalo Blue"
