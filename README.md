@@ -130,6 +130,7 @@ See [package.json](package.json#L6) for more.
 - [Inês João](https://www.inesjoao.me/) Mostly Portuguese names
 - [Nirazul](//github.com/Nirazul) Name Creator & Tooling
 - [Nick Niles](http://nickniles.com/) Name Creator
+- [Qwhex](https://github.com/qwhex) Name Creator
 - [Metafizzy](https://metafizzy.co/) Logo Sponsor 💖
 
 ## Disclaimer 👮🏾‍
