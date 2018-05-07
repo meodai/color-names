@@ -20,6 +20,9 @@
   name:"90% Cocoa"
   hex:"#3d1c02"
 -
+  name:"A Hint of Incremental Blue"
+  hex:"#456789"
+-
   name:"Aare River"
   hex:"#00b89f"
 -
@@ -325,6 +328,9 @@
 -
   name:"Afterglow"
   hex:"#f3e6c9"
+-
+  name:"Afterlife"
+  hex:"#d91fff"
 -
   name:"Afternoon Sky"
   hex:"#87ceeb"
@@ -3862,6 +3868,9 @@
 -
   name:"Berry Smoothie"
   hex:"#895360"
+-
+  name:"Berta Blue"
+  hex:"#45dcff"
 -
   name:"Beru"
   hex:"#bfe4d4"
@@ -9863,6 +9872,9 @@
   name:"Cloak and Dagger"
   hex:"#550055"
 -
+  name:"Clock Chimes Thirteen"
+  hex:"#002211"
+-
   name:"Cloisonne"
   hex:"#0075af"
 -
@@ -12224,6 +12236,9 @@
   name:"Dark Pewter"
   hex:"#606865"
 -
+  name:"Dark PHP Purple"
+  hex:"#4f5b93"
+-
   name:"Dark Pink"
   hex:"#cb416b"
 -
@@ -14420,6 +14435,9 @@
   name:"Earthy Cane"
   hex:"#c5b28b"
 -
+  name:"Earthy Khaki Green"
+  hex:"#666600"
+-
   name:"Earthy Ocher"
   hex:"#b89e78"
 -
@@ -15310,6 +15328,9 @@
 -
   name:"European Pine"
   hex:"#756556"
+-
+  name:"Eva Green"
+  hex:"#36ff9a"
 -
   name:"Even Evan"
   hex:"#998371"
@@ -17146,6 +17167,9 @@
 -
   name:"Fresh Mint"
   hex:"#2a5443"
+-
+  name:"Fresh Neon Pink"
+  hex:"#ff11ff"
 -
   name:"Fresh Onion"
   hex:"#5b8930"
@@ -20291,6 +20315,9 @@
   name:"Havelock Blue"
   hex:"#5784c1"
 -
+  name:"Hawaii Morning"
+  hex:"#00bbff"
+-
   name:"Hawaiian Breeze"
   hex:"#75c7e0"
 -
@@ -22933,6 +22960,9 @@
 -
   name:"Inchworm"
   hex:"#b2ec5d"
+-
+  name:"Incremental Blue"
+  hex:"#123456"
 -
   name:"Incubi Darkness"
   hex:"#0b474a"
@@ -28034,6 +28064,9 @@
   name:"Magenta Twilight"
   hex:"#bb989f"
 -
+  name:"Magentos"
+  hex:"#bf3cff"
+-
   name:"Maggie's Magic"
   hex:"#ddeee2"
 -
@@ -31772,6 +31805,9 @@
   name:"Nightly Woods"
   hex:"#013220"
 -
+  name:"Nightmare"
+  hex:"#112211"
+-
   name:"Nightshade"
   hex:"#4f4352"
 -
@@ -35069,6 +35105,9 @@
   name:"Photon White"
   hex:"#f8f8e8"
 -
+  name:"PHP Purple"
+  hex:"#8892bf"
+-
   name:"Phthalo Blue"
   hex:"#000f89"
 -
@@ -35491,6 +35530,9 @@
 -
   name:"Pink Illusion"
   hex:"#d8b8f8"
+-
+  name:"Pink Ink"
+  hex:"#ff1476"
 -
   name:"Pink Jazz"
   hex:"#9e6b89"
@@ -37441,6 +37483,12 @@
 -
   name:"Pyramid"
   hex:"#9f7d4f"
+-
+  name:"Python Blue"
+  hex:"#3776ab"
+-
+  name:"Python Yellow"
+  hex:"#ffd343"
 -
   name:"Qahvei Brown"
   hex:"#7b5804"
@@ -43532,6 +43580,9 @@
   name:"Split Pea Soup"
   hex:"#c8b165"
 -
+  name:"Spoiled Egg"
+  hex:"#e8ff2a"
+-
   name:"Sponge"
   hex:"#a49775"
 -
@@ -43741,6 +43792,9 @@
 -
   name:"Spun Sugar"
   hex:"#fae2ed"
+-
+  name:"SQL Injection Purple"
+  hex:"#5e0092"
 -
   name:"Squash"
   hex:"#f2ab15"
@@ -45364,6 +45418,9 @@
 -
   name:"Syrian Violet"
   hex:"#dfcae4"
+-
+  name:"Szöllősi Grape"
+  hex:"#8020ff"
 -
   name:"T-Bird Turquoise"
   hex:"#6fc1af"
