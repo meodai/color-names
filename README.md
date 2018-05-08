@@ -41,7 +41,7 @@ or `yarn add color-name-list`
 https://color-names.herokuapp.com/v1/{{hexvalue without the #}},{{more comma separated values}}
 ```
 #### Single Color
-`curl` [https://color-names.herokuapp.com/v1/212121](https://color-names.herokuapp.com/v1/212121)
+`curl` [https://api.color.pizza/v1/212121](https://api.color.pizza/v1/212121)
 
 ```javascript
 {
@@ -56,10 +56,10 @@ https://color-names.herokuapp.com/v1/{{hexvalue without the #}},{{more comma sep
 }
 ```
 #### Multiple Colors
-`curl` [https://color-names.herokuapp.com/v1/212121,060606,ff0012,550055,123456](https://color-names.herokuapp.com/v1/212121,060606,ff0012,550055,123456)
+`curl` [https://api.color.pizza/v1/212121,060606,ff0012,550055,123456](https://color-names.herokuapp.com/v1/212121,060606,ff0012,550055,123456)
 
 #### All Named Colors
-`curl` [https://color-names.herokuapp.com/v1/](https://color-names.herokuapp.com/v1/)
+`curl` [https://api.color.pizza/v1/](https://color-names.herokuapp.com/v1/)
 
 In this case colors is not an `object` but an `array` of `objects` sorted by color-name
 
