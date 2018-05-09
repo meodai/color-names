@@ -152,6 +152,9 @@
   name:"Across the Bay"
   hex:"#b3e1e8"
 -
+  name:"Actinic Light"
+  hex:"#ff44ee"
+-
   name:"Actor's Star"
   hex:"#a7a6a3"
 -
@@ -917,6 +920,9 @@
   name:"Amarillo Yellow"
   hex:"#fbf1c3"
 -
+  name:"Amarklor Violet"
+  hex:"#551199"
+-
   name:"Amaya"
   hex:"#f2c1cb"
 -
@@ -1507,6 +1513,9 @@
 -
   name:"Apnea Dive"
   hex:"#284fbd"
+-
+  name:"Apocyan"
+  hex:"#99ccff"
 -
   name:"Apollo Bay"
   hex:"#748697"
@@ -4279,6 +4288,9 @@
 -
   name:"Black Hole"
   hex:"#010203"
+-
+  name:"Black Htun"
+  hex:"#110033"
 -
   name:"Black Ice"
   hex:"#4d5051"
@@ -11072,6 +11084,9 @@
   name:"Cranberry Splash"
   hex:"#da5265"
 -
+  name:"Crash Pink"
+  hex:"#cc88ff"
+-
   name:"Crashing Waves"
   hex:"#3e6f87"
 -
@@ -15536,6 +15551,9 @@
   name:"Extraordinaire"
   hex:"#bda6c5"
 -
+  name:"Extraviolet"
+  hex:"#661188"
+-
   name:"Extreme Lavender"
   hex:"#dfc5d5"
 -
@@ -17221,6 +17239,9 @@
 -
   name:"Fresh Squeezed"
   hex:"#ffad00"
+-
+  name:"Fresh Straw"
+  hex:"#eecc66"
 -
   name:"Fresh Thyme"
   hex:"#aebda8"
@@ -22367,6 +22388,9 @@
   name:"Hooker's Green"
   hex:"#49796b"
 -
+  name:"Hooloovoo Blue"
+  hex:"#4455ff"
+-
   name:"Hopbush"
   hex:"#cd6d93"
 -
@@ -23123,6 +23147,21 @@
   name:"Infra Red"
   hex:"#fe486c"
 -
+  name:"Infra-White"
+  hex:"#ffccee"
+-
+  name:"Infrared Burn"
+  hex:"#dd3333"
+-
+  name:"Infrared Flush"
+  hex:"#cc3344"
+-
+  name:"Infrared Gloze "
+  hex:"#cc3355"
+-
+  name:"Infrared Tang"
+  hex:"#dd2244"
+-
   name:"Infusion"
   hex:"#c8d0ca"
 -
@@ -23368,6 +23407,9 @@
 -
   name:"Irrigation"
   hex:"#786c57"
+-
+  name:"Irrigo Purple"
+  hex:"#9955ff"
 -
   name:"Isabelline"
   hex:"#f4f0ec"
@@ -24055,6 +24097,9 @@
 -
   name:"Kaleidoscope"
   hex:"#8da8be"
+-
+  name:"Kalish Violet"
+  hex:"#552288"
 -
   name:"Kalliene Yellow"
   hex:"#b59808"
@@ -32342,6 +32387,9 @@
   name:"Ochre Revival"
   hex:"#eec987"
 -
+  name:"Octarine"
+  hex:"#ccdd00"
+-
   name:"October Haze"
   hex:"#f8ac8c"
 -
@@ -34867,6 +34915,9 @@
 -
   name:"Perplexed"
   hex:"#bdb3c3"
+-
+  name:"Perrigloss Tan"
+  hex:"#ddaa99"
 -
   name:"Perrywinkle"
   hex:"#8f8ce7"
@@ -38303,6 +38354,9 @@
   name:"Red Maple Leaf"
   hex:"#834c4b"
 -
+  name:"Red Mull"
+  hex:"#ff8888"
+-
   name:"Red Ochre"
   hex:"#913832"
 -
@@ -40343,6 +40397,9 @@
   name:"Sango Red"
   hex:"#f8674f"
 -
+  name:"Sangoire Red"
+  hex:"#881100"
+-
   name:"Sangria"
   hex:"#b14566"
 -
@@ -41510,6 +41567,9 @@
   name:"Sharp-Rip Drill"
   hex:"#eae1d6"
 -
+  name:"Shattan Gold"
+  hex:"#bb5577"
+-
   name:"Shattell"
   hex:"#b5a088"
 -
@@ -41956,6 +42016,9 @@
 -
   name:"Silent Storm"
   hex:"#c3c7bd"
+-
+  name:"Silentropae Cloud"
+  hex:"#ccbbbb"
 -
   name:"Silhouette"
   hex:"#cbcdc4"
@@ -45038,6 +45101,9 @@
   name:"Super Banana"
   hex:"#fffe71"
 -
+  name:"Super Black"
+  hex:"#221100"
+-
   name:"Super Gold"
   hex:"#aa8822"
 -
@@ -47258,6 +47324,9 @@
   name:"True V"
   hex:"#8e72c7"
 -
+  name:"Truesky Gloxym "
+  hex:"#99bbff"
+-
   name:"Trump Tan"
   hex:"#faa76c"
 -
@@ -47660,6 +47729,9 @@
   name:"Ultimate Pink"
   hex:"#ff55ff"
 -
+  name:"Ultra Indigo"
+  hex:"#4433ff"
+-
   name:"Ultra Pink"
   hex:"#f06fff"
 -
@@ -47683,6 +47755,18 @@
 -
   name:"Ultramint"
   hex:"#b6ccb6"
+-
+  name:"Ultraviolet Berl"
+  hex:"#bb44cc"
+-
+  name:"Ultraviolet Crynor"
+  hex:"#bb44bb"
+-
+  name:"Ultraviolet Nusp"
+  hex:"#bb44aa"
+-
+  name:"Ultraviolet Onsible"
+  hex:"#bb44dd"
 -
   name:"Uluru Red"
   hex:"#921d0f"
@@ -48590,6 +48674,9 @@
   name:"Violet Gems"
   hex:"#c4c0e9"
 -
+  name:"Violet Glow"
+  hex:"#4422ee"
+-
   name:"Violet Hush"
   hex:"#e5e2e7"
 -
@@ -48676,6 +48763,9 @@
 -
   name:"Virgin Peach"
   hex:"#ecbdb0"
+-
+  name:"Viric Green"
+  hex:"#99cc00"
 -
   name:"Viridian"
   hex:"#1e9167"
