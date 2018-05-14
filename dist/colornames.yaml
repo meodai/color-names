@@ -2681,6 +2681,9 @@
   name:"Aztec Gold"
   hex:"#c39953"
 -
+  name:"Aztec Jade"
+  hex:"#33bb88"
+-
   name:"Azuki Bean"
   hex:"#96514d"
 -
@@ -8316,7 +8319,7 @@
   hex:"#86736e"
 -
   name:"Cave Painting"
-  hex:"#9aa0a3"
+  hex:"#aa1100"
 -
   name:"Cave Pearl"
   hex:"#d6e5e2"
@@ -12580,6 +12583,9 @@
 -
   name:"Death Guard"
   hex:"#9eb37b"
+-
+  name:"Death Valley Beige"
+  hex:"#ddbb88"
 -
   name:"Deathclaw Brown"
   hex:"#b36853"
@@ -17726,6 +17732,9 @@
   name:"Ganadian Voodoo Grey"
   hex:"#b8b7a3"
 -
+  name:"Gangsters Gold"
+  hex:"#ffdd22"
+-
   name:"Ganon Blue"
   hex:"#a4e4fc"
 -
@@ -18541,6 +18550,9 @@
 -
   name:"Golden Fog"
   hex:"#f0ead2"
+-
+  name:"Golden Foil"
+  hex:"#cccc00"
 -
   name:"Golden Fragrance"
   hex:"#eeee99"
@@ -23038,6 +23050,9 @@
 -
   name:"Inchworm"
   hex:"#b2ec5d"
+-
+  name:"Incision"
+  hex:"#ff0022"
 -
   name:"Incremental Blue"
   hex:"#123456"
@@ -28481,6 +28496,9 @@
   name:"Mamie Pink"
   hex:"#ee82ee"
 -
+  name:"Mammoth Wool"
+  hex:"#995522"
+-
   name:"Man Cave"
   hex:"#816045"
 -
@@ -29617,6 +29635,9 @@
 -
   name:"Meteorite"
   hex:"#4a3b6a"
+-
+  name:"Metero Shower"
+  hex:"#5533ff"
 -
   name:"Methyl Blue"
   hex:"#0074a8"
@@ -32996,6 +33017,9 @@
   name:"Orange Pepper"
   hex:"#df7500"
 -
+  name:"Orange Piñata"
+  hex:"#ff6611"
+-
   name:"Orange Pink"
   hex:"#ff6f52"
 -
@@ -35744,6 +35768,9 @@
   name:"Pink Orthoclase"
   hex:"#aa98a9"
 -
+  name:"Pink Overflow"
+  hex:"#ff33ff"
+-
   name:"Pink Pail"
   hex:"#eaced4"
 -
@@ -36886,6 +36913,12 @@
 -
   name:"Prefect"
   hex:"#5772b0"
+-
+  name:"Prehistoric Meteor"
+  hex:"#ee2211"
+-
+  name:"Prehistoric Stone"
+  hex:"#9aa0a3"
 -
   name:"Prelude"
   hex:"#dfebee"
@@ -38821,6 +38854,9 @@
 -
   name:"Rhapsody"
   hex:"#9f86aa"
+-
+  name:"Rhapsody In Blue"
+  hex:"#002244"
 -
   name:"Rhapsody Rap"
   hex:"#74676c"
@@ -44129,6 +44165,9 @@
   name:"Starfleet Blue"
   hex:"#0096ff"
 -
+  name:"Stargate Shimmer"
+  hex:"#7777ff"
+-
   name:"Stargazer"
   hex:"#39505c"
 -
@@ -45208,6 +45247,9 @@
 -
   name:"Super Pink"
   hex:"#ce6ba4"
+-
+  name:"Super Saiyan"
+  hex:"#ffdd00"
 -
   name:"Super Silver"
   hex:"#eeeeee"
