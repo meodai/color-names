@@ -155,6 +155,9 @@
   name:"Actinic Light"
   hex:"#ff44ee"
 -
+  name:"Active Volcano"
+  hex:"#bb1133"
+-
   name:"Actor's Star"
   hex:"#a7a6a3"
 -
@@ -370,6 +373,9 @@
 -
   name:"Aged Mustard Green"
   hex:"#6e6e30"
+-
+  name:"Aged Pewter"
+  hex:"#889999"
 -
   name:"Aged Pink"
   hex:"#c99f99"
@@ -2222,6 +2228,9 @@
   name:"Ashen"
   hex:"#c9bfb2"
 -
+  name:"Ashen Brown"
+  hex:"#994444"
+-
   name:"Ashen Plum"
   hex:"#9b9092"
 -
@@ -3196,6 +3205,9 @@
 -
   name:"Bare Beige"
   hex:"#e8d3c9"
+-
+  name:"Bare Bone"
+  hex:"#eeddcc"
 -
   name:"Bare Pink"
   hex:"#f2e1dd"
@@ -4460,6 +4472,9 @@
   name:"Blackcurrant Elixir"
   hex:"#5c4f6a"
 -
+  name:"Blackened Brown"
+  hex:"#442200"
+-
   name:"Blackened Pearl"
   hex:"#4d4b50"
 -
@@ -4697,8 +4712,14 @@
   name:"Bloodline"
   hex:"#882200"
 -
+  name:"Bloodstain"
+  hex:"#772200"
+-
   name:"Bloodstone"
   hex:"#413431"
+-
+  name:"Bloodthirsty"
+  hex:"#880011"
 -
   name:"Bloodtracker Brown"
   hex:"#703f00"
@@ -10004,6 +10025,9 @@
   name:"Cloudy Plum"
   hex:"#9d7aac"
 -
+  name:"Cloudy Sea"
+  hex:"#6699aa"
+-
   name:"Cloudy Viridian"
   hex:"#4b5f56"
 -
@@ -11230,6 +11254,9 @@
 -
   name:"Creamy Gelato"
   hex:"#f0e2c5"
+-
+  name:"Creamy Ivory"
+  hex:"#eeddaa"
 -
   name:"Creamy Mauve"
   hex:"#dccad8"
@@ -16274,6 +16301,9 @@
   name:"Fired Brick"
   hex:"#6a2e2a"
 -
+  name:"Fired Clay"
+  hex:"#884444"
+-
   name:"Firefly"
   hex:"#314643"
 -
@@ -18065,6 +18095,9 @@
   name:"Ghostly Grey"
   hex:"#ccccd3"
 -
+  name:"Ghoul Skin"
+  hex:"#667744"
+-
   name:"Giant Onion"
   hex:"#665d9e"
 -
@@ -18541,6 +18574,9 @@
 -
   name:"Golden Bell"
   hex:"#ca8136"
+-
+  name:"Golden Blond"
+  hex:"#ccaa55"
 -
   name:"Golden Brown"
   hex:"#b27a01"
@@ -20938,6 +20974,9 @@
 -
   name:"Highlander"
   hex:"#3a533d"
+-
+  name:"Highlands Moss"
+  hex:"#445500"
 -
   name:"Highlight Gold"
   hex:"#dfc16d"
@@ -30911,6 +30950,9 @@
   name:"Moth"
   hex:"#d2cbaf"
 -
+  name:"Moth Green"
+  hex:"#007700"
+-
   name:"Moth Grey"
   hex:"#d1c9ba"
 -
@@ -37325,6 +37367,9 @@
   name:"Punga"
   hex:"#534931"
 -
+  name:"Punk Rock Pink"
+  hex:"#8811ff"
+-
   name:"Puppeteers"
   hex:"#79ccb3"
 -
@@ -38855,7 +38900,7 @@
   name:"Reptile Green"
   hex:"#24da91"
 -
-  name:"Reptilian Greens Triad"
+  name:"Reptilian Green"
   hex:"#009e82"
 -
   name:"Requiem"
@@ -39829,6 +39874,9 @@
 -
   name:"Ruby Slippers"
   hex:"#9c2e33"
+-
+  name:"Ruby Star"
+  hex:"#bb1122"
 -
   name:"Ruby Wine"
   hex:"#77333b"
@@ -41515,6 +41563,9 @@
 -
   name:"Serpentine"
   hex:"#9b8e54"
+-
+  name:"Serpentine Shadow"
+  hex:"#003300"
 -
   name:"Seryi Grey"
   hex:"#9ca9ad"
