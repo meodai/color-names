@@ -1553,6 +1553,9 @@
   name:"Appetite"
   hex:"#b1e5aa"
 -
+  name:"Appetizing Asparagus"
+  hex:"#66aa00"
+-
   name:"Apple Blossom"
   hex:"#ddbca0"
 -
@@ -13259,8 +13262,14 @@
   name:"Delicioso"
   hex:"#3f352f"
 -
+  name:"Delicious Dill"
+  hex:"#77cc00"
+-
   name:"Delicious Mandarin"
   hex:"#ffaa11"
+-
+  name:"Delightful Dandelion"
+  hex:"#eeee33"
 -
   name:"Delightful Green"
   hex:"#00ee00"
@@ -13775,6 +13784,12 @@
   name:"Distant Valley"
   hex:"#c2b79a"
 -
+  name:"Distilled Moss"
+  hex:"#ccffcc"
+-
+  name:"Distilled Rose"
+  hex:"#ffbbff"
+-
   name:"Distilled Venom"
   hex:"#c7fdb5"
 -
@@ -13810,6 +13825,9 @@
 -
   name:"Divine"
   hex:"#9a7aa0"
+-
+  name:"Divine Dove"
+  hex:"#eeddee"
 -
   name:"Divine Purple"
   hex:"#69005f"
@@ -15718,6 +15736,9 @@
 -
   name:"Exquisite"
   hex:"#c8a3bb"
+-
+  name:"Exquisite Eggplant"
+  hex:"#330033"
 -
   name:"Extinct"
   hex:"#9490b2"
@@ -19504,6 +19525,9 @@
 -
   name:"Green Flash"
   hex:"#79c753"
+-
+  name:"Green Flavor"
+  hex:"#bbaa22"
 -
   name:"Green Fog"
   hex:"#989a87"
@@ -24206,6 +24230,9 @@
   name:"Juggernaut"
   hex:"#255367"
 -
+  name:"Juicy Jackfruit"
+  hex:"#eedd33"
+-
   name:"Juicy Lime"
   hex:"#b1cf5d"
 -
@@ -28193,11 +28220,17 @@
   name:"Luscious Lavender"
   hex:"#696987"
 -
+  name:"Luscious Leek"
+  hex:"#bbcc22"
+-
   name:"Luscious Lime"
   hex:"#91a673"
 -
   name:"Luscious Lobster"
   hex:"#c5847c"
+-
+  name:"Lush Green"
+  hex:"#bbee00"
 -
   name:"Lush Greenery"
   hex:"#7ff23e"
@@ -29603,8 +29636,14 @@
   name:"Mellow Green"
   hex:"#d5d593"
 -
+  name:"Mellow Mango"
+  hex:"#cc4400"
+-
   name:"Mellow Mauve"
   hex:"#996378"
+-
+  name:"Mellow Melon"
+  hex:"#ee2266"
 -
   name:"Mellow Mint"
   hex:"#ddedbd"
@@ -31897,6 +31936,9 @@
 -
   name:"Nectarine"
   hex:"#ff8656"
+-
+  name:"Nectarous Nectarine"
+  hex:"#dd5566"
 -
   name:"Negishi Green"
   hex:"#938b4b"
@@ -34955,6 +34997,9 @@
   name:"Pear Cactus"
   hex:"#91af88"
 -
+  name:"Pear Perfume"
+  hex:"#ccdd99"
+-
   name:"Pear Sorbet"
   hex:"#f3eac3"
 -
@@ -35735,6 +35780,9 @@
   name:"Pilsener"
   hex:"#f8f753"
 -
+  name:"Piment Piquant"
+  hex:"#cc2200"
+-
   name:"Pimlico"
   hex:"#df9e9d"
 -
@@ -35743,6 +35791,9 @@
 -
   name:"Pinafore Blue"
   hex:"#7198c0"
+-
+  name:"Pinaple Perfume"
+  hex:"#eeee88"
 -
   name:"Pinball"
   hex:"#d3d3d3"
@@ -36493,6 +36544,9 @@
 -
   name:"Plaza Taupe"
   hex:"#aea393"
+-
+  name:"Pleasant Pomegranate"
+  hex:"#cc3300"
 -
   name:"Pleasing Pink"
   hex:"#f5cdd2"
@@ -38482,6 +38536,9 @@
 -
   name:"Rare Red"
   hex:"#dd1133"
+-
+  name:"Rare Rhubarb"
+  hex:"#cc0022"
 -
   name:"Rare Turquoise"
   hex:"#00748e"
@@ -46669,6 +46726,9 @@
 -
   name:"Tempo"
   hex:"#33abb2"
+-
+  name:"Tempting Taupe"
+  hex:"#ccaa99"
 -
   name:"Temptress"
   hex:"#3c2126"
