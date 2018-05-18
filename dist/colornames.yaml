@@ -3086,6 +3086,9 @@
   name:"Banana Brulee"
   hex:"#f7eab9"
 -
+  name:"Banana Chalk"
+  hex:"#d6d963"
+-
   name:"Banana Cream"
   hex:"#fff49c"
 -
@@ -3898,6 +3901,9 @@
 -
   name:"Berry Bush"
   hex:"#77424e"
+-
+  name:"Berry Chalk"
+  hex:"#a6aebb"
 -
   name:"Berry Chocolate"
   hex:"#3f000f"
@@ -4920,7 +4926,7 @@
   hex:"#41788a"
 -
   name:"Blue Chalk"
-  hex:"#e3d6e9"
+  hex:"#94c0cc"
 -
   name:"Blue Charcoal"
   hex:"#262b2f"
@@ -9859,6 +9865,9 @@
 -
   name:"Classic Calm"
   hex:"#6b8885"
+-
+  name:"Classic Chalk"
+  hex:"#f4f4f0"
 -
   name:"Classic Cloud"
   hex:"#9197a3"
@@ -16385,6 +16394,9 @@
   name:"Fire Bush"
   hex:"#e09842"
 -
+  name:"Fire Chalk"
+  hex:"#d2806c"
+-
   name:"Fire Chi"
   hex:"#92353a"
 -
@@ -19489,6 +19501,9 @@
 -
   name:"Green Caterpillar"
   hex:"#98be3c"
+-
+  name:"Green Chalk"
+  hex:"#bcdf8a"
 -
   name:"Green Coconut"
   hex:"#868e65"
@@ -32885,6 +32900,9 @@
   name:"Old Burgundy"
   hex:"#43302e"
 -
+  name:"Old Chalk"
+  hex:"#e3d6e9"
+-
   name:"Old Copper"
   hex:"#73503b"
 -
@@ -33244,6 +33262,9 @@
 -
   name:"Orange Burst"
   hex:"#ff6e3a"
+-
+  name:"Orange Chalk"
+  hex:"#fad48b"
 -
   name:"Orange Chiffon"
   hex:"#f9aa7d"
@@ -35957,6 +35978,9 @@
   name:"Pink Chablis"
   hex:"#f4ded9"
 -
+  name:"Pink Chalk"
+  hex:"#f2a3bd"
+-
   name:"Pink Charge"
   hex:"#dd66bb"
 -
@@ -37749,7 +37773,7 @@
   hex:"#3d34a5"
 -
   name:"Purple Chalk"
-  hex:"#a6aebb"
+  hex:"#c4adc9"
 -
   name:"Purple Comet"
   hex:"#6e6970"
@@ -38796,7 +38820,7 @@
   hex:"#d87678"
 -
   name:"Red Chalk"
-  hex:"#d2806c"
+  hex:"#ed7777"
 -
   name:"Red Clay"
   hex:"#8f4b41"
@@ -48125,6 +48149,9 @@
   name:"Turquoise Blue"
   hex:"#00ffef"
 -
+  name:"Turquoise Chalk"
+  hex:"#6fe7db"
+-
   name:"Turquoise Cyan"
   hex:"#0e7c61"
 -
@@ -50453,6 +50480,9 @@
   name:"White Castle"
   hex:"#dbd5d1"
 -
+  name:"White Chalk"
+  hex:"#f6f4f1"
+-
   name:"White Chocolate"
   hex:"#f0e3c7"
 -
@@ -51568,6 +51598,9 @@
 -
   name:"Yellow Cattleya"
   hex:"#fff44f"
+-
+  name:"Yellow Chalk"
+  hex:"#f5f9ad"
 -
   name:"Yellow Coneflower"
   hex:"#edb856"
