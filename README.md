@@ -76,7 +76,7 @@ console.log(someColor.hex); // => #16161d
 ```
 
 #### Closest Named Color
-Since there are 16581375 possible RGB colors, you might use a library such as [ktree](https://github.com/caub/ktree) to help you find the the closest named color.
+Since there are 16777216 possible RGB colors, you might use a library such as [ktree](https://github.com/caub/ktree) to help you find the the closest named color.
 
 ```js
 import namedColors from 'color-name-list';
