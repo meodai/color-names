@@ -76,20 +76,24 @@ console.log(someColor.hex); // => #16161d
 ```
 
 #### Closest Named Color
-Since there are 16777216 possible RGB colors, you might use a library such as [ktree](https://github.com/caub/ktree) to help you find the the closest named color.
+Since there are 16777216 possible RGB colors, you might use a library such as [nearest-color](https://github.com/dtao/nearest-color) to help you find the the closest named color.
 
 ```js
+import nearestColor from 'nearest-color';
 import namedColors from 'color-name-list';
-import { Octree } from 'ktree';
 
-// simple hex-to-rgb (assuming no short formats, else see https://unpkg.com/color-tf/hexToRgb.js)
-const hexToRgb = s => [s.slice(-6, -4), s.slice(-4, -2), s.slice(-2)].map(x => parseInt(x, 16));
+// nearestColor need objects {name => hex} as input
+const colors = colorNameList.reduce((o, { name, hex }) => Object.assign(o, { [name]: hex }), {});
 
-const tree = new Octree(namedColors, { key: 'hex', transform: hexToRgb });
-console.log(tree.closest('#f1c1d1')); // => Fairy Tale
+const nearest = nearestColor.from(colors);
+
+// get closest named color
+nearest('#f1c1d1'); // => Fairy Tale
 ```
 
-**Note**: If you are looking for something visually more accurate, you could: use [DeltaE](https://github.com/zschuessler/DeltaE), or use the above snippet, combined with a transform from rgb to [ciecam02](https://github.com/baskerville/ciecam02) scaled to 0-255
+Alternative package: [ktree](https://github.com/caub/ktree)
+
+**Note**: If you are looking for something visually more accurate, you could: use [DeltaE](https://github.com/zschuessler/DeltaE), or use the above snippet, combined with a transform from rgb to [ciecam02](https://github.com/baskerville/ciecam02) scaled to 0-255.
 
 ### Building 🔨
 ```shell
