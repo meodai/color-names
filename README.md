@@ -23,6 +23,7 @@ Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute!
 (~__0.10%__ of all RGB Colors)
 
 ### [Color distribution](https://codepen.io/meodai/full/zdgXJj/) 🛰
+![3d representation of color distribution in RGB Space (Preview image of link above)](https://raw.githubusercontent.com/meodai/color-names/gh-pages/color-dist.png)
 When coming up with new color names, it is vital to know what spots in a certain color-space are crowded and where there is still room for new colors. For example: Our API returns the closest `RGB` color to a given `HEX` value. To avoid too many colors snapping to the same name, we aim to distribute the colors evenly in the color space: [Visualization](https://codepen.io/meodai/full/zdgXJj/)
 
 PS: You can choose between different color spaces on the bottom right.
