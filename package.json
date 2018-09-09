@@ -33,10 +33,10 @@
     "closestvector": "^0.4.3",
     "commitizen": "^2.9.6",
     "cz-conventional-changelog": "^2.1.0",
-    "eslint": "^4.19.1",
-    "eslint-config-google": "^0.9.1",
+    "eslint": "^5.5.0",
+    "eslint-config-google": "^0.10.0",
     "ghooks": "^2.0.3",
-    "semantic-release": "^8.2.3"
+    "semantic-release": "^15.9.14"
   },
   "engines": {
     "node": ">=8",
