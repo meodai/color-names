@@ -3428,6 +3428,9 @@
   name:"Battleship Grey"
   hex:"#6f7476"
 -
+  name:"Battletoad"
+  hex:"#11cc55"
+-
   name:"Batu Cave"
   hex:"#595438"
 -
@@ -5821,9 +5824,6 @@
 -
   name:"Booger Buster"
   hex:"#00ff77"
--
-  name:"Booger Green"
-  hex:"#96b403"
 -
   name:"Boogie Blast"
   hex:"#119944"
@@ -11498,6 +11498,9 @@
   name:"Crimson Strawberry"
   hex:"#9f2d47"
 -
+  name:"Crisis Red"
+  hex:"#bb2222"
+-
   name:"Crisp"
   hex:"#eaebaf"
 -
@@ -11515,6 +11518,9 @@
 -
   name:"Crisp Won Ton"
   hex:"#f3dcc6"
+-
+  name:"Crispy Chicken Skin"
+  hex:"#ddaa44"
 -
   name:"Crocker Grove"
   hex:"#b1a685"
@@ -14095,6 +14101,9 @@
 -
   name:"Drama Queen"
   hex:"#a37298"
+-
+  name:"Dramatical Red"
+  hex:"#991100"
 -
   name:"Draw Your Sword"
   hex:"#6c7179"
@@ -18062,6 +18071,9 @@
   name:"Garlic Suede"
   hex:"#cdd2bc"
 -
+  name:"Garlic Toast"
+  hex:"#dddd88"
+-
   name:"Garnet"
   hex:"#733635"
 -
@@ -19463,6 +19475,9 @@
   name:"Grecian Isle"
   hex:"#00a49b"
 -
+  name:"Greedo Green"
+  hex:"#00aa66"
+-
   name:"Greedy Gold"
   hex:"#c4ce3b"
 -
@@ -19562,6 +19577,9 @@
   name:"Green Eggs"
   hex:"#e3ecc5"
 -
+  name:"Green Elliott"
+  hex:"#00bb66"
+-
   name:"Green Essence"
   hex:"#e9eac8"
 -
@@ -19585,6 +19603,9 @@
 -
   name:"Green Gables"
   hex:"#324241"
+-
+  name:"Green Gamora"
+  hex:"#11bb00"
 -
   name:"Green Gardens"
   hex:"#009911"
@@ -19624,6 +19645,9 @@
 -
   name:"Green Goanna"
   hex:"#505a39"
+-
+  name:"Green Goblin"
+  hex:"#11bb33"
 -
   name:"Green Gooseberry"
   hex:"#b0dfa4"
@@ -21631,6 +21655,9 @@
 -
   name:"Hint of Frozen Frappe"
   hex:"#ecdee5"
+-
+  name:"Hint of Garlic"
+  hex:"#ddccbb"
 -
   name:"Hint of Garlic Suede"
   hex:"#e3e6d6"
@@ -24865,6 +24892,9 @@
 -
   name:"Kobold Skin"
   hex:"#f0d2cf"
+-
+  name:"Kobra Khan"
+  hex:"#00aa22"
 -
   name:"Kodama White"
   hex:"#e8f5fc"
@@ -28407,7 +28437,7 @@
   hex:"#9bb53e"
 -
   name:"Macharius Solar Orange"
-  hex:"#ff5b00"
+  hex:"#dd4400"
 -
   name:"Machine Green"
   hex:"#a6a23f"
@@ -28994,6 +29024,9 @@
   name:"Mardi Gras"
   hex:"#880085"
 -
+  name:"Margarine"
+  hex:"#f2d930"
+-
   name:"Margarita"
   hex:"#b5c38e"
 -
@@ -29038,6 +29071,9 @@
 -
   name:"Mariner"
   hex:"#42639f"
+-
+  name:"Mario Red"
+  hex:"#e4000f"
 -
   name:"Marionberry"
   hex:"#380282"
@@ -29384,6 +29420,9 @@
   name:"Maximum Green Yellow"
   hex:"#d9e650"
 -
+  name:"Maximum Orange"
+  hex:"#ff5b00"
+-
   name:"Maximum Purple"
   hex:"#733380"
 -
@@ -29677,6 +29716,9 @@
 -
   name:"Melancholic Sea"
   hex:"#53778f"
+-
+  name:"Melancholy"
+  hex:"#dd8899"
 -
   name:"Melanie"
   hex:"#e0b7c2"
@@ -30215,6 +30257,9 @@
   name:"Mikan Orange"
   hex:"#f08300"
 -
+  name:"Mike Wazowski Green"
+  hex:"#11ee55"
+-
   name:"Milan"
   hex:"#f6f493"
 -
@@ -30645,7 +30690,7 @@
   hex:"#ccccba"
 -
   name:"Miyamoto Red"
-  hex:"#e4000f"
+  hex:"#e4030f"
 -
   name:"Miyazaki Verdant"
   hex:"#6fea3e"
@@ -37895,6 +37940,9 @@
   name:"Purple Heart"
   hex:"#69359c"
 -
+  name:"Purple Heart Kiwi "
+  hex:"#cc2288"
+-
   name:"Purple Heather"
   hex:"#bab8d3"
 -
@@ -38854,6 +38902,9 @@
 -
   name:"Red Alert"
   hex:"#ff0f0f"
+-
+  name:"Red Baron"
+  hex:"#bb0011"
 -
   name:"Red Bean"
   hex:"#3d0c02"
@@ -40864,6 +40915,9 @@
 -
   name:"Salty Seeds"
   hex:"#c1b993"
+-
+  name:"Salty Thyme"
+  hex:"#96b403"
 -
   name:"Salute"
   hex:"#282b34"
@@ -44593,6 +44647,9 @@
 -
   name:"Squeaky"
   hex:"#6cc4da"
+-
+  name:"Squeeze Toy Alien"
+  hex:"#11ee00"
 -
   name:"Squid Hat"
   hex:"#6e2233"
@@ -49516,6 +49573,9 @@
 -
   name:"Viridis"
   hex:"#00846b"
+-
+  name:"Virtual Boy"
+  hex:"#bb3311"
 -
   name:"Virtual Forest"
   hex:"#8aa56e"
