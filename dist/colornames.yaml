@@ -2843,6 +2843,9 @@
   name:"Baby Tone"
   hex:"#dcc2cb"
 -
+  name:"Baby Tooth"
+  hex:"#eeffdd"
+-
   name:"Baby's Blanket"
   hex:"#ffaec1"
 -
@@ -7436,6 +7439,9 @@
   name:"Cadmium Yellow"
   hex:"#fff600"
 -
+  name:"Caduceus Gold"
+  hex:"#ffee66"
+-
   name:"Café Au Lait"
   hex:"#a57c5b"
 -
@@ -10189,6 +10195,9 @@
 -
   name:"Coal Miner"
   hex:"#777872"
+-
+  name:"Coalmine"
+  hex:"#220033"
 -
   name:"Coarse Wool"
   hex:"#181b26"
@@ -15455,6 +15464,9 @@
   name:"Enoki"
   hex:"#f8faee"
 -
+  name:"Enokitake Mushroom"
+  hex:"#ffeedd"
+-
   name:"Enough Is Enough"
   hex:"#898c4a"
 -
@@ -15802,6 +15814,9 @@
 -
   name:"Exquisite Eggplant"
   hex:"#330033"
+-
+  name:"Exquisite Turquoise"
+  hex:"#11ccbb"
 -
   name:"Extinct"
   hex:"#9490b2"
@@ -25601,6 +25616,9 @@
   name:"Lead Grey"
   hex:"#8a7963"
 -
+  name:"Lead Ore"
+  hex:"#99aabb"
+-
   name:"Leadbelcher"
   hex:"#cacacb"
 -
@@ -30023,6 +30041,9 @@
   name:"Metal Gear"
   hex:"#a2c3db"
 -
+  name:"Metal Spark"
+  hex:"#eeff99"
+-
   name:"Metalise"
   hex:"#34373c"
 -
@@ -30337,6 +30358,9 @@
 -
   name:"Milk Chocolate"
   hex:"#7f4e1e"
+-
+  name:"Milk Froth"
+  hex:"#ffeecc"
 -
   name:"Milk Glass"
   hex:"#faf7f0"
@@ -39854,6 +39878,9 @@
   name:"Rocket Metallic"
   hex:"#8a7f80"
 -
+  name:"Rockfall"
+  hex:"#aabbaa"
+-
   name:"Rockin Red"
   hex:"#bc363c"
 -
@@ -41053,6 +41080,9 @@
 -
   name:"Sand Pebble"
   hex:"#b09d7f"
+-
+  name:"Sand Pyramid"
+  hex:"#ddcc77"
 -
   name:"Sand Shark"
   hex:"#5a86ad"
@@ -42440,7 +42470,7 @@
   name:"Shifting Sand"
   hex:"#d8c0ad"
 -
-  name:"Shiitake"
+  name:"Shiitake Mushroom"
   hex:"#736253"
 -
   name:"Shikon"
@@ -52255,6 +52285,9 @@
 -
   name:"Zircon"
   hex:"#dee3e3"
+-
+  name:"Zodiac Constellation"
+  hex:"#ee8844"
 -
   name:"Zombie"
   hex:"#595a5c"
