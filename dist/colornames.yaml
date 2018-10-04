@@ -4736,6 +4736,9 @@
   name:"Blood"
   hex:"#770001"
 -
+  name:"Blood Brother"
+  hex:"#770011"
+-
   name:"Blood Burst"
   hex:"#ff474c"
 -
@@ -4756,6 +4759,9 @@
 -
   name:"Blood Organ"
   hex:"#630f0f"
+-
+  name:"Blood Pact"
+  hex:"#771111"
 -
   name:"Blood Red"
   hex:"#980002"
@@ -5275,6 +5281,9 @@
 -
   name:"Blue Opal"
   hex:"#0f3b57"
+-
+  name:"Blue Overdose"
+  hex:"#0000ee"
 -
   name:"Blue Paisley"
   hex:"#2282a8"
@@ -16964,6 +16973,9 @@
   name:"Fog Green"
   hex:"#c2cbb4"
 -
+  name:"Fog of War"
+  hex:"#112233"
+-
   name:"Foggy Day"
   hex:"#e7e3db"
 -
@@ -18836,6 +18848,9 @@
   name:"Golden Gate Bridge"
   hex:"#c0362d"
 -
+  name:"Golden Glam"
+  hex:"#eebb44"
+-
   name:"Golden Glitter"
   hex:"#fbe573"
 -
@@ -20578,6 +20593,9 @@
 -
   name:"Harā Green"
   hex:"#55aa55"
+-
+  name:"Harbor Mist"
+  hex:"#88aaaa"
 -
   name:"Harbour Afternoon"
   hex:"#e0e9f3"
@@ -36887,6 +36905,12 @@
   name:"Poison Purple"
   hex:"#7f01fe"
 -
+  name:"Poisoning Green"
+  hex:"#66ff11"
+-
+  name:"Poisonous Apple"
+  hex:"#993333"
+-
   name:"Poisonous Dart"
   hex:"#77ff66"
 -
@@ -42808,6 +42832,9 @@
 -
   name:"Silkie Chicken"
   hex:"#fdefdb"
+-
+  name:"Silkworm"
+  hex:"#eeeecc"
 -
   name:"Silky Green"
   hex:"#bdc2bb"
@@ -52087,6 +52114,9 @@
 -
   name:"Yuzu Jam"
   hex:"#fdd200"
+-
+  name:"Yuzu Soy"
+  hex:"#112200"
 -
   name:"Zaffre"
   hex:"#0014a8"
