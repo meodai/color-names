@@ -5735,6 +5735,9 @@
   name:"Bole"
   hex:"#79443b"
 -
+  name:"Bolognese"
+  hex:"#bb4400"
+-
   name:"Boltgun Metal"
   hex:"#393939"
 -
@@ -18602,6 +18605,9 @@
   name:"Gluon Grey"
   hex:"#1a1b1c"
 -
+  name:"Gluten"
+  hex:"#ddcc66"
+-
   name:"Gnarls Green"
   hex:"#00754b"
 -
@@ -20896,6 +20902,9 @@
 -
   name:"Heavy Cream"
   hex:"#e8ddc6"
+-
+  name:"Heavy Gluten"
+  hex:"#ddccaa"
 -
   name:"Heavy Goldbrown"
   hex:"#baab74"
@@ -29528,6 +29537,9 @@
   name:"Meat Brown"
   hex:"#e5b73b"
 -
+  name:"Meatloaf"
+  hex:"#663311"
+-
   name:"Mecca Gold"
   hex:"#c89134"
 -
@@ -30277,6 +30289,9 @@
 -
   name:"Miles"
   hex:"#829ba0"
+-
+  name:"Militant Vegan"
+  hex:"#229955"
 -
   name:"Military Green"
   hex:"#667c3e"
@@ -44066,6 +44081,12 @@
   name:"Spaghetti"
   hex:"#fef69e"
 -
+  name:"Spaghetti Carbonara"
+  hex:"#ddddaa"
+-
+  name:"Spaghetti Monster"
+  hex:"#eecc88"
+-
   name:"Spaghetti Strap Pink"
   hex:"#fbaed2"
 -
@@ -48932,6 +48953,12 @@
   name:"Vega Violet"
   hex:"#aa55ff"
 -
+  name:"Vegan"
+  hex:"#22bb88"
+-
+  name:"Vegan Mastermind "
+  hex:"#22bb55"
+-
   name:"Vegas Gold"
   hex:"#c5b358"
 -
@@ -48946,6 +48973,9 @@
 -
   name:"Vegetation"
   hex:"#5ccd97"
+-
+  name:"Vegeterian"
+  hex:"#22aa00"
 -
   name:"Veil of Dusk"
   hex:"#dad8c9"
