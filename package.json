@@ -10,8 +10,9 @@
     "test": "node scripts/build.js --testOnly",
     "clean-dist-folder": "rm -rf dist && mkdir dist",
     "build": "npm run clean-dist-folder && node scripts/build.js",
-    "semantic-release": "semantic-release pre && npm publish && semantic-release post",
-    "start": "node scripts/server.js"
+    "start": "node scripts/server.js",
+    "travis-deploy-once": "travis-deploy-once",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
@@ -36,7 +37,8 @@
     "eslint": "^5.5.0",
     "eslint-config-google": "^0.10.0",
     "ghooks": "^2.0.3",
-    "semantic-release": "^15.9.14"
+    "semantic-release": "^15.9.14",
+    "travis-deploy-once": "^5.0.9"
   },
   "engines": {
     "node": ">=8",
