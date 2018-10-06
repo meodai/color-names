@@ -35,7 +35,7 @@ npm install color-name-list --save
 ```
 or `yarn add color-name-list`
 
-### CDN 🌍 [JSON](https://unpkg.com/color-name-list/dist/colornames.json) / [CSV](https://unpkg.com/color-name-list/dist/colornames.csv) / [YML](https://unpkg.com/color-name-list/dist/colornames.yaml) / [JS](https://unpkg.com/color-name-list/dist/colornames.umd.js)
+### CDN 🌍 [JSON](https://unpkg.com/color-name-list/dist/colornames.json) / [CSV](https://unpkg.com/color-name-list/dist/colornames.csv) / [YML](https://unpkg.com/color-name-list/dist/colornames.yaml) / [JS](https://unpkg.com/color-name-list/dist/colornames.umd.js) / [XML](https://unpkg.com/color-name-list/dist/colornames.xml) / [HTML](https://unpkg.com/color-name-list/dist/colornames.html) / [SCSS](https://unpkg.com/color-name-list/dist/colornames.scss)
 
 ### API 🃏
 ```url
