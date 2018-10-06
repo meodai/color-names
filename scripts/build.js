@@ -103,6 +103,12 @@ const outputFormats = {
     rowDelimitor: '</td></tr><tr><td>',
     insertAfter: `</td></tr></tbody></table>`,
   },
+  'xml': {
+    insertBefore: `<?xml version='1.0'?>\r\n<color>\r\n<${csvKeys[0]}>`,
+    itemDelimitor: `</${csvKeys[0]}>\r\n<${csvKeys[1]}>`,
+    rowDelimitor: `</${csvKeys[1]}>\r\n</color>\r\n<color>\r\n<${csvKeys[0]}>`,
+    insertAfter: `</${csvKeys[1]}>\r\n</color>`,
+  }
 };
 
 for (let outputFormat in outputFormats) {
