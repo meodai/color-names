@@ -4469,6 +4469,9 @@
   name:"Black Squeeze"
   hex:"#e5e6df"
 -
+  name:"Black Swan"
+  hex:"#332200"
+-
   name:"Black Tie"
   hex:"#464647"
 -
@@ -11459,6 +11462,9 @@
   name:"Creole Pink"
   hex:"#f7d5cc"
 -
+  name:"Creole Sauce"
+  hex:"#ee8833"
+-
   name:"Crepe"
   hex:"#d4bc94"
 -
@@ -17872,6 +17878,9 @@
 -
   name:"Funky Frog"
   hex:"#98bd3c"
+-
+  name:"Furious Red"
+  hex:"#ff1100"
 -
   name:"Furnace"
   hex:"#dd4124"
@@ -35447,6 +35456,9 @@
   name:"Peppy"
   hex:"#72d7b7"
 -
+  name:"Peppy Pineapple"
+  hex:"#ffff44"
+-
   name:"Peptalk"
   hex:"#0060a6"
 -
@@ -40724,11 +40736,14 @@
   name:"Safari Brown"
   hex:"#976c60"
 -
-  name:"Safari Green"
+  name:"Safari Trail"
   hex:"#8f7b51"
 -
   name:"Safe Harbour"
   hex:"#1e8ea1"
+-
+  name:"Safe Haven"
+  hex:"#5588aa"
 -
   name:"Safety Orange"
   hex:"#ff6600"
@@ -41564,7 +41579,7 @@
   name:"Scorpion Grass Blue"
   hex:"#99aac8"
 -
-  name:"Scorpion Green"
+  name:"Scorpion Venom"
   hex:"#97ea10"
 -
   name:"Scorpy Green"
@@ -45283,6 +45298,9 @@
 -
   name:"Strawberry Confection"
   hex:"#f4bfc6"
+-
+  name:"Strawberry Cough"
+  hex:"#990011"
 -
   name:"Strawberry Cream"
   hex:"#f4c3c4"
@@ -49147,6 +49165,9 @@
 -
   name:"Venom Wyrm"
   hex:"#607038"
+-
+  name:"Venomous Green"
+  hex:"#66ff22"
 -
   name:"Venus"
   hex:"#eed053"
