@@ -123,7 +123,7 @@ for (let outputFormat in outputFormats) {
   );
 }
 
-// adapts the count in the readme file
+// updates the color count in readme file
 const readme = fs.readFileSync(
   path.normalize(`${baseFolder}${readmeFileName}`),
   'utf8'
