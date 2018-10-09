@@ -104,10 +104,10 @@ const outputFormats = {
     insertAfter: `</td></tr></tbody></table>`,
   },
   'xml': {
-    insertBefore: `<?xml version='1.0'?>\r\n<color>\r\n<${csvKeys[0]}>`,
+    insertBefore: `<?xml version='1.0'?>\r\n<colors>\r\n<color>\r\n<${csvKeys[0]}>`,
     itemDelimitor: `</${csvKeys[0]}>\r\n<${csvKeys[1]}>`,
     rowDelimitor: `</${csvKeys[1]}>\r\n</color>\r\n<color>\r\n<${csvKeys[0]}>`,
-    insertAfter: `</${csvKeys[1]}>\r\n</color>`,
+    insertAfter: `</${csvKeys[1]}>\r\n</color>\r\n</colors>`,
   }
 };
 
@@ -117,6 +117,9 @@ for (let outputFormat in outputFormats) {
     csvKeys,
     outputFormats[outputFormat]
   );
+  if (outputFormat === 'html' || outputFormat === 'xml') {
+    outputString = outputString.replace(/&/g, '&amp;')
+  }
   fs.writeFileSync(
     path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.${outputFormat}`),
     outputString

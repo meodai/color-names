@@ -1,4 +1,5 @@
 <?xml version='1.0'?>
+<colors>
 <color>
 <name>18th Century Green</name>
 <hex>#a59344</hex>
@@ -2932,7 +2933,7 @@
 <hex>#5c6b65</hex>
 </color>
 <color>
-<name>Arts & Crafts Gold</name>
+<name>Arts &amp; Crafts Gold</name>
 <hex>#f5c68b</hex>
 </color>
 <color>
@@ -16280,7 +16281,7 @@
 <hex>#1b2431</hex>
 </color>
 <color>
-<name>Dark & Stormy</name>
+<name>Dark &amp; Stormy</name>
 <hex>#353f51</hex>
 </color>
 <color>
@@ -26760,7 +26761,7 @@
 <hex>#99ff00</hex>
 </color>
 <color>
-<name>Greene & Greene</name>
+<name>Greene &amp; Greene</name>
 <hex>#445544</hex>
 </color>
 <color>
@@ -42164,7 +42165,7 @@
 <hex>#bf9005</hex>
 </color>
 <color>
-<name>Mover & Shaker</name>
+<name>Mover &amp; Shaker</name>
 <hex>#9cce9e</hex>
 </color>
 <color>
@@ -53000,7 +53001,7 @@
 <hex>#767194</hex>
 </color>
 <color>
-<name>Rhythm & Blues</name>
+<name>Rhythm &amp; Blues</name>
 <hex>#70767b</hex>
 </color>
 <color>
@@ -58204,7 +58205,7 @@
 <hex>#bfc8c3</hex>
 </color>
 <color>
-<name>Smoke & Ash</name>
+<name>Smoke &amp; Ash</name>
 <hex>#939789</hex>
 </color>
 <color>
@@ -60304,7 +60305,7 @@
 <hex>#c5b5a4</hex>
 </color>
 <color>
-<name>Sticks & Stones</name>
+<name>Sticks &amp; Stones</name>
 <hex>#baa482</hex>
 </color>
 <color>
@@ -64340,7 +64341,7 @@
 <hex>#b09994</hex>
 </color>
 <color>
-<name>Tried & True Blue</name>
+<name>Tried &amp; True Blue</name>
 <hex>#494f62</hex>
 </color>
 <color>
@@ -70119,3 +70120,4 @@
 <name>Zürich Blue</name>
 <hex>#8080ff</hex>
 </color>
+</colors>
