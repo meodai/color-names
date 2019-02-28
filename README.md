@@ -64,6 +64,26 @@ https://api.color.pizza/v1/{{hexvalue without the #}},{{more comma separated val
 
 In this case colors is not an `object` but an `array` of `objects` sorted by color-name
 
+#### Unique Color-Names
+by adding `?noduplicates=true` every returned name will be unique. The closest color, that was not returned previously will be returned:
+`curl` [https://api.color.pizza/v1/212121,212121?noduplicates=true](https://api.color.pizza/v1/212121,212121?noduplicates=true) 
+
+```javascript
+{
+  "colors": [{ 
+    "name": 'Lead',
+    "hex": '#212121',
+    "rgb": { r: 33, g: 33, b: 33 },
+    "luminance": 22.062320231562225 
+  },{ 
+    "name": 'Abaddon Black',
+    "hex": '#231f20',
+    "rgb": { "r": 35, "g": 31, "b": 32 },
+    "luminance": 21.30621829419759 
+  }]
+}
+```
+
 ### Usage JS ⌨
 #### Exact Color
 ```javascript

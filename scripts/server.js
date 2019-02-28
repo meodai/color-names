@@ -5,7 +5,7 @@ const zlib = require('zlib');
 const lib = require('./lib.js');
 const ClosestVector = require('../node_modules/closestvector/.');
 const colors = JSON.parse(
-  fs.readFileSync(__dirname + '/../dist/colornames.json', 'utf8')
+    fs.readFileSync(__dirname + '/../dist/colornames.json', 'utf8')
 );
 const port = process.env.PORT || 8080;
 const currentVersion = 'v1';
@@ -36,7 +36,6 @@ colors.forEach((c) => {
   c.luminance = lib.luminance(rgb);
 });
 
-
 const closest = new ClosestVector(rgbColorsArr);
 /**
  * validates a hex color
@@ -50,16 +49,23 @@ const validateColor = (color) => (
 /**
  * names an array of colors
  * @param   {array} colorArr array containing hex values without the hash
+ * @param   {boolean} unique if set to true every returned name will be unque
  * @return  {object}         object containing all nearest colors
  */
-const nameColors = (colorArr) => {
-  return colorArr.map((hex) => {
+const nameColors = (colorArr, unique = false) => {
+  let localClosest = closest;
+  if (unique) {
+    localClosest = new ClosestVector(rgbColorsArr, true);
+  }
+
+  let colorResp = colorArr.map((hex) => {
     // calculate RGB values for passed color
     const rgb = lib.hexToRgb(hex);
 
     // get the closest named colors
-    const closestColor = closest.get([rgb.r, rgb.g, rgb.b]);
+    const closestColor = localClosest.get([rgb.r, rgb.g, rgb.b]);
     const color = colors[closestColor.index];
+
     return {
       hex: color.hex,
       name: color.name,
@@ -67,12 +73,16 @@ const nameColors = (colorArr) => {
       requestedHex: `#${hex}`,
       luminance: color.luminance,
       distance: Math.sqrt(
-        Math.pow(color.rgb.r - rgb.r, 2) +
-        Math.pow(color.rgb.g - rgb.g, 2) +
-        Math.pow(color.rgb.b - rgb.b, 2)
+          Math.pow(color.rgb.r - rgb.r, 2) +
+          Math.pow(color.rgb.g - rgb.g, 2) +
+          Math.pow(color.rgb.b - rgb.b, 2)
       ),
     };
   });
+  if (unique) {
+    localClosest.clearCache();
+  }
+  return colorResp;
 
   // closest.clearCache()
 };
@@ -81,10 +91,10 @@ const parseSearchString = (searchStr) => {
   const objURL = {};
 
   searchStr.replace(
-    new RegExp('([^?=&]+)(=([^&]*))?', 'g'),
-    ($0, $1, $2, $3) => {
-      objURL[$1] = $3;
-    }
+      new RegExp('([^?=&]+)(=([^&]*))?', 'g'),
+      ($0, $1, $2, $3) => {
+        objURL[$1] = $3;
+      }
   );
 
   return objURL;
@@ -125,17 +135,20 @@ const requestHandler = (request, response) => {
     }}, 404);
   }
 
-  const search = requestUrl.search || '';
+  // const search = requestUrl.search || '';
+
+  const uniqueMode = request.url.indexOf('noduplicates=true') !== -1;
 
   let colorQuery = request.url.replace(requestUrl.search, '')
-                   // splits the base url from the everything
-                   // after the API URL
-                   .split(baseUrl)[1] || '';
+  // splits the base url from the everything
+  // after the API URL
+      .split(baseUrl)[1] || '';
+
 
   // gets all the colors after
   const urlColorList = colorQuery.toLowerCase()
-                       .split(urlColorSeparator)
-                       .filter((hex) => (hex));
+      .split(urlColorSeparator)
+      .filter((hex) => (hex));
 
   // creates a list of invalid colors
   const invalidColors = urlColorList.filter((hex) => (
@@ -150,7 +163,7 @@ const requestHandler = (request, response) => {
   }
 
   return httpRespond(response, {
-    colors: urlColorList[0] ? nameColors(urlColorList) : colors,
+    colors: urlColorList[0] ? nameColors(urlColorList, uniqueMode) : colors,
   }, 200);
 };
 
