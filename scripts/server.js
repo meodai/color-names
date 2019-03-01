@@ -58,7 +58,7 @@ const nameColors = (colorArr, unique = false) => {
     localClosest = new ClosestVector(rgbColorsArr, true);
   }
 
-  let colorResp = colorArr.map((hex) => {
+  const colorResp = colorArr.map((hex) => {
     // calculate RGB values for passed color
     const rgb = lib.hexToRgb(hex);
 
@@ -87,6 +87,7 @@ const nameColors = (colorArr, unique = false) => {
   // closest.clearCache()
 };
 
+/*
 const parseSearchString = (searchStr) => {
   const objURL = {};
 
@@ -99,7 +100,7 @@ const parseSearchString = (searchStr) => {
 
   return objURL;
 };
-
+*/
 /**
  * responds to the client
  * @param {object} response      server response object
@@ -139,7 +140,7 @@ const requestHandler = (request, response) => {
 
   const uniqueMode = request.url.indexOf('noduplicates=true') !== -1;
 
-  let colorQuery = request.url.replace(requestUrl.search, '')
+  const colorQuery = request.url.replace(requestUrl.search, '')
   // splits the base url from the everything
   // after the API URL
       .split(baseUrl)[1] || '';

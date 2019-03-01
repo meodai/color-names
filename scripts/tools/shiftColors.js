@@ -35,7 +35,7 @@ colors.forEach((col) => {
 let csv = 'name,hex\n';
 
 newColors.forEach(col => {
-  csv += `${col.name},${col.hex}\n`
+  csv += `${col.name},${col.hex}\n`;
 });
 
 fs.writeFileSync('somefile.csv', csv);

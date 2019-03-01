@@ -105,7 +105,7 @@ module.exports = {
     return {
       r: (int >> 16) & 255,
       g: (int >> 8) & 255,
-      b: int & 255
+      b: int & 255,
     };
   },
 
@@ -116,8 +116,8 @@ module.exports = {
    * @return {int} distance
    */
   distance: (rgb1, rgb2) => (Math.sqrt(
-    Math.pow(rgb1.r - rgb2.r, 2) +
+      Math.pow(rgb1.r - rgb2.r, 2) +
     Math.pow(rgb1.g - rgb2.g, 2) +
     Math.pow(rgb1.b - rgb2.b, 2)
-  ))
+  )),
 };

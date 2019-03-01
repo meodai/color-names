@@ -16,7 +16,7 @@ const nc = nearestColor.from(colorsObj);
 
 const newNames = [];
 colors.forEach(color => {
-  if (!color) return
+  if (!color) return;
   let n = nc(color);
   newNames.push(n.name + ',' + color);
 });

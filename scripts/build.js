@@ -23,8 +23,8 @@ const csvKeys = ['name', 'hex'];
 
 // reads the CSV file contents
 const src = fs.readFileSync(
-  path.normalize(`${baseFolder}${folderSrc}${fileNameSrc}.csv`),
-  'utf8'
+    path.normalize(`${baseFolder}${folderSrc}${fileNameSrc}.csv`),
+    'utf8'
 ).toString();
 const colorsSrc = parseCSVString(src);
 
@@ -59,20 +59,20 @@ if (isTestRun) {
 const JSONExportString = JSON.stringify(colorsSrc.entires);
 
 fs.writeFileSync(
-  path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.json`),
-  JSONExportString
+    path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.json`),
+    JSONExportString
 );
 
 // gets UMD template
 const umdTpl = fs.readFileSync(
-  path.normalize(__dirname + '/umd.js.tpl'),
-  'utf8'
+    path.normalize(__dirname + '/umd.js.tpl'),
+    'utf8'
 ).toString();
 
 // create UMD
 fs.writeFileSync(
-  path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.umd.js`),
-  umdTpl.replace('"{{COLORS}}"', JSONExportString)
+    path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.umd.js`),
+    umdTpl.replace('"{{COLORS}}"', JSONExportString)
 );
 
 // create foreign formats
@@ -97,6 +97,14 @@ const outputFormats = {
     itemDelimitor: ':',
     rowDelimitor: ',',
   },
+  'css': {
+    insertBefore: ':root{\r\n--color-',
+    beforeValue: '',
+    afterValue: '',
+    insertAfter: '};',
+    itemDelimitor: ':',
+    rowDelimitor: ';\r\n--color-',
+  },
   'html': {
     insertBefore: `<table><thead><tr><th>${csvKeys.join('</th><th>')}</th></tr><thead><tbody><tr><td>`,
     itemDelimitor: '</td><td>',
@@ -108,39 +116,48 @@ const outputFormats = {
     itemDelimitor: `</${csvKeys[0]}>\r\n<${csvKeys[1]}>`,
     rowDelimitor: `</${csvKeys[1]}>\r\n</color>\r\n<color>\r\n<${csvKeys[0]}>`,
     insertAfter: `</${csvKeys[1]}>\r\n</color>\r\n</colors>`,
-  }
+  },
 };
 
-for (let outputFormat in outputFormats) {
-  let outputString = objArrToString(
-    colorsSrc.entires,
-    csvKeys,
-    outputFormats[outputFormat]
-  );
-  if (outputFormat === 'html' || outputFormat === 'xml') {
-    outputString = outputString.replace(/&/g, '&amp;')
+for (const outputFormat in outputFormats) {
+  if (outputFormats[outputFormat]) {
+    let outputString = objArrToString(
+        colorsSrc.entires,
+        csvKeys,
+        outputFormats[outputFormat]
+    );
+    if (outputFormat === 'html' || outputFormat === 'xml') {
+      outputString = outputString.replace(/&/g, '&amp;');
+    }
+    if (outputFormat === 'css') {
+      outputString = outputString.toLowerCase();
+      outputString = outputString.replace(/'/g, '');
+      outputString = outputString.replace(/ /g, '-');
+      outputString = outputString.replace(/&/g, 'and');
+      outputString = outputString.replace(/%/g, 'percent');
+    }
+    fs.writeFileSync(
+        path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.${outputFormat}`),
+        outputString
+    );
   }
-  fs.writeFileSync(
-    path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.${outputFormat}`),
-    outputString
-  );
 }
 
 // updates the color count in readme file
 const readme = fs.readFileSync(
-  path.normalize(`${baseFolder}${readmeFileName}`),
-  'utf8'
+    path.normalize(`${baseFolder}${readmeFileName}`),
+    'utf8'
 ).toString();
 fs.writeFileSync(
-  path.normalize(`${baseFolder}${readmeFileName}`),
-  readme.replace(/__\d+__/g, `__${colorsSrc.entires.length}__`)
-  .replace(
-    /\d+-colors-orange/,
-    `${colorsSrc.entires.length}-colors-orange`
-  ).replace(
-    /__\d+(\.\d+)?%__/,
-    `__${((colorsSrc.entires.length / (256 * 256 * 256)) * 100).toFixed(2)}%__`
-  ),'utf8'
+    path.normalize(`${baseFolder}${readmeFileName}`),
+    readme.replace(/__\d+__/g, `__${colorsSrc.entires.length}__`)
+        .replace(
+            /\d+-colors-orange/,
+            `${colorsSrc.entires.length}-colors-orange`
+        ).replace(
+            /__\d+(\.\d+)?%__/,
+            `__${((colorsSrc.entires.length / (256 * 256 * 256)) * 100).toFixed(2)}%__`
+        ), 'utf8'
 );
 
 /**
