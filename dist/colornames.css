@@ -9,6 +9,7 @@
 --color-a-hint-of-incremental-blue:#456789;
 --color-a-state-of-mint:#88ffcc;
 --color-aare-river:#00b89f;
+--color-aare-river-brienz:#05a3ad;
 --color-abaddon-black:#231f20;
 --color-abaidh-white:#f2f1e6;
 --color-abalone:#f8f3f6;
@@ -507,6 +508,7 @@
 --color-antler-moth:#864f3e;
 --color-anzac:#c68e3f;
 --color-ao:#00800c;
+--color-aoifes-green:#27b692;
 --color-aotake-bamboo:#006442;
 --color-apatite-crystal-green:#bbff99;
 --color-apeland:#8a843b;
@@ -2197,6 +2199,7 @@
 --color-brittanys-bow:#f3d8e0;
 --color-broadleaf-forest:#014421;
 --color-broadwater-blue:#034a71;
+--color-broccoli-brown:#9b856b;
 --color-broccoli-green:#4b5338;
 --color-broken-tube:#060310;
 --color-broken-white:#eeebe3;
@@ -2906,6 +2909,7 @@
 --color-celuce:#8bab68;
 --color-cembra-blossom:#725671;
 --color-cement:#a5a391;
+--color-cemetery-ash:#c0c7d0;
 --color-cendre-blue:#3e7fa5;
 --color-census:#327a68;
 --color-centaur:#90673f;
@@ -3408,6 +3412,7 @@
 --color-cloudy-sea:#6699aa;
 --color-cloudy-viridian:#4b5f56;
 --color-clove:#876155;
+--color-clove-brown:#766051;
 --color-clove-dye:#a96232;
 --color-clovedust:#b0705d;
 --color-clover:#008f00;
@@ -6142,6 +6147,7 @@
 --color-ghostly:#a7a09f;
 --color-ghostly-green:#d9d7b8;
 --color-ghostly-grey:#ccccd3;
+--color-ghostwaver:#e2dbdb;
 --color-ghoul-skin:#667744;
 --color-giant-onion:#665d9e;
 --color-giants-club:#b05c52;
@@ -7007,6 +7013,7 @@
 --color-heartfelt:#ffadc9;
 --color-hearth:#e1cca6;
 --color-hearth-gold:#a17135;
+--color-heartless:#623b70;
 --color-hearty-hosta:#96bf83;
 --color-heat-wave:#ff7a00;
 --color-heath:#4f2a2c;
@@ -7154,8 +7161,6 @@
 --color-hindsight:#bdc9e3;
 --color-hindu-lotus:#8e8062;
 --color-hinomaru-red:#bc002d;
---color-hint-of-ace:#dfe2f0;
---color-hint-of-adobe:#d1b791;
 --color-hint-of-airborne:#c6dde4;
 --color-hint-of-alley:#d6dee9;
 --color-hint-of-amethyst-ice:#e5e1dd;
@@ -7663,6 +7668,7 @@
 --color-horned-lizard:#e8ead5;
 --color-hornet-sting:#ff0033;
 --color-hornet-yellow:#a67c08;
+--color-horror-snob:#d34d4d;
 --color-horse-liver:#543d37;
 --color-horseradish:#e6dfc4;
 --color-horseradish-cream:#eeeadd;
@@ -8211,6 +8217,7 @@
 --color-kabalite-green:#038c67;
 --color-kabocha-green:#044a05;
 --color-kabul:#6c5e53;
+--color-kaceys-pink:#e94b7e;
 --color-kachi-indigo:#393e4f;
 --color-kahili:#b7bfb0;
 --color-kahlua-milk:#bab099;
@@ -10122,6 +10129,7 @@
 --color-middle-yellow:#ffeb00;
 --color-middle-yellow-red:#ecb176;
 --color-middlestone:#c7ab84;
+--color-middys-purple:#aa8ed6;
 --color-midnight:#03012d;
 --color-midnight-badger:#585960;
 --color-midnight-blue:#020035;
@@ -12269,6 +12277,7 @@
 --color-pit-stop:#414958;
 --color-pita-bread:#f5e7d2;
 --color-pitapat:#edeb9a;
+--color-pitch:#423937;
 --color-pitch-black:#483c41;
 --color-pitch-mary-brown:#5c4033;
 --color-pitcher:#b5d1be;
@@ -12598,6 +12607,7 @@
 --color-primary-blue:#0804f9;
 --color-primavera:#6fa77a;
 --color-prime-blue:#0064a1;
+--color-prime-merchandise:#92b979;
 --color-prime-pink:#ff8d86;
 --color-primitive-plum:#663c55;
 --color-primo:#7cbc6c;
@@ -14526,6 +14536,7 @@
 --color-slightly-golden:#cb904e;
 --color-slightly-peach:#f1ddd8;
 --color-slightly-rose:#e6cfce;
+--color-slime:#a7c408;
 --color-slimer-green:#aadd00;
 --color-slimlime:#b8ebc5;
 --color-slimy-green:#7ded17;
@@ -14980,6 +14991,7 @@
 --color-spun-pearl:#a2a1ac;
 --color-spun-sugar:#fae2ed;
 --color-sql-injection-purple:#5e0092;
+--color-squant:#666666;
 --color-squash:#f2ab15;
 --color-squash-blossom:#f8b438;
 --color-squeaky:#6cc4da;
@@ -15156,6 +15168,7 @@
 --color-straw-gold:#fcf679;
 --color-straw-hat:#f0d5a8;
 --color-straw-hut:#bdb268;
+--color-straw-yellow:#f0d696;
 --color-strawberry:#fb2943;
 --color-strawberry-blonde:#ffdadc;
 --color-strawberry-confection:#f4bfc6;
@@ -16474,6 +16487,7 @@
 --color-verditter-blue:#55aabb;
 --color-verdun-green:#48531a;
 --color-vermicelle:#dabe82;
+--color-vermicelli:#d1b791;
 --color-vermilion:#f4320c;
 --color-vermilion-bird:#f24433;
 --color-vermilion-cinnabar:#e34244;
@@ -17033,6 +17047,7 @@
 --color-white-scar:#8c9fa1;
 --color-white-shadow:#d1d3e0;
 --color-white-smoke:#f5f5f5;
+--color-white-solid:#f4f5fa;
 --color-white-spruce:#9fbdad;
 --color-white-sulfur:#f1faea;
 --color-white-swan:#e4d7c5;

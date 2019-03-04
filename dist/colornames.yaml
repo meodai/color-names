@@ -29,6 +29,9 @@
   name:"Aare River"
   hex:"#00b89f"
 -
+  name:"Aare River Brienz"
+  hex:"#05a3ad"
+-
   name:"Abaddon Black"
   hex:"#231f20"
 -
@@ -1522,6 +1525,9 @@
 -
   name:"Ao"
   hex:"#00800c"
+-
+  name:"Aoife's Green"
+  hex:"#27b692"
 -
   name:"Aotake Bamboo"
   hex:"#006442"
@@ -6593,6 +6599,9 @@
   name:"Broadwater Blue"
   hex:"#034a71"
 -
+  name:"Broccoli Brown"
+  hex:"#9b856b"
+-
   name:"Broccoli Green"
   hex:"#4b5338"
 -
@@ -8720,6 +8729,9 @@
   name:"Cement"
   hex:"#a5a391"
 -
+  name:"Cemetery Ash"
+  hex:"#c0c7d0"
+-
   name:"Cendre Blue"
   hex:"#3e7fa5"
 -
@@ -10225,6 +10237,9 @@
 -
   name:"Clove"
   hex:"#876155"
+-
+  name:"Clove Brown"
+  hex:"#766051"
 -
   name:"Clove Dye"
   hex:"#a96232"
@@ -18428,6 +18443,9 @@
   name:"Ghostly Grey"
   hex:"#ccccd3"
 -
+  name:"Ghostwaver"
+  hex:"#e2dbdb"
+-
   name:"Ghoul Skin"
   hex:"#667744"
 -
@@ -21023,6 +21041,9 @@
   name:"Hearth Gold"
   hex:"#a17135"
 -
+  name:"Heartless"
+  hex:"#623b70"
+-
   name:"Hearty Hosta"
   hex:"#96bf83"
 -
@@ -21463,12 +21484,6 @@
 -
   name:"Hinomaru Red"
   hex:"#bc002d"
--
-  name:"Hint of Ace"
-  hex:"#dfe2f0"
--
-  name:"Hint of Adobe"
-  hex:"#d1b791"
 -
   name:"Hint of Airborne"
   hex:"#c6dde4"
@@ -22990,6 +23005,9 @@
 -
   name:"Hornet Yellow"
   hex:"#a67c08"
+-
+  name:"Horror Snob"
+  hex:"#d34d4d"
 -
   name:"Horse Liver"
   hex:"#543d37"
@@ -24634,6 +24652,9 @@
 -
   name:"Kabul"
   hex:"#6c5e53"
+-
+  name:"Kacey's Pink"
+  hex:"#e94b7e"
 -
   name:"Kachi Indigo"
   hex:"#393e4f"
@@ -30367,6 +30388,9 @@
 -
   name:"Middlestone"
   hex:"#c7ab84"
+-
+  name:"Middy's Purple"
+  hex:"#aa8ed6"
 -
   name:"Midnight"
   hex:"#03012d"
@@ -36809,6 +36833,9 @@
   name:"Pitapat"
   hex:"#edeb9a"
 -
+  name:"Pitch"
+  hex:"#423937"
+-
   name:"Pitch Black"
   hex:"#483c41"
 -
@@ -37795,6 +37822,9 @@
 -
   name:"Prime Blue"
   hex:"#0064a1"
+-
+  name:"Prime Merchandise"
+  hex:"#92b979"
 -
   name:"Prime Pink"
   hex:"#ff8d86"
@@ -43580,6 +43610,9 @@
   name:"Slightly Rose"
   hex:"#e6cfce"
 -
+  name:"Slime"
+  hex:"#a7c408"
+-
   name:"Slimer Green"
   hex:"#aadd00"
 -
@@ -44942,6 +44975,9 @@
   name:"SQL Injection Purple"
   hex:"#5e0092"
 -
+  name:"Squant"
+  hex:"#666666"
+-
   name:"Squash"
   hex:"#f2ab15"
 -
@@ -45469,6 +45505,9 @@
 -
   name:"Straw Hut"
   hex:"#bdb268"
+-
+  name:"Straw Yellow"
+  hex:"#f0d696"
 -
   name:"Strawberry"
   hex:"#fb2943"
@@ -49424,6 +49463,9 @@
   name:"Vermicelle"
   hex:"#dabe82"
 -
+  name:"Vermicelli"
+  hex:"#d1b791"
+-
   name:"Vermilion"
   hex:"#f4320c"
 -
@@ -51100,6 +51142,9 @@
 -
   name:"White Smoke"
   hex:"#f5f5f5"
+-
+  name:"White Solid"
+  hex:"#f4f5fa"
 -
   name:"White Spruce"
   hex:"#9fbdad"
