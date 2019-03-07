@@ -12,7 +12,8 @@
     "build": "npm run clean-dist-folder && node scripts/build.js",
     "start": "node scripts/server.js",
     "travis-deploy-once": "travis-deploy-once",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "heroku-postbuild": "echo Skip build on Heroku"
   },
   "repository": {
     "type": "git",
@@ -51,5 +52,6 @@
       "path": "cz-conventional-changelog"
     }
   },
-  "dependencies": {}
+  "dependencies": {},
+  "heroku-run-build-script": true
 }
