@@ -1,4 +1,4 @@
-# __17572__ color-names
+# __17577__ color-names
 
 <img align="right" height="222" width="222" src="https://meodai.github.io/color-names/logo/cockatoo-fill.svg">
 
@@ -6,10 +6,10 @@
 [![npm version](https://img.shields.io/npm/v/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
 [![npm](https://img.shields.io/npm/dt/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
 [![Travis](https://img.shields.io/travis/meodai/color-names.svg)](https://travis-ci.org/meodai/color-names)
-[![color count](https://img.shields.io/badge/17572-colors-orange.svg)](https://github.com/meodai/color-names/blob/master/src/colornames.csv)
+[![color count](https://img.shields.io/badge/17577-colors-orange.svg)](https://github.com/meodai/color-names/blob/master/src/colornames.csv)
 [![Buy Me a Coffee at ko-fi.com](https://img.shields.io/badge/-Buy%20us%20a%20Coffee-orange.svg?colorB=593C1F&colorA=4e798d&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAVUlEQVR4AWNQtnJTQcZ%2Blb2fsWF0dQzYNRHWzIBdE2EDGGCaSNYI47x69fY%2FMRimnmiNyGqwavyflo6MaawRTTP1%2FIiM4dFBQBPl8UggyRHWSHYiBwCwA90T1NTlAQAAAABJRU5ErkJggg%3D%3D%0D%0A&logoWidth=14)](https://ko-fi.com/A530429S)
 
-A handpicked list of __17572__ unique color names from [various sources](#sources-) and thousands of user submissions. [Try it yourself](http://codepen.io/meodai/full/mEvZRx/) or read [the full list](https://codepen.io/meodai/full/VMpNdQ/).
+A handpicked list of __17577__ unique color names from [various sources](#sources-) and thousands of user submissions. [Try it yourself](http://codepen.io/meodai/full/mEvZRx/) or read [the full list](https://codepen.io/meodai/full/VMpNdQ/).
 
 > The names of color function like a thread attached to a frightfully slender needle, capable of stitching together our most delicate emotions and memories. When the needle hits the target, we feel either pleasure or empathy. **Kenya Hara – White**
 
@@ -19,7 +19,7 @@ The aim of this project is to create as large a list of color names as possible.
 ### Submit a color [via form 🌈](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform) / or [twitter 🐦](https://codepen.io/meodai/full/ZXQzLb/)
 Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute!
 
-### color count: __17572__ 🎉
+### color count: __17577__ 🎉
 (~__0.10%__ of all RGB Colors)
 
 ### [Color distribution](https://codepen.io/meodai/full/zdgXJj/) 🛰
