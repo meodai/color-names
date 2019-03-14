@@ -413,6 +413,9 @@
   name:"Aggressive Baby Blue"
   hex:"#6fffff"
 -
+  name:"Aggressive Salmon"
+  hex:"#ff7799"
+-
   name:"Agrax Earthshade"
   hex:"#393121"
 -
@@ -7709,6 +7712,9 @@
   name:"Camel Cord"
   hex:"#e0cb82"
 -
+  name:"Camel Fur"
+  hex:"#bb6600"
+-
   name:"Camel Hair Coat"
   hex:"#f5b784"
 -
@@ -9367,6 +9373,9 @@
 -
   name:"Chilled Wine"
   hex:"#6d4052"
+-
+  name:"Chilli Cashew"
+  hex:"#cc5544"
 -
   name:"Chilly Spice"
   hex:"#fd9989"
@@ -16003,6 +16012,9 @@
 -
   name:"Eyefull"
   hex:"#8db6b7"
+-
+  name:"Eyelash Camel"
+  hex:"#553300"
 -
   name:"Eyelash Viper"
   hex:"#f4c54b"
@@ -45872,6 +45884,9 @@
   name:"Sugar Chic"
   hex:"#ffccff"
 -
+  name:"Sugar Coated Almond"
+  hex:"#bb6611"
+-
   name:"Sugar Cookie"
   hex:"#f2e2a4"
 -
@@ -45887,8 +45902,14 @@
   name:"Sugar Glaze"
   hex:"#fff0e1"
 -
+  name:"Sugar Glazed Cashew"
+  hex:"#cc9955"
+-
   name:"Sugar Grape"
   hex:"#9437ff"
+-
+  name:"Sugar Honey Cashew"
+  hex:"#ddaa66"
 -
   name:"Sugar Maple"
   hex:"#9c7647"
@@ -46514,6 +46535,9 @@
   name:"Sweet 60"
   hex:"#f29eab"
 -
+  name:"Sweet Almond"
+  hex:"#cc9977"
+-
   name:"Sweet Alyssum"
   hex:"#e7c2de"
 -
@@ -46534,6 +46558,9 @@
 -
   name:"Sweet Butter"
   hex:"#fffcd7"
+-
+  name:"Sweet Cashew"
+  hex:"#ddaa77"
 -
   name:"Sweet Corn"
   hex:"#f9e176"

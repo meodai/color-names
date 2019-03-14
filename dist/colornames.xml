@@ -553,6 +553,10 @@
 <hex>#6fffff</hex>
 </color>
 <color>
+<name>Aggressive Salmon</name>
+<hex>#ff7799</hex>
+</color>
+<color>
 <name>Agrax Earthshade</name>
 <hex>#393121</hex>
 </color>
@@ -10281,6 +10285,10 @@
 <hex>#e0cb82</hex>
 </color>
 <color>
+<name>Camel Fur</name>
+<hex>#bb6600</hex>
+</color>
+<color>
 <name>Camel Hair Coat</name>
 <hex>#f5b784</hex>
 </color>
@@ -12491,6 +12499,10 @@
 <color>
 <name>Chilled Wine</name>
 <hex>#6d4052</hex>
+</color>
+<color>
+<name>Chilli Cashew</name>
+<hex>#cc5544</hex>
 </color>
 <color>
 <name>Chilly Spice</name>
@@ -21339,6 +21351,10 @@
 <color>
 <name>Eyefull</name>
 <hex>#8db6b7</hex>
+</color>
+<color>
+<name>Eyelash Camel</name>
+<hex>#553300</hex>
 </color>
 <color>
 <name>Eyelash Viper</name>
@@ -61165,6 +61181,10 @@
 <hex>#ffccff</hex>
 </color>
 <color>
+<name>Sugar Coated Almond</name>
+<hex>#bb6611</hex>
+</color>
+<color>
 <name>Sugar Cookie</name>
 <hex>#f2e2a4</hex>
 </color>
@@ -61185,8 +61205,16 @@
 <hex>#fff0e1</hex>
 </color>
 <color>
+<name>Sugar Glazed Cashew</name>
+<hex>#cc9955</hex>
+</color>
+<color>
 <name>Sugar Grape</name>
 <hex>#9437ff</hex>
+</color>
+<color>
+<name>Sugar Honey Cashew</name>
+<hex>#ddaa66</hex>
 </color>
 <color>
 <name>Sugar Maple</name>
@@ -62021,6 +62049,10 @@
 <hex>#f29eab</hex>
 </color>
 <color>
+<name>Sweet Almond</name>
+<hex>#cc9977</hex>
+</color>
+<color>
 <name>Sweet Alyssum</name>
 <hex>#e7c2de</hex>
 </color>
@@ -62047,6 +62079,10 @@
 <color>
 <name>Sweet Butter</name>
 <hex>#fffcd7</hex>
+</color>
+<color>
+<name>Sweet Cashew</name>
+<hex>#ddaa77</hex>
 </color>
 <color>
 <name>Sweet Corn</name>
