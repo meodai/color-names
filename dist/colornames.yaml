@@ -878,6 +878,9 @@
   name:"Alto"
   hex:"#cdc6c5"
 -
+  name:"Alu Gobi"
+  hex:"#ddbb00"
+-
   name:"Alucard's Night"
   hex:"#000055"
 -
@@ -2791,6 +2794,9 @@
 -
   name:"Baal Red Wash"
   hex:"#610023"
+-
+  name:"Baba Ganoush"
+  hex:"#eebb88"
 -
   name:"Babbling Brook"
   hex:"#becfcd"
@@ -8189,6 +8195,9 @@
   name:"Carbon Footprint"
   hex:"#7b808b"
 -
+  name:"Cardamom"
+  hex:"#aaaa77"
+-
   name:"Cardboard"
   hex:"#c19a6c"
 -
@@ -9310,6 +9319,9 @@
 -
   name:"Chicken Comb"
   hex:"#dd2222"
+-
+  name:"Chicken Masala"
+  hex:"#cc8822"
 -
   name:"Chickpea"
   hex:"#efe7df"
@@ -11675,6 +11687,9 @@
   name:"Crispy Chicken Skin"
   hex:"#ddaa44"
 -
+  name:"Crispy Samosa"
+  hex:"#ffbb66"
+-
   name:"Crocker Grove"
   hex:"#b1a685"
 -
@@ -11998,6 +12013,9 @@
 -
   name:"Curry"
   hex:"#be9e6f"
+-
+  name:"Curry Powder"
+  hex:"#cc6600"
 -
   name:"Curry Sauce"
   hex:"#d6a332"
@@ -23171,6 +23189,9 @@
   name:"Hot Sauce"
   hex:"#ab4f41"
 -
+  name:"Hot Spice"
+  hex:"#cc2211"
+-
   name:"Hot Stone"
   hex:"#aba89e"
 -
@@ -23245,6 +23266,9 @@
 -
   name:"Hummingbird"
   hex:"#ceefe4"
+-
+  name:"Hummus"
+  hex:"#eecc99"
 -
   name:"Humpback Whale"
   hex:"#473b3b"
@@ -24791,6 +24815,9 @@
   name:"Kamut"
   hex:"#cca483"
 -
+  name:"Kanafeh"
+  hex:"#dd8833"
+-
   name:"Kangaroo"
   hex:"#c5c3b0"
 -
@@ -25207,6 +25234,9 @@
 -
   name:"Kodama White"
   hex:"#e8f5fc"
+-
+  name:"Kofta Brown"
+  hex:"#883322"
 -
   name:"Kogane Gold"
   hex:"#e5b321"
@@ -29534,6 +29564,9 @@
   name:"Masala"
   hex:"#57534b"
 -
+  name:"Masala Chai"
+  hex:"#eeccaa"
+-
   name:"Mask"
   hex:"#ab878d"
 -
@@ -29605,6 +29638,9 @@
 -
   name:"Matt White"
   hex:"#ffffd4"
+-
+  name:"Mattar Paneer"
+  hex:"#884433"
 -
   name:"Matterhorn"
   hex:"#524b4b"
@@ -34321,6 +34357,9 @@
 -
   name:"Palace Purple"
   hex:"#68457a"
+-
+  name:"Palak Paneer"
+  hex:"#888811"
 -
   name:"Palatinate Blue"
   hex:"#273be2"
@@ -40271,6 +40310,9 @@
   name:"Roebuck"
   hex:"#b09080"
 -
+  name:"Rogan Josh"
+  hex:"#883311"
+-
   name:"Rogue"
   hex:"#807a6c"
 -
@@ -42629,6 +42671,9 @@
   name:"Shakespeare"
   hex:"#609ab8"
 -
+  name:"Shakshuka"
+  hex:"#aa3311"
+-
   name:"Shaku-Do Copper"
   hex:"#752100"
 -
@@ -44780,6 +44825,9 @@
   name:"Spiced Wine"
   hex:"#664942"
 -
+  name:"Spicy Hummus"
+  hex:"#eebbaa"
+-
   name:"Spicy Mix"
   hex:"#8b5f4d"
 -
@@ -46825,6 +46873,9 @@
 -
   name:"Taffy Twist"
   hex:"#aad0ba"
+-
+  name:"Tahini"
+  hex:"#ddbb77"
 -
   name:"Tahiti Gold"
   hex:"#dc722a"
