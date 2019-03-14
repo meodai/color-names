@@ -1355,6 +1355,9 @@
   name:"Angry Ocean"
   hex:"#4e6665"
 -
+  name:"Angry Pasta"
+  hex:"#ffcc55"
+-
   name:"Aniline Mauve"
   hex:"#b9abad"
 -
@@ -4042,6 +4045,9 @@
 -
   name:"Bethany"
   hex:"#cadbbd"
+-
+  name:"Bethlehem Red"
+  hex:"#ee0022"
 -
   name:"Betsy"
   hex:"#73c9d9"
@@ -10414,6 +10420,9 @@
 -
   name:"Cocktail Olive"
   hex:"#9fa36c"
+-
+  name:"Coco-Lemon Tart"
+  hex:"#eedd88"
 -
   name:"Cocoa"
   hex:"#875f42"
@@ -21166,6 +21175,9 @@
 -
   name:"Heathered Grey"
   hex:"#b6b095"
+-
+  name:"Heating Lamp"
+  hex:"#ee4422"
 -
   name:"Heaven Sent"
   hex:"#eee1eb"
@@ -32618,6 +32630,12 @@
   name:"New Steel"
   hex:"#738595"
 -
+  name:"New Wave Green"
+  hex:"#11ff11"
+-
+  name:"New Wave Pink"
+  hex:"#ff22ff"
+-
   name:"New Wheat"
   hex:"#d7b57f"
 -
@@ -35651,8 +35669,14 @@
   name:"Pecan Veneer"
   hex:"#e09f78"
 -
+  name:"Pedestrian Green"
+  hex:"#00bb22"
+-
   name:"Pedestrian Lemon"
   hex:"#ffff22"
+-
+  name:"Pedestrian Red"
+  hex:"#cc1122"
 -
   name:"Pedigree"
   hex:"#31646e"

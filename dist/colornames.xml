@@ -1809,6 +1809,10 @@
 <hex>#4e6665</hex>
 </color>
 <color>
+<name>Angry Pasta</name>
+<hex>#ffcc55</hex>
+</color>
+<color>
 <name>Aniline Mauve</name>
 <hex>#b9abad</hex>
 </color>
@@ -5391,6 +5395,10 @@
 <color>
 <name>Bethany</name>
 <hex>#cadbbd</hex>
+</color>
+<color>
+<name>Bethlehem Red</name>
+<hex>#ee0022</hex>
 </color>
 <color>
 <name>Betsy</name>
@@ -13887,6 +13895,10 @@
 <color>
 <name>Cocktail Olive</name>
 <hex>#9fa36c</hex>
+</color>
+<color>
+<name>Coco-Lemon Tart</name>
+<hex>#eedd88</hex>
 </color>
 <color>
 <name>Cocoa</name>
@@ -28223,6 +28235,10 @@
 <color>
 <name>Heathered Grey</name>
 <hex>#b6b095</hex>
+</color>
+<color>
+<name>Heating Lamp</name>
+<hex>#ee4422</hex>
 </color>
 <color>
 <name>Heaven Sent</name>
@@ -43493,6 +43509,14 @@
 <hex>#738595</hex>
 </color>
 <color>
+<name>New Wave Green</name>
+<hex>#11ff11</hex>
+</color>
+<color>
+<name>New Wave Pink</name>
+<hex>#ff22ff</hex>
+</color>
+<color>
 <name>New Wheat</name>
 <hex>#d7b57f</hex>
 </color>
@@ -47537,8 +47561,16 @@
 <hex>#e09f78</hex>
 </color>
 <color>
+<name>Pedestrian Green</name>
+<hex>#00bb22</hex>
+</color>
+<color>
 <name>Pedestrian Lemon</name>
 <hex>#ffff22</hex>
+</color>
+<color>
+<name>Pedestrian Red</name>
+<hex>#cc1122</hex>
 </color>
 <color>
 <name>Pedigree</name>
