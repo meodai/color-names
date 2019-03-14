@@ -49,7 +49,7 @@ https://api.color.pizza/v1/{{hexvalue without the #}},{{more comma separated val
   "colors": [{
     "name": "Lead",
     "hex": "#212121",
-    "rgb": {"r":33, "g":33, "b":33},
+    "rgb": {"r": 33, "g": 33, "b": 33},
     "distance": 0, // its an exact match
     "luminance": 22.062320231562225,
     "requestedHex": "#212121",
@@ -71,9 +71,9 @@ by adding `?noduplicates=true` every returned name will be unique. The closest c
 ```javascript
 {
   "colors": [{ 
-    "name": 'Lead',
-    "hex": '#212121',
-    "rgb": { r: 33, g: 33, b: 33 },
+    "name": "Lead",
+    "hex": "#212121",
+    "rgb": { "r": 33, "g": 33, "b": 33 },
     "luminance": 22.062320231562225 
   },{ 
     "name": 'Abaddon Black',
@@ -98,6 +98,7 @@ console.log(someColor.hex); // => #16161d
 
 #### Closest Named Color
 Since there are 16777216 possible RGB colors, you might use a library such as [nearest-color](https://github.com/dtao/nearest-color) to help you find the the closest named color.
+Since there are 16777216 possible RGB colors, you might use a library such as [ClosestVector](https://github.com/meodai/ClosestVector) to help you find the the closest named color.
 
 ```js
 import nearestColor from 'nearest-color';
