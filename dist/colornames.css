@@ -445,6 +445,7 @@
 --color-anger:#dd0055;
 --color-angora:#dfd1bb;
 --color-angora-blue:#b9c6d8;
+--color-angora-goat:#ede7de;
 --color-angora-pink:#ebdfea;
 --color-angraecum-orchid:#f4f6ec;
 --color-angry-flamingo:#f04e45;
@@ -1939,6 +1940,7 @@
 --color-bogey-green:#116f26;
 --color-bogong-moth:#663b3a;
 --color-bohemian-jazz:#9d777c;
+--color-boiling-magma:#ff3300;
 --color-boiling-mud:#a59c9b;
 --color-bok-choy:#bccab3;
 --color-bokara-grey:#2a2725;
@@ -3314,6 +3316,7 @@
 --color-citrino:#e9e89b;
 --color-citron:#d5c757;
 --color-citron-goby:#deff00;
+--color-citronella:#66bb77;
 --color-citronelle:#b8af23;
 --color-citrus:#9fb70a;
 --color-citrus-butter:#e4de8e;
@@ -4520,6 +4523,7 @@
 --color-demeter-green:#00cc00;
 --color-demitasse:#40342b;
 --color-demon:#224376;
+--color-demonic:#bb2233;
 --color-demonic-presence:#7c0a02;
 --color-demonic-purple:#d725de;
 --color-demonic-yellow:#ffe700;
@@ -4588,6 +4592,7 @@
 --color-devils-lip:#662a2c;
 --color-devils-plum:#423450;
 --color-devil’s-butterfly:#bb4422;
+--color-devilish:#dd3322;
 --color-devilish-diva:#ce7790;
 --color-devlan-mud:#5a573f;
 --color-devlan-mud-wash:#3c3523;
@@ -4800,6 +4805,7 @@
 --color-drifting:#beb4a8;
 --color-drifting-downstream:#61736f;
 --color-driftwood:#a67a45;
+--color-drippy-honey:#eebb22;
 --color-drive-in-cherry:#a62e30;
 --color-drizzle:#a0af9d;
 --color-dromedary:#e3c295;
@@ -5885,6 +5891,7 @@
 --color-fresh-blue-of-bel-air:#069af3;
 --color-fresh-breeze:#beeddc;
 --color-fresh-cantaloupe:#ff9c68;
+--color-fresh-cinnamon:#995511;
 --color-fresh-clay:#be8035;
 --color-fresh-cut:#f2003c;
 --color-fresh-cut-grass:#91cb7d;
@@ -6609,6 +6616,7 @@
 --color-green-bark:#a9c4a6;
 --color-green-bay:#7e9285;
 --color-green-bayou:#566e57;
+--color-green-bell-pepper:#228800;
 --color-green-belt:#2d7f6c;
 --color-green-beret:#516a62;
 --color-green-blue:#42b395;
@@ -7676,6 +7684,7 @@
 --color-honey-pot:#ffc863;
 --color-honey-robber:#dfbb86;
 --color-honey-yellow:#ca9456;
+--color-honeycomb:#ddaa11;
 --color-honeydew:#f0fff0;
 --color-honeydew-melon:#e6eccc;
 --color-honeydew-peel:#d4fb79;
@@ -11271,6 +11280,7 @@
 --color-oracle:#395555;
 --color-orange:#ffa500;
 --color-orange-aura:#ff9682;
+--color-orange-bell-pepper:#ff8844;
 --color-orange-brown:#b16002;
 --color-orange-burst:#ff6e3a;
 --color-orange-chalk:#fad48b;
@@ -11360,6 +11370,7 @@
 --color-orient:#255b77;
 --color-orient-blue:#47457a;
 --color-oriental-blush:#d7c6e1;
+--color-oriental-herbs:#118822;
 --color-oriental-pink:#c28e88;
 --color-oriental-spice:#8b5131;
 --color-origami:#ece0c6;
@@ -12084,6 +12095,7 @@
 --color-pickford:#c9f0d1;
 --color-pickle-juice:#bba528;
 --color-pickled:#b3a74b;
+--color-pickled-avocado:#99bb11;
 --color-pickled-bean:#6e4826;
 --color-pickled-beet:#4d233d;
 --color-pickled-beets:#aa0044;
@@ -12092,10 +12104,13 @@
 --color-pickled-ginger:#ffdd55;
 --color-pickled-grape-leaves:#775500;
 --color-pickled-lemon:#ddcc11;
+--color-pickled-limes:#bbbb11;
 --color-pickled-okra:#887647;
 --color-pickled-plum:#8e4785;
+--color-pickled-pork:#ddbbaa;
 --color-pickled-purple:#8e7aa1;
 --color-pickled-radish:#ee1144;
+--color-pickled-salmon:#ff6655;
 --color-pickling-spice:#cfd2b5;
 --color-picnic-bay:#bcdbd4;
 --color-picnic-day-sky:#00ccee;
@@ -13144,6 +13159,7 @@
 --color-red-baron:#bb0011;
 --color-red-bean:#3d0c02;
 --color-red-beech:#7b3801;
+--color-red-bell-pepper:#dd3300;
 --color-red-berry:#701f28;
 --color-red-birch:#9d2b22;
 --color-red-blood:#660000;
@@ -17480,6 +17496,7 @@
 --color-yearning:#061088;
 --color-yellow:#ffff00;
 --color-yellow-acorn:#b68d4c;
+--color-yellow-bell-pepper:#ffdd33;
 --color-yellow-brick-road:#eac853;
 --color-yellow-brown:#ae8b0c;
 --color-yellow-canary:#ffeaac;

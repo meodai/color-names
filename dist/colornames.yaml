@@ -1337,6 +1337,9 @@
   name:"Angora Blue"
   hex:"#b9c6d8"
 -
+  name:"Angora goat"
+  hex:"#ede7de"
+-
   name:"Angora Pink"
   hex:"#ebdfea"
 -
@@ -5819,6 +5822,9 @@
   name:"Bohemian Jazz"
   hex:"#9d777c"
 -
+  name:"Boiling Magma"
+  hex:"#ff3300"
+-
   name:"Boiling Mud"
   hex:"#a59c9b"
 -
@@ -9944,6 +9950,9 @@
   name:"Citron Goby"
   hex:"#deff00"
 -
+  name:"Citronella"
+  hex:"#66bb77"
+-
   name:"Citronelle"
   hex:"#b8af23"
 -
@@ -13562,6 +13571,9 @@
   name:"Demon"
   hex:"#224376"
 -
+  name:"Demonic"
+  hex:"#bb2233"
+-
   name:"Demonic Presence"
   hex:"#7c0a02"
 -
@@ -13765,6 +13777,9 @@
 -
   name:"Devil’s Butterfly"
   hex:"#bb4422"
+-
+  name:"Devilish"
+  hex:"#dd3322"
 -
   name:"Devilish Diva"
   hex:"#ce7790"
@@ -14401,6 +14416,9 @@
 -
   name:"Driftwood"
   hex:"#a67a45"
+-
+  name:"Drippy Honey"
+  hex:"#eebb22"
 -
   name:"Drive-In Cherry"
   hex:"#a62e30"
@@ -17657,6 +17675,9 @@
   name:"Fresh Cantaloupe"
   hex:"#ff9c68"
 -
+  name:"Fresh Cinnamon"
+  hex:"#995511"
+-
   name:"Fresh Clay"
   hex:"#be8035"
 -
@@ -19828,6 +19849,9 @@
 -
   name:"Green Bayou"
   hex:"#566e57"
+-
+  name:"Green Bell Pepper"
+  hex:"#228800"
 -
   name:"Green Belt"
   hex:"#2d7f6c"
@@ -23029,6 +23053,9 @@
 -
   name:"Honey Yellow"
   hex:"#ca9456"
+-
+  name:"Honeycomb"
+  hex:"#ddaa11"
 -
   name:"Honeydew"
   hex:"#f0fff0"
@@ -33815,6 +33842,9 @@
   name:"Orange Aura"
   hex:"#ff9682"
 -
+  name:"Orange Bell Pepper"
+  hex:"#ff8844"
+-
   name:"Orange Brown"
   hex:"#b16002"
 -
@@ -34081,6 +34111,9 @@
 -
   name:"Oriental Blush"
   hex:"#d7c6e1"
+-
+  name:"Oriental Herbs"
+  hex:"#118822"
 -
   name:"Oriental Pink"
   hex:"#c28e88"
@@ -36254,6 +36287,9 @@
   name:"Pickled"
   hex:"#b3a74b"
 -
+  name:"Pickled Avocado"
+  hex:"#99bb11"
+-
   name:"Pickled Bean"
   hex:"#6e4826"
 -
@@ -36278,17 +36314,26 @@
   name:"Pickled Lemon"
   hex:"#ddcc11"
 -
+  name:"Pickled Limes"
+  hex:"#bbbb11"
+-
   name:"Pickled Okra"
   hex:"#887647"
 -
   name:"Pickled Plum"
   hex:"#8e4785"
 -
+  name:"Pickled Pork"
+  hex:"#ddbbaa"
+-
   name:"Pickled Purple"
   hex:"#8e7aa1"
 -
   name:"Pickled Radish"
   hex:"#ee1144"
+-
+  name:"Pickled Salmon"
+  hex:"#ff6655"
 -
   name:"Pickling Spice"
   hex:"#cfd2b5"
@@ -39433,6 +39478,9 @@
 -
   name:"Red Beech"
   hex:"#7b3801"
+-
+  name:"Red Bell Pepper"
+  hex:"#dd3300"
 -
   name:"Red Berry"
   hex:"#701f28"
@@ -52441,6 +52489,9 @@
 -
   name:"Yellow Acorn"
   hex:"#b68d4c"
+-
+  name:"Yellow Bell Pepper"
+  hex:"#ffdd33"
 -
   name:"Yellow Brick Road"
   hex:"#eac853"
