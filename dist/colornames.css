@@ -2322,6 +2322,7 @@
 --color-budder-skin:#fce2c4;
 --color-buddha-gold:#bc9b1b;
 --color-buddha-green:#37b575;
+--color-buddhas-love-handles:#ffbb33;
 --color-budding-bloom:#deeabd;
 --color-budding-fern:#edecd4;
 --color-budding-peach:#f3d4bf;
@@ -2943,6 +2944,7 @@
 --color-cerise:#a41247;
 --color-cerise-pink:#ec3b83;
 --color-cerise-red:#de3163;
+--color-cerulean:#55aaee;
 --color-cerulean-blue:#2a52be;
 --color-cerulean-frost:#6d9bc3;
 --color-cetacean-blue:#001440;
@@ -6345,10 +6347,12 @@
 --color-golden-age:#ceab77;
 --color-golden-appeal:#e6be59;
 --color-golden-apricot:#dda758;
+--color-golden-aurelia:#ffee77;
 --color-golden-banner:#fcc62a;
 --color-golden-bell:#ca8136;
 --color-golden-blond:#ccaa55;
 --color-golden-brown:#b27a01;
+--color-golden-buddha-belly:#ffcc22;
 --color-golden-buff:#f8e6c8;
 --color-golden-cartridge:#bdb76b;
 --color-golden-chandelier:#dddd11;
@@ -10486,6 +10490,7 @@
 --color-moorland-heather:#cc94be;
 --color-moose-fur:#725440;
 --color-moot-green:#a2db10;
+--color-morado-purple:#9955cc;
 --color-morality:#b4cde5;
 --color-morass:#726138;
 --color-moray:#c8bd6a;
@@ -10902,6 +10907,7 @@
 --color-night-mode:#234e86;
 --color-night-night:#4f4f5e;
 --color-night-owl:#5d7b89;
+--color-night-pearl:#11ffbb;
 --color-night-rendezvous:#66787e;
 --color-night-rider:#332e2e;
 --color-night-romance:#715055;
@@ -11221,6 +11227,7 @@
 --color-olive-yellow:#c2b709;
 --color-olivenite:#333311;
 --color-olivetone:#747028;
+--color-olivia:#996622;
 --color-olivine:#9ab973;
 --color-olm-pink:#ffe6e2;
 --color-olympia-ivy:#5a6647;
@@ -12079,11 +12086,16 @@
 --color-pickled:#b3a74b;
 --color-pickled-bean:#6e4826;
 --color-pickled-beet:#4d233d;
+--color-pickled-beets:#aa0044;
 --color-pickled-bluewood:#314459;
 --color-pickled-cucumber:#94a135;
+--color-pickled-ginger:#ffdd55;
+--color-pickled-grape-leaves:#775500;
+--color-pickled-lemon:#ddcc11;
 --color-pickled-okra:#887647;
 --color-pickled-plum:#8e4785;
 --color-pickled-purple:#8e7aa1;
+--color-pickled-radish:#ee1144;
 --color-pickling-spice:#cfd2b5;
 --color-picnic-bay:#bcdbd4;
 --color-picnic-day-sky:#00ccee;
@@ -13187,6 +13199,7 @@
 --color-red-power:#d63d3b;
 --color-red-prayer-flag:#bb1100;
 --color-red-purple:#e40078;
+--color-red-radish:#ee3344;
 --color-red-rampage:#ee3322;
 --color-red-revival:#a8453b;
 --color-red-ribbon:#ed0a3f;
@@ -13574,6 +13587,7 @@
 --color-rough-stone:#9ea2aa;
 --color-roulette:#97635f;
 --color-rousseau-green:#175844;
+--color-roux:#994400;
 --color-rowdy-orange:#eaa007;
 --color-rowntree:#8e8e6e;
 --color-roxy-brown:#7a5546;
@@ -17434,6 +17448,7 @@
 --color-wyvern-green:#86a96f;
 --color-xâkestari-white:#fef2dc;
 --color-xanadu:#738678;
+--color-xanthe-yellow:#ffee55;
 --color-xanthous:#f1b42f;
 --color-xavier-blue:#6ab4e0;
 --color-xena:#847e54;
