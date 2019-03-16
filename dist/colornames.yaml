@@ -6782,6 +6782,9 @@
   name:"Brown Knapweed"
   hex:"#f485ac"
 -
+  name:"Brown Moelleux"
+  hex:"#662211"
+-
   name:"Brown Mouse"
   hex:"#d8cbb5"
 -
@@ -10792,6 +10795,9 @@
 -
   name:"Conker Brown"
   hex:"#552200"
+-
+  name:"Connecticut Lilac"
+  hex:"#ccbbee"
 -
   name:"Conservation"
   hex:"#796e54"
@@ -25517,6 +25523,9 @@
   name:"Lace Wisteria"
   hex:"#c2bbc0"
 -
+  name:"Laced Green"
+  hex:"#ccee99"
+-
   name:"Lacey"
   hex:"#caaeab"
 -
@@ -30452,6 +30461,9 @@
   name:"Meteorite"
   hex:"#4a3b6a"
 -
+  name:"Methadone"
+  hex:"#cc2233"
+-
   name:"Methyl Blue"
   hex:"#0074a8"
 -
@@ -31216,6 +31228,9 @@
 -
   name:"Moegi Green"
   hex:"#f19172"
+-
+  name:"Moelleux Au Chocolat"
+  hex:"#553311"
 -
   name:"Moenkopi Soil"
   hex:"#c8a692"
@@ -42710,6 +42725,9 @@
   name:"Shade of Amber"
   hex:"#ff7e00"
 -
+  name:"Shade of Bone Marrow"
+  hex:"#889988"
+-
   name:"Shade of Marigold"
   hex:"#b88a3d"
 -
@@ -44792,6 +44810,9 @@
   name:"Spanish Yellow"
   hex:"#f6b511"
 -
+  name:"Sparkler"
+  hex:"#ffee99"
+-
   name:"Sparkling Champagne"
   hex:"#efcf98"
 -
@@ -44807,8 +44828,20 @@
   name:"Sparkling Grape"
   hex:"#773376"
 -
+  name:"Sparkling Green"
+  hex:"#66ee00"
+-
+  name:"Sparkling Lavender"
+  hex:"#eeccff"
+-
   name:"Sparkling Pink"
   hex:"#f5cee6"
+-
+  name:"Sparkling Purple"
+  hex:"#cc11ff"
+-
+  name:"Sparkling Red"
+  hex:"#ee3333"
 -
   name:"Sparkling River"
   hex:"#d6edf1"
@@ -46581,7 +46614,7 @@
   hex:"#fff8d9"
 -
   name:"Superstar"
-  hex:"#1d4769"
+  hex:"#ffcc11"
 -
   name:"Superstition"
   hex:"#5b6e74"
@@ -47648,6 +47681,9 @@
   name:"Terrazzo Tan"
   hex:"#be8973"
 -
+  name:"Terror from the Deep"
+  hex:"#1d4769"
+-
   name:"Teton Breeze"
   hex:"#dfeae8"
 -
@@ -48043,6 +48079,9 @@
 -
   name:"Tillandsia Purple"
   hex:"#563474"
+-
+  name:"Tilted Red"
+  hex:"#991122"
 -
   name:"Timber Beam"
   hex:"#a0855c"

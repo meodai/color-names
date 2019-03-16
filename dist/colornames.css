@@ -2260,6 +2260,7 @@
 --color-brown-green:#706c11;
 --color-brown-grey:#8d8468;
 --color-brown-knapweed:#f485ac;
+--color-brown-moelleux:#662211;
 --color-brown-mouse:#d8cbb5;
 --color-brown-mustard:#dfac59;
 --color-brown-orange:#b96902;
@@ -3597,6 +3598,7 @@
 --color-conifer-blossom:#ffdd49;
 --color-conker:#b94e41;
 --color-conker-brown:#552200;
+--color-connecticut-lilac:#ccbbee;
 --color-conservation:#796e54;
 --color-conspiracy-velvet:#57465d;
 --color-constellation:#bccedb;
@@ -8505,6 +8507,7 @@
 --color-labyrinth-walk:#c9a487;
 --color-lace-veil:#ecebea;
 --color-lace-wisteria:#c2bbc0;
+--color-laced-green:#ccee99;
 --color-lacey:#caaeab;
 --color-lacrosse:#2e5c58;
 --color-lacustral:#19504c;
@@ -10150,6 +10153,7 @@
 --color-meteor:#bb7431;
 --color-meteor-shower:#5533ff;
 --color-meteorite:#4a3b6a;
+--color-methadone:#cc2233;
 --color-methyl-blue:#0074a8;
 --color-metroid-red:#f83800;
 --color-metropolis:#61584f;
@@ -10405,6 +10409,7 @@
 --color-modest-violet:#e9e4ef;
 --color-modesty:#d4c7d9;
 --color-moegi-green:#f19172;
+--color-moelleux-au-chocolat:#553311;
 --color-moenkopi-soil:#c8a692;
 --color-mogwa-cheong-yellow:#ddcc00;
 --color-moire:#beadb0;
@@ -14236,6 +14241,7 @@
 --color-seville-scarlet:#955843;
 --color-shabby-chic:#bb8a8e;
 --color-shade-of-amber:#ff7e00;
+--color-shade-of-bone-marrow:#889988;
 --color-shade-of-marigold:#b88a3d;
 --color-shade-of-mauve:#ae7181;
 --color-shade-of-violet:#8601af;
@@ -14930,12 +14936,17 @@
 --color-spanish-viridian:#007f5c;
 --color-spanish-white:#ded1b7;
 --color-spanish-yellow:#f6b511;
+--color-sparkler:#ffee99;
 --color-sparkling-champagne:#efcf98;
 --color-sparkling-cider:#fffdeb;
 --color-sparkling-cove:#2da4b6;
 --color-sparkling-frost:#d2d5da;
 --color-sparkling-grape:#773376;
+--color-sparkling-green:#66ee00;
+--color-sparkling-lavender:#eeccff;
 --color-sparkling-pink:#f5cee6;
+--color-sparkling-purple:#cc11ff;
+--color-sparkling-red:#ee3333;
 --color-sparkling-river:#d6edf1;
 --color-sparks-in-the-dark:#ff7711;
 --color-sparrow:#69595c;
@@ -15526,7 +15537,7 @@
 --color-supermint:#00928c;
 --color-supernatural:#313641;
 --color-supernova:#fff8d9;
---color-superstar:#1d4769;
+--color-superstar:#ffcc11;
 --color-superstition:#5b6e74;
 --color-superstitious:#ac91b5;
 --color-supreme-grey:#86949f;
@@ -15882,6 +15893,7 @@
 --color-terracotta-sand:#d6ba9b;
 --color-terran-khaki:#a1965e;
 --color-terrazzo-tan:#be8973;
+--color-terror-from-the-deep:#1d4769;
 --color-teton-breeze:#dfeae8;
 --color-tetrarose:#8e6f73;
 --color-tetsu-black:#2b3733;
@@ -16014,6 +16026,7 @@
 --color-tiki-torch:#bb9e3f;
 --color-tile-blue:#008491;
 --color-tillandsia-purple:#563474;
+--color-tilted-red:#991122;
 --color-timber-beam:#a0855c;
 --color-timber-green:#324336;
 --color-timber-wolf:#8d8070;
