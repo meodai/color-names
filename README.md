@@ -167,4 +167,4 @@ In the process we try to remove all names that are offensive or racist, as well 
 As some of the color names come from other lists, some bad ones might slip in. [Please report them](https://github.com/meodai/color-names/issues/new?title=Bad%20color%20name), they will be removed as quickly as possible.
 
 ## Latest Color Names 📖
-![New colors](changes.svg?raw=true "New colors")
+![New colors](changes.svg "New colors")
