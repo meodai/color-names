@@ -6,6 +6,7 @@ const findDuplicates = lib.findDuplicates;
 const objArrToString = lib.objArrToString;
 const args = process.argv;
 const isTestRun = !!args.find((arg) => (arg === '--testOnly'));
+const exec = require('child_process').exec;
 
 // we only want hex colors with 6 values
 const hexColorValidation = /^#[0-9a-f]{6}$/;
@@ -195,3 +196,28 @@ function log(key, value, message, errorLevel = 1) {
 
   errors.push(error);
 }
+
+// gets SVG template
+const svgTpl = fs.readFileSync(
+  path.normalize(__dirname + '/changes.svg.tpl'),
+  'utf8'
+).toString();
+
+function diffSVG() {
+  exec(`git log -n 1 -p --word-diff ${baseFolder}${folderSrc}${fileNameSrc}.csv`,
+  function (err, stdout, stderr) {
+    const diffTxt = stdout;
+    const changes = diffTxt.match(/(?<=\+).*?(?=\+)/g).filter(i => i);
+    const svgTxtStr = changes.reduce((str, change, i) => {
+      const changeParts = change.split(',');
+      return `${str}<text x="40" y="${20 + (i + 1) * 70}" fill="${changeParts[1]}">${changeParts[0]}</text>`;
+    }, '');
+
+    fs.writeFileSync(
+      path.normalize(`${baseFolder}changes.svg`),
+      svgTpl.replace(/{height}/g, changes.length * 70 + 80).replace(/{items}/g, svgTxtStr)
+    );
+  });
+};
+
+diffSVG();
