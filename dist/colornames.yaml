@@ -4133,6 +4133,9 @@
   name:"Big Sur Blue Jade"
   hex:"#3f6e8e"
 -
+  name:"Big Yellow Streak"
+  hex:"#ffee22"
+-
   name:"Bigfoot"
   hex:"#715145"
 -
@@ -4460,6 +4463,9 @@
   name:"Black Magic"
   hex:"#4f4554"
 -
+  name:"Black Market"
+  hex:"#222244"
+-
   name:"Black Marlin"
   hex:"#383740"
 -
@@ -4474,6 +4480,9 @@
 -
   name:"Black Onyx"
   hex:"#2b272b"
+-
+  name:"Black Out"
+  hex:"#222222"
 -
   name:"Black Panther"
   hex:"#424242"
@@ -4522,6 +4531,9 @@
 -
   name:"Black Shadows"
   hex:"#bfafb2"
+-
+  name:"Black Sheep"
+  hex:"#111144"
 -
   name:"Black Slug"
   hex:"#332211"
@@ -4621,6 +4633,12 @@
 -
   name:"Blackjack"
   hex:"#51504d"
+-
+  name:"Blacklist"
+  hex:"#221133"
+-
+  name:"Blackmail"
+  hex:"#220066"
 -
   name:"Blackwater Park"
   hex:"#696268"
@@ -5384,6 +5402,9 @@
   name:"Blue Pearl"
   hex:"#c5d9e3"
 -
+  name:"Blue Pencil"
+  hex:"#2200ff"
+-
   name:"Blue Perennial"
   hex:"#bcd7df"
 -
@@ -5525,6 +5546,9 @@
   name:"Blue Stone"
   hex:"#577284"
 -
+  name:"Blue Streak"
+  hex:"#2266bb"
+-
   name:"Blue Stream"
   hex:"#95cdd8"
 -
@@ -5614,6 +5638,9 @@
 -
   name:"Blue Zodiac"
   hex:"#3c4354"
+-
+  name:"Blue-Eyed Boy"
+  hex:"#2277cc"
 -
   name:"Bluealicious"
   hex:"#0000dd"
@@ -5851,6 +5878,9 @@
 -
   name:"Bolognese"
   hex:"#bb4400"
+-
+  name:"Bolt from the Blue"
+  hex:"#2277ff"
 -
   name:"Boltgun Metal"
   hex:"#393939"
@@ -6838,6 +6868,9 @@
 -
   name:"Brown-Bag-It"
   hex:"#ddbda3"
+-
+  name:"Browned Off"
+  hex:"#bb4433"
 -
   name:"Brownie"
   hex:"#964b00"
@@ -10586,6 +10619,9 @@
   name:"Cold Grey"
   hex:"#9f9f9f"
 -
+  name:"Cold Heights"
+  hex:"#22ddee"
+-
   name:"Cold Light"
   hex:"#dde3e6"
 -
@@ -11797,6 +11833,9 @@
 -
   name:"Crowshead"
   hex:"#1c1208"
+-
+  name:"Crucified Red"
+  hex:"#cc0044"
 -
   name:"Crude Banana"
   hex:"#21c40e"
@@ -13480,6 +13519,9 @@
 -
   name:"Delft"
   hex:"#3d5e8c"
+-
+  name:"Delft Blue"
+  hex:"#3311ee"
 -
   name:"Delhi Dance Pink"
   hex:"#fdc1c5"
@@ -19085,6 +19127,9 @@
   name:"Golden Blond"
   hex:"#ccaa55"
 -
+  name:"Golden Boy"
+  hex:"#ffdd44"
+-
   name:"Golden Brown"
   hex:"#b27a01"
 -
@@ -19180,6 +19225,9 @@
 -
   name:"Golden Hamster"
   hex:"#da9e38"
+-
+  name:"Golden Handshake"
+  hex:"#ffcc44"
 -
   name:"Golden Harmony"
   hex:"#9f8046"
@@ -19465,6 +19513,9 @@
 -
   name:"Gotta Have It"
   hex:"#d0c2b4"
+-
+  name:"Gouda Gold"
+  hex:"#eecc11"
 -
   name:"Goulash"
   hex:"#8d6449"
@@ -19919,6 +19970,9 @@
   name:"Green Elliott"
   hex:"#00bb66"
 -
+  name:"Green Envy"
+  hex:"#77aa00"
+-
   name:"Green Essence"
   hex:"#e9eac8"
 -
@@ -20182,6 +20236,9 @@
 -
   name:"Green Tease"
   hex:"#e3ede0"
+-
+  name:"Green Thumb"
+  hex:"#779900"
 -
   name:"Green Tint"
   hex:"#c5ccc0"
@@ -23735,6 +23792,9 @@
   name:"In the Pink"
   hex:"#f4c4d0"
 -
+  name:"In the Red"
+  hex:"#ff2233"
+-
   name:"In the Shadows"
   hex:"#cbc4c0"
 -
@@ -25600,6 +25660,9 @@
 -
   name:"Lake Reflection"
   hex:"#9dd8db"
+-
+  name:"Lake Thun"
+  hex:"#44bbdd"
 -
   name:"Lake Water"
   hex:"#86aba5"
@@ -33119,6 +33182,12 @@
   name:"Novelty Navy"
   hex:"#515b62"
 -
+  name:"Nuclear Blast"
+  hex:"#bbff00"
+-
+  name:"Nuclear Fallout"
+  hex:"#aa9900"
+-
   name:"Nuclear Waste"
   hex:"#7cfc00"
 -
@@ -34228,6 +34297,9 @@
 -
   name:"Out of Plumb"
   hex:"#9c909c"
+-
+  name:"Out of the Blue"
+  hex:"#1199ee"
 -
   name:"Outback"
   hex:"#c9a375"
@@ -36659,6 +36731,9 @@
   name:"Pink Clay Pot"
   hex:"#d99294"
 -
+  name:"Pink Condition"
+  hex:"#ff99dd"
+-
   name:"Pink Cupcake"
   hex:"#f5d0d6"
 -
@@ -36691,6 +36766,9 @@
 -
   name:"Pink Earth"
   hex:"#b08272"
+-
+  name:"Pink Elephants"
+  hex:"#ff99ee"
 -
   name:"Pink Fetish"
   hex:"#dd77ff"
@@ -37174,6 +37252,9 @@
 -
   name:"Planet Green"
   hex:"#496a76"
+-
+  name:"Planet of the Apes"
+  hex:"#883333"
 -
   name:"Planetarium"
   hex:"#1c70ad"
@@ -39530,6 +39611,9 @@
   name:"Red Cabbage"
   hex:"#534a77"
 -
+  name:"Red Card"
+  hex:"#ff3322"
+-
   name:"Red Cedar"
   hex:"#d87678"
 -
@@ -39575,6 +39659,9 @@
   name:"Red Endive"
   hex:"#794d60"
 -
+  name:"Red Flag"
+  hex:"#ff2244"
+-
   name:"Red Gooseberry"
   hex:"#604046"
 -
@@ -39587,8 +39674,14 @@
   name:"Red Gumball"
   hex:"#ac3a3e"
 -
+  name:"Red Herring"
+  hex:"#dd1144"
+-
   name:"Red Hook"
   hex:"#845544"
+-
+  name:"Red Hot"
+  hex:"#dd0033"
 -
   name:"Red Hot Jazz"
   hex:"#773c31"
@@ -39734,6 +39827,9 @@
   name:"Red Stop "
   hex:"#ff2222"
 -
+  name:"Red Tape"
+  hex:"#cc1133"
+-
   name:"Red Terra"
   hex:"#ae4930"
 -
@@ -39760,6 +39856,15 @@
 -
   name:"Red Wine Vinegar"
   hex:"#722f37"
+-
+  name:"Red-Eye"
+  hex:"#dd1155"
+-
+  name:"Red-Handed"
+  hex:"#dd2233"
+-
+  name:"Red-Letter Day"
+  hex:"#cc0055"
 -
   name:"Red-Tailed-Hawk"
   hex:"#a27547"
@@ -40909,6 +41014,9 @@
 -
   name:"Royal Oakleaf"
   hex:"#879473"
+-
+  name:"Royal Oranje"
+  hex:"#ff7722"
 -
   name:"Royal Palm"
   hex:"#418d84"
@@ -43423,6 +43531,9 @@
 -
   name:"Silken Raspberry"
   hex:"#aa7d89"
+-
+  name:"Silken Tofu"
+  hex:"#fef6d8"
 -
   name:"Silkie Chicken"
   hex:"#fdefdb"
@@ -52666,6 +52777,9 @@
 -
   name:"Yellow Yarn"
   hex:"#fef6be"
+-
+  name:"Yellow-Bellied"
+  hex:"#ffee33"
 -
   name:"Yellow-Green Grosbeak"
   hex:"#c8cd37"
