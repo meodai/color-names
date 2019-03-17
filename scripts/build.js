@@ -204,10 +204,10 @@ const svgTpl = fs.readFileSync(
 ).toString();
 
 function diffSVG() {
-  exec(`git log -n 1 -p --word-diff ${baseFolder}${folderSrc}${fileNameSrc}.csv`,
+  exec(`git diff HEAD ${baseFolder}${folderSrc}${fileNameSrc}.csv`,
   function (err, stdout, stderr) {
     const diffTxt = stdout;
-    const changes = diffTxt.match(/(?<=\+).*?(?=\+)/g).filter(i => i);
+    const changes = diffTxt.match(/(?<=^[\+])[^\+].*/gm).filter(i => i);
     const svgTxtStr = changes.reduce((str, change, i) => {
       const changeParts = change.split(',');
       return `${str}<text x="40" y="${20 + (i + 1) * 70}" fill="${changeParts[1]}">${changeParts[0]}</text>`;
