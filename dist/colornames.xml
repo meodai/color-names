@@ -129,6 +129,10 @@
 <hex>#00035b</hex>
 </color>
 <color>
+<name>Abyssal Depths</name>
+<hex>#10246a</hex>
+</color>
+<color>
 <name>Abyssopelagic Water</name>
 <hex>#000033</hex>
 </color>
@@ -503,6 +507,10 @@
 <color>
 <name>Aged Chocolate</name>
 <hex>#5f4947</hex>
+</color>
+<color>
+<name>Aged Cotton</name>
+<hex>#e0dcda</hex>
 </color>
 <color>
 <name>Aged Eucalyptus</name>
@@ -2645,6 +2653,10 @@
 <hex>#274a5d</hex>
 </color>
 <color>
+<name>Arathi Highlands</name>
+<hex>#93a344</hex>
+</color>
+<color>
 <name>Arava</name>
 <hex>#a18d71</hex>
 </color>
@@ -3075,6 +3087,10 @@
 <color>
 <name>Ashen Wind</name>
 <hex>#94a9b7</hex>
+</color>
+<color>
+<name>Ashenvale Nights</name>
+<hex>#104071</hex>
 </color>
 <color>
 <name>Ashes to Ashes</name>
@@ -3665,6 +3681,10 @@
 <hex>#4c6cb3</hex>
 </color>
 <color>
+<name>Azshara Vein</name>
+<hex>#b13916</hex>
+</color>
+<color>
 <name>Aztec</name>
 <hex>#293432</hex>
 </color>
@@ -3735,6 +3755,10 @@
 <color>
 <name>Azureish White</name>
 <hex>#dbe9f4</hex>
+</color>
+<color>
+<name>Azuremyst Isle</name>
+<hex>#cc81f0</hex>
 </color>
 <color>
 <name>B'dazzled Blue</name>
@@ -3939,6 +3963,10 @@
 <color>
 <name>Badab Black Wash</name>
 <hex>#0a0908</hex>
+</color>
+<color>
+<name>Badlands Orange</name>
+<hex>#ff6316</hex>
 </color>
 <color>
 <name>Badlands Sunset</name>
@@ -4259,6 +4287,10 @@
 <color>
 <name>Banana Puree</name>
 <hex>#b29705</hex>
+</color>
+<color>
+<name>Banana Sparkes</name>
+<hex>#f6f5d7</hex>
 </color>
 <color>
 <name>Banana Split</name>
@@ -6058,7 +6090,7 @@
 </color>
 <color>
 <name>Black Sheep</name>
-<hex>#111144</hex>
+<hex>#0f0d0d</hex>
 </color>
 <color>
 <name>Black Slug</name>
@@ -6263,6 +6295,10 @@
 <color>
 <name>Blast-Off Bronze</name>
 <hex>#a57164</hex>
+</color>
+<color>
+<name>Blasted Lands Rocks</name>
+<hex>#6c3550</hex>
 </color>
 <color>
 <name>Blaze</name>
@@ -6511,6 +6547,10 @@
 <color>
 <name>Bloodline</name>
 <hex>#882200</hex>
+</color>
+<color>
+<name>Bloodmyst Isle</name>
+<hex>#f02723</hex>
 </color>
 <color>
 <name>Bloodstain</name>
@@ -7987,6 +8027,10 @@
 <color>
 <name>Bootstrap Leather</name>
 <hex>#793721</hex>
+</color>
+<color>
+<name>Booty Bay</name>
+<hex>#7fc6be</hex>
 </color>
 <color>
 <name>Borage Blue</name>
@@ -9635,6 +9679,10 @@
 <color>
 <name>Burning Sand</name>
 <hex>#d08363</hex>
+</color>
+<color>
+<name>Burning Steppes</name>
+<hex>#742100</hex>
 </color>
 <color>
 <name>Burning Tomato</name>
@@ -17249,6 +17297,10 @@
 <hex>#16160e</hex>
 </color>
 <color>
+<name>Darkshore</name>
+<hex>#464964</hex>
+</color>
+<color>
 <name>Darlak</name>
 <hex>#4f4969</hex>
 </color>
@@ -17385,8 +17437,16 @@
 <hex>#8f666a</hex>
 </color>
 <color>
+<name>Deadly Depths</name>
+<hex>#111144</hex>
+</color>
+<color>
 <name>Deadsy</name>
 <hex>#c2a84b</hex>
+</color>
+<color>
+<name>Deadwind Pass</name>
+<hex>#596d7f</hex>
 </color>
 <color>
 <name>Death Cap</name>
@@ -18439,6 +18499,10 @@
 <color>
 <name>Desire</name>
 <hex>#ea3c53</hex>
+</color>
+<color>
+<name>Desolace Dew</name>
+<hex>#b5c1a9</hex>
 </color>
 <color>
 <name>Desolate Field</name>
@@ -19597,6 +19661,10 @@
 <hex>#eedc5b</hex>
 </color>
 <color>
+<name>Dun Morogh Blue</name>
+<hex>#80b4dc</hex>
+</color>
+<color>
 <name>Dune</name>
 <hex>#514f4a</hex>
 </color>
@@ -19641,6 +19709,10 @@
 <hex>#e1bd27</hex>
 </color>
 <color>
+<name>Durotar Fire</name>
+<hex>#f06126</hex>
+</color>
+<color>
 <name>Dusk</name>
 <hex>#4e5481</hex>
 </color>
@@ -19651,6 +19723,10 @@
 <color>
 <name>Dusk Orange</name>
 <hex>#fe4c40</hex>
+</color>
+<color>
+<name>Duskwood </name>
+<hex>#123d55</hex>
 </color>
 <color>
 <name>Dusky</name>
@@ -19743,6 +19819,10 @@
 <color>
 <name>Dusted Peri</name>
 <hex>#696ba0</hex>
+</color>
+<color>
+<name>Dustwallow Marsh</name>
+<hex>#685243</hex>
 </color>
 <color>
 <name>Dusty Aqua</name>
@@ -20173,6 +20253,10 @@
 <hex>#a4afcd</hex>
 </color>
 <color>
+<name>Echo Isles Water</name>
+<hex>#95b5db</hex>
+</color>
+<color>
 <name>Echo One</name>
 <hex>#629da6</hex>
 </color>
@@ -20315,10 +20399,6 @@
 <color>
 <name>Eggshell Paper</name>
 <hex>#e2be9f</hex>
-</color>
-<color>
-<name>Eggshell Pink</name>
-<hex>#cdc4ba</hex>
 </color>
 <color>
 <name>Egret</name>
@@ -20619,6 +20699,10 @@
 <color>
 <name>Elven Flesh</name>
 <hex>#f7cf8a</hex>
+</color>
+<color>
+<name>Elwynn Forest Olive</name>
+<hex>#7a8716</hex>
 </color>
 <color>
 <name>Elysia Chlorotica</name>
@@ -21381,6 +21465,10 @@
 <hex>#f6fdfa</hex>
 </color>
 <color>
+<name>Eversong Orange</name>
+<hex>#ffa62d</hex>
+</color>
+<color>
 <name>Evil Sunz Scarlet</name>
 <hex>#c2191f</hex>
 </color>
@@ -22033,6 +22121,10 @@
 <hex>#6fc391</hex>
 </color>
 <color>
+<name>Felwood Leaves </name>
+<hex>#2bc51b</hex>
+</color>
+<color>
 <name>Feminine Fancy</name>
 <hex>#c4a8cf</hex>
 </color>
@@ -22079,6 +22171,10 @@
 <color>
 <name>Fenugreek</name>
 <hex>#c0916c</hex>
+</color>
+<color>
+<name>Feralas Lime</name>
+<hex>#8de07c</hex>
 </color>
 <color>
 <name>Fern</name>
@@ -24893,6 +24989,10 @@
 <hex>#cac6ba</hex>
 </color>
 <color>
+<name>Ghostlands Coal</name>
+<hex>#113c42</hex>
+</color>
+<color>
 <name>Ghostly</name>
 <hex>#a7a09f</hex>
 </color>
@@ -24951,6 +25051,10 @@
 <color>
 <name>Gilded Pear</name>
 <hex>#c09e6c</hex>
+</color>
+<color>
+<name>Gilneas Grey</name>
+<hex>#6c8396</hex>
 </color>
 <color>
 <name>Gimblet</name>
@@ -28937,6 +29041,10 @@
 <hex>#445500</hex>
 </color>
 <color>
+<name>Highlands Twilight</name>
+<hex>#484a80</hex>
+</color>
+<color>
 <name>Highlight Gold</name>
 <hex>#dfc16d</hex>
 </color>
@@ -28995,6 +29103,10 @@
 <color>
 <name>Hillary</name>
 <hex>#a7a07e</hex>
+</color>
+<color>
+<name>Hillsbrad Grass</name>
+<hex>#7fa91f</hex>
 </color>
 <color>
 <name>Himalaya</name>
@@ -30001,10 +30113,6 @@
 <hex>#e4f5e1</hex>
 </color>
 <color>
-<name>Hint of Pastry</name>
-<hex>#faedd5</hex>
-</color>
-<color>
 <name>Hint of Pax</name>
 <hex>#dfdfea</hex>
 </color>
@@ -30023,10 +30131,6 @@
 <color>
 <name>Hint of Pensive</name>
 <hex>#dddce1</hex>
-</color>
-<color>
-<name>Hint of Peppermint</name>
-<hex>#90cbaa</hex>
 </color>
 <color>
 <name>Hint of Perk Up</name>
@@ -30501,10 +30605,6 @@
 <hex>#cfecee</hex>
 </color>
 <color>
-<name>Hint of Vanilla Frost</name>
-<hex>#faf3dd</hex>
-</color>
-<color>
 <name>Hint of Vanilla Ice</name>
 <hex>#c9dae2</hex>
 </color>
@@ -30545,10 +30645,6 @@
 <hex>#ede3e0</hex>
 </color>
 <color>
-<name>Hint of Wave</name>
-<hex>#cbe4e7</hex>
-</color>
-<color>
 <name>Hint of Wavecrest</name>
 <hex>#c6dce7</hex>
 </color>
@@ -30573,28 +30669,12 @@
 <hex>#e4e1d6</hex>
 </color>
 <color>
-<name>Hint of White Flag</name>
-<hex>#e0dcda</hex>
-</color>
-<color>
-<name>Hint of Yellow</name>
-<hex>#f6f5d7</hex>
-</color>
-<color>
-<name>Hint of Youth</name>
-<hex>#f0e1df</hex>
-</color>
-<color>
-<name>Hint of Zen</name>
-<hex>#dce4dd</hex>
-</color>
-<color>
-<name>Hint of Zenith Heights</name>
-<hex>#cae0df</hex>
-</color>
-<color>
 <name>Hinterland</name>
 <hex>#616c51</hex>
+</color>
+<color>
+<name>Hinterlands Green</name>
+<hex>#304112</hex>
 </color>
 <color>
 <name>Hip Hop</name>
@@ -33519,6 +33599,10 @@
 <color>
 <name>Kelp Forest</name>
 <hex>#448811</hex>
+</color>
+<color>
+<name>Kelp'thar Forest Blue</name>
+<hex>#0092ae</hex>
 </color>
 <color>
 <name>Kemp Kelly</name>
@@ -38109,6 +38193,10 @@
 <hex>#609795</hex>
 </color>
 <color>
+<name>Loch Modan Moss</name>
+<hex>#dfe5bf</hex>
+</color>
+<color>
 <name>Loch Ness</name>
 <hex>#5f6db0</hex>
 </color>
@@ -38579,6 +38667,10 @@
 <color>
 <name>Lush Meadow</name>
 <hex>#006e51</hex>
+</color>
+<color>
+<name>Lush Un'goro Crater</name>
+<hex>#54a64d</hex>
 </color>
 <color>
 <name>Lust</name>
@@ -42177,6 +42269,10 @@
 <hex>#f3debf</hex>
 </color>
 <color>
+<name>Moonglade Water</name>
+<hex>#65ffff</hex>
+</color>
+<color>
 <name>Moonless Night</name>
 <hex>#2f2d30</hex>
 </color>
@@ -42581,6 +42677,10 @@
 <hex>#e7efe0</hex>
 </color>
 <color>
+<name>Mount Hyjal </name>
+<hex>#3d703e</hex>
+</color>
+<color>
 <name>Mount Sterling</name>
 <hex>#cad3d4</hex>
 </color>
@@ -42899,6 +42999,10 @@
 <color>
 <name>Mule Fawn</name>
 <hex>#884f40</hex>
+</color>
+<color>
+<name>Mulgore Mustard</name>
+<hex>#c2b332</hex>
 </color>
 <color>
 <name>Mulled Cider</name>
@@ -43845,6 +43949,10 @@
 <hex>#dd8374</hex>
 </color>
 <color>
+<name>New Youth</name>
+<hex>#f0e1df</hex>
+</color>
+<color>
 <name>Newburyport</name>
 <hex>#445a79</hex>
 </color>
@@ -44271,6 +44379,10 @@
 <color>
 <name>Northampton Trees</name>
 <hex>#767962</hex>
+</color>
+<color>
+<name>Northern Barrens Dust</name>
+<hex>#de743c</hex>
 </color>
 <color>
 <name>Northern Beach</name>
@@ -44927,6 +45039,10 @@
 <color>
 <name>Old Eggplant</name>
 <hex>#614051</hex>
+</color>
+<color>
+<name>Old Eggshell</name>
+<hex>#cdc4ba</hex>
 </color>
 <color>
 <name>Old Faithful</name>
@@ -47297,6 +47413,10 @@
 <hex>#f8deb8</hex>
 </color>
 <color>
+<name>Pastry Dough</name>
+<hex>#faedd5</hex>
+</color>
+<color>
 <name>Pastry Shell</name>
 <hex>#bd8c66</hex>
 </color>
@@ -48079,6 +48199,10 @@
 <color>
 <name>Peppermint Pie</name>
 <hex>#aac7c1</hex>
+</color>
+<color>
+<name>Peppermint Spray</name>
+<hex>#90cbaa</hex>
 </color>
 <color>
 <name>Peppermint Twist</name>
@@ -49819,6 +49943,14 @@
 <color>
 <name>Plague Brown</name>
 <hex>#dfb900</hex>
+</color>
+<color>
+<name>Plaguelands Beige</name>
+<hex>#ab8d44</hex>
+</color>
+<color>
+<name>Plaguelands Hazel</name>
+<hex>#ad5f28</hex>
 </color>
 <color>
 <name>Plain and Simple</name>
@@ -52373,6 +52505,10 @@
 <hex>#ff1133</hex>
 </color>
 <color>
+<name>Rage of Quel'Danas</name>
+<hex>#f32507</hex>
+</color>
+<color>
 <name>Ragin' Cajun</name>
 <hex>#8d514c</hex>
 </color>
@@ -53367,6 +53503,10 @@
 <color>
 <name>Rediscover</name>
 <hex>#c3cdc9</hex>
+</color>
+<color>
+<name>Redridge Brown</name>
+<hex>#9d4e34</hex>
 </color>
 <color>
 <name>Redrum</name>
@@ -56885,6 +57025,10 @@
 <hex>#9a5633</hex>
 </color>
 <color>
+<name>Searing Gorge Brown</name>
+<hex>#6b3b23</hex>
+</color>
+<color>
 <name>Seascape Blue</name>
 <hex>#a6bad1</hex>
 </color>
@@ -57741,6 +57885,10 @@
 <hex>#f3debc</hex>
 </color>
 <color>
+<name>Shimmering Expanse Cyan</name>
+<hex>#45e9fd</hex>
+</color>
+<color>
 <name>Shimmering Glade</name>
 <hex>#a4943a</hex>
 </color>
@@ -58185,6 +58333,10 @@
 <hex>#ede2e0</hex>
 </color>
 <color>
+<name>Silithus Brown</name>
+<hex>#d57b65</hex>
+</color>
+<color>
 <name>Silk</name>
 <hex>#bbada1</hex>
 </color>
@@ -58499,6 +58651,10 @@
 <color>
 <name>Silverpine</name>
 <hex>#4e6866</hex>
+</color>
+<color>
+<name>Silverpine Cyan</name>
+<hex>#8ae8ff</hex>
 </color>
 <color>
 <name>Silverton</name>
@@ -58923,6 +59079,10 @@
 <color>
 <name>Slightly Rose</name>
 <hex>#e6cfce</hex>
+</color>
+<color>
+<name>Slightly Zen</name>
+<hex>#dce4dd</hex>
 </color>
 <color>
 <name>Slime</name>
@@ -59871,6 +60031,10 @@
 <color>
 <name>South Shore Sun</name>
 <hex>#ffdc9e</hex>
+</color>
+<color>
+<name>Southern Barrens Mud</name>
+<hex>#b98258</hex>
 </color>
 <color>
 <name>Southern Belle</name>
@@ -61341,6 +61505,10 @@
 <hex>#bab1a3</hex>
 </color>
 <color>
+<name>Stonetalon Mountains</name>
+<hex>#8d7a4d</hex>
+</color>
+<color>
 <name>Stonewall</name>
 <hex>#807661</hex>
 </color>
@@ -61459,6 +61627,10 @@
 <color>
 <name>Straken Green</name>
 <hex>#628026</hex>
+</color>
+<color>
+<name>Stranglethorn Ochre</name>
+<hex>#dbb060</hex>
 </color>
 <color>
 <name>Stratford Sage</name>
@@ -62649,6 +62821,10 @@
 <hex>#857947</hex>
 </color>
 <color>
+<name>Swamp of Sorrows</name>
+<hex>#36310d</hex>
+</color>
+<color>
 <name>Swamp Shrub</name>
 <hex>#6d753b</hex>
 </color>
@@ -63281,6 +63457,10 @@
 <hex>#d0b25c</hex>
 </color>
 <color>
+<name>Tanaris Beige</name>
+<hex>#e9b581</hex>
+</color>
+<color>
 <name>Tandoori Red</name>
 <hex>#d25762</hex>
 </color>
@@ -63801,6 +63981,10 @@
 <hex>#326395</hex>
 </color>
 <color>
+<name>Teldrassil Purple</name>
+<hex>#ad66d2</hex>
+</color>
+<color>
 <name>Telemagenta</name>
 <hex>#cf3476</hex>
 </color>
@@ -64137,6 +64321,10 @@
 <hex>#d4dcda</hex>
 </color>
 <color>
+<name>Thin Heights</name>
+<hex>#cae0df</hex>
+</color>
+<color>
 <name>Thin Ice</name>
 <hex>#d9dcdb</hex>
 </color>
@@ -64179,6 +64367,10 @@
 <color>
 <name>Thousand Herb</name>
 <hex>#317589</hex>
+</color>
+<color>
+<name>Thousand Needles Sand</name>
+<hex>#ffd9bb</hex>
 </color>
 <color>
 <name>Thousand Sons Blue</name>
@@ -64593,6 +64785,10 @@
 <hex>#634235</hex>
 </color>
 <color>
+<name>Tirisfal Lime</name>
+<hex>#75de2f</hex>
+</color>
+<color>
 <name>Titan White</name>
 <hex>#ddd6e1</hex>
 </color>
@@ -64735,6 +64931,14 @@
 <color>
 <name>Tokiwa Green</name>
 <hex>#007b43</hex>
+</color>
+<color>
+<name>Tol Barad Green</name>
+<hex>#6c5846</hex>
+</color>
+<color>
+<name>Tol Barad Grey</name>
+<hex>#4e4851</hex>
 </color>
 <color>
 <name>Toledo</name>
@@ -66041,6 +66245,10 @@
 <hex>#fabf14</hex>
 </color>
 <color>
+<name>Uldum Beige</name>
+<hex>#fcc680</hex>
+</color>
+<color>
 <name>Ulthuan Grey</name>
 <hex>#c7e0d9</hex>
 </color>
@@ -66531,6 +66739,10 @@
 <color>
 <name>Vanilla Milkshake</name>
 <hex>#f1ece2</hex>
+</color>
+<color>
+<name>Vanilla Powder</name>
+<hex>#faf3dd</hex>
 </color>
 <color>
 <name>Vanilla Pudding</name>
@@ -68357,6 +68569,10 @@
 <hex>#6c919f</hex>
 </color>
 <color>
+<name>Wave Splash</name>
+<hex>#cbe4e7</hex>
+</color>
+<color>
 <name>Wavecrest</name>
 <hex>#d6e1e4</hex>
 </color>
@@ -68601,6 +68817,10 @@
 <hex>#daa36f</hex>
 </color>
 <color>
+<name>Westfall Yellow</name>
+<hex>#fcd450</hex>
+</color>
+<color>
 <name>Wet Adobe</name>
 <hex>#a3623b</hex>
 </color>
@@ -68663,6 +68883,10 @@
 <color>
 <name>Wetland Stone</name>
 <hex>#a49f80</hex>
+</color>
+<color>
+<name>Wetlands Swamp</name>
+<hex>#372418</hex>
 </color>
 <color>
 <name>Wewak</name>
@@ -69859,6 +70083,10 @@
 <color>
 <name>Wintermint</name>
 <hex>#94d2bf</hex>
+</color>
+<color>
+<name>Winterspring Lilac</name>
+<hex>#b5afff</hex>
 </color>
 <color>
 <name>Wintessa</name>
