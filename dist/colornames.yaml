@@ -1046,6 +1046,9 @@
   name:"Ambrosia"
   hex:"#d2e7ca"
 -
+  name:"Ambrosia Coffee Cake"
+  hex:"#eee9d3"
+-
   name:"Ambrosia Ivory"
   hex:"#fff4eb"
 -
@@ -1744,6 +1747,9 @@
 -
   name:"Apricot Gelato"
   hex:"#f5d7af"
+-
+  name:"Apricot Glazed Chicken"
+  hex:"#eeaa22"
 -
   name:"Apricot Glow"
   hex:"#ffce79"
@@ -3791,6 +3797,9 @@
   name:"Bedford Brown"
   hex:"#aa8880"
 -
+  name:"Bee Cluster"
+  hex:"#ffaa33"
+-
   name:"Bee Hall"
   hex:"#f2cc64"
 -
@@ -4790,6 +4799,9 @@
   name:"Bleached Grey"
   hex:"#788878"
 -
+  name:"Bleached Jade"
+  hex:"#e2e6d1"
+-
   name:"Bleached Maple"
   hex:"#c7a06c"
 -
@@ -5363,6 +5375,9 @@
   name:"Blue League"
   hex:"#006284"
 -
+  name:"Blue Lechery"
+  hex:"#779ecb"
+-
   name:"Blue Light"
   hex:"#acdfdd"
 -
@@ -5383,6 +5398,9 @@
 -
   name:"Blue Lullaby"
   hex:"#c8d7d2"
+-
+  name:"Blue Lust"
+  hex:"#012389"
 -
   name:"Blue Magenta"
   hex:"#5f34e7"
@@ -12626,9 +12644,6 @@
   name:"Dark Imperial Blue"
   hex:"#00416a"
 -
-  name:"Dark Indigo"
-  hex:"#1f0954"
--
   name:"Dark Ivy"
   hex:"#5b7763"
 -
@@ -12725,23 +12740,14 @@
   name:"Dark Orange"
   hex:"#c65102"
 -
-  name:"Dark Orchid"
-  hex:"#9932cc"
--
   name:"Dark Pansy"
   hex:"#653d7c"
--
-  name:"Dark Pastel Blue"
-  hex:"#779ecb"
 -
   name:"Dark Pastel Green"
   hex:"#03c03c"
 -
   name:"Dark Pastel Purple"
   hex:"#966fd6"
--
-  name:"Dark Peach"
-  hex:"#de7e5d"
 -
   name:"Dark Periwinkle"
   hex:"#665fd1"
@@ -12757,9 +12763,6 @@
 -
   name:"Dark Potion"
   hex:"#603e53"
--
-  name:"Dark Powder Blue"
-  hex:"#012389"
 -
   name:"Dark Prussian Blue"
   hex:"#0b085f"
@@ -14557,6 +14560,9 @@
 -
   name:"Dry Mud"
   hex:"#777672"
+-
+  name:"Dry Peach"
+  hex:"#de7e5d"
 -
   name:"Dry Riverbed"
   hex:"#d2c5ae"
@@ -17530,6 +17536,9 @@
 -
   name:"Forgotten Gold"
   hex:"#c7b89f"
+-
+  name:"Forgotten Mosque"
+  hex:"#e2d9db"
 -
   name:"Forgotten Pink"
   hex:"#ffd9d6"
@@ -21881,9 +21890,6 @@
   name:"Hinomaru Red"
   hex:"#bc002d"
 -
-  name:"Hint of Airborne"
-  hex:"#c6dde4"
--
   name:"Hint of Alley"
   hex:"#d6dee9"
 -
@@ -21922,9 +21928,6 @@
 -
   name:"Hint of Aqua Mist"
   hex:"#c6e0e1"
--
-  name:"Hint of Arctic Daisy"
-  hex:"#f3f0d9"
 -
   name:"Hint of Aroma"
   hex:"#e7dbdd"
@@ -22229,9 +22232,6 @@
   name:"Hint of French Limestone"
   hex:"#e1e9db"
 -
-  name:"Hint of French Vanilla"
-  hex:"#faeed9"
--
   name:"Hint of Fresh Lime"
   hex:"#e9f6e0"
 -
@@ -22246,9 +22246,6 @@
 -
   name:"Hint of Frozen Frappe"
   hex:"#ecdee5"
--
-  name:"Hint of Garlic"
-  hex:"#ddccbb"
 -
   name:"Hint of Garlic Suede"
   hex:"#e3e6d6"
@@ -22316,9 +22313,6 @@
   name:"Hint of Grey Pebble"
   hex:"#e3e0da"
 -
-  name:"Hint of Handmade Linen"
-  hex:"#eee9d3"
--
   name:"Hint of Hazy Daze"
   hex:"#c8d5dd"
 -
@@ -22372,9 +22366,6 @@
 -
   name:"Hint of Issey-San"
   hex:"#e4ebdc"
--
-  name:"Hint of Jade"
-  hex:"#e2e6d1"
 -
   name:"Hint of Jellyfish Blue"
   hex:"#c0e1e4"
@@ -22484,9 +22475,6 @@
   name:"Hint of Medlar"
   hex:"#e7e9d8"
 -
-  name:"Hint of Mint"
-  hex:"#e3efe1"
--
   name:"Hint of Mistral"
   hex:"#d5dae1"
 -
@@ -22496,17 +22484,11 @@
   name:"Hint of Modesty"
   hex:"#e6dfe8"
 -
-  name:"Hint of Moo"
-  hex:"#f8f0d8"
--
   name:"Hint of Morality"
   hex:"#d2e2ef"
 -
   name:"Hint of Mornington"
   hex:"#ecdfd5"
--
-  name:"Hint of Mosque"
-  hex:"#e2d9db"
 -
   name:"Hint of Mountain Spring"
   hex:"#eaeeda"
@@ -22765,9 +22747,6 @@
 -
   name:"Hint of Sea Spray"
   hex:"#bfe1e6"
--
-  name:"Hint of Searchlight"
-  hex:"#f5f5d9"
 -
   name:"Hint of Security"
   hex:"#e8efdb"
@@ -23174,6 +23153,9 @@
   name:"Honey and Thyme"
   hex:"#aaaa00"
 -
+  name:"Honey Baked Ham"
+  hex:"#ffaa99"
+-
   name:"Honey Bee"
   hex:"#fcdfa4"
 -
@@ -23186,6 +23168,15 @@
   name:"Honey Bunny"
   hex:"#dbb881"
 -
+  name:"Honey Carrot Cake"
+  hex:"#ff9955"
+-
+  name:"Honey Chili"
+  hex:"#883344"
+-
+  name:"Honey Crusted Chicken"
+  hex:"#ffbb55"
+-
   name:"Honey Do"
   hex:"#ededc7"
 -
@@ -23194,6 +23185,9 @@
 -
   name:"Honey Fungus"
   hex:"#d18e54"
+-
+  name:"Honey Garlic Beef"
+  hex:"#884422"
 -
   name:"Honey Ginger"
   hex:"#a86217"
@@ -23213,6 +23207,9 @@
   name:"Honey Haven"
   hex:"#bc9263"
 -
+  name:"Honey Lime Chicken"
+  hex:"#ddccbb"
+-
   name:"Honey Mustard"
   hex:"#b68f52"
 -
@@ -23221,6 +23218,9 @@
 -
   name:"Honey Nectar"
   hex:"#f1dda2"
+-
+  name:"Honey Oat Bread"
+  hex:"#faeed9"
 -
   name:"Honey Peach"
   hex:"#dcbd9e"
@@ -23234,11 +23234,17 @@
   name:"Honey Robber"
   hex:"#dfbb86"
 -
+  name:"Honey Teriyaki"
+  hex:"#ee6611"
+-
   name:"Honey Wax"
   hex:"#ffaa22"
 -
   name:"Honey Yellow"
   hex:"#ca9456"
+-
+  name:"Honey Yogurt Popsicles"
+  hex:"#f3f0d9"
 -
   name:"Honeycomb"
   hex:"#ddaa11"
@@ -24070,6 +24076,9 @@
 -
   name:"Indigo Purple"
   hex:"#660099"
+-
+  name:"Indigo Sloth"
+  hex:"#1f0954"
 -
   name:"Indigo White"
   hex:"#ebf6f7"
@@ -26732,6 +26741,9 @@
   name:"Light Blue Rinse"
   hex:"#c7cdd3"
 -
+  name:"Light Blue Sloth"
+  hex:"#c6dde4"
+-
   name:"Light Blue Stream"
   hex:"#add8e1"
 -
@@ -27856,9 +27868,6 @@
 -
   name:"Light Sprinkle"
   hex:"#e3e3d7"
--
-  name:"Light Spritzig"
-  hex:"#92d2ed"
 -
   name:"Light Stargate"
   hex:"#c7d2dd"
@@ -34181,6 +34190,9 @@
   name:"Orange Glass"
   hex:"#ffca7d"
 -
+  name:"Orange Gluttony"
+  hex:"#ee7722"
+-
   name:"Orange Hibiscus"
   hex:"#ff9a45"
 -
@@ -39053,6 +39065,9 @@
   name:"Purple Urn Orchid"
   hex:"#c364c5"
 -
+  name:"Purple Vanity"
+  hex:"#9932cc"
+-
   name:"Purple Velvet"
   hex:"#41354d"
 -
@@ -40135,6 +40150,9 @@
 -
   name:"Red Wine Vinegar"
   hex:"#722f37"
+-
+  name:"Red Wrath"
+  hex:"#ee1155"
 -
   name:"Red-Eye"
   hex:"#dd1155"
@@ -44387,6 +44405,9 @@
   name:"Slightly Rose"
   hex:"#e6cfce"
 -
+  name:"Slightly Spritzig"
+  hex:"#92d2ed"
+-
   name:"Slightly Zen"
   hex:"#dce4dd"
 -
@@ -46814,6 +46835,9 @@
   name:"Sun Baked"
   hex:"#d27f63"
 -
+  name:"Sun Bleached Mint"
+  hex:"#e3efe1"
+-
   name:"Sun Bleached Pink"
   hex:"#fadadd"
 -
@@ -46975,6 +46999,9 @@
 -
   name:"Sunny Green"
   hex:"#c5cd40"
+-
+  name:"Sunny Honey"
+  hex:"#f8f0d8"
 -
   name:"Sunny Lime"
   hex:"#dfef87"
@@ -53065,6 +53092,9 @@
 -
   name:"Yellow Acorn"
   hex:"#b68d4c"
+-
+  name:"Yellow Avarice"
+  hex:"#f5f5d9"
 -
   name:"Yellow Bell Pepper"
   hex:"#ffdd33"
