@@ -23,7 +23,8 @@ Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute!
 (~__0.11%__ of all RGB Colors)
 
 ### [Color distribution](https://codepen.io/meodai/full/zdgXJj/) 🛰
-![3d representation of color distribution in RGB Space (Preview image of link above)](https://raw.githubusercontent.com/meodai/color-names/gh-pages/color-dist.png)
+![3d representation of color distribution in RGB Space (Preview image of link above)](https://raw.githubusercontent.com/meodai/color-names/gh-pages/color-spaces.gif)
+
 When coming up with new color names, it is vital to know what spots in a certain color-space are crowded and where there is still room for new colors. For example: Our API returns the closest `RGB` color to a given `HEX` value. To avoid too many colors snapping to the same name, we aim to distribute the colors evenly in the color space: [Visualization](https://codepen.io/meodai/full/zdgXJj/)
 
 PS: You can choose between different color spaces on the bottom right.
@@ -76,8 +77,8 @@ by adding `?noduplicates=true` every returned name will be unique. The closest c
     "rgb": { "r": 33, "g": 33, "b": 33 },
     "luminance": 22.062320231562225 
   },{ 
-    "name": 'Abaddon Black',
-    "hex": '#231f20',
+    "name": "Abaddon Black",
+    "hex": "#231f20",
     "rgb": { "r": 35, "g": 31, "b": 32 },
     "luminance": 21.30621829419759 
   }]
@@ -149,19 +150,12 @@ See [package.json](package.json#L6) for more.
 - [Some Android Arts palettes](http://androidarts.com/palette/)
 
 ## Contributors 🦑
-- [meodai](//github.com/meodai) Initiator, Maintainer, Name Creator & Tooling
-- [Verena](//github.com/yxklyx/) Hundreds of names!!
-- [Jess](https://twitter.com/_nutbird_) Name wizzard
-- [Syl](https://twitter.com/Gypsy_Syl) Name creator
-- [Stephanie Stutz](https://www.behance.net/stephaniestutzart) Name creator
-- [Simbiasamba](https://www.instagram.com/simbisamba/) Name creator
-- [Jason Wilson](//github.com/SgiobairOg) Manual merging of some lists
-- [Inês João](https://www.inesjoao.me/) Mostly portuguese names
+- [meodai](//github.com/meodai) Initiator, maintainer, name creator &, tooling
 - [Nirazul](//github.com/Nirazul) Name creator & tooling
-- [Nick Niles](http://nickniles.com/) Name creator
-- [Qwhex](https://github.com/qwhex) Name creator
-- [Ichatdelune](https://www.reddit.com/user/Ichatdelune) Name Creator
 - [Metafizzy](https://metafizzy.co/) Logo Sponsor 💖
+
+### Color Namers
+[Verena the naming overloard](//github.com/yxklyx/), [Jess the name wizzard](https://twitter.com/_nutbird_), [Syl](https://twitter.com/Gypsy_Syl), [Stephanie Stutz](https://www.behance.net/stephaniestutzart), [Simbiasamba](https://www.instagram.com/simbisamba/), [Jason Wilson](//github.com/SgiobairOg), [Inês João](https://www.inesjoao.me/), [Nick Niles](http://nickniles.com/), [Qwhex](https://github.com/qwhex), [Ichatdelune](https://www.reddit.com/user/Ichatdelune) 
 
 ## Disclaimer 👮🏾‍
 In the process we try to remove all names that are offensive or racist, as well as protected brand names.
