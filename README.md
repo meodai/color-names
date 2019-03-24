@@ -151,7 +151,7 @@ See [package.json](package.json#L6) for more.
 ## Contributors 🦑
 - [meodai](//github.com/meodai) Initiator, Maintainer, Name Creator & Tooling
 - [Verena](//github.com/yxklyx/) Hundreds of names!!
-- [Jess](https://bit.ly/2FyLOKn) Name wizzard
+- [Jess](https://twitter.com/_nutbird_) Name wizzard
 - [Syl](https://twitter.com/Gypsy_Syl) Name creator
 - [Stephanie Stutz](https://www.behance.net/stephaniestutzart) Name creator
 - [Simbiasamba](https://www.instagram.com/simbisamba/) Name creator
