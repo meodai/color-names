@@ -209,6 +209,10 @@
 <hex>#badf30</hex>
 </color>
 <color>
+<name>Acini di Pepe</name>
+<hex>#ffd8b1</hex>
+</color>
+<color>
 <name>Acorn</name>
 <hex>#7e5e52</hex>
 </color>
@@ -4381,6 +4385,10 @@
 <hex>#e9546b</hex>
 </color>
 <color>
+<name>Baragon Brown</name>
+<hex>#551100</hex>
+</color>
+<color>
 <name>Barbados</name>
 <hex>#3e6676</hex>
 </color>
@@ -7873,6 +7881,10 @@
 <hex>#663b3a</hex>
 </color>
 <color>
+<name>Bohemian Blue</name>
+<hex>#0000aa</hex>
+</color>
+<color>
 <name>Bohemian Jazz</name>
 <hex>#9d777c</hex>
 </color>
@@ -9001,6 +9013,10 @@
 <hex>#ffdd88</hex>
 </color>
 <color>
+<name>Broken Blue</name>
+<hex>#74bbfb</hex>
+</color>
+<color>
 <name>Broken Tube</name>
 <hex>#060310</hex>
 </color>
@@ -9139,6 +9155,10 @@
 <color>
 <name>Brown Butter</name>
 <hex>#ac7c00</hex>
+</color>
+<color>
+<name>Brown Cerberus</name>
+<hex>#995555</hex>
 </color>
 <color>
 <name>Brown Chocolate</name>
@@ -9387,6 +9407,10 @@
 <color>
 <name>Bubonic Brown</name>
 <hex>#c68400</hex>
+</color>
+<color>
+<name>Bucatini Noodle</name>
+<hex>#fdf5d7</hex>
 </color>
 <color>
 <name>Buccaneer</name>
@@ -10559,6 +10583,10 @@
 <color>
 <name>Camouflage Green</name>
 <hex>#4b6113</hex>
+</color>
+<color>
+<name>Campanelle Noodle</name>
+<hex>#fcf7db</hex>
 </color>
 <color>
 <name>Campánula</name>
@@ -13013,6 +13041,10 @@
 <hex>#d2691e</hex>
 </color>
 <color>
+<name>Chocolate Bar</name>
+<hex>#773333</hex>
+</color>
+<color>
 <name>Chocolate Brown</name>
 <hex>#411900</hex>
 </color>
@@ -13247,6 +13279,10 @@
 <color>
 <name>Chun-Li Blue</name>
 <hex>#1559db</hex>
+</color>
+<color>
+<name>Chupacabra Grey</name>
+<hex>#cfcdcf</hex>
 </color>
 <color>
 <name>Church Mouse</name>
@@ -13967,6 +14003,10 @@
 <color>
 <name>Club-Mate</name>
 <hex>#f8de7e</hex>
+</color>
+<color>
+<name>Clumsy Caramel</name>
+<hex>#d3b683</hex>
 </color>
 <color>
 <name>Co Pilot</name>
@@ -16509,6 +16549,10 @@
 <hex>#999ba8</hex>
 </color>
 <color>
+<name>Damp Basement</name>
+<hex>#5f6171</hex>
+</color>
+<color>
 <name>Damson</name>
 <hex>#854c65</hex>
 </color>
@@ -16917,10 +16961,6 @@
 <hex>#373e02</hex>
 </color>
 <color>
-<name>Dark Olive Green</name>
-<hex>#3c4d03</hex>
-</color>
-<color>
 <name>Dark Olive Paste</name>
 <hex>#6e5160</hex>
 </color>
@@ -16949,10 +16989,6 @@
 <hex>#966fd6</hex>
 </color>
 <color>
-<name>Dark Pastel Red</name>
-<hex>#c23b22</hex>
-</color>
-<color>
 <name>Dark Peach</name>
 <hex>#de7e5d</hex>
 </color>
@@ -16971,10 +17007,6 @@
 <color>
 <name>Dark Pink</name>
 <hex>#cb416b</hex>
-</color>
-<color>
-<name>Dark Plum</name>
-<hex>#3f012c</hex>
 </color>
 <color>
 <name>Dark Potion</name>
@@ -17043,6 +17075,10 @@
 <color>
 <name>Dark Salmon</name>
 <hex>#c85a53</hex>
+</color>
+<color>
+<name>Dark Sanctuary</name>
+<hex>#3f012c</hex>
 </color>
 <color>
 <name>Dark Sand</name>
@@ -17517,10 +17553,6 @@
 <hex>#410200</hex>
 </color>
 <color>
-<name>Deep Caribbean</name>
-<hex>#5f6171</hex>
-</color>
-<color>
 <name>Deep Carmine</name>
 <hex>#a9203e</hex>
 </color>
@@ -17567,10 +17599,6 @@
 <color>
 <name>Deep Cove</name>
 <hex>#051040</hex>
-</color>
-<color>
-<name>Deep Crimson</name>
-<hex>#8f423d</hex>
 </color>
 <color>
 <name>Deep Current</name>
@@ -17673,10 +17701,6 @@
 <hex>#00656b</hex>
 </color>
 <color>
-<name>Deep Lake Blue</name>
-<hex>#015482</hex>
-</color>
-<color>
 <name>Deep Lavender</name>
 <hex>#8d5eb7</hex>
 </color>
@@ -17733,10 +17757,6 @@
 <hex>#35524a</hex>
 </color>
 <color>
-<name>Deep Moss Green</name>
-<hex>#355e4b</hex>
-</color>
-<color>
 <name>Deep Mushroom</name>
 <hex>#96847a</hex>
 </color>
@@ -17747,10 +17767,6 @@
 <color>
 <name>Deep Night</name>
 <hex>#494c55</hex>
-</color>
-<color>
-<name>Deep Oak</name>
-<hex>#412010</hex>
 </color>
 <color>
 <name>Deep Ocean</name>
@@ -17913,10 +17929,6 @@
 <hex>#4a646c</hex>
 </color>
 <color>
-<name>Deep Spring Bud</name>
-<hex>#556b2f</hex>
-</color>
-<color>
 <name>Deep Storm</name>
 <hex>#3f4551</hex>
 </color>
@@ -18063,6 +18075,10 @@
 <color>
 <name>Delicate White</name>
 <hex>#f1f2ee</hex>
+</color>
+<color>
+<name>Délicieux</name>
+<hex>#412010</hex>
 </color>
 <color>
 <name>Delicioso</name>
@@ -21909,6 +21925,10 @@
 <hex>#8980c1</hex>
 </color>
 <color>
+<name>Farfalle Noodle</name>
+<hex>#e5d4c9</hex>
+</color>
+<color>
 <name>Farm Fresh</name>
 <hex>#8e9b88</hex>
 </color>
@@ -22271,6 +22291,10 @@
 <color>
 <name>Fig Branches</name>
 <hex>#7a634d</hex>
+</color>
+<color>
+<name>Fig Leaf</name>
+<hex>#556b2f</hex>
 </color>
 <color>
 <name>Figue</name>
@@ -24161,6 +24185,10 @@
 <hex>#604241</hex>
 </color>
 <color>
+<name>Fruitless Fig Tree</name>
+<hex>#448822</hex>
+</color>
+<color>
 <name>Fruity Licious</name>
 <hex>#f69092</hex>
 </color>
@@ -24335,6 +24363,10 @@
 <color>
 <name>Fuscous Grey</name>
 <hex>#54534d</hex>
+</color>
+<color>
+<name>Fusilli</name>
+<hex>#f1e8d6</hex>
 </color>
 <color>
 <name>Fusion Coral</name>
@@ -24711,6 +24743,10 @@
 <color>
 <name>Gazelle</name>
 <hex>#947e68</hex>
+</color>
+<color>
+<name>Gazpacho</name>
+<hex>#c23b22</hex>
 </color>
 <color>
 <name>Gecko</name>
@@ -25489,6 +25525,10 @@
 <hex>#a8d4b0</hex>
 </color>
 <color>
+<name>Godzilla</name>
+<hex>#3c4d03</hex>
+</color>
+<color>
 <name>Gogo Blue</name>
 <hex>#0087a1</hex>
 </color>
@@ -26237,6 +26277,10 @@
 <hex>#665a48</hex>
 </color>
 <color>
+<name>Grand Bleu</name>
+<hex>#015482</hex>
+</color>
+<color>
 <name>Grand Gusto</name>
 <hex>#86bb9d</hex>
 </color>
@@ -26627,6 +26671,10 @@
 <color>
 <name>Greedy Gold</name>
 <hex>#c4ce3b</hex>
+</color>
+<color>
+<name>Greedy Green</name>
+<hex>#d1ffbd</hex>
 </color>
 <color>
 <name>Greek Aubergine</name>
@@ -27663,6 +27711,10 @@
 <color>
 <name>Gross Green</name>
 <hex>#a0bf16</hex>
+</color>
+<color>
+<name>Grotesque Green</name>
+<hex>#64e986</hex>
 </color>
 <color>
 <name>Grouchy Badger</name>
@@ -29177,10 +29229,6 @@
 <hex>#bce4eb</hex>
 </color>
 <color>
-<name>Hint of Aqua Frost</name>
-<hex>#cce5e8</hex>
-</color>
-<color>
 <name>Hint of Aqua Mist</name>
 <hex>#c6e0e1</hex>
 </color>
@@ -29563,10 +29611,6 @@
 <color>
 <name>Hint of Feijoa Flower</name>
 <hex>#f3f5dc</hex>
-</color>
-<color>
-<name>Hint of Femininity</name>
-<hex>#dedce2</hex>
 </color>
 <color>
 <name>Hint of Figurine</name>
@@ -30237,10 +30281,6 @@
 <hex>#eae2de</hex>
 </color>
 <color>
-<name>Hint of Raw Cotton</name>
-<hex>#f1e8d6</hex>
-</color>
-<color>
 <name>Hint of Recuperate</name>
 <hex>#ede2ee</hex>
 </color>
@@ -30431,10 +30471,6 @@
 <color>
 <name>Hint of Soft Satin</name>
 <hex>#f5dee2</hex>
-</color>
-<color>
-<name>Hint of Solar</name>
-<hex>#f9f2d4</hex>
 </color>
 <color>
 <name>Hint of Spanish Cream</name>
@@ -31127,6 +31163,10 @@
 <color>
 <name>Hospital Green</name>
 <hex>#9be5aa</hex>
+</color>
+<color>
+<name>Hot Bolognese</name>
+<hex>#cc5511</hex>
 </color>
 <color>
 <name>Hot Cacao</name>
@@ -31917,6 +31957,10 @@
 <hex>#0b474a</hex>
 </color>
 <color>
+<name>Incubus</name>
+<hex>#772222</hex>
+</color>
+<color>
 <name>Independence</name>
 <hex>#4c516d</hex>
 </color>
@@ -32581,6 +32625,10 @@
 <hex>#ad5d5d</hex>
 </color>
 <color>
+<name>Ivalo River</name>
+<hex>#cce5e8</hex>
+</color>
+<color>
 <name>Ivory</name>
 <hex>#fffff0</hex>
 </color>
@@ -32726,6 +32774,10 @@
 </color>
 <color>
 <name>Jade Dust</name>
+<hex>#ceddda</hex>
+</color>
+<color>
+<name>Jade Glass</name>
 <hex>#00ced1</hex>
 </color>
 <color>
@@ -33791,6 +33843,10 @@
 <color>
 <name>King Creek Falls</name>
 <hex>#5f686f</hex>
+</color>
+<color>
+<name>King Ghidorah</name>
+<hex>#aa9977</hex>
 </color>
 <color>
 <name>King Kong</name>
@@ -35405,10 +35461,6 @@
 <hex>#d4d3e0</hex>
 </color>
 <color>
-<name>Light and Low</name>
-<hex>#f9e3b4</hex>
-</color>
-<color>
 <name>Light Angel Kiss</name>
 <hex>#dad4e4</hex>
 </color>
@@ -35429,24 +35481,12 @@
 <hex>#cdced5</hex>
 </color>
 <color>
-<name>Light Antarctica Lake</name>
-<hex>#ceddda</hex>
-</color>
-<color>
-<name>Light Antique Lace</name>
-<hex>#dad1ce</hex>
-</color>
-<color>
 <name>Light Apple Cucumber</name>
 <hex>#e4e4cb</hex>
 </color>
 <color>
 <name>Light Apple Slice</name>
 <hex>#f4f3cd</hex>
-</color>
-<color>
-<name>Light Aqua</name>
-<hex>#8cffdb</hex>
 </color>
 <color>
 <name>Light Aqua Clear</name>
@@ -36065,14 +36105,6 @@
 <hex>#c0b5aa</hex>
 </color>
 <color>
-<name>Light Gold</name>
-<hex>#fddc5c</hex>
-</color>
-<color>
-<name>Light Goldenrod</name>
-<hex>#eedd82</hex>
-</color>
-<color>
 <name>Light Goldenrod Yellow</name>
 <hex>#fafad2</hex>
 </color>
@@ -36477,10 +36509,6 @@
 <hex>#f2f3cf</hex>
 </color>
 <color>
-<name>Light Mist</name>
-<hex>#fcf7db</hex>
-</color>
-<color>
 <name>Light Mistral</name>
 <hex>#c8cdd8</hex>
 </color>
@@ -36493,16 +36521,8 @@
 <hex>#ded5e2</hex>
 </color>
 <color>
-<name>Light Moo</name>
-<hex>#f9ebcc</hex>
-</color>
-<color>
 <name>Light Morality</name>
 <hex>#c4d9eb</hex>
-</color>
-<color>
-<name>Light Mornington</name>
-<hex>#e5d4c9</hex>
 </color>
 <color>
 <name>Light Mosque</name>
@@ -36567,10 +36587,6 @@
 <color>
 <name>Light Objectivity</name>
 <hex>#cbd3e6</hex>
-</color>
-<color>
-<name>Light of the Moon</name>
-<hex>#fdf5d7</hex>
 </color>
 <color>
 <name>Light Oil Of Lavender</name>
@@ -36675,10 +36691,6 @@
 <color>
 <name>Light Pea Green</name>
 <hex>#c4fe82</hex>
-</color>
-<color>
-<name>Light Peach</name>
-<hex>#ffd8b1</hex>
 </color>
 <color>
 <name>Light Pearl Ash</name>
@@ -36809,10 +36821,6 @@
 <hex>#c5d0d9</hex>
 </color>
 <color>
-<name>Light Precious Pink</name>
-<hex>#f4dbdc</hex>
-</color>
-<color>
 <name>Light Pretty Pale</name>
 <hex>#ead4e0</hex>
 </color>
@@ -36927,10 +36935,6 @@
 <color>
 <name>Light Salt Spray</name>
 <hex>#bbd3da</hex>
-</color>
-<color>
-<name>Light Sand Diamond</name>
-<hex>#faeecb</hex>
 </color>
 <color>
 <name>Light Sandbank</name>
@@ -37103,10 +37107,6 @@
 <color>
 <name>Light Solar</name>
 <hex>#faf0c9</hex>
-</color>
-<color>
-<name>Light Soya</name>
-<hex>#f9eacc</hex>
 </color>
 <color>
 <name>Light Spanish Cream</name>
@@ -38409,6 +38409,10 @@
 <hex>#ffeeff</hex>
 </color>
 <color>
+<name>Lovely Harmony</name>
+<hex>#f4dbdc</hex>
+</color>
+<color>
 <name>Lovely Lilac</name>
 <hex>#a7b0cc</hex>
 </color>
@@ -39465,6 +39469,10 @@
 <hex>#957840</hex>
 </color>
 <color>
+<name>Manticore Wing</name>
+<hex>#dd7711</hex>
+</color>
+<color>
 <name>Mantis</name>
 <hex>#74c365</hex>
 </color>
@@ -40231,6 +40239,10 @@
 <color>
 <name>Mecha Grey</name>
 <hex>#8d847f</hex>
+</color>
+<color>
+<name>Mechagozilla</name>
+<hex>#dedce2</hex>
 </color>
 <color>
 <name>Mechanicus Standard Grey</name>
@@ -41187,6 +41199,10 @@
 <color>
 <name>Mighty Mauve</name>
 <hex>#8f7f85</hex>
+</color>
+<color>
+<name>Mighty Midnight</name>
+<hex>#000133</hex>
 </color>
 <color>
 <name>Migol Blue</name>
@@ -42625,6 +42641,10 @@
 <hex>#e9d4c3</hex>
 </color>
 <color>
+<name>Mothra Wing</name>
+<hex>#eedd82</hex>
+</color>
+<color>
 <name>Motto</name>
 <hex>#917c6f</hex>
 </color>
@@ -43347,6 +43367,10 @@
 <color>
 <name>Nancy</name>
 <hex>#57b8dc</hex>
+</color>
+<color>
+<name>Nandi Bear</name>
+<hex>#8f423d</hex>
 </color>
 <color>
 <name>Nandor</name>
@@ -44273,6 +44297,10 @@
 <hex>#c1a65c</hex>
 </color>
 <color>
+<name>Noodles</name>
+<hex>#f9e3b4</hex>
+</color>
+<color>
 <name>Noqrei Silver</name>
 <hex>#bdbebd</hex>
 </color>
@@ -44697,6 +44725,10 @@
 <hex>#060313</hex>
 </color>
 <color>
+<name>Obtrusive Orange</name>
+<hex>#ffb077</hex>
+</color>
+<color>
 <name>Ocean</name>
 <hex>#005493</hex>
 </color>
@@ -44827,6 +44859,10 @@
 <color>
 <name>Ode to Purple</name>
 <hex>#a798c2</hex>
+</color>
+<color>
+<name>Odious Orange</name>
+<hex>#ffdfbf</hex>
 </color>
 <color>
 <name>Odyssey</name>
@@ -45789,6 +45825,10 @@
 <hex>#998188</hex>
 </color>
 <color>
+<name>Orecchiette</name>
+<hex>#faeecb</hex>
+</color>
+<color>
 <name>Oregano</name>
 <hex>#7f8353</hex>
 </color>
@@ -45903,6 +45943,10 @@
 <color>
 <name>Orpington Chicken</name>
 <hex>#be855e</hex>
+</color>
+<color>
+<name>Orzo Pasta</name>
+<hex>#f9eacc</hex>
 </color>
 <color>
 <name>Osiris</name>
@@ -46143,6 +46187,10 @@
 <color>
 <name>Pac-Man</name>
 <hex>#ffe737</hex>
+</color>
+<color>
+<name>Paccheri</name>
+<hex>#ecdfad</hex>
 </color>
 <color>
 <name>Pachyderm</name>
@@ -47039,6 +47087,10 @@
 <color>
 <name>Paperboy's Lawn</name>
 <hex>#249148</hex>
+</color>
+<color>
+<name>Pappardelle Noodle</name>
+<hex>#f9ebcc</hex>
 </color>
 <color>
 <name>Paprika</name>
@@ -50291,6 +50343,10 @@
 <color>
 <name>Poisonous Dart</name>
 <hex>#77ff66</hex>
+</color>
+<color>
+<name>Poisonous Purple</name>
+<hex>#2a0134</hex>
 </color>
 <color>
 <name>Poker Green</name>
@@ -54405,6 +54461,10 @@
 <hex>#bb363f</hex>
 </color>
 <color>
+<name>Rodan Gold</name>
+<hex>#fddc5c</hex>
+</color>
+<color>
 <name>Rodeo</name>
 <hex>#7f5e46</hex>
 </color>
@@ -54461,6 +54521,10 @@
 <hex>#0078be</hex>
 </color>
 <color>
+<name>Roller Derby</name>
+<hex>#8cffdb</hex>
+</color>
+<color>
 <name>Rolling Hills</name>
 <hex>#7c7e6a</hex>
 </color>
@@ -54499,6 +54563,10 @@
 <color>
 <name>Roman Gold</name>
 <hex>#d19b2f</hex>
+</color>
+<color>
+<name>Roman Mosaic</name>
+<hex>#dad1ce</hex>
 </color>
 <color>
 <name>Roman Purple</name>
@@ -56255,6 +56323,10 @@
 <color>
 <name>Sassy</name>
 <hex>#c18862</hex>
+</color>
+<color>
+<name>Sassy Pink</name>
+<hex>#f6cefc</hex>
 </color>
 <color>
 <name>Satellite</name>
@@ -61993,6 +62065,10 @@
 <hex>#87857c</hex>
 </color>
 <color>
+<name>Succubus</name>
+<hex>#990022</hex>
+</color>
+<color>
 <name>Succulent</name>
 <hex>#dcdd65</hex>
 </color>
@@ -63309,6 +63385,10 @@
 <hex>#aad0ba</hex>
 </color>
 <color>
+<name>Tagliatelle</name>
+<hex>#f9f2d4</hex>
+</color>
+<color>
 <name>Tahini</name>
 <hex>#ddbb77</hex>
 </color>
@@ -64103,6 +64183,10 @@
 <color>
 <name>Tennis Ball</name>
 <hex>#dfff4f</hex>
+</color>
+<color>
+<name>Tense Terracotta</name>
+<hex>#a35732</hex>
 </color>
 <color>
 <name>Tentacle Pink</name>
@@ -67193,64 +67277,20 @@
 <hex>#b73275</hex>
 </color>
 <color>
-<name>Very Blue</name>
-<hex>#0000aa</hex>
-</color>
-<color>
-<name>Very Cashmere</name>
-<hex>#ecdfad</hex>
-</color>
-<color>
-<name>Very Dark Blue</name>
-<hex>#000133</hex>
-</color>
-<color>
 <name>Very Dark Green</name>
 <hex>#062e03</hex>
-</color>
-<color>
-<name>Very Dark Purple</name>
-<hex>#2a0134</hex>
 </color>
 <color>
 <name>Very Grape</name>
 <hex>#927288</hex>
 </color>
 <color>
-<name>Very Light Azure</name>
-<hex>#74bbfb</hex>
-</color>
-<color>
 <name>Very Light Blue</name>
 <hex>#d5ffff</hex>
 </color>
 <color>
-<name>Very Light Brown</name>
-<hex>#d3b683</hex>
-</color>
-<color>
-<name>Very Light Green</name>
-<hex>#d1ffbd</hex>
-</color>
-<color>
-<name>Very Light Grey</name>
-<hex>#cfcdcf</hex>
-</color>
-<color>
-<name>Very Light Malachite Green</name>
-<hex>#64e986</hex>
-</color>
-<color>
 <name>Very Light Pink</name>
 <hex>#fff4f2</hex>
-</color>
-<color>
-<name>Very Light Purple</name>
-<hex>#f6cefc</hex>
-</color>
-<color>
-<name>Very Light Tangelo</name>
-<hex>#ffb077</hex>
 </color>
 <color>
 <name>Very Pale Blue</name>
@@ -67259,18 +67299,6 @@
 <color>
 <name>Very Pale Green</name>
 <hex>#cffdbc</hex>
-</color>
-<color>
-<name>Very Pale Orange</name>
-<hex>#ffdfbf</hex>
-</color>
-<color>
-<name>Very Pale Yellow</name>
-<hex>#ffffbf</hex>
-</color>
-<color>
-<name>Very Terracotta</name>
-<hex>#a35732</hex>
 </color>
 <color>
 <name>Vestige</name>
@@ -69921,6 +69949,10 @@
 <hex>#941751</hex>
 </color>
 <color>
+<name>Wine Leaf</name>
+<hex>#355e4b</hex>
+</color>
+<color>
 <name>Wine Red</name>
 <hex>#7b0323</hex>
 </color>
@@ -70711,6 +70743,10 @@
 <color>
 <name>Yearning</name>
 <hex>#061088</hex>
+</color>
+<color>
+<name>Yell Yellow</name>
+<hex>#ffffbf</hex>
 </color>
 <color>
 <name>Yellow</name>
