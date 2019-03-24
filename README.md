@@ -151,14 +151,15 @@ See [package.json](package.json#L6) for more.
 ## Contributors 🦑
 - [meodai](//github.com/meodai) Initiator, Maintainer, Name Creator & Tooling
 - [Verena](//github.com/yxklyx/) Hundreds of names!!
+- [Jess](https://bit.ly/2FyLOKn) Name wizzard
 - [Syl](https://twitter.com/Gypsy_Syl) Name creator
 - [Stephanie Stutz](https://www.behance.net/stephaniestutzart) Name creator
 - [Simbiasamba](https://www.instagram.com/simbisamba/) Name creator
-- [Jason Wilson](//github.com/SgiobairOg) Manual Merging of some lists
-- [Inês João](https://www.inesjoao.me/) Mostly Portuguese names
-- [Nirazul](//github.com/Nirazul) Name Creator & Tooling
-- [Nick Niles](http://nickniles.com/) Name Creator
-- [Qwhex](https://github.com/qwhex) Name Creator
+- [Jason Wilson](//github.com/SgiobairOg) Manual merging of some lists
+- [Inês João](https://www.inesjoao.me/) Mostly portuguese names
+- [Nirazul](//github.com/Nirazul) Name creator & tooling
+- [Nick Niles](http://nickniles.com/) Name creator
+- [Qwhex](https://github.com/qwhex) Name creator
 - [Ichatdelune](https://www.reddit.com/user/Ichatdelune) Name Creator
 - [Metafizzy](https://metafizzy.co/) Logo Sponsor 💖
 

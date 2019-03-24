@@ -207,6 +207,7 @@ function diffSVG() {
   exec(`git diff HEAD ${baseFolder}${folderSrc}${fileNameSrc}.csv`,
   function (err, stdout, stderr) {
     const diffTxt = stdout;
+    if (!/(?<=^[\+])[^\+].*/gm.test(diffTxt)) return;
     const changes = diffTxt.match(/(?<=^[\+])[^\+].*/gm).filter(i => i);
     const svgTxtStr = changes.reduce((str, change, i) => {
       const changeParts = change.split(',');
