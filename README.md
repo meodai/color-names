@@ -108,8 +108,7 @@ console.log(someColor.hex); // => #16161d
 
 #### Closest Named Color
 
-Since there are 16777216 possible RGB colors, you might use a library such as [nearest-color](https://github.com/dtao/nearest-color) to help you find the the closest named color.
-Since there are 16777216 possible RGB colors, you might use a library such as [ClosestVector](https://github.com/meodai/ClosestVector) to help you find the the closest named color.
+Since there are 16777216 possible RGB colors, you might use a library such as [nearest-color] or [ClosestVector] to help you find the the closest named color.
 
 ```js
 import nearestColor from 'nearest-color';
@@ -126,7 +125,10 @@ nearest('#f1c1d1'); // => Fairy Tale
 
 Alternative package: [ktree](https://github.com/caub/ktree)
 
-**Note**: If you are looking for something visually more accurate, you could: use [DeltaE](https://github.com/zschuessler/DeltaE), or use the above snippet, combined with a transform from rgb to [ciecam02](https://github.com/baskerville/ciecam02) scaled to 0-255.
+**Note**: If you are looking for something visually more accurate, you could: use [DeltaE], or use the above snippet, combined with a transform from rgb to [ciecam02] scaled to 0-255.
+
+[DeltaE]: https://github.com/zschuessler/DeltaE
+[ciecam02]: https://github.com/baskerville/ciecam02
 
 ### Building 🔨
 
@@ -141,43 +143,93 @@ See [package.json](package.json#L6) for more.
 ### Sources: Names 📇
 
 - Thousands of user submissions [Twitter](https://codepen.io/meodai/full/ZXQzLb/)/[Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform)/[Github](#contributors-)
-- [Wikipedia list of named colors](https://en.wikipedia.org/wiki/List_of_colors:_A%E2%80%93F) (2018-02-23)
-- [CSS/HTML color names](https://developer.mozilla.org/en/docs/Web/CSS/color_value)
-- [ntc.js](http://chir.ag/projects/ntc/)
-- [xkcd color survey list](https://blog.xkcd.com/2010/05/03/color-survey-results/)
-- [htmlcsscolor.com](http://www.htmlcsscolor.com/color-names-rgb-values/A)
-- [OSX Crayons](http://www.randomactsofsentience.com/2013/06/os-x-crayon-color-hex-table.html)
-- [Crayola crayon](https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors)
-- [Thailand weekday colors](https://en.wikipedia.org/wiki/Colors_of_the_day_in_Thailand)
-- [Chinese heavenly creatures colors](https://en.wikipedia.org/wiki/Color_in_Chinese_culture)
-- [Military Paint](http://paintref.com/cgi-bin/colorcodedisplay.cgi?manuf=Military)
-- [Olympian god colors](http://www.hellenicgods.org/colors-associated-with-the-olympian-gods)
+- [Wikipedia list of named colors] (2018-02-23)
+- [CSS/HTML color names]
+- [ntc.js]
+- [xkcd color survey list]
+- [htmlcsscolor.com]
+- [OSX Crayons]
+- [Crayola crayon]
+- [Thailand weekday colors]
+- [Chinese heavenly creatures colors]
+- [Military Paint]
+- [Olympian god colors]
 - Model Color Paints: [Vallejo](http://www.danbecker.info/minis/miniother/PaintCharts/VallejoModelColor.html)
-- [Fictional Colors](https://en.wikipedia.org/wiki/List_of_fictional_colors#Identified_fictional_colors) (2018-05-09)
+- [Fictional Colors] (2018-05-09)
 - Non English Transliterations: [Japanese](https://en.wikipedia.org/wiki/Traditional_colors_of_Japan), [Mandarin](http://www.fluentu.com/blog/chinese/2016/07/25/chinese-colors/), [Hindi](https://en.wikibooks.org/wiki/Hindi/Colors), [Persian](https://en.wikibooks.org/wiki/Persian/Phrasebook/Colors), [Russian](//github.com/AleksejDix)
 - Multiple paint, print, nail polish, model paint color lists
 
 ### Sources: Color 🎨
 
-- [12-Bit & 8-Bit color palettes](https://en.wikipedia.org/wiki/List_of_color_palettes)
-- [Pico-8 color palette](https://www.lexaloffle.com/bbs/?tid=2101)
-- [Some Android Arts palettes](http://androidarts.com/palette/)
+- [12-Bit & 8-Bit color palettes]
+- [Pico-8 color palette]
+- [Some Android Arts palettes]
 
 ## Contributors 🦑
 
-- [meodai](//github.com/meodai) Initiator, maintainer, name creator &, tooling
-- [Nirazul](//github.com/Nirazul) Name creator & tooling
-- [Metafizzy](https://metafizzy.co/) Logo Sponsor 💖
+- [meodai] Initiator, maintainer, name creator &, tooling
+- [Nirazul] Name creator & tooling
+- [Metafizzy] Logo Sponsor 💖
 
 ### Color Namers
 
-[Verena the naming overloard](//github.com/yxklyx/), [Jess the name wizzard](https://twitter.com/_nutbird_), [Syl](https://twitter.com/Gypsy_Syl), [Stephanie Stutz](https://www.behance.net/stephaniestutzart), [Simbiasamba](https://www.instagram.com/simbisamba/), [Jason Wilson](//github.com/SgiobairOg), [Inês João](https://www.inesjoao.me/), [Nick Niles](http://nickniles.com/), [Qwhex](https://github.com/qwhex), [Ichatdelune](https://www.reddit.com/user/Ichatdelune)
+[Verena the naming overloard], [Jess the name wizzard], [Syl], [Stephanie Stutz], [Simbiasamba], [Jason Wilson], [Inês João], [Nick Niles], [Qwhex], [Ichatdelune]
 
 ## Disclaimer 👮🏾‍
 
 In the process we try to remove all names that are offensive or racist, as well as protected brand names.
-As some of the color names come from other lists, some bad ones might slip in. [Please report them](https://github.com/meodai/color-names/issues/new?title=Bad%20color%20name), they will be removed as quickly as possible.
+As some of the color names come from other lists, some bad ones might slip in. [Please report them], they will be removed as quickly as possible.
+
+[Please report them]: https://github.com/meodai/color-names/issues/new?title=Bad%20color%20name
 
 ## Latest Color Names 🔖
 
 ![New colors](changes.svg "New colors")
+
+<!-----------------------------------------------------------------------------
+                               REFERENCE LINKS                                
+------------------------------------------------------------------------------>
+
+<!-- 3r party libraries & tools -->
+
+[ClosestVector]: https://github.com/meodai/ClosestVector
+[nearest-color]: https://github.com/dtao/nearest-color
+
+<!-- people -->
+
+[Ichatdelune]: https://www.reddit.com/user/Ichatdelune
+[Inês João]: https://www.inesjoao.me/
+[Jason Wilson]: https://github.com/SgiobairOg
+[Jess the name wizzard]: https://twitter.com/_nutbird_
+[meodai]: https://github.com/meodai
+[Metafizzy]: https://metafizzy.co/
+[Nick Niles]: http://nickniles.com/
+[Nirazul]: https://github.com/Nirazul
+[Qwhex]: https://github.com/qwhex
+[Simbiasamba]: https://www.instagram.com/simbisamba/
+[Stephanie Stutz]: https://www.behance.net/stephaniestutzart
+[Syl]: https://twitter.com/Gypsy_Syl
+[Verena the naming overloard]: https://github.com/yxklyx/
+
+<!-- Sources: Names -->
+
+[Chinese heavenly creatures colors]: https://en.wikipedia.org/wiki/Color_in_Chinese_culture
+[Crayola crayon]: https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors
+[CSS/HTML color names]: https://developer.mozilla.org/en/docs/Web/CSS/color_value
+[Fictional Colors]: https://en.wikipedia.org/wiki/List_of_fictional_colors#Identified_fictional_colors
+[htmlcsscolor.com]: http://www.htmlcsscolor.com/color-names-rgb-values/A
+[Military Paint]: http://paintref.com/cgi-bin/colorcodedisplay.cgi?manuf=Military
+[ntc.js]: http://chir.ag/projects/ntc/
+[Olympian god colors]: http://www.hellenicgods.org/colors-associated-with-the-olympian-gods
+[OSX Crayons]: http://www.randomactsofsentience.com/2013/06/os-x-crayon-color-hex-table.html
+[Thailand weekday colors]: https://en.wikipedia.org/wiki/Colors_of_the_day_in_Thailand
+[Wikipedia list of named colors]: https://en.wikipedia.org/wiki/List_of_colors:_A%E2%80%93F
+[xkcd color survey list]: https://blog.xkcd.com/2010/05/03/color-survey-results/
+
+<!-- Sources: Color -->
+
+[12-Bit & 8-Bit color palettes]: https://en.wikipedia.org/wiki/List_of_color_palettes
+[Pico-8 color palette]: https://www.lexaloffle.com/bbs/?tid=2101
+[Some Android Arts palettes]: http://androidarts.com/palette/
+
+<!-- EOF -->
