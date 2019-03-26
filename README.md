@@ -108,8 +108,7 @@ console.log(someColor.hex); // => #16161d
 
 #### Closest Named Color
 
-Since there are 16777216 possible RGB colors, you might use a library such as [nearest-color](https://github.com/dtao/nearest-color) to help you find the the closest named color.
-Since there are 16777216 possible RGB colors, you might use a library such as [ClosestVector](https://github.com/meodai/ClosestVector) to help you find the the closest named color.
+Since there are 16777216 possible RGB colors, you might use a library such as [nearest-color](https://github.com/dtao/nearest-color) or [ClosestVector](https://github.com/meodai/ClosestVector) to help you find the the closest named color.
 
 ```js
 import nearestColor from 'nearest-color';
