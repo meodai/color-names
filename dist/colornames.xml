@@ -16833,10 +16833,6 @@
 <hex>#363737</hex>
 </color>
 <color>
-<name>Dark Grey Blue</name>
-<hex>#29465b</hex>
-</color>
-<color>
 <name>Dark Gull Grey</name>
 <hex>#625d5d</hex>
 </color>
@@ -17053,10 +17049,6 @@
 <hex>#b5485d</hex>
 </color>
 <color>
-<name>Dark Rose Tan</name>
-<hex>#d19c97</hex>
-</color>
-<color>
 <name>Dark Royal Blue</name>
 <hex>#02066f</hex>
 </color>
@@ -17103,10 +17095,6 @@
 <color>
 <name>Dark Seafoam</name>
 <hex>#1fb57a</hex>
-</color>
-<color>
-<name>Dark Seafoam Green</name>
-<hex>#3eaf76</hex>
 </color>
 <color>
 <name>Dark Seagreen</name>
@@ -17647,10 +17635,6 @@
 <color>
 <name>Deep Forest Green</name>
 <hex>#014426</hex>
-</color>
-<color>
-<name>Deep Fuchsia</name>
-<hex>#c154c1</hex>
 </color>
 <color>
 <name>Deep Garnet</name>
@@ -18827,6 +18811,10 @@
 <color>
 <name>Distilled Venom</name>
 <hex>#c7fdb5</hex>
+</color>
+<color>
+<name>Distilled Watermelon</name>
+<hex>#ede3e0</hex>
 </color>
 <color>
 <name>Distinct Purple</name>
@@ -23595,6 +23583,10 @@
 <color>
 <name>Freinacht Black</name>
 <hex>#232f36</hex>
+</color>
+<color>
+<name>French 75</name>
+<hex>#f9f3d5</hex>
 </color>
 <color>
 <name>French Beige</name>
@@ -29381,10 +29373,6 @@
 <hex>#e3eadb</hex>
 </color>
 <color>
-<name>Hint of Breezy</name>
-<hex>#cfe0f2</hex>
-</color>
-<color>
 <name>Hint of Bright Spark</name>
 <hex>#acdcee</hex>
 </color>
@@ -29611,10 +29599,6 @@
 <color>
 <name>Hint of Featherbed</name>
 <hex>#cfe2ef</hex>
-</color>
-<color>
-<name>Hint of Feijoa Flower</name>
-<hex>#f3f5dc</hex>
 </color>
 <color>
 <name>Hint of Figurine</name>
@@ -29891,10 +29875,6 @@
 <color>
 <name>Hint of Light Lichen</name>
 <hex>#deede4</hex>
-</color>
-<color>
-<name>Hint of Light Rice</name>
-<hex>#ede6d9</hex>
 </color>
 <color>
 <name>Hint of Lilac Crystal</name>
@@ -30229,10 +30209,6 @@
 <hex>#e6deea</hex>
 </color>
 <color>
-<name>Hint of Puffball</name>
-<hex>#e2dadf</hex>
-</color>
-<color>
 <name>Hint of Pure Blue</name>
 <hex>#d1dde1</hex>
 </color>
@@ -30295,10 +30271,6 @@
 <color>
 <name>Hint of Salome</name>
 <hex>#d9f4ea</hex>
-</color>
-<color>
-<name>Hint of Salt Spray</name>
-<hex>#cbdee3</hex>
 </color>
 <color>
 <name>Hint of Sand Diamond</name>
@@ -30553,10 +30525,6 @@
 <hex>#e8dde2</hex>
 </color>
 <color>
-<name>Hint of Tinker Light</name>
-<hex>#f9f3d5</hex>
-</color>
-<color>
 <name>Hint of Tip Toes</name>
 <hex>#eadce2</hex>
 </color>
@@ -30567,10 +30535,6 @@
 <color>
 <name>Hint of Vandamint</name>
 <hex>#cfecee</hex>
-</color>
-<color>
-<name>Hint of Vanilla Ice</name>
-<hex>#c9dae2</hex>
 </color>
 <color>
 <name>Hint of Vanilla Quake</name>
@@ -30605,10 +30569,6 @@
 <hex>#c9e3e5</hex>
 </color>
 <color>
-<name>Hint of Watermelon Milk</name>
-<hex>#ede3e0</hex>
-</color>
-<color>
 <name>Hint of Wavecrest</name>
 <hex>#c6dce7</hex>
 </color>
@@ -30623,10 +30583,6 @@
 <color>
 <name>Hint of Whimsy</name>
 <hex>#b0dced</hex>
-</color>
-<color>
-<name>Hint of White Box</name>
-<hex>#dae5e0</hex>
 </color>
 <color>
 <name>Hint of White Duck</name>
@@ -33075,6 +33031,10 @@
 <color>
 <name>Jelly Bean</name>
 <hex>#44798e</hex>
+</color>
+<color>
+<name>Jelly Yogurt</name>
+<hex>#ede6d9</hex>
 </color>
 <color>
 <name>Jellybean Pink</name>
@@ -35701,6 +35661,10 @@
 <hex>#dae3d0</hex>
 </color>
 <color>
+<name>Light Breeze</name>
+<hex>#cfe0f2</hex>
+</color>
+<color>
 <name>Light Breezy</name>
 <hex>#c0d5ef</hex>
 </color>
@@ -37899,6 +37863,10 @@
 <color>
 <name>Link Water</name>
 <hex>#c7cdd8</hex>
+</color>
+<color>
+<name>Link's Awakening</name>
+<hex>#3eaf76</hex>
 </color>
 <color>
 <name>Linnet</name>
@@ -40655,6 +40623,10 @@
 <color>
 <name>Melting Moment</name>
 <hex>#bba2b6</hex>
+</color>
+<color>
+<name>Melting Snowman</name>
+<hex>#dae5e0</hex>
 </color>
 <color>
 <name>Melting Violet</name>
@@ -45391,6 +45363,10 @@
 <color>
 <name>Onahau</name>
 <hex>#c2e6ec</hex>
+</color>
+<color>
+<name>One Year of Rain</name>
+<hex>#29465b</hex>
 </color>
 <color>
 <name>Onion</name>
@@ -51537,6 +51513,10 @@
 <hex>#ccbfc9</hex>
 </color>
 <color>
+<name>Puffball Vapour</name>
+<hex>#e2dadf</hex>
+</color>
+<color>
 <name>Puffins Bill</name>
 <hex>#e95c20</hex>
 </color>
@@ -55969,6 +55949,10 @@
 <hex>#96b403</hex>
 </color>
 <color>
+<name>Salty Vapour</name>
+<hex>#cbdee3</hex>
+</color>
+<color>
 <name>Salute</name>
 <hex>#282b34</hex>
 </color>
@@ -56467,6 +56451,10 @@
 <color>
 <name>Savon de Provence</name>
 <hex>#eed9b6</hex>
+</color>
+<color>
+<name>Savory Salmon</name>
+<hex>#d19c97</hex>
 </color>
 <color>
 <name>Savoy</name>
@@ -66617,6 +66605,10 @@
 <hex>#f77f00</hex>
 </color>
 <color>
+<name>Unloaded Texture Purple</name>
+<hex>#c154c1</hex>
+</color>
+<color>
 <name>Unmellow Yellow</name>
 <hex>#fefe66</hex>
 </color>
@@ -66911,6 +66903,10 @@
 <color>
 <name>Vanilla Ice</name>
 <hex>#fdf2d1</hex>
+</color>
+<color>
+<name>Vanilla Ice Smoke</name>
+<hex>#c9dae2</hex>
 </color>
 <color>
 <name>Vanilla Love</name>
@@ -68367,6 +68363,10 @@
 <color>
 <name>Warm Taupe</name>
 <hex>#af9483</hex>
+</color>
+<color>
+<name>Warm Turbulance</name>
+<hex>#f3f5dc</hex>
 </color>
 <color>
 <name>Warm Up</name>

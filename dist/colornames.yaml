@@ -12623,9 +12623,6 @@
   name:"Dark Grey"
   hex:"#363737"
 -
-  name:"Dark Grey Blue"
-  hex:"#29465b"
--
   name:"Dark Gull Grey"
   hex:"#625d5d"
 -
@@ -12788,9 +12785,6 @@
   name:"Dark Rose"
   hex:"#b5485d"
 -
-  name:"Dark Rose Tan"
-  hex:"#d19c97"
--
   name:"Dark Royal Blue"
   hex:"#02066f"
 -
@@ -12826,9 +12820,6 @@
 -
   name:"Dark Seafoam"
   hex:"#1fb57a"
--
-  name:"Dark Seafoam Green"
-  hex:"#3eaf76"
 -
   name:"Dark Seagreen"
   hex:"#666655"
@@ -13234,9 +13225,6 @@
 -
   name:"Deep Forest Green"
   hex:"#014426"
--
-  name:"Deep Fuchsia"
-  hex:"#c154c1"
 -
   name:"Deep Garnet"
   hex:"#773644"
@@ -14119,6 +14107,9 @@
 -
   name:"Distilled Venom"
   hex:"#c7fdb5"
+-
+  name:"Distilled Watermelon"
+  hex:"#ede3e0"
 -
   name:"Distinct Purple"
   hex:"#a294c9"
@@ -17695,6 +17686,9 @@
 -
   name:"Freinacht Black"
   hex:"#232f36"
+-
+  name:"French 75"
+  hex:"#f9f3d5"
 -
   name:"French Beige"
   hex:"#a67b50"
@@ -22034,9 +22028,6 @@
   name:"Hint of Breakaway"
   hex:"#e3eadb"
 -
-  name:"Hint of Breezy"
-  hex:"#cfe0f2"
--
   name:"Hint of Bright Spark"
   hex:"#acdcee"
 -
@@ -22207,9 +22198,6 @@
 -
   name:"Hint of Featherbed"
   hex:"#cfe2ef"
--
-  name:"Hint of Feijoa Flower"
-  hex:"#f3f5dc"
 -
   name:"Hint of Figurine"
   hex:"#f0e8da"
@@ -22417,9 +22405,6 @@
 -
   name:"Hint of Light Lichen"
   hex:"#deede4"
--
-  name:"Hint of Light Rice"
-  hex:"#ede6d9"
 -
   name:"Hint of Lilac Crystal"
   hex:"#e1dee8"
@@ -22670,9 +22655,6 @@
   name:"Hint of Prudence"
   hex:"#e6deea"
 -
-  name:"Hint of Puffball"
-  hex:"#e2dadf"
--
   name:"Hint of Pure Blue"
   hex:"#d1dde1"
 -
@@ -22720,9 +22702,6 @@
 -
   name:"Hint of Salome"
   hex:"#d9f4ea"
--
-  name:"Hint of Salt Spray"
-  hex:"#cbdee3"
 -
   name:"Hint of Sand Diamond"
   hex:"#f9f1d7"
@@ -22913,9 +22892,6 @@
   name:"Hint of Tinge Of Mauve"
   hex:"#e8dde2"
 -
-  name:"Hint of Tinker Light"
-  hex:"#f9f3d5"
--
   name:"Hint of Tip Toes"
   hex:"#eadce2"
 -
@@ -22924,9 +22900,6 @@
 -
   name:"Hint of Vandamint"
   hex:"#cfecee"
--
-  name:"Hint of Vanilla Ice"
-  hex:"#c9dae2"
 -
   name:"Hint of Vanilla Quake"
   hex:"#e2e0db"
@@ -22952,9 +22925,6 @@
   name:"Hint of Watermark"
   hex:"#c9e3e5"
 -
-  name:"Hint of Watermelon Milk"
-  hex:"#ede3e0"
--
   name:"Hint of Wavecrest"
   hex:"#c6dce7"
 -
@@ -22966,9 +22936,6 @@
 -
   name:"Hint of Whimsy"
   hex:"#b0dced"
--
-  name:"Hint of White Box"
-  hex:"#dae5e0"
 -
   name:"Hint of White Duck"
   hex:"#e4e1d6"
@@ -24805,6 +24772,9 @@
 -
   name:"Jelly Bean"
   hex:"#44798e"
+-
+  name:"Jelly Yogurt"
+  hex:"#ede6d9"
 -
   name:"Jellybean Pink"
   hex:"#9b6575"
@@ -26774,6 +26744,9 @@
   name:"Light Breakaway"
   hex:"#dae3d0"
 -
+  name:"Light Breeze"
+  hex:"#cfe0f2"
+-
   name:"Light Breezy"
   hex:"#c0d5ef"
 -
@@ -28423,6 +28396,9 @@
 -
   name:"Link Water"
   hex:"#c7cdd8"
+-
+  name:"Link's Awakening"
+  hex:"#3eaf76"
 -
   name:"Linnet"
   hex:"#c3bcb3"
@@ -30490,6 +30466,9 @@
 -
   name:"Melting Moment"
   hex:"#bba2b6"
+-
+  name:"Melting Snowman"
+  hex:"#dae5e0"
 -
   name:"Melting Violet"
   hex:"#d4b8bf"
@@ -34042,6 +34021,9 @@
 -
   name:"Onahau"
   hex:"#c2e6ec"
+-
+  name:"One Year of Rain"
+  hex:"#29465b"
 -
   name:"Onion"
   hex:"#48412b"
@@ -38651,6 +38633,9 @@
   name:"Puffball"
   hex:"#ccbfc9"
 -
+  name:"Puffball Vapour"
+  hex:"#e2dadf"
+-
   name:"Puffins Bill"
   hex:"#e95c20"
 -
@@ -41975,6 +41960,9 @@
   name:"Salty Thyme"
   hex:"#96b403"
 -
+  name:"Salty Vapour"
+  hex:"#cbdee3"
+-
   name:"Salute"
   hex:"#282b34"
 -
@@ -42349,6 +42337,9 @@
 -
   name:"Savon de Provence"
   hex:"#eed9b6"
+-
+  name:"Savory Salmon"
+  hex:"#d19c97"
 -
   name:"Savoy"
   hex:"#87b550"
@@ -49961,6 +49952,9 @@
   name:"University of Tennessee Orange"
   hex:"#f77f00"
 -
+  name:"Unloaded Texture Purple"
+  hex:"#c154c1"
+-
   name:"Unmellow Yellow"
   hex:"#fefe66"
 -
@@ -50182,6 +50176,9 @@
 -
   name:"Vanilla Ice"
   hex:"#fdf2d1"
+-
+  name:"Vanilla Ice Smoke"
+  hex:"#c9dae2"
 -
   name:"Vanilla Love"
   hex:"#e6e0cc"
@@ -51274,6 +51271,9 @@
 -
   name:"Warm Taupe"
   hex:"#af9483"
+-
+  name:"Warm Turbulance"
+  hex:"#f3f5dc"
 -
   name:"Warm Up"
   hex:"#9e6654"
