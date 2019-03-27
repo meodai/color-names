@@ -12671,9 +12671,6 @@
   name:"Dark Blue Green"
   hex:"#005249"
 -
-  name:"Dark Blue Grey"
-  hex:"#1f3b4d"
--
   name:"Dark Border"
   hex:"#1b4556"
 -
@@ -12695,9 +12692,6 @@
   name:"Dark Catalina"
   hex:"#273c5a"
 -
-  name:"Dark Cerulean"
-  hex:"#08457e"
--
   name:"Dark Charcoal"
   hex:"#112222"
 -
@@ -12712,6 +12706,9 @@
 -
   name:"Dark Denim"
   hex:"#35465e"
+-
+  name:"Dark Elf"
+  hex:"#3b3f42"
 -
   name:"Dark Elf Green"
   hex:"#006131"
@@ -12769,9 +12766,6 @@
 -
   name:"Dark Gull Grey"
   hex:"#625d5d"
--
-  name:"Dark Gunship Grey"
-  hex:"#3b3f42"
 -
   name:"Dark Highlight"
   hex:"#705446"
@@ -23096,9 +23090,6 @@
   name:"Hint of Whimsy"
   hex:"#b0dced"
 -
-  name:"Hint of White Duck"
-  hex:"#e4e1d6"
--
   name:"Hinterland"
   hex:"#616c51"
 -
@@ -28886,6 +28877,9 @@
   name:"Lost Love"
   hex:"#e5d7d4"
 -
+  name:"Lost River"
+  hex:"#08457e"
+-
   name:"Lost Soul Grey"
   hex:"#929591"
 -
@@ -32501,6 +32495,9 @@
   name:"Mustard Magic"
   hex:"#857139"
 -
+  name:"Mustard Oil"
+  hex:"#d5bd66"
+-
   name:"Mustard On Toast"
   hex:"#ddcc33"
 -
@@ -32998,6 +32995,9 @@
 -
   name:"Nettle"
   hex:"#bbac7d"
+-
+  name:"Nettle Rash"
+  hex:"#e4f7e7"
 -
   name:"Neutral Buff"
   hex:"#9d928f"
@@ -35155,9 +35155,6 @@
 -
   name:"Pale Mouse"
   hex:"#9790a4"
--
-  name:"Pale Mustard"
-  hex:"#d5bd66"
 -
   name:"Pale Oak"
   hex:"#bba46d"
@@ -46745,6 +46742,9 @@
   name:"Subpoena"
   hex:"#d8ccc6"
 -
+  name:"Subterranean River"
+  hex:"#1f3b4d"
+-
   name:"Subtle Blue"
   hex:"#d9e3e5"
 -
@@ -49430,7 +49430,7 @@
   name:"Trendy Pink"
   hex:"#805d80"
 -
-  name:"Tri-tip"
+  name:"Tri-Tip"
   hex:"#f2d1c4"
 -
   name:"Triamble"
@@ -51915,7 +51915,7 @@
   hex:"#b3833b"
 -
   name:"Weisswurst White"
-  hex:"#e4f7e7"
+  hex:"#e4e1d6"
 -
   name:"Welcome Home"
   hex:"#c09c6a"

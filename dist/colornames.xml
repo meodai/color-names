@@ -16897,10 +16897,6 @@
 <hex>#005249</hex>
 </color>
 <color>
-<name>Dark Blue Grey</name>
-<hex>#1f3b4d</hex>
-</color>
-<color>
 <name>Dark Border</name>
 <hex>#1b4556</hex>
 </color>
@@ -16929,10 +16925,6 @@
 <hex>#273c5a</hex>
 </color>
 <color>
-<name>Dark Cerulean</name>
-<hex>#08457e</hex>
-</color>
-<color>
 <name>Dark Charcoal</name>
 <hex>#112222</hex>
 </color>
@@ -16951,6 +16943,10 @@
 <color>
 <name>Dark Denim</name>
 <hex>#35465e</hex>
+</color>
+<color>
+<name>Dark Elf</name>
+<hex>#3b3f42</hex>
 </color>
 <color>
 <name>Dark Elf Green</name>
@@ -17027,10 +17023,6 @@
 <color>
 <name>Dark Gull Grey</name>
 <hex>#625d5d</hex>
-</color>
-<color>
-<name>Dark Gunship Grey</name>
-<hex>#3b3f42</hex>
 </color>
 <color>
 <name>Dark Highlight</name>
@@ -30797,10 +30789,6 @@
 <hex>#b0dced</hex>
 </color>
 <color>
-<name>Hint of White Duck</name>
-<hex>#e4e1d6</hex>
-</color>
-<color>
 <name>Hinterland</name>
 <hex>#616c51</hex>
 </color>
@@ -38517,6 +38505,10 @@
 <hex>#e5d7d4</hex>
 </color>
 <color>
+<name>Lost River</name>
+<hex>#08457e</hex>
+</color>
+<color>
 <name>Lost Soul Grey</name>
 <hex>#929591</hex>
 </color>
@@ -43337,6 +43329,10 @@
 <hex>#857139</hex>
 </color>
 <color>
+<name>Mustard Oil</name>
+<hex>#d5bd66</hex>
+</color>
+<color>
 <name>Mustard On Toast</name>
 <hex>#ddcc33</hex>
 </color>
@@ -43999,6 +43995,10 @@
 <color>
 <name>Nettle</name>
 <hex>#bbac7d</hex>
+</color>
+<color>
+<name>Nettle Rash</name>
+<hex>#e4f7e7</hex>
 </color>
 <color>
 <name>Neutral Buff</name>
@@ -46875,10 +46875,6 @@
 <color>
 <name>Pale Mouse</name>
 <hex>#9790a4</hex>
-</color>
-<color>
-<name>Pale Mustard</name>
-<hex>#d5bd66</hex>
 </color>
 <color>
 <name>Pale Oak</name>
@@ -62329,6 +62325,10 @@
 <hex>#d8ccc6</hex>
 </color>
 <color>
+<name>Subterranean River</name>
+<hex>#1f3b4d</hex>
+</color>
+<color>
 <name>Subtle Blue</name>
 <hex>#d9e3e5</hex>
 </color>
@@ -65909,7 +65909,7 @@
 <hex>#805d80</hex>
 </color>
 <color>
-<name>Tri-tip</name>
+<name>Tri-Tip</name>
 <hex>#f2d1c4</hex>
 </color>
 <color>
@@ -69222,7 +69222,7 @@
 </color>
 <color>
 <name>Weisswurst White</name>
-<hex>#e4f7e7</hex>
+<hex>#e4e1d6</hex>
 </color>
 <color>
 <name>Welcome Home</name>

@@ -220,7 +220,7 @@ As some of the color names come from other lists, some bad ones might slip in. [
 [Fictional Colors]: https://en.wikipedia.org/wiki/List_of_fictional_colors#Identified_fictional_colors
 [htmlcsscolor.com]: http://www.htmlcsscolor.com/color-names-rgb-values/A
 [Military Paint]: http://paintref.com/cgi-bin/colorcodedisplay.cgi?manuf=Military
-[Werner’s Nomenclature of Colours]: (https://www.c82.net/werner/)
+[Werner’s Nomenclature of Colours]: https://www.c82.net/werner/
 [ntc.js]: http://chir.ag/projects/ntc/
 [Olympian god colors]: http://www.hellenicgods.org/colors-associated-with-the-olympian-gods
 [OSX Crayons]: http://www.randomactsofsentience.com/2013/06/os-x-crayon-color-hex-table.html
