@@ -145,6 +145,7 @@ See [package.json](package.json#L6) for more.
 - Thousands of user submissions [Twitter](https://codepen.io/meodai/full/ZXQzLb/)/[Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform)/[Github](#contributors-)
 - [Wikipedia list of named colors] (2018-02-23)
 - [CSS/HTML color names]
+- [Werner’s Nomenclature of Colours]
 - [ntc.js]
 - [xkcd color survey list]
 - [htmlcsscolor.com]
@@ -187,7 +188,7 @@ As some of the color names come from other lists, some bad ones might slip in. [
 ![New colors](changes.svg "New colors")
 
 <!-----------------------------------------------------------------------------
-                               REFERENCE LINKS                                
+                               REFERENCE LINKS
 ------------------------------------------------------------------------------>
 
 <!-- 3r party libraries & tools -->
@@ -219,6 +220,7 @@ As some of the color names come from other lists, some bad ones might slip in. [
 [Fictional Colors]: https://en.wikipedia.org/wiki/List_of_fictional_colors#Identified_fictional_colors
 [htmlcsscolor.com]: http://www.htmlcsscolor.com/color-names-rgb-values/A
 [Military Paint]: http://paintref.com/cgi-bin/colorcodedisplay.cgi?manuf=Military
+[Werner’s Nomenclature of Colours]: (https://www.c82.net/werner/)
 [ntc.js]: http://chir.ag/projects/ntc/
 [Olympian god colors]: http://www.hellenicgods.org/colors-associated-with-the-olympian-gods
 [OSX Crayons]: http://www.randomactsofsentience.com/2013/06/os-x-crayon-color-hex-table.html
