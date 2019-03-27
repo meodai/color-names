@@ -1705,6 +1705,10 @@
 <hex>#603535</hex>
 </color>
 <color>
+<name>Andouille</name>
+<hex>#b58338</hex>
+</color>
+<color>
 <name>Andrea Blue</name>
 <hex>#4477dd</hex>
 </color>
@@ -4721,6 +4725,10 @@
 <hex>#973c6c</hex>
 </color>
 <color>
+<name>Battered Sausage</name>
+<hex>#ede2d4</hex>
+</color>
+<color>
 <name>Battery Charged Blue</name>
 <hex>#1dacd4</hex>
 </color>
@@ -5119,6 +5127,10 @@
 <color>
 <name>Beechnut</name>
 <hex>#c2c18d</hex>
+</color>
+<color>
+<name>Beef Jerky</name>
+<hex>#a25768</hex>
 </color>
 <color>
 <name>Beekeeper</name>
@@ -5569,6 +5581,10 @@
 <hex>#1ba169</hex>
 </color>
 <color>
+<name>Bierwurst</name>
+<hex>#f0908d</hex>
+</color>
+<color>
 <name>Big Band</name>
 <hex>#afaba0</hex>
 </color>
@@ -5703,6 +5719,10 @@
 <color>
 <name>Biloba Flower</name>
 <hex>#ae99d2</hex>
+</color>
+<color>
+<name>Biltong</name>
+<hex>#410200</hex>
 </color>
 <color>
 <name>Bimini Blue</name>
@@ -6555,6 +6575,10 @@
 <color>
 <name>Blockchain Gold</name>
 <hex>#e8bc50</hex>
+</color>
+<color>
+<name>Bloedworst</name>
+<hex>#560319</hex>
 </color>
 <color>
 <name>Blond</name>
@@ -7737,6 +7761,10 @@
 <hex>#4d6eb0</hex>
 </color>
 <color>
+<name>Bluebottle</name>
+<hex>#8ecfe8</hex>
+</color>
+<color>
 <name>Bluebound</name>
 <hex>#4f9297</hex>
 </color>
@@ -7921,6 +7949,10 @@
 <hex>#5d341a</hex>
 </color>
 <color>
+<name>Bockwurst</name>
+<hex>#df8f67</hex>
+</color>
+<color>
 <name>Bodacious</name>
 <hex>#b76ba3</hex>
 </color>
@@ -7935,6 +7967,10 @@
 <color>
 <name>Boeing Blue</name>
 <hex>#3d4652</hex>
+</color>
+<color>
+<name>Boerewors</name>
+<hex>#973443</hex>
 </color>
 <color>
 <name>Bog</name>
@@ -7995,6 +8031,10 @@
 <color>
 <name>Bole</name>
 <hex>#79443b</hex>
+</color>
+<color>
+<name>Bologna Sausage</name>
+<hex>#ffcfdc</hex>
 </color>
 <color>
 <name>Bolognese</name>
@@ -8173,6 +8213,10 @@
 <hex>#63b365</hex>
 </color>
 <color>
+<name>Borrage</name>
+<hex>#507ea4</hex>
+</color>
+<color>
 <name>Borscht</name>
 <hex>#8c2c24</hex>
 </color>
@@ -8227,6 +8271,10 @@
 <color>
 <name>Bottlebrush Blossom</name>
 <hex>#e8edb0</hex>
+</color>
+<color>
+<name>Boudin</name>
+<hex>#dab27d</hex>
 </color>
 <color>
 <name>Boudoir Blue</name>
@@ -8461,6 +8509,10 @@
 <hex>#776022</hex>
 </color>
 <color>
+<name>Bratwurst</name>
+<hex>#582f2b</hex>
+</color>
+<color>
 <name>Braun</name>
 <hex>#897058</hex>
 </color>
@@ -8567,6 +8619,10 @@
 <color>
 <name>Breonne Blue</name>
 <hex>#2d567c</hex>
+</color>
+<color>
+<name>Bresaola</name>
+<hex>#a9203e</hex>
 </color>
 <color>
 <name>Bretzel Brown</name>
@@ -11065,6 +11121,10 @@
 <hex>#e6ba45</hex>
 </color>
 <color>
+<name>Capocollo</name>
+<hex>#d9544d</hex>
+</color>
+<color>
 <name>Cappuccino</name>
 <hex>#633f33</hex>
 </color>
@@ -13533,6 +13593,10 @@
 <hex>#9f7250</hex>
 </color>
 <color>
+<name>Cinque Foil</name>
+<hex>#ffff88</hex>
+</color>
+<color>
 <name>Cioccolato</name>
 <hex>#5d3b2e</hex>
 </color>
@@ -15693,6 +15757,10 @@
 <hex>#eec051</hex>
 </color>
 <color>
+<name>Cream Cheese Avocado</name>
+<hex>#d7d3a6</hex>
+</color>
+<color>
 <name>Cream Cheese Frosting</name>
 <hex>#f4efe2</hex>
 </color>
@@ -16365,6 +16433,10 @@
 <hex>#dadbdf</hex>
 </color>
 <color>
+<name>Cumberland Sausage</name>
+<hex>#e5dfdc</hex>
+</color>
+<color>
 <name>Cumin</name>
 <hex>#a58459</hex>
 </color>
@@ -16873,10 +16945,6 @@
 <hex>#26428b</hex>
 </color>
 <color>
-<name>Dark Cow</name>
-<hex>#882c17</hex>
-</color>
-<color>
 <name>Dark Cyan</name>
 <hex>#008b8b</hex>
 </color>
@@ -17069,10 +17137,6 @@
 <hex>#20c073</hex>
 </color>
 <color>
-<name>Dark Mochaccino</name>
-<hex>#582f2b</hex>
-</color>
-<color>
 <name>Dark Moss Green</name>
 <hex>#4a5d23</hex>
 </color>
@@ -17177,10 +17241,6 @@
 <hex>#02066f</hex>
 </color>
 <color>
-<name>Dark Ruby</name>
-<hex>#734a45</hex>
-</color>
-<color>
 <name>Dark Rum</name>
 <hex>#45362b</hex>
 </color>
@@ -17207,10 +17267,6 @@
 <color>
 <name>Dark Sapphire</name>
 <hex>#082567</hex>
-</color>
-<color>
-<name>Dark Scarlet</name>
-<hex>#560319</hex>
 </color>
 <color>
 <name>Dark Sea Green</name>
@@ -17665,14 +17721,6 @@
 <hex>#51412d</hex>
 </color>
 <color>
-<name>Deep Brown</name>
-<hex>#410200</hex>
-</color>
-<color>
-<name>Deep Carmine</name>
-<hex>#a9203e</hex>
-</color>
-<color>
 <name>Deep Carmine Pink</name>
 <hex>#ef3038</hex>
 </color>
@@ -17695,10 +17743,6 @@
 <color>
 <name>Deep Chestnut</name>
 <hex>#b94e48</hex>
-</color>
-<color>
-<name>Deep Claret</name>
-<hex>#973443</hex>
 </color>
 <color>
 <name>Deep Clay</name>
@@ -17817,10 +17861,6 @@
 <hex>#8d5eb7</hex>
 </color>
 <color>
-<name>Deep Leather</name>
-<hex>#41332f</hex>
-</color>
-<color>
 <name>Deep Lemon</name>
 <hex>#f5c71a</hex>
 </color>
@@ -17847,10 +17887,6 @@
 <color>
 <name>Deep Marine</name>
 <hex>#2e6469</hex>
-</color>
-<color>
-<name>Deep Maroon</name>
-<hex>#820000</hex>
 </color>
 <color>
 <name>Deep Marsh</name>
@@ -17911,10 +17947,6 @@
 <color>
 <name>Deep Periwinkle</name>
 <hex>#7c83bc</hex>
-</color>
-<color>
-<name>Deep Persian</name>
-<hex>#523839</hex>
 </color>
 <color>
 <name>Deep Pine</name>
@@ -19457,12 +19489,20 @@
 <hex>#eebb22</hex>
 </color>
 <color>
+<name>Drisheen</name>
+<hex>#a24857</hex>
+</color>
+<color>
 <name>Drive-In Cherry</name>
 <hex>#a62e30</hex>
 </color>
 <color>
 <name>Drizzle</name>
 <hex>#a0af9d</hex>
+</color>
+<color>
+<name>Droëwors</name>
+<hex>#523839</hex>
 </color>
 <color>
 <name>Dromedary</name>
@@ -22109,6 +22149,10 @@
 <hex>#352235</hex>
 </color>
 <color>
+<name>Fatback</name>
+<hex>#fff7ed</hex>
+</color>
+<color>
 <name>Fate</name>
 <hex>#6ba0bf</hex>
 </color>
@@ -22951,6 +22995,10 @@
 <color>
 <name>Flesh</name>
 <hex>#ffcbc4</hex>
+</color>
+<color>
+<name>Flesh Fly</name>
+<hex>#894585</hex>
 </color>
 <color>
 <name>Flesh Red</name>
@@ -25413,6 +25461,10 @@
 <hex>#a95c3e</hex>
 </color>
 <color>
+<name>Glamorgan Sausage</name>
+<hex>#dacba7</hex>
+</color>
+<color>
 <name>Glamour Pink</name>
 <hex>#ff1dcd</hex>
 </color>
@@ -26267,6 +26319,10 @@
 <color>
 <name>Good Luck Charm</name>
 <hex>#9d865c</hex>
+</color>
+<color>
+<name>Good Morning</name>
+<hex>#fcfcda</hex>
 </color>
 <color>
 <name>Good Night!</name>
@@ -28181,6 +28237,10 @@
 <hex>#000022</hex>
 </color>
 <color>
+<name>Haggis</name>
+<hex>#c3c7b2</hex>
+</color>
+<color>
 <name>Hailstorm</name>
 <hex>#d0d1e1</hex>
 </color>
@@ -28243,6 +28303,10 @@
 <color>
 <name>Half Spanish White</name>
 <hex>#e6dbc7</hex>
+</color>
+<color>
+<name>Half-Smoke</name>
+<hex>#ee8855</hex>
 </color>
 <color>
 <name>Hallowed Hush</name>
@@ -29413,10 +29477,6 @@
 <hex>#e3dfea</hex>
 </color>
 <color>
-<name>Hint of Angel's Face</name>
-<hex>#f6e8df</hex>
-</color>
-<color>
 <name>Hint of Angelic Blue</name>
 <hex>#d8dee7</hex>
 </color>
@@ -29483,14 +29543,6 @@
 <color>
 <name>Hint of Bethany</name>
 <hex>#e1ebd8</hex>
-</color>
-<color>
-<name>Hint of Bleached Bare</name>
-<hex>#e5dfdc</hex>
-</color>
-<color>
-<name>Hint of Bleached Coral</name>
-<hex>#fbe8e4</hex>
 </color>
 <color>
 <name>Hint of Bleaches</name>
@@ -29625,10 +29677,6 @@
 <hex>#e2f5e1</hex>
 </color>
 <color>
-<name>Hint of Carrot Flower</name>
-<hex>#e3e6da</hex>
-</color>
-<color>
 <name>Hint of Celery Satin</name>
 <hex>#e5ead8</hex>
 </color>
@@ -29639,10 +29687,6 @@
 <color>
 <name>Hint of Chalk Blue</name>
 <hex>#d3f2ed</hex>
-</color>
-<color>
-<name>Hint of China Doll</name>
-<hex>#ede2d4</hex>
 </color>
 <color>
 <name>Hint of Chintz</name>
@@ -29691,10 +29735,6 @@
 <color>
 <name>Hint of Dante Peak</name>
 <hex>#d4e7e7</hex>
-</color>
-<color>
-<name>Hint of Day Dreamer</name>
-<hex>#eae2dc</hex>
 </color>
 <color>
 <name>Hint of Dedication</name>
@@ -30863,6 +30903,14 @@
 <color>
 <name>Hog Bristle</name>
 <hex>#dcd1bb</hex>
+</color>
+<color>
+<name>Hog-Maw</name>
+<hex>#fbe8e4</hex>
+</color>
+<color>
+<name>Hog's Pudding</name>
+<hex>#dad5c7</hex>
 </color>
 <color>
 <name>Hokey Pokey</name>
@@ -32993,6 +33041,10 @@
 <hex>#d86d39</hex>
 </color>
 <color>
+<name>Jagdwurst</name>
+<hex>#ffcccb</hex>
+</color>
+<color>
 <name>Jagged Ice</name>
 <hex>#cae7e2</hex>
 </color>
@@ -34213,6 +34265,10 @@
 <hex>#e8f5fc</hex>
 </color>
 <color>
+<name>Koeksister</name>
+<hex>#e97551</hex>
+</color>
+<color>
 <name>Kofta Brown</name>
 <hex>#883322</hex>
 </color>
@@ -34689,6 +34745,10 @@
 <hex>#c9bba1</hex>
 </color>
 <color>
+<name>Landjäger</name>
+<hex>#af403c</hex>
+</color>
+<color>
 <name>Langoustino</name>
 <hex>#ca6c56</hex>
 </color>
@@ -34735,6 +34795,10 @@
 <color>
 <name>Large Wild Convolvulus</name>
 <hex>#e4e2d6</hex>
+</color>
+<color>
+<name>Largest Black Slug</name>
+<hex>#551f2f</hex>
 </color>
 <color>
 <name>Larimar Blue</name>
@@ -35537,6 +35601,10 @@
 <hex>#f2f1ed</hex>
 </color>
 <color>
+<name>Leverkaas</name>
+<hex>#edcdc2</hex>
+</color>
+<color>
 <name>Leviathan Purple Wash</name>
 <hex>#8b2a98</hex>
 </color>
@@ -35701,10 +35769,6 @@
 <hex>#decfd2</hex>
 </color>
 <color>
-<name>Light Aspiration</name>
-<hex>#dacba7</hex>
-</color>
-<color>
 <name>Light Azure</name>
 <hex>#92cbf1</hex>
 </color>
@@ -35735,10 +35799,6 @@
 <color>
 <name>Light Beige</name>
 <hex>#f5efe8</hex>
-</color>
-<color>
-<name>Light Beige Royal</name>
-<hex>#dad5c7</hex>
 </color>
 <color>
 <name>Light Beru</name>
@@ -35869,10 +35929,6 @@
 <hex>#add2e3</hex>
 </color>
 <color>
-<name>Light Bread Crumb</name>
-<hex>#ebdfcd</hex>
-</color>
-<color>
 <name>Light Breakaway</name>
 <hex>#dae3d0</hex>
 </color>
@@ -35991,10 +36047,6 @@
 <color>
 <name>Light Chintz</name>
 <hex>#e0d5c9</hex>
-</color>
-<color>
-<name>Light Chocolate Cosmos</name>
-<hex>#551f2f</hex>
 </color>
 <color>
 <name>Light Christobel</name>
@@ -36127,10 +36179,6 @@
 <color>
 <name>Light Ecru</name>
 <hex>#e5deca</hex>
-</color>
-<color>
-<name>Light Eggplant</name>
-<hex>#894585</hex>
 </color>
 <color>
 <name>Light Eggshell Pink</name>
@@ -36633,10 +36681,6 @@
 <hex>#e3dbd0</hex>
 </color>
 <color>
-<name>Light Maroon</name>
-<hex>#a24857</hex>
-</color>
-<color>
 <name>Light Marsh Fog</name>
 <hex>#d3e1d3</hex>
 </color>
@@ -36687,10 +36731,6 @@
 <color>
 <name>Light Mistral</name>
 <hex>#c8cdd8</hex>
-</color>
-<color>
-<name>Light Mizu</name>
-<hex>#8ecfe8</hex>
 </color>
 <color>
 <name>Light Modesty</name>
@@ -37041,14 +37081,6 @@
 <hex>#e7d8ea</hex>
 </color>
 <color>
-<name>Light Red</name>
-<hex>#ffcccb</hex>
-</color>
-<color>
-<name>Light Red Ochre</name>
-<hex>#e97551</hex>
-</color>
-<color>
 <name>Light Registra</name>
 <hex>#d0cacd</hex>
 </color>
@@ -37115,10 +37147,6 @@
 <color>
 <name>Light Sandy Day</name>
 <hex>#e1dacf</hex>
-</color>
-<color>
-<name>Light Sappanwood</name>
-<hex>#a25768</hex>
 </color>
 <color>
 <name>Light Scallywag</name>
@@ -37991,6 +38019,10 @@
 <color>
 <name>Lincoln Green</name>
 <hex>#195905</hex>
+</color>
+<color>
+<name>Lincolnshire Sausage</name>
+<hex>#e3e6da</hex>
 </color>
 <color>
 <name>Linden Green</name>
@@ -41089,6 +41121,10 @@
 <hex>#f9e1d4</hex>
 </color>
 <color>
+<name>Mettwurst</name>
+<hex>#df7163</hex>
+</color>
+<color>
 <name>Mexican Chile</name>
 <hex>#d16d76</hex>
 </color>
@@ -44125,6 +44161,10 @@
 <hex>#b2c7e1</hex>
 </color>
 <color>
+<name>Newmarket Sausage</name>
+<hex>#eae2dc</hex>
+</color>
+<color>
 <name>Newport Blue</name>
 <hex>#1c8ac9</hex>
 </color>
@@ -46333,6 +46373,10 @@
 <hex>#504139</hex>
 </color>
 <color>
+<name>Oxford Sausage</name>
+<hex>#db7192</hex>
+</color>
+<color>
 <name>Oxford Tan</name>
 <hex>#b8a99a</hex>
 </color>
@@ -46585,10 +46629,6 @@
 <hex>#bcd4e1</hex>
 </color>
 <color>
-<name>Pale Avocado</name>
-<hex>#d7d3a6</hex>
-</color>
-<color>
 <name>Pale Banana</name>
 <hex>#fae199</hex>
 </color>
@@ -46637,14 +46677,6 @@
 <hex>#d0f7e4</hex>
 </color>
 <color>
-<name>Pale Canary</name>
-<hex>#ffff88</hex>
-</color>
-<color>
-<name>Pale Carmine</name>
-<hex>#af403c</hex>
-</color>
-<color>
 <name>Pale Cast of Thought</name>
 <hex>#c1c1d1</hex>
 </color>
@@ -46669,20 +46701,8 @@
 <hex>#a3a3a2</hex>
 </color>
 <color>
-<name>Pale Clay</name>
-<hex>#dab27d</hex>
-</color>
-<color>
 <name>Pale Cloud</name>
 <hex>#dadee9</hex>
-</color>
-<color>
-<name>Pale Copper</name>
-<hex>#df8f67</hex>
-</color>
-<color>
-<name>Pale Coral</name>
-<hex>#f2d1c4</hex>
 </color>
 <color>
 <name>Pale Corn</name>
@@ -46699,10 +46719,6 @@
 <color>
 <name>Pale Daffodil</name>
 <hex>#fde89a</hex>
-</color>
-<color>
-<name>Pale Dogwood</name>
-<hex>#edcdc2</hex>
 </color>
 <color>
 <name>Pale Dry Rose</name>
@@ -46729,14 +46745,6 @@
 <hex>#8a779a</hex>
 </color>
 <color>
-<name>Pale Fallen Leaves</name>
-<hex>#aa8736</hex>
-</color>
-<color>
-<name>Pale Flesh</name>
-<hex>#f2dbd7</hex>
-</color>
-<color>
 <name>Pale Flower</name>
 <hex>#698aab</hex>
 </color>
@@ -46745,20 +46753,12 @@
 <hex>#5a79ba</hex>
 </color>
 <color>
-<name>Pale Flower Field</name>
-<hex>#507ea4</hex>
-</color>
-<color>
 <name>Pale Frost</name>
 <hex>#cfe5f0</hex>
 </color>
 <color>
 <name>Pale Gold</name>
 <hex>#fdde6c</hex>
-</color>
-<color>
-<name>Pale Goldenrod</name>
-<hex>#eee8aa</hex>
 </color>
 <color>
 <name>Pale Grape</name>
@@ -46869,10 +46869,6 @@
 <hex>#aac2a1</hex>
 </color>
 <color>
-<name>Pale Morning</name>
-<hex>#fcfcda</hex>
-</color>
-<color>
 <name>Pale Moss Green</name>
 <hex>#d0dbc4</hex>
 </color>
@@ -46883,10 +46879,6 @@
 <color>
 <name>Pale Mustard</name>
 <hex>#d5bd66</hex>
-</color>
-<color>
-<name>Pale Nectar</name>
-<hex>#fff7ed</hex>
 </color>
 <color>
 <name>Pale Oak</name>
@@ -46937,10 +46929,6 @@
 <hex>#ffe5ad</hex>
 </color>
 <color>
-<name>Pale Peach Pink</name>
-<hex>#fed1bd</hex>
-</color>
-<color>
 <name>Pale Pearl</name>
 <hex>#fff2de</hex>
 </color>
@@ -46957,20 +46945,8 @@
 <hex>#ccd5ff</hex>
 </color>
 <color>
-<name>Pale Pine</name>
-<hex>#c3c7b2</hex>
-</color>
-<color>
-<name>Pale Pink</name>
-<hex>#ffcfdc</hex>
-</color>
-<color>
 <name>Pale Plum</name>
 <hex>#dda0df</hex>
-</color>
-<color>
-<name>Pale Plum Blossom</name>
-<hex>#f0908d</hex>
 </color>
 <color>
 <name>Pale Poppy</name>
@@ -46983,14 +46959,6 @@
 <color>
 <name>Pale Purple</name>
 <hex>#b790d4</hex>
-</color>
-<color>
-<name>Pale Red</name>
-<hex>#d9544d</hex>
-</color>
-<color>
-<name>Pale Red Violet</name>
-<hex>#db7192</hex>
 </color>
 <color>
 <name>Pale Robin Egg Blue</name>
@@ -47011,10 +46979,6 @@
 <color>
 <name>Pale Sand</name>
 <hex>#e5d5ba</hex>
-</color>
-<color>
-<name>Pale Scarlet</name>
-<hex>#df7163</hex>
 </color>
 <color>
 <name>Pale Seafoam</name>
@@ -47103,10 +47067,6 @@
 <color>
 <name>Pale Wood</name>
 <hex>#ead2a2</hex>
-</color>
-<color>
-<name>Paler Pumpkin</name>
-<hex>#b58338</hex>
 </color>
 <color>
 <name>Palest of Lemon</name>
@@ -50933,6 +50893,10 @@
 <hex>#597175</hex>
 </color>
 <color>
+<name>Porchetta Crust</name>
+<hex>#aa8736</hex>
+</color>
+<color>
 <name>Porcini</name>
 <hex>#cca580</hex>
 </color>
@@ -54757,6 +54721,10 @@
 <hex>#f8a4c0</hex>
 </color>
 <color>
+<name>Rohwurst</name>
+<hex>#734a45</hex>
+</color>
+<color>
 <name>Rokō Brown</name>
 <hex>#665343</hex>
 </color>
@@ -56037,6 +56005,10 @@
 <hex>#63775b</hex>
 </color>
 <color>
+<name>Salami</name>
+<hex>#820000</hex>
+</color>
+<color>
 <name>Salami Slice</name>
 <hex>#da655e</hex>
 </color>
@@ -56669,8 +56641,16 @@
 <hex>#bca17a</hex>
 </color>
 <color>
+<name>Saucisson</name>
+<hex>#882c17</hex>
+</color>
+<color>
 <name>Saudi Sand</name>
 <hex>#9e958a</hex>
+</color>
+<color>
+<name>Sausage Roll</name>
+<hex>#ebdfcd</hex>
 </color>
 <color>
 <name>Sausalito</name>
@@ -56707,6 +56687,10 @@
 <color>
 <name>Savannah Sun</name>
 <hex>#ffb989</hex>
+</color>
+<color>
+<name>Saveloy</name>
+<hex>#aa2200</hex>
 </color>
 <color>
 <name>Savile Row</name>
@@ -59239,6 +59223,10 @@
 <color>
 <name>Ski Patrol</name>
 <hex>#bb1237</hex>
+</color>
+<color>
+<name>Skilandis</name>
+<hex>#41332f</hex>
 </color>
 <color>
 <name>Skimmed Milk White</name>
@@ -64433,6 +64421,10 @@
 <hex>#326395</hex>
 </color>
 <color>
+<name>Teewurst</name>
+<hex>#f2dbd7</hex>
+</color>
+<color>
 <name>Teldrassil Purple</name>
 <hex>#ad66d2</hex>
 </color>
@@ -65915,6 +65907,10 @@
 <color>
 <name>Trendy Pink</name>
 <hex>#805d80</hex>
+</color>
+<color>
+<name>Tri-tip</name>
+<hex>#f2d1c4</hex>
 </color>
 <color>
 <name>Triamble</name>
@@ -67831,6 +67827,10 @@
 <color>
 <name>Vienna Roast</name>
 <hex>#330022</hex>
+</color>
+<color>
+<name>Vienna Sausage</name>
+<hex>#fed1bd</hex>
 </color>
 <color>
 <name>Viennese</name>
@@ -69769,6 +69769,10 @@
 <hex>#c3bdab</hex>
 </color>
 <color>
+<name>White Pudding</name>
+<hex>#f6e8df</hex>
+</color>
+<color>
 <name>White Rabbit</name>
 <hex>#f8eee7</hex>
 </color>
@@ -71215,6 +71219,10 @@
 <color>
 <name>Yellow Jacket</name>
 <hex>#ffcc3a</hex>
+</color>
+<color>
+<name>Yellow Jasmine</name>
+<hex>#eee8aa</hex>
 </color>
 <color>
 <name>Yellow Jasper</name>
