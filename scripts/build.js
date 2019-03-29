@@ -56,12 +56,23 @@ if (isTestRun) {
   process.exit();
 }
 
-// create JS related files
+// creates JS related files
 const JSONExportString = JSON.stringify(colorsSrc.entires);
 
 fs.writeFileSync(
     path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.json`),
     JSONExportString
+);
+
+// creates a more compact JSON file, where the HEX color serves as an id
+const miniJSONExportObj = colorsSrc.entires.reduce((obj, entry) => {
+  obj[entry.hex.replace('#', '')] = entry.name;
+  return obj;
+}, {});
+
+fs.writeFileSync(
+  path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.min.json`),
+  JSON.stringify(miniJSONExportObj)
 );
 
 // gets UMD template
