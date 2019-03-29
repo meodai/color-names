@@ -43,7 +43,7 @@ npm install color-name-list --save
 or `yarn add color-name-list`
 
 ### CDN 🌍
-[JSON](https://unpkg.com/color-name-list/dist/colornames.json) / [smaller JSON](https://unpkg.com/color-name-list/dist/colornames.min.json) / [CSV](https://unpkg.com/color-name-list/dist/colornames.csv) / [YML](https://unpkg.com/color-name-list/dist/colornames.yaml) / [JS](https://unpkg.com/color-name-list/dist/colornames.umd.js) / [XML](https://unpkg.com/color-name-list/dist/colornames.xml) / [HTML](https://unpkg.com/color-name-list/dist/colornames.html) / [SCSS](https://unpkg.com/color-name-list/dist/colornames.scss) / [CSS](https://unpkg.com/color-name-list/dist/colornames.css)
+[JSON](https://unpkg.com/color-name-list/dist/colornames.json) / [JSON.min](https://unpkg.com/color-name-list/dist/colornames.min.json) / [CSV](https://unpkg.com/color-name-list/dist/colornames.csv) / [YML](https://unpkg.com/color-name-list/dist/colornames.yaml) / [JS](https://unpkg.com/color-name-list/dist/colornames.umd.js) / [XML](https://unpkg.com/color-name-list/dist/colornames.xml) / [HTML](https://unpkg.com/color-name-list/dist/colornames.html) / [SCSS](https://unpkg.com/color-name-list/dist/colornames.scss) / [CSS](https://unpkg.com/color-name-list/dist/colornames.css)
 
 ### API 🃏
 ```url
