@@ -659,6 +659,9 @@
   name:"Alien Purple"
   hex:"#490648"
 -
+  name:"Alienator Grey"
+  hex:"#9790a4"
+-
   name:"Align"
   hex:"#00728d"
 -
@@ -2459,6 +2462,9 @@
   name:"Astro Bound"
   hex:"#899fb9"
 -
+  name:"Astro Purple"
+  hex:"#6d5acf"
+-
   name:"Astro Sunset"
   hex:"#937874"
 -
@@ -3019,6 +3025,9 @@
 -
   name:"Badlands Sunset"
   hex:"#936a5b"
+-
+  name:"Badshahi Brown"
+  hex:"#d3a194"
 -
   name:"Bagpiper"
   hex:"#1c5544"
@@ -5072,6 +5081,9 @@
   name:"Blue Alps"
   hex:"#89a3ae"
 -
+  name:"Blue Android Base"
+  hex:"#5a79ba"
+-
   name:"Blue Angels Yellow"
   hex:"#f8b800"
 -
@@ -7066,6 +7078,9 @@
 -
   name:"Brown Sugar"
   hex:"#a17249"
+-
+  name:"Brown Sugar Coating"
+  hex:"#c8ae96"
 -
   name:"Brown Tumbleweed"
   hex:"#37290e"
@@ -11828,6 +11843,9 @@
   name:"Crater Brown"
   hex:"#4d3e3c"
 -
+  name:"Crater Crawler"
+  hex:"#c8ced6"
+-
   name:"Cray"
   hex:"#bc763c"
 -
@@ -13391,9 +13409,6 @@
   name:"Deep Mauve"
   hex:"#d374d5"
 -
-  name:"Deep Mint"
-  hex:"#009e6d"
--
   name:"Deep Mooring"
   hex:"#35524a"
 -
@@ -13657,6 +13672,9 @@
 -
   name:"Delightful Green"
   hex:"#00ee00"
+-
+  name:"Delightful Pastry"
+  hex:"#f9e7c8"
 -
   name:"Delightful Peach"
   hex:"#ffebd1"
@@ -18530,6 +18548,9 @@
   name:"Gainsboro"
   hex:"#dcdcdc"
 -
+  name:"Galactic Mediator"
+  hex:"#e0dfdb"
+-
   name:"Galactica"
   hex:"#c4dde2"
 -
@@ -21479,6 +21500,9 @@
   name:"Hashut Copper"
   hex:"#c9643b"
 -
+  name:"Hassan II Mosque"
+  hex:"#009e6d"
+-
   name:"Hat Box Brown"
   hex:"#8f775d"
 -
@@ -22178,9 +22202,6 @@
   name:"Hint of Bethany"
   hex:"#e1ebd8"
 -
-  name:"Hint of Bleaches"
-  hex:"#e0dfdb"
--
   name:"Hint of Blissful"
   hex:"#ecdde5"
 -
@@ -22192,9 +22213,6 @@
 -
   name:"Hint of Blue Bayou"
   hex:"#d9dde5"
--
-  name:"Hint of Blue Booties"
-  hex:"#afe0ef"
 -
   name:"Hint of Blue Charm"
   hex:"#b3dbea"
@@ -22304,9 +22322,6 @@
   name:"Hint of Dante Peak"
   hex:"#d4e7e7"
 -
-  name:"Hint of Dedication"
-  hex:"#faeede"
--
   name:"Hint of Delphin"
   hex:"#b5dcea"
 -
@@ -22405,9 +22420,6 @@
 -
   name:"Hint of Gentle Giant"
   hex:"#d5f3ec"
--
-  name:"Hint of Gentle Touch"
-  hex:"#f0e8d5"
 -
   name:"Hint of Ghost Town"
   hex:"#dfdbd8"
@@ -23915,6 +23927,9 @@
   name:"Imagine"
   hex:"#af9468"
 -
+  name:"Imam Ali Gold"
+  hex:"#fae199"
+-
   name:"Imayou Pink"
   hex:"#d0576b"
 -
@@ -24271,6 +24286,9 @@
 -
   name:"Intense Purple"
   hex:"#4d4a6f"
+-
+  name:"Inter-Galactic Blue"
+  hex:"#afe0ef"
 -
   name:"Interdimensional Blue"
   hex:"#360ccc"
@@ -24748,6 +24766,9 @@
 -
   name:"Jam Session"
   hex:"#d4cfd6"
+-
+  name:"Jama Masjid Taupe"
+  hex:"#b38b6d"
 -
   name:"Jamaican Dream"
   hex:"#04627a"
@@ -25756,6 +25777,9 @@
 -
   name:"Kuchinashi Yellow"
   hex:"#ffdb4f"
+-
+  name:"Kul Sharif Blue"
+  hex:"#87d3f8"
 -
   name:"Kumera"
   hex:"#886221"
@@ -26918,9 +26942,6 @@
   name:"Light Brown"
   hex:"#b5651d"
 -
-  name:"Light Brown Sugar"
-  hex:"#c8ae96"
--
   name:"Light Brume"
   hex:"#d6d5d2"
 -
@@ -27314,9 +27335,6 @@
   name:"Light In The Slip"
   hex:"#ead1da"
 -
-  name:"Light Indigo"
-  hex:"#6d5acf"
--
   name:"Light Instant"
   hex:"#e2d9d4"
 -
@@ -27344,9 +27362,6 @@
   name:"Light Katsura"
   hex:"#d6ead8"
 -
-  name:"Light Kinder"
-  hex:"#c8ced6"
--
   name:"Light Kiri Mist"
   hex:"#d3d2dd"
 -
@@ -27373,9 +27388,6 @@
 -
   name:"Light Lavender Water"
   hex:"#ddd6e7"
--
-  name:"Light Leather"
-  hex:"#938673"
 -
   name:"Light Ligado"
   hex:"#d9e0d0"
@@ -27604,9 +27616,6 @@
 -
   name:"Light Pastel Purple"
   hex:"#b19cd9"
--
-  name:"Light Pastry"
-  hex:"#f9e7c8"
 -
   name:"Light Pax"
   hex:"#d5d3e3"
@@ -27946,9 +27955,6 @@
 -
   name:"Light Tactile"
   hex:"#deedd4"
--
-  name:"Light Taupe"
-  hex:"#b38b6d"
 -
   name:"Light Taupe White"
   hex:"#d5d0cb"
@@ -29000,6 +29006,9 @@
   name:"Lunar Landing"
   hex:"#d2cfc1"
 -
+  name:"Lunar Launch Site"
+  hex:"#938673"
+-
   name:"Lunar Light"
   hex:"#9b959c"
 -
@@ -29566,6 +29575,9 @@
 -
   name:"Mamie Pink"
   hex:"#ee82ee"
+-
+  name:"Mammary Red"
+  hex:"#b00b1e"
 -
   name:"Mammoth Wool"
   hex:"#995522"
@@ -31733,6 +31745,9 @@
   name:"Mooloolaba"
   hex:"#c7b8a9"
 -
+  name:"Moon Buggy"
+  hex:"#c7bdc1"
+-
   name:"Moon Dust"
   hex:"#e0e6f0"
 -
@@ -32842,6 +32857,9 @@
 -
   name:"Nebula Fuchsia"
   hex:"#7722aa"
+-
+  name:"Nebula Outpost"
+  hex:"#922b9c"
 -
   name:"Nebulas Blue"
   hex:"#2d62a3"
@@ -34919,9 +34937,6 @@
   name:"Pale Aqua"
   hex:"#bcd4e1"
 -
-  name:"Pale Banana"
-  hex:"#fae199"
--
   name:"Pale Beach"
   hex:"#d6c5a9"
 -
@@ -34982,17 +34997,8 @@
   name:"Pale Cornflower Blue"
   hex:"#abcdee"
 -
-  name:"Pale Cyan"
-  hex:"#87d3f8"
--
   name:"Pale Daffodil"
   hex:"#fde89a"
--
-  name:"Pale Dry Rose"
-  hex:"#d3a194"
--
-  name:"Pale Dull"
-  hex:"#adadad"
 -
   name:"Pale Earth"
   hex:"#b1a99f"
@@ -35009,9 +35015,6 @@
   name:"Pale Flower"
   hex:"#698aab"
 -
-  name:"Pale Flower Cherry Blossom"
-  hex:"#5a79ba"
--
   name:"Pale Gold"
   hex:"#fdde6c"
 -
@@ -35027,9 +35030,6 @@
   name:"Pale Grey Blue"
   hex:"#d4e2eb"
 -
-  name:"Pale Grey Shade Wash"
-  hex:"#922b9c"
--
   name:"Pale Icelandish"
   hex:"#bdd4d1"
 -
@@ -35044,9 +35044,6 @@
 -
   name:"Pale Khaki"
   hex:"#bfaf92"
--
-  name:"Pale Lady"
-  hex:"#c7bdc1"
 -
   name:"Pale Lavender"
   hex:"#dcd0ff"
@@ -35086,9 +35083,6 @@
 -
   name:"Pale Moss Green"
   hex:"#d0dbc4"
--
-  name:"Pale Mouse"
-  hex:"#9790a4"
 -
   name:"Pale Olive"
   hex:"#b9cc81"
@@ -35503,6 +35497,9 @@
 -
   name:"Partial Pink"
   hex:"#ffedf8"
+-
+  name:"Particle Ioniser Red"
+  hex:"#cb3215"
 -
   name:"Particular Mint"
   hex:"#d0d2c5"
@@ -40877,6 +40874,9 @@
   name:"Robinhood"
   hex:"#6e6a3b"
 -
+  name:"Robo Master"
+  hex:"#adadad"
+-
   name:"Robot Grendizer Gold"
   hex:"#eeee11"
 -
@@ -43568,6 +43568,9 @@
   name:"Sheffield Grey"
   hex:"#6b7680"
 -
+  name:"Sheikh Zayed White"
+  hex:"#e6efef"
+-
   name:"Shell"
   hex:"#e1cfc6"
 -
@@ -46133,6 +46136,9 @@
   name:"Starfleet Blue"
   hex:"#0096ff"
 -
+  name:"Starfox"
+  hex:"#f0e8d5"
+-
   name:"Stargate"
   hex:"#b7c4d3"
 -
@@ -46144,6 +46150,9 @@
 -
   name:"Stargazing"
   hex:"#414549"
+-
+  name:"Starglider"
+  hex:"#faeede"
 -
   name:"Stark White"
   hex:"#d2c6b6"
