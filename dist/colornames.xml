@@ -2441,6 +2441,10 @@
 <hex>#f7f0db</hex>
 </color>
 <color>
+<name>April Fool's Red</name>
+<hex>#1fb57a</hex>
+</color>
+<color>
 <name>April Showers</name>
 <hex>#dadeb5</hex>
 </color>
@@ -4707,6 +4711,10 @@
 <color>
 <name>Basil</name>
 <hex>#879f84</hex>
+</color>
+<color>
+<name>Basil Iceing</name>
+<hex>#e2e6db</hex>
 </color>
 <color>
 <name>Basil Pesto</name>
@@ -17381,10 +17389,6 @@
 <hex>#11875d</hex>
 </color>
 <color>
-<name>Dark Seafoam</name>
-<hex>#1fb57a</hex>
-</color>
-<color>
 <name>Dark Seagreen</name>
 <hex>#666655</hex>
 </color>
@@ -24457,6 +24461,10 @@
 <hex>#a5c5d9</hex>
 </color>
 <color>
+<name>Frozen Civilization</name>
+<hex>#e1f5e5</hex>
+</color>
+<color>
 <name>Frozen Custard</name>
 <hex>#fbeabd</hex>
 </color>
@@ -24483,6 +24491,10 @@
 <color>
 <name>Frozen Lake</name>
 <hex>#7b9cb3</hex>
+</color>
+<color>
+<name>Frozen Mammoth</name>
+<hex>#dfd9da</hex>
 </color>
 <color>
 <name>Frozen Mint</name>
@@ -27249,6 +27261,10 @@
 <hex>#d0d6bf</hex>
 </color>
 <color>
+<name>Green Frosting</name>
+<hex>#d8f1eb</hex>
+</color>
+<color>
 <name>Green Gables</name>
 <hex>#324241</hex>
 </color>
@@ -27407,6 +27423,10 @@
 <color>
 <name>Green Lizard</name>
 <hex>#a7f432</hex>
+</color>
+<color>
+<name>Green McQuarrie</name>
+<hex>#555d50</hex>
 </color>
 <color>
 <name>Green Me</name>
@@ -30021,14 +30041,6 @@
 <hex>#f1e4e1</hex>
 </color>
 <color>
-<name>Hint of Ice Cap Green</name>
-<hex>#d8f1eb</hex>
-</color>
-<color>
-<name>Hint of Iced Aniseed</name>
-<hex>#e2e6db</hex>
-</color>
-<color>
 <name>Hint of Iced Lavender</name>
 <hex>#dce0ea</hex>
 </color>
@@ -30249,10 +30261,6 @@
 <hex>#d9e7e3</hex>
 </color>
 <color>
-<name>Hint of Pale Lady</name>
-<hex>#dfd9da</hex>
-</color>
-<color>
 <name>Hint of Pale Lilac</name>
 <hex>#dadfea</hex>
 </color>
@@ -30287,10 +30295,6 @@
 <color>
 <name>Hint of Pensive</name>
 <hex>#dddce1</hex>
-</color>
-<color>
-<name>Hint of Pickford</name>
-<hex>#e1f5e5</hex>
 </color>
 <color>
 <name>Hint of Pink Linen</name>
@@ -30571,10 +30575,6 @@
 <color>
 <name>Hint of Tender Touch</name>
 <hex>#e9dfe8</hex>
-</color>
-<color>
-<name>Hint of Tenzing</name>
-<hex>#c6e4e9</hex>
 </color>
 <color>
 <name>Hint of Thought</name>
@@ -31563,6 +31563,10 @@
 <color>
 <name>Ice</name>
 <hex>#d6fffa</hex>
+</color>
+<color>
+<name>Ice Age</name>
+<hex>#c6e4e9</hex>
 </color>
 <color>
 <name>Ice Blue</name>
@@ -33267,6 +33271,10 @@
 <color>
 <name>Jokaero Orange</name>
 <hex>#ea5505</hex>
+</color>
+<color>
+<name>Joker's Smile</name>
+<hex>#d70141</hex>
 </color>
 <color>
 <name>Jolly Green</name>
@@ -36051,10 +36059,6 @@
 <color>
 <name>Light Easter Rabbit</name>
 <hex>#d4ced1</hex>
-</color>
-<color>
-<name>Light Ebony</name>
-<hex>#555d50</hex>
 </color>
 <color>
 <name>Light Ecru</name>
@@ -71847,6 +71851,10 @@
 <color>
 <name>Ziggurat</name>
 <hex>#81a6aa</hex>
+</color>
+<color>
+<name>Zima Blue</name>
+<hex>#16b8f3</hex>
 </color>
 <color>
 <name>Zimidar</name>

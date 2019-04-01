@@ -1829,6 +1829,9 @@
   name:"Apricot White"
   hex:"#f7f0db"
 -
+  name:"April Fool's Red"
+  hex:"#1fb57a"
+-
   name:"April Showers"
   hex:"#dadeb5"
 -
@@ -3529,6 +3532,9 @@
 -
   name:"Basil"
   hex:"#879f84"
+-
+  name:"Basil Iceing"
+  hex:"#e2e6db"
 -
   name:"Basil Pesto"
   hex:"#529d6e"
@@ -13034,9 +13040,6 @@
   name:"Dark Sea Green"
   hex:"#11875d"
 -
-  name:"Dark Seafoam"
-  hex:"#1fb57a"
--
   name:"Dark Seagreen"
   hex:"#666655"
 -
@@ -18341,6 +18344,9 @@
   name:"Frozen Blue"
   hex:"#a5c5d9"
 -
+  name:"Frozen Civilization"
+  hex:"#e1f5e5"
+-
   name:"Frozen Custard"
   hex:"#fbeabd"
 -
@@ -18361,6 +18367,9 @@
 -
   name:"Frozen Lake"
   hex:"#7b9cb3"
+-
+  name:"Frozen Mammoth"
+  hex:"#dfd9da"
 -
   name:"Frozen Mint"
   hex:"#d8e8e6"
@@ -20435,6 +20444,9 @@
   name:"Green Frost"
   hex:"#d0d6bf"
 -
+  name:"Green Frosting"
+  hex:"#d8f1eb"
+-
   name:"Green Gables"
   hex:"#324241"
 -
@@ -20554,6 +20566,9 @@
 -
   name:"Green Lizard"
   hex:"#a7f432"
+-
+  name:"Green McQuarrie"
+  hex:"#555d50"
 -
   name:"Green Me"
   hex:"#b2b55f"
@@ -22514,12 +22529,6 @@
   name:"Hint of Hugo"
   hex:"#f1e4e1"
 -
-  name:"Hint of Ice Cap Green"
-  hex:"#d8f1eb"
--
-  name:"Hint of Iced Aniseed"
-  hex:"#e2e6db"
--
   name:"Hint of Iced Lavender"
   hex:"#dce0ea"
 -
@@ -22685,9 +22694,6 @@
   name:"Hint of Pale Icelandish"
   hex:"#d9e7e3"
 -
-  name:"Hint of Pale Lady"
-  hex:"#dfd9da"
--
   name:"Hint of Pale Lilac"
   hex:"#dadfea"
 -
@@ -22714,9 +22720,6 @@
 -
   name:"Hint of Pensive"
   hex:"#dddce1"
--
-  name:"Hint of Pickford"
-  hex:"#e1f5e5"
 -
   name:"Hint of Pink Linen"
   hex:"#e5d9dc"
@@ -22927,9 +22930,6 @@
 -
   name:"Hint of Tender Touch"
   hex:"#e9dfe8"
--
-  name:"Hint of Tenzing"
-  hex:"#c6e4e9"
 -
   name:"Hint of Thought"
   hex:"#ebe2de"
@@ -23671,6 +23671,9 @@
 -
   name:"Ice"
   hex:"#d6fffa"
+-
+  name:"Ice Age"
+  hex:"#c6e4e9"
 -
   name:"Ice Blue"
   hex:"#739bd0"
@@ -24949,6 +24952,9 @@
 -
   name:"Jokaero Orange"
   hex:"#ea5505"
+-
+  name:"Joker's Smile"
+  hex:"#d70141"
 -
   name:"Jolly Green"
   hex:"#5e774a"
@@ -27037,9 +27043,6 @@
 -
   name:"Light Easter Rabbit"
   hex:"#d4ced1"
--
-  name:"Light Ebony"
-  hex:"#555d50"
 -
   name:"Light Ecru"
   hex:"#e5deca"
@@ -53884,6 +53887,9 @@
 -
   name:"Ziggurat"
   hex:"#81a6aa"
+-
+  name:"Zima Blue"
+  hex:"#16b8f3"
 -
   name:"Zimidar"
   hex:"#6a5287"
