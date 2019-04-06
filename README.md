@@ -9,13 +9,21 @@
 [![color count](https://img.shields.io/badge/18073-colors-orange.svg)](https://github.com/meodai/color-names/blob/master/src/colornames.csv)
 [![Buy Me a Coffee at ko-fi.com](https://img.shields.io/badge/-Buy%20us%20a%20Coffee-orange.svg?colorB=593C1F&colorA=4e798d&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAVUlEQVR4AWNQtnJTQcZ%2Blb2fsWF0dQzYNRHWzIBdE2EDGGCaSNYI47x69fY%2FMRimnmiNyGqwavyflo6MaawRTTP1%2FIiM4dFBQBPl8UggyRHWSHYiBwCwA90T1NTlAQAAAABJRU5ErkJggg%3D%3D%0D%0A&logoWidth=14)](https://ko-fi.com/A530429S)
 
-A handpicked list of __18073__ unique color names from [various sources](#sources-) and thousands of user submissions. [Try it yourself](http://codepen.io/meodai/full/mEvZRx/) or read [the full list](https://codepen.io/meodai/full/VMpNdQ/).
+A handpicked list of __18073__ unique color names from [various sources](#sources-) and thousands of user submissions.
 
 > The names of color function like a thread attached to a frightfully slender needle, capable of stitching together our most delicate emotions and memories. When the needle hits the target, we feel either pleasure or empathy. **Kenya Hara – White**
 
 ## About 📋
 
 The aim of this project is to create as large a list of color names as possible. We've merged various [lists](#sources-), modified the names when there were duplicates with different hex values, and shifted the colors a bit when there were identical colors with different names.
+
+## Explore 🌍
+
+- [Color Picker]: Click the colored surface to change the color or type in a hex value below the name.
+- [Color Picker II]: Move your mouse and scroll to choose a color.
+- [Name Search]: full text search on the color list.
+- [Color Distribution] 3D view of all color names in different color spaces.
+- [Twitter Bot]: Posts random colors and lets you submit new ones.
 
 ## Color Name Submission 💌
 
@@ -32,8 +40,6 @@ Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute!
 ![3d representation of color distribution in RGB Space (Preview image of link above)](https://raw.githubusercontent.com/meodai/color-names/gh-pages/color-spaces.gif)
 
 When coming up with new color names, it is vital to know what spots in a certain color-space are crowded and where there is still room for new colors. For example: Our API returns the closest `RGB` color to a given `HEX` value. To avoid too many colors snapping to the same name, we aim to distribute the colors evenly in the color space: [Visualization](https://codepen.io/meodai/full/zdgXJj/)
-
-PS: You can choose between different color spaces on the bottom right.
 
 ## Usage 📖
 ### Installation Node.js 📦
@@ -190,6 +196,15 @@ As some of the color names come from other lists, some bad ones might slip in. [
 <!-----------------------------------------------------------------------------
                                REFERENCE LINKS
 ------------------------------------------------------------------------------>
+
+
+<!-- explore -->
+
+[Color Picker]: http://codepen.io/meodai/full/mEvZRx/
+[Color Picker II]: https://codepen.io/meodai/full/xWNNwN
+[Name Search]: https://codepen.io/meodai/full/VMpNdQ/
+[Color Distribution]: https://codepen.io/meodai/full/zdgXJj/
+[Twitter Bot]: https://twitter.com/color_parrot
 
 <!-- 3r party libraries & tools -->
 
