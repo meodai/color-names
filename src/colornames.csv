@@ -1,6 +1,6 @@
 name,hex
 18th Century Green,#a59344
-1975 Earth Red,#7a463a
+1975 Earth Red,#7b463b
 20000 Leagues Under the Sea,#191970
 400XT Film,#d2d2c0
 5-Masted Preußen,#9bafad
@@ -294,6 +294,7 @@ Alphabet Blue,#abcdef
 Alpine,#ad8a3b
 Alpine Alabaster,#badbe6
 Alpine Blue,#dbe4e5
+Alpine Goat,#f1f2f8
 Alpine Green,#005f56
 Alpine Haze,#abbec0
 Alpine Landing,#117b87
@@ -467,7 +468,7 @@ Angélique Grey,#d8dee7
 Anger,#dd0055
 Angora,#dfd1bb
 Angora Blue,#b9c6d8
-Angora goat,#ede7de
+Angora Goat,#ede7de
 Angora Pink,#ebdfea
 Angraecum Orchid,#f4f6ec
 Angry Flamingo,#f04e45
@@ -3014,6 +3015,7 @@ Castlevania Heart,#a80020
 Castor Grey,#646762
 Castro,#44232f
 Casual Elegance,#dfd5c8
+Cat Person,#636d70
 Cat's Purr,#0071a0
 Catachan Green,#475742
 Catalan,#429395
@@ -3412,11 +3414,13 @@ Chocolate Fondue,#9a3001
 Chocolate Kiss,#3c1421
 Chocolate Lab,#5c3e35
 Chocolate Lust,#993322
+Chocolate Magma,#7a463a
 Chocolate Melange,#331100
 Chocolate Milk,#976f4c
 Chocolate Moment,#998069
 Chocolate Pancakes,#884400
 Chocolate Plum,#3c2d2e
+Chocolate Praline,#66424d
 Chocolate Pretzel,#60504b
 Chocolate Pudding,#6f6665
 Chocolate Red,#4d3635
@@ -3733,7 +3737,7 @@ Coin Purse,#e0d5e3
 Coincidence,#c7de88
 Cola,#3c2f23
 Cola Bubble,#3c3024
-Cold Brew Coffee,#726751
+Cold Brew Coffee,#785736
 Cold Current,#234272
 Cold Grey,#9f9f9f
 Cold Heights,#22ddee
@@ -3916,6 +3920,7 @@ Coral Silk,#f2a37d
 Coral Tree,#ab6e67
 Corally,#fea89f
 Corbeau,#111122
+Cordon Bleu Crust,#ebe0c8
 Cordovan,#893f45
 Corduroy,#404d49
 Corfu Shallows,#008e8d
@@ -3935,6 +3940,7 @@ Corn Field,#f8f3c4
 Corn Harvest,#8d702a
 Corn Husk,#f2d6ae
 Corn Kernel,#ffcba4
+Corn Poppy Cherry,#ee4411
 Corn Snake,#ab6134
 Cornell Red,#b31b11
 Cornerstone,#e3d7bb
@@ -4347,7 +4353,6 @@ Dark,#1b2431
 Dark & Stormy,#353f51
 Dark Blue,#305679
 Dark Brazilian Topaz,#92462f
-Dark Camouflage Green,#4f4d32
 Dark Citron,#aabb00
 Dark Crypt,#3f4551
 Dark Cyan,#008b8b
@@ -4523,7 +4528,6 @@ Deep Diving,#5e97a9
 Deep Exquisite,#614454
 Deep Fir,#193925
 Deep Forest,#37413a
-Deep Garnet,#773644
 Deep Green,#02590f
 Deep Hydrangea,#83696e
 Deep into the Jungle,#004b49
@@ -4577,10 +4581,9 @@ Deep Serenity,#7f6968
 Deep Sky Blue,#0d75f8
 Deep South,#b4989f
 Deep Space Sparkle,#4a646c
-Deep Tan,#785736
+Deep Tan,#726751
 Deep Taupe,#7b6660
 Deep Teal,#00555a
-Deep Tuscan Red,#66424d
 Deep Ultramarine,#384883
 Deep Velvet,#313248
 Deep Violet,#330066
@@ -5442,6 +5445,7 @@ Equinox,#62696b
 Erebus Blue,#060030
 Ermine,#836b4f
 Erythrosine,#fc7ab0
+Escalope,#cc8866
 Escape from Columbia,#d2e2ef
 Escargot,#fff1d8
 Eshin Grey,#4a4f52
@@ -5803,6 +5807,7 @@ Firelight,#f9d97b
 Fireplace Kitten,#c5c9c7
 Fireweed,#b38491
 Fireworks,#44363d
+First Colors of Spring,#dbe64c
 First Crush,#f6e2ea
 First Date,#f5b1a2
 First Frost,#cfe5f0
@@ -6112,6 +6117,7 @@ French Raspberry,#c72c48
 French Roast,#58423f
 French Rose,#f64a8a
 French Sky Blue,#77b5fe
+French Toast,#dd8822
 French Vanilla,#efe1a7
 French Violet,#8806ce
 French White,#f1e7db
@@ -6652,6 +6658,7 @@ Golden Granola,#b8996b
 Golden Grass,#daa631
 Golden Green,#bdb369
 Golden Griffon,#a99058
+Golden Guernsey,#e1c3bb
 Golden Gun,#dddd00
 Golden Hamster,#da9e38
 Golden Handshake,#ffcc44
@@ -8287,6 +8294,7 @@ Jungle Cloak,#686959
 Jungle Cover,#565042
 Jungle Green,#048243
 Jungle Juice,#a4c161
+Jungle King,#4f4d32
 Jungle Mist,#b0c4c4
 Jungle Moss,#bdc3ac
 Jungle Noises,#36716f
@@ -8481,6 +8489,7 @@ Kobra Khan,#00aa22
 Kodama White,#e8f5fc
 Koeksister,#e97551
 Kofta Brown,#883322
+Köfte Brown ,#773644
 Kogane Gold,#e5b321
 Kohaku Amber,#ca6924
 Koi,#d15837
@@ -8880,16 +8889,13 @@ Light Blue To You,#caced2
 Light Blue Veil,#c0d8eb
 Light Bluish Green,#76fda8
 Light Bluish Water,#a4dbe4
-Light Blunt,#c6ccd4
 Light Blush,#e9c4cc
 Light Bobby Blue,#add2e3
-Light Breakaway,#dae3d0
 Light Breeze,#cfe0f2
 Light Breezy,#c0d5ef
 Light Bright Spark,#94d0e9
 Light Brown,#b5651d
 Light Brume,#d6d5d2
-Light Budding Bloom,#e6efcc
 Light Budgie Blue,#9ed6e8
 Light Bunny Soft,#deced1
 Light Bypass,#c6d2de
@@ -8950,13 +8956,11 @@ Light French Vanilla,#fbe8ce
 Light Fresh Lime,#e2f4d7
 Light Freshman,#ecf4d2
 Light Frost,#ede8d7
-Light Frosted Sugar,#dfcbcf
 Light Frosty Dawn,#d7efd5
 Light Frozen Frappe,#e6d2dc
 Light Garlic Suede,#d9ddcb
 Light Gentle Calm,#d2d9cd
 Light Gentle Giant,#c6f0e7
-Light Gentle Touch,#ebe0c8
 Light Ghost Town,#d4cfcc
 Light Ghosting,#d7d3ca
 Light Ghostly Green,#e2e1c8
@@ -9009,7 +9013,6 @@ Light Light Lichen,#d3e7dc
 Light Light Rice,#e6ddcd
 Light Lilac,#dcc6d2
 Light Lilac Crystal,#d7d2e2
-Light Lily,#e1c3bb
 Light Lily Legs,#f2d4df
 Light Lilylock,#e8e9cf
 Light Lime,#aefd6c
@@ -9201,7 +9204,6 @@ Light Weathered Hide,#e0d4d0
 Light Whimsy,#99d0e7
 Light White Box,#cedcd6
 Light White Duck,#dcd8cb
-Light White Flag,#d6d0cf
 Light Worker,#f2e3b5
 Light Yellow,#fffe7a
 Light Yellow Green,#ccfd7f
@@ -9273,8 +9275,10 @@ Limbert Leather,#988870
 Lime,#aaff32
 Lime Acid,#afff01
 Lime Blossom,#f4f2d3
+Lime Cake,#dae3d0
 Lime Candy Pearl,#aaff00
 Lime Chalk,#e5ddc8
+Lime Coco Cake,#e6efcc
 Lime Cream,#d7e8bc
 Lime Daiquiri,#dde6d7
 Lime Dream,#c2ecbc
@@ -10011,6 +10015,8 @@ Medusa Green,#998800
 Mee-hua Sunset,#ee7700
 Meek Moss Green,#869f98
 Meerkat,#a46f44
+Mega Metal Mecha,#dfcbcf
+Mega Metal Phoenix,#c6ccd4
 Megadrive Screen,#4a40ad
 Megaman,#3cbcfc
 Megaman Helmet,#0058f8
@@ -11559,7 +11565,6 @@ Palatinate Purple,#682860
 Pale,#fff9d0
 Pale Ale,#fef068
 Pale Aqua,#bcd4e1
-Pale Beach,#d6c5a9
 Pale Berries,#e2ccc7
 Pale Beryl,#98ded9
 Pale Blackish Purple,#4a475c
@@ -11579,8 +11584,6 @@ Pale Corn,#f7d497
 Pale Cornflower Blue,#abcdee
 Pale Daffodil,#fde89a
 Pale Dogwood,#ecccc1
-Pale Earth,#b1a99f
-Pale Ecru,#f2ebe1
 Pale Egg,#fde8d0
 Pale Eggplant,#8a779a
 Pale Flower,#698aab
@@ -11631,8 +11634,6 @@ Pale Sage,#acbda1
 Pale Sand,#e5d5ba
 Pale Seafoam,#c3e7e8
 Pale Shale,#cacfdc
-Pale Silver,#c9c0bb
-Pale Sky,#636d70
 Pale Sky Blue,#bdf6fe
 Pale Spring Bud,#ecebbd
 Pale Spring Morning,#b3be98
@@ -11690,6 +11691,10 @@ Papaya Punch,#fca289
 Papaya Whip,#ffd1af
 Paper Brown,#d7ac7f
 Paper Daisy,#f0e5c7
+Paper Dog,#d6c5a9
+Paper Elephant,#c5d0e6
+Paper Goat,#b1a99f
+Paper Lamb,#f2ebe1
 Paper Sack,#b4a07a
 Paper Tiger,#fdf1af
 Paperboy's Lawn,#249148
@@ -12020,7 +12025,6 @@ Périgord Truffle,#524a46
 Periscope,#52677b
 Periwinkle,#8e82fe
 Periwinkle Blue,#8f99fb
-Periwinkle Dust,#c5d0e6
 Periwinkle Grey,#c3cde6
 Periwinkle Powder,#c5cbe1
 Periwinkle Tint,#d3ddd6
@@ -12678,6 +12682,7 @@ Posy Green,#325b51
 Posy Petal,#f3879c
 Pot Black,#161616
 Potash,#e07757
+Potato Chip,#fddc57
 Potent Purple,#462639
 Potpourri,#f1e0db
 Potted Plant,#9ecca7
@@ -13017,6 +13022,7 @@ Putty,#cdae70
 Putty Pearl,#a99891
 Puturple,#ada2ce
 Puyo Blob Green,#55ff55
+Pygmy Goat,#d6d0cf
 Pylon,#9fbadf
 Pyramid,#9f7d4f
 Pyrite Gold,#ac9362
@@ -17556,6 +17562,7 @@ Wholemeal Cookie,#aaa662
 Wicked Green,#9bca47
 Wicker Basket,#847567
 Wiener Dog,#874e3c
+Wiener Schnitzel,#ee9900
 Wiggle,#c9c844
 Wild Aster,#92316f
 Wild Axolotl,#63775a
@@ -17841,6 +17848,7 @@ Workout Routine,#ffd789
 World Peace,#005477
 Worn Denim,#4282c6
 Worn Olive,#6f6c0a
+Worn Silver,#c9c0bb
 Worn Wooden,#634333
 Woven Basket,#8e7b58
 Woven Gold,#dcb639
