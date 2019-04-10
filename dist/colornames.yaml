@@ -1364,6 +1364,9 @@
   name:"Angel Kiss"
   hex:"#cec7dc"
 -
+  name:"Angel of Death Victorious"
+  hex:"#c6f0e7"
+-
   name:"Angel Shark"
   hex:"#e19640"
 -
@@ -2095,6 +2098,9 @@
 -
   name:"Arathi Highlands"
   hex:"#93a344"
+-
+  name:"Araucana Egg"
+  hex:"#add8e1"
 -
   name:"Arava"
   hex:"#a18d71"
@@ -3156,7 +3162,7 @@
   hex:"#c4c5ad"
 -
   name:"Bái Sè White"
-  hex:"#f1f3f2"
+  hex:"#ecefef"
 -
   name:"Baikō Brown"
   hex:"#887938"
@@ -3628,6 +3634,9 @@
 -
   name:"Basilisk"
   hex:"#9ab38d"
+-
+  name:"Basilisk Lizard"
+  hex:"#bcecac"
 -
   name:"Basketball"
   hex:"#ee6730"
@@ -4652,6 +4661,9 @@
   name:"Black Dahlia"
   hex:"#4e434d"
 -
+  name:"Black Diamond Apple"
+  hex:"#8a779a"
+-
   name:"Black Dragon's Cauldron"
   hex:"#545562"
 -
@@ -5075,6 +5087,9 @@
   name:"Blissful Berry"
   hex:"#aa1188"
 -
+  name:"Blissful Light"
+  hex:"#e5d2dd"
+-
   name:"Blissful Meditation"
   hex:"#d5daee"
 -
@@ -5347,6 +5362,9 @@
 -
   name:"Blue Calypso"
   hex:"#55a7b6"
+-
+  name:"Blue Carpenter Bee"
+  hex:"#9cd0e4"
 -
   name:"Blue Catch"
   hex:"#41788a"
@@ -7384,6 +7402,9 @@
 -
   name:"Bryopsida Green"
   hex:"#9fe010"
+-
+  name:"Bubble Algae"
+  hex:"#90e4c1"
 -
   name:"Bubble Bobble Green"
   hex:"#00b800"
@@ -9722,6 +9743,9 @@
   name:"Cheesy Grin"
   hex:"#fae195"
 -
+  name:"Chefchaouen Blue"
+  hex:"#a3d1e8"
+-
   name:"Chelsea Cucumber"
   hex:"#88a95b"
 -
@@ -11287,6 +11311,9 @@
 -
   name:"Color Me Green"
   hex:"#7cb77b"
+-
+  name:"Colorada Bronze"
+  hex:"#ee7766"
 -
   name:"Colorado Dawn"
   hex:"#e09cab"
@@ -12943,6 +12970,9 @@
 -
   name:"Dallas Dust"
   hex:"#ece0d6"
+-
+  name:"Dallol Yellow"
+  hex:"#fddc00"
 -
   name:"Dalmatian Sage"
   hex:"#97a3da"
@@ -18359,6 +18389,9 @@
   name:"French Vanilla"
   hex:"#efe1a7"
 -
+  name:"French Vanilla Sorbet"
+  hex:"#fbe8ce"
+-
   name:"French Violet"
   hex:"#8806ce"
 -
@@ -19768,6 +19801,9 @@
 -
   name:"Gochujang Red"
   hex:"#770000"
+-
+  name:"God’s Own Junkyard Pink"
+  hex:"#f56991"
 -
   name:"Goddess"
   hex:"#d0e1e8"
@@ -21971,6 +22007,9 @@
   name:"Hat Box Brown"
   hex:"#8f775d"
 -
+  name:"Hatching Chameleon "
+  hex:"#cfebde"
+-
   name:"Hatoba Pigeon"
   hex:"#95859c"
 -
@@ -21988,6 +22027,9 @@
 -
   name:"Havana"
   hex:"#3b2b2c"
+-
+  name:"Havana Blue"
+  hex:"#a5dbe5"
 -
   name:"Havana Cigar"
   hex:"#af884a"
@@ -22727,6 +22769,9 @@
   name:"Hitching Post"
   hex:"#c48d69"
 -
+  name:"Hitsujiyama Pink"
+  hex:"#ee66ff"
+-
   name:"Hive"
   hex:"#ffff77"
 -
@@ -23203,6 +23248,9 @@
 -
   name:"Hothouse Orchid"
   hex:"#755468"
+-
+  name:"Hotot Bunny"
+  hex:"#f1f3f2"
 -
   name:"Hottest Of Pinks"
   hex:"#ff80ff"
@@ -24770,6 +24818,9 @@
   name:"Jitterbug Lure"
   hex:"#8db0ad"
 -
+  name:"Jodhpur Blue"
+  hex:"#9bd7e9"
+-
   name:"Jodhpurs"
   hex:"#ebdcb6"
 -
@@ -24949,6 +25000,9 @@
 -
   name:"Jute"
   hex:"#ad9773"
+-
+  name:"Juzcar Blue"
+  hex:"#a1d5f1"
 -
   name:"Kā Fēi Sè Brown"
   hex:"#736354"
@@ -25775,6 +25829,9 @@
   name:"Lake Reflection"
   hex:"#9dd8db"
 -
+  name:"Lake Retba Pink"
+  hex:"#ee55ee"
+-
   name:"Lake Thun"
   hex:"#44bbdd"
 -
@@ -26588,9 +26645,6 @@
   name:"Light Angora Blue"
   hex:"#c9d4e1"
 -
-  name:"Light Aqua Clear"
-  hex:"#a5dbe5"
--
   name:"Light Aroma"
   hex:"#decfd2"
 -
@@ -26606,14 +26660,8 @@
   name:"Light Beige"
   hex:"#f5efe8"
 -
-  name:"Light Beru"
-  hex:"#cfebde"
--
   name:"Light Bleaches"
   hex:"#d5d4d0"
--
-  name:"Light Blissful"
-  hex:"#e5d2dd"
 -
   name:"Light Blossom Time"
   hex:"#ecddd6"
@@ -26623,9 +26671,6 @@
 -
   name:"Light Blue Bayou"
   hex:"#cdd2de"
--
-  name:"Light Blue Charm"
-  hex:"#9cd0e4"
 -
   name:"Light Blue Cloud"
   hex:"#d2d3e1"
@@ -26639,12 +26684,6 @@
   name:"Light Blue Ice"
   hex:"#b7d2e3"
 -
-  name:"Light Blue Lavender"
-  hex:"#dfc5fe"
--
-  name:"Light Blue Limewash"
-  hex:"#9bd7e9"
--
   name:"Light Blue Mist"
   hex:"#bed7f0"
 -
@@ -26654,17 +26693,11 @@
   name:"Light Blue Sloth"
   hex:"#c6dde4"
 -
-  name:"Light Blue Stream"
-  hex:"#add8e1"
--
   name:"Light Blue To You"
   hex:"#caced2"
 -
   name:"Light Blue Veil"
   hex:"#c0d8eb"
--
-  name:"Light Bluish Green"
-  hex:"#76fda8"
 -
   name:"Light Bluish Water"
   hex:"#a4dbe4"
@@ -26735,9 +26768,6 @@
   name:"Light Cipollino"
   hex:"#d5dad1"
 -
-  name:"Light Club Cruise"
-  hex:"#a3d1e8"
--
   name:"Light Compass Ghost Grey"
   hex:"#9698a3"
 -
@@ -26749,9 +26779,6 @@
 -
   name:"Light Cornflower Blue"
   hex:"#93ccea"
--
-  name:"Light Crimson"
-  hex:"#f56991"
 -
   name:"Light Crushed Almond"
   hex:"#ddd7d1"
@@ -26849,17 +26876,11 @@
   name:"Light First Love"
   hex:"#fce6db"
 -
-  name:"Light Fish Pond"
-  hex:"#a1d5f1"
--
   name:"Light Foundation"
   hex:"#f8eed3"
 -
   name:"Light French Limestone"
   hex:"#d5e0d0"
--
-  name:"Light French Vanilla"
-  hex:"#fbe8ce"
 -
   name:"Light Fresh Lime"
   hex:"#e2f4d7"
@@ -26881,9 +26902,6 @@
 -
   name:"Light Gentle Calm"
   hex:"#d2d9cd"
--
-  name:"Light Gentle Giant"
-  hex:"#c6f0e7"
 -
   name:"Light Ghost Town"
   hex:"#d4cfcc"
@@ -27359,9 +27377,6 @@
   name:"Light Rose Romantic"
   hex:"#f3dcd8"
 -
-  name:"Light Sage"
-  hex:"#bcecac"
--
   name:"Light Salmon"
   hex:"#fea993"
 -
@@ -27526,9 +27541,6 @@
 -
   name:"Light Tea Party"
   hex:"#fee0da"
--
-  name:"Light Teal"
-  hex:"#90e4c1"
 -
   name:"Light Template"
   hex:"#bbd6ea"
@@ -28598,6 +28610,9 @@
   name:"Lunar Rock"
   hex:"#c5c5c5"
 -
+  name:"Lunatic Sky Dancer"
+  hex:"#76fda8"
+-
   name:"Lunette"
   hex:"#d0c8c6"
 -
@@ -28954,6 +28969,9 @@
 -
   name:"Magma"
   hex:"#ff4e01"
+-
+  name:"Magna Cum Laude"
+  hex:"#dd0066"
 -
   name:"Magnesia Bay"
   hex:"#64bfdc"
@@ -30355,6 +30373,9 @@
 -
   name:"Metal Gear"
   hex:"#a2c3db"
+-
+  name:"Metal Petal"
+  hex:"#b090b2"
 -
   name:"Metal Spark"
   hex:"#eeff99"
@@ -31793,6 +31814,9 @@
   name:"Mount Hyjal "
   hex:"#3d703e"
 -
+  name:"Mount Olympus"
+  hex:"#d4ffff"
+-
   name:"Mount Sterling"
   hex:"#cad3d4"
 -
@@ -32602,6 +32626,9 @@
 -
   name:"Neon Blue"
   hex:"#04d9ff"
+-
+  name:"Neon Boneyard"
+  hex:"#dfc5fe"
 -
   name:"Neon Carrot"
   hex:"#ff9933"
@@ -34142,6 +34169,9 @@
   name:"Orange Salmonberry"
   hex:"#f0b073"
 -
+  name:"Orange Satisfaction "
+  hex:"#dd9900"
+-
   name:"Orange Shot"
   hex:"#dd7744"
 -
@@ -34756,9 +34786,6 @@
 -
   name:"Pale Egg"
   hex:"#fde8d0"
--
-  name:"Pale Eggplant"
-  hex:"#8a779a"
 -
   name:"Pale Flower"
   hex:"#698aab"
@@ -39767,9 +39794,6 @@
   name:"Real Teal"
   hex:"#405d73"
 -
-  name:"Really Light Blue"
-  hex:"#d4ffff"
--
   name:"Really Light Green"
   hex:"#e9eadb"
 -
@@ -41351,6 +41375,9 @@
   name:"Royal Decree"
   hex:"#403547"
 -
+  name:"Royal Flycatcher Crest"
+  hex:"#ee6600"
+-
   name:"Royal Fuchsia"
   hex:"#ca2c92"
 -
@@ -42280,6 +42307,9 @@
 -
   name:"Santas Grey"
   hex:"#9fa0b1"
+-
+  name:"Santiago Orange"
+  hex:"#e95f24"
 -
   name:"Santolina Blooms"
   hex:"#e3d0d5"
