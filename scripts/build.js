@@ -8,9 +8,12 @@ const args = process.argv;
 const isTestRun = !!args.find((arg) => (arg === '--testOnly'));
 const exec = require('child_process').exec;
 
-// we only want hex colors with 6 values
+// only hex colors with 6 values
 const hexColorValidation = /^#[0-9a-f]{6}$/;
 const errors = [];
+
+// spaces regex
+const spacesValidation = /^\s+|\s{2,}|\s$/;
 
 // setting
 const baseFolder = __dirname + '/../';
@@ -34,25 +37,34 @@ colorsSrc.entires.sort((a, b) => {
   return a[sortBy].localeCompare(b[sortBy]);
 });
 
-// find duplicates
 csvKeys.forEach((key) => {
+  // find duplicates
   const dupes = findDuplicates(colorsSrc.values[key]);
   dupes.forEach((dupe) => {
     log(key, dupe, `found a double ${key}`);
   });
 });
 
-// validate HEX values
+// loop hex values
 colorsSrc.values['hex'].forEach((hex) => {
+  // validate HEX values
   if ( !hexColorValidation.test(hex) ) {
     log('hex', hex, `${hex} is not a valid hex value. (Or to short, we avoid using the hex shorthands, no capital letters)`);
+  }
+});
+
+// loop names
+colorsSrc.values['name'].forEach((name) => {
+  // check for spaces
+  if (spacesValidation.test(name)) {
+    log('name', name, `${name} found either a leading or trailing space (or both)`);
   }
 });
 
 showLog();
 
 if (isTestRun) {
-  console.log('See test results above');
+  console.log('⇪ See test results above ⇪');
   process.exit();
 }
 
@@ -176,16 +188,18 @@ fs.writeFileSync(
  * outputs the collected logs
  */
 function showLog() {
-  let errorLevel = 0;
-  errors.forEach((error) => {
+  let totalErrors = 0;
+  errors.forEach((error, i) => {
+    totalErrors = i + 1;
     errorLevel = error.errorLevel || errorLevel;
     console.log(`${error.errorLevel ? '⛔' : '⚠'}  ${error.message}`);
     console.log(JSON.stringify(error.entries));
     console.log('*-------------------------*');
   });
   if (errorLevel) {
-    throw `⚠ failed because of errors above ⚠`;
+    throw `⚠ failed because of the ${totalErrors} error${totalErrors > 1 ? 's' : ''} above ⚠`;
   }
+  return totalErrors;
 }
 
 /**
