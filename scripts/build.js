@@ -188,6 +188,7 @@ fs.writeFileSync(
  * outputs the collected logs
  */
 function showLog() {
+  let errorLevel = 0;
   let totalErrors = 0;
   errors.forEach((error, i) => {
     totalErrors = i + 1;
