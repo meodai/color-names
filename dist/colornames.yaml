@@ -3755,6 +3755,9 @@
   name:"Bauhaus Tan"
   hex:"#ccc4ae"
 -
+  name:"Bavarian"
+  hex:"#4d5e42"
+-
   name:"Bavarian Blue"
   hex:"#1c3382"
 -
@@ -6716,6 +6719,9 @@
   name:"Bread Crust"
   hex:"#b78b43"
 -
+  name:"Bread Flavour"
+  hex:"#dcd6d2"
+-
   name:"Bread Pudding"
   hex:"#bfa270"
 -
@@ -9253,6 +9259,9 @@
 -
   name:"Caveman"
   hex:"#625c58"
+-
+  name:"Cavendish"
+  hex:"#fed200"
 -
   name:"Cavern Moss"
   hex:"#92987d"
@@ -13790,9 +13799,6 @@
   name:"Deep Pacific"
   hex:"#006e62"
 -
-  name:"Deep Peach"
-  hex:"#ffcba2"
--
   name:"Deep Peacock Blue"
   hex:"#008381"
 -
@@ -14608,6 +14614,9 @@
 -
   name:"Distant Cloud"
   hex:"#e5eae6"
+-
+  name:"Distant Flare"
+  hex:"#ead1da"
 -
   name:"Distant Haze"
   hex:"#dfe4da"
@@ -18614,6 +18623,9 @@
   name:"Fresh Eggplant"
   hex:"#4f467e"
 -
+  name:"Fresh Eggs"
+  hex:"#faf4ce"
+-
   name:"Fresh Frappe"
   hex:"#dbe69d"
 -
@@ -19118,9 +19130,6 @@
   name:"Fuzzy Wuzzy Brown"
   hex:"#c45655"
 -
-  name:"G. Cam.Beige"
-  hex:"#9e915c"
--
   name:"Gable Green"
   hex:"#2c4641"
 -
@@ -19478,7 +19487,7 @@
   name:"Geranium Red"
   hex:"#d76968"
 -
-  name:"German Cam. Beige WWII"
+  name:"German Camouflage Beige"
   hex:"#9b8c7b"
 -
   name:"German Grey"
@@ -22474,6 +22483,9 @@
 -
   name:"Heavy Metal"
   hex:"#46473e"
+-
+  name:"Heavy Metal Armor"
+  hex:"#888a8e"
 -
   name:"Heavy Ochre"
   hex:"#9b753d"
@@ -27038,9 +27050,6 @@
   name:"Light Dewpoint"
   hex:"#c4dadd"
 -
-  name:"Light Dreamweaver"
-  hex:"#d7d3e0"
--
   name:"Light Drizzle"
   hex:"#a7aea5"
 -
@@ -27071,9 +27080,6 @@
   name:"Light Fairy Pink"
   hex:"#f3ded7"
 -
-  name:"Light Fairy Wings"
-  hex:"#fbdcdc"
--
   name:"Light Favourite Lady"
   hex:"#ead3e0"
 -
@@ -27100,9 +27106,6 @@
 -
   name:"Light Frozen Frappe"
   hex:"#e6d2dc"
--
-  name:"Light Garlic Suede"
-  hex:"#d9ddcb"
 -
   name:"Light Gentle Calm"
   hex:"#d2d9cd"
@@ -27182,9 +27185,6 @@
   name:"Light Imagine"
   hex:"#aed4d8"
 -
-  name:"Light In The Slip"
-  hex:"#ead1da"
--
   name:"Light Instant"
   hex:"#e2d9d4"
 -
@@ -27235,9 +27235,6 @@
 -
   name:"Light Lilac Crystal"
   hex:"#d7d2e2"
--
-  name:"Light Lilylock"
-  hex:"#e8e9cf"
 -
   name:"Light Lime Sherbet"
   hex:"#d8e6ce"
@@ -27290,9 +27287,6 @@
   name:"Light Mint Green"
   hex:"#a6fbb2"
 -
-  name:"Light Missed"
-  hex:"#f2f3cf"
--
   name:"Light Modesty"
   hex:"#ded5e2"
 -
@@ -27305,17 +27299,11 @@
   name:"Light Mr Frosty"
   hex:"#b8d3e4"
 -
-  name:"Light Mud Berry"
-  hex:"#dcd6d2"
--
   name:"Light Mystified"
   hex:"#d6e4d4"
 -
   name:"Light Naked Pink"
   hex:"#e2d4e1"
--
-  name:"Light Nantucket Mist"
-  hex:"#d7cecd"
 -
   name:"Light Nursery"
   hex:"#f4dcdc"
@@ -27523,9 +27511,6 @@
 -
   name:"Light Security"
   hex:"#e0e9d0"
--
-  name:"Light Seduction"
-  hex:"#faf4ce"
 -
   name:"Light Shell Haven"
   hex:"#f1e8ce"
@@ -28621,9 +28606,6 @@
 -
   name:"Lucky Shamrock"
   hex:"#487a7b"
--
-  name:"Luftwaffe Ca. Green"
-  hex:"#4d5e42"
 -
   name:"Lugganath Orange"
   hex:"#f7a58b"
@@ -36461,6 +36443,12 @@
   name:"Phellodendron Amurense"
   hex:"#f3c13a"
 -
+  name:"Phenomenal Peach"
+  hex:"#ffcba2"
+-
+  name:"Phenomenal Pink"
+  hex:"#ee55ff"
+-
   name:"Phenomenon"
   hex:"#3e729b"
 -
@@ -41774,10 +41762,7 @@
   name:"Russian Toffee"
   hex:"#d0c4af"
 -
-  name:"Russian Unif."
-  hex:"#888a8e"
--
-  name:"Russian Uniform WW2"
+  name:"Russian Uniform"
   hex:"#5f6d36"
 -
   name:"Russian Violet"
@@ -41984,6 +41969,9 @@
   name:"Saffron"
   hex:"#f4c430"
 -
+  name:"Saffron Bread"
+  hex:"#e8e9cf"
+-
   name:"Saffron Crocus"
   hex:"#584c77"
 -
@@ -41993,7 +41981,7 @@
   name:"Saffron Robe"
   hex:"#d49f4e"
 -
-  name:"Saffron soufflé"
+  name:"Saffron Soufflé"
   hex:"#feb209"
 -
   name:"Saffron Sunset"
@@ -44921,8 +44909,14 @@
   name:"Smashed Pumpkin"
   hex:"#ff6d3a"
 -
+  name:"Smell of Garlic"
+  hex:"#d9ddcb"
+-
   name:"Smell of Lavender"
   hex:"#dce0ea"
+-
+  name:"Smells of Fresh Bread"
+  hex:"#d7cecd"
 -
   name:"Smitten"
   hex:"#c84186"
@@ -46352,20 +46346,20 @@
   name:"Squirt"
   hex:"#95bcc5"
 -
-  name:"St Tropez"
-  hex:"#325482"
--
   name:"St. Augustine"
   hex:"#d0ddcc"
 -
   name:"St. Nicholas Beard"
   hex:"#eedddd"
 -
+  name:"St. Patrick"
+  hex:"#2b8c4e"
+-
   name:"St. Patrick's Blue"
   hex:"#23297a"
 -
-  name:"St.Patrick"
-  hex:"#2b8c4e"
+  name:"St. Tropez"
+  hex:"#325482"
 -
   name:"Stability"
   hex:"#c1d0b2"
@@ -47227,6 +47221,9 @@
 -
   name:"Sulphur Spring"
   hex:"#d5d717"
+-
+  name:"Sulphur Water"
+  hex:"#f2f3cf"
 -
   name:"Sulphur Yellow"
   hex:"#ccc050"
@@ -49366,6 +49363,9 @@
 -
   name:"Tirisfal Lime"
   hex:"#75de2f"
+-
+  name:"Tirol"
+  hex:"#9e915c"
 -
   name:"Titan White"
   hex:"#ddd6e1"

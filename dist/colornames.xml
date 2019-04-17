@@ -5009,6 +5009,10 @@
 <hex>#ccc4ae</hex>
 </color>
 <color>
+<name>Bavarian</name>
+<hex>#4d5e42</hex>
+</color>
+<color>
 <name>Bavarian Blue</name>
 <hex>#1c3382</hex>
 </color>
@@ -8957,6 +8961,10 @@
 <hex>#b78b43</hex>
 </color>
 <color>
+<name>Bread Flavour</name>
+<hex>#dcd6d2</hex>
+</color>
+<color>
 <name>Bread Pudding</name>
 <hex>#bfa270</hex>
 </color>
@@ -12339,6 +12347,10 @@
 <color>
 <name>Caveman</name>
 <hex>#625c58</hex>
+</color>
+<color>
+<name>Cavendish</name>
+<hex>#fed200</hex>
 </color>
 <color>
 <name>Cavern Moss</name>
@@ -18389,10 +18401,6 @@
 <hex>#006e62</hex>
 </color>
 <color>
-<name>Deep Peach</name>
-<hex>#ffcba2</hex>
-</color>
-<color>
 <name>Deep Peacock Blue</name>
 <hex>#008381</hex>
 </color>
@@ -19479,6 +19487,10 @@
 <color>
 <name>Distant Cloud</name>
 <hex>#e5eae6</hex>
+</color>
+<color>
+<name>Distant Flare</name>
+<hex>#ead1da</hex>
 </color>
 <color>
 <name>Distant Haze</name>
@@ -24821,6 +24833,10 @@
 <hex>#4f467e</hex>
 </color>
 <color>
+<name>Fresh Eggs</name>
+<hex>#faf4ce</hex>
+</color>
+<color>
 <name>Fresh Frappe</name>
 <hex>#dbe69d</hex>
 </color>
@@ -25493,10 +25509,6 @@
 <hex>#c45655</hex>
 </color>
 <color>
-<name>G. Cam.Beige</name>
-<hex>#9e915c</hex>
-</color>
-<color>
 <name>Gable Green</name>
 <hex>#2c4641</hex>
 </color>
@@ -25973,7 +25985,7 @@
 <hex>#d76968</hex>
 </color>
 <color>
-<name>German Cam. Beige WWII</name>
+<name>German Camouflage Beige</name>
 <hex>#9b8c7b</hex>
 </color>
 <color>
@@ -29967,6 +29979,10 @@
 <color>
 <name>Heavy Metal</name>
 <hex>#46473e</hex>
+</color>
+<color>
+<name>Heavy Metal Armor</name>
+<hex>#888a8e</hex>
 </color>
 <color>
 <name>Heavy Ochre</name>
@@ -36053,10 +36069,6 @@
 <hex>#c4dadd</hex>
 </color>
 <color>
-<name>Light Dreamweaver</name>
-<hex>#d7d3e0</hex>
-</color>
-<color>
 <name>Light Drizzle</name>
 <hex>#a7aea5</hex>
 </color>
@@ -36097,10 +36109,6 @@
 <hex>#f3ded7</hex>
 </color>
 <color>
-<name>Light Fairy Wings</name>
-<hex>#fbdcdc</hex>
-</color>
-<color>
 <name>Light Favourite Lady</name>
 <hex>#ead3e0</hex>
 </color>
@@ -36135,10 +36143,6 @@
 <color>
 <name>Light Frozen Frappe</name>
 <hex>#e6d2dc</hex>
-</color>
-<color>
-<name>Light Garlic Suede</name>
-<hex>#d9ddcb</hex>
 </color>
 <color>
 <name>Light Gentle Calm</name>
@@ -36245,10 +36249,6 @@
 <hex>#aed4d8</hex>
 </color>
 <color>
-<name>Light In The Slip</name>
-<hex>#ead1da</hex>
-</color>
-<color>
 <name>Light Instant</name>
 <hex>#e2d9d4</hex>
 </color>
@@ -36315,10 +36315,6 @@
 <color>
 <name>Light Lilac Crystal</name>
 <hex>#d7d2e2</hex>
-</color>
-<color>
-<name>Light Lilylock</name>
-<hex>#e8e9cf</hex>
 </color>
 <color>
 <name>Light Lime Sherbet</name>
@@ -36389,10 +36385,6 @@
 <hex>#a6fbb2</hex>
 </color>
 <color>
-<name>Light Missed</name>
-<hex>#f2f3cf</hex>
-</color>
-<color>
 <name>Light Modesty</name>
 <hex>#ded5e2</hex>
 </color>
@@ -36409,20 +36401,12 @@
 <hex>#b8d3e4</hex>
 </color>
 <color>
-<name>Light Mud Berry</name>
-<hex>#dcd6d2</hex>
-</color>
-<color>
 <name>Light Mystified</name>
 <hex>#d6e4d4</hex>
 </color>
 <color>
 <name>Light Naked Pink</name>
 <hex>#e2d4e1</hex>
-</color>
-<color>
-<name>Light Nantucket Mist</name>
-<hex>#d7cecd</hex>
 </color>
 <color>
 <name>Light Nursery</name>
@@ -36699,10 +36683,6 @@
 <color>
 <name>Light Security</name>
 <hex>#e0e9d0</hex>
-</color>
-<color>
-<name>Light Seduction</name>
-<hex>#faf4ce</hex>
 </color>
 <color>
 <name>Light Shell Haven</name>
@@ -38163,10 +38143,6 @@
 <color>
 <name>Lucky Shamrock</name>
 <hex>#487a7b</hex>
-</color>
-<color>
-<name>Luftwaffe Ca. Green</name>
-<hex>#4d5e42</hex>
 </color>
 <color>
 <name>Lugganath Orange</name>
@@ -48617,6 +48593,14 @@
 <hex>#f3c13a</hex>
 </color>
 <color>
+<name>Phenomenal Peach</name>
+<hex>#ffcba2</hex>
+</color>
+<color>
+<name>Phenomenal Pink</name>
+<hex>#ee55ff</hex>
+</color>
+<color>
 <name>Phenomenon</name>
 <hex>#3e729b</hex>
 </color>
@@ -55701,11 +55685,7 @@
 <hex>#d0c4af</hex>
 </color>
 <color>
-<name>Russian Unif.</name>
-<hex>#888a8e</hex>
-</color>
-<color>
-<name>Russian Uniform WW2</name>
+<name>Russian Uniform</name>
 <hex>#5f6d36</hex>
 </color>
 <color>
@@ -55981,6 +55961,10 @@
 <hex>#f4c430</hex>
 </color>
 <color>
+<name>Saffron Bread</name>
+<hex>#e8e9cf</hex>
+</color>
+<color>
 <name>Saffron Crocus</name>
 <hex>#584c77</hex>
 </color>
@@ -55993,7 +55977,7 @@
 <hex>#d49f4e</hex>
 </color>
 <color>
-<name>Saffron soufflé</name>
+<name>Saffron Soufflé</name>
 <hex>#feb209</hex>
 </color>
 <color>
@@ -59897,8 +59881,16 @@
 <hex>#ff6d3a</hex>
 </color>
 <color>
+<name>Smell of Garlic</name>
+<hex>#d9ddcb</hex>
+</color>
+<color>
 <name>Smell of Lavender</name>
 <hex>#dce0ea</hex>
+</color>
+<color>
+<name>Smells of Fresh Bread</name>
+<hex>#d7cecd</hex>
 </color>
 <color>
 <name>Smitten</name>
@@ -61805,10 +61797,6 @@
 <hex>#95bcc5</hex>
 </color>
 <color>
-<name>St Tropez</name>
-<hex>#325482</hex>
-</color>
-<color>
 <name>St. Augustine</name>
 <hex>#d0ddcc</hex>
 </color>
@@ -61817,12 +61805,16 @@
 <hex>#eedddd</hex>
 </color>
 <color>
+<name>St. Patrick</name>
+<hex>#2b8c4e</hex>
+</color>
+<color>
 <name>St. Patrick's Blue</name>
 <hex>#23297a</hex>
 </color>
 <color>
-<name>St.Patrick</name>
-<hex>#2b8c4e</hex>
+<name>St. Tropez</name>
+<hex>#325482</hex>
 </color>
 <color>
 <name>Stability</name>
@@ -62971,6 +62963,10 @@
 <color>
 <name>Sulphur Spring</name>
 <hex>#d5d717</hex>
+</color>
+<color>
+<name>Sulphur Water</name>
+<hex>#f2f3cf</hex>
 </color>
 <color>
 <name>Sulphur Yellow</name>
@@ -65823,6 +65819,10 @@
 <color>
 <name>Tirisfal Lime</name>
 <hex>#75de2f</hex>
+</color>
+<color>
+<name>Tirol</name>
+<hex>#9e915c</hex>
 </color>
 <color>
 <name>Titan White</name>
