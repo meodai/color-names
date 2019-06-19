@@ -541,6 +541,10 @@
 <hex>#898253</hex>
 </color>
 <color>
+<name>Aged Gouda</name>
+<hex>#dd9944</hex>
+</color>
+<color>
 <name>Aged Jade</name>
 <hex>#6c6956</hex>
 </color>
@@ -4601,6 +4605,10 @@
 <hex>#937f6d</hex>
 </color>
 <color>
+<name>Bangalore</name>
+<hex>#bbaa88</hex>
+</color>
+<color>
 <name>Bangladesh Green</name>
 <hex>#006a4f</hex>
 </color>
@@ -5395,6 +5403,10 @@
 <color>
 <name>Beer</name>
 <hex>#f28e1c</hex>
+</color>
+<color>
+<name>Beer Garden</name>
+<hex>#449933</hex>
 </color>
 <color>
 <name>Beer Glazed Bacon</name>
@@ -6983,6 +6995,10 @@
 <color>
 <name>Blood Thorn</name>
 <hex>#b03060</hex>
+</color>
+<color>
+<name>Bloodhound</name>
+<hex>#bb5511</hex>
 </color>
 <color>
 <name>Bloodletter</name>
@@ -12309,6 +12325,10 @@
 <hex>#599c99</hex>
 </color>
 <color>
+<name>Caustic Green</name>
+<hex>#11dd00</hex>
+</color>
+<color>
 <name>Cautious Blue</name>
 <hex>#d5dde5</hex>
 </color>
@@ -13047,6 +13067,10 @@
 <color>
 <name>Chasm Green</name>
 <hex>#63b521</hex>
+</color>
+<color>
+<name>Chaste Blossoms</name>
+<hex>#9944ee</hex>
 </color>
 <color>
 <name>Chat Orange</name>
@@ -15179,6 +15203,10 @@
 <color>
 <name>Cold Wave</name>
 <hex>#c2e2e3</hex>
+</color>
+<color>
+<name>Cold Well Water</name>
+<hex>#c1e2e3</hex>
 </color>
 <color>
 <name>Cold Wind</name>
@@ -18746,7 +18774,7 @@
 </color>
 <color>
 <name>Deluge</name>
-<hex>#8272a4</hex>
+<hex>#0077aa</hex>
 </color>
 <color>
 <name>Delusional Dragonfly</name>
@@ -19375,6 +19403,10 @@
 <color>
 <name>Dirt Brown</name>
 <hex>#836539</hex>
+</color>
+<color>
+<name>Dirt Track</name>
+<hex>#bb6644</hex>
 </color>
 <color>
 <name>Dirty Blonde</name>
@@ -23333,6 +23365,10 @@
 <hex>#f1d5ae</hex>
 </color>
 <color>
+<name>Fine White Sand</name>
+<hex>#e4d4c0</hex>
+</color>
+<color>
 <name>Finest Silk</name>
 <hex>#f1e5d7</hex>
 </color>
@@ -24429,6 +24465,10 @@
 <hex>#f6d76e</hex>
 </color>
 <color>
+<name>Forsythia Bud</name>
+<hex>#bbcc55</hex>
+</color>
+<color>
 <name>Fortress Grey</name>
 <hex>#b8b8b8</hex>
 </color>
@@ -25427,6 +25467,10 @@
 <color>
 <name>Funky Frog</name>
 <hex>#98bd3c</hex>
+</color>
+<color>
+<name>Funnel Cloud</name>
+<hex>#113366</hex>
 </color>
 <color>
 <name>Furious Frog</name>
@@ -33045,6 +33089,10 @@
 <hex>#aeddd3</hex>
 </color>
 <color>
+<name>Jaded Ginger</name>
+<hex>#cc7766</hex>
+</color>
+<color>
 <name>Jadeite</name>
 <hex>#38c6a1</hex>
 </color>
@@ -33535,6 +33583,10 @@
 <color>
 <name>June Bug</name>
 <hex>#264a48</hex>
+</color>
+<color>
+<name>June Bugs</name>
+<hex>#bb6633</hex>
 </color>
 <color>
 <name>Juneberry</name>
@@ -35845,6 +35897,10 @@
 <hex>#e6d699</hex>
 </color>
 <color>
+<name>Lifeline</name>
+<hex>#990033</hex>
+</color>
+<color>
 <name>Ligado</name>
 <hex>#cdd6c2</hex>
 </color>
@@ -37433,6 +37489,10 @@
 <hex>#172808</hex>
 </color>
 <color>
+<name>Line Dried Sheets</name>
+<hex>#f5eded</hex>
+</color>
+<color>
 <name>Lineage</name>
 <hex>#4c3430</hex>
 </color>
@@ -37883,6 +37943,10 @@
 <color>
 <name>Loom of Fate</name>
 <hex>#454151</hex>
+</color>
+<color>
+<name>Looney Blue</name>
+<hex>#11ffff</hex>
 </color>
 <color>
 <name>Loophole</name>
@@ -44441,6 +44505,10 @@
 <hex>#515b62</hex>
 </color>
 <color>
+<name>Noxious</name>
+<hex>#89a203</hex>
+</color>
+<color>
 <name>Nuclear Blast</name>
 <hex>#bbff00</hex>
 </color>
@@ -45163,6 +45231,10 @@
 <color>
 <name>Old Pink</name>
 <hex>#c77986</hex>
+</color>
+<color>
+<name>Old Prune</name>
+<hex>#8272a4</hex>
 </color>
 <color>
 <name>Old Red Crest</name>
@@ -49717,6 +49789,10 @@
 <hex>#ffaaee</hex>
 </color>
 <color>
+<name>Pink Wraith</name>
+<hex>#ddbbbb</hex>
+</color>
+<color>
 <name>Pink Yarrow</name>
 <hex>#ce3175</hex>
 </color>
@@ -50481,8 +50557,8 @@
 <hex>#eeeeaa</hex>
 </color>
 <color>
-<name>Pollenation</name>
-<hex>#eedd66</hex>
+<name>Pollen Storm</name>
+<hex>#b8a02a</hex>
 </color>
 <color>
 <name>Pollinate</name>
@@ -50490,7 +50566,7 @@
 </color>
 <color>
 <name>Pollination</name>
-<hex>#b8a02a</hex>
+<hex>#eedd66</hex>
 </color>
 <color>
 <name>Polly</name>
@@ -50711,6 +50787,10 @@
 <color>
 <name>Poppy Surprise</name>
 <hex>#ff5630</hex>
+</color>
+<color>
+<name>Poppy's Whiskers</name>
+<hex>#ccd7df</hex>
 </color>
 <color>
 <name>Popstar</name>
@@ -51979,6 +52059,10 @@
 <color>
 <name>Purple Kite</name>
 <hex>#512c31</hex>
+</color>
+<color>
+<name>Purple Kush</name>
+<hex>#cc77cc</hex>
 </color>
 <color>
 <name>Purple Lepidolite</name>
@@ -54913,6 +54997,10 @@
 <hex>#007c75</hex>
 </color>
 <color>
+<name>Romantic Morning</name>
+<hex>#ddbbdd</hex>
+</color>
+<color>
 <name>Romantic Rose</name>
 <hex>#aa4488</hex>
 </color>
@@ -55713,6 +55801,10 @@
 <hex>#60372e</hex>
 </color>
 <color>
+<name>Rusted Lock</name>
+<hex>#aa4411</hex>
+</color>
+<color>
 <name>Rustic Brown</name>
 <hex>#855141</hex>
 </color>
@@ -56115,6 +56207,10 @@
 <color>
 <name>Saint Seiya Gold</name>
 <hex>#eeee00</hex>
+</color>
+<color>
+<name>Saira Red</name>
+<hex>#ff9bb7</hex>
 </color>
 <color>
 <name>Sakura</name>
@@ -56797,6 +56893,10 @@
 <hex>#96466a</hex>
 </color>
 <color>
+<name>Sattle</name>
+<hex>#aa6622</hex>
+</color>
+<color>
 <name>Saturated Sky</name>
 <hex>#4b4cfc</hex>
 </color>
@@ -57043,6 +57143,10 @@
 <color>
 <name>Schist</name>
 <hex>#87876f</hex>
+</color>
+<color>
+<name>Schnipo</name>
+<hex>#dd8855</hex>
 </color>
 <color>
 <name>Scholarship</name>
@@ -60061,6 +60165,10 @@
 <hex>#97b2b1</hex>
 </color>
 <color>
+<name>Smudged Lips</name>
+<hex>#ee4466</hex>
+</color>
+<color>
 <name>Snail Trail Silver</name>
 <hex>#e9eeeb</hex>
 </color>
@@ -60421,6 +60529,10 @@
 <hex>#beddba</hex>
 </color>
 <color>
+<name>Soft Matte</name>
+<hex>#dd99bb</hex>
+</color>
+<color>
 <name>Soft Metal</name>
 <hex>#bab2b1</hex>
 </color>
@@ -60491,6 +60603,10 @@
 <color>
 <name>Soft Suede</name>
 <hex>#d8cbad</hex>
+</color>
+<color>
+<name>Soft Summer Rain</name>
+<hex>#a1d7ef</hex>
 </color>
 <color>
 <name>Soft Tone</name>
@@ -62163,6 +62279,10 @@
 <color>
 <name>Sticks &amp; Stones</name>
 <hex>#baa482</hex>
+</color>
+<color>
+<name>Sticky Black Tarmac</name>
+<hex>#112111</hex>
 </color>
 <color>
 <name>Sticky Toffee</name>
@@ -64041,6 +64161,10 @@
 <hex>#67667c</hex>
 </color>
 <color>
+<name>Sword Steel</name>
+<hex>#d6d2de</hex>
+</color>
+<color>
 <name>Sybarite Green</name>
 <hex>#8bcbab</hex>
 </color>
@@ -64207,6 +64331,10 @@
 <color>
 <name>Tahuna Sands</name>
 <hex>#d8cc9b</hex>
+</color>
+<color>
+<name>Tail Lights</name>
+<hex>#dd4411</hex>
 </color>
 <color>
 <name>Tainted Gold</name>
@@ -66331,6 +66459,10 @@
 <color>
 <name>Tranquil Peach</name>
 <hex>#fce2d7</hex>
+</color>
+<color>
+<name>Tranquil Pool</name>
+<hex>#88ddff</hex>
 </color>
 <color>
 <name>Tranquil Sea</name>
@@ -69057,16 +69189,16 @@
 <hex>#4e2728</hex>
 </color>
 <color>
+<name>Voldemort</name>
+<hex>#2d135f</hex>
+</color>
+<color>
 <name>Volt</name>
 <hex>#ceff00</hex>
 </color>
 <color>
 <name>Voltage</name>
 <hex>#3b4956</hex>
-</color>
-<color>
-<name>Vomit Green</name>
-<hex>#89a203</hex>
 </color>
 <color>
 <name>Voodoo</name>
