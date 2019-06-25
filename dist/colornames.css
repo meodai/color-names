@@ -3781,6 +3781,7 @@
 --color-coffee-with-cream:#a68966;
 --color-cognac:#d48c46;
 --color-coin-purse:#e0d5e3;
+--color-coin-slot:#ff4411;
 --color-coincidence:#c7de88;
 --color-cola:#3c2f23;
 --color-cola-bubble:#3c3024;
@@ -5580,6 +5581,7 @@
 --color-everlasting:#a1bed9;
 --color-everlasting-ice:#f6fdfa;
 --color-eversong-orange:#ffa62d;
+--color-evil-centipede:#aa2211;
 --color-evil-sunz-scarlet:#c2191f;
 --color-evora:#538b89;
 --color-exaggerated-blush:#b55067;
@@ -6039,6 +6041,7 @@
 --color-foam:#d0eae8;
 --color-foam-green:#90fda9;
 --color-foaming-surf:#90d1dd;
+--color-foamy-milk:#f7f4f7;
 --color-focus:#e5e0d2;
 --color-focus-on-light:#fef9d3;
 --color-focus-point:#91c3bd;
@@ -6681,6 +6684,7 @@
 --color-gold:#ffd700;
 --color-gold-black:#2a2424;
 --color-gold-buff:#ecc481;
+--color-gold-bullion:#eedd99;
 --color-gold-canyon:#ae9769;
 --color-gold-deposit:#e0ce57;
 --color-gold-drop:#d56c30;
@@ -7067,6 +7071,7 @@
 --color-green-me:#b2b55f;
 --color-green-mesh:#d7d7ad;
 --color-green-milieu:#8a9992;
+--color-green-minions:#99dd00;
 --color-green-mirror:#d7e2d5;
 --color-green-mist:#bfc298;
 --color-green-moblin:#008888;
@@ -7596,6 +7601,7 @@
 --color-high-chaparral:#75603d;
 --color-high-dive:#59b9cc;
 --color-high-elf-blue:#8cbed6;
+--color-high-grass:#bbdd00;
 --color-high-hopes:#deeaaa;
 --color-high-noon:#cfb999;
 --color-high-point:#bcd8d2;
@@ -7815,6 +7821,7 @@
 --color-hot-ginger:#a36736;
 --color-hot-green:#25ff29;
 --color-hot-hazel:#dd6622;
+--color-hot-hibiscus:#bb2244;
 --color-hot-jazz:#bc3033;
 --color-hot-lava:#aa0033;
 --color-hot-lips:#c9312b;
@@ -9390,6 +9397,7 @@
 --color-lint:#b6ba99;
 --color-lion:#c19a62;
 --color-lion-king:#dd9933;
+--color-lion-of-menecrates:#eeaa66;
 --color-lions-mane:#e8af49;
 --color-lionfish-red:#e03c28;
 --color-lionheart:#cc2222;
@@ -10057,6 +10065,7 @@
 --color-medium-wood:#a68064;
 --color-medlar:#d5d7bf;
 --color-medusa-green:#998800;
+--color-medusas-snakes:#777711;
 --color-mee-hua-sunset:#ee7700;
 --color-meek-moss-green:#869f98;
 --color-meerkat:#a46f44;
@@ -11047,6 +11056,7 @@
 --color-ninja-turtle:#94b1a9;
 --color-ninjin-orange:#e5aa70;
 --color-nipple-pink:#bb7777;
+--color-nippon:#bc002c;
 --color-nirvana:#a2919b;
 --color-nirvana-jewel:#64a5ad;
 --color-nirvana-nevermind:#7bc8f6;
@@ -12407,6 +12417,7 @@
 --color-pink-petal:#f6e6e2;
 --color-pink-piano:#f62681;
 --color-pink-pieris:#efc9b8;
+--color-pink-ping:#ee66ee;
 --color-pink-pleasure:#ffdfe5;
 --color-pink-poison:#ff007e;
 --color-pink-polar:#ccbabe;
@@ -12953,6 +12964,7 @@
 --color-punctuate:#856b71;
 --color-punga:#534931;
 --color-punk-rock-pink:#8811ff;
+--color-punk-rock-purple:#bb11aa;
 --color-puppeteers:#79ccb3;
 --color-puppy:#bcaea0;
 --color-puppy-love:#e2babf;
@@ -13532,6 +13544,7 @@
 --color-relic:#88789b;
 --color-relief:#bf2133;
 --color-relieved-red:#e9dbdf;
+--color-reliquial-rose:#ff2288;
 --color-remembrance:#ca9e9c;
 --color-remington-rust:#a25d4c;
 --color-remote-control:#6d7a6a;
@@ -13874,6 +13887,7 @@
 --color-royal-indigo:#4e4260;
 --color-royal-lavender:#7851a9;
 --color-royal-lilac:#774d8e;
+--color-royal-mail-red:#da202a;
 --color-royal-maroon:#543938;
 --color-royal-mile:#a1a0b7;
 --color-royal-navy-blue:#0066cc;
@@ -13926,6 +13940,7 @@
 --color-runelord-brass:#b6a89a;
 --color-runic-mauve:#cab2c1;
 --color-rural-eyes:#99af73;
+--color-rural-red:#bb1144;
 --color-ruri-blue:#1e50a2;
 --color-rurikon-blue:#1b294b;
 --color-rushing-river:#5f7797;
@@ -15044,6 +15059,7 @@
 --color-snail-trail-silver:#e9eeeb;
 --color-snake-eyes:#e9cb4c;
 --color-snake-river:#45698c;
+--color-snakebite:#bb4444;
 --color-snakebite-leather:#baa208;
 --color-snakes-in-the-grass:#889717;
 --color-snap-shot:#2b3e52;
@@ -16269,6 +16285,7 @@
 --color-tempest:#79839b;
 --color-template:#a6c9e3;
 --color-temple-guard-blue:#339a8d;
+--color-temple-of-orange:#ee7755;
 --color-tempo:#33abb2;
 --color-tempting-taupe:#ccaa99;
 --color-temptress:#3c2126;
@@ -16432,6 +16449,7 @@
 --color-tiger-cub:#deae46;
 --color-tiger-moth:#f8f2dd;
 --color-tiger-moth-orange:#dd6611;
+--color-tiger-of-mysore:#ff8855;
 --color-tiger-tail:#fee9c4;
 --color-tigers-eye:#977c61;
 --color-tigerlily:#e2583e;
