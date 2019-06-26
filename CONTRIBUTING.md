@@ -12,6 +12,7 @@ Please note we have a code of conduct, please follow it in all your interactions
 
 ## Rules for new color names
 
+- No duplicate names or hex values.
 - No racist names
 - No offensive names
 - No obscene names 💩
