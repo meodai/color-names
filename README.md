@@ -19,6 +19,7 @@ The aim of this project is to create as large a list of color names as possible 
 
 ## Explore 🌍
 
+- [Color Picker & Name Search] Click the wheel to get name for a color, or just use the full text search.
 - [Color Picker]: Click the colored surface to change the color or type in a hex value below the name.
 - [Color Picker II]: Move your mouse and scroll to choose a color.
 - [Name Search]: full text search on the color list.
@@ -200,6 +201,7 @@ As some of the color names come from other lists, some bad ones might slip in. [
 
 <!-- explore -->
 
+[Color Picker & Name Search]: https://codepen.io/meodai/full/pXNpXe
 [Color Picker]: http://codepen.io/meodai/full/mEvZRx/
 [Color Picker II]: https://codepen.io/meodai/full/xWNNwN
 [Name Search]: https://codepen.io/meodai/full/VMpNdQ/
