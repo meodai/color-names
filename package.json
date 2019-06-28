@@ -8,7 +8,8 @@
     "eslint": "^5.15.1",
     "ghooks": "^2.0.4",
     "semantic-release": "^15.13.16",
-    "travis-deploy-once": "^5.0.11"
+    "travis-deploy-once": "^5.0.11",
+    "vue": "^2.6.10"
   },
   "devDependencies": {
     "gh-pages": "^2.0.1",
