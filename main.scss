@@ -1,0 +1,232 @@
+@import url('https://rsms.me/inter/inter-ui.css');
+@import url('https://fonts.googleapis.com/css?family=Space+Mono:400');
+
+$letterspace: -0.02em;
+
+:root {
+  --bg: #212121;
+}
+
+body {
+  overflow: hidden;
+}
+
+html,
+.filter__input {
+  font-family: 'Inter UI', sans-serif;
+  font-size: 2rem;
+  color: #212121;
+  background: #212121;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.inner {
+  position: absolute;
+  padding: 0 .5rem 1rem;
+  top: 3.47rem;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+  background: var(--bg);
+}
+
+.filter {
+  &::after {
+    content: '↓';
+    position: absolute;
+    top: .76rem;
+    right: .8rem;
+    z-index: 2;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    transform: translate(0, 0);
+    will-change: transform;
+    transition: 200ms transform ease-out;
+
+    .is-visible & {
+      transform: translate(0, -30%);
+    }
+  }
+
+  &__input {
+    font-size: 1rem;
+    font-weight: 900;
+    appearance: none;
+    -webkit-appearance: none;
+    border-radius: 0;
+    display: block;
+    padding: .5rem 2rem .5rem .75rem;
+    box-sizing: border-box;
+    width: calc(100% - 90px);
+    margin-left: 90px;
+    color: #212121;
+    background: #fff;
+    line-height: 1;
+    border: 4px solid #212121;
+    letter-spacing: $letterspace;
+    will-change: transform;
+  }
+
+  background: var(--bg);
+  position: fixed;
+  padding: 0.5rem .5rem;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+
+  .is-visible & {
+    transition: 200ms ease-in;
+    transform: translate(0, -200%);
+  }
+}
+
+.dialog {
+  opacity: 0;
+  pointer-events: none;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 10;
+  overflow: hidden;
+  will-change: opacity;
+
+  .is-visible & {
+    opacity: 1;
+    transition: opacity 200ms linear;
+  }
+
+  &__header {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #fff;
+    padding: 1rem;
+    transform: translate(0, 120%);
+    font-size: calc(.5rem + 3.75vw);
+    overflow: hidden;
+    will-change: transform;
+
+    h1 {
+      font-weight: 900;
+
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      line-height: 1.2;
+      transform: translate(0, 120%);
+      will-change: transform;
+
+      .is-visible & {
+        transform: translate(0, 0);
+        transition: 300ms transform ease-out 400ms;
+      }
+    }
+
+    h2 {
+      margin-top: .15em;
+      font-size: .6em;
+      transform: translate(0, 160%);
+      will-change: transform;
+
+      .is-visible & {
+        transform: translate(0, 0);
+        transition: 200ms transform ease-out 600ms;
+      }
+    }
+
+    .is-visible & {
+      transform: translate(0, 0);
+      transition: 300ms transform ease-out 333ms;
+    }
+  }
+
+  &__bg {
+    position: absolute;
+    left: .5rem;
+    right: .5rem;
+  }
+}
+
+.color {
+  cursor: pointer;
+  line-height: 66px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  padding: 0 .5rem;
+  height: 66px;
+  overflow: hidden;
+  box-sizing: border-box;
+  color: var(--color);
+  transition: 100ms color linear, 100ms background-color linear;
+
+  &:hover {
+    color: #000;
+    background: var(--color);
+  }
+
+  &.is-dark:hover {
+    color: #fff;
+  }
+
+}
+
+strong {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding-right: 0.5rem;
+  letter-spacing: $letterspace;
+  font-weight: 900;
+}
+
+span {
+  font-family: 'Space Mono', monospace;
+  font-size: .7em;
+  //font-feature-settings: 'tnum' 1;
+}
+
+.filter-color {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+
+  input {
+    display: none;
+  }
+}
+
+.wheel {
+  position: absolute;
+  top: .5rem;
+  left: .5rem;
+  background: conic-gradient(red, yellow, lime, aqua, blue, magenta, red);
+  border-radius: 50%;
+  height: 70px;
+  width: 70px;
+  cursor: pointer;
+  transform: translate(0, 0);
+  will-change: transform;
+  transition: 200ms transform ease-out, 200ms box-shadow;
+
+  border: 4px solid #212121;
+
+  &:hover,
+  &:focus,
+  &:active {
+    box-shadow: inset 0 0 0 .2rem var(--bg);
+  }
+
+  .is-visible & {
+    transform: translate(0, -30%);
+  }
+}
