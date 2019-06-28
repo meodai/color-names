@@ -18,7 +18,7 @@
   },
   "scripts": {
     "start": "parcel index.html",
-    "predeploy": "rm -rf dist && parcel build index.html --public-url /parcel-gh-pages-deploy",
+    "predeploy": "rm -rf dist && parcel build index.html --public-url /color-names",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
