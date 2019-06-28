@@ -12,7 +12,8 @@
   },
   "devDependencies": {
     "gh-pages": "^2.0.1",
-    "parcel-bundler": "^1.12.3"
+    "parcel-bundler": "^1.12.3",
+    "sass": "^1.22.1"
   },
   "scripts": {
     "start": "parcel index.html",
