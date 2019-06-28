@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Color-Names: All the 18k color names from the color-name-list API</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+<link rel='stylesheet' href='https://unpkg.com/vue-virtual-scroller@0.9.0/dist/vue-virtual-scroller.css'>
+<style>
+@charset "UTF-8";
+@import url("https://rsms.me/inter/inter-ui.css");
+@import url("https://fonts.googleapis.com/css?family=Space+Mono:400");
+:root {
+  --bg: #212121;
+}
+
+body {
+  overflow: hidden;
+}
+
+html, .filter__input {
+  font-family: 'Inter UI', sans-serif;
+  font-size: 2rem;
+  color: #212121;
+  background: #212121;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.inner {
+  position: absolute;
+  padding: 0 .5rem 1rem;
+  top: 3.47rem;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+  background: var(--bg);
+}
+
+.filter {
+  background: var(--bg);
+  position: fixed;
+  padding: 0.5rem .5rem;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+.filter::after {
+  content: '↓';
+  position: absolute;
+  top: .76rem;
+  right: .8rem;
+  z-index: 2;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  -webkit-transform: translate(0, 0);
+          transform: translate(0, 0);
+  will-change: transform;
+  transition: 200ms -webkit-transform ease-out;
+  transition: 200ms transform ease-out;
+  transition: 200ms transform ease-out, 200ms -webkit-transform ease-out;
+}
+.is-visible .filter::after {
+  -webkit-transform: translate(0, -30%);
+          transform: translate(0, -30%);
+}
+.filter__input {
+  font-size: 1rem;
+  font-weight: 900;
+  -moz-appearance: none;
+       appearance: none;
+  -webkit-appearance: none;
+  border-radius: 0;
+  display: block;
+  padding: .5rem 2rem .5rem .75rem;
+  box-sizing: border-box;
+  width: calc(100% - 90px);
+  margin-left: 90px;
+  color: #212121;
+  background: #fff;
+  line-height: 1;
+  border: 4px solid #212121;
+  letter-spacing: -0.02em;
+  will-change: transform;
+}
+.is-visible .filter {
+  transition: 200ms ease-in;
+  -webkit-transform: translate(0, -200%);
+          transform: translate(0, -200%);
+}
+
+.dialog {
+  opacity: 0;
+  pointer-events: none;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 10;
+  overflow: hidden;
+  will-change: opacity;
+}
+.is-visible .dialog {
+  opacity: 1;
+  transition: opacity 200ms linear;
+}
+.dialog__header {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #fff;
+  padding: 1rem;
+  -webkit-transform: translate(0, 120%);
+          transform: translate(0, 120%);
+  font-size: calc(.5rem + 3.75vw);
+  overflow: hidden;
+  will-change: transform;
+}
+.dialog__header h1 {
+  font-weight: 900;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  line-height: 1.2;
+  -webkit-transform: translate(0, 120%);
+          transform: translate(0, 120%);
+  will-change: transform;
+}
+.is-visible .dialog__header h1 {
+  -webkit-transform: translate(0, 0);
+          transform: translate(0, 0);
+  transition: 300ms -webkit-transform ease-out 400ms;
+  transition: 300ms transform ease-out 400ms;
+  transition: 300ms transform ease-out 400ms, 300ms -webkit-transform ease-out 400ms;
+}
+.dialog__header h2 {
+  margin-top: .15em;
+  font-size: .6em;
+  -webkit-transform: translate(0, 160%);
+          transform: translate(0, 160%);
+  will-change: transform;
+}
+.is-visible .dialog__header h2 {
+  -webkit-transform: translate(0, 0);
+          transform: translate(0, 0);
+  transition: 200ms -webkit-transform ease-out 600ms;
+  transition: 200ms transform ease-out 600ms;
+  transition: 200ms transform ease-out 600ms, 200ms -webkit-transform ease-out 600ms;
+}
+.is-visible .dialog__header {
+  -webkit-transform: translate(0, 0);
+          transform: translate(0, 0);
+  transition: 300ms -webkit-transform ease-out 333ms;
+  transition: 300ms transform ease-out 333ms;
+  transition: 300ms transform ease-out 333ms, 300ms -webkit-transform ease-out 333ms;
+}
+.dialog__bg {
+  position: absolute;
+  left: .5rem;
+  right: .5rem;
+}
+
+.color {
+  cursor: pointer;
+  line-height: 66px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  padding: 0 .5rem;
+  height: 66px;
+  overflow: hidden;
+  box-sizing: border-box;
+  color: var(--color);
+  transition: 100ms color linear, 100ms background-color linear;
+}
+.color:hover {
+  color: #000;
+  background: var(--color);
+}
+.color.is-dark:hover {
+  color: #fff;
+}
+
+strong {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding-right: 0.5rem;
+  letter-spacing: -0.02em;
+  font-weight: 900;
+}
+
+span {
+  font-family: 'Space Mono', monospace;
+  font-size: .7em;
+}
+
+.filter-color {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+}
+.filter-color input {
+  display: none;
+}
+
+.wheel {
+  position: absolute;
+  top: .5rem;
+  left: .5rem;
+  background: conic-gradient(red, yellow, lime, aqua, blue, magenta, red);
+  border-radius: 50%;
+  height: 70px;
+  width: 70px;
+  cursor: pointer;
+  -webkit-transform: translate(0, 0);
+          transform: translate(0, 0);
+  will-change: transform;
+  transition: 200ms box-shadow, 200ms -webkit-transform ease-out;
+  transition: 200ms transform ease-out, 200ms box-shadow;
+  transition: 200ms transform ease-out, 200ms box-shadow, 200ms -webkit-transform ease-out;
+  border: 4px solid #212121;
+}
+.wheel:hover, .wheel:focus, .wheel:active {
+  box-shadow: inset 0 0 0 0.2rem var(--bg);
+}
+.is-visible .wheel {
+  -webkit-transform: translate(0, -30%);
+          transform: translate(0, -30%);
+}
+
+    </style>
+</head>
+<body translate="no">
+<div id="app">
+<div class="inner" v-bind:class="{'is-visible': showDetail}" v-bind:style="{'--bg': bg, 'margin-right': -scrollWidth + 'px'}">
+<div class="filter">
+<input type="text" class="filter__input" placeholder="Name or Value" v-model="filterString" @input="filterColorName" />
+<label class="filter-color">
+<input v-model="pickedColor" type="color" @input="filterColor" />
+<span class="wheel"></span>
+</label>
+</div>
+<virtual-scroller page-mode :items="colorList" content-tag="div" :item-height="66">
+<template scope="colors">
+<div class="color" v-on:click="showLarge($event, colors.item)" v-bind:class="{'is-dark': isDark(colors.item.rgb)}" :style="{'--color': colors.item.hex}" :key="colors.item.hex">
+<strong data-name>{{colors.item.name}}</strong>
+<span data-hex>{{colors.item.hex}}<i v-if="colors.item.hex == '#f0c'">k</i></span>
+</div>
+</template>
+</virtual-scroller>
+<div class="dialog" ref="dialog">
+<div class="dialog__bg" ref="bg"></div>
+<div class="dialog__header">
+<h1>{{title}}</h1>
+<h2>{{hex}}</h2>
+</div>
+</div>
+</div>
+</div>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/vue/2.3.4/vue.min.js'></script>
+<script src='https://unpkg.com/vue-virtual-scroller@0.9.0/dist/vue-virtual-scroller.js'></script>
+<script src='https://unpkg.com/vue-observe-visibility@0.3.1/dist/vue-observe-visibility.min.js'></script>
+<script src='https://unpkg.com/closestvector@0.5.0/index.umd.js'></script>
+<script id="rendered-js">
+      Vue.use(VueVirtualScroller);
+Vue.component('virtual-scroller', VueVirtualScroller.VirtualScroller);
+
+function measureScroll() {
+  var testDiv, cssAttributes, attr;
+
+  //creates a DOM element
+  testDiv = document.createElement('div');
+
+  //stores the CSS atributes
+  cssAttributes = {
+    width: '100px',
+    height: '100px',
+    overflow: 'scroll',
+    position: 'absolute',
+    top: '-999px' };
+
+
+  //sets all the styles on testDiv
+  for (attr in cssAttributes) {
+    testDiv.style[attr] = cssAttributes[attr];
+  }
+
+  //adds the testDiv to the DOM
+  document.body.appendChild(testDiv);
+
+  //measures the the scrollWidth
+  width = testDiv.offsetWidth - testDiv.clientWidth;
+
+  //removes the testDiv from the DOM
+  document.body.removeChild(testDiv);
+
+  //returns the width
+  return width;
+}
+
+const hexToRgb = hex => {
+  const int = parseInt(hex.replace('#', ''), 16);
+  return {
+    r: int >> 16 & 255,
+    g: int >> 8 & 255,
+    b: int & 255 };
+
+};
+
+const app = new Vue({
+  el: '#app',
+  data: () => ({
+    colors: [{
+      hex: '#ffffff',
+      rgb: { r: 255, g: 255, b: 255 },
+      name: `Loading lots of colors` }],
+
+    scrollWidth: measureScroll(),
+    similarsLength: 60,
+    filterString: '',
+    title: 'Title',
+    hex: '#f00f00',
+    showDetail: false,
+    timer: null,
+    colorList: [{
+      hex: '#ffffff',
+      rgb: { r: 255, g: 255, b: 255 },
+      name: `Loading lots of colors` }],
+
+    pickedColor: '#ffffff' }),
+
+  computed: {
+    bg: function () {
+      return this.isDark(hexToRgb(this.pickedColor)) ? '#fff' : '#212121';
+    } },
+
+  methods: {
+    filterColor: function (e) {
+      const colval = hexToRgb(e.target.value);
+      this.filterString = e.target.value;
+      clearTimeout(this.timer);
+      this.timer = setTimeout(() => {
+        let i = 0;
+        const similarColors = [];
+
+        while (i < this.similarsLength) {
+          similarColors.push(
+          this.colors[
+          this.closestColors.get([colval.r, colval.g, colval.b]).index]);
+
+
+          i++;
+        }
+
+        this.colorList = similarColors;
+        this.closestColors.clearCache();
+      }, 100);
+    },
+
+    filterColorName: function (e) {
+      this.pickedColor = '#ffffff';
+      const name = e.target.value.toLowerCase();
+
+      const colors = this.colors.filter(col => {
+        return col.name.toLowerCase().indexOf(name) > -1 || col.hex.indexOf(name) > -1;
+      });
+
+      this.colorList = colors.length ? colors : [{
+        hex: '#f0c',
+        rgb: {
+          r: 255,
+          g: 255,
+          b: 255 },
+
+        name: `${this.colors.length} colors and you can't find any!` }];
+
+
+    },
+
+    showLarge: function ($event, color) {
+      this.showDetail = !this.showDetail;
+
+      this.title = color.name;
+      this.hex = color.hex;
+      const rect = $event.target.getBoundingClientRect();
+
+      this.$refs.bg.style.transition = 'none';
+      this.$refs.bg.style.top = rect.top + 'px';
+      this.$refs.bg.style.height = rect.height + 'px';
+
+      this.$refs.bg.style['background-color'] = color.hex;
+
+      setTimeout(() => {
+
+        this.$refs.bg.style.transition = `
+        477ms top cubic-bezier(.2,.4,.2,1.2), 
+        477ms left cubic-bezier(.2,.4,.2,1.2), 
+        477ms height cubic-bezier(.2,.4,.2,1.2), 
+        477ms width cubic-bezier(.2,.4,.2,1.2)
+      `;
+        setTimeout(() => {
+          this.$refs.bg.style.top = 0;
+          this.$refs.bg.style.left = 0;
+          this.$refs.bg.style.height = window.innerHeight + 'px';
+          this.$refs.bg.style.width = window.innerWidth + 'px';
+        }, 10);
+      }, 10);
+    },
+    isDark: rgb => Math.round(
+
+    (
+    parseInt(rgb.r) * 299 +
+    parseInt(rgb.g) * 587 +
+    parseInt(rgb.b) * 114) /
+    1000) <
+
+    125 } });
+
+
+
+const xhr = new XMLHttpRequest();
+xhr.open('GET', '//color-names.herokuapp.com/v1/');
+xhr.onload = e => {
+  if (xhr.status === 200) {
+    let resp = JSON.parse(xhr.responseText);
+    app.colors = resp.colors /*.sort((a,b) => ( a.luminance - b.luminance )).reverse()*/;
+    app.closestColors = new Closest(resp.colors.map(c => [c.rgb.r, c.rgb.g, c.rgb.b]), true);
+
+    app.colorList = [...app.colors];
+
+  } else {
+    console.log(xhr.status);
+  }
+};
+xhr.send();
+    </script>
+</body>
+</html>

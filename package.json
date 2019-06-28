@@ -1,0 +1,32 @@
+{
+  "name": "color-names-page",
+  "version": "1.0.0",
+  "description": "website for color-names repo",
+  "main": "index.html",
+  "dependencies": {
+    "commitizen": "^3.1.1",
+    "eslint": "^5.15.1",
+    "ghooks": "^2.0.4",
+    "semantic-release": "^15.13.16",
+    "travis-deploy-once": "^5.0.11"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1",
+    "parcel-bundler": "^1.12.3"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "predeploy": "rm -rf dist && parcel build index.html --public-url /parcel-gh-pages-deploy",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meodai/color-names.git"
+  },
+  "author": "meodai@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meodai/color-names/issues"
+  },
+  "homepage": "https://github.com/meodai/color-names#readme"
+}
