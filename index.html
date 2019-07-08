@@ -9,36 +9,20 @@
 <link rel='stylesheet' href='./main.scss'>
 </head>
 <body translate="no">
-<div id="app">
-<div class="inner" v-bind:class="{'is-visible': showDetail}" v-bind:style="{'--bg': bg, 'margin-right': -scrollWidth + 'px'}">
-<div class="filter">
-<input type="text" class="filter__input" placeholder="Name or Value" v-model="filterString" @input="filterColorName" />
-<label class="filter-color">
-<input v-model="pickedColor" type="color" @input="filterColor" />
-<span class="wheel"></span>
-</label>
-</div>
-<virtual-scroller page-mode :items="colorList" content-tag="div" :item-height="66">
-<template scope="colors">
-<div class="color" v-on:click="showLarge($event, colors.item)" v-bind:class="{'is-dark': isDark(colors.item.rgb)}" :style="{'--color': colors.item.hex}" :key="colors.item.hex">
-<strong data-name>{{colors.item.name}}</strong>
-<span data-hex>{{colors.item.hex}}<i v-if="colors.item.hex == '#f0c'">k</i></span>
-</div>
-</template>
-</virtual-scroller>
-<div class="dialog" ref="dialog">
-<div class="dialog__bg" ref="bg"></div>
-<div class="dialog__header">
-<h1>{{title}}</h1>
-<h2>{{hex}}</h2>
-</div>
-</div>
-</div>
-</div>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/vue/2.3.4/vue.min.js'></script>
-<script src='https://unpkg.com/vue-virtual-scroller@0.9.0/dist/vue-virtual-scroller.js'></script>
-<script src='https://unpkg.com/vue-observe-visibility@0.3.1/dist/vue-observe-visibility.min.js'></script>
-<script src='https://unpkg.com/closestvector@0.5.0/index.umd.js'></script>
+<main>
+  <div class="l-design-width">
+    <h1 class="title title--main">color names</h1>
+    <img src="./logo/cockatoo-fill-blend.svg" alt="color names logo">
+    <p>A handpicked list of 18232 unique color names from various sources and thousands of curated user submissions.</p>
+    <blockquote>
+      <p>The names of color function like a thread attached to a frightfully slender needle, capable of stitching together
+        our most delicate emotions and memories. When the needle hits the target, we feel either pleasure or empathy.
+        <strong>Kenya Hara – White</strong></p>
+    </blockquote>
+  </div>
+  <div id="app"></div>
+  
+</main>
 <script src='./main.js'></script>
 </body>
 </html>

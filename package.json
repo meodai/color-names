@@ -8,13 +8,19 @@
     "eslint": "^5.15.1",
     "ghooks": "^2.0.4",
     "semantic-release": "^15.13.16",
+    "simple-css-reset": "^3.0.0",
     "travis-deploy-once": "^5.0.11",
-    "vue": "^2.6.10"
+    "vue": "^2.6.10",
+    "vue-hot-reload-api": "^2.3.3"
   },
   "devDependencies": {
+    "@vue/component-compiler-utils": "^3.0.0",
     "gh-pages": "^2.0.1",
     "parcel-bundler": "^1.12.3",
-    "sass": "^1.22.1"
+    "pug": "^2.0.4",
+    "sass": "^1.22.1",
+    "typescript": "^3.5.2",
+    "vue-template-compiler": "^2.6.10"
   },
   "scripts": {
     "start": "parcel index.html",
