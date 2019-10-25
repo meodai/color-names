@@ -7100,6 +7100,9 @@
   name:"Bright White"
   hex:"#f4f5f0"
 -
+  name:"Bright Winter Cloud"
+  hex:"#f5efe8"
+-
   name:"Bright Yarrow"
   hex:"#face6d"
 -
@@ -15068,6 +15071,9 @@
   name:"Dried Mustard"
   hex:"#804a00"
 -
+  name:"Dried Pipe Clay"
+  hex:"#d8d6cc"
+-
   name:"Dried Plum"
   hex:"#683332"
 -
@@ -15902,6 +15908,9 @@
   name:"Egg Sour"
   hex:"#f9e4c5"
 -
+  name:"Egg Wash"
+  hex:"#e2e1c8"
+-
   name:"Egg White"
   hex:"#ffefc1"
 -
@@ -16411,6 +16420,9 @@
 -
   name:"Enfield Brown"
   hex:"#a73211"
+-
+  name:"English Channel Fog"
+  hex:"#cbd3e6"
 -
   name:"English Forest"
   hex:"#606256"
@@ -27035,9 +27047,6 @@
   name:"Light Bathing"
   hex:"#abd5dc"
 -
-  name:"Light Beige"
-  hex:"#f5efe8"
--
   name:"Light Bleaches"
   hex:"#d5d4d0"
 -
@@ -27236,9 +27245,6 @@
   name:"Light Ghosting"
   hex:"#d7d3ca"
 -
-  name:"Light Ghostly Green"
-  hex:"#e2e1c8"
--
   name:"Light Glaze"
   hex:"#c0b5aa"
 -
@@ -27314,9 +27320,6 @@
   name:"Light Kiri Mist"
   hex:"#d3d2dd"
 -
-  name:"Light Korila"
-  hex:"#e0eed4"
--
   name:"Light Lamb's Ears"
   hex:"#d6d9cb"
 -
@@ -27334,9 +27337,6 @@
 -
   name:"Light Light Blush"
   hex:"#eed2d7"
--
-  name:"Light Light Green"
-  hex:"#c8ffb0"
 -
   name:"Light Light Lichen"
   hex:"#d3e7dc"
@@ -27421,9 +27421,6 @@
 -
   name:"Light Nut Milk"
   hex:"#e3d8d4"
--
-  name:"Light Objectivity"
-  hex:"#cbd3e6"
 -
   name:"Light of New Hope"
   hex:"#eaf3d0"
@@ -27512,9 +27509,6 @@
   name:"Light Pink Tone"
   hex:"#fad9da"
 -
-  name:"Light Pipe Clay"
-  hex:"#d8d6cc"
--
   name:"Light Pistachio Tang"
   hex:"#e2dec8"
 -
@@ -27562,9 +27556,6 @@
 -
   name:"Light Raw Cotton"
   hex:"#ecdfca"
--
-  name:"Light Recuperate"
-  hex:"#e7d8ea"
 -
   name:"Light Red"
   hex:"#f3d3d9"
@@ -35029,6 +35020,9 @@
 -
   name:"Pale Grey Blue"
   hex:"#d4e2eb"
+-
+  name:"Pale Grey Magenta"
+  hex:"#e7d8ea"
 -
   name:"Pale Icelandish"
   hex:"#bdd4d1"
@@ -45773,6 +45767,9 @@
   name:"Sour Face"
   hex:"#adc979"
 -
+  name:"Sour Green Cherry"
+  hex:"#c8ffb0"
+-
   name:"Sour Lemon"
   hex:"#ffeea5"
 -
@@ -46444,6 +46441,9 @@
 -
   name:"Spring Thyme"
   hex:"#d8dcb3"
+-
+  name:"Spring Wheat"
+  hex:"#e0eed4"
 -
   name:"Spring White"
   hex:"#ecfcec"

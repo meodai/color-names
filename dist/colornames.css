@@ -2366,6 +2366,7 @@
 --color-bright-umber:#826644;
 --color-bright-violet:#ad0afd;
 --color-bright-white:#f4f5f0;
+--color-bright-winter-cloud:#f5efe8;
 --color-bright-yarrow:#face6d;
 --color-bright-yellow:#fffd01;
 --color-bright-yellow-green:#9dff00;
@@ -5022,6 +5023,7 @@
 --color-dried-magenta:#ff40ff;
 --color-dried-moss:#ccb97e;
 --color-dried-mustard:#804a00;
+--color-dried-pipe-clay:#d8d6cc;
 --color-dried-plum:#683332;
 --color-dried-tobacco:#997b38;
 --color-dried-tomatoes:#ab6057;
@@ -5300,6 +5302,7 @@
 --color-ega-green:#01ff07;
 --color-egg-liqueur:#dccaa8;
 --color-egg-sour:#f9e4c5;
+--color-egg-wash:#e2e1c8;
 --color-egg-white:#ffefc1;
 --color-egg-yolk-yellow:#ffce81;
 --color-eggnog:#fdea9f;
@@ -5470,6 +5473,7 @@
 --color-energy-peak:#bb5f60;
 --color-energy-yellow:#f5d752;
 --color-enfield-brown:#a73211;
+--color-english-channel-fog:#cbd3e6;
 --color-english-forest:#606256;
 --color-english-green:#1b4d3f;
 --color-english-holly:#274234;
@@ -9011,7 +9015,6 @@
 --color-light-ballet-blue:#c2d1e2;
 --color-light-bassinet:#ded0d8;
 --color-light-bathing:#abd5dc;
---color-light-beige:#f5efe8;
 --color-light-bleaches:#d5d4d0;
 --color-light-blossom-time:#ecddd6;
 --color-light-blue:#add8e6;
@@ -9078,7 +9081,6 @@
 --color-light-gentle-calm:#d2d9cd;
 --color-light-ghost-town:#d4cfcc;
 --color-light-ghosting:#d7d3ca;
---color-light-ghostly-green:#e2e1c8;
 --color-light-glaze:#c0b5aa;
 --color-light-green:#76ff7b;
 --color-light-green-alabaster:#d5d8c9;
@@ -9104,14 +9106,12 @@
 --color-light-karma:#bce6e8;
 --color-light-katsura:#d6ead8;
 --color-light-kiri-mist:#d3d2dd;
---color-light-korila:#e0eed4;
 --color-light-lambs-ears:#d6d9cb;
 --color-light-lavender:#efc0fe;
 --color-light-lavender-blush:#e3d2cf;
 --color-light-lavender-water:#ddd6e7;
 --color-light-ligado:#d9e0d0;
 --color-light-light-blush:#eed2d7;
---color-light-light-green:#c8ffb0;
 --color-light-light-lichen:#d3e7dc;
 --color-light-lilac:#dcc6d2;
 --color-light-lilac-crystal:#d7d2e2;
@@ -9140,7 +9140,6 @@
 --color-light-naked-pink:#e2d4e1;
 --color-light-nursery:#f4dcdc;
 --color-light-nut-milk:#e3d8d4;
---color-light-objectivity:#cbd3e6;
 --color-light-of-new-hope:#eaf3d0;
 --color-light-olive:#acbf69;
 --color-light-opale:#c1e8ea;
@@ -9170,7 +9169,6 @@
 --color-light-pink-pandora:#e9d3d5;
 --color-light-pink-polar:#d8c9cc;
 --color-light-pink-tone:#fad9da;
---color-light-pipe-clay:#d8d6cc;
 --color-light-pistachio-tang:#e2dec8;
 --color-light-placid-blue:#c8d8e8;
 --color-light-pollinate:#ebe1cb;
@@ -9187,7 +9185,6 @@
 --color-light-quilt:#fde1d4;
 --color-light-radar:#c6d5ea;
 --color-light-raw-cotton:#ecdfca;
---color-light-recuperate:#e7d8ea;
 --color-light-red:#f3d3d9;
 --color-light-relax:#caddde;
 --color-light-ridge-light:#c3d5e5;
@@ -11676,6 +11673,7 @@
 --color-pale-green:#69b076;
 --color-pale-grey:#fdfdfe;
 --color-pale-grey-blue:#d4e2eb;
+--color-pale-grey-magenta:#e7d8ea;
 --color-pale-icelandish:#bdd4d1;
 --color-pale-iris:#8895c5;
 --color-pale-jade:#77c3b4;
@@ -15257,6 +15255,7 @@
 --color-sour-apple:#a0ac4f;
 --color-sour-candy:#66b348;
 --color-sour-face:#adc979;
+--color-sour-green-cherry:#c8ffb0;
 --color-sour-lemon:#ffeea5;
 --color-sour-patch-peach:#f4d9c5;
 --color-sourdough:#c9b59a;
@@ -15481,6 +15480,7 @@
 --color-spring-sun:#f1f1c6;
 --color-spring-thaw:#d9dcdd;
 --color-spring-thyme:#d8dcb3;
+--color-spring-wheat:#e0eed4;
 --color-spring-white:#ecfcec;
 --color-spring-wisteria:#cda4de;
 --color-spring-wood:#e9e1d9;
