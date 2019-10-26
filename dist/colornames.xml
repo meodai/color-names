@@ -9469,6 +9469,10 @@
 <hex>#f4f5f0</hex>
 </color>
 <color>
+<name>Bright Winter Cloud</name>
+<hex>#f5efe8</hex>
+</color>
+<color>
 <name>Bright Yarrow</name>
 <hex>#face6d</hex>
 </color>
@@ -20093,6 +20097,10 @@
 <hex>#804a00</hex>
 </color>
 <color>
+<name>Dried Pipe Clay</name>
+<hex>#d8d6cc</hex>
+</color>
+<color>
 <name>Dried Plum</name>
 <hex>#683332</hex>
 </color>
@@ -21205,6 +21213,10 @@
 <hex>#f9e4c5</hex>
 </color>
 <color>
+<name>Egg Wash</name>
+<hex>#e2e1c8</hex>
+</color>
+<color>
 <name>Egg White</name>
 <hex>#ffefc1</hex>
 </color>
@@ -21883,6 +21895,10 @@
 <color>
 <name>Enfield Brown</name>
 <hex>#a73211</hex>
+</color>
+<color>
+<name>English Channel Fog</name>
+<hex>#cbd3e6</hex>
 </color>
 <color>
 <name>English Forest</name>
@@ -36049,10 +36065,6 @@
 <hex>#abd5dc</hex>
 </color>
 <color>
-<name>Light Beige</name>
-<hex>#f5efe8</hex>
-</color>
-<color>
 <name>Light Bleaches</name>
 <hex>#d5d4d0</hex>
 </color>
@@ -36317,10 +36329,6 @@
 <hex>#d7d3ca</hex>
 </color>
 <color>
-<name>Light Ghostly Green</name>
-<hex>#e2e1c8</hex>
-</color>
-<color>
 <name>Light Glaze</name>
 <hex>#c0b5aa</hex>
 </color>
@@ -36421,10 +36429,6 @@
 <hex>#d3d2dd</hex>
 </color>
 <color>
-<name>Light Korila</name>
-<hex>#e0eed4</hex>
-</color>
-<color>
 <name>Light Lamb's Ears</name>
 <hex>#d6d9cb</hex>
 </color>
@@ -36447,10 +36451,6 @@
 <color>
 <name>Light Light Blush</name>
 <hex>#eed2d7</hex>
-</color>
-<color>
-<name>Light Light Green</name>
-<hex>#c8ffb0</hex>
 </color>
 <color>
 <name>Light Light Lichen</name>
@@ -36563,10 +36563,6 @@
 <color>
 <name>Light Nut Milk</name>
 <hex>#e3d8d4</hex>
-</color>
-<color>
-<name>Light Objectivity</name>
-<hex>#cbd3e6</hex>
 </color>
 <color>
 <name>Light of New Hope</name>
@@ -36685,10 +36681,6 @@
 <hex>#fad9da</hex>
 </color>
 <color>
-<name>Light Pipe Clay</name>
-<hex>#d8d6cc</hex>
-</color>
-<color>
 <name>Light Pistachio Tang</name>
 <hex>#e2dec8</hex>
 </color>
@@ -36751,10 +36743,6 @@
 <color>
 <name>Light Raw Cotton</name>
 <hex>#ecdfca</hex>
-</color>
-<color>
-<name>Light Recuperate</name>
-<hex>#e7d8ea</hex>
 </color>
 <color>
 <name>Light Red</name>
@@ -46707,6 +46695,10 @@
 <color>
 <name>Pale Grey Blue</name>
 <hex>#d4e2eb</hex>
+</color>
+<color>
+<name>Pale Grey Magenta</name>
+<hex>#e7d8ea</hex>
 </color>
 <color>
 <name>Pale Icelandish</name>
@@ -61033,6 +61025,10 @@
 <hex>#adc979</hex>
 </color>
 <color>
+<name>Sour Green Cherry</name>
+<hex>#c8ffb0</hex>
+</color>
+<color>
 <name>Sour Lemon</name>
 <hex>#ffeea5</hex>
 </color>
@@ -61927,6 +61923,10 @@
 <color>
 <name>Spring Thyme</name>
 <hex>#d8dcb3</hex>
+</color>
+<color>
+<name>Spring Wheat</name>
+<hex>#e0eed4</hex>
 </color>
 <color>
 <name>Spring White</name>
