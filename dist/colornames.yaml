@@ -1460,6 +1460,9 @@
   name:"Angry Gremlin"
   hex:"#37503d"
 -
+  name:"Angry Hornet"
+  hex:"#ee9911"
+-
   name:"Angry Ocean"
   hex:"#4e6665"
 -
@@ -23876,6 +23879,9 @@
   name:"Ice Grey"
   hex:"#cac7c4"
 -
+  name:"Ice Ice Baby"
+  hex:"#00ffdd"
+-
   name:"Ice Lemon"
   hex:"#fffbc1"
 -
@@ -27047,6 +27053,9 @@
   name:"Light Bathing"
   hex:"#abd5dc"
 -
+  name:"Light Beige"
+  hex:"#e5deca"
+-
   name:"Light Bleaches"
   hex:"#d5d4d0"
 -
@@ -27193,9 +27202,6 @@
 -
   name:"Light Easter Rabbit"
   hex:"#d4ced1"
--
-  name:"Light Ecru"
-  hex:"#e5deca"
 -
   name:"Light Eggshell Pink"
   hex:"#d9d2c9"
@@ -33022,6 +33028,9 @@
 -
   name:"Nickel"
   hex:"#929292"
+-
+  name:"Nicotine Gold"
+  hex:"#eebb33"
 -
   name:"Night Bloom"
   hex:"#613e3d"
@@ -42982,6 +42991,9 @@
 -
   name:"Sconce"
   hex:"#ae935d"
+-
+  name:"Scoop of Dark Matter"
+  hex:"#110055"
 -
   name:"Scooter"
   hex:"#308ea0"
