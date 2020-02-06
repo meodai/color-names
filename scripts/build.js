@@ -99,6 +99,18 @@ fs.writeFileSync(
     umdTpl.replace('"{{COLORS}}"', JSONExportString)
 );
 
+// gets ESM template
+const esmTpl = fs.readFileSync(
+    path.normalize(__dirname + '/esm.js.tpl'),
+    'utf8'
+).toString();
+
+// create ESM
+fs.writeFileSync(
+    path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.esm.js`),
+    esmTpl.replace('"{{COLORS}}"', JSONExportString)
+);
+
 // create foreign formats
 // configuration for the file outputs
 const outputFormats = {
