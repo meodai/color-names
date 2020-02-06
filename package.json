@@ -33,11 +33,11 @@
   "homepage": "https://github.com/meodai/color-names#readme",
   "devDependencies": {
     "closestvector": "^0.4.3",
-    "commitizen": "^3.1.1",
+    "commitizen": "^4.0.3",
     "eslint": "^5.15.1",
     "eslint-config-google": "^0.10.0",
     "ghooks": "^2.0.4",
-    "semantic-release": "^15.13.16",
+    "semantic-release": "^17.0.2",
     "travis-deploy-once": "^5.0.11"
   },
   "engines": {
