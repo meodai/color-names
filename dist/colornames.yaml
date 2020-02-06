@@ -1217,6 +1217,9 @@
   name:"Amnesia Blue"
   hex:"#1560bd"
 -
+  name:"Amok"
+  hex:"#ddcc22"
+-
   name:"Amore"
   hex:"#ae2f48"
 -
@@ -9095,6 +9098,9 @@
   name:"Cascading White"
   hex:"#f7f5f6"
 -
+  name:"Cascara"
+  hex:"#ee4433"
+-
   name:"Cashew"
   hex:"#a47149"
 -
@@ -13274,6 +13280,9 @@
   name:"Dark Denim"
   hex:"#005588"
 -
+  name:"Dark Dreams"
+  hex:"#332266"
+-
   name:"Dark Earth"
   hex:"#884455"
 -
@@ -15004,6 +15013,12 @@
 -
   name:"Dream Dust"
   hex:"#ebe2e8"
+-
+  name:"Dream Setting"
+  hex:"#ff77bb"
+-
+  name:"Dream Vapor"
+  hex:"#cc99ee"
 -
   name:"Dreamcatcher"
   hex:"#a5b2a9"
@@ -22337,6 +22352,9 @@
   name:"Hatoba-Nezumi Grey"
   hex:"#9e8b8e"
 -
+  name:"Haunted Dreams"
+  hex:"#333355"
+-
   name:"Haunting Hue"
   hex:"#d3e0ec"
 -
@@ -25666,6 +25684,9 @@
 -
   name:"Khemri Brown"
   hex:"#76664c"
+-
+  name:"Khmer Curry"
+  hex:"#ee5555"
 -
   name:"Khorne Red"
   hex:"#6a0001"
@@ -38498,6 +38519,9 @@
   name:"Prairie Winds"
   hex:"#e8e6d9"
 -
+  name:"Praise of Shadow"
+  hex:"#221155"
+-
   name:"Praise the Sun"
   hex:"#f3f4d9"
 -
@@ -43771,6 +43795,9 @@
 -
   name:"Shadow Woods"
   hex:"#8a795d"
+-
+  name:"Shadowdancer"
+  hex:"#111155"
 -
   name:"Shadowed Steel"
   hex:"#4b4b4b"
@@ -49106,6 +49133,9 @@
   name:"Thai Mango"
   hex:"#e77200"
 -
+  name:"Thai Spice"
+  hex:"#bb4455"
+-
   name:"Thai Teak"
   hex:"#624435"
 -
@@ -51202,6 +51232,9 @@
 -
   name:"Vaporous Grey"
   hex:"#dfddd7"
+-
+  name:"Vaporwave"
+  hex:"#ff66ee"
 -
   name:"Vapour"
   hex:"#f0ffff"
