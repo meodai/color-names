@@ -2159,6 +2159,7 @@
 --color-borage-blue:#5566cc;
 --color-bordeaux:#7b002c;
 --color-bordeaux-hint:#efbcde;
+--color-borderline-pink:#ee1166;
 --color-bored-accent-green:#dedd98;
 --color-boredom:#8c9c9c;
 --color-borg-drone:#06470c;
@@ -5612,6 +5613,7 @@
 --color-exclusively-yours:#f2aeb8;
 --color-executive-course:#8f8a70;
 --color-existential-angst:#0a0a0a;
+--color-exit-light:#55bb33;
 --color-exodus-fruit:#6264dc;
 --color-exotic-escape:#96d9df;
 --color-exotic-evening:#58516e;
@@ -6786,6 +6788,7 @@
 --color-golden-hominy:#edc283;
 --color-golden-hop:#cfdd7b;
 --color-golden-impression:#ffefcb;
+--color-golden-key:#dd9911;
 --color-golden-kiwi:#f3dd3e;
 --color-golden-koi:#eaa34b;
 --color-golden-lime:#9a9738;
@@ -8791,6 +8794,7 @@
 --color-laser-lemon:#ffff66;
 --color-last-light-blue:#475f94;
 --color-last-straw:#e3dbcd;
+--color-last-warning:#d30f3f;
 --color-lasting-impression:#b36663;
 --color-lasting-thoughts:#d4e6b1;
 --color-later-gator:#008a51;
@@ -12198,6 +12202,7 @@
 --color-phenomenal-peach:#ffcba2;
 --color-phenomenal-pink:#ee55ff;
 --color-phenomenon:#3e729b;
+--color-pheromone-purple:#8822bb;
 --color-philanthropist-pink:#e2d9dd;
 --color-philippine-blue:#0038a7;
 --color-philippine-bronze:#6e3a07;
@@ -17401,8 +17406,8 @@
 --color-wandering-road:#876d5e;
 --color-wandering-willow:#a6a897;
 --color-war-god:#643530;
---color-warlock-purple:#b50038;
---color-warlord-purple:#ba0033;
+--color-warlock-red:#b50038;
+--color-warlord:#ba0033;
 --color-warm-and-toasty:#cbb68f;
 --color-warm-apricot:#ffb865;
 --color-warm-ash:#cfc9c7;
@@ -18092,6 +18097,7 @@
 --color-yellow-bombinate:#faf3cf;
 --color-yellow-brick-road:#eac853;
 --color-yellow-brown:#ae8b0c;
+--color-yellow-buzzing:#eedd11;
 --color-yellow-canary:#ffeaac;
 --color-yellow-cattleya:#fff44f;
 --color-yellow-chalk:#f5f9ad;

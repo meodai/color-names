@@ -8641,6 +8641,10 @@
 <hex>#efbcde</hex>
 </color>
 <color>
+<name>Borderline Pink</name>
+<hex>#ee1166</hex>
+</color>
+<color>
 <name>Bored Accent Green</name>
 <hex>#dedd98</hex>
 </color>
@@ -22453,6 +22457,10 @@
 <hex>#0a0a0a</hex>
 </color>
 <color>
+<name>Exit Light</name>
+<hex>#55bb33</hex>
+</color>
+<color>
 <name>Exodus Fruit</name>
 <hex>#6264dc</hex>
 </color>
@@ -27147,6 +27155,10 @@
 <color>
 <name>Golden Impression</name>
 <hex>#ffefcb</hex>
+</color>
+<color>
+<name>Golden Key</name>
+<hex>#dd9911</hex>
 </color>
 <color>
 <name>Golden Kiwi</name>
@@ -35167,6 +35179,10 @@
 <color>
 <name>Last Straw</name>
 <hex>#e3dbcd</hex>
+</color>
+<color>
+<name>Last Warning</name>
+<hex>#d30f3f</hex>
 </color>
 <color>
 <name>Lasting Impression</name>
@@ -48795,6 +48811,10 @@
 <color>
 <name>Phenomenon</name>
 <hex>#3e729b</hex>
+</color>
+<color>
+<name>Pheromone Purple</name>
+<hex>#8822bb</hex>
 </color>
 <color>
 <name>Philanthropist Pink</name>
@@ -69609,11 +69629,11 @@
 <hex>#643530</hex>
 </color>
 <color>
-<name>Warlock Purple</name>
+<name>Warlock Red</name>
 <hex>#b50038</hex>
 </color>
 <color>
-<name>Warlord Purple</name>
+<name>Warlord</name>
 <hex>#ba0033</hex>
 </color>
 <color>
@@ -72371,6 +72391,10 @@
 <color>
 <name>Yellow Brown</name>
 <hex>#ae8b0c</hex>
+</color>
+<color>
+<name>Yellow Buzzing</name>
+<hex>#eedd11</hex>
 </color>
 <color>
 <name>Yellow Canary</name>
