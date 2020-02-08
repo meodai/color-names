@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 640">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 920">
   <defs>
     <style type="text/css">
       @import url('https://rsms.me/inter/inter.css');
@@ -9,6 +9,6 @@
       }
     </style>
   </defs>
-  <rect fill="#212121" x="0" y="0" width="600" height="640"/>
-  <text x="40" y="90" fill="#ee1166">Borderline Pink</text><text x="40" y="160" fill="#55bb33">Exit Light</text><text x="40" y="230" fill="#dd9911">Golden Key</text><text x="40" y="300" fill="#d30f3f">Last Warning</text><text x="40" y="370" fill="#8822bb">Pheromone Purple</text><text x="40" y="440" fill="#b50038">Warlock Red</text><text x="40" y="510" fill="#ba0033">Warlord</text><text x="40" y="580" fill="#eedd11">Yellow Buzzing</text>
+  <rect fill="#212121" x="0" y="0" width="600" height="920"/>
+  <text x="40" y="90" fill="#eebbbb">Angry Ghost</text><text x="40" y="160" fill="#bb3300">Dropped Brick</text><text x="40" y="230" fill="#1100cc">Evil Eye</text><text x="40" y="300" fill="#ff9977">Flash in the Pan</text><text x="40" y="370" fill="#fedc57">Glitter is not Gold</text><text x="40" y="440" fill="#ee8877">In for a Penny</text><text x="40" y="510" fill="#00bbdd">Maldives</text><text x="40" y="580" fill="#ff5511">Oil on Fire</text><text x="40" y="650" fill="#8d5f2c">Rusty Coin</text><text x="40" y="720" fill="#cc5522">Rusty Nail</text><text x="40" y="790" fill="#77cc88">Serengeti Green</text><text x="40" y="860" fill="#b59274">Toasted</text>
 </svg>

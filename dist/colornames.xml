@@ -1949,6 +1949,10 @@
 <hex>#9799a6</hex>
 </color>
 <color>
+<name>Angry Ghost</name>
+<hex>#eebbbb</hex>
+</color>
+<color>
 <name>Angry Gremlin</name>
 <hex>#37503d</hex>
 </color>
@@ -20193,6 +20197,10 @@
 <hex>#afc3bc</hex>
 </color>
 <color>
+<name>Dropped Brick</name>
+<hex>#bb3300</hex>
+</color>
+<color>
 <name>Drops of Honey</name>
 <hex>#d4ae76</hex>
 </color>
@@ -22409,6 +22417,10 @@
 <hex>#aa2211</hex>
 </color>
 <color>
+<name>Evil Eye</name>
+<hex>#1100cc</hex>
+</color>
+<color>
 <name>Evil Forces</name>
 <hex>#770022</hex>
 </color>
@@ -23823,6 +23835,10 @@
 <color>
 <name>Flash Gitz Yellow</name>
 <hex>#fffb05</hex>
+</color>
+<color>
+<name>Flash in the Pan</name>
+<hex>#ff9977</hex>
 </color>
 <color>
 <name>Flash of Orange</name>
@@ -26647,6 +26663,10 @@
 <color>
 <name>Glitter</name>
 <hex>#e6e8fa</hex>
+</color>
+<color>
+<name>Glitter is not Gold</name>
+<hex>#fedc57</hex>
 </color>
 <color>
 <name>Glitter Shower</name>
@@ -32207,6 +32227,10 @@
 <color>
 <name>In A Pickle</name>
 <hex>#978c59</hex>
+</color>
+<color>
+<name>In for a Penny</name>
+<hex>#ee8877</hex>
 </color>
 <color>
 <name>In Good Taste</name>
@@ -39081,6 +39105,10 @@
 <hex>#9f5069</hex>
 </color>
 <color>
+<name>Maldives</name>
+<hex>#00bbdd</hex>
+</color>
+<color>
 <name>Male</name>
 <hex>#d6cec3</hex>
 </color>
@@ -45135,6 +45163,10 @@
 <color>
 <name>Oil Of Lavender</name>
 <hex>#c7bebe</hex>
+</color>
+<color>
+<name>Oil on Fire</name>
+<hex>#ff5511</hex>
 </color>
 <color>
 <name>Oil Rush</name>
@@ -56037,8 +56069,12 @@
 <hex>#c6494c</hex>
 </color>
 <color>
-<name>Rusty Nail</name>
+<name>Rusty Coin</name>
 <hex>#8d5f2c</hex>
+</color>
+<color>
+<name>Rusty Nail</name>
+<hex>#cc5522</hex>
 </color>
 <color>
 <name>Rusty Orange</name>
@@ -58231,6 +58267,10 @@
 <color>
 <name>Serene Thought</name>
 <hex>#c5c0ac</hex>
+</color>
+<color>
+<name>Serengeti Green</name>
+<hex>#77cc88</hex>
 </color>
 <color>
 <name>Serenity</name>
@@ -66255,6 +66295,10 @@
 <color>
 <name>Toast and Butter</name>
 <hex>#d2ad84</hex>
+</color>
+<color>
+<name>Toasted</name>
+<hex>#b59274</hex>
 </color>
 <color>
 <name>Toasted Almond</name>

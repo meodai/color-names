@@ -1460,6 +1460,9 @@
   name:"Angry Gargoyle"
   hex:"#9799a6"
 -
+  name:"Angry Ghost"
+  hex:"#eebbbb"
+-
   name:"Angry Gremlin"
   hex:"#37503d"
 -
@@ -15143,6 +15146,9 @@
   name:"Droplet"
   hex:"#afc3bc"
 -
+  name:"Dropped Brick"
+  hex:"#bb3300"
+-
   name:"Drops of Honey"
   hex:"#d4ae76"
 -
@@ -16805,6 +16811,9 @@
   name:"Evil Centipede"
   hex:"#aa2211"
 -
+  name:"Evil Eye"
+  hex:"#1100cc"
+-
   name:"Evil Forces"
   hex:"#770022"
 -
@@ -17866,6 +17875,9 @@
 -
   name:"Flash Gitz Yellow"
   hex:"#fffb05"
+-
+  name:"Flash in the Pan"
+  hex:"#ff9977"
 -
   name:"Flash of Orange"
   hex:"#ffaa00"
@@ -19984,6 +19996,9 @@
 -
   name:"Glitter"
   hex:"#e6e8fa"
+-
+  name:"Glitter is not Gold"
+  hex:"#fedc57"
 -
   name:"Glitter Shower"
   hex:"#88ffff"
@@ -24154,6 +24169,9 @@
 -
   name:"In A Pickle"
   hex:"#978c59"
+-
+  name:"In for a Penny"
+  hex:"#ee8877"
 -
   name:"In Good Taste"
   hex:"#b6d4a0"
@@ -29309,6 +29327,9 @@
   name:"Malaga"
   hex:"#9f5069"
 -
+  name:"Maldives"
+  hex:"#00bbdd"
+-
   name:"Male"
   hex:"#d6cec3"
 -
@@ -33850,6 +33871,9 @@
 -
   name:"Oil Of Lavender"
   hex:"#c7bebe"
+-
+  name:"Oil on Fire"
+  hex:"#ff5511"
 -
   name:"Oil Rush"
   hex:"#333144"
@@ -42026,8 +42050,11 @@
   name:"Rusty Chainmail"
   hex:"#c6494c"
 -
-  name:"Rusty Nail"
+  name:"Rusty Coin"
   hex:"#8d5f2c"
+-
+  name:"Rusty Nail"
+  hex:"#cc5522"
 -
   name:"Rusty Orange"
   hex:"#cd5909"
@@ -43672,6 +43699,9 @@
 -
   name:"Serene Thought"
   hex:"#c5c0ac"
+-
+  name:"Serengeti Green"
+  hex:"#77cc88"
 -
   name:"Serenity"
   hex:"#91a8d0"
@@ -49690,6 +49720,9 @@
 -
   name:"Toast and Butter"
   hex:"#d2ad84"
+-
+  name:"Toasted"
+  hex:"#b59274"
 -
   name:"Toasted Almond"
   hex:"#dacfba"

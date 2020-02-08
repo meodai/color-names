@@ -486,6 +486,7 @@
 --color-angraecum-orchid:#f4f6ec;
 --color-angry-flamingo:#f04e45;
 --color-angry-gargoyle:#9799a6;
+--color-angry-ghost:#eebbbb;
 --color-angry-gremlin:#37503d;
 --color-angry-hornet:#ee9911;
 --color-angry-ocean:#4e6665;
@@ -5047,6 +5048,7 @@
 --color-dromedary:#e3c295;
 --color-drop-of-lemon:#fcf1bd;
 --color-droplet:#afc3bc;
+--color-dropped-brick:#bb3300;
 --color-drops-of-honey:#d4ae76;
 --color-drought:#d5d1cc;
 --color-drover:#fbeb9b;
@@ -5601,6 +5603,7 @@
 --color-everlasting-ice:#f6fdfa;
 --color-eversong-orange:#ffa62d;
 --color-evil-centipede:#aa2211;
+--color-evil-eye:#1100cc;
 --color-evil-forces:#770022;
 --color-evil-sunz-scarlet:#c2191f;
 --color-evora:#538b89;
@@ -5955,6 +5958,7 @@
 --color-flannel-pajamas:#8b8d98;
 --color-flare-gun:#ff4519;
 --color-flash-gitz-yellow:#fffb05;
+--color-flash-in-the-pan:#ff9977;
 --color-flash-of-orange:#ffaa00;
 --color-flashlight:#f9eed6;
 --color-flashman:#7cbd85;
@@ -6661,6 +6665,7 @@
 --color-glitch:#2c5463;
 --color-glitchy-shader-blue:#99ffff;
 --color-glitter:#e6e8fa;
+--color-glitter-is-not-gold:#fedc57;
 --color-glitter-shower:#88ffff;
 --color-glittery-glow:#eeeddb;
 --color-glitzy-red:#af413b;
@@ -8051,6 +8056,7 @@
 --color-impure-white:#f5e7e3;
 --color-imrik-blue:#67aed0;
 --color-in-a-pickle:#978c59;
+--color-in-for-a-penny:#ee8877;
 --color-in-good-taste:#b6d4a0;
 --color-in-the-buff:#d6cbbf;
 --color-in-the-pink:#f4c4d0;
@@ -9769,6 +9775,7 @@
 --color-malachite:#0bda51;
 --color-malachite-green:#004e00;
 --color-malaga:#9f5069;
+--color-maldives:#00bbdd;
 --color-male:#d6cec3;
 --color-male-betta:#347699;
 --color-malibu:#66b7e1;
@@ -11283,6 +11290,7 @@
 --color-oil-blue:#658c88;
 --color-oil-green:#80856d;
 --color-oil-of-lavender:#c7bebe;
+--color-oil-on-fire:#ff5511;
 --color-oil-rush:#333144;
 --color-oil-slick:#031602;
 --color-oil-yellow:#c4a647;
@@ -14008,7 +14016,8 @@
 --color-rustling-leaves:#6b6d4e;
 --color-rusty:#96512a;
 --color-rusty-chainmail:#c6494c;
---color-rusty-nail:#8d5f2c;
+--color-rusty-coin:#8d5f2c;
+--color-rusty-nail:#cc5522;
 --color-rusty-orange:#cd5909;
 --color-rusty-pebble:#e3dce0;
 --color-rusty-red:#af2f0d;
@@ -14557,6 +14566,7 @@
 --color-serene-sea:#78a7c3;
 --color-serene-stream:#819daa;
 --color-serene-thought:#c5c0ac;
+--color-serengeti-green:#77cc88;
 --color-serenity:#91a8d0;
 --color-seriously-sand:#dcccb4;
 --color-serpent:#817f6d;
@@ -16563,6 +16573,7 @@
 --color-toadstool-soup:#988088;
 --color-toast:#9f715f;
 --color-toast-and-butter:#d2ad84;
+--color-toasted:#b59274;
 --color-toasted-almond:#dacfba;
 --color-toasted-coconut:#e9c2a1;
 --color-toasted-marshmallow:#efe0d4;
