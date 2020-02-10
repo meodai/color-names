@@ -69,7 +69,14 @@ if (isTestRun) {
 }
 
 // creates JS related files
-const JSONExportString = JSON.stringify(colorsSrc.entires);
+const JSONExportString = JSON.stringify(
+  [...colorsSrc.entires].map( // removes good name attributes
+    (val) => ({
+      name: val.name,
+      hex: val.hex,
+    })
+  )
+);
 
 fs.writeFileSync(
     path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.json`),
