@@ -249,7 +249,7 @@ const svgTpl = fs.readFileSync(
 ).toString();
 
 function diffSVG() {
-  exec(`git diff HEAD ${baseFolder}${folderSrc}${fileNameSrc}.csv`,
+  exec(`git diff HEAD ${baseFolder}${folderDist}${fileNameSrc}.csv`,
   function (err, stdout, stderr) {
     const diffTxt = stdout;
     if (!/(?<=^[\+])[^\+].*/gm.test(diffTxt)) return;
