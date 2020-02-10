@@ -14447,9 +14447,6 @@
   name:"Diamonds In The Sky"
   hex:"#e5e2e1"
 -
-  name:"Diarrhea"
-  hex:"#9f8303"
--
   name:"Dickie Bird"
   hex:"#60b8be"
 -
@@ -15275,7 +15272,7 @@
   name:"Duck Green"
   hex:"#53665c"
 -
-  name:"Duck Hunt Green"
+  name:"Duck Hunt"
   hex:"#005800"
 -
   name:"Duck Sauce"
@@ -15363,13 +15360,13 @@
   hex:"#80b4dc"
 -
   name:"Dune"
-  hex:"#514f4a"
+  hex:"#d5c0a1"
 -
   name:"Dune Shadow"
   hex:"#867665"
 -
   name:"Dunes Manor"
-  hex:"#d5c0a1"
+  hex:"#514f4a"
 -
   name:"Dungeon Keeper"
   hex:"#ef3038"
@@ -15953,7 +15950,7 @@
   name:"Egg White"
   hex:"#ffefc1"
 -
-  name:"Egg Yolk Yellow"
+  name:"Egg Yolk"
   hex:"#ffce81"
 -
   name:"Eggnog"
@@ -16421,7 +16418,7 @@
   name:"Endless"
   hex:"#5b976a"
 -
-  name:"Endless Galaxy Blue"
+  name:"Endless Galaxy"
   hex:"#000044"
 -
   name:"Endless Silk"
@@ -17690,7 +17687,7 @@
   name:"Fire Dust"
   hex:"#b98d68"
 -
-  name:"Fire Engine Red"
+  name:"Fire Engine"
   hex:"#fe0002"
 -
   name:"Fire Flower"
@@ -18425,9 +18422,6 @@
   name:"Forged Iron"
   hex:"#48464a"
 -
-  name:"Forget Me Not"
-  hex:"#8fadbd"
--
   name:"Forget-Me-Not"
   hex:"#0087bd"
 -
@@ -18914,7 +18908,7 @@
   name:"Frivolous Folly"
   hex:"#cfd2c7"
 -
-  name:"Frog Green"
+  name:"Frog"
   hex:"#58bc08"
 -
   name:"Frog Hollow"
@@ -36527,6 +36521,9 @@
   name:"Pervenche"
   hex:"#0099ee"
 -
+  name:"Pestilence"
+  hex:"#9f8303"
+-
   name:"Pesto"
   hex:"#c1b23e"
 -
@@ -40093,6 +40090,9 @@
 -
   name:"Raven Night"
   hex:"#3b3f66"
+-
+  name:"Raven's Banquet"
+  hex:"#bb2255"
 -
   name:"Raven's Coat"
   hex:"#030205"
@@ -44308,6 +44308,9 @@
 -
   name:"Shot-Put"
   hex:"#716b63"
+-
+  name:"Shovel Knight"
+  hex:"#37c4fa"
 -
   name:"Show Business"
   hex:"#dd835b"
@@ -49288,6 +49291,9 @@
 -
   name:"Therapeutic Toucan"
   hex:"#ee7711"
+-
+  name:"Thermocline"
+  hex:"#8fadbd"
 -
   name:"Thermos"
   hex:"#d2bb95"

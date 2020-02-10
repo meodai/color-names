@@ -19265,10 +19265,6 @@
 <hex>#e5e2e1</hex>
 </color>
 <color>
-<name>Diarrhea</name>
-<hex>#9f8303</hex>
-</color>
-<color>
 <name>Dickie Bird</name>
 <hex>#60b8be</hex>
 </color>
@@ -20369,7 +20365,7 @@
 <hex>#53665c</hex>
 </color>
 <color>
-<name>Duck Hunt Green</name>
+<name>Duck Hunt</name>
 <hex>#005800</hex>
 </color>
 <color>
@@ -20486,7 +20482,7 @@
 </color>
 <color>
 <name>Dune</name>
-<hex>#514f4a</hex>
+<hex>#d5c0a1</hex>
 </color>
 <color>
 <name>Dune Shadow</name>
@@ -20494,7 +20490,7 @@
 </color>
 <color>
 <name>Dunes Manor</name>
-<hex>#d5c0a1</hex>
+<hex>#514f4a</hex>
 </color>
 <color>
 <name>Dungeon Keeper</name>
@@ -21273,7 +21269,7 @@
 <hex>#ffefc1</hex>
 </color>
 <color>
-<name>Egg Yolk Yellow</name>
+<name>Egg Yolk</name>
 <hex>#ffce81</hex>
 </color>
 <color>
@@ -21897,7 +21893,7 @@
 <hex>#5b976a</hex>
 </color>
 <color>
-<name>Endless Galaxy Blue</name>
+<name>Endless Galaxy</name>
 <hex>#000044</hex>
 </color>
 <color>
@@ -23589,7 +23585,7 @@
 <hex>#b98d68</hex>
 </color>
 <color>
-<name>Fire Engine Red</name>
+<name>Fire Engine</name>
 <hex>#fe0002</hex>
 </color>
 <color>
@@ -24569,10 +24565,6 @@
 <hex>#48464a</hex>
 </color>
 <color>
-<name>Forget Me Not</name>
-<hex>#8fadbd</hex>
-</color>
-<color>
 <name>Forget-Me-Not</name>
 <hex>#0087bd</hex>
 </color>
@@ -25221,7 +25213,7 @@
 <hex>#cfd2c7</hex>
 </color>
 <color>
-<name>Frog Green</name>
+<name>Frog</name>
 <hex>#58bc08</hex>
 </color>
 <color>
@@ -48705,6 +48697,10 @@
 <hex>#0099ee</hex>
 </color>
 <color>
+<name>Pestilence</name>
+<hex>#9f8303</hex>
+</color>
+<color>
 <name>Pesto</name>
 <hex>#c1b23e</hex>
 </color>
@@ -53459,6 +53455,10 @@
 <color>
 <name>Raven Night</name>
 <hex>#3b3f66</hex>
+</color>
+<color>
+<name>Raven's Banquet</name>
+<hex>#bb2255</hex>
 </color>
 <color>
 <name>Raven's Coat</name>
@@ -59079,6 +59079,10 @@
 <color>
 <name>Shot-Put</name>
 <hex>#716b63</hex>
+</color>
+<color>
+<name>Shovel Knight</name>
+<hex>#37c4fa</hex>
 </color>
 <color>
 <name>Show Business</name>
@@ -65719,6 +65723,10 @@
 <color>
 <name>Therapeutic Toucan</name>
 <hex>#ee7711</hex>
+</color>
+<color>
+<name>Thermocline</name>
+<hex>#8fadbd</hex>
 </color>
 <color>
 <name>Thermos</name>

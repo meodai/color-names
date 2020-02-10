@@ -4815,7 +4815,6 @@
 --color-diamond-blue:#cfe4ee;
 --color-diamond-dust:#f8f5e5;
 --color-diamonds-in-the-sky:#e5e2e1;
---color-diarrhea:#9f8303;
 --color-dickie-bird:#60b8be;
 --color-diesel:#322c2b;
 --color-diffused-light:#ebe5d5;
@@ -5091,7 +5090,7 @@
 --color-duck-egg-blue:#c3fbf4;
 --color-duck-egg-cream:#c8e3d2;
 --color-duck-green:#53665c;
---color-duck-hunt-green:#005800;
+--color-duck-hunt:#005800;
 --color-duck-sauce:#cc9922;
 --color-duck-tail:#e9d6b1;
 --color-duck-willow:#6a695a;
@@ -5120,9 +5119,9 @@
 --color-dull-violet:#803790;
 --color-dull-yellow:#eedc5b;
 --color-dun-morogh-blue:#80b4dc;
---color-dune:#514f4a;
+--color-dune:#d5c0a1;
 --color-dune-shadow:#867665;
---color-dunes-manor:#d5c0a1;
+--color-dunes-manor:#514f4a;
 --color-dungeon-keeper:#ef3038;
 --color-dunnocks-egg:#d9ece6;
 --color-duomo:#6e6064;
@@ -5317,7 +5316,7 @@
 --color-egg-sour:#f9e4c5;
 --color-egg-wash:#e2e1c8;
 --color-egg-white:#ffefc1;
---color-egg-yolk-yellow:#ffce81;
+--color-egg-yolk:#ffce81;
 --color-eggnog:#fdea9f;
 --color-eggplant:#430541;
 --color-eggplant-ash:#656579;
@@ -5473,7 +5472,7 @@
 --color-ending-navy-blue:#1c305c;
 --color-endive:#cee1c8;
 --color-endless:#5b976a;
---color-endless-galaxy-blue:#000044;
+--color-endless-galaxy:#000044;
 --color-endless-silk:#ddddbb;
 --color-endless-slumber:#b1aab3;
 --color-endo:#5da464;
@@ -5896,7 +5895,7 @@
 --color-fire-coral:#e3b46f;
 --color-fire-dragon-bright:#f97306;
 --color-fire-dust:#b98d68;
---color-fire-engine-red:#fe0002;
+--color-fire-engine:#fe0002;
 --color-fire-flower:#f68f37;
 --color-fire-opal:#fd3c06;
 --color-fire-orange:#ff8e57;
@@ -6141,7 +6140,6 @@
 --color-forever-fairytale:#d2bbb2;
 --color-forever-faithful:#efe6e1;
 --color-forged-iron:#48464a;
---color-forget-me-not:#8fadbd;
 --color-forget-me-not:#0087bd;
 --color-forgive-quickly:#e1e1be;
 --color-forgotten-blue:#c0e5ec;
@@ -6304,7 +6302,7 @@
 --color-fringy-flower:#b4e1bb;
 --color-frisky:#ccdda1;
 --color-frivolous-folly:#cfd2c7;
---color-frog-green:#58bc08;
+--color-frog:#58bc08;
 --color-frog-hollow:#7da270;
 --color-frog-prince:#bbd75a;
 --color-frogs-legs:#8c8449;
@@ -12175,6 +12173,7 @@
 --color-peruvian-lily:#cd7db5;
 --color-peruvian-soil:#733d1f;
 --color-pervenche:#0099ee;
+--color-pestilence:#9f8303;
 --color-pesto:#c1b23e;
 --color-pesto-alla-genovese:#558800;
 --color-petal-dust:#f4dfcd;
@@ -13364,6 +13363,7 @@
 --color-rave-regatta:#00619d;
 --color-raven:#6f747b;
 --color-raven-night:#3b3f66;
+--color-ravens-banquet:#bb2255;
 --color-ravens-coat:#030205;
 --color-ravishing-rouge:#bb2200;
 --color-raw-amethyst:#544173;
@@ -14769,6 +14769,7 @@
 --color-shortbread:#f5e6d3;
 --color-shot-over:#4a5c69;
 --color-shot-put:#716b63;
+--color-shovel-knight:#37c4fa;
 --color-show-business:#dd835b;
 --color-shower:#9fadb7;
 --color-shrimp:#e29a86;
@@ -16429,6 +16430,7 @@
 --color-theatre-dress:#274242;
 --color-themeda-japonica:#e2b13c;
 --color-therapeutic-toucan:#ee7711;
+--color-thermocline:#8fadbd;
 --color-thermos:#d2bb95;
 --color-thick-fog:#dcd3ce;
 --color-thicket:#69865b;
