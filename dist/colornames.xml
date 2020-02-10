@@ -9073,8 +9073,12 @@
 <hex>#795d34</hex>
 </color>
 <color>
-<name>Breeze in June</name>
+<name>Breeze</name>
 <hex>#c2dde6</hex>
+</color>
+<color>
+<name>Breeze in June</name>
+<hex>#c4dfe8</hex>
 </color>
 <color>
 <name>Breeze of Green</name>
@@ -10537,6 +10541,10 @@
 <hex>#6832e3</hex>
 </color>
 <color>
+<name>Burrito</name>
+<hex>#eed7c1</hex>
+</color>
+<color>
 <name>Burro</name>
 <hex>#947764</hex>
 </color>
@@ -11501,7 +11509,7 @@
 <hex>#484335</hex>
 </color>
 <color>
-<name>Cannon barrel</name>
+<name>Cannon Barrel</name>
 <hex>#3c4142</hex>
 </color>
 <color>
@@ -11717,7 +11725,7 @@
 <hex>#007eb0</hex>
 </color>
 <color>
-<name>Captain Kirk Uniform</name>
+<name>Captain Kirk</name>
 <hex>#9b870c</hex>
 </color>
 <color>
@@ -12007,6 +12015,10 @@
 <color>
 <name>Carnival Night</name>
 <hex>#006e7a</hex>
+</color>
+<color>
+<name>Carnivore</name>
+<hex>#991111</hex>
 </color>
 <color>
 <name>Caro</name>
@@ -12661,6 +12673,10 @@
 <hex>#a5a391</hex>
 </color>
 <color>
+<name>Cement Feet</name>
+<hex>#7b737b</hex>
+</color>
+<color>
 <name>Cemetery Ash</name>
 <hex>#c0c7d0</hex>
 </color>
@@ -12798,10 +12814,6 @@
 </color>
 <color>
 <name>Chain Mail</name>
-<hex>#7b737b</hex>
-</color>
-<color>
-<name>Chainmail</name>
 <hex>#81777f</hex>
 </color>
 <color>
@@ -16901,7 +16913,7 @@
 <hex>#edd2a3</hex>
 </color>
 <color>
-<name>Crow Wing</name>
+<name>Crow</name>
 <hex>#180614</hex>
 </color>
 <color>
@@ -17290,7 +17302,7 @@
 </color>
 <color>
 <name>Curry</name>
-<hex>#be9e6f</hex>
+<hex>#d6a332</hex>
 </color>
 <color>
 <name>Curry Powder</name>
@@ -17298,7 +17310,7 @@
 </color>
 <color>
 <name>Curry Sauce</name>
-<hex>#d6a332</hex>
+<hex>#be9e6f</hex>
 </color>
 <color>
 <name>Currywurst</name>
@@ -17631,6 +17643,10 @@
 <color>
 <name>Dandelion Yellow</name>
 <hex>#fcd93b</hex>
+</color>
+<color>
+<name>Danger</name>
+<hex>#ff0e0e</hex>
 </color>
 <color>
 <name>Danger Ridge</name>
@@ -22271,6 +22287,10 @@
 <color>
 <name>Eunry</name>
 <hex>#cda59c</hex>
+</color>
+<color>
+<name>Euphoria</name>
+<hex>#eebbff</hex>
 </color>
 <color>
 <name>Euro Linen</name>
@@ -30407,6 +30427,10 @@
 <color>
 <name>Herbery Honey</name>
 <hex>#eeee22</hex>
+</color>
+<color>
+<name>Herbivore</name>
+<hex>#88ee77</hex>
 </color>
 <color>
 <name>Here Comes the Sun</name>
@@ -42581,6 +42605,10 @@
 <hex>#1c6b69</hex>
 </color>
 <color>
+<name>Moscow Mule</name>
+<hex>#eecc77</hex>
+</color>
+<color>
 <name>Moscow Papyrus</name>
 <hex>#937c00</hex>
 </color>
@@ -49261,6 +49289,10 @@
 <hex>#c3585c</hex>
 </color>
 <color>
+<name>Pina Colada</name>
+<hex>#f4deb3</hex>
+</color>
+<color>
 <name>Pinafore Blue</name>
 <hex>#7198c0</hex>
 </color>
@@ -51795,6 +51827,10 @@
 <color>
 <name>Prosecco</name>
 <hex>#fad6a5</hex>
+</color>
+<color>
+<name>Protein High</name>
+<hex>#ff8866</hex>
 </color>
 <color>
 <name>Proton Red</name>
@@ -70667,6 +70703,14 @@
 <color>
 <name>Whisky</name>
 <hex>#c2877b</hex>
+</color>
+<color>
+<name>Whisky Cola</name>
+<hex>#772233</hex>
+</color>
+<color>
+<name>Whisky Sour</name>
+<hex>#eeaa33</hex>
 </color>
 <color>
 <name>Whisper</name>

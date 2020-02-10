@@ -2267,7 +2267,8 @@
 --color-breathtaking-view:#c3acb7;
 --color-bredon-green:#5e9948;
 --color-breen:#795d34;
---color-breeze-in-june:#c2dde6;
+--color-breeze:#c2dde6;
+--color-breeze-in-june:#c4dfe8;
 --color-breeze-of-green:#cffdbc;
 --color-breezeway:#d6dbc0;
 --color-breezy:#aec9ea;
@@ -2633,6 +2634,7 @@
 --color-burnt-umber:#8a3324;
 --color-burnt-yellow:#d5ab09;
 --color-burple:#6832e3;
+--color-burrito:#eed7c1;
 --color-burro:#947764;
 --color-burst-of-gold:#deb368;
 --color-bursting-lemon:#fce282;
@@ -2928,7 +2930,7 @@
 --color-capsella:#6d8a74;
 --color-capsicum-red:#76392e;
 --color-capstan:#007eb0;
---color-captain-kirk-uniform:#9b870c;
+--color-captain-kirk:#9b870c;
 --color-captains-blue:#557088;
 --color-captivated:#947cae;
 --color-captive:#005b6a;
@@ -3001,6 +3003,7 @@
 --color-carnation-pink:#ff7fa7;
 --color-carnelian:#b31b1b;
 --color-carnival-night:#006e7a;
+--color-carnivore:#991111;
 --color-caro:#ffcac3;
 --color-carob-brown:#855c4c;
 --color-carob-chip:#5a484b;
@@ -3164,6 +3167,7 @@
 --color-celuce:#8bab68;
 --color-cembra-blossom:#725671;
 --color-cement:#a5a391;
+--color-cement-feet:#7b737b;
 --color-cemetery-ash:#c0c7d0;
 --color-cendre-blue:#3e7fa5;
 --color-census:#327a68;
@@ -3198,8 +3202,7 @@
 --color-chai-tea:#b1832f;
 --color-chai-tea-latte:#efd7b3;
 --color-chain-gang-grey:#708090;
---color-chain-mail:#7b737b;
---color-chainmail:#81777f;
+--color-chain-mail:#81777f;
 --color-chalcedony:#dddd99;
 --color-chalet:#c29867;
 --color-chalet-green:#5a6e41;
@@ -4224,7 +4227,7 @@
 --color-crossbow:#60543f;
 --color-crossed-fingers:#ddb596;
 --color-crossroads:#edd2a3;
---color-crow-wing:#180614;
+--color-crow:#180614;
 --color-crowberry:#220055;
 --color-crown-blue:#464b65;
 --color-crown-gold:#b48c60;
@@ -4321,9 +4324,9 @@
 --color-curious-chipmunk:#dabfa4;
 --color-curlew:#766859;
 --color-curly-maple:#d8c8be;
---color-curry:#be9e6f;
+--color-curry:#d6a332;
 --color-curry-powder:#cc6600;
---color-curry-sauce:#d6a332;
+--color-curry-sauce:#be9e6f;
 --color-currywurst:#ddaa33;
 --color-curtsy:#ffd6b8;
 --color-cushion-bush:#c1c8af;
@@ -4407,6 +4410,7 @@
 --color-dandelion-whisper:#fff0b5;
 --color-dandelion-wine:#fcf2b9;
 --color-dandelion-yellow:#fcd93b;
+--color-danger:#ff0e0e;
 --color-danger-ridge:#595539;
 --color-dangerous-robot:#cbc5c6;
 --color-dangerously-red:#d84139;
@@ -5567,6 +5571,7 @@
 --color-eucalyptus:#329760;
 --color-eucalyptus-leaf:#bad2b8;
 --color-eunry:#cda59c;
+--color-euphoria:#eebbff;
 --color-euro-linen:#f2e8db;
 --color-european-pine:#756556;
 --color-eva-green:#36ff9a;
@@ -7601,6 +7606,7 @@
 --color-herbal-tea:#f9fee9;
 --color-herbalist:#969e86;
 --color-herbery-honey:#eeee22;
+--color-herbivore:#88ee77;
 --color-here-comes-the-sun:#fcdf63;
 --color-hereford-bull:#5f3b36;
 --color-hereford-cow-brown:#6c2e1f;
@@ -10644,6 +10650,7 @@
 --color-mortar:#565051;
 --color-mosaic-blue:#00758f;
 --color-mosaic-tile:#1c6b69;
+--color-moscow-mule:#eecc77;
 --color-moscow-papyrus:#937c00;
 --color-mosque:#005f5b;
 --color-moss:#009051;
@@ -12314,6 +12321,7 @@
 --color-piment-piquant:#cc2200;
 --color-pimlico:#df9e9d;
 --color-pimms:#c3585c;
+--color-pina-colada:#f4deb3;
 --color-pinafore-blue:#7198c0;
 --color-pinball:#d3d3d3;
 --color-pinch-me:#c88ca4;
@@ -12948,6 +12956,7 @@
 --color-prophetic-sea:#818b9c;
 --color-prosciutto:#e0b4a4;
 --color-prosecco:#fad6a5;
+--color-protein-high:#ff8866;
 --color-proton-red:#840804;
 --color-protoss-pylon:#00aaff;
 --color-provence:#658dc6;
@@ -17666,6 +17675,8 @@
 --color-whiskey:#d29062;
 --color-whiskey-sour:#d4915d;
 --color-whisky:#c2877b;
+--color-whisky-cola:#772233;
+--color-whisky-sour:#eeaa33;
 --color-whisper:#efe6e6;
 --color-whisper-blue:#e5e8f2;
 --color-whisper-green:#e0e6d7;

@@ -6803,8 +6803,11 @@
   name:"Breen"
   hex:"#795d34"
 -
-  name:"Breeze in June"
+  name:"Breeze"
   hex:"#c2dde6"
+-
+  name:"Breeze in June"
+  hex:"#c4dfe8"
 -
   name:"Breeze of Green"
   hex:"#cffdbc"
@@ -7901,6 +7904,9 @@
   name:"Burple"
   hex:"#6832e3"
 -
+  name:"Burrito"
+  hex:"#eed7c1"
+-
   name:"Burro"
   hex:"#947764"
 -
@@ -8624,7 +8630,7 @@
   name:"Cannon Ball"
   hex:"#484335"
 -
-  name:"Cannon barrel"
+  name:"Cannon Barrel"
   hex:"#3c4142"
 -
   name:"Cannon Black"
@@ -8786,7 +8792,7 @@
   name:"Capstan"
   hex:"#007eb0"
 -
-  name:"Captain Kirk Uniform"
+  name:"Captain Kirk"
   hex:"#9b870c"
 -
   name:"Captains Blue"
@@ -9004,6 +9010,9 @@
 -
   name:"Carnival Night"
   hex:"#006e7a"
+-
+  name:"Carnivore"
+  hex:"#991111"
 -
   name:"Caro"
   hex:"#ffcac3"
@@ -9494,6 +9503,9 @@
   name:"Cement"
   hex:"#a5a391"
 -
+  name:"Cement Feet"
+  hex:"#7b737b"
+-
   name:"Cemetery Ash"
   hex:"#c0c7d0"
 -
@@ -9597,9 +9609,6 @@
   hex:"#708090"
 -
   name:"Chain Mail"
-  hex:"#7b737b"
--
-  name:"Chainmail"
   hex:"#81777f"
 -
   name:"Chalcedony"
@@ -12674,7 +12683,7 @@
   name:"Crossroads"
   hex:"#edd2a3"
 -
-  name:"Crow Wing"
+  name:"Crow"
   hex:"#180614"
 -
   name:"Crowberry"
@@ -12966,13 +12975,13 @@
   hex:"#d8c8be"
 -
   name:"Curry"
-  hex:"#be9e6f"
+  hex:"#d6a332"
 -
   name:"Curry Powder"
   hex:"#cc6600"
 -
   name:"Curry Sauce"
-  hex:"#d6a332"
+  hex:"#be9e6f"
 -
   name:"Currywurst"
   hex:"#ddaa33"
@@ -13222,6 +13231,9 @@
 -
   name:"Dandelion Yellow"
   hex:"#fcd93b"
+-
+  name:"Danger"
+  hex:"#ff0e0e"
 -
   name:"Danger Ridge"
   hex:"#595539"
@@ -16702,6 +16714,9 @@
 -
   name:"Eunry"
   hex:"#cda59c"
+-
+  name:"Euphoria"
+  hex:"#eebbff"
 -
   name:"Euro Linen"
   hex:"#f2e8db"
@@ -22804,6 +22819,9 @@
 -
   name:"Herbery Honey"
   hex:"#eeee22"
+-
+  name:"Herbivore"
+  hex:"#88ee77"
 -
   name:"Here Comes the Sun"
   hex:"#fcdf63"
@@ -31934,6 +31952,9 @@
   name:"Mosaic Tile"
   hex:"#1c6b69"
 -
+  name:"Moscow Mule"
+  hex:"#eecc77"
+-
   name:"Moscow Papyrus"
   hex:"#937c00"
 -
@@ -36944,6 +36965,9 @@
   name:"Pimm's"
   hex:"#c3585c"
 -
+  name:"Pina Colada"
+  hex:"#f4deb3"
+-
   name:"Pinafore Blue"
   hex:"#7198c0"
 -
@@ -38845,6 +38869,9 @@
 -
   name:"Prosecco"
   hex:"#fad6a5"
+-
+  name:"Protein High"
+  hex:"#ff8866"
 -
   name:"Proton Red"
   hex:"#840804"
@@ -52999,6 +53026,12 @@
 -
   name:"Whisky"
   hex:"#c2877b"
+-
+  name:"Whisky Cola"
+  hex:"#772233"
+-
+  name:"Whisky Sour"
+  hex:"#eeaa33"
 -
   name:"Whisper"
   hex:"#efe6e6"
