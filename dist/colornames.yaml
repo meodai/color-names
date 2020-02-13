@@ -5834,6 +5834,9 @@
   name:"Blue Overdose"
   hex:"#0000ee"
 -
+  name:"Blue Oyster Cult"
+  hex:"#5577ee"
+-
   name:"Blue Paisley"
   hex:"#2282a8"
 -
@@ -11398,6 +11401,9 @@
 -
   name:"Cola Bubble"
   hex:"#3c3024"
+-
+  name:"Cold Blooded"
+  hex:"#bbeeee"
 -
   name:"Cold Brew Coffee"
   hex:"#785736"
@@ -18893,6 +18899,9 @@
   name:"Fright Night"
   hex:"#004499"
 -
+  name:"Frijid Pink"
+  hex:"#ee77ff"
+-
   name:"Frilled Shark"
   hex:"#939fa9"
 -
@@ -21143,6 +21152,9 @@
   name:"Green Darner Tail"
   hex:"#75bbfd"
 -
+  name:"Green Day"
+  hex:"#bbee88"
+-
   name:"Green Daze"
   hex:"#8bd3c6"
 -
@@ -22024,6 +22036,9 @@
 -
   name:"Gunny Sack"
   hex:"#dcd3bc"
+-
+  name:"Guns N' Roses"
+  hex:"#ff0077"
 -
   name:"Gunsmoke"
   hex:"#7a7c76"
@@ -40337,6 +40352,9 @@
   name:"Red Hot"
   hex:"#dd0033"
 -
+  name:"Red Hot Chili Pepper"
+  hex:"#db1d27"
+-
   name:"Red Hot Jazz"
   hex:"#773c31"
 -
@@ -42824,6 +42842,9 @@
   name:"Sassy Pink"
   hex:"#f6cefc"
 -
+  name:"Satan"
+  hex:"#e63626"
+-
   name:"Satellite"
   hex:"#9f8d89"
 -
@@ -45206,6 +45227,9 @@
   name:"Smashed Pumpkin"
   hex:"#ff6d3a"
 -
+  name:"Smashing Pumpkins"
+  hex:"#ff5522"
+-
   name:"Smell of Garlic"
   hex:"#d9ddcb"
 -
@@ -46277,6 +46301,9 @@
   name:"Spiced Wine"
   hex:"#664942"
 -
+  name:"Spicy"
+  hex:"#ff1111"
+-
   name:"Spicy Hummus"
   hex:"#eebbaa"
 -
@@ -46291,9 +46318,6 @@
 -
   name:"Spicy Pink"
   hex:"#ff1cae"
--
-  name:"Spicy Red"
-  hex:"#ff1111"
 -
   name:"Spicy Tomato"
   hex:"#c75433"
@@ -46660,6 +46684,9 @@
 -
   name:"Squirt"
   hex:"#95bcc5"
+-
+  name:"Sriracha"
+  hex:"#f56961"
 -
   name:"St. Augustine"
   hex:"#d0ddcc"
@@ -54238,6 +54265,9 @@
 -
   name:"Wrought Iron Gate"
   hex:"#474749"
+-
+  name:"Wu-Tang Gold"
+  hex:"#f8d106"
 -
   name:"Wulfenite"
   hex:"#ce7639"
