@@ -2750,6 +2750,7 @@
 --color-cal-poly-pomona-green:#1e4d2b;
 --color-calabash:#f8eb97;
 --color-calabash-clash:#728478;
+--color-calabrese:#f4a6a3;
 --color-calamansi:#fcffa4;
 --color-calamansi-green:#c4cc7a;
 --color-calc-sinter:#e7e1dd;
@@ -4901,6 +4902,7 @@
 --color-distant-cloud:#e5eae6;
 --color-distant-flare:#ead1da;
 --color-distant-haze:#dfe4da;
+--color-distant-homeworld:#acdcee;
 --color-distant-horizon:#f1f8fa;
 --color-distant-landscape:#e1efdd;
 --color-distant-searchlight:#f2f3ce;
@@ -6377,6 +6379,7 @@
 --color-fuchsia-flock:#ab446b;
 --color-fuchsia-fluorish:#bb2299;
 --color-fúchsia-intenso:#d800cc;
+--color-fuchsia-nebula:#7722aa;
 --color-fuchsia-pink:#ff77ff;
 --color-fuchsia-purple:#d33479;
 --color-fuchsia-red:#ab3475;
@@ -6574,7 +6577,7 @@
 --color-ghostly-green:#d9d7b8;
 --color-ghostly-grey:#ccccd3;
 --color-ghostwaver:#e2dbdb;
---color-ghoul-skin:#667744;
+--color-ghoul:#667744;
 --color-giant-onion:#665d9e;
 --color-giants-club:#b05c52;
 --color-giants-orange:#fe5a1d;
@@ -7318,7 +7321,7 @@
 --color-guide-pink:#eb4962;
 --color-guiding-star:#fee9da;
 --color-guilliman-blue:#6495ed;
---color-guinea-pig-brown:#987654;
+--color-guinea-pig:#987654;
 --color-guinea-pig-white:#e8e4d6;
 --color-guitar:#6b4c37;
 --color-gulābī-pink:#c772c0;
@@ -7568,7 +7571,7 @@
 --color-hedge-green:#768a75;
 --color-hedgehog-mushroom:#faf0da;
 --color-hēi-sè-black:#142030;
---color-heidelberg-red[2]:#960117;
+--color-heidelberg-red:#960117;
 --color-heifer:#c3bdb1;
 --color-heirloom-lilac:#9d96b2;
 --color-heirloom-rose:#d182a0;
@@ -7739,7 +7742,7 @@
 --color-holiday-camp:#6d9e7a;
 --color-holland-tile:#dd9789;
 --color-holland-tulip:#f89851;
---color-hollandaise-yellow:#ffee44;
+--color-hollandaise:#ffee44;
 --color-hollow-knight:#330055;
 --color-holly:#25342b;
 --color-holly-berry:#b44e5d;
@@ -7758,7 +7761,6 @@
 --color-home-body:#f3d2b2;
 --color-home-brew:#897b66;
 --color-home-plate:#f7eedb;
---color-home-world:#2299dd;
 --color-homebush:#726e69;
 --color-homeopathic:#5f7c47;
 --color-homeopathic-blue:#dbe7e3;
@@ -7772,7 +7774,7 @@
 --color-homeopathic-yellow:#ede7d7;
 --color-homestead:#ac8674;
 --color-homestead-red:#986e6e;
---color-homeworld:#acdcee;
+--color-homeworld:#2299dd;
 --color-honed-steel:#867c83;
 --color-honesty:#dfebe9;
 --color-honey:#ba9238;
@@ -7908,7 +7910,7 @@
 --color-hugo:#e6cfcc;
 --color-hūi-sè-grey:#c1c6d3;
 --color-hula-girl:#929264;
---color-hulk-green:#008000;
+--color-hulk:#008000;
 --color-hull-red:#4d140b;
 --color-humble-hippo:#aaaa99;
 --color-humboldt-redwoods:#1f6357;
@@ -7938,7 +7940,7 @@
 --color-hyacinth-dream:#807388;
 --color-hyacinth-red:#a75536;
 --color-hyacinth-violet:#8d4687;
---color-hydra-blue:#006995;
+--color-hydra:#006995;
 --color-hydra-turquoise:#007a73;
 --color-hydrangea:#849bcc;
 --color-hydrangea-floret:#e6eae0;
@@ -8166,6 +8168,7 @@
 --color-inspiration-peak:#4fa183;
 --color-instant:#d9cec7;
 --color-instant-classic:#e3dac6;
+--color-instant-noodles:#f4d493;
 --color-instant-orange:#ff8d28;
 --color-instant-relief:#ede7d2;
 --color-instigate:#ada7c8;
@@ -8225,6 +8228,7 @@
 --color-iron:#5e5e5e;
 --color-iron-creek:#50676b;
 --color-iron-earth:#8aa1a6;
+--color-iron-fist:#cbcdcd;
 --color-iron-fixture:#5d5b5b;
 --color-iron-flint:#6e3b31;
 --color-iron-gate:#4e5055;
@@ -8534,7 +8538,7 @@
 --color-katmandu:#ad9a5d;
 --color-katsura:#c9e3cc;
 --color-katydid:#66bc91;
---color-kazakhstan-flag-yellow:#fec50c;
+--color-kazakhstan-yellow:#fec50c;
 --color-keel-joy:#d49595;
 --color-keen-green:#226600;
 --color-keepsake:#c0ced6;
@@ -8625,7 +8629,7 @@
 --color-kinky-koala:#bb00bb;
 --color-kinlock:#7f7793;
 --color-kinsusutake-brown:#7d4e2d;
---color-kirby-pink:#d74894;
+--color-kirby:#d74894;
 --color-kiri-mist:#c5c5d3;
 --color-kiriume-red:#8b352d;
 --color-kislev-flesh:#efcdcb;
@@ -9031,7 +9035,7 @@
 --color-life-aquatic:#a2b0a8;
 --color-life-lesson:#c5cabe;
 --color-lifeboat-blue:#81b6bc;
---color-lifeguard-red:#e50000;
+--color-lifeguard:#e50000;
 --color-lifeless-planet:#e6d699;
 --color-lifeline:#990033;
 --color-ligado:#cdd6c2;
@@ -9107,7 +9111,6 @@
 --color-light-frosty-dawn:#d7efd5;
 --color-light-frozen-frappe:#e6d2dc;
 --color-light-gentle-calm:#d2d9cd;
---color-light-ghost-town:#d4cfcc;
 --color-light-ghosting:#d7d3ca;
 --color-light-glaze:#c0b5aa;
 --color-light-green:#76ff7b;
@@ -9217,7 +9220,7 @@
 --color-light-relax:#caddde;
 --color-light-ridge-light:#c3d5e5;
 --color-light-roast:#615544;
---color-light-rose-aspect:#f4d4d6;
+--color-light-rose:#f4d4d6;
 --color-light-rose-romantic:#f3dcd8;
 --color-light-salome:#ccf1e3;
 --color-light-salt-spray:#bbd3da;
@@ -9487,6 +9490,7 @@
 --color-loafer:#dbd9c2;
 --color-lobaria-lichen:#9fc8b2;
 --color-loblolly:#b3bbb7;
+--color-lobster:#bb240c;
 --color-lobster-bisque:#dd9289;
 --color-lobster-brown:#a73836;
 --color-lobster-butter-sauce:#cc8811;
@@ -9516,6 +9520,7 @@
 --color-lone-pine:#575a44;
 --color-lonely-road:#947754;
 --color-lonestar:#522426;
+--color-long-beach:#faefdf;
 --color-long-forgotten-purple:#a1759c;
 --color-long-island-sound:#95d0fc;
 --color-long-lake:#68757e;
@@ -9589,12 +9594,14 @@
 --color-lucky-dog:#d3c8ba;
 --color-lucky-duck:#f4ecd7;
 --color-lucky-lime:#9acd32;
+--color-lucky-lobster:#cc3322;
 --color-lucky-orange:#ff7700;
 --color-lucky-penny:#bc6f37;
 --color-lucky-point:#292d4f;
 --color-lucky-shamrock:#487a7b;
+--color-ludicrous-lemming:#bb8877;
 --color-lugganath-orange:#f7a58b;
---color-luigi-green:#4cbb17;
+--color-luigi:#4cbb17;
 --color-lull-wind:#c3d5e8;
 --color-lumber:#ffe4cd;
 --color-lumberjack:#9d4542;
@@ -9615,6 +9622,7 @@
 --color-lunar-light:#9b959c;
 --color-lunar-rays:#caced2;
 --color-lunar-rock:#c5c5c5;
+--color-lunatic-lynx:#ddaa88;
 --color-lunatic-sky-dancer:#76fda8;
 --color-lunette:#d0c8c6;
 --color-lupin-grey:#d1e0e9;
@@ -9655,9 +9663,10 @@
 --color-lyons-blue:#005871;
 --color-lyrebird:#0087ad;
 --color-lythrum:#72696f;
---color-m.-bison-red:#b4023d;
+--color-m.-bison:#b4023d;
 --color-maastricht-blue:#001c3d;
 --color-mabel:#cbe8e8;
+--color-macabre:#880033;
 --color-macadamia:#e4cfb6;
 --color-macadamia-nut:#eee3dd;
 --color-macaroni-and-cheese:#ffb97b;
@@ -9669,7 +9678,7 @@
 --color-machine-green:#a6a23f;
 --color-machine-gun-metal:#454545;
 --color-machine-oil:#f1e782;
---color-machined-iron:#cbcdcd;
+--color-machinery:#9999aa;
 --color-machu-picchu-gardens:#99bb33;
 --color-mack-creek:#bfae5b;
 --color-mackintosh-midnight:#41434e;
@@ -9771,6 +9780,7 @@
 --color-maize:#f4d054;
 --color-maizena:#fbec5e;
 --color-majestic:#5d4250;
+--color-majestic-magenta:#ee4488;
 --color-majestic-magic:#555570;
 --color-majesty:#593761;
 --color-majin-bū-pink:#ffaacc;
@@ -9814,7 +9824,7 @@
 --color-man-cave:#816045;
 --color-man-friday:#3c4c5d;
 --color-mana:#b09737;
---color-mana-tree-green:#4f7942;
+--color-mana-tree:#4f7942;
 --color-manakin:#94bbda;
 --color-manatee:#8d90a1;
 --color-mandalay:#b57b2e;
@@ -9886,7 +9896,7 @@
 --color-marine-tinge:#33a3b3;
 --color-marine-wonder:#1f7073;
 --color-mariner:#42639f;
---color-mario-red:#e4000f;
+--color-mario:#e4000f;
 --color-marionberry:#380282;
 --color-maritime:#bdcfea;
 --color-maritime-blue:#27293d;
@@ -9903,7 +9913,7 @@
 --color-marrakesh-red:#783b3c;
 --color-marron:#6e4c4b;
 --color-marrs-green:#008c8c;
---color-mars-brown:#ad6242;
+--color-mars:#ad6242;
 --color-mars-red:#bc2731;
 --color-marsala:#964f4c;
 --color-marsh:#5c5337;
@@ -9940,7 +9950,8 @@
 --color-masked-mauve:#c6b2be;
 --color-masoho-red:#d57c6b;
 --color-master:#3a4b61;
---color-master-chief-green:#507d2a;
+--color-master-chief:#507d2a;
+--color-master-key:#ddcc88;
 --color-master-round-yellow:#e78303;
 --color-master-sword-blue:#00ffee;
 --color-masuhana-blue:#4d646c;
@@ -9954,6 +9965,7 @@
 --color-matsuba-green:#454d32;
 --color-matt-black:#151515;
 --color-matt-blue:#2c6fbb;
+--color-matt-demon:#dd4433;
 --color-matt-green:#39ad48;
 --color-matt-lilac:#dec6d3;
 --color-matt-pink:#ffb6c1;
@@ -10474,8 +10486,7 @@
 --color-misty-violet:#dbd7e4;
 --color-mitchell-blue:#0d789f;
 --color-mithril:#878787;
---color-mithril-silver:#b8b8bf;
---color-mithril-silver-/-silver:#bbbbc1;
+--color-mithril-silver:#bbbbc1;
 --color-mix-or-match:#ccccba;
 --color-miyamoto-red:#e4030f;
 --color-miyazaki-verdant:#6fea3e;
@@ -10948,7 +10959,6 @@
 --color-neapolitan-blue:#4d7faa;
 --color-nearsighted:#c8d5dd;
 --color-nebula:#b8c6be;
---color-nebula-fuchsia:#7722aa;
 --color-nebula-outpost:#922b9c;
 --color-nebulas-blue:#2d62a3;
 --color-nebulous:#c4b9b8;
@@ -10999,6 +11009,7 @@
 --color-never-forget:#a67283;
 --color-nevergreen:#666556;
 --color-neverland:#9ce5d6;
+--color-nevermind-nirvana:#7bc8f6;
 --color-new-amber:#6d3b24;
 --color-new-bamboo:#adac84;
 --color-new-brick-red:#cb4154;
@@ -11093,11 +11104,10 @@
 --color-níng-méng-huáng-lemon:#ffef19;
 --color-ninja-turtle:#94b1a9;
 --color-ninjin-orange:#e5aa70;
---color-nipple-pink:#bb7777;
+--color-nipple:#bb7777;
 --color-nippon:#bc002c;
 --color-nirvana:#a2919b;
 --color-nirvana-jewel:#64a5ad;
---color-nirvana-nevermind:#7bc8f6;
 --color-nisemurasaki-purple:#43242a;
 --color-níu-zǎi-sè-denim:#056eee;
 --color-no-need-to-blush:#ffd6dd;
@@ -11192,6 +11202,7 @@
 --color-nursery:#efd0d2;
 --color-nursery-green:#edf0de;
 --color-nurude-brown:#9d896c;
+--color-nut:#9e8a6d;
 --color-nut-brown:#86695e;
 --color-nut-cracker:#816c5b;
 --color-nut-milk:#d9ccc8;
@@ -11804,6 +11815,7 @@
 --color-paper-elephant:#c5d0e6;
 --color-paper-goat:#b1a99f;
 --color-paper-lamb:#f2ebe1;
+--color-paper-plane:#f1ece0;
 --color-paper-sack:#b4a07a;
 --color-paper-tiger:#fdf1af;
 --color-paperboys-lawn:#249148;
@@ -11999,8 +12011,7 @@
 --color-peach-whip:#dbbeb7;
 --color-peach-yellow:#fadfad;
 --color-peachade:#fadfc7;
---color-peaches-n-cream:#eec9a6;
---color-peaches-n-cream:#f4a6a3;
+--color-peachesncream:#eec9a6;
 --color-peachskin:#dfb8b6;
 --color-peachtree:#f3ddcd;
 --color-peachy-bon-bon:#ffd2b9;
@@ -12517,6 +12528,7 @@
 --color-pinkish-tan:#d99b82;
 --color-pinktone:#f9ced1;
 --color-pinky:#fc86aa;
+--color-pinky-swear:#eeaaee;
 --color-pinnacle:#beddd5;
 --color-pinot-noir:#605258;
 --color-pinwheel-geyser:#d2dcde;
@@ -12935,7 +12947,7 @@
 --color-princess-bride:#f4c1c1;
 --color-princess-elle:#f6e9ea;
 --color-princess-kate:#6599a4;
---color-princess-peach-pink:#f878f8;
+--color-princess-peach:#f878f8;
 --color-princess-perfume:#ff85cf;
 --color-princess-pink:#dfb5b0;
 --color-princeton-orange:#ff8f00;
@@ -14935,6 +14947,7 @@
 --color-silverpine:#4e6866;
 --color-silverpine-cyan:#8ae8ff;
 --color-silverton:#bfd9ce;
+--color-silverware:#b8b8bf;
 --color-silvery-moon:#e6e5dc;
 --color-silvery-streak:#d5dbd5;
 --color-simmered-seaweed:#4c3d30;
@@ -16574,6 +16587,7 @@
 --color-tinted-mint:#e3e7c4;
 --color-tinted-rosewood:#e1c8d1;
 --color-tiny-bubbles:#0088ab;
+--color-tiny-ghost-town:#d4cfcc;
 --color-tiny-ribbons:#b98faf;
 --color-tip-of-the-iceberg:#bbe4ea;
 --color-tip-toes:#d8c2cd;

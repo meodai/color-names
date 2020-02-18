@@ -11005,6 +11005,10 @@
 <hex>#728478</hex>
 </color>
 <color>
+<name>Calabrese</name>
+<hex>#f4a6a3</hex>
+</color>
+<color>
 <name>Calamansi</name>
 <hex>#fcffa4</hex>
 </color>
@@ -19609,6 +19613,10 @@
 <hex>#dfe4da</hex>
 </color>
 <color>
+<name>Distant Homeworld</name>
+<hex>#acdcee</hex>
+</color>
+<color>
 <name>Distant Horizon</name>
 <hex>#f1f8fa</hex>
 </color>
@@ -25513,6 +25521,10 @@
 <hex>#d800cc</hex>
 </color>
 <color>
+<name>Fuchsia Nebula</name>
+<hex>#7722aa</hex>
+</color>
+<color>
 <name>Fuchsia Pink</name>
 <hex>#ff77ff</hex>
 </color>
@@ -26301,7 +26313,7 @@
 <hex>#e2dbdb</hex>
 </color>
 <color>
-<name>Ghoul Skin</name>
+<name>Ghoul</name>
 <hex>#667744</hex>
 </color>
 <color>
@@ -29277,7 +29289,7 @@
 <hex>#6495ed</hex>
 </color>
 <color>
-<name>Guinea Pig Brown</name>
+<name>Guinea Pig</name>
 <hex>#987654</hex>
 </color>
 <color>
@@ -30277,7 +30289,7 @@
 <hex>#142030</hex>
 </color>
 <color>
-<name>Heidelberg Red[2]</name>
+<name>Heidelberg Red</name>
 <hex>#960117</hex>
 </color>
 <color>
@@ -30961,7 +30973,7 @@
 <hex>#f89851</hex>
 </color>
 <color>
-<name>Hollandaise Yellow</name>
+<name>Hollandaise</name>
 <hex>#ffee44</hex>
 </color>
 <color>
@@ -31037,10 +31049,6 @@
 <hex>#f7eedb</hex>
 </color>
 <color>
-<name>Home World</name>
-<hex>#2299dd</hex>
-</color>
-<color>
 <name>Homebush</name>
 <hex>#726e69</hex>
 </color>
@@ -31094,7 +31102,7 @@
 </color>
 <color>
 <name>Homeworld</name>
-<hex>#acdcee</hex>
+<hex>#2299dd</hex>
 </color>
 <color>
 <name>Honed Steel</name>
@@ -31637,7 +31645,7 @@
 <hex>#929264</hex>
 </color>
 <color>
-<name>Hulk Green</name>
+<name>Hulk</name>
 <hex>#008000</hex>
 </color>
 <color>
@@ -31757,7 +31765,7 @@
 <hex>#8d4687</hex>
 </color>
 <color>
-<name>Hydra Blue</name>
+<name>Hydra</name>
 <hex>#006995</hex>
 </color>
 <color>
@@ -32669,6 +32677,10 @@
 <hex>#e3dac6</hex>
 </color>
 <color>
+<name>Instant Noodles</name>
+<hex>#f4d493</hex>
+</color>
+<color>
 <name>Instant Orange</name>
 <hex>#ff8d28</hex>
 </color>
@@ -32903,6 +32915,10 @@
 <color>
 <name>Iron Earth</name>
 <hex>#8aa1a6</hex>
+</color>
+<color>
+<name>Iron Fist</name>
+<hex>#cbcdcd</hex>
 </color>
 <color>
 <name>Iron Fixture</name>
@@ -34141,7 +34157,7 @@
 <hex>#66bc91</hex>
 </color>
 <color>
-<name>Kazakhstan Flag Yellow</name>
+<name>Kazakhstan Yellow</name>
 <hex>#fec50c</hex>
 </color>
 <color>
@@ -34505,7 +34521,7 @@
 <hex>#7d4e2d</hex>
 </color>
 <color>
-<name>Kirby Pink</name>
+<name>Kirby</name>
 <hex>#d74894</hex>
 </color>
 <color>
@@ -36129,7 +36145,7 @@
 <hex>#81b6bc</hex>
 </color>
 <color>
-<name>Lifeguard Red</name>
+<name>Lifeguard</name>
 <hex>#e50000</hex>
 </color>
 <color>
@@ -36431,10 +36447,6 @@
 <color>
 <name>Light Gentle Calm</name>
 <hex>#d2d9cd</hex>
-</color>
-<color>
-<name>Light Ghost Town</name>
-<hex>#d4cfcc</hex>
 </color>
 <color>
 <name>Light Ghosting</name>
@@ -36873,7 +36885,7 @@
 <hex>#615544</hex>
 </color>
 <color>
-<name>Light Rose Aspect</name>
+<name>Light Rose</name>
 <hex>#f4d4d6</hex>
 </color>
 <color>
@@ -37953,6 +37965,10 @@
 <hex>#b3bbb7</hex>
 </color>
 <color>
+<name>Lobster</name>
+<hex>#bb240c</hex>
+</color>
+<color>
 <name>Lobster Bisque</name>
 <hex>#dd9289</hex>
 </color>
@@ -38067,6 +38083,10 @@
 <color>
 <name>Lonestar</name>
 <hex>#522426</hex>
+</color>
+<color>
+<name>Long Beach</name>
+<hex>#faefdf</hex>
 </color>
 <color>
 <name>Long Forgotten Purple</name>
@@ -38361,6 +38381,10 @@
 <hex>#9acd32</hex>
 </color>
 <color>
+<name>Lucky Lobster</name>
+<hex>#cc3322</hex>
+</color>
+<color>
 <name>Lucky Orange</name>
 <hex>#ff7700</hex>
 </color>
@@ -38377,11 +38401,15 @@
 <hex>#487a7b</hex>
 </color>
 <color>
+<name>Ludicrous Lemming</name>
+<hex>#bb8877</hex>
+</color>
+<color>
 <name>Lugganath Orange</name>
 <hex>#f7a58b</hex>
 </color>
 <color>
-<name>Luigi Green</name>
+<name>Luigi</name>
 <hex>#4cbb17</hex>
 </color>
 <color>
@@ -38463,6 +38491,10 @@
 <color>
 <name>Lunar Rock</name>
 <hex>#c5c5c5</hex>
+</color>
+<color>
+<name>Lunatic Lynx</name>
+<hex>#ddaa88</hex>
 </color>
 <color>
 <name>Lunatic Sky Dancer</name>
@@ -38625,7 +38657,7 @@
 <hex>#72696f</hex>
 </color>
 <color>
-<name>M. Bison Red</name>
+<name>M. Bison</name>
 <hex>#b4023d</hex>
 </color>
 <color>
@@ -38635,6 +38667,10 @@
 <color>
 <name>Mabel</name>
 <hex>#cbe8e8</hex>
+</color>
+<color>
+<name>Macabre</name>
+<hex>#880033</hex>
 </color>
 <color>
 <name>Macadamia</name>
@@ -38681,8 +38717,8 @@
 <hex>#f1e782</hex>
 </color>
 <color>
-<name>Machined Iron</name>
-<hex>#cbcdcd</hex>
+<name>Machinery</name>
+<hex>#9999aa</hex>
 </color>
 <color>
 <name>Machu Picchu Gardens</name>
@@ -39089,6 +39125,10 @@
 <hex>#5d4250</hex>
 </color>
 <color>
+<name>Majestic Magenta</name>
+<hex>#ee4488</hex>
+</color>
+<color>
 <name>Majestic Magic</name>
 <hex>#555570</hex>
 </color>
@@ -39261,7 +39301,7 @@
 <hex>#b09737</hex>
 </color>
 <color>
-<name>Mana Tree Green</name>
+<name>Mana Tree</name>
 <hex>#4f7942</hex>
 </color>
 <color>
@@ -39549,7 +39589,7 @@
 <hex>#42639f</hex>
 </color>
 <color>
-<name>Mario Red</name>
+<name>Mario</name>
 <hex>#e4000f</hex>
 </color>
 <color>
@@ -39617,7 +39657,7 @@
 <hex>#008c8c</hex>
 </color>
 <color>
-<name>Mars Brown</name>
+<name>Mars</name>
 <hex>#ad6242</hex>
 </color>
 <color>
@@ -39765,8 +39805,12 @@
 <hex>#3a4b61</hex>
 </color>
 <color>
-<name>Master Chief Green</name>
+<name>Master Chief</name>
 <hex>#507d2a</hex>
+</color>
+<color>
+<name>Master Key</name>
+<hex>#ddcc88</hex>
 </color>
 <color>
 <name>Master Round Yellow</name>
@@ -39819,6 +39863,10 @@
 <color>
 <name>Matt Blue</name>
 <hex>#2c6fbb</hex>
+</color>
+<color>
+<name>Matt Demon</name>
+<hex>#dd4433</hex>
 </color>
 <color>
 <name>Matt Green</name>
@@ -41902,10 +41950,6 @@
 </color>
 <color>
 <name>Mithril Silver</name>
-<hex>#b8b8bf</hex>
-</color>
-<color>
-<name>Mithril Silver / Silver</name>
 <hex>#bbbbc1</hex>
 </color>
 <color>
@@ -43797,10 +43841,6 @@
 <hex>#b8c6be</hex>
 </color>
 <color>
-<name>Nebula Fuchsia</name>
-<hex>#7722aa</hex>
-</color>
-<color>
 <name>Nebula Outpost</name>
 <hex>#922b9c</hex>
 </color>
@@ -43999,6 +44039,10 @@
 <color>
 <name>Neverland</name>
 <hex>#9ce5d6</hex>
+</color>
+<color>
+<name>Nevermind Nirvana</name>
+<hex>#7bc8f6</hex>
 </color>
 <color>
 <name>New Amber</name>
@@ -44377,7 +44421,7 @@
 <hex>#e5aa70</hex>
 </color>
 <color>
-<name>Nipple Pink</name>
+<name>Nipple</name>
 <hex>#bb7777</hex>
 </color>
 <color>
@@ -44391,10 +44435,6 @@
 <color>
 <name>Nirvana Jewel</name>
 <hex>#64a5ad</hex>
-</color>
-<color>
-<name>Nirvana Nevermind</name>
-<hex>#7bc8f6</hex>
 </color>
 <color>
 <name>Nisemurasaki Purple</name>
@@ -44771,6 +44811,10 @@
 <color>
 <name>Nurude Brown</name>
 <hex>#9d896c</hex>
+</color>
+<color>
+<name>Nut</name>
+<hex>#9e8a6d</hex>
 </color>
 <color>
 <name>Nut Brown</name>
@@ -47221,6 +47265,10 @@
 <hex>#f2ebe1</hex>
 </color>
 <color>
+<name>Paper Plane</name>
+<hex>#f1ece0</hex>
+</color>
+<color>
 <name>Paper Sack</name>
 <hex>#b4a07a</hex>
 </color>
@@ -48001,12 +48049,8 @@
 <hex>#fadfc7</hex>
 </color>
 <color>
-<name>Peaches 'n' Cream</name>
+<name>Peaches'n'Cream</name>
 <hex>#eec9a6</hex>
-</color>
-<color>
-<name>Peaches N Cream</name>
-<hex>#f4a6a3</hex>
 </color>
 <color>
 <name>Peachskin</name>
@@ -50073,6 +50117,10 @@
 <hex>#fc86aa</hex>
 </color>
 <color>
+<name>Pinky Swear</name>
+<hex>#eeaaee</hex>
+</color>
+<color>
 <name>Pinnacle</name>
 <hex>#beddd5</hex>
 </color>
@@ -51745,7 +51793,7 @@
 <hex>#6599a4</hex>
 </color>
 <color>
-<name>Princess Peach Pink</name>
+<name>Princess Peach</name>
 <hex>#f878f8</hex>
 </color>
 <color>
@@ -52181,7 +52229,7 @@
 <hex>#673a3f</hex>
 </color>
 <color>
-<name>Purple cabbage</name>
+<name>Purple Cabbage</name>
 <hex>#3d34a5</hex>
 </color>
 <color>
@@ -59745,6 +59793,10 @@
 <hex>#bfd9ce</hex>
 </color>
 <color>
+<name>Silverware</name>
+<hex>#b8b8bf</hex>
+</color>
+<color>
 <name>Silvery Moon</name>
 <hex>#e6e5dc</hex>
 </color>
@@ -66299,6 +66351,10 @@
 <color>
 <name>Tiny Bubbles</name>
 <hex>#0088ab</hex>
+</color>
+<color>
+<name>Tiny Ghost Town</name>
+<hex>#d4cfcc</hex>
 </color>
 <color>
 <name>Tiny Ribbons</name>
