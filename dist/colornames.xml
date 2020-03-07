@@ -3149,16 +3149,16 @@
 <hex>#896956</hex>
 </color>
 <color>
-<name>Artemesia</name>
-<hex>#e3ebea</hex>
-</color>
-<color>
 <name>Artemis</name>
 <hex>#d2a96e</hex>
 </color>
 <color>
 <name>Artemis Silver</name>
 <hex>#ddddee</hex>
+</color>
+<color>
+<name>Artemisia</name>
+<hex>#e3ebea</hex>
 </color>
 <color>
 <name>Arterial Blood Red</name>
@@ -3493,7 +3493,7 @@
 <hex>#3b424c</hex>
 </color>
 <color>
-<name>Astrolab Reef</name>
+<name>Astrolabe Reef</name>
 <hex>#2d96ce</hex>
 </color>
 <color>
@@ -11337,6 +11337,10 @@
 <hex>#2e7b52</hex>
 </color>
 <color>
+<name>Canadian Voodoo Grey</name>
+<hex>#b8b7a3</hex>
+</color>
+<color>
 <name>Canal Blue</name>
 <hex>#9cc2c5</hex>
 </color>
@@ -14109,8 +14113,16 @@
 <hex>#378661</hex>
 </color>
 <color>
+<name>Chrysolite</name>
+<hex>#8e9849</hex>
+</color>
+<color>
 <name>Chrysomela Goettingensis</name>
 <hex>#39334a</hex>
+</color>
+<color>
+<name>Chrysoprase</name>
+<hex>#adba98</hex>
 </color>
 <color>
 <name>Chuff Blue</name>
@@ -14274,10 +14286,6 @@
 </color>
 <color>
 <name>Cipollino</name>
-<hex>#f0cfa0</hex>
-</color>
-<color>
-<name>Cippolino</name>
 <hex>#c8cec3</hex>
 </color>
 <color>
@@ -15269,7 +15277,7 @@
 <hex>#262335</hex>
 </color>
 <color>
-<name>Cold Turbulance</name>
+<name>Cold Turbulence</name>
 <hex>#cfe1ef</hex>
 </color>
 <color>
@@ -15333,7 +15341,7 @@
 <hex>#7cb77b</hex>
 </color>
 <color>
-<name>Colorada Bronze</name>
+<name>Colorado Bronze</name>
 <hex>#ee7766</hex>
 </color>
 <color>
@@ -15405,7 +15413,7 @@
 <hex>#edece6</hex>
 </color>
 <color>
-<name>Common Calcedony</name>
+<name>Common Chalcedony</name>
 <hex>#c8ad7f</hex>
 </color>
 <color>
@@ -15893,7 +15901,7 @@
 <hex>#068e9e</hex>
 </color>
 <color>
-<name>Coral Cornsnake</name>
+<name>Coral Corn Snake</name>
 <hex>#e9adca</hex>
 </color>
 <color>
@@ -17083,14 +17091,6 @@
 <color>
 <name>Cryptic Light</name>
 <hex>#6d434e</hex>
-</color>
-<color>
-<name>Crysolite</name>
-<hex>#8e9849</hex>
-</color>
-<color>
-<name>Crysoprase</name>
-<hex>#adba98</hex>
 </color>
 <color>
 <name>Crystal</name>
@@ -21169,7 +21169,7 @@
 <hex>#ffa565</hex>
 </color>
 <color>
-<name>Echinoida Torns</name>
+<name>Echinoida Thorns</name>
 <hex>#ffa756</hex>
 </color>
 <color>
@@ -25549,7 +25549,7 @@
 <hex>#ab446b</hex>
 </color>
 <color>
-<name>Fuchsia Fluorish</name>
+<name>Fuchsia Flourish</name>
 <hex>#bb2299</hex>
 </color>
 <color>
@@ -25919,10 +25919,6 @@
 <color>
 <name>Ganache</name>
 <hex>#34292a</hex>
-</color>
-<color>
-<name>Ganadian Voodoo Grey</name>
-<hex>#b8b7a3</hex>
 </color>
 <color>
 <name>Gangsters Gold</name>
@@ -31957,6 +31953,10 @@
 <hex>#cee5df</hex>
 </color>
 <color>
+<name>Ice Drop</name>
+<hex>#d3e2ee</hex>
+</color>
+<color>
 <name>Ice Effect</name>
 <hex>#cbeaee</hex>
 </color>
@@ -32063,10 +32063,6 @@
 <color>
 <name>Iced Watermelon</name>
 <hex>#d1afb7</hex>
-</color>
-<color>
-<name>Icedrop</name>
-<hex>#d3e2ee</hex>
 </color>
 <color>
 <name>Iceland Poppy</name>
@@ -33797,6 +33793,10 @@
 <hex>#7fb377</hex>
 </color>
 <color>
+<name>Journey to the Sky</name>
+<hex>#cdeced</hex>
+</color>
+<color>
 <name>Joust Blue</name>
 <hex>#55aaff</hex>
 </color>
@@ -33967,10 +33967,6 @@
 <color>
 <name>Jurassic Park</name>
 <hex>#3c663e</hex>
-</color>
-<color>
-<name>Jurney to the Sky</name>
-<hex>#cdeced</hex>
 </color>
 <color>
 <name>Just A Tease</name>
@@ -36173,10 +36169,6 @@
 <hex>#c99c59</hex>
 </color>
 <color>
-<name>Lieonhead</name>
-<hex>#d5b60a</hex>
-</color>
-<color>
 <name>Life Aquatic</name>
 <hex>#a2b0a8</hex>
 </color>
@@ -37799,6 +37791,10 @@
 <color>
 <name>Lionfish Red</name>
 <hex>#e03c28</hex>
+</color>
+<color>
+<name>Lionhead</name>
+<hex>#d5b60a</hex>
 </color>
 <color>
 <name>Lionheart</name>
@@ -39953,6 +39949,10 @@
 <hex>#524b4b</hex>
 </color>
 <color>
+<name>Matterhorn Snow</name>
+<hex>#e0fefe</hex>
+</color>
+<color>
 <name>Mature</name>
 <hex>#c4afb3</hex>
 </color>
@@ -40305,7 +40305,7 @@
 <hex>#8d847f</hex>
 </color>
 <color>
-<name>Mechagozilla</name>
+<name>Mechagodzilla</name>
 <hex>#dedce2</hex>
 </color>
 <color>
@@ -40791,10 +40791,6 @@
 <color>
 <name>Mephiston Red</name>
 <hex>#9a1115</hex>
-</color>
-<color>
-<name>Meranda's Spike</name>
-<hex>#614251</hex>
 </color>
 <color>
 <name>Mercer Charcoal</name>
@@ -41819,6 +41815,10 @@
 <color>
 <name>Mirage Grey</name>
 <hex>#abafae</hex>
+</color>
+<color>
+<name>Miranda's Spike</name>
+<hex>#614251</hex>
 </color>
 <color>
 <name>Mirror Mirror</name>
@@ -48157,6 +48157,10 @@
 <hex>#dd7755</hex>
 </color>
 <color>
+<name>Peachy Skin</name>
+<hex>#f0cfa0</hex>
+</color>
+<color>
 <name>Peacoat</name>
 <hex>#2b2e43</hex>
 </color>
@@ -49385,7 +49389,7 @@
 <hex>#eee92d</hex>
 </color>
 <color>
-<name>PikachuChu</name>
+<name>Pikachu Chu</name>
 <hex>#eede73</hex>
 </color>
 <color>
@@ -51181,12 +51185,20 @@
 <hex>#a9998c</hex>
 </color>
 <color>
+<name>Porcelain Goldfish</name>
+<hex>#e1dad9</hex>
+</color>
+<color>
 <name>Porcelain Green</name>
 <hex>#108780</hex>
 </color>
 <color>
 <name>Porcelain Jasper</name>
 <hex>#dfe2e4</hex>
+</color>
+<color>
+<name>Porcelain Mint</name>
+<hex>#dbe7e1</hex>
 </color>
 <color>
 <name>Porcelain Pink</name>
@@ -51613,14 +51625,6 @@
 <hex>#a5be8f</hex>
 </color>
 <color>
-<name>Prcelain Goldfish</name>
-<hex>#e1dad9</hex>
-</color>
-<color>
-<name>Prcelain Mint</name>
-<hex>#dbe7e1</hex>
-</color>
-<color>
 <name>Pre School</name>
 <hex>#b5c2cd</hex>
 </color>
@@ -51721,7 +51725,7 @@
 <hex>#5e6277</hex>
 </color>
 <color>
-<name>Pretencious Peacock</name>
+<name>Pretentious Peacock</name>
 <hex>#4444ff</hex>
 </color>
 <color>
@@ -60709,10 +60713,6 @@
 <hex>#e3e3dc</hex>
 </color>
 <color>
-<name>Snow Drop</name>
-<hex>#eeffcc</hex>
-</color>
-<color>
 <name>Snow Flurry</name>
 <hex>#eaf7c9</hex>
 </color>
@@ -60767,6 +60767,10 @@
 <color>
 <name>Snowbank</name>
 <hex>#e8e9e9</hex>
+</color>
+<color>
+<name>Snowdrop</name>
+<hex>#eeffcc</hex>
 </color>
 <color>
 <name>Snowdrop Explosion</name>
@@ -62969,7 +62973,7 @@
 <hex>#948f82</hex>
 </color>
 <color>
-<name>Storks Bill</name>
+<name>Storksbill</name>
 <hex>#e5e1dd</hex>
 </color>
 <color>
@@ -67009,6 +67013,10 @@
 <hex>#8e9b96</hex>
 </color>
 <color>
+<name>Trans Tasman</name>
+<hex>#307d67</hex>
+</color>
+<color>
 <name>Transcend</name>
 <hex>#c3ac98</hex>
 </color>
@@ -67047,10 +67055,6 @@
 <color>
 <name>Transparent Yellow</name>
 <hex>#ffeeaa</hex>
-</color>
-<color>
-<name>Transtasman</name>
-<hex>#307d67</hex>
 </color>
 <color>
 <name>Travertine</name>
@@ -68697,10 +68701,6 @@
 <hex>#b19bb0</hex>
 </color>
 <color>
-<name>Veinous Blood Red</name>
-<hex>#3f3033</hex>
-</color>
-<color>
 <name>Velvet</name>
 <hex>#750851</hex>
 </color>
@@ -68793,6 +68793,10 @@
 <hex>#66ff22</hex>
 </color>
 <color>
+<name>Venous Blood Red</name>
+<hex>#3f3033</hex>
+</color>
+<color>
 <name>Venus</name>
 <hex>#eed053</hex>
 </color>
@@ -68881,7 +68885,7 @@
 <hex>#00bbaa</hex>
 </color>
 <color>
-<name>Verditter Blue</name>
+<name>Verditer Blue</name>
 <hex>#55aabb</hex>
 </color>
 <color>
@@ -70021,7 +70025,7 @@
 <hex>#af9483</hex>
 </color>
 <color>
-<name>Warm Turbulance</name>
+<name>Warm Turbulence</name>
 <hex>#f3f5dc</hex>
 </color>
 <color>
@@ -71029,7 +71033,7 @@
 <hex>#e6e0d4</hex>
 </color>
 <color>
-<name>White Convulvulus</name>
+<name>White Convolvulus</name>
 <hex>#f4f2f4</hex>
 </color>
 <color>
@@ -71093,7 +71097,7 @@
 <hex>#d6e9ca</hex>
 </color>
 <color>
-<name>White Hamburgh Grapes</name>
+<name>White Hamburg Grapes</name>
 <hex>#e2e6d7</hex>
 </color>
 <color>

@@ -2360,14 +2360,14 @@
   name:"Art and Craft"
   hex:"#896956"
 -
-  name:"Artemesia"
-  hex:"#e3ebea"
--
   name:"Artemis"
   hex:"#d2a96e"
 -
   name:"Artemis Silver"
   hex:"#ddddee"
+-
+  name:"Artemisia"
+  hex:"#e3ebea"
 -
   name:"Arterial Blood Red"
   hex:"#711518"
@@ -2618,7 +2618,7 @@
   name:"Astrogranite Debris"
   hex:"#3b424c"
 -
-  name:"Astrolab Reef"
+  name:"Astrolabe Reef"
   hex:"#2d96ce"
 -
   name:"Astronaut"
@@ -8501,6 +8501,9 @@
   name:"Canadian Pine"
   hex:"#2e7b52"
 -
+  name:"Canadian Voodoo Grey"
+  hex:"#b8b7a3"
+-
   name:"Canal Blue"
   hex:"#9cc2c5"
 -
@@ -10580,8 +10583,14 @@
   name:"Chrysocolla Green"
   hex:"#378661"
 -
+  name:"Chrysolite"
+  hex:"#8e9849"
+-
   name:"Chrysomela Goettingensis"
   hex:"#39334a"
+-
+  name:"Chrysoprase"
+  hex:"#adba98"
 -
   name:"Chuff Blue"
   hex:"#91c1c6"
@@ -10704,9 +10713,6 @@
   hex:"#aa7691"
 -
   name:"Cipollino"
-  hex:"#f0cfa0"
--
-  name:"Cippolino"
   hex:"#c8cec3"
 -
   name:"Circumorbital Ring"
@@ -11450,7 +11456,7 @@
   name:"Cold Steel"
   hex:"#262335"
 -
-  name:"Cold Turbulance"
+  name:"Cold Turbulence"
   hex:"#cfe1ef"
 -
   name:"Cold Turkey"
@@ -11498,7 +11504,7 @@
   name:"Color Me Green"
   hex:"#7cb77b"
 -
-  name:"Colorada Bronze"
+  name:"Colorado Bronze"
   hex:"#ee7766"
 -
   name:"Colorado Dawn"
@@ -11552,7 +11558,7 @@
   name:"Commercial White"
   hex:"#edece6"
 -
-  name:"Common Calcedony"
+  name:"Common Chalcedony"
   hex:"#c8ad7f"
 -
   name:"Common Chestnut"
@@ -11918,7 +11924,7 @@
   name:"Coral Coast"
   hex:"#068e9e"
 -
-  name:"Coral Cornsnake"
+  name:"Coral Corn Snake"
   hex:"#e9adca"
 -
   name:"Coral Cove"
@@ -12811,12 +12817,6 @@
 -
   name:"Cryptic Light"
   hex:"#6d434e"
--
-  name:"Crysolite"
-  hex:"#8e9849"
--
-  name:"Crysoprase"
-  hex:"#adba98"
 -
   name:"Crystal"
   hex:"#a7d8de"
@@ -15875,7 +15875,7 @@
   name:"Echinoderm"
   hex:"#ffa565"
 -
-  name:"Echinoida Torns"
+  name:"Echinoida Thorns"
   hex:"#ffa756"
 -
   name:"Echo"
@@ -19160,7 +19160,7 @@
   name:"Fuchsia Flock"
   hex:"#ab446b"
 -
-  name:"Fuchsia Fluorish"
+  name:"Fuchsia Flourish"
   hex:"#bb2299"
 -
   name:"Fúchsia Intenso"
@@ -19438,9 +19438,6 @@
 -
   name:"Ganache"
   hex:"#34292a"
--
-  name:"Ganadian Voodoo Grey"
-  hex:"#b8b7a3"
 -
   name:"Gangsters Gold"
   hex:"#ffdd22"
@@ -23966,6 +23963,9 @@
   name:"Ice Dagger"
   hex:"#cee5df"
 -
+  name:"Ice Drop"
+  hex:"#d3e2ee"
+-
   name:"Ice Effect"
   hex:"#cbeaee"
 -
@@ -24046,9 +24046,6 @@
 -
   name:"Iced Watermelon"
   hex:"#d1afb7"
--
-  name:"Icedrop"
-  hex:"#d3e2ee"
 -
   name:"Iceland Poppy"
   hex:"#f4963a"
@@ -25346,6 +25343,9 @@
   name:"Joshua Tree"
   hex:"#7fb377"
 -
+  name:"Journey to the Sky"
+  hex:"#cdeced"
+-
   name:"Joust Blue"
   hex:"#55aaff"
 -
@@ -25474,9 +25474,6 @@
 -
   name:"Jurassic Park"
   hex:"#3c663e"
--
-  name:"Jurney to the Sky"
-  hex:"#cdeced"
 -
   name:"Just A Tease"
   hex:"#fbd6d2"
@@ -27128,9 +27125,6 @@
   name:"Liddell"
   hex:"#c99c59"
 -
-  name:"Lieonhead"
-  hex:"#d5b60a"
--
   name:"Life Aquatic"
   hex:"#a2b0a8"
 -
@@ -28348,6 +28342,9 @@
 -
   name:"Lionfish Red"
   hex:"#e03c28"
+-
+  name:"Lionhead"
+  hex:"#d5b60a"
 -
   name:"Lionheart"
   hex:"#cc2222"
@@ -29963,6 +29960,9 @@
   name:"Matterhorn"
   hex:"#524b4b"
 -
+  name:"Matterhorn Snow"
+  hex:"#e0fefe"
+-
   name:"Mature"
   hex:"#c4afb3"
 -
@@ -30227,7 +30227,7 @@
   name:"Mecha Grey"
   hex:"#8d847f"
 -
-  name:"Mechagozilla"
+  name:"Mechagodzilla"
   hex:"#dedce2"
 -
   name:"Mechanicus Standard Grey"
@@ -30592,9 +30592,6 @@
 -
   name:"Mephiston Red"
   hex:"#9a1115"
--
-  name:"Meranda's Spike"
-  hex:"#614251"
 -
   name:"Mercer Charcoal"
   hex:"#aca495"
@@ -31363,6 +31360,9 @@
 -
   name:"Mirage Grey"
   hex:"#abafae"
+-
+  name:"Miranda's Spike"
+  hex:"#614251"
 -
   name:"Mirror Mirror"
   hex:"#a8b0b2"
@@ -36116,6 +36116,9 @@
   name:"Peachy Scene"
   hex:"#dd7755"
 -
+  name:"Peachy Skin"
+  hex:"#f0cfa0"
+-
   name:"Peacoat"
   hex:"#2b2e43"
 -
@@ -37037,7 +37040,7 @@
   name:"Pika Yellow"
   hex:"#eee92d"
 -
-  name:"PikachuChu"
+  name:"Pikachu Chu"
   hex:"#eede73"
 -
   name:"Pike Lake"
@@ -38384,11 +38387,17 @@
   name:"Porcelain Figurines"
   hex:"#a9998c"
 -
+  name:"Porcelain Goldfish"
+  hex:"#e1dad9"
+-
   name:"Porcelain Green"
   hex:"#108780"
 -
   name:"Porcelain Jasper"
   hex:"#dfe2e4"
+-
+  name:"Porcelain Mint"
+  hex:"#dbe7e1"
 -
   name:"Porcelain Pink"
   hex:"#ecd9b9"
@@ -38708,12 +38717,6 @@
   name:"Praying Mantis"
   hex:"#a5be8f"
 -
-  name:"Prcelain Goldfish"
-  hex:"#e1dad9"
--
-  name:"Prcelain Mint"
-  hex:"#dbe7e1"
--
   name:"Pre School"
   hex:"#b5c2cd"
 -
@@ -38789,7 +38792,7 @@
   name:"Presumption"
   hex:"#5e6277"
 -
-  name:"Pretencious Peacock"
+  name:"Pretentious Peacock"
   hex:"#4444ff"
 -
   name:"Pretty in Pink"
@@ -45530,9 +45533,6 @@
   name:"Snow Drift"
   hex:"#e3e3dc"
 -
-  name:"Snow Drop"
-  hex:"#eeffcc"
--
   name:"Snow Flurry"
   hex:"#eaf7c9"
 -
@@ -45574,6 +45574,9 @@
 -
   name:"Snowbank"
   hex:"#e8e9e9"
+-
+  name:"Snowdrop"
+  hex:"#eeffcc"
 -
   name:"Snowdrop Explosion"
   hex:"#e0efe1"
@@ -47225,7 +47228,7 @@
   name:"Stony Creek"
   hex:"#948f82"
 -
-  name:"Storks Bill"
+  name:"Storksbill"
   hex:"#e5e1dd"
 -
   name:"Storksbill White"
@@ -50255,6 +50258,9 @@
   name:"Tranquility"
   hex:"#8e9b96"
 -
+  name:"Trans Tasman"
+  hex:"#307d67"
+-
   name:"Transcend"
   hex:"#c3ac98"
 -
@@ -50284,9 +50290,6 @@
 -
   name:"Transparent Yellow"
   hex:"#ffeeaa"
--
-  name:"Transtasman"
-  hex:"#307d67"
 -
   name:"Travertine"
   hex:"#e2ddc7"
@@ -51521,9 +51524,6 @@
   name:"Veiled Violet"
   hex:"#b19bb0"
 -
-  name:"Veinous Blood Red"
-  hex:"#3f3033"
--
   name:"Velvet"
   hex:"#750851"
 -
@@ -51593,6 +51593,9 @@
   name:"Venomous Green"
   hex:"#66ff22"
 -
+  name:"Venous Blood Red"
+  hex:"#3f3033"
+-
   name:"Venus"
   hex:"#eed053"
 -
@@ -51659,7 +51662,7 @@
   name:"Verditer"
   hex:"#00bbaa"
 -
-  name:"Verditter Blue"
+  name:"Verditer Blue"
   hex:"#55aabb"
 -
   name:"Verdun Green"
@@ -52514,7 +52517,7 @@
   name:"Warm Taupe"
   hex:"#af9483"
 -
-  name:"Warm Turbulance"
+  name:"Warm Turbulence"
   hex:"#f3f5dc"
 -
   name:"Warm Up"
@@ -53270,7 +53273,7 @@
   name:"White Coffee"
   hex:"#e6e0d4"
 -
-  name:"White Convulvulus"
+  name:"White Convolvulus"
   hex:"#f4f2f4"
 -
   name:"White Crest"
@@ -53318,7 +53321,7 @@
   name:"White Green"
   hex:"#d6e9ca"
 -
-  name:"White Hamburgh Grapes"
+  name:"White Hamburg Grapes"
   hex:"#e2e6d7"
 -
   name:"White Heat"

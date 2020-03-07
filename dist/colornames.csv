@@ -786,9 +786,9 @@ Arrowtown,#827a67
 Arrowwood,#bc8d1f
 Arsenic,#3b444b
 Art and Craft,#896956
-Artemesia,#e3ebea
 Artemis,#d2a96e
 Artemis Silver,#ddddee
+Artemisia,#e3ebea
 Arterial Blood Red,#711518
 Artesian Pool,#a6bee1
 Artesian Well,#5eb2aa
@@ -872,7 +872,7 @@ Astro Sunset,#937874
 Astro Zinger,#797eb5
 Astrogranite,#757679
 Astrogranite Debris,#3b424c
-Astrolab Reef,#2d96ce
+Astrolabe Reef,#2d96ce
 Astronaut,#445172
 Astronaut Blue,#214559
 Astronomer,#e8f2eb
@@ -2833,6 +2833,7 @@ Canadian Lake,#8f9aa4
 Canadian Maple,#cab266
 Canadian Pancake,#edd8c3
 Canadian Pine,#2e7b52
+Canadian Voodoo Grey,#b8b7a3
 Canal Blue,#9cc2c5
 Canaletto,#818c72
 Canary,#fdff63
@@ -3526,7 +3527,9 @@ Chronus Blue,#72a8d1
 Chrysanthemum,#be454f
 Chrysanthemum Leaf,#9db8ab
 Chrysocolla Green,#378661
+Chrysolite,#8e9849
 Chrysomela Goettingensis,#39334a
+Chrysoprase,#adba98
 Chuff Blue,#91c1c6
 Chun-Li Blue,#1559db
 Chupacabra Grey,#cfcdcf
@@ -3567,8 +3570,7 @@ Cinnamon Twist,#9f7250
 Cinque Foil,#ffff88
 Cioccolato,#5d3b2e
 Cipher,#aa7691
-Cipollino,#f0cfa0
-Cippolino,#c8cec3
+Cipollino,#c8cec3
 Circumorbital Ring,#6258c4
 Circus,#fc5e30
 Citadel,#748995
@@ -3816,7 +3818,7 @@ Cold Purple,#9d8abf
 Cold Sea Currents,#32545e
 Cold Shoulder,#d4e0ef
 Cold Steel,#262335
-Cold Turbulance,#cfe1ef
+Cold Turbulence,#cfe1ef
 Cold Turkey,#cab5b2
 Cold Water,#d9dfe0
 Cold Wave,#c2e2e3
@@ -3832,7 +3834,7 @@ Colony,#67a195
 Colony Blue,#65769a
 Color Blind,#c6d2de
 Color Me Green,#7cb77b
-Colorada Bronze,#ee7766
+Colorado Bronze,#ee7766
 Colorado Dawn,#e09cab
 Colorado Peach,#e6994c
 Colorado Peak,#9c9ba7
@@ -3850,7 +3852,7 @@ Comforting Cherry,#cc1144
 Comfrey,#5b7961
 Commandes,#0b597c
 Commercial White,#edece6
-Common Calcedony,#c8ad7f
+Common Chalcedony,#c8ad7f
 Common Chestnut,#cd5c5c
 Common Dandelion,#fed85d
 Common Feldspar,#858f94
@@ -3972,7 +3974,7 @@ Coral Candy,#f5d0c9
 Coral Clay,#c2b1a1
 Coral Cloud,#e2a9a1
 Coral Coast,#068e9e
-Coral Cornsnake,#e9adca
+Coral Corn Snake,#e9adca
 Coral Cove,#dda69f
 Coral Cream,#ead6ce
 Coral Dusk,#ffb48a
@@ -4270,8 +4272,6 @@ Crustose Lichen,#c04e01
 Cry Baby Blue,#c3d4e7
 Crypt,#373b40
 Cryptic Light,#6d434e
-Crysolite,#8e9849
-Crysoprase,#adba98
 Crystal,#a7d8de
 Crystal Apple,#cee9a0
 Crystal Ball,#365955
@@ -5291,7 +5291,7 @@ Ebony Wood,#2c3227
 Eburnean,#ffffee
 Eccentricity,#968a9f
 Echinoderm,#ffa565
-Echinoida Torns,#ffa756
+Echinoida Thorns,#ffa756
 Echo,#d7e7e0
 Echo Blue,#a4afcd
 Echo Isles Water,#95b5db
@@ -6386,7 +6386,7 @@ Fuchsia Fever,#ff5599
 Fuchsia Flair,#bb22bb
 Fuchsia Flash,#dd55cc
 Fuchsia Flock,#ab446b
-Fuchsia Fluorish,#bb2299
+Fuchsia Flourish,#bb2299
 Fúchsia Intenso,#d800cc
 Fuchsia Nebula,#7722aa
 Fuchsia Pink,#ff77ff
@@ -6479,7 +6479,6 @@ Gamin,#bfd1af
 Gǎn Lǎn Huáng Olive,#c9ff27
 Gǎn Lǎn Lǜ Green,#658b38
 Ganache,#34292a
-Ganadian Voodoo Grey,#b8b7a3
 Gangsters Gold,#ffdd22
 Ganon Blue,#a4e4fc
 Ganymede,#8b7d82
@@ -7988,6 +7987,7 @@ Ice Cold Stare,#b1d1fc
 Ice Cream Cone,#e3d0bf
 Ice Cube,#afe3d6
 Ice Dagger,#cee5df
+Ice Drop,#d3e2ee
 Ice Effect,#cbeaee
 Ice Fishing,#dcecf5
 Ice Floe,#d8e7e1
@@ -8015,7 +8015,6 @@ Iced Lavender,#c2c7db
 Iced Tulip,#afa9af
 Iced Vovo,#e1a4b2
 Iced Watermelon,#d1afb7
-Icedrop,#d3e2ee
 Iceland Poppy,#f4963a
 Icelandic Blue,#a9adc2
 Icelandic Winds,#d7deeb
@@ -8448,6 +8447,7 @@ Jolly Green,#5e774a
 Jonquil,#eef293
 Jordy Blue,#7aaae0
 Joshua Tree,#7fb377
+Journey to the Sky,#cdeced
 Joust Blue,#55aaff
 Joyful,#f6eec0
 Joyful Poppy,#ebada5
@@ -8491,7 +8491,6 @@ Jupiter,#e1e1e2
 Jupiter Brown,#ac8181
 Jurassic Gold,#e7aa56
 Jurassic Park,#3c663e
-Jurney to the Sky,#cdeced
 Just A Tease,#fbd6d2
 Just Gorgeous,#d6c4c1
 Just Peachy,#f8c275
@@ -9042,7 +9041,6 @@ Lickedy Lick,#b4496c
 Lickety Split,#c3d997
 Licorice,#1a1110
 Liddell,#c99c59
-Lieonhead,#d5b60a
 Life Aquatic,#a2b0a8
 Life Lesson,#c5cabe
 Lifeboat Blue,#81b6bc
@@ -9449,6 +9447,7 @@ Lion King,#dd9933
 Lion of Menecrates,#eeaa66
 Lion's Mane,#e8af49
 Lionfish Red,#e03c28
+Lionhead,#d5b60a
 Lionheart,#cc2222
 Lip Gloss,#dfcdc7
 Lippie,#d16a68
@@ -9987,6 +9986,7 @@ Matt Sage,#b2b9a5
 Matt White,#ffffd4
 Mattar Paneer,#884433
 Matterhorn,#524b4b
+Matterhorn Snow,#e0fefe
 Mature,#c4afb3
 Mature Cognac,#9a463d
 Maud,#988286
@@ -10075,7 +10075,7 @@ Mecca Gold,#c89134
 Mecca Orange,#bd5745
 Mecca Red,#663f3f
 Mecha Grey,#8d847f
-Mechagozilla,#dedce2
+Mechagodzilla,#dedce2
 Mechanicus Standard Grey,#3d4b4d
 Mechrite Red,#a31713
 Medal Bronze,#977547
@@ -10197,7 +10197,6 @@ Mental Floss,#deb4c5
 Mental Note,#eaeede
 Menthol,#c1f9a2
 Mephiston Red,#9a1115
-Meranda's Spike,#614251
 Mercer Charcoal,#aca495
 Merchant Marine Blue,#0343df
 Mercurial,#b6b0a9
@@ -10454,6 +10453,7 @@ Miracle,#898696
 Mirage,#373f43
 Mirage Blue,#636c77
 Mirage Grey,#abafae
+Miranda's Spike,#614251
 Mirror Mirror,#a8b0b2
 Mischief Maker,#954738
 Mischief Mouse,#b7bab9
@@ -12038,6 +12038,7 @@ Peachy Milk,#f3e0d8
 Peachy Pico,#ffccaa
 Peachy Sand,#ffdcb7
 Peachy Scene,#dd7755
+Peachy Skin,#f0cfa0
 Peacoat,#2b2e43
 Peacock Blue,#016795
 Peacock Green,#006a50
@@ -12345,7 +12346,7 @@ Piglet,#ffc0c6
 Pigment Indigo,#4d0082
 Pigskin Puffball,#e8dad1
 Pika Yellow,#eee92d
-PikachuChu,#eede73
+Pikachu Chu,#eede73
 Pike Lake,#6c7779
 Pikkoro Green,#15b01a
 Pīlā Yellow,#ffff55
@@ -12794,8 +12795,10 @@ Porcelain Blue,#95c0cb
 Porcelain Crab,#e9b7a8
 Porcelain Earth,#eeffbb
 Porcelain Figurines,#a9998c
+Porcelain Goldfish,#e1dad9
 Porcelain Green,#108780
 Porcelain Jasper,#dfe2e4
+Porcelain Mint,#dbe7e1
 Porcelain Pink,#ecd9b9
 Porcelain Rose,#ea6b6a
 Porcelain Skin,#ffe7eb
@@ -12902,8 +12905,6 @@ Prancer,#c58380
 Praxeti White,#01b44c
 Prayer Flag,#d59c6a
 Praying Mantis,#a5be8f
-Prcelain Goldfish,#e1dad9
-Prcelain Mint,#dbe7e1
 Pre School,#b5c2cd
 Pre-Raphaelite,#8b7f7a
 Precious Blue,#008389
@@ -12929,7 +12930,7 @@ Pressed Laser Lemon,#fefe22
 Prestige Blue,#303742
 Prestige Green,#154647
 Presumption,#5e6277
-Pretencious Peacock,#4444ff
+Pretentious Peacock,#4444ff
 Pretty in Pink,#fabfe4
 Pretty in Plum,#cc5588
 Pretty Lady,#c3a1b6
@@ -15176,7 +15177,6 @@ Snot Green,#9dc100
 Snow,#fffafa
 Snow Ballet,#def1e7
 Snow Drift,#e3e3dc
-Snow Drop,#eeffcc
 Snow Flurry,#eaf7c9
 Snow Globe,#f4f2e9
 Snow Goose,#c3d9cb
@@ -15191,6 +15191,7 @@ Snow White,#eeffee
 Snow White Blush,#f8afa9
 Snowball Effect,#d9e9e5
 Snowbank,#e8e9e9
+Snowdrop,#eeffcc
 Snowdrop Explosion,#e0efe1
 Snowflake,#eff0f0
 Snowpink,#f1c5c2
@@ -15741,7 +15742,7 @@ Stonewall Grey,#c1c1c1
 Stonewash,#74809a
 Stonish Beige,#ccb49a
 Stony Creek,#948f82
-Storks Bill,#e5e1dd
+Storksbill,#e5e1dd
 Storksbill White,#f2f2e2
 Storm,#444400
 Storm Blue,#507b9c
@@ -16751,6 +16752,7 @@ Tranquil Seashore,#629091
 Tranquil Taupe,#b0a596
 Tranquil Teal,#8ac7bb
 Tranquility,#8e9b96
+Trans Tasman,#307d67
 Transcend,#c3ac98
 Transformer,#a5acb7
 Translucent Silk,#ffe9e1
@@ -16761,7 +16763,6 @@ Transparent Green,#ddffdd
 Transparent Orange,#ffaa66
 Transparent Pink,#ffddee
 Transparent Yellow,#ffeeaa
-Transtasman,#307d67
 Travertine,#e2ddc7
 Treasure Casket,#9b7856
 Treasure Chest,#726854
@@ -17173,7 +17174,6 @@ Veiled Delight,#b2b0bd
 Veiled Rose,#f8cdc9
 Veiled Spotlight,#cfd5d7
 Veiled Violet,#b19bb0
-Veinous Blood Red,#3f3033
 Velvet,#750851
 Velvet Black,#241f20
 Velvet Cape,#623941
@@ -17197,6 +17197,7 @@ Venice Blue,#2c5778
 Venom Dart,#01ff01
 Venom Wyrm,#607038
 Venomous Green,#66ff22
+Venous Blood Red,#3f3033
 Venus,#eed053
 Venus Deathtrap,#fed8b1
 Venus Deva,#8f7974
@@ -17219,7 +17220,7 @@ Verdigris Foncé,#62603e
 Verdigris Green,#61ac86
 Verdigris Roundhead,#558367
 Verditer,#00bbaa
-Verditter Blue,#55aabb
+Verditer Blue,#55aabb
 Verdun Green,#48531a
 Veritably Verdant,#00844b
 Vermicelle,#dabe82
@@ -17504,7 +17505,7 @@ Warm Purple,#952e8f
 Warm Sand,#c5ae91
 Warm Spice,#987744
 Warm Taupe,#af9483
-Warm Turbulance,#f3f5dc
+Warm Turbulence,#f3f5dc
 Warm Up,#9e6654
 Warm Wassail,#a66e68
 Warm Waters,#7ebbc2
@@ -17756,7 +17757,7 @@ White Chalk,#f6f4f1
 White Cherry,#e7dbdd
 White Chocolate,#f0e3c7
 White Coffee,#e6e0d4
-White Convulvulus,#f4f2f4
+White Convolvulus,#f4f2f4
 White Crest,#f9f8ef
 White Currant,#f9ebc5
 White Desert,#fdfaf1
@@ -17772,7 +17773,7 @@ White Gloss,#ffeeee
 White Granite,#c8d1c4
 White Grapes,#bbcc99
 White Green,#d6e9ca
-White Hamburgh Grapes,#e2e6d7
+White Hamburg Grapes,#e2e6d7
 White Heat,#fdf9ef
 White Hot Chocolate,#ead8bb
 White Ice,#d7eee4
