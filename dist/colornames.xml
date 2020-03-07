@@ -8617,6 +8617,10 @@
 <hex>#119944</hex>
 </color>
 <color>
+<name>Bookstone</name>
+<hex>#8c3432</hex>
+</color>
+<color>
 <name>Bookworm</name>
 <hex>#ebe3de</hex>
 </color>
@@ -13385,6 +13389,10 @@
 <hex>#6d1008</hex>
 </color>
 <color>
+<name>Chestnut Butter</name>
+<hex>#bca486</hex>
+</color>
+<color>
 <name>Chestnut Gold</name>
 <hex>#ab8508</hex>
 </color>
@@ -15951,6 +15959,10 @@
 <color>
 <name>Coral Silk</name>
 <hex>#f2a37d</hex>
+</color>
+<color>
+<name>Coral Trails</name>
+<hex>#ff8b87</hex>
 </color>
 <color>
 <name>Coral Tree</name>
@@ -19601,6 +19613,10 @@
 <hex>#e2ecf2</hex>
 </color>
 <color>
+<name>Distant Blue</name>
+<hex>#2c66a0</hex>
+</color>
+<color>
 <name>Distant Cloud</name>
 <hex>#e5eae6</hex>
 </color>
@@ -20055,6 +20071,10 @@
 <color>
 <name>Dream Dust</name>
 <hex>#ebe2e8</hex>
+</color>
+<color>
+<name>Dream Seascape</name>
+<hex>#d5dec3</hex>
 </color>
 <color>
 <name>Dream Setting</name>
@@ -20683,6 +20703,10 @@
 <color>
 <name>Dusty Cedar</name>
 <hex>#dd9592</hex>
+</color>
+<color>
+<name>Dusty Chestnut</name>
+<hex>#847163</hex>
 </color>
 <color>
 <name>Dusty Coral</name>
@@ -21893,6 +21917,10 @@
 <hex>#29598b</hex>
 </color>
 <color>
+<name>Ending Autumn</name>
+<hex>#8b6f64</hex>
+</color>
+<color>
 <name>Ending Dawn</name>
 <hex>#fcc9b9</hex>
 </color>
@@ -21963,6 +21991,10 @@
 <color>
 <name>English Channel Fog</name>
 <hex>#cbd3e6</hex>
+</color>
+<color>
+<name>English Coral</name>
+<hex>#c64a55</hex>
 </color>
 <color>
 <name>English Forest</name>
@@ -22743,6 +22775,10 @@
 <color>
 <name>Faded Rose</name>
 <hex>#bf6464</hex>
+</color>
+<color>
+<name>Faded Sea</name>
+<hex>#8d9cae</hex>
 </color>
 <color>
 <name>Faded Shells</name>
@@ -25955,6 +25991,10 @@
 <color>
 <name>Garden Pond</name>
 <hex>#afc09e</hex>
+</color>
+<color>
+<name>Garden Shadow</name>
+<hex>#334400</hex>
 </color>
 <color>
 <name>Garden Shed</name>
@@ -31015,6 +31055,10 @@
 <color>
 <name>Hollyhock Bloom</name>
 <hex>#b7737d</hex>
+</color>
+<color>
+<name>Hollywood Asparagus</name>
+<hex>#dee7d4</hex>
 </color>
 <color>
 <name>Hollywood Cerise</name>
@@ -36749,6 +36793,10 @@
 <hex>#dcd6d1</hex>
 </color>
 <color>
+<name>Light Pecan Pine</name>
+<hex>#f1eae2</hex>
+</color>
+<color>
 <name>Light Pelican Bill</name>
 <hex>#e1ced4</hex>
 </color>
@@ -39749,6 +39797,10 @@
 <hex>#b7a8a3</hex>
 </color>
 <color>
+<name>Martini East</name>
+<hex>#ce8c8d</hex>
+</color>
+<color>
 <name>Martini Olive</name>
 <hex>#cdc796</hex>
 </color>
@@ -40619,6 +40671,10 @@
 <color>
 <name>Melon Melody</name>
 <hex>#f9c291</hex>
+</color>
+<color>
+<name>Melon Mist</name>
+<hex>#e88092</hex>
 </color>
 <color>
 <name>Melon Pink</name>
@@ -41869,6 +41925,10 @@
 <hex>#bcdbdb</hex>
 </color>
 <color>
+<name>Misty Beach Cattle</name>
+<hex>#f1eedf</hex>
+</color>
+<color>
 <name>Misty Bead</name>
 <hex>#d2d59b</hex>
 </color>
@@ -42593,6 +42653,10 @@
 <hex>#e7d2a9</hex>
 </color>
 <color>
+<name>Morning's Egg</name>
+<hex>#d9be77</hex>
+</color>
+<color>
 <name>Mornington</name>
 <hex>#dcc6b9</hex>
 </color>
@@ -42695,6 +42759,10 @@
 <color>
 <name>Moss Grey</name>
 <hex>#afab97</hex>
+</color>
+<color>
+<name>Moss Ink</name>
+<hex>#c7cac1</hex>
 </color>
 <color>
 <name>Moss Island</name>
@@ -49497,6 +49565,10 @@
 <hex>#9c8f60</hex>
 </color>
 <color>
+<name>Pineapple Salmon</name>
+<hex>#fd645f</hex>
+</color>
+<color>
 <name>Pineapple Slice</name>
 <hex>#e7d391</hex>
 </color>
@@ -49905,6 +49977,10 @@
 <hex>#ffdfe5</hex>
 </color>
 <color>
+<name>Pink Plum</name>
+<hex>#ead2d2</hex>
+</color>
+<color>
 <name>Pink Poison</name>
 <hex>#ff007e</hex>
 </color>
@@ -50253,7 +50329,7 @@
 <hex>#414958</hex>
 </color>
 <color>
-<name>Pita Bread</name>
+<name>Pita</name>
 <hex>#f5e7d2</hex>
 </color>
 <color>
@@ -53535,6 +53611,10 @@
 <color>
 <name>Ravishing Rouge</name>
 <hex>#bb2200</hex>
+</color>
+<color>
+<name>Raw Alabaster</name>
+<hex>#f2eed3</hex>
 </color>
 <color>
 <name>Raw Amethyst</name>
@@ -57781,6 +57861,10 @@
 <hex>#2a2e44</hex>
 </color>
 <color>
+<name>Sea Grape</name>
+<hex>#3300aa</hex>
+</color>
+<color>
 <name>Sea Grass</name>
 <hex>#67ad83</hex>
 </color>
@@ -60857,6 +60941,10 @@
 <hex>#c7d368</hex>
 </color>
 <color>
+<name>Soft Fig</name>
+<hex>#817714</hex>
+</color>
+<color>
 <name>Soft Focus</name>
 <hex>#e2efdd</hex>
 </color>
@@ -61775,6 +61863,10 @@
 <color>
 <name>Spiced Plum</name>
 <hex>#6d4773</hex>
+</color>
+<color>
+<name>Spiced Tea</name>
+<hex>#ab6162</hex>
 </color>
 <color>
 <name>Spiced Up</name>
@@ -72959,6 +73051,10 @@
 <color>
 <name>Young Peach</name>
 <hex>#f2e1d2</hex>
+</color>
+<color>
+<name>Young Plum</name>
+<hex>#acc729</hex>
 </color>
 <color>
 <name>Young Prince</name>
