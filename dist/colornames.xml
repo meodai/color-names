@@ -3606,7 +3606,7 @@
 </color>
 <color>
 <name>Atmosphere</name>
-<hex>#a89c94</hex>
+<hex>#0099dd</hex>
 </color>
 <color>
 <name>Atoll</name>
@@ -5849,6 +5849,10 @@
 <hex>#75495e</hex>
 </color>
 <color>
+<name>Beyond the Clouds</name>
+<hex>#aaeeff</hex>
+</color>
+<color>
 <name>Beyond the Pines</name>
 <hex>#688049</hex>
 </color>
@@ -7401,6 +7405,10 @@
 <hex>#97d5ea</hex>
 </color>
 <color>
+<name>Blue Elemental</name>
+<hex>#5588ee</hex>
+</color>
+<color>
 <name>Blue Emerald</name>
 <hex>#0f5a5e</hex>
 </color>
@@ -8717,6 +8725,10 @@
 <hex>#a2345c</hex>
 </color>
 <color>
+<name>Botanical Beauty</name>
+<hex>#227700</hex>
+</color>
+<color>
 <name>Botanical Garden</name>
 <hex>#5e624a</hex>
 </color>
@@ -8903,6 +8915,10 @@
 <color>
 <name>Brandy Alexander</name>
 <hex>#f3e2dc</hex>
+</color>
+<color>
+<name>Brandy Bear</name>
+<hex>#aa5412</hex>
 </color>
 <color>
 <name>Brandy Brown</name>
@@ -11189,6 +11205,10 @@
 <hex>#c69f59</hex>
 </color>
 <color>
+<name>Camel Cardinal</name>
+<hex>#cc9944</hex>
+</color>
+<color>
 <name>Camel Cord</name>
 <hex>#e0cb82</hex>
 </color>
@@ -13249,6 +13269,10 @@
 <hex>#f5cd82</hex>
 </color>
 <color>
+<name>Cherokee Dignity</name>
+<hex>#dd7722</hex>
+</color>
+<color>
 <name>Cherokee Red</name>
 <hex>#824e4a</hex>
 </color>
@@ -15151,6 +15175,10 @@
 <color>
 <name>Coffee Addiction</name>
 <hex>#883300</hex>
+</color>
+<color>
+<name>Coffee Adept</name>
+<hex>#775511</hex>
 </color>
 <color>
 <name>Coffee Bag</name>
@@ -24049,6 +24077,10 @@
 <hex>#fff1dc</hex>
 </color>
 <color>
+<name>Flickering Sea</name>
+<hex>#5566ee</hex>
+</color>
+<color>
 <name>Flickery C64</name>
 <hex>#4f81ff</hex>
 </color>
@@ -29077,6 +29109,10 @@
 <hex>#49494d</hex>
 </color>
 <color>
+<name>Grey Placidity</name>
+<hex>#dddde2</hex>
+</color>
+<color>
 <name>Grey Porcelain</name>
 <hex>#86837a</hex>
 </color>
@@ -30615,6 +30651,10 @@
 <color>
 <name>Hidden Paradise</name>
 <hex>#5e8b3d</hex>
+</color>
+<color>
+<name>Hidden Tribe</name>
+<hex>#bb9900</hex>
 </color>
 <color>
 <name>Hidden Waters</name>
@@ -36197,10 +36237,6 @@
 <hex>#cdd6c2</hex>
 </color>
 <color>
-<name>Light Air</name>
-<hex>#cce7e8</hex>
-</color>
-<color>
 <name>Light Amourette</name>
 <hex>#d4d3e0</hex>
 </color>
@@ -36651,10 +36687,6 @@
 <color>
 <name>Light Lunette</name>
 <hex>#dcd5d3</hex>
-</color>
-<color>
-<name>Light Mahogany</name>
-<hex>#aa5511</hex>
 </color>
 <color>
 <name>Light Maiden's Blush</name>
@@ -39109,6 +39141,10 @@
 <hex>#82495a</hex>
 </color>
 <color>
+<name>Mahogany Finish</name>
+<hex>#aa5511</hex>
+</color>
+<color>
 <name>Mahogany Rose</name>
 <hex>#c5a193</hex>
 </color>
@@ -39875,6 +39911,14 @@
 <color>
 <name>Mat Dazzle Rose</name>
 <hex>#ff48d0</hex>
+</color>
+<color>
+<name>Match Head</name>
+<hex>#d63756</hex>
+</color>
+<color>
+<name>Match Strike</name>
+<hex>#ffaa44</hex>
 </color>
 <color>
 <name>Matcha Picchu</name>
@@ -44465,6 +44509,10 @@
 <hex>#61c9c1</hex>
 </color>
 <color>
+<name>Nimbus Blue</name>
+<hex>#4422ff</hex>
+</color>
+<color>
 <name>Nimbus Cloud</name>
 <hex>#d5d5d8</hex>
 </color>
@@ -45761,6 +45809,10 @@
 <hex>#1a4c8b</hex>
 </color>
 <color>
+<name>Ombral Grey</name>
+<hex>#848998</hex>
+</color>
+<color>
 <name>Ombre Blue</name>
 <hex>#434854</hex>
 </color>
@@ -46515,6 +46567,10 @@
 <color>
 <name>Overcast Sky</name>
 <hex>#a7b8c4</hex>
+</color>
+<color>
+<name>Overdue Blue</name>
+<hex>#4400ff</hex>
 </color>
 <color>
 <name>Overdue Grey</name>
@@ -53201,6 +53257,10 @@
 <hex>#8d514c</hex>
 </color>
 <color>
+<name>Raging Leaf</name>
+<hex>#dd5500</hex>
+</color>
+<color>
 <name>Raging Raisin</name>
 <hex>#aa3333</hex>
 </color>
@@ -55883,6 +55943,10 @@
 <color>
 <name>Royal Heath</name>
 <hex>#b54b73</hex>
+</color>
+<color>
+<name>Royal Hunter Blue</name>
+<hex>#4411ee</hex>
 </color>
 <color>
 <name>Royal Hunter Green</name>
@@ -59961,6 +60025,10 @@
 <hex>#2b4d68</hex>
 </color>
 <color>
+<name>Sinister Mood</name>
+<hex>#a89c94</hex>
+</color>
+<color>
 <name>Siniy Blue</name>
 <hex>#4c4dff</hex>
 </color>
@@ -60667,6 +60735,10 @@
 <color>
 <name>Snappy Happy</name>
 <hex>#eb8239</hex>
+</color>
+<color>
+<name>Snappy Violet</name>
+<hex>#cc0088</hex>
 </color>
 <color>
 <name>Sneezy</name>
@@ -61669,6 +61741,10 @@
 <hex>#69595c</hex>
 </color>
 <color>
+<name>Sparrow’s Fire</name>
+<hex>#ff6622</hex>
+</color>
+<color>
 <name>Spartacus</name>
 <hex>#76a4a7</hex>
 </color>
@@ -62607,6 +62683,10 @@
 <color>
 <name>Starship</name>
 <hex>#e3dd39</hex>
+</color>
+<color>
+<name>Starship Tonic</name>
+<hex>#cce7e8</hex>
 </color>
 <color>
 <name>Starsilt</name>
@@ -68797,6 +68877,10 @@
 <hex>#3f3033</hex>
 </color>
 <color>
+<name>Ventilated</name>
+<hex>#cde6e8</hex>
+</color>
+<color>
 <name>Venus</name>
 <hex>#eed053</hex>
 </color>
@@ -68935,6 +69019,10 @@
 <color>
 <name>Vermin Brown</name>
 <hex>#8f7303</hex>
+</color>
+<color>
+<name>Verminal</name>
+<hex>#55cc11</hex>
 </color>
 <color>
 <name>Verminlord Hide</name>

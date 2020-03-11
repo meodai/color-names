@@ -2703,7 +2703,7 @@
   hex:"#006477"
 -
   name:"Atmosphere"
-  hex:"#a89c94"
+  hex:"#0099dd"
 -
   name:"Atoll"
   hex:"#2b797a"
@@ -4385,6 +4385,9 @@
   name:"Bewitching"
   hex:"#75495e"
 -
+  name:"Beyond the Clouds"
+  hex:"#aaeeff"
+-
   name:"Beyond the Pines"
   hex:"#688049"
 -
@@ -5549,6 +5552,9 @@
   name:"Blue Effervescence"
   hex:"#97d5ea"
 -
+  name:"Blue Elemental"
+  hex:"#5588ee"
+-
   name:"Blue Emerald"
   hex:"#0f5a5e"
 -
@@ -6536,6 +6542,9 @@
   name:"Bōtan"
   hex:"#a2345c"
 -
+  name:"Botanical Beauty"
+  hex:"#227700"
+-
   name:"Botanical Garden"
   hex:"#5e624a"
 -
@@ -6676,6 +6685,9 @@
 -
   name:"Brandy Alexander"
   hex:"#f3e2dc"
+-
+  name:"Brandy Bear"
+  hex:"#aa5412"
 -
   name:"Brandy Brown"
   hex:"#73362a"
@@ -8390,6 +8402,9 @@
   name:"Camel"
   hex:"#c69f59"
 -
+  name:"Camel Cardinal"
+  hex:"#cc9944"
+-
   name:"Camel Cord"
   hex:"#e0cb82"
 -
@@ -9935,6 +9950,9 @@
   name:"Cherokee"
   hex:"#f5cd82"
 -
+  name:"Cherokee Dignity"
+  hex:"#dd7722"
+-
   name:"Cherokee Red"
   hex:"#824e4a"
 -
@@ -11362,6 +11380,9 @@
 -
   name:"Coffee Addiction"
   hex:"#883300"
+-
+  name:"Coffee Adept"
+  hex:"#775511"
 -
   name:"Coffee Bag"
   hex:"#dbd6d3"
@@ -18035,6 +18056,9 @@
   name:"Flickering Light"
   hex:"#fff1dc"
 -
+  name:"Flickering Sea"
+  hex:"#5566ee"
+-
   name:"Flickery C64"
   hex:"#4f81ff"
 -
@@ -21806,6 +21830,9 @@
   name:"Grey Pinstripe"
   hex:"#49494d"
 -
+  name:"Grey Placidity"
+  hex:"#dddde2"
+-
   name:"Grey Porcelain"
   hex:"#86837a"
 -
@@ -22960,6 +22987,9 @@
 -
   name:"Hidden Paradise"
   hex:"#5e8b3d"
+-
+  name:"Hidden Tribe"
+  hex:"#bb9900"
 -
   name:"Hidden Waters"
   hex:"#225258"
@@ -27146,9 +27176,6 @@
   name:"Ligado"
   hex:"#cdd6c2"
 -
-  name:"Light Air"
-  hex:"#cce7e8"
--
   name:"Light Amourette"
   hex:"#d4d3e0"
 -
@@ -27487,9 +27514,6 @@
 -
   name:"Light Lunette"
   hex:"#dcd5d3"
--
-  name:"Light Mahogany"
-  hex:"#aa5511"
 -
   name:"Light Maiden's Blush"
   hex:"#f6ddce"
@@ -29330,6 +29354,9 @@
   name:"Mahogany Cherry"
   hex:"#82495a"
 -
+  name:"Mahogany Finish"
+  hex:"#aa5511"
+-
   name:"Mahogany Rose"
   hex:"#c5a193"
 -
@@ -29905,6 +29932,12 @@
 -
   name:"Mat Dazzle Rose"
   hex:"#ff48d0"
+-
+  name:"Match Head"
+  hex:"#d63756"
+-
+  name:"Match Strike"
+  hex:"#ffaa44"
 -
   name:"Matcha Picchu"
   hex:"#99bb00"
@@ -33347,6 +33380,9 @@
   name:"Nile Stone"
   hex:"#61c9c1"
 -
+  name:"Nimbus Blue"
+  hex:"#4422ff"
+-
   name:"Nimbus Cloud"
   hex:"#d5d5d8"
 -
@@ -34319,6 +34355,9 @@
   name:"Olympian Blue"
   hex:"#1a4c8b"
 -
+  name:"Ombral Grey"
+  hex:"#848998"
+-
   name:"Ombre Blue"
   hex:"#434854"
 -
@@ -34885,6 +34924,9 @@
 -
   name:"Overcast Sky"
   hex:"#a7b8c4"
+-
+  name:"Overdue Blue"
+  hex:"#4400ff"
 -
   name:"Overdue Grey"
   hex:"#c7c3be"
@@ -39899,6 +39941,9 @@
   name:"Ragin' Cajun"
   hex:"#8d514c"
 -
+  name:"Raging Leaf"
+  hex:"#dd5500"
+-
   name:"Raging Raisin"
   hex:"#aa3333"
 -
@@ -41911,6 +41956,9 @@
 -
   name:"Royal Heath"
   hex:"#b54b73"
+-
+  name:"Royal Hunter Blue"
+  hex:"#4411ee"
 -
   name:"Royal Hunter Green"
   hex:"#3f5948"
@@ -44969,6 +45017,9 @@
   name:"Singing the Blues"
   hex:"#2b4d68"
 -
+  name:"Sinister Mood"
+  hex:"#a89c94"
+-
   name:"Siniy Blue"
   hex:"#4c4dff"
 -
@@ -45499,6 +45550,9 @@
 -
   name:"Snappy Happy"
   hex:"#eb8239"
+-
+  name:"Snappy Violet"
+  hex:"#cc0088"
 -
   name:"Sneezy"
   hex:"#9d7938"
@@ -46250,6 +46304,9 @@
   name:"Sparrow"
   hex:"#69595c"
 -
+  name:"Sparrow’s Fire"
+  hex:"#ff6622"
+-
   name:"Spartacus"
   hex:"#76a4a7"
 -
@@ -46954,6 +47011,9 @@
 -
   name:"Starship"
   hex:"#e3dd39"
+-
+  name:"Starship Tonic"
+  hex:"#cce7e8"
 -
   name:"Starsilt"
   hex:"#758ba4"
@@ -51596,6 +51656,9 @@
   name:"Venous Blood Red"
   hex:"#3f3033"
 -
+  name:"Ventilated"
+  hex:"#cde6e8"
+-
   name:"Venus"
   hex:"#eed053"
 -
@@ -51700,6 +51763,9 @@
 -
   name:"Vermin Brown"
   hex:"#8f7303"
+-
+  name:"Verminal"
+  hex:"#55cc11"
 -
   name:"Verminlord Hide"
   hex:"#a16954"
