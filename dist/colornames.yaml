@@ -113,6 +113,9 @@
   name:"Abyssal Depths"
   hex:"#10246a"
 -
+  name:"Abyssal Waters"
+  hex:"#005765"
+-
   name:"Abyssopelagic Water"
   hex:"#000033"
 -
@@ -2836,6 +2839,9 @@
 -
   name:"Autumn Glow"
   hex:"#e5c382"
+-
+  name:"Autumn Gold"
+  hex:"#7d623c"
 -
   name:"Autumn Grey"
   hex:"#b2aba7"
@@ -9926,6 +9932,9 @@
   name:"Cheddar Chunk"
   hex:"#f9c982"
 -
+  name:"Cheeky Chestnut"
+  hex:"#7b4d3a"
+-
   name:"Cheerful Heart"
   hex:"#dcc7c0"
 -
@@ -11711,6 +11720,9 @@
   name:"Congress Blue"
   hex:"#02478e"
 -
+  name:"Congressional Navy"
+  hex:"#100438"
+-
   name:"Conifer"
   hex:"#b1dd52"
 -
@@ -13046,6 +13058,9 @@
   name:"Curry"
   hex:"#d6a332"
 -
+  name:"Curry Bubbels"
+  hex:"#f5b700"
+-
   name:"Curry Powder"
   hex:"#cc6600"
 -
@@ -13885,6 +13900,9 @@
 -
   name:"Deep Dungeon"
   hex:"#553d3a"
+-
+  name:"Deep Earth"
+  hex:"#4d4b4b"
 -
   name:"Deep Exquisite"
   hex:"#614454"
@@ -15176,6 +15194,9 @@
   name:"Dried Chive"
   hex:"#7b7d69"
 -
+  name:"Dried Dates"
+  hex:"#4a423a"
+-
   name:"Dried Goldenrod"
   hex:"#e2a829"
 -
@@ -16138,6 +16159,9 @@
 -
   name:"Elderberry"
   hex:"#2e2249"
+-
+  name:"Election Night"
+  hex:"#110320"
 -
   name:"Electra"
   hex:"#55b492"
@@ -17395,6 +17419,9 @@
 -
   name:"Farmers Green"
   hex:"#96a69f"
+-
+  name:"Farmers Milk"
+  hex:"#eee3d6"
 -
   name:"Farrago"
   hex:"#456f6e"
@@ -22445,6 +22472,9 @@
   name:"Hard Candy"
   hex:"#ffbbbb"
 -
+  name:"Hard Coal"
+  hex:"#656464"
+-
   name:"Harem Silk"
   hex:"#006383"
 -
@@ -23707,6 +23737,9 @@
 -
   name:"Hot Aquarelle Pink"
   hex:"#ffb3de"
+-
+  name:"Hot Beach"
+  hex:"#fff6d9"
 -
   name:"Hot Bolognese"
   hex:"#cc5511"
@@ -29008,6 +29041,9 @@
 -
   name:"Luscious Leek"
   hex:"#bbcc22"
+-
+  name:"Luscious Lemongrass"
+  hex:"#517933"
 -
   name:"Luscious Lime"
   hex:"#91a673"
@@ -38261,6 +38297,9 @@
   name:"Polignac"
   hex:"#c28799"
 -
+  name:"Polished Apple"
+  hex:"#862a2e"
+-
   name:"Polished Aqua"
   hex:"#77bcb6"
 -
@@ -38277,7 +38316,7 @@
   hex:"#953640"
 -
   name:"Polished Gold"
-  hex:"#eeaa44"
+  hex:"#eeaa55"
 -
   name:"Polished Limestone"
   hex:"#dcd5c8"
@@ -38863,6 +38902,9 @@
 -
   name:"Precious Pink"
   hex:"#f6b5b6"
+-
+  name:"Precious Pumpkin"
+  hex:"#e16233"
 -
   name:"Precision"
   hex:"#2c3944"
@@ -40148,6 +40190,9 @@
   name:"Ramona"
   hex:"#8f9a88"
 -
+  name:"Rampant Rhubarb"
+  hex:"#603231"
+-
   name:"Rampart"
   hex:"#bcb7b1"
 -
@@ -41338,6 +41383,9 @@
 -
   name:"Ripasso"
   hex:"#774041"
+-
+  name:"Ripe Eggplant"
+  hex:"#492d35"
 -
   name:"Ripe Lemon"
   hex:"#f4d81c"
@@ -45647,6 +45695,9 @@
   name:"Snappy Violet"
   hex:"#cc0088"
 -
+  name:"Sneaky Sesame"
+  hex:"#896a46"
+-
   name:"Sneezy"
   hex:"#9d7938"
 -
@@ -46543,6 +46594,9 @@
 -
   name:"Spiced Coral"
   hex:"#d75c5d"
+-
+  name:"Spiced Honey"
+  hex:"#a38061"
 -
   name:"Spiced Hot Chocolate"
   hex:"#53433e"
@@ -47909,6 +47963,9 @@
   name:"Summer Garden"
   hex:"#7aac80"
 -
+  name:"Summer Glow"
+  hex:"#eeaa44"
+-
   name:"Summer Green"
   hex:"#8fb69c"
 -
@@ -48488,6 +48545,9 @@
   name:"Sweet Cream"
   hex:"#f0eae7"
 -
+  name:"Sweet Desire"
+  hex:"#aa33ee"
+-
   name:"Sweet Dough"
   hex:"#dbcbab"
 -
@@ -48499,6 +48559,9 @@
 -
   name:"Sweet Emily"
   hex:"#cbd1e1"
+-
+  name:"Sweet Escape"
+  hex:"#8844ff"
 -
   name:"Sweet Flag"
   hex:"#674196"
@@ -48830,6 +48893,9 @@
   name:"Tall Ships"
   hex:"#0e81b9"
 -
+  name:"Tall Waves"
+  hex:"#5c9bcc"
+-
   name:"Tallarn Flesh"
   hex:"#947e74"
 -
@@ -49123,6 +49189,9 @@
 -
   name:"Tassel Taupe"
   hex:"#9f9291"
+-
+  name:"Tasty Toffee"
+  hex:"#9b6d54"
 -
   name:"Tatami"
   hex:"#deccaf"
@@ -52700,6 +52769,9 @@
   name:"Warm Sand"
   hex:"#c5ae91"
 -
+  name:"Warm Shell"
+  hex:"#ddc9b1"
+-
   name:"Warm Spice"
   hex:"#987744"
 -
@@ -53433,7 +53505,7 @@
   hex:"#e8efec"
 -
   name:"White Beach"
-  hex:"#fff6d9"
+  hex:"#f5efe5"
 -
   name:"White Blaze"
   hex:"#e3e7e1"
@@ -53593,6 +53665,9 @@
 -
   name:"White Scar"
   hex:"#8c9fa1"
+-
+  name:"White Sea"
+  hex:"#d7e5ea"
 -
   name:"White Shadow"
   hex:"#d1d3e0"
@@ -55168,6 +55243,9 @@
 -
   name:"Zǐ Sè Purple"
   hex:"#c94cbe"
+-
+  name:"Zia Olive"
+  hex:"#082903"
 -
   name:"Ziggurat"
   hex:"#81a6aa"

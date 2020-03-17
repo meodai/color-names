@@ -153,6 +153,10 @@
 <hex>#10246a</hex>
 </color>
 <color>
+<name>Abyssal Waters</name>
+<hex>#005765</hex>
+</color>
+<color>
 <name>Abyssopelagic Water</name>
 <hex>#000033</hex>
 </color>
@@ -3783,6 +3787,10 @@
 <color>
 <name>Autumn Glow</name>
 <hex>#e5c382</hex>
+</color>
+<color>
+<name>Autumn Gold</name>
+<hex>#7d623c</hex>
 </color>
 <color>
 <name>Autumn Grey</name>
@@ -13237,6 +13245,10 @@
 <hex>#f9c982</hex>
 </color>
 <color>
+<name>Cheeky Chestnut</name>
+<hex>#7b4d3a</hex>
+</color>
+<color>
 <name>Cheerful Heart</name>
 <hex>#dcc7c0</hex>
 </color>
@@ -15617,6 +15629,10 @@
 <hex>#02478e</hex>
 </color>
 <color>
+<name>Congressional Navy</name>
+<hex>#100438</hex>
+</color>
+<color>
 <name>Conifer</name>
 <hex>#b1dd52</hex>
 </color>
@@ -17397,6 +17413,10 @@
 <hex>#d6a332</hex>
 </color>
 <color>
+<name>Curry Bubbels</name>
+<hex>#f5b700</hex>
+</color>
+<color>
 <name>Curry Powder</name>
 <hex>#cc6600</hex>
 </color>
@@ -18515,6 +18535,10 @@
 <color>
 <name>Deep Dungeon</name>
 <hex>#553d3a</hex>
+</color>
+<color>
+<name>Deep Earth</name>
+<hex>#4d4b4b</hex>
 </color>
 <color>
 <name>Deep Exquisite</name>
@@ -20237,6 +20261,10 @@
 <hex>#7b7d69</hex>
 </color>
 <color>
+<name>Dried Dates</name>
+<hex>#4a423a</hex>
+</color>
+<color>
 <name>Dried Goldenrod</name>
 <hex>#e2a829</hex>
 </color>
@@ -21519,6 +21547,10 @@
 <color>
 <name>Elderberry</name>
 <hex>#2e2249</hex>
+</color>
+<color>
+<name>Election Night</name>
+<hex>#110320</hex>
 </color>
 <color>
 <name>Electra</name>
@@ -23195,6 +23227,10 @@
 <color>
 <name>Farmers Green</name>
 <hex>#96a69f</hex>
+</color>
+<color>
+<name>Farmers Milk</name>
+<hex>#eee3d6</hex>
 </color>
 <color>
 <name>Farrago</name>
@@ -29929,6 +29965,10 @@
 <hex>#ffbbbb</hex>
 </color>
 <color>
+<name>Hard Coal</name>
+<hex>#656464</hex>
+</color>
+<color>
 <name>Harem Silk</name>
 <hex>#006383</hex>
 </color>
@@ -31611,6 +31651,10 @@
 <color>
 <name>Hot Aquarelle Pink</name>
 <hex>#ffb3de</hex>
+</color>
+<color>
+<name>Hot Beach</name>
+<hex>#fff6d9</hex>
 </color>
 <color>
 <name>Hot Bolognese</name>
@@ -38679,6 +38723,10 @@
 <color>
 <name>Luscious Leek</name>
 <hex>#bbcc22</hex>
+</color>
+<color>
+<name>Luscious Lemongrass</name>
+<hex>#517933</hex>
 </color>
 <color>
 <name>Luscious Lime</name>
@@ -51017,6 +51065,10 @@
 <hex>#c28799</hex>
 </color>
 <color>
+<name>Polished Apple</name>
+<hex>#862a2e</hex>
+</color>
+<color>
 <name>Polished Aqua</name>
 <hex>#77bcb6</hex>
 </color>
@@ -51038,7 +51090,7 @@
 </color>
 <color>
 <name>Polished Gold</name>
-<hex>#eeaa44</hex>
+<hex>#eeaa55</hex>
 </color>
 <color>
 <name>Polished Limestone</name>
@@ -51819,6 +51871,10 @@
 <color>
 <name>Precious Pink</name>
 <hex>#f6b5b6</hex>
+</color>
+<color>
+<name>Precious Pumpkin</name>
+<hex>#e16233</hex>
 </color>
 <color>
 <name>Precision</name>
@@ -53533,6 +53589,10 @@
 <hex>#8f9a88</hex>
 </color>
 <color>
+<name>Rampant Rhubarb</name>
+<hex>#603231</hex>
+</color>
+<color>
 <name>Rampart</name>
 <hex>#bcb7b1</hex>
 </color>
@@ -55119,6 +55179,10 @@
 <color>
 <name>Ripasso</name>
 <hex>#774041</hex>
+</color>
+<color>
+<name>Ripe Eggplant</name>
+<hex>#492d35</hex>
 </color>
 <color>
 <name>Ripe Lemon</name>
@@ -60865,6 +60929,10 @@
 <hex>#cc0088</hex>
 </color>
 <color>
+<name>Sneaky Sesame</name>
+<hex>#896a46</hex>
+</color>
+<color>
 <name>Sneezy</name>
 <hex>#9d7938</hex>
 </color>
@@ -62059,6 +62127,10 @@
 <color>
 <name>Spiced Coral</name>
 <hex>#d75c5d</hex>
+</color>
+<color>
+<name>Spiced Honey</name>
+<hex>#a38061</hex>
 </color>
 <color>
 <name>Spiced Hot Chocolate</name>
@@ -63881,6 +63953,10 @@
 <hex>#7aac80</hex>
 </color>
 <color>
+<name>Summer Glow</name>
+<hex>#eeaa44</hex>
+</color>
+<color>
 <name>Summer Green</name>
 <hex>#8fb69c</hex>
 </color>
@@ -64653,6 +64729,10 @@
 <hex>#f0eae7</hex>
 </color>
 <color>
+<name>Sweet Desire</name>
+<hex>#aa33ee</hex>
+</color>
+<color>
 <name>Sweet Dough</name>
 <hex>#dbcbab</hex>
 </color>
@@ -64667,6 +64747,10 @@
 <color>
 <name>Sweet Emily</name>
 <hex>#cbd1e1</hex>
+</color>
+<color>
+<name>Sweet Escape</name>
+<hex>#8844ff</hex>
 </color>
 <color>
 <name>Sweet Flag</name>
@@ -65109,6 +65193,10 @@
 <hex>#0e81b9</hex>
 </color>
 <color>
+<name>Tall Waves</name>
+<hex>#5c9bcc</hex>
+</color>
+<color>
 <name>Tallarn Flesh</name>
 <hex>#947e74</hex>
 </color>
@@ -65499,6 +65587,10 @@
 <color>
 <name>Tassel Taupe</name>
 <hex>#9f9291</hex>
+</color>
+<color>
+<name>Tasty Toffee</name>
+<hex>#9b6d54</hex>
 </color>
 <color>
 <name>Tatami</name>
@@ -70269,6 +70361,10 @@
 <hex>#c5ae91</hex>
 </color>
 <color>
+<name>Warm Shell</name>
+<hex>#ddc9b1</hex>
+</color>
+<color>
 <name>Warm Spice</name>
 <hex>#987744</hex>
 </color>
@@ -71246,7 +71342,7 @@
 </color>
 <color>
 <name>White Beach</name>
-<hex>#fff6d9</hex>
+<hex>#f5efe5</hex>
 </color>
 <color>
 <name>White Blaze</name>
@@ -71459,6 +71555,10 @@
 <color>
 <name>White Scar</name>
 <hex>#8c9fa1</hex>
+</color>
+<color>
+<name>White Sea</name>
+<hex>#d7e5ea</hex>
 </color>
 <color>
 <name>White Shadow</name>
@@ -73559,6 +73659,10 @@
 <color>
 <name>Zǐ Sè Purple</name>
 <hex>#c94cbe</hex>
+</color>
+<color>
+<name>Zia Olive</name>
+<hex>#082903</hex>
 </color>
 <color>
 <name>Ziggurat</name>
