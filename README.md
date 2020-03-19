@@ -182,7 +182,7 @@ See [package.json](package.json#L6) for more.
 
 ### Color Namers
 
-[Verena the naming overloard], [Jess the name wizzard], [Syl], [Stephanie Stutz], [Simbiasamba], [Jason Wilson], [Inês João], [Nick Niles], [Qwhex], [Ichatdelune]
+[Verena the naming overloard], [Jess the name wizzard], [Syl], [Stephanie Stutz], [Simbiasamba], [Jason Wilson], [Inês João], [Nick Niles], [Qwhex], [Ichatdelune], Shelina S.
 
 ## Disclaimer 👮🏾‍
 
