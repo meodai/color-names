@@ -227,7 +227,7 @@ As some of the color names come from other lists, some bad ones might slip in. [
 [Qwhex]: https://github.com/qwhex
 [Simbiasamba]: https://www.instagram.com/simbisamba/
 [Stephanie Stutz]: https://www.behance.net/stephaniestutzart
-[Syl]: https://twitter.com/Gypsy_Syl
+[Syl]: https://twitter.com/MMOsyl
 [Verena the naming overloard]: https://github.com/yxklyx/
 
 <!-- Sources: Names -->
