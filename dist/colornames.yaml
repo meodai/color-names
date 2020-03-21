@@ -5351,6 +5351,9 @@
   name:"Blossom Time"
   hex:"#e5d2c9"
 -
+  name:"Blossom White"
+  hex:"#f2eee4"
+-
   name:"Blowout"
   hex:"#658499"
 -
@@ -11320,6 +11323,9 @@
 -
   name:"Cobalt Glaze"
   hex:"#0072b5"
+-
+  name:"Cobalt Night"
+  hex:"#353739"
 -
   name:"Cobalt Stone"
   hex:"#0264ae"
@@ -22832,9 +22838,6 @@
   name:"Heart Throb"
   hex:"#cb3d3c"
 -
-  name:"Heart Wood"
-  hex:"#6f4232"
--
   name:"Heart's Content"
   hex:"#e2b5bd"
 -
@@ -22855,6 +22858,9 @@
 -
   name:"Heartless"
   hex:"#623b70"
+-
+  name:"Heartwood"
+  hex:"#6f4232"
 -
   name:"Hearty Hosta"
   hex:"#96bf83"
@@ -29192,6 +29198,9 @@
   name:"Luscious Lobster"
   hex:"#c5847c"
 -
+  name:"Lush Aqua"
+  hex:"#004466"
+-
   name:"Lush Bamboo"
   hex:"#afbb33"
 -
@@ -29578,6 +29587,9 @@
 -
   name:"Magnolia Spray"
   hex:"#f6e6cb"
+-
+  name:"Magnolia Spring"
+  hex:"#f4f2e7"
 -
   name:"Magnus Blue"
   hex:"#003686"
@@ -31178,6 +31190,9 @@
   name:"Middle Yellow Red"
   hex:"#ecb176"
 -
+  name:"Middle-Earth"
+  hex:"#a2948d"
+-
   name:"Middlestone"
   hex:"#c7ab84"
 -
@@ -32296,6 +32311,9 @@
 -
   name:"Morning Rush"
   hex:"#dee4dc"
+-
+  name:"Morning Snow"
+  hex:"#f5f4ed"
 -
   name:"Morning Song"
   hex:"#e4ece9"
@@ -36374,6 +36392,9 @@
   name:"Peach Juice"
   hex:"#ffcfab"
 -
+  name:"Peach Macaron"
+  hex:"#c67464"
+-
   name:"Peach Melba"
   hex:"#fbbdaf"
 -
@@ -39196,6 +39217,9 @@
 -
   name:"Pretty Pale"
   hex:"#e3c6d6"
+-
+  name:"Pretty Pastry"
+  hex:"#dfcdb2"
 -
   name:"Pretty Petunia"
   hex:"#d6b7e2"
@@ -50639,6 +50663,9 @@
   name:"Touch of Blush"
   hex:"#f6ded5"
 -
+  name:"Touch of Glamor"
+  hex:"#dd8844"
+-
   name:"Touch of Lime"
   hex:"#e1e5d7"
 -
@@ -50653,6 +50680,9 @@
 -
   name:"Touchable"
   hex:"#ecdfd8"
+-
+  name:"Touched by the Sea"
+  hex:"#c3e4e8"
 -
   name:"Toupe"
   hex:"#c7ac7d"
@@ -51731,6 +51761,9 @@
   name:"Urban Pigeon"
   hex:"#9dacb7"
 -
+  name:"Urban Taupe"
+  hex:"#c9bdb6"
+-
   name:"Urban Vibes"
   hex:"#8899aa"
 -
@@ -52462,6 +52495,9 @@
 -
   name:"Vintage Beige"
   hex:"#dfe1cc"
+-
+  name:"Vintage Blue"
+  hex:"#87b8b5"
 -
   name:"Vintage Copper"
   hex:"#9d5f46"
