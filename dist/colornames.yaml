@@ -6239,6 +6239,9 @@
   name:"Blues White Shoes"
   hex:"#99badd"
 -
+  name:"Bluetiful"
+  hex:"#3c69e7"
+-
   name:"Bluewash"
   hex:"#e2e6e0"
 -
@@ -32168,6 +32171,9 @@
   name:"Monterey Brown"
   hex:"#946e5c"
 -
+  name:"Montezuma Gold"
+  hex:"#eecc44"
+-
   name:"Montezuma Hills"
   hex:"#a6b2a4"
 -
@@ -36667,6 +36673,9 @@
 -
   name:"Pearl Blush"
   hex:"#f4cec5"
+-
+  name:"Pearl Brite"
+  hex:"#e6e6e3"
 -
   name:"Pearl Bush"
   hex:"#ded1c6"
@@ -51164,6 +51173,9 @@
   name:"Tropical Peach"
   hex:"#ffc4b2"
 -
+  name:"Tropical Rain"
+  hex:"#447777"
+-
   name:"Tropical Rainforest"
   hex:"#00755e"
 -
@@ -51443,6 +51455,9 @@
   name:"Turquoise Topaz"
   hex:"#13bbaf"
 -
+  name:"Turtle"
+  hex:"#523f31"
+-
   name:"Turtle Bay"
   hex:"#84897f"
 -
@@ -51679,6 +51694,9 @@
 -
   name:"Ultra Violet"
   hex:"#7366bd"
+-
+  name:"Ultra Violet Lentz"
+  hex:"#aa22aa"
 -
   name:"Ultramarine"
   hex:"#1805db"
@@ -52839,7 +52857,7 @@
   hex:"#00846b"
 -
   name:"Virtual Boy"
-  hex:"#bb3311"
+  hex:"#fe0215"
 -
   name:"Virtual Forest"
   hex:"#8aa56e"
@@ -53399,6 +53417,9 @@
   name:"Water Spirit"
   hex:"#65a5d5"
 -
+  name:"Water Sports"
+  hex:"#44bbcc"
+-
   name:"Water Wash"
   hex:"#acc7e5"
 -
@@ -53444,6 +53465,9 @@
   name:"Watermelon Candy"
   hex:"#fd5b78"
 -
+  name:"Watermelon Juice"
+  hex:"#f05c85"
+-
   name:"Watermelon Milk"
   hex:"#dfcfca"
 -
@@ -53452,9 +53476,6 @@
 -
   name:"Watermelon Red"
   hex:"#bf4147"
--
-  name:"Watermelon Water"
-  hex:"#f05c85"
 -
   name:"Watermill Wood"
   hex:"#d3cccd"
@@ -53648,6 +53669,9 @@
   name:"Wedding Flowers"
   hex:"#bcb6cb"
 -
+  name:"Wedding in White"
+  hex:"#fffee5"
+-
   name:"Wedge of Lime"
   hex:"#e1eca5"
 -
@@ -53803,6 +53827,9 @@
 -
   name:"Wharf View"
   hex:"#65737e"
+-
+  name:"What We Do in the Shadows"
+  hex:"#441122"
 -
   name:"What's Left"
   hex:"#fff4e8"
@@ -54520,6 +54547,9 @@
 -
   name:"Wine"
   hex:"#80013f"
+-
+  name:"Wine Barrel"
+  hex:"#aa5522"
 -
   name:"Wine Bottle"
   hex:"#d3d6c4"
@@ -55454,7 +55484,7 @@
   name:"York River Green"
   hex:"#67706d"
 -
-  name:"Yoshi's Green"
+  name:"Yoshi"
   hex:"#55aa00"
 -
   name:"You're Blushing"
