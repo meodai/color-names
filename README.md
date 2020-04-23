@@ -49,8 +49,12 @@ npm install color-name-list --save
 ```
 or `yarn add color-name-list`
 
-### CDN 🌍
+## CDN 🌍
+### All Names 📚
 [JSON](https://unpkg.com/color-name-list/dist/colornames.json) / [JSON.min](https://unpkg.com/color-name-list/dist/colornames.min.json) / [CSV](https://unpkg.com/color-name-list/dist/colornames.csv) / [YML](https://unpkg.com/color-name-list/dist/colornames.yaml) / [JS](https://unpkg.com/color-name-list/dist/colornames.umd.js) / [XML](https://unpkg.com/color-name-list/dist/colornames.xml) / [HTML](https://unpkg.com/color-name-list/dist/colornames.html) / [SCSS](https://unpkg.com/color-name-list/dist/colornames.scss) / [CSS](https://unpkg.com/color-name-list/dist/colornames.css)
+
+### Best of Names subset 🏆
+[JSON](https://unpkg.com/color-name-list/dist/colornames.bestof.json) / [JSON.min](https://unpkg.com/color-name-list/dist/colornames.bestof.min.json) / [CSV](https://unpkg.com/color-name-list/dist/colornames.bestof.csv) / [YML](https://unpkg.com/color-name-list/dist/colornames.bestof.yaml) / [JS](https://unpkg.com/color-name-list/dist/colornames.bestof.umd.js) / [XML](https://unpkg.com/color-name-list/dist/colornames.bestof.xml) / [HTML](https://unpkg.com/color-name-list/dist/colornames.bestof.html) / [SCSS](https://unpkg.com/color-name-list/dist/colornames.bestof.scss) / [CSS](https://unpkg.com/color-name-list/dist/colornames.bestof.css)
 
 ### API 🃏
 ```url
@@ -98,6 +102,9 @@ by adding `?noduplicates=true` every returned name will be unique. The closest c
   }]
 }
 ```
+
+#### Good Color-Names
+Not all color-names are created equal; add `?goodnamesonly=true` to your request URL to get a hadpicked subset of names that were rated as good by humans. (Colors that are liked a lot on [twitter](https://twitter.com/color_parrot) and some of the team favourites).
 
 ### Usage JS ⌨
 
