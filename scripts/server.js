@@ -7,6 +7,9 @@ const ClosestVector = require('../node_modules/closestvector/.');
 const colors = JSON.parse(
     fs.readFileSync(__dirname + '/../dist/colornames.json', 'utf8')
 );
+const colorsBestOf = JSON.parse(
+    fs.readFileSync(__dirname + '/../dist/colornames.bestof.json', 'utf8')
+);
 const port = process.env.PORT || 8080;
 const currentVersion = 'v1';
 const APIurl = ''; // subfolder for the API
@@ -24,6 +27,7 @@ const responseHeaderObj = {
 
 // object containing the name:hex pairs for nearestColor()
 const rgbColorsArr = [];
+const rgbColorsArrBestOf = [];
 
 // prepare color array
 colors.forEach((c) => {
@@ -36,7 +40,19 @@ colors.forEach((c) => {
   c.luminance = lib.luminance(rgb);
 });
 
+colorsBestOf.forEach((c) => {
+  const rgb = lib.hexToRgb(c.hex);
+  // populates array needed for ClosestVector()
+  rgbColorsArrBestOf.push([rgb.r, rgb.g, rgb.b]);
+  // transform hex to RGB
+  c.rgb = rgb;
+  // calculate luminancy for each color
+  c.luminance = lib.luminance(rgb);
+});
+
 const closest = new ClosestVector(rgbColorsArr);
+const closestBestOf = new ClosestVector(rgbColorsArrBestOf);
+
 /**
  * validates a hex color
  * @param   {string} color hex representation of color
@@ -50,12 +66,17 @@ const validateColor = (color) => (
  * names an array of colors
  * @param   {array} colorArr array containing hex values without the hash
  * @param   {boolean} unique if set to true every returned name will be unque
+ * @param   {boolean} bestOf if set only returns good names
  * @return  {object}         object containing all nearest colors
  */
-const nameColors = (colorArr, unique = false) => {
-  let localClosest = closest;
+const nameColors = (colorArr, unique = false, bestOf = false) => {
+  let localClosest = bestOf ? closestBestOf : closest;
+
   if (unique) {
-    localClosest = new ClosestVector(rgbColorsArr, true);
+    localClosest = new ClosestVector(
+      bestOf ? rgbColorsArrBestOf : rgbColorsArr,
+      true
+    );
   }
 
   const colorResp = colorArr.map((hex) => {
@@ -64,7 +85,8 @@ const nameColors = (colorArr, unique = false) => {
 
     // get the closest named colors
     const closestColor = localClosest.get([rgb.r, rgb.g, rgb.b]);
-    const color = colors[closestColor.index];
+    const color = bestOf ? colorsBestOf[closestColor.index] :
+                           colors[closestColor.index];
 
     return {
       hex: color.hex,
@@ -140,8 +162,10 @@ const requestHandler = (request, response) => {
 
   const uniqueMode = request.url.indexOf('noduplicates=true') !== -1;
 
+  const goodNamesMode = request.url.indexOf('goodnamesonly=true') !== -1;
+
   const colorQuery = request.url.replace(requestUrl.search, '')
-  // splits the base url from the everything
+  // splits the base url from everything
   // after the API URL
       .split(baseUrl)[1] || '';
 
@@ -164,7 +188,9 @@ const requestHandler = (request, response) => {
   }
 
   return httpRespond(response, {
-    colors: urlColorList[0] ? nameColors(urlColorList, uniqueMode) : colors,
+    colors: urlColorList[0] ?
+    nameColors(urlColorList, uniqueMode, goodNamesMode) :
+    (goodNamesMode ? colorsBestOf : colors),
   }, 200);
 };
 
