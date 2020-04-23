@@ -20,10 +20,12 @@ const baseFolder = __dirname + '/../';
 const folderSrc = 'src/';
 const folderDist = 'dist/';
 const fileNameSrc = 'colornames';
+const fileNameBestOfPostfix = '.bestof';
 const readmeFileName = 'README.md';
 
 const sortBy = 'name';
 const csvKeys = ['name', 'hex'];
+const bestOfKey = 'good name';
 
 // reads the CSV file contents
 const src = fs.readFileSync(
@@ -45,7 +47,7 @@ csvKeys.forEach((key) => {
   });
 });
 
-// loop hex values
+// loop hex values for validations
 colorsSrc.values['hex'].forEach((hex) => {
   // validate HEX values
   if ( !hexColorValidation.test(hex) ) {
@@ -78,9 +80,25 @@ const JSONExportString = JSON.stringify(
   )
 );
 
+const JSONExportStringBestOf = JSON.stringify(
+  [...colorsSrc.entires].filter(
+    (val) => (val['good name'])
+  ).map( // removes good name attributes
+    (val) => ({
+      name: val.name,
+      hex: val.hex,
+    })
+  )
+);
+
 fs.writeFileSync(
-    path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.json`),
-    JSONExportString
+  path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.json`),
+  JSONExportString
+);
+
+fs.writeFileSync(
+  path.normalize(`${baseFolder}${folderDist}${fileNameSrc}${fileNameBestOfPostfix}.json`),
+  JSONExportStringBestOf
 );
 
 // creates a more compact JSON file, where the HEX color serves as an id
@@ -89,9 +107,21 @@ const miniJSONExportObj = colorsSrc.entires.reduce((obj, entry) => {
   return obj;
 }, {});
 
+const miniJSONExportObjBestOf = colorsSrc.entires.reduce((obj, entry) => {
+  if(entry['good name']) {
+    obj[entry.hex.replace('#', '')] = entry.name;
+  }
+  return obj;
+}, {});
+
 fs.writeFileSync(
   path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.min.json`),
   JSON.stringify(miniJSONExportObj)
+);
+
+fs.writeFileSync(
+  path.normalize(`${baseFolder}${folderDist}${fileNameSrc}${fileNameBestOfPostfix}.min.json`),
+  JSON.stringify(miniJSONExportObjBestOf)
 );
 
 // gets UMD template
@@ -106,6 +136,11 @@ fs.writeFileSync(
     umdTpl.replace('"{{COLORS}}"', JSONExportString)
 );
 
+fs.writeFileSync(
+  path.normalize(`${baseFolder}${folderDist}${fileNameSrc}${fileNameBestOfPostfix}.umd.js`),
+  umdTpl.replace('"{{COLORS}}"', JSONExportStringBestOf)
+);
+
 // gets ESM template
 const esmTpl = fs.readFileSync(
     path.normalize(__dirname + '/esm.js.tpl'),
@@ -116,6 +151,11 @@ const esmTpl = fs.readFileSync(
 fs.writeFileSync(
     path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.esm.js`),
     esmTpl.replace('"{{COLORS}}"', JSONExportString)
+);
+
+fs.writeFileSync(
+  path.normalize(`${baseFolder}${folderDist}${fileNameSrc}${fileNameBestOfPostfix}.esm.js`),
+  esmTpl.replace('"{{COLORS}}"', JSONExportStringBestOf)
 );
 
 // create foreign formats
@@ -186,21 +226,46 @@ for (const outputFormat in outputFormats) {
   }
 }
 
+// bestOf files
+for (const outputFormat in outputFormats) {
+  if (outputFormats[outputFormat]) {
+    let outputString = objArrToString(
+      colorsSrc.entires.filter((val) => (val['good name'])),
+      csvKeys,
+      outputFormats[outputFormat]
+    );
+    if (outputFormat === 'html' || outputFormat === 'xml') {
+      outputString = outputString.replace(/&/g, '&amp;');
+    }
+    if (outputFormat === 'css') {
+      outputString = outputString.toLowerCase();
+      outputString = outputString.replace(/'/g, '');
+      outputString = outputString.replace(/ /g, '-');
+      outputString = outputString.replace(/&/g, 'and');
+      outputString = outputString.replace(/%/g, 'percent');
+    }
+    fs.writeFileSync(
+      path.normalize(`${baseFolder}${folderDist}${fileNameSrc}${fileNameBestOfPostfix}.${outputFormat}`),
+      outputString
+    );
+  }
+}
+
 // updates the color count in readme file
 const readme = fs.readFileSync(
-    path.normalize(`${baseFolder}${readmeFileName}`),
-    'utf8'
+  path.normalize(`${baseFolder}${readmeFileName}`),
+  'utf8'
 ).toString();
 fs.writeFileSync(
-    path.normalize(`${baseFolder}${readmeFileName}`),
-    readme.replace(/__\d+__/g, `__${colorsSrc.entires.length}__`)
-        .replace(
-            /\d+-colors-orange/,
-            `${colorsSrc.entires.length}-colors-orange`
-        ).replace(
-            /__\d+(\.\d+)?%__/,
-            `__${((colorsSrc.entires.length / (256 * 256 * 256)) * 100).toFixed(2)}%__`
-        ), 'utf8'
+  path.normalize(`${baseFolder}${readmeFileName}`),
+  readme.replace(/__\d+__/g, `__${colorsSrc.entires.length}__`)
+    .replace(
+      /\d+-colors-orange/,
+      `${colorsSrc.entires.length}-colors-orange`
+    ).replace(
+      /__\d+(\.\d+)?%__/,
+      `__${((colorsSrc.entires.length / (256 * 256 * 256)) * 100).toFixed(2)}%__`
+    ), 'utf8'
 );
 
 /**
@@ -248,6 +313,7 @@ const svgTpl = fs.readFileSync(
   'utf8'
 ).toString();
 
+// generates an SVG image with the new color based on the diff ot the last commit to the current
 function diffSVG() {
   exec(`git diff HEAD ${baseFolder}${folderDist}${fileNameSrc}.csv`,
   function (err, stdout, stderr) {
