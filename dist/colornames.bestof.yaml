@@ -1076,6 +1076,12 @@
   name:"Chocolate"
   hex:"#d2691e"
 -
+  name:"Chocolate Kiss"
+  hex:"#3c1421"
+-
+  name:"Chocolate Lust"
+  hex:"#993322"
+-
   name:"Chocolate Truffle"
   hex:"#612e35"
 -
@@ -1772,6 +1778,9 @@
   name:"Earthbound"
   hex:"#a48a80"
 -
+  name:"Earthworm"
+  hex:"#c3816e"
+-
   name:"Easter Egg"
   hex:"#919bc9"
 -
@@ -1837,6 +1846,12 @@
 -
   name:"Emerald"
   hex:"#028f1e"
+-
+  name:"Emerald Forest"
+  hex:"#224347"
+-
+  name:"Emerald Glitter"
+  hex:"#66bb00"
 -
   name:"Eminence"
   hex:"#6e3974"
@@ -5741,8 +5756,20 @@
   name:"Roland-Garros"
   hex:"#bb5522"
 -
+  name:"Ruby"
+  hex:"#ca0147"
+-
+  name:"Rubylicious"
+  hex:"#db1459"
+-
+  name:"Sacrifice Altar"
+  hex:"#850101"
+-
   name:"Salmon Poké Bowl"
   hex:"#ee7777"
+-
+  name:"Sapphire Glitter"
+  hex:"#0033cc"
 -
   name:"Shimmering Love"
   hex:"#ff88cc"
@@ -6140,11 +6167,11 @@
   name:"Wavelet"
   hex:"#7dc4cd"
 -
+  name:"Wax"
+  hex:"#ddbb33"
+-
   name:"Wax Flower"
   hex:"#eeb39e"
--
-  name:"Wax Yellow"
-  hex:"#ede9ad"
 -
   name:"Waxy Corn"
   hex:"#f8b500"
@@ -6365,6 +6392,9 @@
   name:"Woodland Grass"
   hex:"#004400"
 -
+  name:"Wormicelles"
+  hex:"#bb835f"
+-
   name:"Worn Silver"
   hex:"#c9c0bb"
 -
@@ -6398,6 +6428,9 @@
   name:"Yellow Submarine"
   hex:"#ffff14"
 -
+  name:"Yellowish"
+  hex:"#faee66"
+-
   name:"Yeti Footprint"
   hex:"#c7d7e0"
 -
@@ -6406,6 +6439,9 @@
 -
   name:"York Plum"
   hex:"#d3bfe5"
+-
+  name:"Yoshi"
+  hex:"#55aa00"
 -
   name:"Young Crab"
   hex:"#f6a09d"
@@ -6419,6 +6455,9 @@
   name:"Your Shadow"
   hex:"#787e93"
 -
+  name:"Yucca"
+  hex:"#75978f"
+-
   name:"Yuma Gold"
   hex:"#ffd678"
 -
@@ -6427,3 +6466,9 @@
 -
   name:"Zen Garden"
   hex:"#d1dac0"
+-
+  name:"Zinc"
+  hex:"#92898a"
+-
+  name:"Zombie"
+  hex:"#595a5c"

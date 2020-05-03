@@ -1437,6 +1437,14 @@
 <hex>#d2691e</hex>
 </color>
 <color>
+<name>Chocolate Kiss</name>
+<hex>#3c1421</hex>
+</color>
+<color>
+<name>Chocolate Lust</name>
+<hex>#993322</hex>
+</color>
+<color>
 <name>Chocolate Truffle</name>
 <hex>#612e35</hex>
 </color>
@@ -2365,6 +2373,10 @@
 <hex>#a48a80</hex>
 </color>
 <color>
+<name>Earthworm</name>
+<hex>#c3816e</hex>
+</color>
+<color>
 <name>Easter Egg</name>
 <hex>#919bc9</hex>
 </color>
@@ -2451,6 +2463,14 @@
 <color>
 <name>Emerald</name>
 <hex>#028f1e</hex>
+</color>
+<color>
+<name>Emerald Forest</name>
+<hex>#224347</hex>
+</color>
+<color>
+<name>Emerald Glitter</name>
+<hex>#66bb00</hex>
 </color>
 <color>
 <name>Eminence</name>
@@ -7657,8 +7677,24 @@
 <hex>#bb5522</hex>
 </color>
 <color>
+<name>Ruby</name>
+<hex>#ca0147</hex>
+</color>
+<color>
+<name>Rubylicious</name>
+<hex>#db1459</hex>
+</color>
+<color>
+<name>Sacrifice Altar</name>
+<hex>#850101</hex>
+</color>
+<color>
 <name>Salmon Poké Bowl</name>
 <hex>#ee7777</hex>
+</color>
+<color>
+<name>Sapphire Glitter</name>
+<hex>#0033cc</hex>
 </color>
 <color>
 <name>Shimmering Love</name>
@@ -8189,12 +8225,12 @@
 <hex>#7dc4cd</hex>
 </color>
 <color>
-<name>Wax Flower</name>
-<hex>#eeb39e</hex>
+<name>Wax</name>
+<hex>#ddbb33</hex>
 </color>
 <color>
-<name>Wax Yellow</name>
-<hex>#ede9ad</hex>
+<name>Wax Flower</name>
+<hex>#eeb39e</hex>
 </color>
 <color>
 <name>Waxy Corn</name>
@@ -8489,6 +8525,10 @@
 <hex>#004400</hex>
 </color>
 <color>
+<name>Wormicelles</name>
+<hex>#bb835f</hex>
+</color>
+<color>
 <name>Worn Silver</name>
 <hex>#c9c0bb</hex>
 </color>
@@ -8533,6 +8573,10 @@
 <hex>#ffff14</hex>
 </color>
 <color>
+<name>Yellowish</name>
+<hex>#faee66</hex>
+</color>
+<color>
 <name>Yeti Footprint</name>
 <hex>#c7d7e0</hex>
 </color>
@@ -8543,6 +8587,10 @@
 <color>
 <name>York Plum</name>
 <hex>#d3bfe5</hex>
+</color>
+<color>
+<name>Yoshi</name>
+<hex>#55aa00</hex>
 </color>
 <color>
 <name>Young Crab</name>
@@ -8561,6 +8609,10 @@
 <hex>#787e93</hex>
 </color>
 <color>
+<name>Yucca</name>
+<hex>#75978f</hex>
+</color>
+<color>
 <name>Yuma Gold</name>
 <hex>#ffd678</hex>
 </color>
@@ -8571,5 +8623,13 @@
 <color>
 <name>Zen Garden</name>
 <hex>#d1dac0</hex>
+</color>
+<color>
+<name>Zinc</name>
+<hex>#92898a</hex>
+</color>
+<color>
+<name>Zombie</name>
+<hex>#595a5c</hex>
 </color>
 </colors>

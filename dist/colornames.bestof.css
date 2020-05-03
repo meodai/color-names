@@ -358,6 +358,8 @@
 --color-choco-chic:#993311;
 --color-chocoholic:#993300;
 --color-chocolate:#d2691e;
+--color-chocolate-kiss:#3c1421;
+--color-chocolate-lust:#993322;
 --color-chocolate-truffle:#612e35;
 --color-chorizo:#aa0011;
 --color-christmas-red:#b01b2e;
@@ -590,6 +592,7 @@
 --color-eagle:#b0ac94;
 --color-earl-grey:#a6978a;
 --color-earthbound:#a48a80;
+--color-earthworm:#c3816e;
 --color-easter-egg:#919bc9;
 --color-eat-your-greens:#696845;
 --color-ebi-brown:#773c30;
@@ -612,6 +615,8 @@
 --color-elephant-in-the-room:#a8a9a8;
 --color-embarrassment:#ff7777;
 --color-emerald:#028f1e;
+--color-emerald-forest:#224347;
+--color-emerald-glitter:#66bb00;
 --color-eminence:#6e3974;
 --color-emoji-yellow:#ffde34;
 --color-emperor-jade:#007b75;
@@ -1913,7 +1918,11 @@
 --color-redrum:#ff2200;
 --color-retro-vibe:#cb9711;
 --color-roland-garros:#bb5522;
+--color-ruby:#ca0147;
+--color-rubylicious:#db1459;
+--color-sacrifice-altar:#850101;
 --color-salmon-poké-bowl:#ee7777;
+--color-sapphire-glitter:#0033cc;
 --color-shimmering-love:#ff88cc;
 --color-sky-dancer:#4499ff;
 --color-slice-of-heaven:#0022ee;
@@ -2046,8 +2055,8 @@
 --color-wave:#a5ced5;
 --color-wave-splash:#cbe4e7;
 --color-wavelet:#7dc4cd;
+--color-wax:#ddbb33;
 --color-wax-flower:#eeb39e;
---color-wax-yellow:#ede9ad;
 --color-waxy-corn:#f8b500;
 --color-way-beyond-the-blue:#1188cc;
 --color-we-peep:#fdd7d8;
@@ -2121,6 +2130,7 @@
 --color-wood-bark:#302621;
 --color-woodgrain:#996633;
 --color-woodland-grass:#004400;
+--color-wormicelles:#bb835f;
 --color-worn-silver:#c9c0bb;
 --color-wreath:#76856a;
 --color-wu-tang-gold:#f8d106;
@@ -2132,13 +2142,18 @@
 --color-yellow:#ffff00;
 --color-yellow-chalk:#f5f9ad;
 --color-yellow-submarine:#ffff14;
+--color-yellowish:#faee66;
 --color-yeti-footprint:#c7d7e0;
 --color-yippie-ya-yellow:#f9f59f;
 --color-york-plum:#d3bfe5;
+--color-yoshi:#55aa00;
 --color-young-crab:#f6a09d;
 --color-young-night:#232323;
 --color-young-salmon:#ffb6b4;
 --color-your-shadow:#787e93;
+--color-yucca:#75978f;
 --color-yuma-gold:#ffd678;
 --color-zen:#cfd9de;
---color-zen-garden:#d1dac0};
+--color-zen-garden:#d1dac0;
+--color-zinc:#92898a;
+--color-zombie:#595a5c};
