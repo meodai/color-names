@@ -491,6 +491,9 @@
   name:"Bloodthirsty"
   hex:"#880011"
 -
+  name:"Bloody Salmon"
+  hex:"#cc4433"
+-
   name:"Blossom"
   hex:"#fee9d8"
 -
@@ -1760,6 +1763,9 @@
   name:"Dust to Dust"
   hex:"#bbbcbc"
 -
+  name:"Dusty Chimney"
+  hex:"#888899"
+-
   name:"Dwarf Fortress"
   hex:"#1d0200"
 -
@@ -2857,6 +2863,9 @@
 -
   name:"Heavy Green"
   hex:"#49583e"
+-
+  name:"Heavy Heart"
+  hex:"#771122"
 -
   name:"Heavy Metal"
   hex:"#46473e"
@@ -4895,6 +4904,9 @@
   name:"Ocean Breeze"
   hex:"#d3e5eb"
 -
+  name:"Ochre Spice"
+  hex:"#e96d03"
+-
   name:"Oh Boy!"
   hex:"#bbdaf8"
 -
@@ -5678,6 +5690,9 @@
   name:"Purple Ink"
   hex:"#9a2ca0"
 -
+  name:"Purple Noir"
+  hex:"#322c56"
+-
   name:"Purple Passion"
   hex:"#683d62"
 -
@@ -5779,6 +5794,9 @@
 -
   name:"Salmon Poké Bowl"
   hex:"#ee7777"
+-
+  name:"Salty Ice"
+  hex:"#cce2f3"
 -
   name:"Sapphire Glitter"
   hex:"#0033cc"
@@ -5888,11 +5906,17 @@
   name:"Twinkly Pinkily"
   hex:"#cf4796"
 -
+  name:"Ultraberry"
+  hex:"#770088"
+-
   name:"Valkyrie"
   hex:"#eecc22"
 -
   name:"Vampire Bite"
   hex:"#c40233"
+-
+  name:"Vampire Fangs"
+  hex:"#cc2255"
 -
   name:"Vampire Red"
   hex:"#dd4132"

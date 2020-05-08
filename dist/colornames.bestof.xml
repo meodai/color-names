@@ -657,6 +657,10 @@
 <hex>#880011</hex>
 </color>
 <color>
+<name>Bloody Salmon</name>
+<hex>#cc4433</hex>
+</color>
+<color>
 <name>Blossom</name>
 <hex>#fee9d8</hex>
 </color>
@@ -2349,6 +2353,10 @@
 <hex>#bbbcbc</hex>
 </color>
 <color>
+<name>Dusty Chimney</name>
+<hex>#888899</hex>
+</color>
+<color>
 <name>Dwarf Fortress</name>
 <hex>#1d0200</hex>
 </color>
@@ -3811,6 +3819,10 @@
 <color>
 <name>Heavy Green</name>
 <hex>#49583e</hex>
+</color>
+<color>
+<name>Heavy Heart</name>
+<hex>#771122</hex>
 </color>
 <color>
 <name>Heavy Metal</name>
@@ -6529,6 +6541,10 @@
 <hex>#d3e5eb</hex>
 </color>
 <color>
+<name>Ochre Spice</name>
+<hex>#e96d03</hex>
+</color>
+<color>
 <name>Oh Boy!</name>
 <hex>#bbdaf8</hex>
 </color>
@@ -7573,6 +7589,10 @@
 <hex>#9a2ca0</hex>
 </color>
 <color>
+<name>Purple Noir</name>
+<hex>#322c56</hex>
+</color>
+<color>
 <name>Purple Passion</name>
 <hex>#683d62</hex>
 </color>
@@ -7707,6 +7727,10 @@
 <color>
 <name>Salmon Poké Bowl</name>
 <hex>#ee7777</hex>
+</color>
+<color>
+<name>Salty Ice</name>
+<hex>#cce2f3</hex>
 </color>
 <color>
 <name>Sapphire Glitter</name>
@@ -7853,12 +7877,20 @@
 <hex>#cf4796</hex>
 </color>
 <color>
+<name>Ultraberry</name>
+<hex>#770088</hex>
+</color>
+<color>
 <name>Valkyrie</name>
 <hex>#eecc22</hex>
 </color>
 <color>
 <name>Vampire Bite</name>
 <hex>#c40233</hex>
+</color>
+<color>
+<name>Vampire Fangs</name>
+<hex>#cc2255</hex>
 </color>
 <color>
 <name>Vampire Red</name>
