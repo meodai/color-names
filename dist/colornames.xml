@@ -2877,6 +2877,10 @@
 <hex>#884332</hex>
 </color>
 <color>
+<name>Arabian Veil</name>
+<hex>#c9fffa</hex>
+</color>
+<color>
 <name>Arabic Coffee</name>
 <hex>#6f4d3f</hex>
 </color>
@@ -3055,6 +3059,10 @@
 <color>
 <name>Ariel's Delight</name>
 <hex>#b2a5d3</hex>
+</color>
+<color>
+<name>Aristocratic Pink</name>
+<hex>#ddaacc</hex>
 </color>
 <color>
 <name>Arizona Clay</name>
@@ -5035,6 +5043,10 @@
 <color>
 <name>Bath Bubbles</name>
 <hex>#e6f2ea</hex>
+</color>
+<color>
+<name>Bath Water</name>
+<hex>#88eeee</hex>
 </color>
 <color>
 <name>Bathing</name>
@@ -18313,6 +18325,10 @@
 <hex>#045c5a</hex>
 </color>
 <color>
+<name>Dark Veil</name>
+<hex>#141311</hex>
+</color>
+<color>
 <name>Dark Violet</name>
 <hex>#34013f</hex>
 </color>
@@ -24265,6 +24281,10 @@
 <hex>#ea8645</hex>
 </color>
 <color>
+<name>Flamigo Diva</name>
+<hex>#ff44dd</hex>
+</color>
+<color>
 <name>Flaming June</name>
 <hex>#eebb66</hex>
 </color>
@@ -24287,6 +24307,10 @@
 <color>
 <name>Flamingo Pink</name>
 <hex>#fc8eac</hex>
+</color>
+<color>
+<name>Flamingo Queen</name>
+<hex>#cc33ff</hex>
 </color>
 <color>
 <name>Flan</name>
@@ -24531,6 +24555,10 @@
 <color>
 <name>Flirtatious</name>
 <hex>#ffd637</hex>
+</color>
+<color>
+<name>Flirtatious Flamingo</name>
+<hex>#cc22ff</hex>
 </color>
 <color>
 <name>Flirtatious Indigo Tea</name>
@@ -28401,6 +28429,10 @@
 <hex>#71384b</hex>
 </color>
 <color>
+<name>Grapest</name>
+<hex>#880066</hex>
+</color>
+<color>
 <name>Grapevine</name>
 <hex>#b194a6</hex>
 </color>
@@ -30967,6 +30999,10 @@
 <color>
 <name>Herbal Tea</name>
 <hex>#f9fee9</hex>
+</color>
+<color>
+<name>Herbal Vapors</name>
+<hex>#ddffcc</hex>
 </color>
 <color>
 <name>Herbalist</name>
@@ -34321,6 +34357,10 @@
 <hex>#ebdcb6</hex>
 </color>
 <color>
+<name>John Lemon</name>
+<hex>#eeff22</hex>
+</color>
+<color>
 <name>Jojoba</name>
 <hex>#dabe81</hex>
 </color>
@@ -35063,6 +35103,10 @@
 <color>
 <name>King Kong</name>
 <hex>#161410</hex>
+</color>
+<color>
+<name>King Lizard</name>
+<hex>#77dd22</hex>
 </color>
 <color>
 <name>King Neptune</name>
@@ -38057,6 +38101,10 @@
 <hex>#e6ecd6</hex>
 </color>
 <color>
+<name>Lime Mist</name>
+<hex>#ddffaa</hex>
+</color>
+<color>
 <name>Lime Parfait</name>
 <hex>#95c577</hex>
 </color>
@@ -39463,6 +39511,10 @@
 <color>
 <name>Magenta Twilight</name>
 <hex>#bb989f</hex>
+</color>
+<color>
+<name>Magentella</name>
+<hex>#d521b8</hex>
 </color>
 <color>
 <name>Maggie's Magic</name>
@@ -43449,6 +43501,10 @@
 <hex>#b4c2b6</hex>
 </color>
 <color>
+<name>Mosslands</name>
+<hex>#779966</hex>
+</color>
+<color>
 <name>Mossleaf</name>
 <hex>#8c9d8f</hex>
 </color>
@@ -44562,7 +44618,7 @@
 </color>
 <color>
 <name>Nebula</name>
-<hex>#b8c6be</hex>
+<hex>#a104c3</hex>
 </color>
 <color>
 <name>Nebula Outpost</name>
@@ -46527,6 +46583,10 @@
 <color>
 <name>Only Yesterday</name>
 <hex>#f4d1b9</hex>
+</color>
+<color>
+<name>Onsen</name>
+<hex>#66eebb</hex>
 </color>
 <color>
 <name>Ontario Violet</name>
@@ -49377,6 +49437,10 @@
 <hex>#694878</hex>
 </color>
 <color>
+<name>Perfectly Purple Place</name>
+<hex>#cc22aa</hex>
+</color>
+<color>
 <name>Perfume</name>
 <hex>#c2a9db</hex>
 </color>
@@ -52157,6 +52221,14 @@
 <hex>#773355</hex>
 </color>
 <color>
+<name>Possessed Purple</name>
+<hex>#881166</hex>
+</color>
+<color>
+<name>Possessed Red</name>
+<hex>#c2264d</hex>
+</color>
+<color>
 <name>Post Apocalyptic Cloud</name>
 <hex>#c8cdd8</hex>
 </color>
@@ -53167,6 +53239,10 @@
 <color>
 <name>Purple Dusk</name>
 <hex>#7c6b76</hex>
+</color>
+<color>
+<name>Purple Emperor</name>
+<hex>#6633bb</hex>
 </color>
 <color>
 <name>Purple Empire</name>
@@ -58209,6 +58285,10 @@
 <hex>#9e958a</hex>
 </color>
 <color>
+<name>Sauna Steam</name>
+<hex>#edebe1</hex>
+</color>
+<color>
 <name>Sausage Roll</name>
 <hex>#ebdfcd</hex>
 </color>
@@ -60853,6 +60933,14 @@
 <hex>#2b4d68</hex>
 </color>
 <color>
+<name>Sinister</name>
+<hex>#12110e</hex>
+</color>
+<color>
+<name>Sinister Minister</name>
+<hex>#353331</hex>
+</color>
+<color>
 <name>Sinister Mood</name>
 <hex>#a89c94</hex>
 </color>
@@ -61667,6 +61755,10 @@
 <color>
 <name>Snow Storm</name>
 <hex>#eeedea</hex>
+</color>
+<color>
+<name>Snow Tiger</name>
+<hex>#dadce0</hex>
 </color>
 <color>
 <name>Snow White</name>
@@ -67229,6 +67321,10 @@
 <hex>#d2a694</hex>
 </color>
 <color>
+<name>Tiger</name>
+<hex>#be9c67</hex>
+</color>
+<color>
 <name>Tiger Cat</name>
 <hex>#cda035</hex>
 </color>
@@ -67239,6 +67335,10 @@
 <color>
 <name>Tiger Cub</name>
 <hex>#deae46</hex>
+</color>
+<color>
+<name>Tiger King</name>
+<hex>#dd9922</hex>
 </color>
 <color>
 <name>Tiger Moth</name>
@@ -67899,6 +67999,10 @@
 <color>
 <name>Townhouse Taupe</name>
 <hex>#bbb09b</hex>
+</color>
+<color>
+<name>Toxic Boyfriend</name>
+<hex>#ccff11</hex>
 </color>
 <color>
 <name>Toxic Essence</name>

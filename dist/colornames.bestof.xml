@@ -2853,6 +2853,10 @@
 <hex>#ea8645</hex>
 </color>
 <color>
+<name>Flamingo Queen</name>
+<hex>#cc33ff</hex>
+</color>
+<color>
 <name>Flan</name>
 <hex>#f6e3b4</hex>
 </color>
@@ -2895,6 +2899,10 @@
 <color>
 <name>Flirt</name>
 <hex>#7a2e4d</hex>
+</color>
+<color>
+<name>Flirtatious Flamingo</name>
+<hex>#cc22ff</hex>
 </color>
 <color>
 <name>Floating Feather</name>
@@ -3517,6 +3525,10 @@
 <hex>#fd5956</hex>
 </color>
 <color>
+<name>Grapest</name>
+<hex>#880066</hex>
+</color>
+<color>
 <name>Grass</name>
 <hex>#5cac2d</hex>
 </color>
@@ -3875,6 +3887,10 @@
 <color>
 <name>Herbal</name>
 <hex>#29ab87</hex>
+</color>
+<color>
+<name>Herbal Vapors</name>
+<hex>#ddffcc</hex>
 </color>
 <color>
 <name>Herbivore</name>
@@ -4573,6 +4589,10 @@
 <hex>#ee827c</hex>
 </color>
 <color>
+<name>John Lemon</name>
+<hex>#eeff22</hex>
+</color>
+<color>
 <name>Joker's Smile</name>
 <hex>#d70141</hex>
 </color>
@@ -4691,6 +4711,10 @@
 <color>
 <name>King Kong</name>
 <hex>#161410</hex>
+</color>
+<color>
+<name>King Lizard</name>
+<hex>#77dd22</hex>
 </color>
 <color>
 <name>King Neptune</name>
@@ -5023,6 +5047,10 @@
 <color>
 <name>Lime Fizz</name>
 <hex>#cfe838</hex>
+</color>
+<color>
+<name>Lime Mist</name>
+<hex>#ddffaa</hex>
 </color>
 <color>
 <name>Lime Punch</name>
@@ -6013,6 +6041,10 @@
 <hex>#009051</hex>
 </color>
 <color>
+<name>Mosslands</name>
+<hex>#779966</hex>
+</color>
+<color>
 <name>Mossy</name>
 <hex>#857349</hex>
 </color>
@@ -6234,7 +6266,7 @@
 </color>
 <color>
 <name>Nebula</name>
-<hex>#b8c6be</hex>
+<hex>#a104c3</hex>
 </color>
 <color>
 <name>Nebulous</name>
@@ -6615,6 +6647,10 @@
 <color>
 <name>One Year of Rain</name>
 <hex>#29465b</hex>
+</color>
+<color>
+<name>Onsen</name>
+<hex>#66eebb</hex>
 </color>
 <color>
 <name>Onyx</name>
@@ -7489,6 +7525,14 @@
 <hex>#66eeee</hex>
 </color>
 <color>
+<name>Possessed Purple</name>
+<hex>#881166</hex>
+</color>
+<color>
+<name>Possessed Red</name>
+<hex>#c2264d</hex>
+</color>
+<color>
 <name>Potato Chip</name>
 <hex>#fddc57</hex>
 </color>
@@ -7587,6 +7631,10 @@
 <color>
 <name>Purple Climax</name>
 <hex>#8800ff</hex>
+</color>
+<color>
+<name>Purple Emperor</name>
+<hex>#6633bb</hex>
 </color>
 <color>
 <name>Purple Haze</name>
@@ -7757,8 +7805,16 @@
 <hex>#0033cc</hex>
 </color>
 <color>
+<name>Sauna Steam</name>
+<hex>#edebe1</hex>
+</color>
+<color>
 <name>Shimmering Love</name>
 <hex>#ff88cc</hex>
+</color>
+<color>
+<name>Sinister</name>
+<hex>#12110e</hex>
 </color>
 <color>
 <name>Sky Dancer</name>
@@ -7811,6 +7867,18 @@
 <color>
 <name>Thunder &amp; Lightning</name>
 <hex>#f9f5db</hex>
+</color>
+<color>
+<name>Tiger</name>
+<hex>#be9c67</hex>
+</color>
+<color>
+<name>Tiger King</name>
+<hex>#dd9922</hex>
+</color>
+<color>
+<name>Tiger of Mysore</name>
+<hex>#ff8855</hex>
 </color>
 <color>
 <name>Timeless Beauty</name>
@@ -8703,5 +8771,9 @@
 <color>
 <name>Zombie</name>
 <hex>#595a5c</hex>
+</color>
+<color>
+<name>Zucchini</name>
+<hex>#17462e</hex>
 </color>
 </colors>

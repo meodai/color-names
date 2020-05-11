@@ -2138,6 +2138,9 @@
   name:"Flamenco"
   hex:"#ea8645"
 -
+  name:"Flamingo Queen"
+  hex:"#cc33ff"
+-
   name:"Flan"
   hex:"#f6e3b4"
 -
@@ -2170,6 +2173,9 @@
 -
   name:"Flirt"
   hex:"#7a2e4d"
+-
+  name:"Flirtatious Flamingo"
+  hex:"#cc22ff"
 -
   name:"Floating Feather"
   hex:"#e9d8c2"
@@ -2636,6 +2642,9 @@
   name:"Grapefruit"
   hex:"#fd5956"
 -
+  name:"Grapest"
+  hex:"#880066"
+-
   name:"Grass"
   hex:"#5cac2d"
 -
@@ -2905,6 +2914,9 @@
 -
   name:"Herbal"
   hex:"#29ab87"
+-
+  name:"Herbal Vapors"
+  hex:"#ddffcc"
 -
   name:"Herbivore"
   hex:"#88ee77"
@@ -3428,6 +3440,9 @@
   name:"Jinza Safflower"
   hex:"#ee827c"
 -
+  name:"John Lemon"
+  hex:"#eeff22"
+-
   name:"Joker's Smile"
   hex:"#d70141"
 -
@@ -3517,6 +3532,9 @@
 -
   name:"King Kong"
   hex:"#161410"
+-
+  name:"King Lizard"
+  hex:"#77dd22"
 -
   name:"King Neptune"
   hex:"#7794c0"
@@ -3766,6 +3784,9 @@
 -
   name:"Lime Fizz"
   hex:"#cfe838"
+-
+  name:"Lime Mist"
+  hex:"#ddffaa"
 -
   name:"Lime Punch"
   hex:"#c0d725"
@@ -4508,6 +4529,9 @@
   name:"Moss"
   hex:"#009051"
 -
+  name:"Mosslands"
+  hex:"#779966"
+-
   name:"Mossy"
   hex:"#857349"
 -
@@ -4674,7 +4698,7 @@
   hex:"#41729f"
 -
   name:"Nebula"
-  hex:"#b8c6be"
+  hex:"#a104c3"
 -
   name:"Nebulous"
   hex:"#c4b9b8"
@@ -4960,6 +4984,9 @@
 -
   name:"One Year of Rain"
   hex:"#29465b"
+-
+  name:"Onsen"
+  hex:"#66eebb"
 -
   name:"Onyx"
   hex:"#464544"
@@ -5615,6 +5642,12 @@
   name:"Poseidon Jr."
   hex:"#66eeee"
 -
+  name:"Possessed Purple"
+  hex:"#881166"
+-
+  name:"Possessed Red"
+  hex:"#c2264d"
+-
   name:"Potato Chip"
   hex:"#fddc57"
 -
@@ -5689,6 +5722,9 @@
 -
   name:"Purple Climax"
   hex:"#8800ff"
+-
+  name:"Purple Emperor"
+  hex:"#6633bb"
 -
   name:"Purple Haze"
   hex:"#807396"
@@ -5816,8 +5852,14 @@
   name:"Sapphire Glitter"
   hex:"#0033cc"
 -
+  name:"Sauna Steam"
+  hex:"#edebe1"
+-
   name:"Shimmering Love"
   hex:"#ff88cc"
+-
+  name:"Sinister"
+  hex:"#12110e"
 -
   name:"Sky Dancer"
   hex:"#4499ff"
@@ -5857,6 +5899,15 @@
 -
   name:"Thunder & Lightning"
   hex:"#f9f5db"
+-
+  name:"Tiger"
+  hex:"#be9c67"
+-
+  name:"Tiger King"
+  hex:"#dd9922"
+-
+  name:"Tiger of Mysore"
+  hex:"#ff8855"
 -
   name:"Timeless Beauty"
   hex:"#b6273e"
@@ -6526,3 +6577,6 @@
 -
   name:"Zombie"
   hex:"#595a5c"
+-
+  name:"Zucchini"
+  hex:"#17462e"

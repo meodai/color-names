@@ -2156,6 +2156,9 @@
   name:"Arabian Spice"
   hex:"#884332"
 -
+  name:"Arabian Veil"
+  hex:"#c9fffa"
+-
   name:"Arabic Coffee"
   hex:"#6f4d3f"
 -
@@ -2290,6 +2293,9 @@
 -
   name:"Ariel's Delight"
   hex:"#b2a5d3"
+-
+  name:"Aristocratic Pink"
+  hex:"#ddaacc"
 -
   name:"Arizona Clay"
   hex:"#ad735a"
@@ -3775,6 +3781,9 @@
 -
   name:"Bath Bubbles"
   hex:"#e6f2ea"
+-
+  name:"Bath Water"
+  hex:"#88eeee"
 -
   name:"Bathing"
   hex:"#93c9d0"
@@ -13733,6 +13742,9 @@
   name:"Dark Turquoise"
   hex:"#045c5a"
 -
+  name:"Dark Veil"
+  hex:"#141311"
+-
   name:"Dark Violet"
   hex:"#34013f"
 -
@@ -18197,6 +18209,9 @@
   name:"Flamenco"
   hex:"#ea8645"
 -
+  name:"Flamigo Diva"
+  hex:"#ff44dd"
+-
   name:"Flaming June"
   hex:"#eebb66"
 -
@@ -18214,6 +18229,9 @@
 -
   name:"Flamingo Pink"
   hex:"#fc8eac"
+-
+  name:"Flamingo Queen"
+  hex:"#cc33ff"
 -
   name:"Flan"
   hex:"#f6e3b4"
@@ -18397,6 +18415,9 @@
 -
   name:"Flirtatious"
   hex:"#ffd637"
+-
+  name:"Flirtatious Flamingo"
+  hex:"#cc22ff"
 -
   name:"Flirtatious Indigo Tea"
   hex:"#473f2d"
@@ -21299,6 +21320,9 @@
   name:"Grapeshot"
   hex:"#71384b"
 -
+  name:"Grapest"
+  hex:"#880066"
+-
   name:"Grapevine"
   hex:"#b194a6"
 -
@@ -23224,6 +23248,9 @@
 -
   name:"Herbal Tea"
   hex:"#f9fee9"
+-
+  name:"Herbal Vapors"
+  hex:"#ddffcc"
 -
   name:"Herbalist"
   hex:"#969e86"
@@ -25739,6 +25766,9 @@
   name:"Jodhpurs"
   hex:"#ebdcb6"
 -
+  name:"John Lemon"
+  hex:"#eeff22"
+-
   name:"Jojoba"
   hex:"#dabe81"
 -
@@ -26296,6 +26326,9 @@
 -
   name:"King Kong"
   hex:"#161410"
+-
+  name:"King Lizard"
+  hex:"#77dd22"
 -
   name:"King Neptune"
   hex:"#7794c0"
@@ -28541,6 +28574,9 @@
   name:"Lime Meringue"
   hex:"#e6ecd6"
 -
+  name:"Lime Mist"
+  hex:"#ddffaa"
+-
   name:"Lime Parfait"
   hex:"#95c577"
 -
@@ -29596,6 +29632,9 @@
 -
   name:"Magenta Twilight"
   hex:"#bb989f"
+-
+  name:"Magentella"
+  hex:"#d521b8"
 -
   name:"Maggie's Magic"
   hex:"#ddeee2"
@@ -32585,6 +32624,9 @@
   name:"Mossa"
   hex:"#b4c2b6"
 -
+  name:"Mosslands"
+  hex:"#779966"
+-
   name:"Mossleaf"
   hex:"#8c9d8f"
 -
@@ -33420,7 +33462,7 @@
   hex:"#c8d5dd"
 -
   name:"Nebula"
-  hex:"#b8c6be"
+  hex:"#a104c3"
 -
   name:"Nebula Outpost"
   hex:"#922b9c"
@@ -34894,6 +34936,9 @@
 -
   name:"Only Yesterday"
   hex:"#f4d1b9"
+-
+  name:"Onsen"
+  hex:"#66eebb"
 -
   name:"Ontario Violet"
   hex:"#777cb0"
@@ -37031,6 +37076,9 @@
   name:"Perfectly Purple"
   hex:"#694878"
 -
+  name:"Perfectly Purple Place"
+  hex:"#cc22aa"
+-
   name:"Perfume"
   hex:"#c2a9db"
 -
@@ -39116,6 +39164,12 @@
   name:"Possessed Plum"
   hex:"#773355"
 -
+  name:"Possessed Purple"
+  hex:"#881166"
+-
+  name:"Possessed Red"
+  hex:"#c2264d"
+-
   name:"Post Apocalyptic Cloud"
   hex:"#c8cdd8"
 -
@@ -39874,6 +39928,9 @@
 -
   name:"Purple Dusk"
   hex:"#7c6b76"
+-
+  name:"Purple Emperor"
+  hex:"#6633bb"
 -
   name:"Purple Empire"
   hex:"#5a4d55"
@@ -43655,6 +43712,9 @@
   name:"Saudi Sand"
   hex:"#9e958a"
 -
+  name:"Sauna Steam"
+  hex:"#edebe1"
+-
   name:"Sausage Roll"
   hex:"#ebdfcd"
 -
@@ -45638,6 +45698,12 @@
   name:"Singing the Blues"
   hex:"#2b4d68"
 -
+  name:"Sinister"
+  hex:"#12110e"
+-
+  name:"Sinister Minister"
+  hex:"#353331"
+-
   name:"Sinister Mood"
   hex:"#a89c94"
 -
@@ -46249,6 +46315,9 @@
 -
   name:"Snow Storm"
   hex:"#eeedea"
+-
+  name:"Snow Tiger"
+  hex:"#dadce0"
 -
   name:"Snow White"
   hex:"#eeffee"
@@ -50420,6 +50489,9 @@
   name:"Tiffany Rose"
   hex:"#d2a694"
 -
+  name:"Tiger"
+  hex:"#be9c67"
+-
   name:"Tiger Cat"
   hex:"#cda035"
 -
@@ -50428,6 +50500,9 @@
 -
   name:"Tiger Cub"
   hex:"#deae46"
+-
+  name:"Tiger King"
+  hex:"#dd9922"
 -
   name:"Tiger Moth"
   hex:"#f8f2dd"
@@ -50923,6 +50998,9 @@
 -
   name:"Townhouse Taupe"
   hex:"#bbb09b"
+-
+  name:"Toxic Boyfriend"
+  hex:"#ccff11"
 -
   name:"Toxic Essence"
   hex:"#cceebb"
