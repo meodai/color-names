@@ -929,6 +929,10 @@
 <hex>#aa1111</hex>
 </color>
 <color>
+<name>Buckeye</name>
+<hex>#674834</hex>
+</color>
+<color>
 <name>Bud Green</name>
 <hex>#79b465</hex>
 </color>
@@ -1273,6 +1277,10 @@
 <hex>#00ff55</hex>
 </color>
 <color>
+<name>Cauliflower</name>
+<hex>#ebe5d0</hex>
+</color>
+<color>
 <name>Caveman</name>
 <hex>#625c58</hex>
 </color>
@@ -1447,6 +1455,10 @@
 <color>
 <name>Chocolate</name>
 <hex>#d2691e</hex>
+</color>
+<color>
+<name>Chocolate Explosion</name>
+<hex>#8e473b</hex>
 </color>
 <color>
 <name>Chocolate Kiss</name>
@@ -2095,6 +2107,10 @@
 <color>
 <name>Delicate Ice</name>
 <hex>#b7d2e3</hex>
+</color>
+<color>
+<name>Delicate Lemon</name>
+<hex>#eedd77</hex>
 </color>
 <color>
 <name>Delicate Seashell</name>
@@ -4529,6 +4545,10 @@
 <hex>#b2103c</hex>
 </color>
 <color>
+<name>Jambalaya</name>
+<hex>#f7b572</hex>
+</color>
+<color>
 <name>James Blonde</name>
 <hex>#f2e3b5</hex>
 </color>
@@ -4559,6 +4579,10 @@
 <color>
 <name>Jedi Night</name>
 <hex>#041108</hex>
+</color>
+<color>
+<name>Jelly Berry</name>
+<hex>#ee1177</hex>
 </color>
 <color>
 <name>Jelly Slug</name>
@@ -5285,6 +5309,10 @@
 <hex>#e4cfb6</hex>
 </color>
 <color>
+<name>Macaroni</name>
+<hex>#f3d085</hex>
+</color>
+<color>
 <name>Macaroon</name>
 <hex>#b38b71</hex>
 </color>
@@ -5851,6 +5879,10 @@
 <color>
 <name>Mimosa</name>
 <hex>#f5e9d5</hex>
+</color>
+<color>
+<name>Minestrone</name>
+<hex>#c72616</hex>
 </color>
 <color>
 <name>Ming</name>
@@ -6785,6 +6817,10 @@
 <hex>#004488</hex>
 </color>
 <color>
+<name>Paella</name>
+<hex>#dcc61f</hex>
+</color>
+<color>
 <name>Pale Sky</name>
 <hex>#bdf6fe</hex>
 </color>
@@ -6985,6 +7021,10 @@
 <hex>#f3e0d8</hex>
 </color>
 <color>
+<name>Peachy Pinky</name>
+<hex>#ff775e</hex>
+</color>
+<color>
 <name>Peacock Pride</name>
 <hex>#006663</hex>
 </color>
@@ -6994,7 +7034,15 @@
 </color>
 <color>
 <name>Peanut Butter</name>
+<hex>#be893f</hex>
+</color>
+<color>
+<name>Peanut Butter Chicken</name>
 <hex>#ffb75f</hex>
+</color>
+<color>
+<name>Peanut Butter Jelly</name>
+<hex>#ce4a2d</hex>
 </color>
 <color>
 <name>Pear</name>
@@ -7781,6 +7829,10 @@
 <hex>#bb5522</hex>
 </color>
 <color>
+<name>Romesco</name>
+<hex>#f48101</hex>
+</color>
+<color>
 <name>Ruby</name>
 <hex>#ca0147</hex>
 </color>
@@ -7969,6 +8021,10 @@
 <hex>#770088</hex>
 </color>
 <color>
+<name>Unicorn Dust</name>
+<hex>#ff2f92</hex>
+</color>
+<color>
 <name>Valkyrie</name>
 <hex>#eecc22</hex>
 </color>
@@ -8135,6 +8191,10 @@
 <color>
 <name>Vin Cuit</name>
 <hex>#b47463</hex>
+</color>
+<color>
+<name>Vinaigrette</name>
+<hex>#efdaae</hex>
 </color>
 <color>
 <name>Vineyard</name>
@@ -8775,5 +8835,9 @@
 <color>
 <name>Zucchini</name>
 <hex>#17462e</hex>
+</color>
+<color>
+<name>Zucchini Noodles</name>
+<hex>#c8d07f</hex>
 </color>
 </colors>

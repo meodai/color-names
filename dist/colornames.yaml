@@ -69,7 +69,7 @@
   hex:"#aba798"
 -
   name:"Abbey White"
-  hex:"#ebe5d0"
+  hex:"#ece6d0"
 -
   name:"Abbot"
   hex:"#4d3c2d"
@@ -1870,6 +1870,9 @@
 -
   name:"Apricot Buff"
   hex:"#cd7e4d"
+-
+  name:"Apricot Chicken"
+  hex:"#da8923"
 -
   name:"Apricot Cream"
   hex:"#f1bd89"
@@ -4117,6 +4120,9 @@
 -
   name:"Beechnut"
   hex:"#c2c18d"
+-
+  name:"Beef Bourguignon"
+  hex:"#b64701"
 -
   name:"Beef Jerky"
   hex:"#a25768"
@@ -7694,6 +7700,9 @@
   name:"Büchel Cherry"
   hex:"#aa1111"
 -
+  name:"Buckeye"
+  hex:"#674834"
+-
   name:"Bucking Bronco"
   hex:"#996655"
 -
@@ -9437,6 +9446,9 @@
   name:"Caulerpa Lentillifera"
   hex:"#599c99"
 -
+  name:"Cauliflower"
+  hex:"#ebe5d0"
+-
   name:"Caustic Green"
   hex:"#11dd00"
 -
@@ -10586,11 +10598,17 @@
   name:"Chocolate Eclair"
   hex:"#674848"
 -
+  name:"Chocolate Explosion"
+  hex:"#8e473b"
+-
   name:"Chocolate Fondant"
   hex:"#56352d"
 -
   name:"Chocolate Fondue"
   hex:"#9a3001"
+-
+  name:"Chocolate Hazelnut"
+  hex:"#742719"
 -
   name:"Chocolate Kiss"
   hex:"#3c1421"
@@ -14147,6 +14165,9 @@
   name:"Deep Sea"
   hex:"#167e65"
 -
+  name:"Deep Sea Base"
+  hex:"#2c2c57"
+-
   name:"Deep Sea Coral"
   hex:"#d9615b"
 -
@@ -14296,6 +14317,9 @@
 -
   name:"Delicate Ice"
   hex:"#b7d2e3"
+-
+  name:"Delicate Lemon"
+  hex:"#eedd77"
 -
   name:"Delicate Lilac Crystal"
   hex:"#d7d2e2"
@@ -15274,6 +15298,9 @@
 -
   name:"Dragonlord Purple"
   hex:"#6241c7"
+-
+  name:"Dragons Lair"
+  hex:"#d50c15"
 -
   name:"Drake Tooth"
   hex:"#bbb0a4"
@@ -16864,6 +16891,9 @@
 -
   name:"Envious Pastel"
   hex:"#ddf3c2"
+-
+  name:"Environmental Study"
+  hex:"#00aa11"
 -
   name:"Envisage"
   hex:"#96bfb7"
@@ -19867,6 +19897,9 @@
 -
   name:"Garlic Clove"
   hex:"#e2d7c1"
+-
+  name:"Garlic Pesto"
+  hex:"#bfcf00"
 -
   name:"Garlic Suede"
   hex:"#cdd2bc"
@@ -25533,7 +25566,7 @@
   hex:"#26a5ba"
 -
   name:"Jambalaya"
-  hex:"#674834"
+  hex:"#f7b572"
 -
   name:"James Blonde"
   hex:"#f2e3b5"
@@ -25669,6 +25702,9 @@
 -
   name:"Jelly Bean"
   hex:"#44798e"
+-
+  name:"Jelly Berry"
+  hex:"#ee1177"
 -
   name:"Jelly Slug"
   hex:"#de6646"
@@ -26821,6 +26857,9 @@
 -
   name:"Lama"
   hex:"#e0bb95"
+-
+  name:"Lamb Chop"
+  hex:"#82502c"
 -
   name:"Lamb's Ears"
   hex:"#c8ccbc"
@@ -28769,6 +28808,9 @@
   name:"Lion of Menecrates"
   hex:"#eeaa66"
 -
+  name:"Lion's Lair"
+  hex:"#81522e"
+-
   name:"Lion's Mane"
   hex:"#e8af49"
 -
@@ -29189,6 +29231,9 @@
   name:"Lovely Harmony"
   hex:"#f4dbdc"
 -
+  name:"Lovely Lemonade"
+  hex:"#e9dd22"
+-
   name:"Lovely Lilac"
   hex:"#a7b0cc"
 -
@@ -29497,6 +29542,9 @@
 -
   name:"Macadamia Nut"
   hex:"#eee3dd"
+-
+  name:"Macaroni"
+  hex:"#f3d085"
 -
   name:"Macaroni and Cheese"
   hex:"#ffb97b"
@@ -31298,6 +31346,9 @@
   name:"Miami Spice"
   hex:"#907a6e"
 -
+  name:"Miami White"
+  hex:"#ccccee"
+-
   name:"Mica Creek"
   hex:"#70828f"
 -
@@ -31657,6 +31708,9 @@
 -
   name:"Minerva"
   hex:"#b5deda"
+-
+  name:"Minestrone"
+  hex:"#c72616"
 -
   name:"Ming"
   hex:"#407577"
@@ -33043,6 +33097,9 @@
 -
   name:"Mustard Brown"
   hex:"#ac7e04"
+-
+  name:"Mustard Crusted Salmon"
+  hex:"#ef8144"
 -
   name:"Mustard Flower"
   hex:"#d2bd0a"
@@ -35657,6 +35714,9 @@
   name:"Padua"
   hex:"#7eb394"
 -
+  name:"Paella"
+  hex:"#dcc61f"
+-
   name:"Pageant Song"
   hex:"#b6c3d1"
 -
@@ -36614,6 +36674,9 @@
   name:"Peach Juice"
   hex:"#ffcfab"
 -
+  name:"Peach Latte"
+  hex:"#e7c19f"
+-
   name:"Peach Macaron"
   hex:"#c67464"
 -
@@ -36716,6 +36779,9 @@
   name:"Peachy Pico"
   hex:"#ffccaa"
 -
+  name:"Peachy Pinky"
+  hex:"#ff775e"
+-
   name:"Peachy Sand"
   hex:"#ffdcb7"
 -
@@ -36756,7 +36822,13 @@
   hex:"#a6893a"
 -
   name:"Peanut Butter"
+  hex:"#be893f"
+-
+  name:"Peanut Butter Chicken"
   hex:"#ffb75f"
+-
+  name:"Peanut Butter Jelly"
+  hex:"#ce4a2d"
 -
   name:"Peapod"
   hex:"#82b185"
@@ -39154,6 +39226,9 @@
 -
   name:"Poseidon Jr."
   hex:"#66eeee"
+-
+  name:"Poseidon's Territory"
+  hex:"#4400ee"
 -
   name:"Posey Blue"
   hex:"#a5b4c6"
@@ -42251,6 +42326,9 @@
   name:"Romeo"
   hex:"#e3d2ce"
 -
+  name:"Romesco"
+  hex:"#f48101"
+-
   name:"Ronchi"
   hex:"#eab852"
 -
@@ -42667,6 +42745,9 @@
 -
   name:"Royal Silver"
   hex:"#e0dddd"
+-
+  name:"Royal Vessel"
+  hex:"#4433ee"
 -
   name:"Royal Yellow"
   hex:"#fada50"
@@ -43315,6 +43396,9 @@
 -
   name:"Salt Water Taffy"
   hex:"#d1ab99"
+-
+  name:"Salted Caramel"
+  hex:"#ebb367"
 -
   name:"Salted Pretzel"
   hex:"#816b56"
@@ -52349,6 +52433,9 @@
   name:"Vaporwave"
   hex:"#ff66ee"
 -
+  name:"Vaporwave Pool"
+  hex:"#99eebb"
+-
   name:"Vaquero Boots"
   hex:"#855f43"
 -
@@ -52795,6 +52882,9 @@
 -
   name:"Vin Rouge"
   hex:"#955264"
+-
+  name:"Vinaigrette"
+  hex:"#efdaae"
 -
   name:"Vinca"
   hex:"#5778a7"
@@ -55996,6 +56086,9 @@
 -
   name:"Zucchini Flower"
   hex:"#e8a64e"
+-
+  name:"Zucchini Noodles"
+  hex:"#c8d07f"
 -
   name:"Zumthor"
   hex:"#cdd5d5"

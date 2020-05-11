@@ -94,7 +94,7 @@
 </color>
 <color>
 <name>Abbey White</name>
-<hex>#ebe5d0</hex>
+<hex>#ece6d0</hex>
 </color>
 <color>
 <name>Abbot</name>
@@ -2495,6 +2495,10 @@
 <color>
 <name>Apricot Buff</name>
 <hex>#cd7e4d</hex>
+</color>
+<color>
+<name>Apricot Chicken</name>
+<hex>#da8923</hex>
 </color>
 <color>
 <name>Apricot Cream</name>
@@ -5491,6 +5495,10 @@
 <color>
 <name>Beechnut</name>
 <hex>#c2c18d</hex>
+</color>
+<color>
+<name>Beef Bourguignon</name>
+<hex>#b64701</hex>
 </color>
 <color>
 <name>Beef Jerky</name>
@@ -10261,6 +10269,10 @@
 <hex>#aa1111</hex>
 </color>
 <color>
+<name>Buckeye</name>
+<hex>#674834</hex>
+</color>
+<color>
 <name>Bucking Bronco</name>
 <hex>#996655</hex>
 </color>
@@ -12585,6 +12597,10 @@
 <hex>#599c99</hex>
 </color>
 <color>
+<name>Cauliflower</name>
+<hex>#ebe5d0</hex>
+</color>
+<color>
 <name>Caustic Green</name>
 <hex>#11dd00</hex>
 </color>
@@ -14117,12 +14133,20 @@
 <hex>#674848</hex>
 </color>
 <color>
+<name>Chocolate Explosion</name>
+<hex>#8e473b</hex>
+</color>
+<color>
 <name>Chocolate Fondant</name>
 <hex>#56352d</hex>
 </color>
 <color>
 <name>Chocolate Fondue</name>
 <hex>#9a3001</hex>
+</color>
+<color>
+<name>Chocolate Hazelnut</name>
+<hex>#742719</hex>
 </color>
 <color>
 <name>Chocolate Kiss</name>
@@ -18865,6 +18889,10 @@
 <hex>#167e65</hex>
 </color>
 <color>
+<name>Deep Sea Base</name>
+<hex>#2c2c57</hex>
+</color>
+<color>
 <name>Deep Sea Coral</name>
 <hex>#d9615b</hex>
 </color>
@@ -19063,6 +19091,10 @@
 <color>
 <name>Delicate Ice</name>
 <hex>#b7d2e3</hex>
+</color>
+<color>
+<name>Delicate Lemon</name>
+<hex>#eedd77</hex>
 </color>
 <color>
 <name>Delicate Lilac Crystal</name>
@@ -20367,6 +20399,10 @@
 <color>
 <name>Dragonlord Purple</name>
 <hex>#6241c7</hex>
+</color>
+<color>
+<name>Dragons Lair</name>
+<hex>#d50c15</hex>
 </color>
 <color>
 <name>Drake Tooth</name>
@@ -22487,6 +22523,10 @@
 <color>
 <name>Envious Pastel</name>
 <hex>#ddf3c2</hex>
+</color>
+<color>
+<name>Environmental Study</name>
+<hex>#00aa11</hex>
 </color>
 <color>
 <name>Envisage</name>
@@ -26491,6 +26531,10 @@
 <color>
 <name>Garlic Clove</name>
 <hex>#e2d7c1</hex>
+</color>
+<color>
+<name>Garlic Pesto</name>
+<hex>#bfcf00</hex>
 </color>
 <color>
 <name>Garlic Suede</name>
@@ -34046,7 +34090,7 @@
 </color>
 <color>
 <name>Jambalaya</name>
-<hex>#674834</hex>
+<hex>#f7b572</hex>
 </color>
 <color>
 <name>James Blonde</name>
@@ -34227,6 +34271,10 @@
 <color>
 <name>Jelly Bean</name>
 <hex>#44798e</hex>
+</color>
+<color>
+<name>Jelly Berry</name>
+<hex>#ee1177</hex>
 </color>
 <color>
 <name>Jelly Slug</name>
@@ -35763,6 +35811,10 @@
 <color>
 <name>Lama</name>
 <hex>#e0bb95</hex>
+</color>
+<color>
+<name>Lamb Chop</name>
+<hex>#82502c</hex>
 </color>
 <color>
 <name>Lamb's Ears</name>
@@ -38361,6 +38413,10 @@
 <hex>#eeaa66</hex>
 </color>
 <color>
+<name>Lion's Lair</name>
+<hex>#81522e</hex>
+</color>
+<color>
 <name>Lion's Mane</name>
 <hex>#e8af49</hex>
 </color>
@@ -38921,6 +38977,10 @@
 <hex>#f4dbdc</hex>
 </color>
 <color>
+<name>Lovely Lemonade</name>
+<hex>#e9dd22</hex>
+</color>
+<color>
 <name>Lovely Lilac</name>
 <hex>#a7b0cc</hex>
 </color>
@@ -39331,6 +39391,10 @@
 <color>
 <name>Macadamia Nut</name>
 <hex>#eee3dd</hex>
+</color>
+<color>
+<name>Macaroni</name>
+<hex>#f3d085</hex>
 </color>
 <color>
 <name>Macaroni and Cheese</name>
@@ -41733,6 +41797,10 @@
 <hex>#907a6e</hex>
 </color>
 <color>
+<name>Miami White</name>
+<hex>#ccccee</hex>
+</color>
+<color>
 <name>Mica Creek</name>
 <hex>#70828f</hex>
 </color>
@@ -42211,6 +42279,10 @@
 <color>
 <name>Minerva</name>
 <hex>#b5deda</hex>
+</color>
+<color>
+<name>Minestrone</name>
+<hex>#c72616</hex>
 </color>
 <color>
 <name>Ming</name>
@@ -44059,6 +44131,10 @@
 <color>
 <name>Mustard Brown</name>
 <hex>#ac7e04</hex>
+</color>
+<color>
+<name>Mustard Crusted Salmon</name>
+<hex>#ef8144</hex>
 </color>
 <color>
 <name>Mustard Flower</name>
@@ -47545,6 +47621,10 @@
 <hex>#7eb394</hex>
 </color>
 <color>
+<name>Paella</name>
+<hex>#dcc61f</hex>
+</color>
+<color>
 <name>Pageant Song</name>
 <hex>#b6c3d1</hex>
 </color>
@@ -48821,6 +48901,10 @@
 <hex>#ffcfab</hex>
 </color>
 <color>
+<name>Peach Latte</name>
+<hex>#e7c19f</hex>
+</color>
+<color>
 <name>Peach Macaron</name>
 <hex>#c67464</hex>
 </color>
@@ -48957,6 +49041,10 @@
 <hex>#ffccaa</hex>
 </color>
 <color>
+<name>Peachy Pinky</name>
+<hex>#ff775e</hex>
+</color>
+<color>
 <name>Peachy Sand</name>
 <hex>#ffdcb7</hex>
 </color>
@@ -49010,7 +49098,15 @@
 </color>
 <color>
 <name>Peanut Butter</name>
+<hex>#be893f</hex>
+</color>
+<color>
+<name>Peanut Butter Chicken</name>
 <hex>#ffb75f</hex>
+</color>
+<color>
+<name>Peanut Butter Jelly</name>
+<hex>#ce4a2d</hex>
 </color>
 <color>
 <name>Peapod</name>
@@ -52207,6 +52303,10 @@
 <color>
 <name>Poseidon Jr.</name>
 <hex>#66eeee</hex>
+</color>
+<color>
+<name>Poseidon's Territory</name>
+<hex>#4400ee</hex>
 </color>
 <color>
 <name>Posey Blue</name>
@@ -56337,6 +56437,10 @@
 <hex>#e3d2ce</hex>
 </color>
 <color>
+<name>Romesco</name>
+<hex>#f48101</hex>
+</color>
+<color>
 <name>Ronchi</name>
 <hex>#eab852</hex>
 </color>
@@ -56891,6 +56995,10 @@
 <color>
 <name>Royal Silver</name>
 <hex>#e0dddd</hex>
+</color>
+<color>
+<name>Royal Vessel</name>
+<hex>#4433ee</hex>
 </color>
 <color>
 <name>Royal Yellow</name>
@@ -57755,6 +57863,10 @@
 <color>
 <name>Salt Water Taffy</name>
 <hex>#d1ab99</hex>
+</color>
+<color>
+<name>Salted Caramel</name>
+<hex>#ebb367</hex>
 </color>
 <color>
 <name>Salted Pretzel</name>
@@ -69801,6 +69913,10 @@
 <hex>#ff66ee</hex>
 </color>
 <color>
+<name>Vaporwave Pool</name>
+<hex>#99eebb</hex>
+</color>
+<color>
 <name>Vaquero Boots</name>
 <hex>#855f43</hex>
 </color>
@@ -70395,6 +70511,10 @@
 <color>
 <name>Vin Rouge</name>
 <hex>#955264</hex>
+</color>
+<color>
+<name>Vinaigrette</name>
+<hex>#efdaae</hex>
 </color>
 <color>
 <name>Vinca</name>
@@ -74663,6 +74783,10 @@
 <color>
 <name>Zucchini Flower</name>
 <hex>#e8a64e</hex>
+</color>
+<color>
+<name>Zucchini Noodles</name>
+<hex>#c8d07f</hex>
 </color>
 <color>
 <name>Zumthor</name>

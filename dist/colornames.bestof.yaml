@@ -695,6 +695,9 @@
   name:"Büchel Cherry"
   hex:"#aa1111"
 -
+  name:"Buckeye"
+  hex:"#674834"
+-
   name:"Bud Green"
   hex:"#79b465"
 -
@@ -953,6 +956,9 @@
   name:"Cathode Green"
   hex:"#00ff55"
 -
+  name:"Cauliflower"
+  hex:"#ebe5d0"
+-
   name:"Caveman"
   hex:"#625c58"
 -
@@ -1084,6 +1090,9 @@
 -
   name:"Chocolate"
   hex:"#d2691e"
+-
+  name:"Chocolate Explosion"
+  hex:"#8e473b"
 -
   name:"Chocolate Kiss"
   hex:"#3c1421"
@@ -1570,6 +1579,9 @@
 -
   name:"Delicate Ice"
   hex:"#b7d2e3"
+-
+  name:"Delicate Lemon"
+  hex:"#eedd77"
 -
   name:"Delicate Seashell"
   hex:"#ffefdd"
@@ -3395,6 +3407,9 @@
   name:"Jalapeno Red"
   hex:"#b2103c"
 -
+  name:"Jambalaya"
+  hex:"#f7b572"
+-
   name:"James Blonde"
   hex:"#f2e3b5"
 -
@@ -3418,6 +3433,9 @@
 -
   name:"Jedi Night"
   hex:"#041108"
+-
+  name:"Jelly Berry"
+  hex:"#ee1177"
 -
   name:"Jelly Slug"
   hex:"#de6646"
@@ -3962,6 +3980,9 @@
   name:"Macadamia"
   hex:"#e4cfb6"
 -
+  name:"Macaroni"
+  hex:"#f3d085"
+-
   name:"Macaroon"
   hex:"#b38b71"
 -
@@ -4387,6 +4408,9 @@
 -
   name:"Mimosa"
   hex:"#f5e9d5"
+-
+  name:"Minestrone"
+  hex:"#c72616"
 -
   name:"Ming"
   hex:"#407577"
@@ -5087,6 +5111,9 @@
   name:"Pacific Depths"
   hex:"#004488"
 -
+  name:"Paella"
+  hex:"#dcc61f"
+-
   name:"Pale Sky"
   hex:"#bdf6fe"
 -
@@ -5237,6 +5264,9 @@
   name:"Peachy Milk"
   hex:"#f3e0d8"
 -
+  name:"Peachy Pinky"
+  hex:"#ff775e"
+-
   name:"Peacock Pride"
   hex:"#006663"
 -
@@ -5244,7 +5274,13 @@
   hex:"#7a4434"
 -
   name:"Peanut Butter"
+  hex:"#be893f"
+-
+  name:"Peanut Butter Chicken"
   hex:"#ffb75f"
+-
+  name:"Peanut Butter Jelly"
+  hex:"#ce4a2d"
 -
   name:"Pear"
   hex:"#d1e231"
@@ -5834,6 +5870,9 @@
   name:"Roland-Garros"
   hex:"#bb5522"
 -
+  name:"Romesco"
+  hex:"#f48101"
+-
   name:"Ruby"
   hex:"#ca0147"
 -
@@ -5975,6 +6014,9 @@
   name:"Ultraberry"
   hex:"#770088"
 -
+  name:"Unicorn Dust"
+  hex:"#ff2f92"
+-
   name:"Valkyrie"
   hex:"#eecc22"
 -
@@ -6100,6 +6142,9 @@
 -
   name:"Vin Cuit"
   hex:"#b47463"
+-
+  name:"Vinaigrette"
+  hex:"#efdaae"
 -
   name:"Vineyard"
   hex:"#819e84"
@@ -6580,3 +6625,6 @@
 -
   name:"Zucchini"
   hex:"#17462e"
+-
+  name:"Zucchini Noodles"
+  hex:"#c8d07f"
