@@ -657,6 +657,10 @@
 <hex>#ff474c</hex>
 </color>
 <color>
+<name>Blood Donor</name>
+<hex>#ea1822</hex>
+</color>
+<color>
 <name>Blood Orange</name>
 <hex>#d1001c</hex>
 </color>
@@ -1891,6 +1895,10 @@
 <color>
 <name>Cucumber</name>
 <hex>#006400</hex>
+</color>
+<color>
+<name>Cucumber Milk</name>
+<hex>#c2f177</hex>
 </color>
 <color>
 <name>Cumin</name>
@@ -4707,6 +4715,10 @@
 <color>
 <name>Katmandu</name>
 <hex>#ad9a5d</hex>
+</color>
+<color>
+<name>Katy Berry</name>
+<hex>#aa0077</hex>
 </color>
 <color>
 <name>Kefir</name>
@@ -7889,6 +7901,10 @@
 <hex>#f48101</hex>
 </color>
 <color>
+<name>Royal Night</name>
+<hex>#2b3191</hex>
+</color>
+<color>
 <name>Ruby</name>
 <hex>#ca0147</hex>
 </color>
@@ -8005,6 +8021,10 @@
 <hex>#b6273e</hex>
 </color>
 <color>
+<name>Tomato Baby</name>
+<hex>#e10d18</hex>
+</color>
+<color>
 <name>Too Dark Tonight</name>
 <hex>#0011bb</hex>
 </color>
@@ -8013,8 +8033,16 @@
 <hex>#dd8844</hex>
 </color>
 <color>
+<name>Toxic Sludge</name>
+<hex>#00bb33</hex>
+</color>
+<color>
 <name>Transcendence</name>
 <hex>#f8f4d8</hex>
+</color>
+<color>
+<name>Transfusion</name>
+<hex>#ea1833</hex>
 </color>
 <color>
 <name>Treetop</name>
@@ -8087,6 +8115,10 @@
 <color>
 <name>Ultraberry</name>
 <hex>#770088</hex>
+</color>
+<color>
+<name>Underwater Moonlight</name>
+<hex>#4488aa</hex>
 </color>
 <color>
 <name>Unicorn Dust</name>
@@ -8475,6 +8507,10 @@
 <color>
 <name>Watermelon Milk</name>
 <hex>#dfcfca</hex>
+</color>
+<color>
+<name>Watermelonade</name>
+<hex>#eb4652</hex>
 </color>
 <color>
 <name>Waterworld</name>

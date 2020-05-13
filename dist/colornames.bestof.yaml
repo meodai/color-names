@@ -491,6 +491,9 @@
   name:"Blood Burst"
   hex:"#ff474c"
 -
+  name:"Blood Donor"
+  hex:"#ea1822"
+-
   name:"Blood Orange"
   hex:"#d1001c"
 -
@@ -1417,6 +1420,9 @@
 -
   name:"Cucumber"
   hex:"#006400"
+-
+  name:"Cucumber Milk"
+  hex:"#c2f177"
 -
   name:"Cumin"
   hex:"#a58459"
@@ -3529,6 +3535,9 @@
 -
   name:"Katmandu"
   hex:"#ad9a5d"
+-
+  name:"Katy Berry"
+  hex:"#aa0077"
 -
   name:"Kefir"
   hex:"#d5d5ce"
@@ -5915,6 +5924,9 @@
   name:"Romesco"
   hex:"#f48101"
 -
+  name:"Royal Night"
+  hex:"#2b3191"
+-
   name:"Ruby"
   hex:"#ca0147"
 -
@@ -6002,14 +6014,23 @@
   name:"Timeless Beauty"
   hex:"#b6273e"
 -
+  name:"Tomato Baby"
+  hex:"#e10d18"
+-
   name:"Too Dark Tonight"
   hex:"#0011bb"
 -
   name:"Touch of Glamor"
   hex:"#dd8844"
 -
+  name:"Toxic Sludge"
+  hex:"#00bb33"
+-
   name:"Transcendence"
   hex:"#f8f4d8"
+-
+  name:"Transfusion"
+  hex:"#ea1833"
 -
   name:"Treetop"
   hex:"#91b6ac"
@@ -6064,6 +6085,9 @@
 -
   name:"Ultraberry"
   hex:"#770088"
+-
+  name:"Underwater Moonlight"
+  hex:"#4488aa"
 -
   name:"Unicorn Dust"
   hex:"#ff2f92"
@@ -6355,6 +6379,9 @@
 -
   name:"Watermelon Milk"
   hex:"#dfcfca"
+-
+  name:"Watermelonade"
+  hex:"#eb4652"
 -
   name:"Waterworld"
   hex:"#00718a"
