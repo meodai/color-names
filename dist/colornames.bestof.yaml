@@ -2117,6 +2117,9 @@
   name:"Fire Ant"
   hex:"#be6400"
 -
+  name:"Fire Bolt"
+  hex:"#cc4411"
+-
   name:"Fire Engine"
   hex:"#fe0002"
 -
@@ -2617,6 +2620,9 @@
 -
   name:"Gold Tooth"
   hex:"#dbb40c"
+-
+  name:"Gold Vein"
+  hex:"#d6b956"
 -
   name:"Golden Boy"
   hex:"#ffdd44"
@@ -5642,6 +5648,9 @@
   name:"Poison Purple"
   hex:"#7f01fe"
 -
+  name:"Poisonous"
+  hex:"#55ff11"
+-
   name:"Poisonous Dart"
   hex:"#77ff66"
 -
@@ -5749,6 +5758,9 @@
 -
   name:"Precious Pumpkin"
   hex:"#e16233"
+-
+  name:"Pressing my Luck"
+  hex:"#00cc11"
 -
   name:"Pretty in Pink"
   hex:"#fabfe4"

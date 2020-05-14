@@ -2825,6 +2825,10 @@
 <hex>#be6400</hex>
 </color>
 <color>
+<name>Fire Bolt</name>
+<hex>#cc4411</hex>
+</color>
+<color>
 <name>Fire Engine</name>
 <hex>#fe0002</hex>
 </color>
@@ -3491,6 +3495,10 @@
 <color>
 <name>Gold Tooth</name>
 <hex>#dbb40c</hex>
+</color>
+<color>
+<name>Gold Vein</name>
+<hex>#d6b956</hex>
 </color>
 <color>
 <name>Golden Boy</name>
@@ -7525,6 +7533,10 @@
 <hex>#7f01fe</hex>
 </color>
 <color>
+<name>Poisonous</name>
+<hex>#55ff11</hex>
+</color>
+<color>
 <name>Poisonous Dart</name>
 <hex>#77ff66</hex>
 </color>
@@ -7667,6 +7679,10 @@
 <color>
 <name>Precious Pumpkin</name>
 <hex>#e16233</hex>
+</color>
+<color>
+<name>Pressing my Luck</name>
+<hex>#00cc11</hex>
 </color>
 <color>
 <name>Pretty in Pink</name>

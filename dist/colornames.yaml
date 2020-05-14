@@ -18071,6 +18071,9 @@
   name:"Fire Axe Red"
   hex:"#ce1620"
 -
+  name:"Fire Bolt"
+  hex:"#cc4411"
+-
   name:"Fire Bush"
   hex:"#e09842"
 -
@@ -20692,6 +20695,9 @@
 -
   name:"Gold Tooth"
   hex:"#dbb40c"
+-
+  name:"Gold Vein"
+  hex:"#d6b956"
 -
   name:"Gold Wash"
   hex:"#d4c19e"
@@ -38876,6 +38882,9 @@
   name:"Poisoning Green"
   hex:"#66ff11"
 -
+  name:"Poisonous"
+  hex:"#55ff11"
+-
   name:"Poisonous Apple"
   hex:"#993333"
 -
@@ -39580,6 +39589,9 @@
 -
   name:"Pressed Laser Lemon"
   hex:"#fefe22"
+-
+  name:"Pressing my Luck"
+  hex:"#00cc11"
 -
   name:"Prestige Blue"
   hex:"#303742"
