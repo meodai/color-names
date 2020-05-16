@@ -296,6 +296,9 @@
   name:"Batman"
   hex:"#656e72"
 -
+  name:"Bats Cloak"
+  hex:"#1f1518"
+-
   name:"Battletoad"
   hex:"#11cc55"
 -
@@ -496,6 +499,9 @@
 -
   name:"Blood Orange"
   hex:"#d1001c"
+-
+  name:"Blood Rush"
+  hex:"#aa2222"
 -
   name:"Bloodhound"
   hex:"#bb5511"
@@ -739,6 +745,9 @@
 -
   name:"Burning Flame"
   hex:"#ffb162"
+-
+  name:"Burning Trail"
+  hex:"#ee9922"
 -
   name:"Burnt Red"
   hex:"#9f2305"
@@ -2330,6 +2339,9 @@
   name:"Freefall"
   hex:"#565266"
 -
+  name:"Freezing Vapor"
+  hex:"#d4e9f5"
+-
   name:"French Blue"
   hex:"#0072bb"
 -
@@ -2735,6 +2747,9 @@
   name:"Green Tea Mochi"
   hex:"#90a96e"
 -
+  name:"Green Thumb"
+  hex:"#779900"
+-
   name:"Green Venom"
   hex:"#b8f818"
 -
@@ -2936,6 +2951,9 @@
   name:"Heavy Violet"
   hex:"#4f566c"
 -
+  name:"Hedge Garden"
+  hex:"#00aa11"
+-
   name:"Helium"
   hex:"#eae5d8"
 -
@@ -3070,6 +3088,9 @@
 -
   name:"Hollow Knight"
   hex:"#330055"
+-
+  name:"Holy Crow"
+  hex:"#332f2c"
 -
   name:"Holy Grail"
   hex:"#e8d720"
@@ -5849,6 +5870,9 @@
   name:"Purple Rain"
   hex:"#7442c8"
 -
+  name:"Purple Void"
+  hex:"#442244"
+-
   name:"Put on Ice"
   hex:"#c8ddea"
 -
@@ -5919,7 +5943,7 @@
   hex:"#85464b"
 -
   name:"Red Menace"
-  hex:"#aa2222"
+  hex:"#aa2121"
 -
   name:"Redrum"
   hex:"#ff2200"
@@ -5989,6 +6013,9 @@
 -
   name:"Space Exploration"
   hex:"#001199"
+-
+  name:"Spectacular Purple"
+  hex:"#bb00ff"
 -
   name:"Splashing Wave"
   hex:"#44ddff"

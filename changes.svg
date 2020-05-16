@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 990">
   <defs>
     <style type="text/css">
       @import url('https://rsms.me/inter/inter.css');
@@ -9,6 +9,6 @@
       }
     </style>
   </defs>
-  <rect fill="#212121" x="0" y="0" width="600" height="360"/>
-  <text x="40" y="90" fill="#cc4411">Fire Bolt</text><text x="40" y="160" fill="#d6b956">Gold Vein</text><text x="40" y="230" fill="#55ff11">Poisonous</text><text x="40" y="300" fill="#00cc11">Pressing my Luck</text>
+  <rect fill="#212121" x="0" y="0" width="600" height="990"/>
+  <text x="40" y="90" fill="#4fc172">Acid Sleazebag</text><text x="40" y="160" fill="#1f1518">Bats Cloak</text><text x="40" y="230" fill="#aa2222">Blood Rush</text><text x="40" y="300" fill="#ee9922">Burning Trail</text><text x="40" y="370" fill="#88bb00">Environmental Study</text><text x="40" y="440" fill="#d4e9f5">Freezing Vapor</text><text x="40" y="510" fill="#00aa11">Hedge Garden</text><text x="40" y="580" fill="#332f2c">Holy Crow</text><text x="40" y="650" fill="#745947">Old Porch</text><text x="40" y="720" fill="#442244">Purple Void</text><text x="40" y="790" fill="#7be892">Ragweed</text><text x="40" y="860" fill="#aa2121">Red Menace</text><text x="40" y="930" fill="#bb00ff">Spectacular Purple</text>
 </svg>

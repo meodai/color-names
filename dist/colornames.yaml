@@ -188,6 +188,9 @@
   name:"Acid Pops"
   hex:"#33ee66"
 -
+  name:"Acid Sleazebag"
+  hex:"#4fc172"
+-
   name:"Acini di Pepe"
   hex:"#ffd8b1"
 -
@@ -3815,6 +3818,9 @@
   name:"Baton Rouge"
   hex:"#973c6c"
 -
+  name:"Bats Cloak"
+  hex:"#1f1518"
+-
   name:"Battered Sausage"
   hex:"#ede2d4"
 -
@@ -5356,6 +5362,9 @@
 -
   name:"Blood Red"
   hex:"#980002"
+-
+  name:"Blood Rush"
+  hex:"#aa2222"
 -
   name:"Blood Thorn"
   hex:"#b03060"
@@ -7981,6 +7990,9 @@
 -
   name:"Burning Tomato"
   hex:"#eb5030"
+-
+  name:"Burning Trail"
+  hex:"#ee9922"
 -
   name:"Burnished Bark"
   hex:"#6a3d36"
@@ -16920,7 +16932,7 @@
   hex:"#ddf3c2"
 -
   name:"Environmental Study"
-  hex:"#00aa11"
+  hex:"#88bb00"
 -
   name:"Envisage"
   hex:"#96bfb7"
@@ -19024,6 +19036,9 @@
 -
   name:"Freesia"
   hex:"#f3c12c"
+-
+  name:"Freezing Vapor"
+  hex:"#d4e9f5"
 -
   name:"Freinacht Black"
   hex:"#232f36"
@@ -23201,6 +23216,9 @@
   name:"Heavy Warm Grey"
   hex:"#bdb3a7"
 -
+  name:"Hedge Garden"
+  hex:"#00aa11"
+-
   name:"Hedge Green"
   hex:"#768a75"
 -
@@ -23776,6 +23794,9 @@
 -
   name:"Hollywood Starlet"
   hex:"#f2d082"
+-
+  name:"Holy Crow"
+  hex:"#332f2c"
 -
   name:"Holy Grail"
   hex:"#e8d720"
@@ -34847,6 +34868,9 @@
   name:"Old Pink"
   hex:"#c77986"
 -
+  name:"Old Porch"
+  hex:"#745947"
+-
   name:"Old Prune"
   hex:"#8272a4"
 -
@@ -40328,6 +40352,9 @@
   name:"Purple Verbena"
   hex:"#46354b"
 -
+  name:"Purple Void"
+  hex:"#442244"
+-
   name:"Purple Wine"
   hex:"#8c3573"
 -
@@ -40732,6 +40759,9 @@
 -
   name:"Ragtime Blues"
   hex:"#4a5e6c"
+-
+  name:"Ragweed"
+  hex:"#7be892"
 -
   name:"Railroad Ties"
   hex:"#544540"
@@ -41328,7 +41358,7 @@
   hex:"#834c4b"
 -
   name:"Red Menace"
-  hex:"#aa2222"
+  hex:"#aa2121"
 -
   name:"Red Mull"
   hex:"#ff8888"
@@ -47260,6 +47290,9 @@
 -
   name:"Speckled Easter Egg"
   hex:"#d38798"
+-
+  name:"Spectacular Purple"
+  hex:"#bb00ff"
 -
   name:"Spectra"
   hex:"#375d4f"

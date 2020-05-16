@@ -397,6 +397,10 @@
 <hex>#656e72</hex>
 </color>
 <color>
+<name>Bats Cloak</name>
+<hex>#1f1518</hex>
+</color>
+<color>
 <name>Battletoad</name>
 <hex>#11cc55</hex>
 </color>
@@ -663,6 +667,10 @@
 <color>
 <name>Blood Orange</name>
 <hex>#d1001c</hex>
+</color>
+<color>
+<name>Blood Rush</name>
+<hex>#aa2222</hex>
 </color>
 <color>
 <name>Bloodhound</name>
@@ -987,6 +995,10 @@
 <color>
 <name>Burning Flame</name>
 <hex>#ffb162</hex>
+</color>
+<color>
+<name>Burning Trail</name>
+<hex>#ee9922</hex>
 </color>
 <color>
 <name>Burnt Red</name>
@@ -3109,6 +3121,10 @@
 <hex>#565266</hex>
 </color>
 <color>
+<name>Freezing Vapor</name>
+<hex>#d4e9f5</hex>
+</color>
+<color>
 <name>French Blue</name>
 <hex>#0072bb</hex>
 </color>
@@ -3649,6 +3665,10 @@
 <hex>#90a96e</hex>
 </color>
 <color>
+<name>Green Thumb</name>
+<hex>#779900</hex>
+</color>
+<color>
 <name>Green Venom</name>
 <hex>#b8f818</hex>
 </color>
@@ -3917,6 +3937,10 @@
 <hex>#4f566c</hex>
 </color>
 <color>
+<name>Hedge Garden</name>
+<hex>#00aa11</hex>
+</color>
+<color>
 <name>Helium</name>
 <hex>#eae5d8</hex>
 </color>
@@ -4095,6 +4119,10 @@
 <color>
 <name>Hollow Knight</name>
 <hex>#330055</hex>
+</color>
+<color>
+<name>Holy Crow</name>
+<hex>#332f2c</hex>
 </color>
 <color>
 <name>Holy Grail</name>
@@ -7801,6 +7829,10 @@
 <hex>#7442c8</hex>
 </color>
 <color>
+<name>Purple Void</name>
+<hex>#442244</hex>
+</color>
+<color>
 <name>Put on Ice</name>
 <hex>#c8ddea</hex>
 </color>
@@ -7894,7 +7926,7 @@
 </color>
 <color>
 <name>Red Menace</name>
-<hex>#aa2222</hex>
+<hex>#aa2121</hex>
 </color>
 <color>
 <name>Redrum</name>
@@ -7987,6 +8019,10 @@
 <color>
 <name>Space Exploration</name>
 <hex>#001199</hex>
+</color>
+<color>
+<name>Spectacular Purple</name>
+<hex>#bb00ff</hex>
 </color>
 <color>
 <name>Splashing Wave</name>

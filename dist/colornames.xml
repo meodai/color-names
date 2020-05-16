@@ -253,6 +253,10 @@
 <hex>#33ee66</hex>
 </color>
 <color>
+<name>Acid Sleazebag</name>
+<hex>#4fc172</hex>
+</color>
+<color>
 <name>Acini di Pepe</name>
 <hex>#ffd8b1</hex>
 </color>
@@ -5089,6 +5093,10 @@
 <hex>#973c6c</hex>
 </color>
 <color>
+<name>Bats Cloak</name>
+<hex>#1f1518</hex>
+</color>
+<color>
 <name>Battered Sausage</name>
 <hex>#ede2d4</hex>
 </color>
@@ -7143,6 +7151,10 @@
 <color>
 <name>Blood Red</name>
 <hex>#980002</hex>
+</color>
+<color>
+<name>Blood Rush</name>
+<hex>#aa2222</hex>
 </color>
 <color>
 <name>Blood Thorn</name>
@@ -10643,6 +10655,10 @@
 <color>
 <name>Burning Tomato</name>
 <hex>#eb5030</hex>
+</color>
+<color>
+<name>Burning Trail</name>
+<hex>#ee9922</hex>
 </color>
 <color>
 <name>Burnished Bark</name>
@@ -22562,7 +22578,7 @@
 </color>
 <color>
 <name>Environmental Study</name>
-<hex>#00aa11</hex>
+<hex>#88bb00</hex>
 </color>
 <color>
 <name>Envisage</name>
@@ -25367,6 +25383,10 @@
 <color>
 <name>Freesia</name>
 <hex>#f3c12c</hex>
+</color>
+<color>
+<name>Freezing Vapor</name>
+<hex>#d4e9f5</hex>
 </color>
 <color>
 <name>Freinacht Black</name>
@@ -30937,6 +30957,10 @@
 <hex>#bdb3a7</hex>
 </color>
 <color>
+<name>Hedge Garden</name>
+<hex>#00aa11</hex>
+</color>
+<color>
 <name>Hedge Green</name>
 <hex>#768a75</hex>
 </color>
@@ -31703,6 +31727,10 @@
 <color>
 <name>Hollywood Starlet</name>
 <hex>#f2d082</hex>
+</color>
+<color>
+<name>Holy Crow</name>
+<hex>#332f2c</hex>
 </color>
 <color>
 <name>Holy Grail</name>
@@ -46465,6 +46493,10 @@
 <hex>#c77986</hex>
 </color>
 <color>
+<name>Old Porch</name>
+<hex>#745947</hex>
+</color>
+<color>
 <name>Old Prune</name>
 <hex>#8272a4</hex>
 </color>
@@ -53773,6 +53805,10 @@
 <hex>#46354b</hex>
 </color>
 <color>
+<name>Purple Void</name>
+<hex>#442244</hex>
+</color>
+<color>
 <name>Purple Wine</name>
 <hex>#8c3573</hex>
 </color>
@@ -54311,6 +54347,10 @@
 <color>
 <name>Ragtime Blues</name>
 <hex>#4a5e6c</hex>
+</color>
+<color>
+<name>Ragweed</name>
+<hex>#7be892</hex>
 </color>
 <color>
 <name>Railroad Ties</name>
@@ -55106,7 +55146,7 @@
 </color>
 <color>
 <name>Red Menace</name>
-<hex>#aa2222</hex>
+<hex>#aa2121</hex>
 </color>
 <color>
 <name>Red Mull</name>
@@ -63015,6 +63055,10 @@
 <color>
 <name>Speckled Easter Egg</name>
 <hex>#d38798</hex>
+</color>
+<color>
+<name>Spectacular Purple</name>
+<hex>#bb00ff</hex>
 </color>
 <color>
 <name>Spectra</name>

@@ -98,6 +98,7 @@
 --color-bats-blood-soup:#ee3366;
 --color-bath-bubbles:#e6f2ea;
 --color-batman:#656e72;
+--color-bats-cloak:#1f1518;
 --color-battletoad:#11cc55;
 --color-bay:#bae5d6;
 --color-bay-view:#6a819e;
@@ -165,6 +166,7 @@
 --color-blood-burst:#ff474c;
 --color-blood-donor:#ea1822;
 --color-blood-orange:#d1001c;
+--color-blood-rush:#aa2222;
 --color-bloodhound:#bb5511;
 --color-bloodthirsty:#880011;
 --color-bloody-salmon:#cc4433;
@@ -246,6 +248,7 @@
 --color-bureaucracy:#746c8f;
 --color-burning-fireflies:#ff1166;
 --color-burning-flame:#ffb162;
+--color-burning-trail:#ee9922;
 --color-burnt-red:#9f2305;
 --color-burrito:#eed7c1;
 --color-butter:#ffff81;
@@ -776,6 +779,7 @@
 --color-frankenstein:#7ba05b;
 --color-free-spirit:#deeeed;
 --color-freefall:#565266;
+--color-freezing-vapor:#d4e9f5;
 --color-french-blue:#0072bb;
 --color-french-oak:#bb9e7c;
 --color-french-wine:#ac1e44;
@@ -911,6 +915,7 @@
 --color-green-revolution:#009944;
 --color-green-tea:#b5b68f;
 --color-green-tea-mochi:#90a96e;
+--color-green-thumb:#779900;
 --color-green-venom:#b8f818;
 --color-greenfinch:#bda928;
 --color-gremlin:#a79954;
@@ -978,6 +983,7 @@
 --color-heavy-orange:#ee4328;
 --color-heavy-red:#9e1212;
 --color-heavy-violet:#4f566c;
+--color-hedge-garden:#00aa11;
 --color-helium:#eae5d8;
 --color-hello-fall:#995533;
 --color-hello-spring:#44dd66;
@@ -1023,6 +1029,7 @@
 --color-holland-tulip:#f89851;
 --color-hollandaise:#ffee44;
 --color-hollow-knight:#330055;
+--color-holy-crow:#332f2c;
 --color-holy-grail:#e8d720;
 --color-home-brew:#897b66;
 --color-homeopathic-blue:#dbe7e3;
@@ -1949,6 +1956,7 @@
 --color-purple-pizzazz:#fe4eda;
 --color-purple-poodle:#dab4cc;
 --color-purple-rain:#7442c8;
+--color-purple-void:#442244;
 --color-put-on-ice:#c8ddea;
 --color-pyramid:#9f7d4f;
 --color-quack-quack:#ffe989;
@@ -1972,7 +1980,7 @@
 --color-rare-red:#dd1133;
 --color-raspberry:#b00149;
 --color-red-elegance:#85464b;
---color-red-menace:#aa2222;
+--color-red-menace:#aa2121;
 --color-redrum:#ff2200;
 --color-retro-nectarine:#ef7d16;
 --color-retro-vibe:#cb9711;
@@ -1996,6 +2004,7 @@
 --color-sneaky-sesame:#896a46;
 --color-space-dust:#002299;
 --color-space-exploration:#001199;
+--color-spectacular-purple:#bb00ff;
 --color-splashing-wave:#44ddff;
 --color-starship-tonic:#cce7e8;
 --color-sugar-quill:#ebe5d7;
