@@ -59,6 +59,9 @@
   name:"Abalone"
   hex:"#f8f3f6"
 -
+  name:"Abandoned Mansion"
+  hex:"#94877e"
+-
   name:"Abbey"
   hex:"#4c4f56"
 -
@@ -2869,6 +2872,9 @@
 -
   name:"Autumn Bloom"
   hex:"#ffe0cb"
+-
+  name:"Autumn Crocodile"
+  hex:"#447744"
 -
   name:"Autumn Fall"
   hex:"#67423b"
@@ -7706,6 +7712,9 @@
   name:"Bubblegum"
   hex:"#ea738d"
 -
+  name:"Bubblegum Baby Girl"
+  hex:"#cc55ee"
+-
   name:"Bubbles"
   hex:"#e7feff"
 -
@@ -8404,6 +8413,9 @@
 -
   name:"Cafe Royale"
   hex:"#6a4928"
+-
+  name:"Caffeinated Cinnamon"
+  hex:"#885511"
 -
   name:"Cairns"
   hex:"#0a6b92"
@@ -17951,6 +17963,9 @@
   name:"Fiery Rose"
   hex:"#ff5470"
 -
+  name:"Fiery Salmon"
+  hex:"#f76564"
+-
   name:"Fiesta"
   hex:"#edd8d2"
 -
@@ -18130,6 +18145,9 @@
 -
   name:"Firecracker"
   hex:"#f36944"
+-
+  name:"Firecracker Salmon"
+  hex:"#f36363"
 -
   name:"Fired Brick"
   hex:"#6a2e2a"
@@ -19039,6 +19057,12 @@
 -
   name:"Freezing Vapor"
   hex:"#d4e9f5"
+-
+  name:"Freezy Breezy"
+  hex:"#99eeee"
+-
+  name:"Freezy Wind"
+  hex:"#99ffdd"
 -
   name:"Freinacht Black"
   hex:"#232f36"
@@ -20515,6 +20539,9 @@
 -
   name:"Glorious Gold"
   hex:"#cba956"
+-
+  name:"Glorious Green Glitter"
+  hex:"#aaee11"
 -
   name:"Glossy Black"
   hex:"#110011"
@@ -25886,6 +25913,9 @@
   name:"Jonquil"
   hex:"#eef293"
 -
+  name:"Jordan Jazz"
+  hex:"#037a3b"
+-
   name:"Jordy Blue"
   hex:"#7aaae0"
 -
@@ -26518,6 +26548,9 @@
 -
   name:"Kitsurubami Brown"
   hex:"#bb8141"
+-
+  name:"Kitten's Paw"
+  hex:"#daa89b"
 -
   name:"Kittiwake Gull"
   hex:"#ccccbb"
@@ -33098,8 +33131,14 @@
   name:"Mulled Wine"
   hex:"#524d5b"
 -
+  name:"Mulu Frog"
+  hex:"#55bb00"
+-
   name:"Mummy's Tomb"
   hex:"#828e84"
+-
+  name:"Munch On Melon"
+  hex:"#f23e67"
 -
   name:"Munchkin"
   hex:"#9bb139"
@@ -34303,6 +34342,9 @@
 -
   name:"Nuclear Fallout"
   hex:"#aa9900"
+-
+  name:"Nuclear Mango"
+  hex:"#ee9933"
 -
   name:"Nuclear Meltdown"
   hex:"#44ee00"
@@ -37712,6 +37754,9 @@
   name:"Pickled Okra"
   hex:"#887647"
 -
+  name:"Pickled Pineapple"
+  hex:"#eeff33"
+-
   name:"Pickled Pink"
   hex:"#da467d"
 -
@@ -38644,6 +38689,9 @@
 -
   name:"Plastic Marble"
   hex:"#ffddcc"
+-
+  name:"Plastic Pines"
+  hex:"#55aa11"
 -
   name:"Plastic Veggie"
   hex:"#22ff22"
@@ -43517,6 +43565,9 @@
   name:"Salted Caramel"
   hex:"#ebb367"
 -
+  name:"Salted Caramel Popcorn"
+  hex:"#fdb251"
+-
   name:"Salted Pretzel"
   hex:"#816b56"
 -
@@ -46093,6 +46144,9 @@
 -
   name:"Sky Wanderer"
   hex:"#b8dced"
+-
+  name:"Skyan"
+  hex:"#66ccff"
 -
   name:"Skydiver"
   hex:"#83acd3"
@@ -51425,6 +51479,9 @@
   name:"Tree Pose"
   hex:"#bdc7bc"
 -
+  name:"Tree Python"
+  hex:"#22cc00"
+-
   name:"Tree Sap"
   hex:"#cc7711"
 -
@@ -52654,6 +52711,9 @@
 -
   name:"Velvet Clover"
   hex:"#656d63"
+-
+  name:"Velvet Cosmos"
+  hex:"#441144"
 -
   name:"Velvet Cupcake"
   hex:"#aa0066"

@@ -81,6 +81,10 @@
 <hex>#f8f3f6</hex>
 </color>
 <color>
+<name>Abandoned Mansion</name>
+<hex>#94877e</hex>
+</color>
+<color>
 <name>Abbey</name>
 <hex>#4c4f56</hex>
 </color>
@@ -3827,6 +3831,10 @@
 <color>
 <name>Autumn Bloom</name>
 <hex>#ffe0cb</hex>
+</color>
+<color>
+<name>Autumn Crocodile</name>
+<hex>#447744</hex>
 </color>
 <color>
 <name>Autumn Fall</name>
@@ -10277,6 +10285,10 @@
 <hex>#ea738d</hex>
 </color>
 <color>
+<name>Bubblegum Baby Girl</name>
+<hex>#cc55ee</hex>
+</color>
+<color>
 <name>Bubbles</name>
 <hex>#e7feff</hex>
 </color>
@@ -11207,6 +11219,10 @@
 <color>
 <name>Cafe Royale</name>
 <hex>#6a4928</hex>
+</color>
+<color>
+<name>Caffeinated Cinnamon</name>
+<hex>#885511</hex>
 </color>
 <color>
 <name>Cairns</name>
@@ -23937,6 +23953,10 @@
 <hex>#ff5470</hex>
 </color>
 <color>
+<name>Fiery Salmon</name>
+<hex>#f76564</hex>
+</color>
+<color>
 <name>Fiesta</name>
 <hex>#edd8d2</hex>
 </color>
@@ -24175,6 +24195,10 @@
 <color>
 <name>Firecracker</name>
 <hex>#f36944</hex>
+</color>
+<color>
+<name>Firecracker Salmon</name>
+<hex>#f36363</hex>
 </color>
 <color>
 <name>Fired Brick</name>
@@ -25387,6 +25411,14 @@
 <color>
 <name>Freezing Vapor</name>
 <hex>#d4e9f5</hex>
+</color>
+<color>
+<name>Freezy Breezy</name>
+<hex>#99eeee</hex>
+</color>
+<color>
+<name>Freezy Wind</name>
+<hex>#99ffdd</hex>
 </color>
 <color>
 <name>Freinacht Black</name>
@@ -27355,6 +27387,10 @@
 <color>
 <name>Glorious Gold</name>
 <hex>#cba956</hex>
+</color>
+<color>
+<name>Glorious Green Glitter</name>
+<hex>#aaee11</hex>
 </color>
 <color>
 <name>Glossy Black</name>
@@ -34517,6 +34553,10 @@
 <hex>#eef293</hex>
 </color>
 <color>
+<name>Jordan Jazz</name>
+<hex>#037a3b</hex>
+</color>
+<color>
 <name>Jordy Blue</name>
 <hex>#7aaae0</hex>
 </color>
@@ -35359,6 +35399,10 @@
 <color>
 <name>Kitsurubami Brown</name>
 <hex>#bb8141</hex>
+</color>
+<color>
+<name>Kitten's Paw</name>
+<hex>#daa89b</hex>
 </color>
 <color>
 <name>Kittiwake Gull</name>
@@ -44133,8 +44177,16 @@
 <hex>#524d5b</hex>
 </color>
 <color>
+<name>Mulu Frog</name>
+<hex>#55bb00</hex>
+</color>
+<color>
 <name>Mummy's Tomb</name>
 <hex>#828e84</hex>
+</color>
+<color>
+<name>Munch On Melon</name>
+<hex>#f23e67</hex>
 </color>
 <color>
 <name>Munchkin</name>
@@ -45739,6 +45791,10 @@
 <color>
 <name>Nuclear Fallout</name>
 <hex>#aa9900</hex>
+</color>
+<color>
+<name>Nuclear Mango</name>
+<hex>#ee9933</hex>
 </color>
 <color>
 <name>Nuclear Meltdown</name>
@@ -50285,6 +50341,10 @@
 <hex>#887647</hex>
 </color>
 <color>
+<name>Pickled Pineapple</name>
+<hex>#eeff33</hex>
+</color>
+<color>
 <name>Pickled Pink</name>
 <hex>#da467d</hex>
 </color>
@@ -51527,6 +51587,10 @@
 <color>
 <name>Plastic Marble</name>
 <hex>#ffddcc</hex>
+</color>
+<color>
+<name>Plastic Pines</name>
+<hex>#55aa11</hex>
 </color>
 <color>
 <name>Plastic Veggie</name>
@@ -58025,6 +58089,10 @@
 <hex>#ebb367</hex>
 </color>
 <color>
+<name>Salted Caramel Popcorn</name>
+<hex>#fdb251</hex>
+</color>
+<color>
 <name>Salted Pretzel</name>
 <hex>#816b56</hex>
 </color>
@@ -61459,6 +61527,10 @@
 <color>
 <name>Sky Wanderer</name>
 <hex>#b8dced</hex>
+</color>
+<color>
+<name>Skyan</name>
+<hex>#66ccff</hex>
 </color>
 <color>
 <name>Skydiver</name>
@@ -68569,6 +68641,10 @@
 <hex>#bdc7bc</hex>
 </color>
 <color>
+<name>Tree Python</name>
+<hex>#22cc00</hex>
+</color>
+<color>
 <name>Tree Sap</name>
 <hex>#cc7711</hex>
 </color>
@@ -70207,6 +70283,10 @@
 <color>
 <name>Velvet Clover</name>
 <hex>#656d63</hex>
+</color>
+<color>
+<name>Velvet Cosmos</name>
+<hex>#441144</hex>
 </color>
 <color>
 <name>Velvet Cupcake</name>
