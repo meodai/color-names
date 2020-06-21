@@ -170,6 +170,9 @@
   name:"Atlantis"
   hex:"#336172"
 -
+  name:"Atomic Lime"
+  hex:"#b9ff03"
+-
   name:"Atomic Pink"
   hex:"#fb7efd"
 -
@@ -755,6 +758,9 @@
   name:"Burning Trail"
   hex:"#ee9922"
 -
+  name:"Burnt Coffee"
+  hex:"#271b10"
+-
   name:"Burnt Red"
   hex:"#9f2305"
 -
@@ -923,6 +929,9 @@
   name:"Caramel Finish"
   hex:"#ffd59a"
 -
+  name:"Caramel Macchiato"
+  hex:"#c58d4b"
+-
   name:"Carbon"
   hex:"#333333"
 -
@@ -1031,6 +1040,9 @@
   name:"Chantilly"
   hex:"#edb8c7"
 -
+  name:"Chaotic Roses"
+  hex:"#bb2266"
+-
   name:"Charcoal"
   hex:"#343837"
 -
@@ -1123,6 +1135,9 @@
 -
   name:"Chocolate"
   hex:"#d2691e"
+-
+  name:"Chocolate Bells"
+  hex:"#775130"
 -
   name:"Chocolate Explosion"
   hex:"#8e473b"
@@ -1283,6 +1298,9 @@
   name:"Cookie Crumb"
   hex:"#b19778"
 -
+  name:"Cookie Crust"
+  hex:"#e3b258"
+-
   name:"Cool"
   hex:"#96b3b3"
 -
@@ -1411,6 +1429,9 @@
 -
   name:"Crude Banana"
   hex:"#21c40e"
+-
+  name:"Crumbling Statue"
+  hex:"#cabfb4"
 -
   name:"Crusade King"
   hex:"#dbc364"
@@ -2273,6 +2294,9 @@
   name:"Fly a Kite"
   hex:"#c8daf5"
 -
+  name:"Fly by Night"
+  hex:"#1c1e4d"
+-
   name:"Flying Carpet"
   hex:"#787489"
 -
@@ -2653,6 +2677,9 @@
 -
   name:"Golden Coin"
   hex:"#fcd975"
+-
+  name:"Golden Ginkgo"
+  hex:"#f9f525"
 -
   name:"Golden Retriever"
   hex:"#eedec7"
@@ -3233,6 +3260,9 @@
   name:"Hot Sauce"
   hex:"#ab4f41"
 -
+  name:"Hotspot"
+  hex:"#ff4433"
+-
   name:"Hottest Of Pinks"
   hex:"#ff80ff"
 -
@@ -3707,6 +3737,9 @@
   name:"Labrador"
   hex:"#f2ecd9"
 -
+  name:"Lacquered Licorice"
+  hex:"#383838"
+-
   name:"Lacrosse"
   hex:"#2e5c58"
 -
@@ -3730,6 +3763,9 @@
 -
   name:"Laser Lemon"
   hex:"#ffff66"
+-
+  name:"Last of Lettuce"
+  hex:"#aadd66"
 -
   name:"Last Straw"
   hex:"#e3dbcd"
@@ -4130,6 +4166,9 @@
   name:"Magnolia"
   hex:"#fff9e4"
 -
+  name:"Magnolia Petal"
+  hex:"#f7eee3"
+-
   name:"Maharaja"
   hex:"#3f354f"
 -
@@ -4159,6 +4198,9 @@
 -
   name:"Major Brown"
   hex:"#5b5149"
+-
+  name:"Makin it Rain"
+  hex:"#88bb55"
 -
   name:"Malibu"
   hex:"#66b7e1"
@@ -4192,6 +4234,9 @@
 -
   name:"Mango Cheesecake"
   hex:"#fbedda"
+-
+  name:"Mango Madness"
+  hex:"#fd8c23"
 -
   name:"Mango Tango"
   hex:"#ff8243"
@@ -4516,6 +4561,9 @@
 -
   name:"Mint-o-licious"
   hex:"#b6e9c8"
+-
+  name:"Minted Blueberry Lemonade"
+  hex:"#b32651"
 -
   name:"Minty Paradice"
   hex:"#00ffbb"
@@ -5081,6 +5129,9 @@
   name:"Olive Bark"
   hex:"#5f5537"
 -
+  name:"Olive Conquering White"
+  hex:"#e4e5d8"
+-
   name:"Olive Leaf"
   hex:"#4e4b35"
 -
@@ -5230,6 +5281,9 @@
 -
   name:"Papaya"
   hex:"#fea166"
+-
+  name:"Paper Hearts"
+  hex:"#cc4466"
 -
   name:"Paprika"
   hex:"#7c2d37"
@@ -6017,6 +6071,9 @@
   name:"Shimmering Love"
   hex:"#ff88cc"
 -
+  name:"Shin Godzilla"
+  hex:"#9a373f"
+-
   name:"Sinister"
   hex:"#12110e"
 -
@@ -6034,6 +6091,15 @@
 -
   name:"Sneaky Sesame"
   hex:"#896a46"
+-
+  name:"Solar Ash"
+  hex:"#cc6622"
+-
+  name:"Sour Green"
+  hex:"#c1e613"
+-
+  name:"Sour Yellow"
+  hex:"#eeff04"
 -
   name:"Space Dust"
   hex:"#002299"
@@ -6064,6 +6130,9 @@
 -
   name:"Tadorna Teal"
   hex:"#7ad7ad"
+-
+  name:"The Vast of Night"
+  hex:"#110066"
 -
   name:"Thunder & Lightning"
   hex:"#f9f5db"
@@ -6116,6 +6185,9 @@
   name:"Tropical Rainforest"
   hex:"#00755e"
 -
+  name:"Tropical Turquoise"
+  hex:"#04cdff"
+-
   name:"Trout"
   hex:"#4c5356"
 -
@@ -6151,6 +6223,9 @@
 -
   name:"Ultraberry"
   hex:"#770088"
+-
+  name:"Umbra"
+  hex:"#211e1f"
 -
   name:"Underwater Moonlight"
   hex:"#4488aa"
@@ -6382,6 +6457,9 @@
 -
   name:"Wakame Green"
   hex:"#00656e"
+-
+  name:"Walk in the Park"
+  hex:"#88bb11"
 -
   name:"Walnut"
   hex:"#773f1a"
