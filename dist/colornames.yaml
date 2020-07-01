@@ -3014,6 +3014,9 @@
   name:"Axolotl"
   hex:"#fff0df"
 -
+  name:"Ayahuasca Vine"
+  hex:"#665500"
+-
   name:"Ayame Iris"
   hex:"#763568"
 -
@@ -3055,6 +3058,9 @@
 -
   name:"Aztec Jade"
   hex:"#33bb88"
+-
+  name:"Aztec Turquoise"
+  hex:"#00d6e2"
 -
   name:"Azuki Bean"
   hex:"#96514d"
@@ -10640,6 +10646,9 @@
   name:"Chlorosis"
   hex:"#75876e"
 -
+  name:"Choclate Rain"
+  hex:"#714f29"
+-
   name:"Choco Biscuit"
   hex:"#b4835b"
 -
@@ -15236,6 +15245,9 @@
   name:"Don Juan"
   hex:"#5a4f51"
 -
+  name:"Donegal Green"
+  hex:"#115500"
+-
   name:"Döner Kebab"
   hex:"#bb7766"
 -
@@ -17050,6 +17062,9 @@
 -
   name:"Erosion"
   hex:"#ddd1bf"
+-
+  name:"Errigal White"
+  hex:"#f2f2f4"
 -
   name:"Erythrosine"
   hex:"#fc7ab0"
@@ -19589,6 +19604,9 @@
   name:"Frozen Tundra"
   hex:"#a3bfcb"
 -
+  name:"Frozen Turquoise"
+  hex:"#53f6ff"
+-
   name:"Frozen Wave"
   hex:"#56acca"
 -
@@ -19846,6 +19864,9 @@
 -
   name:"Galactic Mediator"
   hex:"#e0dfdb"
+-
+  name:"Galactic Wonder"
+  hex:"#442255"
 -
   name:"Galactica"
   hex:"#c4dde2"
@@ -20326,6 +20347,9 @@
 -
   name:"Ginger Crunch"
   hex:"#ceaa64"
+-
+  name:"Ginger Dough"
+  hex:"#b06d3b"
 -
   name:"Ginger Dy"
   hex:"#97653c"
@@ -24752,9 +24776,6 @@
   name:"Ilvaite Black"
   hex:"#330011"
 -
-  name:"Image Tone"
-  hex:"#bec1cf"
--
   name:"Imagery"
   hex:"#7a6e70"
 -
@@ -25579,6 +25600,9 @@
 -
   name:"Jacey's Favorite"
   hex:"#bcaccd"
+-
+  name:"Jack and Coke"
+  hex:"#920f0e"
 -
   name:"Jack Bone"
   hex:"#869f69"
@@ -28073,9 +28097,6 @@
   name:"Light Iced Lavender"
   hex:"#d0d4e3"
 -
-  name:"Light Image Tone"
-  hex:"#ccd0da"
--
   name:"Light Imagine"
   hex:"#aed4d8"
 -
@@ -29024,6 +29045,9 @@
   name:"Liquid Lime"
   hex:"#cdf80c"
 -
+  name:"Liquid Nitrogen"
+  hex:"#f3f3f4"
+-
   name:"Liquorice"
   hex:"#0a0502"
 -
@@ -29458,6 +29482,9 @@
 -
   name:"Lǜ Sè Green"
   hex:"#02c14d"
+-
+  name:"Lucario Blue"
+  hex:"#0b83b5"
 -
   name:"Lucea"
   hex:"#7cafe1"
@@ -34214,6 +34241,9 @@
   name:"No Need to Blush"
   hex:"#ffd6dd"
 -
+  name:"No Way Rosé"
+  hex:"#fbaa95"
+-
   name:"No$GMB Yellow"
   hex:"#f8e888"
 -
@@ -35200,6 +35230,9 @@
 -
   name:"Onahau"
   hex:"#c2e6ec"
+-
+  name:"Once in a Blue Moon"
+  hex:"#0044bb"
 -
   name:"One Minute to Midnight"
   hex:"#003388"
@@ -38111,6 +38144,9 @@
   name:"Pineapple Delight"
   hex:"#f0e7a9"
 -
+  name:"Pineapple Juice"
+  hex:"#f8e87b"
+-
   name:"Pineapple Perfume"
   hex:"#eeee88"
 -
@@ -38128,6 +38164,9 @@
 -
   name:"Pineapple Sorbet"
   hex:"#f7f4da"
+-
+  name:"Pineapple Whip"
+  hex:"#ead988"
 -
   name:"Pineberry"
   hex:"#f0d6dd"
@@ -42656,6 +42695,9 @@
   name:"Rose"
   hex:"#ff007f"
 -
+  name:"Rosé"
+  hex:"#f7746b"
+-
   name:"Rose Ashes"
   hex:"#b5acab"
 -
@@ -46979,6 +47021,9 @@
   name:"Soft Touch"
   hex:"#639b95"
 -
+  name:"Soft Turquoise"
+  hex:"#74ced2"
+-
   name:"Softly Softly"
   hex:"#c9b7ce"
 -
@@ -48184,6 +48229,9 @@
 -
   name:"Steadfast"
   hex:"#4a5777"
+-
+  name:"Steam"
+  hex:"#ccd0da"
 -
   name:"Steam Chestnut"
   hex:"#ebe1a9"
@@ -50170,6 +50218,9 @@
 -
   name:"Tart Orange"
   hex:"#fb4d46"
+-
+  name:"Tartan Red"
+  hex:"#b1282a"
 -
   name:"Tartare"
   hex:"#bf5b3c"
@@ -54871,6 +54922,9 @@
 -
   name:"Wholemeal Cookie"
   hex:"#aaa662"
+-
+  name:"Whomp Grey"
+  hex:"#bec1cf"
 -
   name:"Wicked Green"
   hex:"#9bca47"

@@ -4021,6 +4021,10 @@
 <hex>#fff0df</hex>
 </color>
 <color>
+<name>Ayahuasca Vine</name>
+<hex>#665500</hex>
+</color>
+<color>
 <name>Ayame Iris</name>
 <hex>#763568</hex>
 </color>
@@ -4075,6 +4079,10 @@
 <color>
 <name>Aztec Jade</name>
 <hex>#33bb88</hex>
+</color>
+<color>
+<name>Aztec Turquoise</name>
+<hex>#00d6e2</hex>
 </color>
 <color>
 <name>Azuki Bean</name>
@@ -14189,6 +14197,10 @@
 <hex>#75876e</hex>
 </color>
 <color>
+<name>Choclate Rain</name>
+<hex>#714f29</hex>
+</color>
+<color>
 <name>Choco Biscuit</name>
 <hex>#b4835b</hex>
 </color>
@@ -20317,6 +20329,10 @@
 <hex>#5a4f51</hex>
 </color>
 <color>
+<name>Donegal Green</name>
+<hex>#115500</hex>
+</color>
+<color>
 <name>Döner Kebab</name>
 <hex>#bb7766</hex>
 </color>
@@ -22735,6 +22751,10 @@
 <color>
 <name>Erosion</name>
 <hex>#ddd1bf</hex>
+</color>
+<color>
+<name>Errigal White</name>
+<hex>#f2f2f4</hex>
 </color>
 <color>
 <name>Erythrosine</name>
@@ -26121,6 +26141,10 @@
 <hex>#a3bfcb</hex>
 </color>
 <color>
+<name>Frozen Turquoise</name>
+<hex>#53f6ff</hex>
+</color>
+<color>
 <name>Frozen Wave</name>
 <hex>#56acca</hex>
 </color>
@@ -26463,6 +26487,10 @@
 <color>
 <name>Galactic Mediator</name>
 <hex>#e0dfdb</hex>
+</color>
+<color>
+<name>Galactic Wonder</name>
+<hex>#442255</hex>
 </color>
 <color>
 <name>Galactica</name>
@@ -27103,6 +27131,10 @@
 <color>
 <name>Ginger Crunch</name>
 <hex>#ceaa64</hex>
+</color>
+<color>
+<name>Ginger Dough</name>
+<hex>#b06d3b</hex>
 </color>
 <color>
 <name>Ginger Dy</name>
@@ -33005,10 +33037,6 @@
 <hex>#330011</hex>
 </color>
 <color>
-<name>Image Tone</name>
-<hex>#bec1cf</hex>
-</color>
-<color>
 <name>Imagery</name>
 <hex>#7a6e70</hex>
 </color>
@@ -34107,6 +34135,10 @@
 <color>
 <name>Jacey's Favorite</name>
 <hex>#bcaccd</hex>
+</color>
+<color>
+<name>Jack and Coke</name>
+<hex>#920f0e</hex>
 </color>
 <color>
 <name>Jack Bone</name>
@@ -37433,10 +37465,6 @@
 <hex>#d0d4e3</hex>
 </color>
 <color>
-<name>Light Image Tone</name>
-<hex>#ccd0da</hex>
-</color>
-<color>
 <name>Light Imagine</name>
 <hex>#aed4d8</hex>
 </color>
@@ -38701,6 +38729,10 @@
 <hex>#cdf80c</hex>
 </color>
 <color>
+<name>Liquid Nitrogen</name>
+<hex>#f3f3f4</hex>
+</color>
+<color>
 <name>Liquorice</name>
 <hex>#0a0502</hex>
 </color>
@@ -39279,6 +39311,10 @@
 <color>
 <name>Lǜ Sè Green</name>
 <hex>#02c14d</hex>
+</color>
+<color>
+<name>Lucario Blue</name>
+<hex>#0b83b5</hex>
 </color>
 <color>
 <name>Lucea</name>
@@ -45621,6 +45657,10 @@
 <hex>#ffd6dd</hex>
 </color>
 <color>
+<name>No Way Rosé</name>
+<hex>#fbaa95</hex>
+</color>
+<color>
 <name>No$GMB Yellow</name>
 <hex>#f8e888</hex>
 </color>
@@ -46935,6 +46975,10 @@
 <color>
 <name>Onahau</name>
 <hex>#c2e6ec</hex>
+</color>
+<color>
+<name>Once in a Blue Moon</name>
+<hex>#0044bb</hex>
 </color>
 <color>
 <name>One Minute to Midnight</name>
@@ -50817,6 +50861,10 @@
 <hex>#f0e7a9</hex>
 </color>
 <color>
+<name>Pineapple Juice</name>
+<hex>#f8e87b</hex>
+</color>
+<color>
 <name>Pineapple Perfume</name>
 <hex>#eeee88</hex>
 </color>
@@ -50839,6 +50887,10 @@
 <color>
 <name>Pineapple Sorbet</name>
 <hex>#f7f4da</hex>
+</color>
+<color>
+<name>Pineapple Whip</name>
+<hex>#ead988</hex>
 </color>
 <color>
 <name>Pineberry</name>
@@ -56877,6 +56929,10 @@
 <hex>#ff007f</hex>
 </color>
 <color>
+<name>Rosé</name>
+<hex>#f7746b</hex>
+</color>
+<color>
 <name>Rose Ashes</name>
 <hex>#b5acab</hex>
 </color>
@@ -62641,6 +62697,10 @@
 <hex>#639b95</hex>
 </color>
 <color>
+<name>Soft Turquoise</name>
+<hex>#74ced2</hex>
+</color>
+<color>
 <name>Softly Softly</name>
 <hex>#c9b7ce</hex>
 </color>
@@ -64247,6 +64307,10 @@
 <color>
 <name>Steadfast</name>
 <hex>#4a5777</hex>
+</color>
+<color>
+<name>Steam</name>
+<hex>#ccd0da</hex>
 </color>
 <color>
 <name>Steam Chestnut</name>
@@ -66895,6 +66959,10 @@
 <color>
 <name>Tart Orange</name>
 <hex>#fb4d46</hex>
+</color>
+<color>
+<name>Tartan Red</name>
+<hex>#b1282a</hex>
 </color>
 <color>
 <name>Tartare</name>
@@ -73163,6 +73231,10 @@
 <color>
 <name>Wholemeal Cookie</name>
 <hex>#aaa662</hex>
+</color>
+<color>
+<name>Whomp Grey</name>
+<hex>#bec1cf</hex>
 </color>
 <color>
 <name>Wicked Green</name>
