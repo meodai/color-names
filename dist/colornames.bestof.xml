@@ -441,6 +441,10 @@
 <hex>#686d70</hex>
 </color>
 <color>
+<name>Becquerel</name>
+<hex>#4bec13</hex>
+</color>
+<color>
 <name>Bee Yellow</name>
 <hex>#feff32</hex>
 </color>
@@ -2605,6 +2609,10 @@
 <hex>#66bb00</hex>
 </color>
 <color>
+<name>Emergency</name>
+<hex>#911911</hex>
+</color>
+<color>
 <name>Eminence</name>
 <hex>#6e3974</hex>
 </color>
@@ -3023,6 +3031,10 @@
 <color>
 <name>Flirtatious Flamingo</name>
 <hex>#cc22ff</hex>
+</color>
+<color>
+<name>Flirty Salmon</name>
+<hex>#fa7069</hex>
 </color>
 <color>
 <name>Floating Feather</name>
@@ -4029,6 +4041,10 @@
 <hex>#eae5d8</hex>
 </color>
 <color>
+<name>Hello Darkness My Old Friend</name>
+<hex>#802280</hex>
+</color>
+<color>
 <name>Hello Fall</name>
 <hex>#995533</hex>
 </color>
@@ -4903,6 +4919,10 @@
 <color>
 <name>King Kong</name>
 <hex>#161410</hex>
+</color>
+<color>
+<name>King Lime</name>
+<hex>#add900</hex>
 </color>
 <color>
 <name>King Lizard</name>
@@ -7269,6 +7289,10 @@
 <hex>#ffdab9</hex>
 </color>
 <color>
+<name>Peaches of Immortality</name>
+<hex>#d98586</hex>
+</color>
+<color>
 <name>Peachy Milk</name>
 <hex>#f3e0d8</hex>
 </color>
@@ -8221,8 +8245,20 @@
 <hex>#44ddff</hex>
 </color>
 <color>
+<name>Stainless Steel</name>
+<hex>#b4bdc7</hex>
+</color>
+<color>
 <name>Starship Tonic</name>
 <hex>#cce7e8</hex>
+</color>
+<color>
+<name>Strawberry Dreams</name>
+<hex>#ff88aa</hex>
+</color>
+<color>
+<name>Succulents</name>
+<hex>#007744</hex>
 </color>
 <color>
 <name>Sugar Quill</name>
@@ -8247,6 +8283,10 @@
 <color>
 <name>Tadorna Teal</name>
 <hex>#7ad7ad</hex>
+</color>
+<color>
+<name>Tardis Blue</name>
+<hex>#003b6f</hex>
 </color>
 <color>
 <name>Tartan Red</name>
@@ -8333,6 +8373,10 @@
 <hex>#4c5356</hex>
 </color>
 <color>
+<name>Truf Master</name>
+<hex>#009922</hex>
+</color>
+<color>
 <name>Tulip</name>
 <hex>#ff878d</hex>
 </color>
@@ -8347,6 +8391,10 @@
 <color>
 <name>Turquoise</name>
 <hex>#06c2ac</hex>
+</color>
+<color>
+<name>Turquoise Pearl</name>
+<hex>#89f5e3</hex>
 </color>
 <color>
 <name>Turtle</name>
@@ -8961,6 +9009,10 @@
 <hex>#7e3a3c</hex>
 </color>
 <color>
+<name>Wild Chocolate</name>
+<hex>#665134</hex>
+</color>
+<color>
 <name>Wild Forest</name>
 <hex>#38914a</hex>
 </color>
@@ -9163,6 +9215,10 @@
 <color>
 <name>York Plum</name>
 <hex>#d3bfe5</hex>
+</color>
+<color>
+<name>Yorkshire Cloud</name>
+<hex>#bac3cc</hex>
 </color>
 <color>
 <name>Yoshi</name>

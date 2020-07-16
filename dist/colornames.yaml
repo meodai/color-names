@@ -611,6 +611,9 @@
   name:"Alameda Ochre"
   hex:"#ca9234"
 -
+  name:"Alarming Slime"
+  hex:"#2ce335"
+-
   name:"Alaskan Blue"
   hex:"#6da9d2"
 -
@@ -4126,6 +4129,9 @@
 -
   name:"Beckett"
   hex:"#85a699"
+-
+  name:"Becquerel"
+  hex:"#4bec13"
 -
   name:"Bedbox"
   hex:"#968775"
@@ -16505,6 +16511,9 @@
   name:"Electric Lavender"
   hex:"#f4bfff"
 -
+  name:"Electric Leaf"
+  hex:"#89dd01"
+-
   name:"Electric Lime"
   hex:"#ccff00"
 -
@@ -16598,8 +16607,14 @@
   name:"Elfin Yellow"
   hex:"#eeea97"
 -
+  name:"Elite Green"
+  hex:"#133700"
+-
   name:"Elite Pink"
   hex:"#bb8da8"
+-
+  name:"Elite Teal"
+  hex:"#133337"
 -
   name:"Elizabeth Blue"
   hex:"#a1b8d2"
@@ -16720,6 +16735,9 @@
 -
   name:"Emerald-Crested Manakin"
   hex:"#5c6b8f"
+-
+  name:"Emergency"
+  hex:"#911911"
 -
   name:"Emerging Leaf"
   hex:"#e1e1cf"
@@ -18572,6 +18590,9 @@
   name:"Flirtatious Indigo Tea"
   hex:"#473f2d"
 -
+  name:"Flirty Salmon"
+  hex:"#fa7069"
+-
   name:"Floating Feather"
   hex:"#e9d8c2"
 -
@@ -20278,6 +20299,9 @@
 -
   name:"Ghostly Grey"
   hex:"#ccccd3"
+-
+  name:"Ghostly Purple"
+  hex:"#7b5d92"
 -
   name:"Ghostwaver"
   hex:"#e2dbdb"
@@ -23380,6 +23404,9 @@
 -
   name:"Hellion Green"
   hex:"#87c5ae"
+-
+  name:"Hello Darkness My Old Friend"
+  hex:"#802280"
 -
   name:"Hello Fall"
   hex:"#995533"
@@ -26549,6 +26576,9 @@
   name:"King Kong"
   hex:"#161410"
 -
+  name:"King Lime"
+  hex:"#add900"
+-
   name:"King Lizard"
   hex:"#77dd22"
 -
@@ -27032,6 +27062,9 @@
   name:"Lake Retba Pink"
   hex:"#ee55ee"
 -
+  name:"Lake Tahoe Turquoise"
+  hex:"#34b1b2"
+-
   name:"Lake Thun"
   hex:"#44bbdd"
 -
@@ -27382,6 +27415,9 @@
 -
   name:"Lavender Soap"
   hex:"#f1bfe2"
+-
+  name:"Lavender Steel"
+  hex:"#c6cbdb"
 -
   name:"Lavender Sweater"
   hex:"#bd83be"
@@ -32330,6 +32366,9 @@
   name:"Mizuasagi Green"
   hex:"#749f8d"
 -
+  name:"Mmultnomah Falls"
+  hex:"#ccd0dd"
+-
   name:"Moat"
   hex:"#3e6a6b"
 -
@@ -33124,6 +33163,9 @@
 -
   name:"Mt Burleigh"
   hex:"#597766"
+-
+  name:"Mt. Hood White"
+  hex:"#e7e9e6"
 -
   name:"Mt. Rushmore"
   hex:"#7f8181"
@@ -37030,6 +37072,9 @@
 -
   name:"Peachade"
   hex:"#fadfc7"
+-
+  name:"Peaches of Immortality"
+  hex:"#d98586"
 -
   name:"Peaches'n'Cream"
   hex:"#eec9a6"
@@ -48086,6 +48131,9 @@
   name:"Stained Glass"
   hex:"#556682"
 -
+  name:"Stainless Steel"
+  hex:"#b4bdc7"
+-
   name:"Stalactite Brown"
   hex:"#d4c4a7"
 -
@@ -48614,6 +48662,9 @@
   name:"Strawberry Cream"
   hex:"#f4c3c4"
 -
+  name:"Strawberry Dreams"
+  hex:"#ff88aa"
+-
   name:"Strawberry Dust"
   hex:"#fff0ea"
 -
@@ -48823,6 +48874,9 @@
 -
   name:"Succulent Leaves"
   hex:"#658e64"
+-
+  name:"Succulents"
+  hex:"#007744"
 -
   name:"Sudan Brown"
   hex:"#ac6b29"
@@ -49147,6 +49201,9 @@
 -
   name:"Sun Surprise"
   hex:"#fff2a0"
+-
+  name:"Sun Wukong's Crown"
+  hex:"#ecc033"
 -
   name:"Sun Yellow"
   hex:"#ffdf22"
@@ -50192,6 +50249,9 @@
   name:"Tardis"
   hex:"#105673"
 -
+  name:"Tardis Blue"
+  hex:"#003b6f"
+-
   name:"Tareyton"
   hex:"#a1cdbf"
 -
@@ -50887,6 +50947,9 @@
 -
   name:"Tiān Lán Sky"
   hex:"#5db3ff"
+-
+  name:"Tiāntāi Mountain Green"
+  hex:"#566b38"
 -
   name:"Tiara"
   hex:"#b9c3be"
@@ -51932,6 +51995,9 @@
   name:"Truesky Gloxym"
   hex:"#99bbff"
 -
+  name:"Truf Master"
+  hex:"#009922"
+-
   name:"Trump Tan"
   hex:"#faa76c"
 -
@@ -52123,6 +52189,9 @@
 -
   name:"Turquoise Panic"
   hex:"#30d5c8"
+-
+  name:"Turquoise Pearl"
+  hex:"#89f5e3"
 -
   name:"Turquoise Sea"
   hex:"#6cdae7"
@@ -54974,6 +55043,9 @@
   name:"Wild Chestnut"
   hex:"#bc5d58"
 -
+  name:"Wild Chocolate"
+  hex:"#665134"
+-
   name:"Wild Clary"
   hex:"#93a3c1"
 -
@@ -56197,6 +56269,9 @@
 -
   name:"York River Green"
   hex:"#67706d"
+-
+  name:"Yorkshire Cloud"
+  hex:"#bac3cc"
 -
   name:"Yoshi"
   hex:"#55aa00"

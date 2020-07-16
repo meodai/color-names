@@ -329,6 +329,9 @@
   name:"Beautiful Darkness"
   hex:"#686d70"
 -
+  name:"Becquerel"
+  hex:"#4bec13"
+-
   name:"Bee Yellow"
   hex:"#feff32"
 -
@@ -1952,6 +1955,9 @@
   name:"Emerald Glitter"
   hex:"#66bb00"
 -
+  name:"Emergency"
+  hex:"#911911"
+-
   name:"Eminence"
   hex:"#6e3974"
 -
@@ -2266,6 +2272,9 @@
 -
   name:"Flirtatious Flamingo"
   hex:"#cc22ff"
+-
+  name:"Flirty Salmon"
+  hex:"#fa7069"
 -
   name:"Floating Feather"
   hex:"#e9d8c2"
@@ -3020,6 +3029,9 @@
   name:"Helium"
   hex:"#eae5d8"
 -
+  name:"Hello Darkness My Old Friend"
+  hex:"#802280"
+-
   name:"Hello Fall"
   hex:"#995533"
 -
@@ -3676,6 +3688,9 @@
 -
   name:"King Kong"
   hex:"#161410"
+-
+  name:"King Lime"
+  hex:"#add900"
 -
   name:"King Lizard"
   hex:"#77dd22"
@@ -5450,6 +5465,9 @@
   name:"Peach Puff"
   hex:"#ffdab9"
 -
+  name:"Peaches of Immortality"
+  hex:"#d98586"
+-
   name:"Peachy Milk"
   hex:"#f3e0d8"
 -
@@ -6164,8 +6182,17 @@
   name:"Splashing Wave"
   hex:"#44ddff"
 -
+  name:"Stainless Steel"
+  hex:"#b4bdc7"
+-
   name:"Starship Tonic"
   hex:"#cce7e8"
+-
+  name:"Strawberry Dreams"
+  hex:"#ff88aa"
+-
+  name:"Succulents"
+  hex:"#007744"
 -
   name:"Sugar Quill"
   hex:"#ebe5d7"
@@ -6184,6 +6211,9 @@
 -
   name:"Tadorna Teal"
   hex:"#7ad7ad"
+-
+  name:"Tardis Blue"
+  hex:"#003b6f"
 -
   name:"Tartan Red"
   hex:"#b1282a"
@@ -6248,6 +6278,9 @@
   name:"Trout"
   hex:"#4c5356"
 -
+  name:"Truf Master"
+  hex:"#009922"
+-
   name:"Tulip"
   hex:"#ff878d"
 -
@@ -6259,6 +6292,9 @@
 -
   name:"Turquoise"
   hex:"#06c2ac"
+-
+  name:"Turquoise Pearl"
+  hex:"#89f5e3"
 -
   name:"Turtle"
   hex:"#523f31"
@@ -6719,6 +6755,9 @@
   name:"Wild Berry"
   hex:"#7e3a3c"
 -
+  name:"Wild Chocolate"
+  hex:"#665134"
+-
   name:"Wild Forest"
   hex:"#38914a"
 -
@@ -6871,6 +6910,9 @@
 -
   name:"York Plum"
   hex:"#d3bfe5"
+-
+  name:"Yorkshire Cloud"
+  hex:"#bac3cc"
 -
   name:"Yoshi"
   hex:"#55aa00"
