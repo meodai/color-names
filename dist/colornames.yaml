@@ -9074,6 +9074,9 @@
   name:"Caramel Cafe"
   hex:"#864c24"
 -
+  name:"Caramel Coating"
+  hex:"#bb7711"
+-
   name:"Caramel Cream"
   hex:"#f4ba94"
 -
@@ -11711,6 +11714,9 @@
   name:"Cold Blooded"
   hex:"#bbeeee"
 -
+  name:"Cold Blue"
+  hex:"#88dddd"
+-
   name:"Cold Brew Coffee"
   hex:"#785736"
 -
@@ -12848,10 +12854,10 @@
   name:"Crema"
   hex:"#c16104"
 -
-  name:"Creme"
+  name:"Crème"
   hex:"#ffffb6"
 -
-  name:"Creme Brulee"
+  name:"Crème Brûlée"
   hex:"#ffe39b"
 -
   name:"Crème de la Crème"
@@ -12863,7 +12869,7 @@
   name:"Creme De Peche"
   hex:"#f5d6c6"
 -
-  name:"Crème fraîche"
+  name:"Crème Fraîche"
   hex:"#f7f0e2"
 -
   name:"Cremini"
@@ -13645,6 +13651,9 @@
 -
   name:"Dark Earth"
   hex:"#884455"
+-
+  name:"Dark Eclipse"
+  hex:"#112244"
 -
   name:"Dark Elf"
   hex:"#3b3f42"
@@ -15570,7 +15579,7 @@
   hex:"#fcf1bd"
 -
   name:"Droplet"
-  hex:"#afc3bc"
+  hex:"#aaddff"
 -
   name:"Dropped Brick"
   hex:"#bb3300"
@@ -17435,6 +17444,9 @@
   name:"Eye Patch"
   hex:"#232121"
 -
+  name:"Eye Popping Cherry"
+  hex:"#bb0077"
+-
   name:"Eyeball"
   hex:"#fffbf8"
 -
@@ -18445,6 +18457,9 @@
 -
   name:"Flat Yellow"
   hex:"#fff005"
+-
+  name:"Flattered Flamingo"
+  hex:"#ee6655"
 -
   name:"Flattery"
   hex:"#6b4424"
@@ -22730,6 +22745,9 @@
   name:"Haggis"
   hex:"#c3c7b2"
 -
+  name:"Hailey Blue"
+  hex:"#2c75ff"
+-
   name:"Hailstorm"
   hex:"#d0d1e1"
 -
@@ -25054,6 +25072,9 @@
 -
   name:"Indigo White"
   hex:"#ebf6f7"
+-
+  name:"Indiviolet Sunset"
+  hex:"#6611aa"
 -
   name:"Indochine"
   hex:"#9c5b34"
@@ -28730,6 +28751,9 @@
   name:"Lilac Snow"
   hex:"#e0c7d7"
 -
+  name:"Lilac Spring"
+  hex:"#8822cc"
+-
   name:"Lilac Suede"
   hex:"#ba9b97"
 -
@@ -30256,6 +30280,9 @@
 -
   name:"Malted Mint"
   hex:"#bfd6c8"
+-
+  name:"Malted Mint Madness"
+  hex:"#11ddaa"
 -
   name:"Mama Africa"
   hex:"#551111"
@@ -34766,6 +34793,9 @@
   name:"Ocean Drive"
   hex:"#b0bec5"
 -
+  name:"Ocean Droplet"
+  hex:"#afc3bc"
+-
   name:"Ocean Green"
   hex:"#3d9973"
 -
@@ -36965,6 +36995,9 @@
   name:"Peach Cream"
   hex:"#fff0db"
 -
+  name:"Peach Crème Brûlée"
+  hex:"#ffe19d"
+-
   name:"Peach Darling"
   hex:"#efcdb4"
 -
@@ -38530,6 +38563,9 @@
 -
   name:"Pink Power"
   hex:"#d5b6cd"
+-
+  name:"Pink Prestige"
+  hex:"#ee99aa"
 -
   name:"Pink Pride"
   hex:"#ef1de7"
@@ -40606,6 +40642,9 @@
 -
   name:"Purple Zergling"
   hex:"#a15589"
+-
+  name:"Purple's Baby Sister"
+  hex:"#eec3ee"
 -
   name:"Purplish"
   hex:"#98568d"
@@ -42922,6 +42961,9 @@
 -
   name:"Rosebud Cherry"
   hex:"#8a2d52"
+-
+  name:"Rosecco"
+  hex:"#eebbdd"
 -
   name:"Rosemary"
   hex:"#405e5c"
@@ -48938,6 +48980,9 @@
   name:"Sugar Maple"
   hex:"#9c7647"
 -
+  name:"Sugar Mint"
+  hex:"#c0e2c5"
+-
   name:"Sugar Pie"
   hex:"#c7a77b"
 -
@@ -51695,6 +51740,9 @@
   name:"Transparent Yellow"
   hex:"#ffeeaa"
 -
+  name:"Trapped Darkness"
+  hex:"#0e1d32"
+-
   name:"Travertine"
   hex:"#e2ddc7"
 -
@@ -53945,6 +53993,9 @@
   name:"Warm Ash"
   hex:"#cfc9c7"
 -
+  name:"Warm Asphalt"
+  hex:"#9c9395"
+-
   name:"Warm Biscuits"
   hex:"#e3cdac"
 -
@@ -54535,6 +54586,9 @@
 -
   name:"Wet Ash"
   hex:"#b2beb5"
+-
+  name:"Wet Asphalt"
+  hex:"#989cab"
 -
   name:"Wet Clay"
   hex:"#a49690"

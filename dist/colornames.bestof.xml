@@ -1253,6 +1253,10 @@
 <hex>#af6f09</hex>
 </color>
 <color>
+<name>Caramel Coating</name>
+<hex>#bb7711</hex>
+</color>
+<color>
 <name>Caramel Finish</name>
 <hex>#ffd59a</hex>
 </color>
@@ -1701,6 +1705,10 @@
 <hex>#3c2f23</hex>
 </color>
 <color>
+<name>Cold Blue</name>
+<hex>#88dddd</hex>
+</color>
+<color>
 <name>Cold Light of Day</name>
 <hex>#00eeee</hex>
 </color>
@@ -1893,12 +1901,16 @@
 <hex>#f4a384</hex>
 </color>
 <color>
-<name>Creme Brulee</name>
+<name>Crème Brûlée</name>
 <hex>#ffe39b</hex>
 </color>
 <color>
 <name>Crème de la Crème</name>
 <hex>#f3e7b4</hex>
+</color>
+<color>
+<name>Crème Fraîche</name>
+<hex>#f7f0e2</hex>
 </color>
 <color>
 <name>Creole</name>
@@ -2067,6 +2079,10 @@
 <color>
 <name>Dark Dreams</name>
 <hex>#332266</hex>
+</color>
+<color>
+<name>Dark Eclipse</name>
+<hex>#112244</hex>
 </color>
 <color>
 <name>Dark Forest</name>
@@ -2415,6 +2431,10 @@
 <color>
 <name>Driftwood</name>
 <hex>#a67a45</hex>
+</color>
+<color>
+<name>Droplet</name>
+<hex>#aaddff</hex>
 </color>
 <color>
 <name>Dropped Brick</name>
@@ -2995,6 +3015,10 @@
 <color>
 <name>Flashlight</name>
 <hex>#f9eed6</hex>
+</color>
+<color>
+<name>Flattered Flamingo</name>
+<hex>#ee6655</hex>
 </color>
 <color>
 <name>Fleur-De-Lis</name>
@@ -5265,6 +5289,10 @@
 <hex>#cea2fd</hex>
 </color>
 <color>
+<name>Lilac Spring</name>
+<hex>#8822cc</hex>
+</color>
+<color>
 <name>Lily</name>
 <hex>#c19fb3</hex>
 </color>
@@ -7277,6 +7305,10 @@
 <hex>#fff0db</hex>
 </color>
 <color>
+<name>Peach Crème Brûlée</name>
+<hex>#ffe19d</hex>
+</color>
+<color>
 <name>Peach Fizz</name>
 <hex>#ffa883</hex>
 </color>
@@ -7615,6 +7647,10 @@
 <color>
 <name>Pink Poison</name>
 <hex>#ff007e</hex>
+</color>
+<color>
+<name>Pink Prestige</name>
+<hex>#ee99aa</hex>
 </color>
 <color>
 <name>Pink Pride</name>
@@ -8021,6 +8057,10 @@
 <hex>#442244</hex>
 </color>
 <color>
+<name>Purple's Baby Sister</name>
+<hex>#eec3ee</hex>
+</color>
+<color>
 <name>Put on Ice</name>
 <hex>#c8ddea</hex>
 </color>
@@ -8139,6 +8179,10 @@
 <color>
 <name>Rosé</name>
 <hex>#f7746b</hex>
+</color>
+<color>
+<name>Rosecco</name>
+<hex>#eebbdd</hex>
 </color>
 <color>
 <name>Royal Night</name>
@@ -8261,6 +8305,10 @@
 <hex>#007744</hex>
 </color>
 <color>
+<name>Sugar Mint</name>
+<hex>#c0e2c5</hex>
+</color>
+<color>
 <name>Sugar Quill</name>
 <hex>#ebe5d7</hex>
 </color>
@@ -8339,6 +8387,10 @@
 <color>
 <name>Transfusion</name>
 <hex>#ea1833</hex>
+</color>
+<color>
+<name>Trapped Darkness</name>
+<hex>#0e1d32</hex>
 </color>
 <color>
 <name>Treetop</name>
@@ -8891,6 +8943,10 @@
 <color>
 <name>Weissbier</name>
 <hex>#b3833b</hex>
+</color>
+<color>
+<name>Wet Asphalt</name>
+<hex>#989cab</hex>
 </color>
 <color>
 <name>Wet Concrete</name>

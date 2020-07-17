@@ -12101,6 +12101,10 @@
 <hex>#864c24</hex>
 </color>
 <color>
+<name>Caramel Coating</name>
+<hex>#bb7711</hex>
+</color>
+<color>
 <name>Caramel Cream</name>
 <hex>#f4ba94</hex>
 </color>
@@ -15617,6 +15621,10 @@
 <hex>#bbeeee</hex>
 </color>
 <color>
+<name>Cold Blue</name>
+<hex>#88dddd</hex>
+</color>
+<color>
 <name>Cold Brew Coffee</name>
 <hex>#785736</hex>
 </color>
@@ -17133,11 +17141,11 @@
 <hex>#c16104</hex>
 </color>
 <color>
-<name>Creme</name>
+<name>Crème</name>
 <hex>#ffffb6</hex>
 </color>
 <color>
-<name>Creme Brulee</name>
+<name>Crème Brûlée</name>
 <hex>#ffe39b</hex>
 </color>
 <color>
@@ -17153,7 +17161,7 @@
 <hex>#f5d6c6</hex>
 </color>
 <color>
-<name>Crème fraîche</name>
+<name>Crème Fraîche</name>
 <hex>#f7f0e2</hex>
 </color>
 <color>
@@ -18195,6 +18203,10 @@
 <color>
 <name>Dark Earth</name>
 <hex>#884455</hex>
+</color>
+<color>
+<name>Dark Eclipse</name>
+<hex>#112244</hex>
 </color>
 <color>
 <name>Dark Elf</name>
@@ -20762,7 +20774,7 @@
 </color>
 <color>
 <name>Droplet</name>
-<hex>#afc3bc</hex>
+<hex>#aaddff</hex>
 </color>
 <color>
 <name>Dropped Brick</name>
@@ -23249,6 +23261,10 @@
 <hex>#232121</hex>
 </color>
 <color>
+<name>Eye Popping Cherry</name>
+<hex>#bb0077</hex>
+</color>
+<color>
 <name>Eyeball</name>
 <hex>#fffbf8</hex>
 </color>
@@ -24595,6 +24611,10 @@
 <color>
 <name>Flat Yellow</name>
 <hex>#fff005</hex>
+</color>
+<color>
+<name>Flattered Flamingo</name>
+<hex>#ee6655</hex>
 </color>
 <color>
 <name>Flattery</name>
@@ -30309,6 +30329,10 @@
 <hex>#c3c7b2</hex>
 </color>
 <color>
+<name>Hailey Blue</name>
+<hex>#2c75ff</hex>
+</color>
+<color>
 <name>Hailstorm</name>
 <hex>#d0d1e1</hex>
 </color>
@@ -33407,6 +33431,10 @@
 <color>
 <name>Indigo White</name>
 <hex>#ebf6f7</hex>
+</color>
+<color>
+<name>Indiviolet Sunset</name>
+<hex>#6611aa</hex>
 </color>
 <color>
 <name>Indochine</name>
@@ -38309,6 +38337,10 @@
 <hex>#e0c7d7</hex>
 </color>
 <color>
+<name>Lilac Spring</name>
+<hex>#8822cc</hex>
+</color>
+<color>
 <name>Lilac Suede</name>
 <hex>#ba9b97</hex>
 </color>
@@ -40343,6 +40375,10 @@
 <color>
 <name>Malted Mint</name>
 <hex>#bfd6c8</hex>
+</color>
+<color>
+<name>Malted Mint Madness</name>
+<hex>#11ddaa</hex>
 </color>
 <color>
 <name>Mama Africa</name>
@@ -46357,6 +46393,10 @@
 <hex>#b0bec5</hex>
 </color>
 <color>
+<name>Ocean Droplet</name>
+<hex>#afc3bc</hex>
+</color>
+<color>
 <name>Ocean Green</name>
 <hex>#3d9973</hex>
 </color>
@@ -49289,6 +49329,10 @@
 <hex>#fff0db</hex>
 </color>
 <color>
+<name>Peach Crème Brûlée</name>
+<hex>#ffe19d</hex>
+</color>
+<color>
 <name>Peach Darling</name>
 <hex>#efcdb4</hex>
 </color>
@@ -51375,6 +51419,10 @@
 <color>
 <name>Pink Power</name>
 <hex>#d5b6cd</hex>
+</color>
+<color>
+<name>Pink Prestige</name>
+<hex>#ee99aa</hex>
 </color>
 <color>
 <name>Pink Pride</name>
@@ -54143,6 +54191,10 @@
 <color>
 <name>Purple Zergling</name>
 <hex>#a15589</hex>
+</color>
+<color>
+<name>Purple's Baby Sister</name>
+<hex>#eec3ee</hex>
 </color>
 <color>
 <name>Purplish</name>
@@ -57231,6 +57283,10 @@
 <color>
 <name>Rosebud Cherry</name>
 <hex>#8a2d52</hex>
+</color>
+<color>
+<name>Rosecco</name>
+<hex>#eebbdd</hex>
 </color>
 <color>
 <name>Rosemary</name>
@@ -65253,6 +65309,10 @@
 <hex>#9c7647</hex>
 </color>
 <color>
+<name>Sugar Mint</name>
+<hex>#c0e2c5</hex>
+</color>
+<color>
 <name>Sugar Pie</name>
 <hex>#c7a77b</hex>
 </color>
@@ -68929,6 +68989,10 @@
 <hex>#ffeeaa</hex>
 </color>
 <color>
+<name>Trapped Darkness</name>
+<hex>#0e1d32</hex>
+</color>
+<color>
 <name>Travertine</name>
 <hex>#e2ddc7</hex>
 </color>
@@ -71929,6 +71993,10 @@
 <hex>#cfc9c7</hex>
 </color>
 <color>
+<name>Warm Asphalt</name>
+<hex>#9c9395</hex>
+</color>
+<color>
 <name>Warm Biscuits</name>
 <hex>#e3cdac</hex>
 </color>
@@ -72715,6 +72783,10 @@
 <color>
 <name>Wet Ash</name>
 <hex>#b2beb5</hex>
+</color>
+<color>
+<name>Wet Asphalt</name>
+<hex>#989cab</hex>
 </color>
 <color>
 <name>Wet Clay</name>

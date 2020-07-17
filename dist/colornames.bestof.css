@@ -312,6 +312,7 @@
 --color-capri:#00bfff;
 --color-captain-kirk:#9b870c;
 --color-caramel:#af6f09;
+--color-caramel-coating:#bb7711;
 --color-caramel-finish:#ffd59a;
 --color-caramel-macchiato:#c58d4b;
 --color-carbon:#333333;
@@ -424,6 +425,7 @@
 --color-cognac:#d48c46;
 --color-coin-slot:#ff4411;
 --color-cola:#3c2f23;
+--color-cold-blue:#88dddd;
 --color-cold-light-of-day:#00eeee;
 --color-cold-lips:#9ba0ef;
 --color-cold-shoulder:#d4e0ef;
@@ -472,8 +474,9 @@
 --color-creamy-apricot:#ffe8bd;
 --color-creamy-mint:#aaffaa;
 --color-creamy-peach:#f4a384;
---color-creme-brulee:#ffe39b;
+--color-crème-brûlée:#ffe39b;
 --color-crème-de-la-crème:#f3e7b4;
+--color-crème-fraîche:#f7f0e2;
 --color-creole:#393227;
 --color-crepe:#d4bc94;
 --color-croissant:#c4ab86;
@@ -516,6 +519,7 @@
 --color-dark-cyan:#008b8b;
 --color-dark-denim:#005588;
 --color-dark-dreams:#332266;
+--color-dark-eclipse:#112244;
 --color-dark-forest:#556962;
 --color-dark-galaxy:#0018a8;
 --color-dark-matter:#110101;
@@ -603,6 +607,7 @@
 --color-dreamless-sleep:#111111;
 --color-dried-tomatoes:#ab6057;
 --color-driftwood:#a67a45;
+--color-droplet:#aaddff;
 --color-dropped-brick:#bb3300;
 --color-drover:#fbeb9b;
 --color-drunk-tank-pink:#dd11dd;
@@ -748,6 +753,7 @@
 --color-flan:#f6e3b4;
 --color-flash-in-the-pan:#ff9977;
 --color-flashlight:#f9eed6;
+--color-flattered-flamingo:#ee6655;
 --color-fleur-de-lis:#b090c7;
 --color-flickering-firefly:#f8f6e6;
 --color-flickering-light:#fff1dc;
@@ -1315,6 +1321,7 @@
 --color-lightning-bug:#efde74;
 --color-lights-out:#3d474b;
 --color-lilac:#cea2fd;
+--color-lilac-spring:#8822cc;
 --color-lily:#c19fb3;
 --color-lima:#a9f971;
 --color-lime:#aaff32;
@@ -1818,6 +1825,7 @@
 --color-peach-beauty:#e7c3ab;
 --color-peach-bud:#fdb2ab;
 --color-peach-cream:#fff0db;
+--color-peach-crème-brûlée:#ffe19d;
 --color-peach-fizz:#ffa883;
 --color-peach-fuzz:#ffc7b9;
 --color-peach-puff:#ffdab9;
@@ -1903,6 +1911,7 @@
 --color-pink-party:#ff55ee;
 --color-pink-pleasure:#ffdfe5;
 --color-pink-poison:#ff007e;
+--color-pink-prestige:#ee99aa;
 --color-pink-pride:#ef1de7;
 --color-pinkalicious:#ff99ff;
 --color-pinky:#fc86aa;
@@ -2004,6 +2013,7 @@
 --color-purple-poodle:#dab4cc;
 --color-purple-rain:#7442c8;
 --color-purple-void:#442244;
+--color-purples-baby-sister:#eec3ee;
 --color-put-on-ice:#c8ddea;
 --color-pyramid:#9f7d4f;
 --color-quack-quack:#ffe989;
@@ -2034,6 +2044,7 @@
 --color-roland-garros:#bb5522;
 --color-romesco:#f48101;
 --color-rosé:#f7746b;
+--color-rosecco:#eebbdd;
 --color-royal-night:#2b3191;
 --color-royal-purpleness:#881177;
 --color-ruby:#ca0147;
@@ -2064,6 +2075,7 @@
 --color-starship-tonic:#cce7e8;
 --color-strawberry-dreams:#ff88aa;
 --color-succulents:#007744;
+--color-sugar-mint:#c0e2c5;
 --color-sugar-quill:#ebe5d7;
 --color-summer-glow:#eeaa44;
 --color-sunshone-plum:#886688;
@@ -2084,6 +2096,7 @@
 --color-toxic-sludge:#00bb33;
 --color-transcendence:#f8f4d8;
 --color-transfusion:#ea1833;
+--color-trapped-darkness:#0e1d32;
 --color-treetop:#91b6ac;
 --color-tropical-dream:#d9eae5;
 --color-tropical-fog:#cbcab6;
@@ -2222,6 +2235,7 @@
 --color-wedding-dress:#fefee7;
 --color-wedding-in-white:#fffee5;
 --color-weissbier:#b3833b;
+--color-wet-asphalt:#989cab;
 --color-wet-concrete:#353838;
 --color-whale-shark:#607c8e;
 --color-whales-tale:#115a82;

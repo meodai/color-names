@@ -938,6 +938,9 @@
   name:"Caramel"
   hex:"#af6f09"
 -
+  name:"Caramel Coating"
+  hex:"#bb7711"
+-
   name:"Caramel Finish"
   hex:"#ffd59a"
 -
@@ -1274,6 +1277,9 @@
   name:"Cola"
   hex:"#3c2f23"
 -
+  name:"Cold Blue"
+  hex:"#88dddd"
+-
   name:"Cold Light of Day"
   hex:"#00eeee"
 -
@@ -1418,11 +1424,14 @@
   name:"Creamy Peach"
   hex:"#f4a384"
 -
-  name:"Creme Brulee"
+  name:"Crème Brûlée"
   hex:"#ffe39b"
 -
   name:"Crème de la Crème"
   hex:"#f3e7b4"
+-
+  name:"Crème Fraîche"
+  hex:"#f7f0e2"
 -
   name:"Creole"
   hex:"#393227"
@@ -1549,6 +1558,9 @@
 -
   name:"Dark Dreams"
   hex:"#332266"
+-
+  name:"Dark Eclipse"
+  hex:"#112244"
 -
   name:"Dark Forest"
   hex:"#556962"
@@ -1810,6 +1822,9 @@
 -
   name:"Driftwood"
   hex:"#a67a45"
+-
+  name:"Droplet"
+  hex:"#aaddff"
 -
   name:"Dropped Brick"
   hex:"#bb3300"
@@ -2245,6 +2260,9 @@
 -
   name:"Flashlight"
   hex:"#f9eed6"
+-
+  name:"Flattered Flamingo"
+  hex:"#ee6655"
 -
   name:"Fleur-De-Lis"
   hex:"#b090c7"
@@ -3947,6 +3965,9 @@
   name:"Lilac"
   hex:"#cea2fd"
 -
+  name:"Lilac Spring"
+  hex:"#8822cc"
+-
   name:"Lily"
   hex:"#c19fb3"
 -
@@ -5456,6 +5477,9 @@
   name:"Peach Cream"
   hex:"#fff0db"
 -
+  name:"Peach Crème Brûlée"
+  hex:"#ffe19d"
+-
   name:"Peach Fizz"
   hex:"#ffa883"
 -
@@ -5710,6 +5734,9 @@
 -
   name:"Pink Poison"
   hex:"#ff007e"
+-
+  name:"Pink Prestige"
+  hex:"#ee99aa"
 -
   name:"Pink Pride"
   hex:"#ef1de7"
@@ -6014,6 +6041,9 @@
   name:"Purple Void"
   hex:"#442244"
 -
+  name:"Purple's Baby Sister"
+  hex:"#eec3ee"
+-
   name:"Put on Ice"
   hex:"#c8ddea"
 -
@@ -6103,6 +6133,9 @@
 -
   name:"Rosé"
   hex:"#f7746b"
+-
+  name:"Rosecco"
+  hex:"#eebbdd"
 -
   name:"Royal Night"
   hex:"#2b3191"
@@ -6194,6 +6227,9 @@
   name:"Succulents"
   hex:"#007744"
 -
+  name:"Sugar Mint"
+  hex:"#c0e2c5"
+-
   name:"Sugar Quill"
   hex:"#ebe5d7"
 -
@@ -6253,6 +6289,9 @@
 -
   name:"Transfusion"
   hex:"#ea1833"
+-
+  name:"Trapped Darkness"
+  hex:"#0e1d32"
 -
   name:"Treetop"
   hex:"#91b6ac"
@@ -6667,6 +6706,9 @@
 -
   name:"Weissbier"
   hex:"#b3833b"
+-
+  name:"Wet Asphalt"
+  hex:"#989cab"
 -
   name:"Wet Concrete"
   hex:"#353838"
