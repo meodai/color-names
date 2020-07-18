@@ -146,6 +146,9 @@
   name:"Artisans Gold"
   hex:"#f2ab46"
 -
+  name:"Arugula"
+  hex:"#75ad5b"
+-
   name:"Ash"
   hex:"#bebaa7"
 -
@@ -1682,6 +1685,9 @@
   name:"Desert Dune"
   hex:"#b5ab9c"
 -
+  name:"Desert Locust"
+  hex:"#a9a450"
+-
   name:"Deserted Beach"
   hex:"#e7dbbf"
 -
@@ -2035,6 +2041,9 @@
 -
   name:"Espresso Macchiato"
   hex:"#4f4744"
+-
+  name:"Estragon"
+  hex:"#a5af76"
 -
   name:"Eternal Flame"
   hex:"#a13f49"
@@ -3464,9 +3473,6 @@
   name:"Intergalactic Cowboy"
   hex:"#222266"
 -
-  name:"International"
-  hex:"#3762a5"
--
   name:"Interstellar Blue"
   hex:"#001155"
 -
@@ -4195,6 +4201,9 @@
 -
   name:"Magenta Elephant"
   hex:"#de0170"
+-
+  name:"Magentle"
+  hex:"#aa11aa"
 -
   name:"Magic Carpet"
   hex:"#9488be"
@@ -5600,6 +5609,15 @@
   name:"Pesto Alla Genovese"
   hex:"#558800"
 -
+  name:"Pesto di Pistacchio"
+  hex:"#a7c437"
+-
+  name:"Pesto di Rucola"
+  hex:"#748a35"
+-
+  name:"Pesto Rosso"
+  hex:"#bb3333"
+-
   name:"Petal Pink"
   hex:"#f2e2e0"
 -
@@ -5801,6 +5819,9 @@
   name:"Platinum Blonde"
   hex:"#f0e8d7"
 -
+  name:"Pleasant Purple"
+  hex:"#8833aa"
+-
   name:"Pleasing Pink"
   hex:"#f5cdd2"
 -
@@ -5828,7 +5849,7 @@
   name:"Plutonium"
   hex:"#35fa00"
 -
-  name:"Poached"
+  name:"Poached Egg"
   hex:"#f5d893"
 -
   name:"Poison Ivy"
@@ -6125,6 +6146,9 @@
   name:"Retro Vibe"
   hex:"#cb9711"
 -
+  name:"Roasted Pepper"
+  hex:"#890a01"
+-
   name:"Roland-Garros"
   hex:"#bb5522"
 -
@@ -6157,6 +6181,9 @@
 -
   name:"Salmon Poké Bowl"
   hex:"#ee7777"
+-
+  name:"Salsa Verde"
+  hex:"#cec754"
 -
   name:"Salted Caramel Popcorn"
   hex:"#fdb251"
@@ -6245,6 +6272,9 @@
   name:"Sweet Desire"
   hex:"#aa33ee"
 -
+  name:"Sweet Mint Pesto"
+  hex:"#bbee99"
+-
   name:"Tadorna Teal"
   hex:"#7ad7ad"
 -
@@ -6283,6 +6313,9 @@
 -
   name:"Toxic Sludge"
   hex:"#00bb33"
+-
+  name:"Tranquili Teal"
+  hex:"#6c9da9"
 -
   name:"Transcendence"
   hex:"#f8f4d8"
@@ -6934,6 +6967,9 @@
 -
   name:"Yellow"
   hex:"#ffff00"
+-
+  name:"Yellow Buzzing"
+  hex:"#eedd11"
 -
   name:"Yellow Chalk"
   hex:"#f5f9ad"

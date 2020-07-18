@@ -197,6 +197,10 @@
 <hex>#f2ab46</hex>
 </color>
 <color>
+<name>Arugula</name>
+<hex>#75ad5b</hex>
+</color>
+<color>
 <name>Ash</name>
 <hex>#bebaa7</hex>
 </color>
@@ -2245,6 +2249,10 @@
 <hex>#b5ab9c</hex>
 </color>
 <color>
+<name>Desert Locust</name>
+<hex>#a9a450</hex>
+</color>
+<color>
 <name>Deserted Beach</name>
 <hex>#e7dbbf</hex>
 </color>
@@ -2715,6 +2723,10 @@
 <color>
 <name>Espresso Macchiato</name>
 <hex>#4f4744</hex>
+</color>
+<color>
+<name>Estragon</name>
+<hex>#a5af76</hex>
 </color>
 <color>
 <name>Eternal Flame</name>
@@ -4621,10 +4633,6 @@
 <hex>#222266</hex>
 </color>
 <color>
-<name>International</name>
-<hex>#3762a5</hex>
-</color>
-<color>
 <name>Interstellar Blue</name>
 <hex>#001155</hex>
 </color>
@@ -5595,6 +5603,10 @@
 <color>
 <name>Magenta Elephant</name>
 <hex>#de0170</hex>
+</color>
+<color>
+<name>Magentle</name>
+<hex>#aa11aa</hex>
 </color>
 <color>
 <name>Magic Carpet</name>
@@ -7469,6 +7481,18 @@
 <hex>#558800</hex>
 </color>
 <color>
+<name>Pesto di Pistacchio</name>
+<hex>#a7c437</hex>
+</color>
+<color>
+<name>Pesto di Rucola</name>
+<hex>#748a35</hex>
+</color>
+<color>
+<name>Pesto Rosso</name>
+<hex>#bb3333</hex>
+</color>
+<color>
 <name>Petal Pink</name>
 <hex>#f2e2e0</hex>
 </color>
@@ -7737,6 +7761,10 @@
 <hex>#f0e8d7</hex>
 </color>
 <color>
+<name>Pleasant Purple</name>
+<hex>#8833aa</hex>
+</color>
+<color>
 <name>Pleasing Pink</name>
 <hex>#f5cdd2</hex>
 </color>
@@ -7773,7 +7801,7 @@
 <hex>#35fa00</hex>
 </color>
 <color>
-<name>Poached</name>
+<name>Poached Egg</name>
 <hex>#f5d893</hex>
 </color>
 <color>
@@ -8169,6 +8197,10 @@
 <hex>#cb9711</hex>
 </color>
 <color>
+<name>Roasted Pepper</name>
+<hex>#890a01</hex>
+</color>
+<color>
 <name>Roland-Garros</name>
 <hex>#bb5522</hex>
 </color>
@@ -8211,6 +8243,10 @@
 <color>
 <name>Salmon Poké Bowl</name>
 <hex>#ee7777</hex>
+</color>
+<color>
+<name>Salsa Verde</name>
+<hex>#cec754</hex>
 </color>
 <color>
 <name>Salted Caramel Popcorn</name>
@@ -8329,6 +8365,10 @@
 <hex>#aa33ee</hex>
 </color>
 <color>
+<name>Sweet Mint Pesto</name>
+<hex>#bbee99</hex>
+</color>
+<color>
 <name>Tadorna Teal</name>
 <hex>#7ad7ad</hex>
 </color>
@@ -8379,6 +8419,10 @@
 <color>
 <name>Toxic Sludge</name>
 <hex>#00bb33</hex>
+</color>
+<color>
+<name>Tranquili Teal</name>
+<hex>#6c9da9</hex>
 </color>
 <color>
 <name>Transcendence</name>
@@ -9247,6 +9291,10 @@
 <color>
 <name>Yellow</name>
 <hex>#ffff00</hex>
+</color>
+<color>
+<name>Yellow Buzzing</name>
+<hex>#eedd11</hex>
 </color>
 <color>
 <name>Yellow Chalk</name>

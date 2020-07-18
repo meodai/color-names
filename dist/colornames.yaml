@@ -2480,6 +2480,9 @@
   name:"Aruba Blue"
   hex:"#81d7d3"
 -
+  name:"Arugula"
+  hex:"#75ad5b"
+-
   name:"Arylide Yellow"
   hex:"#e9d66b"
 -
@@ -17138,6 +17141,9 @@
   name:"Estate Blue"
   hex:"#233658"
 -
+  name:"Estragon"
+  hex:"#a5af76"
+-
   name:"Estuary Blue"
   hex:"#70a5b7"
 -
@@ -29957,6 +29963,9 @@
   name:"Magentella"
   hex:"#d521b8"
 -
+  name:"Magentle"
+  hex:"#aa11aa"
+-
   name:"Maggie's Magic"
   hex:"#ddeee2"
 -
@@ -37676,6 +37685,24 @@
   name:"Pesto Alla Genovese"
   hex:"#558800"
 -
+  name:"Pesto Calabrese"
+  hex:"#f49325"
+-
+  name:"Pesto di Noce"
+  hex:"#b09d64"
+-
+  name:"Pesto di Pistacchio"
+  hex:"#a7c437"
+-
+  name:"Pesto di Rucola"
+  hex:"#748a35"
+-
+  name:"Pesto Genovese"
+  hex:"#9dc249"
+-
+  name:"Pesto Rosso"
+  hex:"#bb3333"
+-
   name:"Petal Dust"
   hex:"#f4dfcd"
 -
@@ -38975,6 +39002,9 @@
   name:"Pleasant Pomegranate"
   hex:"#cc3300"
 -
+  name:"Pleasant Purple"
+  hex:"#8833aa"
+-
   name:"Pleasing Pink"
   hex:"#f5cdd2"
 -
@@ -39128,7 +39158,7 @@
   name:"Plymouth Grey"
   hex:"#b0b1ac"
 -
-  name:"Poached"
+  name:"Poached Egg"
   hex:"#f5d893"
 -
   name:"Poached Rainbow Trout"
@@ -42515,6 +42545,9 @@
   name:"Roasted Pecan"
   hex:"#93592b"
 -
+  name:"Roasted Pepper"
+  hex:"#890a01"
+-
   name:"Roasted Pistachio"
   hex:"#c9b27c"
 -
@@ -43789,6 +43822,9 @@
 -
   name:"Salsa Diane"
   hex:"#bb4f5c"
+-
+  name:"Salsa Verde"
+  hex:"#cec754"
 -
   name:"Salsify Grass"
   hex:"#2bb179"
@@ -49748,6 +49784,9 @@
   name:"Sweet Menthol"
   hex:"#c2e4bc"
 -
+  name:"Sweet Mint Pesto"
+  hex:"#bbee99"
+-
   name:"Sweet Mint Tea"
   hex:"#d5e3d0"
 -
@@ -51697,6 +51736,9 @@
 -
   name:"Tranquil Teal"
   hex:"#8ac7bb"
+-
+  name:"Tranquili Teal"
+  hex:"#6c9da9"
 -
   name:"Tranquility"
   hex:"#8e9b96"
