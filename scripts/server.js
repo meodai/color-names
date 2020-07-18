@@ -150,6 +150,13 @@ const requestHandler = (request, response) => {
   const requestUrl = url.parse(request.url);
   const isAPI = requestUrl.pathname.indexOf(baseUrl) !== -1;
 
+  // understanding where requests come from
+  console.log(
+      'request from',
+      request.headers.origin,
+      request.headers.referrer
+  );
+
   // makes sure the API is beeing requested
   if (!isAPI) {
     return httpRespond(response, {error: {
