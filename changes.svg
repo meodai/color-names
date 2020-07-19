@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 1130">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 430">
   <defs>
     <style type="text/css">
       @import url('https://rsms.me/inter/inter.css');
@@ -9,6 +9,6 @@
       }
     </style>
   </defs>
-  <rect fill="#212121" x="0" y="0" width="600" height="1130"/>
-  <text x="40" y="90" fill="#75ad5b">Arugula</text><text x="40" y="160" fill="#a5af76">Estragon</text><text x="40" y="230" fill="#aa11aa">Magentle</text><text x="40" y="300" fill="#f49325">Pesto Calabrese</text><text x="40" y="370" fill="#b09d64">Pesto di Noce</text><text x="40" y="440" fill="#a7c437">Pesto di Pistacchio</text><text x="40" y="510" fill="#748a35">Pesto di Rucola</text><text x="40" y="580" fill="#9dc249">Pesto Genovese</text><text x="40" y="650" fill="#bb3333">Pesto Rosso</text><text x="40" y="720" fill="#8833aa">Pleasant Purple</text><text x="40" y="790" fill="#f5d893">Poached Egg</text><text x="40" y="860" fill="#890a01">Roasted Pepper</text><text x="40" y="930" fill="#cec754">Salsa Verde</text><text x="40" y="1000" fill="#bbee99">Sweet Mint Pesto</text><text x="40" y="1070" fill="#6c9da9">Tranquili Teal</text>
+  <rect fill="#212121" x="0" y="0" width="600" height="430"/>
+  <text x="40" y="90" fill="#f7da90">Meadow Yellow</text><text x="40" y="160" fill="#ed8666">Peachy Feeling</text><text x="40" y="230" fill="#d1668f">Preppy Rose</text><text x="40" y="300" fill="#76baa8">Sereni Teal</text><text x="40" y="370" fill="#50507f">Tangent Periwinkle</text>
 </svg>
