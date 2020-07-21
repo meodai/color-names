@@ -431,6 +431,9 @@
   name:"Biscuit"
   hex:"#feedca"
 -
+  name:"Biscuit Dough"
+  hex:"#e8dbbd"
+-
   name:"Bison"
   hex:"#6e4f3a"
 -
@@ -1289,6 +1292,9 @@
   name:"Cold Blue"
   hex:"#88dddd"
 -
+  name:"Cold Canada"
+  hex:"#dbfffe"
+-
   name:"Cold Light of Day"
   hex:"#00eeee"
 -
@@ -1300,6 +1306,9 @@
 -
   name:"Cold Turkey"
   hex:"#cab5b2"
+-
+  name:"Cold White"
+  hex:"#edfcfb"
 -
   name:"Colonial White"
   hex:"#ffedbc"
@@ -1331,6 +1340,9 @@
   name:"Cookie Crust"
   hex:"#e3b258"
 -
+  name:"Cookie Dough"
+  hex:"#ab7100"
+-
   name:"Cool"
   hex:"#96b3b3"
 -
@@ -1348,6 +1360,9 @@
 -
   name:"Coral"
   hex:"#ff7f50"
+-
+  name:"Coral Commander"
+  hex:"#ee6666"
 -
   name:"Coral Kiss"
   hex:"#ffddc7"
@@ -6185,6 +6200,9 @@
   name:"Rosecco"
   hex:"#eebbdd"
 -
+  name:"Royal Milk Tea"
+  hex:"#f7cfb4"
+-
   name:"Royal Night"
   hex:"#2b3191"
 -
@@ -6952,6 +6970,9 @@
 -
   name:"Witchcraft"
   hex:"#474c50"
+-
+  name:"Wizard"
+  hex:"#4d5b88"
 -
   name:"Wizard's Brew"
   hex:"#a090b8"
