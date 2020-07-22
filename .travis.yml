@@ -1,0 +1,27 @@
+sudo: false
+language: node_js
+cache:
+  directories:
+    - $HOME/.npm
+notifications:
+  email: true
+node_js:
+  - '12'
+before_script:
+  - npm prune
+script:
+  - npm run test
+after_success:
+  - npm run build
+  - npm run travis-deploy-once "npm run semantic-release"
+branches:
+  except:
+    - "/^v\\d+\\.\\d+\\.\\d+$/"
+deploy:
+  provider: rubygems
+  api_key:
+    secure: CNdCKlEU1SQDoIzULXWNWGA4KPPmtXqz33bhBlYeGlZEzdHmJjI9UXzMb+ddDjxx2OwTQPGWCOsynIMxEzzUtecf0xxrHuCbr9vhBXKbIiLbL6vRl2cHPLib4cMTdvwpngDAgHFV+WH0KiZltAR0PeSR/pAiXZRQYMJ7GyZtLGifIaUjxYZFXFuGS7QLoVrIMco/jjUPNWgXqSzVLaRtOOjnvwMFkMFfXaz1XBY+ODm7Zx5bIa16AmQijprLCdTYlSZelc1AwZ8+y2GBF7BipJtlO4LvcPR6H2S1Snl9umH8gNsmwo7n9JfPJAFAYS85WhOu3xA3ZhUKiGxxUjm81cukHaXbkq/bEnaw90fBujzfTlZgQiw00VD/8iX1pIzCzwnF41LVpTRP4zLP8BKcLKDoZL0REUTtAH0+8Lw+gjlmj4fhWEPBHUMGp6mGs/L1dSUMEjyM4DwuPDRp5JlUc5DNDIMHrWih19JNUFaDJnNVQ2gOFuErpeTkWdc3pqsp8W9kQPYcV6PMkOheMwwqwzGTd94L1y9cG+tdAdk7Af+KqWd958O7oHuhX4DM0G3LEqXInLfASbK1/sfOYu2sEVkXbCElC8iCwTUN2LNaLa4NsK0ar43ZVvRu9lzTyhfJUmWqzlNcBn8S9ShV7+7SHmac/cGFeUAmn5paHbJRwTs=
+  gem: color-names
+  on:
+    tags: false
+    repo: meodai/color-names

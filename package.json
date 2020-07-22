@@ -1,0 +1,53 @@
+{
+  "name": "color-name-list",
+  "version": "0.0.0-development",
+  "description": "long list of color names",
+  "main": "dist/colornames.json",
+  "browser": "dist/colornames.umd.js",
+  "scripts": {
+    "commit": "git-cz",
+    "pull-colors": "curl 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQube6Y0wHyEtJnjg0eU3N7VseoxVnD4L9uDqvWZdl_tzzrHDVN10IPP7cdFipX8j70atNMLfPCB0Q6/pub?gid=40578722&single=true&output=csv' -o src/colornames.csv",
+    "test": "node scripts/build.js --testOnly",
+    "clean-dist-folder": "rm -rf dist && mkdir dist",
+    "build": "npm run clean-dist-folder && node scripts/build.js",
+    "start": "node scripts/server.js",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meodai/color-names.git"
+  },
+  "keywords": [
+    "colors",
+    "color",
+    "names",
+    "naming"
+  ],
+  "author": "meodai@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meodai/color-names/issues"
+  },
+  "homepage": "https://github.com/meodai/color-names#readme",
+  "devDependencies": {
+    "closestvector": "^0.4.3",
+    "commitizen": "^4.0.3",
+    "eslint": "^5.15.1",
+    "eslint-config-google": "^0.10.0",
+    "ghooks": "^2.0.4",
+    "semantic-release": "^17.0.2"
+  },
+  "engines": {
+    "node": ">=8",
+    "npm": ">=5"
+  },
+  "config": {
+    "ghooks": {
+      "pre-commit": "npm run test && npm run build"
+    },
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,9451 @@
+<?xml version='1.0'?>
+<colors>
+<color>
+<name>20000 Leagues Under the Sea</name>
+<hex>#191970</hex>
+</color>
+<color>
+<name>3AM in Shibuya</name>
+<hex>#225577</hex>
+</color>
+<color>
+<name>8Bit Eggplant</name>
+<hex>#990066</hex>
+</color>
+<color>
+<name>A Dime a Dozen</name>
+<hex>#d3dde4</hex>
+</color>
+<color>
+<name>A State of Mint</name>
+<hex>#88ffcc</hex>
+</color>
+<color>
+<name>Abyssal Waters</name>
+<hex>#005765</hex>
+</color>
+<color>
+<name>Acid Green</name>
+<hex>#8ffe09</hex>
+</color>
+<color>
+<name>Acorn</name>
+<hex>#7e5e52</hex>
+</color>
+<color>
+<name>Active Volcano</name>
+<hex>#bb1133</hex>
+</color>
+<color>
+<name>Agent Orange</name>
+<hex>#ee6633</hex>
+</color>
+<color>
+<name>Airborne</name>
+<hex>#a2c2d0</hex>
+</color>
+<color>
+<name>Alien Abduction</name>
+<hex>#0cff0c</hex>
+</color>
+<color>
+<name>Alley Cat</name>
+<hex>#656874</hex>
+</color>
+<color>
+<name>Alligator</name>
+<hex>#886600</hex>
+</color>
+<color>
+<name>Almond</name>
+<hex>#eddcc8</hex>
+</color>
+<color>
+<name>Aloe Vera</name>
+<hex>#678779</hex>
+</color>
+<color>
+<name>Alone in the Dark</name>
+<hex>#000066</hex>
+</color>
+<color>
+<name>Alpine Expedition</name>
+<hex>#99eeff</hex>
+</color>
+<color>
+<name>Aluminium</name>
+<hex>#848789</hex>
+</color>
+<color>
+<name>Amaretto</name>
+<hex>#ab6f60</hex>
+</color>
+<color>
+<name>Amazon</name>
+<hex>#387b54</hex>
+</color>
+<color>
+<name>Amber</name>
+<hex>#ffbf00</hex>
+</color>
+<color>
+<name>Ambrosia</name>
+<hex>#d2e7ca</hex>
+</color>
+<color>
+<name>Amor</name>
+<hex>#ee3377</hex>
+</color>
+<color>
+<name>Amore</name>
+<hex>#ae2f48</hex>
+</color>
+<color>
+<name>Anchovy</name>
+<hex>#756f6b</hex>
+</color>
+<color>
+<name>Ancient Scroll</name>
+<hex>#f5e6de</hex>
+</color>
+<color>
+<name>Angel Wing</name>
+<hex>#f3dfd7</hex>
+</color>
+<color>
+<name>Anger</name>
+<hex>#dd0055</hex>
+</color>
+<color>
+<name>Angry Pasta</name>
+<hex>#ffcc55</hex>
+</color>
+<color>
+<name>Another One Bites the Dust</name>
+<hex>#c7bba4</hex>
+</color>
+<color>
+<name>Anthracite</name>
+<hex>#28282d</hex>
+</color>
+<color>
+<name>Antique</name>
+<hex>#8b846d</hex>
+</color>
+<color>
+<name>Aphroditean Fuschia</name>
+<hex>#dd14ab</hex>
+</color>
+<color>
+<name>Apollo Landing</name>
+<hex>#e5e5e1</hex>
+</color>
+<color>
+<name>Apricot</name>
+<hex>#ffb16d</hex>
+</color>
+<color>
+<name>Aqua</name>
+<hex>#00ffff</hex>
+</color>
+<color>
+<name>Aquamarine</name>
+<hex>#2ee8bb</hex>
+</color>
+<color>
+<name>Aquarius</name>
+<hex>#3cadd4</hex>
+</color>
+<color>
+<name>Arcade Fire</name>
+<hex>#ee3311</hex>
+</color>
+<color>
+<name>Arctic</name>
+<hex>#648589</hex>
+</color>
+<color>
+<name>Argan Oil</name>
+<hex>#8b593e</hex>
+</color>
+<color>
+<name>Argent</name>
+<hex>#888888</hex>
+</color>
+<color>
+<name>Ariel</name>
+<hex>#aed7ea</hex>
+</color>
+<color>
+<name>Armadillo</name>
+<hex>#484a46</hex>
+</color>
+<color>
+<name>Armor</name>
+<hex>#74857f</hex>
+</color>
+<color>
+<name>Arrowwood</name>
+<hex>#bc8d1f</hex>
+</color>
+<color>
+<name>Artichoke</name>
+<hex>#8f9779</hex>
+</color>
+<color>
+<name>Artisans Gold</name>
+<hex>#f2ab46</hex>
+</color>
+<color>
+<name>Arugula</name>
+<hex>#75ad5b</hex>
+</color>
+<color>
+<name>Ash</name>
+<hex>#bebaa7</hex>
+</color>
+<color>
+<name>Ashes to Ashes</name>
+<hex>#bbb3a2</hex>
+</color>
+<color>
+<name>Asparagus</name>
+<hex>#77ab56</hex>
+</color>
+<color>
+<name>Asphalt</name>
+<hex>#130a06</hex>
+</color>
+<color>
+<name>Assassin</name>
+<hex>#2d4f83</hex>
+</color>
+<color>
+<name>Aster</name>
+<hex>#867ba9</hex>
+</color>
+<color>
+<name>Astral</name>
+<hex>#376f89</hex>
+</color>
+<color>
+<name>Atlantis</name>
+<hex>#336172</hex>
+</color>
+<color>
+<name>Atomic Lime</name>
+<hex>#b9ff03</hex>
+</color>
+<color>
+<name>Atomic Pink</name>
+<hex>#fb7efd</hex>
+</color>
+<color>
+<name>Atomic Tangerine</name>
+<hex>#ff9966</hex>
+</color>
+<color>
+<name>Aubergine</name>
+<hex>#372528</hex>
+</color>
+<color>
+<name>Aurora</name>
+<hex>#eddd59</hex>
+</color>
+<color>
+<name>Autumn Crocodile</name>
+<hex>#447744</hex>
+</color>
+<color>
+<name>Autumn Gold</name>
+<hex>#7d623c</hex>
+</color>
+<color>
+<name>Autumnal</name>
+<hex>#a15325</hex>
+</color>
+<color>
+<name>Avant-Garde Pink</name>
+<hex>#ff77ee</hex>
+</color>
+<color>
+<name>Avocado</name>
+<hex>#568203</hex>
+</color>
+<color>
+<name>Award Winning White</name>
+<hex>#fef0de</hex>
+</color>
+<color>
+<name>Awkward Purple</name>
+<hex>#d208cc</hex>
+</color>
+<color>
+<name>Ayahuasca Vine</name>
+<hex>#665500</hex>
+</color>
+<color>
+<name>Aztec</name>
+<hex>#293432</hex>
+</color>
+<color>
+<name>Azure</name>
+<hex>#007fff</hex>
+</color>
+<color>
+<name>Baba Ganoush</name>
+<hex>#eebb88</hex>
+</color>
+<color>
+<name>Babe</name>
+<hex>#dc7b7c</hex>
+</color>
+<color>
+<name>Baby Bear</name>
+<hex>#6f5944</hex>
+</color>
+<color>
+<name>Baby Blue</name>
+<hex>#a2cffe</hex>
+</color>
+<color>
+<name>Baby Pink</name>
+<hex>#ffb7ce</hex>
+</color>
+<color>
+<name>Back In Black</name>
+<hex>#16141c</hex>
+</color>
+<color>
+<name>Backyard</name>
+<hex>#879877</hex>
+</color>
+<color>
+<name>Bacon Strips</name>
+<hex>#df3f32</hex>
+</color>
+<color>
+<name>Bakery Brown</name>
+<hex>#ab9078</hex>
+</color>
+<color>
+<name>Baklava</name>
+<hex>#efb435</hex>
+</color>
+<color>
+<name>Ballerina</name>
+<hex>#f2cfdc</hex>
+</color>
+<color>
+<name>Baltic</name>
+<hex>#279d9f</hex>
+</color>
+<color>
+<name>Bambino</name>
+<hex>#8edacc</hex>
+</color>
+<color>
+<name>Banana</name>
+<hex>#fffc79</hex>
+</color>
+<color>
+<name>Banana Bandanna</name>
+<hex>#f8f739</hex>
+</color>
+<color>
+<name>Banana Bread</name>
+<hex>#ffcf73</hex>
+</color>
+<color>
+<name>Bangalore</name>
+<hex>#bbaa88</hex>
+</color>
+<color>
+<name>Bank Vault</name>
+<hex>#757374</hex>
+</color>
+<color>
+<name>Banner Gold</name>
+<hex>#a28557</hex>
+</color>
+<color>
+<name>Barbarossa</name>
+<hex>#a84734</hex>
+</color>
+<color>
+<name>Barbecue</name>
+<hex>#c26157</hex>
+</color>
+<color>
+<name>Barberry</name>
+<hex>#ee1133</hex>
+</color>
+<color>
+<name>Bark</name>
+<hex>#5f5854</hex>
+</color>
+<color>
+<name>Basil</name>
+<hex>#879f84</hex>
+</color>
+<color>
+<name>Basil Smash</name>
+<hex>#b7e1a1</hex>
+</color>
+<color>
+<name>Basketball</name>
+<hex>#ee6730</hex>
+</color>
+<color>
+<name>Bat Wing</name>
+<hex>#7e7466</hex>
+</color>
+<color>
+<name>Bat's Blood Soup</name>
+<hex>#ee3366</hex>
+</color>
+<color>
+<name>Bath Bubbles</name>
+<hex>#e6f2ea</hex>
+</color>
+<color>
+<name>Batman</name>
+<hex>#656e72</hex>
+</color>
+<color>
+<name>Bats Cloak</name>
+<hex>#1f1518</hex>
+</color>
+<color>
+<name>Battletoad</name>
+<hex>#11cc55</hex>
+</color>
+<color>
+<name>Bavarian Green</name>
+<hex>#749a54</hex>
+</color>
+<color>
+<name>Bay</name>
+<hex>#bae5d6</hex>
+</color>
+<color>
+<name>Bay View</name>
+<hex>#6a819e</hex>
+</color>
+<color>
+<name>Beach Dune</name>
+<hex>#c6bb9c</hex>
+</color>
+<color>
+<name>Bear Hug</name>
+<hex>#796359</hex>
+</color>
+<color>
+<name>Beat Around the Bush</name>
+<hex>#6e6a44</hex>
+</color>
+<color>
+<name>Beautiful Darkness</name>
+<hex>#686d70</hex>
+</color>
+<color>
+<name>Becquerel</name>
+<hex>#4bec13</hex>
+</color>
+<color>
+<name>Bee Yellow</name>
+<hex>#feff32</hex>
+</color>
+<color>
+<name>Beekeeper</name>
+<hex>#f6e491</hex>
+</color>
+<color>
+<name>Beetroot Purple</name>
+<hex>#cf2d71</hex>
+</color>
+<color>
+<name>Begonia</name>
+<hex>#fa6e79</hex>
+</color>
+<color>
+<name>Beige</name>
+<hex>#e6daa6</hex>
+</color>
+<color>
+<name>Belgian Waffle</name>
+<hex>#f3dfb6</hex>
+</color>
+<color>
+<name>Belladonna</name>
+<hex>#220011</hex>
+</color>
+<color>
+<name>Bellflower</name>
+<hex>#5d66aa</hex>
+</color>
+<color>
+<name>Bellini</name>
+<hex>#f4c9b1</hex>
+</color>
+<color>
+<name>Below Zero</name>
+<hex>#87cded</hex>
+</color>
+<color>
+<name>Benevolent Pink</name>
+<hex>#dd1188</hex>
+</color>
+<color>
+<name>Bengal</name>
+<hex>#cc974d</hex>
+</color>
+<color>
+<name>Bento Box</name>
+<hex>#cc363c</hex>
+</color>
+<color>
+<name>Bermuda</name>
+<hex>#1b7d8d</hex>
+</color>
+<color>
+<name>Berries n Cream</name>
+<hex>#f2b8ca</hex>
+</color>
+<color>
+<name>Berry</name>
+<hex>#990f4b</hex>
+</color>
+<color>
+<name>Bethlehem Superstar</name>
+<hex>#eaeeda</hex>
+</color>
+<color>
+<name>Beveled Glass</name>
+<hex>#7accb8</hex>
+</color>
+<color>
+<name>Beyond the Pines</name>
+<hex>#688049</hex>
+</color>
+<color>
+<name>Bianca</name>
+<hex>#f4efe0</hex>
+</color>
+<color>
+<name>Big Bang Pink</name>
+<hex>#ff0099</hex>
+</color>
+<color>
+<name>Big Fish to Fry</name>
+<hex>#dadbe1</hex>
+</color>
+<color>
+<name>Big Spender</name>
+<hex>#acddaf</hex>
+</color>
+<color>
+<name>Big Yellow Taxi</name>
+<hex>#ffff33</hex>
+</color>
+<color>
+<name>Bigfoot</name>
+<hex>#715145</hex>
+</color>
+<color>
+<name>Billiard</name>
+<hex>#00aa92</hex>
+</color>
+<color>
+<name>Bindi Red</name>
+<hex>#b0003c</hex>
+</color>
+<color>
+<name>Biohazard Suit</name>
+<hex>#fbfb4c</hex>
+</color>
+<color>
+<name>BioShock</name>
+<hex>#889900</hex>
+</color>
+<color>
+<name>Birch White</name>
+<hex>#f6eedf</hex>
+</color>
+<color>
+<name>Biscuit</name>
+<hex>#feedca</hex>
+</color>
+<color>
+<name>Biscuit Dough</name>
+<hex>#e8dbbd</hex>
+</color>
+<color>
+<name>Bison</name>
+<hex>#6e4f3a</hex>
+</color>
+<color>
+<name>Bisque</name>
+<hex>#ffe4c4</hex>
+</color>
+<color>
+<name>Bitter Lemon</name>
+<hex>#d2db32</hex>
+</color>
+<color>
+<name>Bittersweet</name>
+<hex>#fea051</hex>
+</color>
+<color>
+<name>Black</name>
+<hex>#000000</hex>
+</color>
+<color>
+<name>Black Chocolate</name>
+<hex>#441100</hex>
+</color>
+<color>
+<name>Black Forest</name>
+<hex>#5e6354</hex>
+</color>
+<color>
+<name>Black Hole</name>
+<hex>#010203</hex>
+</color>
+<color>
+<name>Black Knight</name>
+<hex>#010b13</hex>
+</color>
+<color>
+<name>Black Magic</name>
+<hex>#4f4554</hex>
+</color>
+<color>
+<name>Black Metal</name>
+<hex>#060606</hex>
+</color>
+<color>
+<name>Black Pearl</name>
+<hex>#1e272c</hex>
+</color>
+<color>
+<name>Black Sabbath</name>
+<hex>#220022</hex>
+</color>
+<color>
+<name>Black Sheep</name>
+<hex>#0f0d0d</hex>
+</color>
+<color>
+<name>Black Truffle</name>
+<hex>#463d3e</hex>
+</color>
+<color>
+<name>Black Wash</name>
+<hex>#0c0c0c</hex>
+</color>
+<color>
+<name>Blackberry</name>
+<hex>#43182f</hex>
+</color>
+<color>
+<name>Blackberry Yogurt</name>
+<hex>#e5bddf</hex>
+</color>
+<color>
+<name>Blackout</name>
+<hex>#0e0702</hex>
+</color>
+<color>
+<name>Blanc Cassé</name>
+<hex>#f1eee2</hex>
+</color>
+<color>
+<name>Blank Canvas</name>
+<hex>#ffefd6</hex>
+</color>
+<color>
+<name>Bleeding Heart</name>
+<hex>#c02e4c</hex>
+</color>
+<color>
+<name>Bleu Ciel</name>
+<hex>#007ba1</hex>
+</color>
+<color>
+<name>Blinking Terminal</name>
+<hex>#66cc00</hex>
+</color>
+<color>
+<name>Blister Pearl</name>
+<hex>#aaffee</hex>
+</color>
+<color>
+<name>Blizzard Blue</name>
+<hex>#a3e3ed</hex>
+</color>
+<color>
+<name>Blond</name>
+<hex>#faf0be</hex>
+</color>
+<color>
+<name>Blood Burst</name>
+<hex>#ff474c</hex>
+</color>
+<color>
+<name>Blood Donor</name>
+<hex>#ea1822</hex>
+</color>
+<color>
+<name>Blood Orange</name>
+<hex>#d1001c</hex>
+</color>
+<color>
+<name>Blood Rush</name>
+<hex>#aa2222</hex>
+</color>
+<color>
+<name>Bloodhound</name>
+<hex>#bb5511</hex>
+</color>
+<color>
+<name>Bloodthirsty</name>
+<hex>#880011</hex>
+</color>
+<color>
+<name>Bloody Salmon</name>
+<hex>#cc4433</hex>
+</color>
+<color>
+<name>Blossom</name>
+<hex>#fee9d8</hex>
+</color>
+<color>
+<name>Blue</name>
+<hex>#0000ff</hex>
+</color>
+<color>
+<name>Blue Bell</name>
+<hex>#93b4d7</hex>
+</color>
+<color>
+<name>Blue Blood</name>
+<hex>#6b7f81</hex>
+</color>
+<color>
+<name>Blue Bobbin</name>
+<hex>#52b4ca</hex>
+</color>
+<color>
+<name>Blue Haze</name>
+<hex>#bdbace</hex>
+</color>
+<color>
+<name>Blue Hour</name>
+<hex>#0034ab</hex>
+</color>
+<color>
+<name>Blue Lips</name>
+<hex>#a6bce2</hex>
+</color>
+<color>
+<name>Blue Martini</name>
+<hex>#52b4d3</hex>
+</color>
+<color>
+<name>Blue Moon</name>
+<hex>#3686a0</hex>
+</color>
+<color>
+<name>Blue Ribbon</name>
+<hex>#0066ff</hex>
+</color>
+<color>
+<name>Blue Screen of Death</name>
+<hex>#0033bb</hex>
+</color>
+<color>
+<name>Blue Velvet</name>
+<hex>#0d6183</hex>
+</color>
+<color>
+<name>Blue Whale</name>
+<hex>#1e3442</hex>
+</color>
+<color>
+<name>Bluebell</name>
+<hex>#333399</hex>
+</color>
+<color>
+<name>Blueberry</name>
+<hex>#464196</hex>
+</color>
+<color>
+<name>Bluebonnet</name>
+<hex>#1c1cf0</hex>
+</color>
+<color>
+<name>Blues White Shoes</name>
+<hex>#99badd</hex>
+</color>
+<color>
+<name>Bluetiful</name>
+<hex>#3c69e7</hex>
+</color>
+<color>
+<name>Blush Bomb</name>
+<hex>#dd99aa</hex>
+</color>
+<color>
+<name>Boa</name>
+<hex>#8e855f</hex>
+</color>
+<color>
+<name>Bohemian Blue</name>
+<hex>#0000aa</hex>
+</color>
+<color>
+<name>Boiling Magma</name>
+<hex>#ff3300</hex>
+</color>
+<color>
+<name>Bold Irish</name>
+<hex>#2a814d</hex>
+</color>
+<color>
+<name>Bolognese</name>
+<hex>#bb4400</hex>
+</color>
+<color>
+<name>Bone</name>
+<hex>#e0d7c6</hex>
+</color>
+<color>
+<name>Bonfire</name>
+<hex>#f78058</hex>
+</color>
+<color>
+<name>Bonsai Garden</name>
+<hex>#9e9e7c</hex>
+</color>
+<color>
+<name>Bookworm</name>
+<hex>#ebe3de</hex>
+</color>
+<color>
+<name>Bordeaux</name>
+<hex>#7b002c</hex>
+</color>
+<color>
+<name>Borderline Pink</name>
+<hex>#ee1166</hex>
+</color>
+<color>
+<name>Botanical Night</name>
+<hex>#12403c</hex>
+</color>
+<color>
+<name>Bourbon</name>
+<hex>#af6c3e</hex>
+</color>
+<color>
+<name>Boutique Beige</name>
+<hex>#e1cead</hex>
+</color>
+<color>
+<name>Brain Freeze</name>
+<hex>#00eeff</hex>
+</color>
+<color>
+<name>Brandy</name>
+<hex>#dcb68a</hex>
+</color>
+<color>
+<name>Brandy Bear</name>
+<hex>#aa5412</hex>
+</color>
+<color>
+<name>Brandywine Spritz</name>
+<hex>#e69dad</hex>
+</color>
+<color>
+<name>Brass Buttons</name>
+<hex>#dfac4c</hex>
+</color>
+<color>
+<name>Bread and Butter</name>
+<hex>#faedd2</hex>
+</color>
+<color>
+<name>Bread Crumb</name>
+<hex>#e4d4be</hex>
+</color>
+<color>
+<name>Break the Ice</name>
+<hex>#b2e1ee</hex>
+</color>
+<color>
+<name>Breath of Fire</name>
+<hex>#ee0011</hex>
+</color>
+<color>
+<name>Breeze</name>
+<hex>#c2dde6</hex>
+</color>
+<color>
+<name>Brick Red</name>
+<hex>#8f1402</hex>
+</color>
+<color>
+<name>Bride's Blush</name>
+<hex>#f9e2e1</hex>
+</color>
+<color>
+<name>Bright Star</name>
+<hex>#dde2e6</hex>
+</color>
+<color>
+<name>Brilliance</name>
+<hex>#fdfdfd</hex>
+</color>
+<color>
+<name>Brink Pink</name>
+<hex>#fb607f</hex>
+</color>
+<color>
+<name>Brisket</name>
+<hex>#6e4534</hex>
+</color>
+<color>
+<name>Broad Daylight</name>
+<hex>#bbddff</hex>
+</color>
+<color>
+<name>Broccoli Green</name>
+<hex>#4b5338</hex>
+</color>
+<color>
+<name>Bronze</name>
+<hex>#a87900</hex>
+</color>
+<color>
+<name>Bronzed</name>
+<hex>#dd6633</hex>
+</color>
+<color>
+<name>Broom</name>
+<hex>#eecc24</hex>
+</color>
+<color>
+<name>Brown</name>
+<hex>#653700</hex>
+</color>
+<color>
+<name>Brown Alpaca</name>
+<hex>#b86d29</hex>
+</color>
+<color>
+<name>Brown Coffee</name>
+<hex>#4a2c2a</hex>
+</color>
+<color>
+<name>Brown Sugar</name>
+<hex>#a17249</hex>
+</color>
+<color>
+<name>Brownie</name>
+<hex>#964b00</hex>
+</color>
+<color>
+<name>Bruise</name>
+<hex>#7e4071</hex>
+</color>
+<color>
+<name>Brume</name>
+<hex>#c6c6c2</hex>
+</color>
+<color>
+<name>Bruschetta</name>
+<hex>#a75949</hex>
+</color>
+<color>
+<name>Brutal Pink</name>
+<hex>#ff00bb</hex>
+</color>
+<color>
+<name>Bubble Gum</name>
+<hex>#ff85ff</hex>
+</color>
+<color>
+<name>Bubblegum Baby Girl</name>
+<hex>#cc55ee</hex>
+</color>
+<color>
+<name>Bubbles</name>
+<hex>#e7feff</hex>
+</color>
+<color>
+<name>Büchel Cherry</name>
+<hex>#aa1111</hex>
+</color>
+<color>
+<name>Buckeye</name>
+<hex>#674834</hex>
+</color>
+<color>
+<name>Bud Green</name>
+<hex>#79b465</hex>
+</color>
+<color>
+<name>Buddha's Love Handles</name>
+<hex>#ffbb33</hex>
+</color>
+<color>
+<name>Buff It</name>
+<hex>#d9cfbe</hex>
+</color>
+<color>
+<name>Bullet Hell</name>
+<hex>#faf1c8</hex>
+</color>
+<color>
+<name>Bullfrog</name>
+<hex>#8a966a</hex>
+</color>
+<color>
+<name>Bumblebee</name>
+<hex>#ffc82a</hex>
+</color>
+<color>
+<name>Bunny Tail</name>
+<hex>#ffe3f4</hex>
+</color>
+<color>
+<name>Bureaucracy</name>
+<hex>#746c8f</hex>
+</color>
+<color>
+<name>Burning Fireflies</name>
+<hex>#ff1166</hex>
+</color>
+<color>
+<name>Burning Flame</name>
+<hex>#ffb162</hex>
+</color>
+<color>
+<name>Burning Trail</name>
+<hex>#ee9922</hex>
+</color>
+<color>
+<name>Burning Ultrablue</name>
+<hex>#150aec</hex>
+</color>
+<color>
+<name>Burnt Coffee</name>
+<hex>#271b10</hex>
+</color>
+<color>
+<name>Burnt Red</name>
+<hex>#9f2305</hex>
+</color>
+<color>
+<name>Burrito</name>
+<hex>#eed7c1</hex>
+</color>
+<color>
+<name>Butter</name>
+<hex>#ffff81</hex>
+</color>
+<color>
+<name>Butter Up</name>
+<hex>#f4e0bb</hex>
+</color>
+<color>
+<name>Buttermilk</name>
+<hex>#fffee4</hex>
+</color>
+<color>
+<name>Butternut</name>
+<hex>#ffa177</hex>
+</color>
+<color>
+<name>Butterscotch</name>
+<hex>#fdb147</hex>
+</color>
+<color>
+<name>Butterum</name>
+<hex>#c68f65</hex>
+</color>
+<color>
+<name>Buzz</name>
+<hex>#f0c641</hex>
+</color>
+<color>
+<name>C64 Blue</name>
+<hex>#003aff</hex>
+</color>
+<color>
+<name>Cabaret</name>
+<hex>#cd526c</hex>
+</color>
+<color>
+<name>Cabbage</name>
+<hex>#87d7be</hex>
+</color>
+<color>
+<name>Cacodemon Red</name>
+<hex>#9f0000</hex>
+</color>
+<color>
+<name>Cactus</name>
+<hex>#5b6f55</hex>
+</color>
+<color>
+<name>Cactus Spike</name>
+<hex>#c1e0a3</hex>
+</color>
+<color>
+<name>Cadillac Coupe</name>
+<hex>#c0362c</hex>
+</color>
+<color>
+<name>Caduceus Staff</name>
+<hex>#eedd22</hex>
+</color>
+<color>
+<name>Café Au Lait</name>
+<hex>#a57c5b</hex>
+</color>
+<color>
+<name>Cafe Creme</name>
+<hex>#c79685</hex>
+</color>
+<color>
+<name>Cafe Latte</name>
+<hex>#d6c6b4</hex>
+</color>
+<color>
+<name>Café Noir</name>
+<hex>#4b3621</hex>
+</color>
+<color>
+<name>Cafe Royale</name>
+<hex>#6a4928</hex>
+</color>
+<color>
+<name>Calabrese</name>
+<hex>#f4a6a3</hex>
+</color>
+<color>
+<name>Calcium Rock</name>
+<hex>#eee9d9</hex>
+</color>
+<color>
+<name>Calm Waters</name>
+<hex>#e7fafa</hex>
+</color>
+<color>
+<name>Calypso</name>
+<hex>#3d7188</hex>
+</color>
+<color>
+<name>Camel</name>
+<hex>#c69f59</hex>
+</color>
+<color>
+<name>Camel Cardinal</name>
+<hex>#cc9944</hex>
+</color>
+<color>
+<name>Camellia</name>
+<hex>#f6745f</hex>
+</color>
+<color>
+<name>Cameo</name>
+<hex>#f2debc</hex>
+</color>
+<color>
+<name>Campfire</name>
+<hex>#ce5f38</hex>
+</color>
+<color>
+<name>Camping Trip</name>
+<hex>#67786e</hex>
+</color>
+<color>
+<name>Canadian Maple</name>
+<hex>#cab266</hex>
+</color>
+<color>
+<name>Canary</name>
+<hex>#fdff63</hex>
+</color>
+<color>
+<name>Candied Apple</name>
+<hex>#b95b6d</hex>
+</color>
+<color>
+<name>Candied Snow</name>
+<hex>#d8fff3</hex>
+</color>
+<color>
+<name>Candle Glow</name>
+<hex>#ffe8c3</hex>
+</color>
+<color>
+<name>Candle in the Wind</name>
+<hex>#f9ebbf</hex>
+</color>
+<color>
+<name>Candlelight</name>
+<hex>#fcd917</hex>
+</color>
+<color>
+<name>Candy</name>
+<hex>#ff9b87</hex>
+</color>
+<color>
+<name>Candy Apple Red</name>
+<hex>#ff0800</hex>
+</color>
+<color>
+<name>Candy Bar</name>
+<hex>#ffb7d5</hex>
+</color>
+<color>
+<name>Candy Corn</name>
+<hex>#fcfc5d</hex>
+</color>
+<color>
+<name>Candy Floss</name>
+<hex>#e8a7e2</hex>
+</color>
+<color>
+<name>Candy Grape Fizz</name>
+<hex>#7755ee</hex>
+</color>
+<color>
+<name>Candy Pink</name>
+<hex>#ff63e9</hex>
+</color>
+<color>
+<name>Cane Sugar</name>
+<hex>#e3b982</hex>
+</color>
+<color>
+<name>Cannoli Cream</name>
+<hex>#f0efe2</hex>
+</color>
+<color>
+<name>Cantaloupe</name>
+<hex>#ffd479</hex>
+</color>
+<color>
+<name>Canyon Sunset</name>
+<hex>#e1927a</hex>
+</color>
+<color>
+<name>Capital Blue</name>
+<hex>#1a4157</hex>
+</color>
+<color>
+<name>Cappuccino</name>
+<hex>#633f33</hex>
+</color>
+<color>
+<name>Capri</name>
+<hex>#00bfff</hex>
+</color>
+<color>
+<name>Captain Kirk</name>
+<hex>#9b870c</hex>
+</color>
+<color>
+<name>Caramel</name>
+<hex>#af6f09</hex>
+</color>
+<color>
+<name>Caramel Coating</name>
+<hex>#bb7711</hex>
+</color>
+<color>
+<name>Caramel Finish</name>
+<hex>#ffd59a</hex>
+</color>
+<color>
+<name>Caramel Macchiato</name>
+<hex>#c58d4b</hex>
+</color>
+<color>
+<name>Carbon</name>
+<hex>#333333</hex>
+</color>
+<color>
+<name>Cardamom</name>
+<hex>#aaaa77</hex>
+</color>
+<color>
+<name>Cardboard</name>
+<hex>#c19a6c</hex>
+</color>
+<color>
+<name>Cardinal</name>
+<hex>#c41e3a</hex>
+</color>
+<color>
+<name>Caribbean Blue</name>
+<hex>#1ac1dd</hex>
+</color>
+<color>
+<name>Caribou</name>
+<hex>#816d5e</hex>
+</color>
+<color>
+<name>Carmine</name>
+<hex>#9d0216</hex>
+</color>
+<color>
+<name>Carnivore</name>
+<hex>#991111</hex>
+</color>
+<color>
+<name>Carona</name>
+<hex>#fba52e</hex>
+</color>
+<color>
+<name>Carpaccio</name>
+<hex>#e34234</hex>
+</color>
+<color>
+<name>Carrot</name>
+<hex>#fd6f3b</hex>
+</color>
+<color>
+<name>Cascara</name>
+<hex>#ee4433</hex>
+</color>
+<color>
+<name>Cashew Nut</name>
+<hex>#edccb3</hex>
+</color>
+<color>
+<name>Cashmere</name>
+<hex>#d1b399</hex>
+</color>
+<color>
+<name>Casper</name>
+<hex>#aab5b8</hex>
+</color>
+<color>
+<name>Castaway</name>
+<hex>#6dbac0</hex>
+</color>
+<color>
+<name>Castle in the Sky</name>
+<hex>#d1eaed</hex>
+</color>
+<color>
+<name>Castro</name>
+<hex>#44232f</hex>
+</color>
+<color>
+<name>Catacomb Walls</name>
+<hex>#dbd7d0</hex>
+</color>
+<color>
+<name>Catfish</name>
+<hex>#657d82</hex>
+</color>
+<color>
+<name>Cathode Green</name>
+<hex>#00ff55</hex>
+</color>
+<color>
+<name>Cauliflower</name>
+<hex>#ebe5d0</hex>
+</color>
+<color>
+<name>Caveman</name>
+<hex>#625c58</hex>
+</color>
+<color>
+<name>Caviar</name>
+<hex>#292a2d</hex>
+</color>
+<color>
+<name>Cedar Chest</name>
+<hex>#c95a49</hex>
+</color>
+<color>
+<name>Celery</name>
+<hex>#b4c04c</hex>
+</color>
+<color>
+<name>Celestial</name>
+<hex>#006380</hex>
+</color>
+<color>
+<name>Cement Feet</name>
+<hex>#7b737b</hex>
+</color>
+<color>
+<name>Ceramic</name>
+<hex>#fcfff9</hex>
+</color>
+<color>
+<name>Cereal Flake</name>
+<hex>#efd7ab</hex>
+</color>
+<color>
+<name>Chai Tea</name>
+<hex>#b1832f</hex>
+</color>
+<color>
+<name>Chain Mail</name>
+<hex>#81777f</hex>
+</color>
+<color>
+<name>Chalet</name>
+<hex>#c29867</hex>
+</color>
+<color>
+<name>Champagne</name>
+<hex>#e9d2ac</hex>
+</color>
+<color>
+<name>Channel</name>
+<hex>#f1c3c2</hex>
+</color>
+<color>
+<name>Chantilly</name>
+<hex>#edb8c7</hex>
+</color>
+<color>
+<name>Chaotic Roses</name>
+<hex>#bb2266</hex>
+</color>
+<color>
+<name>Charcoal</name>
+<hex>#343837</hex>
+</color>
+<color>
+<name>Charismatic Red</name>
+<hex>#ee2244</hex>
+</color>
+<color>
+<name>Charm</name>
+<hex>#d0748b</hex>
+</color>
+<color>
+<name>Chartreuse</name>
+<hex>#c1f80a</hex>
+</color>
+<color>
+<name>Che Guevara Red</name>
+<hex>#ed214d</hex>
+</color>
+<color>
+<name>Cheeky Chestnut</name>
+<hex>#7b4d3a</hex>
+</color>
+<color>
+<name>Cheese</name>
+<hex>#ffa600</hex>
+</color>
+<color>
+<name>Cheese Please</name>
+<hex>#ff9613</hex>
+</color>
+<color>
+<name>Cheesecake</name>
+<hex>#fffcda</hex>
+</color>
+<color>
+<name>Cheesus</name>
+<hex>#ffcc77</hex>
+</color>
+<color>
+<name>Cherry</name>
+<hex>#cf0234</hex>
+</color>
+<color>
+<name>Cherry Berry</name>
+<hex>#9f4d65</hex>
+</color>
+<color>
+<name>Cherry Blossom</name>
+<hex>#f7cee0</hex>
+</color>
+<color>
+<name>Cherry Paddle Pop</name>
+<hex>#fe314b</hex>
+</color>
+<color>
+<name>Cherry Tomato</name>
+<hex>#f2013f</hex>
+</color>
+<color>
+<name>Chess Ivory</name>
+<hex>#ffe9c5</hex>
+</color>
+<color>
+<name>Chestnut</name>
+<hex>#742802</hex>
+</color>
+<color>
+<name>Chewing Gum</name>
+<hex>#e6b0af</hex>
+</color>
+<color>
+<name>Chickadee</name>
+<hex>#ffcf65</hex>
+</color>
+<color>
+<name>Chicken Comb</name>
+<hex>#dd2222</hex>
+</color>
+<color>
+<name>Chicken Masala</name>
+<hex>#cc8822</hex>
+</color>
+<color>
+<name>Chili Con Carne</name>
+<hex>#985e2b</hex>
+</color>
+<color>
+<name>Chili Pepper</name>
+<hex>#9b1b30</hex>
+</color>
+<color>
+<name>Chimera</name>
+<hex>#74626d</hex>
+</color>
+<color>
+<name>China Silk</name>
+<hex>#e3d1cc</hex>
+</color>
+<color>
+<name>Chinese New Year</name>
+<hex>#ff3366</hex>
+</color>
+<color>
+<name>Chinotto</name>
+<hex>#554747</hex>
+</color>
+<color>
+<name>Chipmunk</name>
+<hex>#cfa14a</hex>
+</color>
+<color>
+<name>Choclate Rain</name>
+<hex>#714f29</hex>
+</color>
+<color>
+<name>Choco Chic</name>
+<hex>#993311</hex>
+</color>
+<color>
+<name>Chocoholic</name>
+<hex>#993300</hex>
+</color>
+<color>
+<name>Chocolate</name>
+<hex>#d2691e</hex>
+</color>
+<color>
+<name>Chocolate Bells</name>
+<hex>#775130</hex>
+</color>
+<color>
+<name>Chocolate Explosion</name>
+<hex>#8e473b</hex>
+</color>
+<color>
+<name>Chocolate Kiss</name>
+<hex>#3c1421</hex>
+</color>
+<color>
+<name>Chocolate Lust</name>
+<hex>#993322</hex>
+</color>
+<color>
+<name>Chocolate Truffle</name>
+<hex>#612e35</hex>
+</color>
+<color>
+<name>Chorizo</name>
+<hex>#aa0011</hex>
+</color>
+<color>
+<name>Christmas Red</name>
+<hex>#b01b2e</hex>
+</color>
+<color>
+<name>Chrome White</name>
+<hex>#cac7b7</hex>
+</color>
+<color>
+<name>Chutney</name>
+<hex>#98594b</hex>
+</color>
+<color>
+<name>Cigar</name>
+<hex>#7d4e38</hex>
+</color>
+<color>
+<name>Cigarette Glow</name>
+<hex>#ee5500</hex>
+</color>
+<color>
+<name>Cinder</name>
+<hex>#242a2e</hex>
+</color>
+<color>
+<name>Cinderella</name>
+<hex>#fbd7cc</hex>
+</color>
+<color>
+<name>Cinnamon</name>
+<hex>#d26911</hex>
+</color>
+<color>
+<name>Citadel</name>
+<hex>#748995</hex>
+</color>
+<color>
+<name>Citrus</name>
+<hex>#9fb70a</hex>
+</color>
+<color>
+<name>City Dweller</name>
+<hex>#c0b9ac</hex>
+</color>
+<color>
+<name>Clairvoyant</name>
+<hex>#480656</hex>
+</color>
+<color>
+<name>Clay</name>
+<hex>#b66a50</hex>
+</color>
+<color>
+<name>Clear Water</name>
+<hex>#aad5db</hex>
+</color>
+<color>
+<name>Clementine</name>
+<hex>#e96e00</hex>
+</color>
+<color>
+<name>Cloak and Dagger</name>
+<hex>#550055</hex>
+</color>
+<color>
+<name>Clotted Cream</name>
+<hex>#f3efcd</hex>
+</color>
+<color>
+<name>Cloud Dancer</name>
+<hex>#f0eee9</hex>
+</color>
+<color>
+<name>Cloudless</name>
+<hex>#d6eafc</hex>
+</color>
+<color>
+<name>Clover</name>
+<hex>#008f00</hex>
+</color>
+<color>
+<name>Coalmine</name>
+<hex>#220033</hex>
+</color>
+<color>
+<name>Cobalt</name>
+<hex>#030aa7</hex>
+</color>
+<color>
+<name>Coca Mocha</name>
+<hex>#bd9d95</hex>
+</color>
+<color>
+<name>Cockatoo</name>
+<hex>#58c8b6</hex>
+</color>
+<color>
+<name>Coco Malt</name>
+<hex>#e4dcc9</hex>
+</color>
+<color>
+<name>Cocoa</name>
+<hex>#875f42</hex>
+</color>
+<color>
+<name>Cocoloco</name>
+<hex>#aa8f7a</hex>
+</color>
+<color>
+<name>Coconut</name>
+<hex>#965a3e</hex>
+</color>
+<color>
+<name>Coconut Milk</name>
+<hex>#f0ede5</hex>
+</color>
+<color>
+<name>Cocoon</name>
+<hex>#dedbcc</hex>
+</color>
+<color>
+<name>Coffee</name>
+<hex>#6f4e37</hex>
+</color>
+<color>
+<name>Coffee Adept</name>
+<hex>#775511</hex>
+</color>
+<color>
+<name>Coffee Diva</name>
+<hex>#bea88d</hex>
+</color>
+<color>
+<name>Cognac</name>
+<hex>#d48c46</hex>
+</color>
+<color>
+<name>Coin Slot</name>
+<hex>#ff4411</hex>
+</color>
+<color>
+<name>Cola</name>
+<hex>#3c2f23</hex>
+</color>
+<color>
+<name>Cold Blue</name>
+<hex>#88dddd</hex>
+</color>
+<color>
+<name>Cold Canada</name>
+<hex>#dbfffe</hex>
+</color>
+<color>
+<name>Cold Light of Day</name>
+<hex>#00eeee</hex>
+</color>
+<color>
+<name>Cold Lips</name>
+<hex>#9ba0ef</hex>
+</color>
+<color>
+<name>Cold Shoulder</name>
+<hex>#d4e0ef</hex>
+</color>
+<color>
+<name>Cold Turkey</name>
+<hex>#cab5b2</hex>
+</color>
+<color>
+<name>Cold White</name>
+<hex>#edfcfb</hex>
+</color>
+<color>
+<name>Colonial White</name>
+<hex>#ffedbc</hex>
+</color>
+<color>
+<name>Columbo's Coat</name>
+<hex>#d0cbce</hex>
+</color>
+<color>
+<name>Concord</name>
+<hex>#827f79</hex>
+</color>
+<color>
+<name>Concrete</name>
+<hex>#d2d1cd</hex>
+</color>
+<color>
+<name>Concrete Jungle</name>
+<hex>#999988</hex>
+</color>
+<color>
+<name>Conifer</name>
+<hex>#b1dd52</hex>
+</color>
+<color>
+<name>Conker</name>
+<hex>#b94e41</hex>
+</color>
+<color>
+<name>Continental Waters</name>
+<hex>#98c6cb</hex>
+</color>
+<color>
+<name>Cookie Crumb</name>
+<hex>#b19778</hex>
+</color>
+<color>
+<name>Cookie Crust</name>
+<hex>#e3b258</hex>
+</color>
+<color>
+<name>Cookie Dough</name>
+<hex>#ab7100</hex>
+</color>
+<color>
+<name>Cool</name>
+<hex>#96b3b3</hex>
+</color>
+<color>
+<name>Copacabana</name>
+<hex>#006c8d</hex>
+</color>
+<color>
+<name>Copper</name>
+<hex>#b87333</hex>
+</color>
+<color>
+<name>Copper Coin</name>
+<hex>#da8a67</hex>
+</color>
+<color>
+<name>Coquelicot</name>
+<hex>#ff3800</hex>
+</color>
+<color>
+<name>Coral</name>
+<hex>#ff7f50</hex>
+</color>
+<color>
+<name>Coral Commander</name>
+<hex>#ee6666</hex>
+</color>
+<color>
+<name>Coral Kiss</name>
+<hex>#ffddc7</hex>
+</color>
+<color>
+<name>Corbeau</name>
+<hex>#111122</hex>
+</color>
+<color>
+<name>Corfu Waters</name>
+<hex>#008aad</hex>
+</color>
+<color>
+<name>Cork Wood</name>
+<hex>#cc7744</hex>
+</color>
+<color>
+<name>Corn</name>
+<hex>#fbec5d</hex>
+</color>
+<color>
+<name>Cornflake</name>
+<hex>#f0e68c</hex>
+</color>
+<color>
+<name>Cornsilk</name>
+<hex>#fff8dc</hex>
+</color>
+<color>
+<name>Corona</name>
+<hex>#ffb437</hex>
+</color>
+<color>
+<name>Cortex</name>
+<hex>#a99592</hex>
+</color>
+<color>
+<name>Cosmic</name>
+<hex>#b8b9cb</hex>
+</color>
+<color>
+<name>Cotton Ball</name>
+<hex>#f2f7fd</hex>
+</color>
+<color>
+<name>Cotton Candy</name>
+<hex>#ffbcd9</hex>
+</color>
+<color>
+<name>Cotton Field</name>
+<hex>#f2f0e8</hex>
+</color>
+<color>
+<name>Couscous</name>
+<hex>#ffe29b</hex>
+</color>
+<color>
+<name>Cover of Night</name>
+<hex>#494e4f</hex>
+</color>
+<color>
+<name>Cow's Milk</name>
+<hex>#f1ede5</hex>
+</color>
+<color>
+<name>Cowboy</name>
+<hex>#443736</hex>
+</color>
+<color>
+<name>Coyote</name>
+<hex>#dc9b68</hex>
+</color>
+<color>
+<name>Cozy Wool</name>
+<hex>#d1b99b</hex>
+</color>
+<color>
+<name>Cranberry</name>
+<hex>#9e003a</hex>
+</color>
+<color>
+<name>Cranberry Splash</name>
+<hex>#da5265</hex>
+</color>
+<color>
+<name>Crash Dummy</name>
+<hex>#eeee66</hex>
+</color>
+<color>
+<name>Cream</name>
+<hex>#ffffc2</hex>
+</color>
+<color>
+<name>Cream Puff</name>
+<hex>#ffbb99</hex>
+</color>
+<color>
+<name>Creamed Caramel</name>
+<hex>#b79c94</hex>
+</color>
+<color>
+<name>Creamy Apricot</name>
+<hex>#ffe8bd</hex>
+</color>
+<color>
+<name>Creamy Mint</name>
+<hex>#aaffaa</hex>
+</color>
+<color>
+<name>Creamy Peach</name>
+<hex>#f4a384</hex>
+</color>
+<color>
+<name>Crème Brûlée</name>
+<hex>#ffe39b</hex>
+</color>
+<color>
+<name>Crème de la Crème</name>
+<hex>#f3e7b4</hex>
+</color>
+<color>
+<name>Crème Fraîche</name>
+<hex>#f7f0e2</hex>
+</color>
+<color>
+<name>Creole</name>
+<hex>#393227</hex>
+</color>
+<color>
+<name>Crepe</name>
+<hex>#d4bc94</hex>
+</color>
+<color>
+<name>Croissant</name>
+<hex>#c4ab86</hex>
+</color>
+<color>
+<name>Crow</name>
+<hex>#180614</hex>
+</color>
+<color>
+<name>Crown Jewel</name>
+<hex>#482d54</hex>
+</color>
+<color>
+<name>Crown of Thorns</name>
+<hex>#763c33</hex>
+</color>
+<color>
+<name>Crude Banana</name>
+<hex>#21c40e</hex>
+</color>
+<color>
+<name>Crumbling Statue</name>
+<hex>#cabfb4</hex>
+</color>
+<color>
+<name>Crusade King</name>
+<hex>#dbc364</hex>
+</color>
+<color>
+<name>Crushed Ice</name>
+<hex>#c4fff7</hex>
+</color>
+<color>
+<name>Cryo Freeze</name>
+<hex>#ddece0</hex>
+</color>
+<color>
+<name>Crystal</name>
+<hex>#a7d8de</hex>
+</color>
+<color>
+<name>Crystal Gem</name>
+<hex>#79d0a7</hex>
+</color>
+<color>
+<name>Crystal Lake</name>
+<hex>#88b5c4</hex>
+</color>
+<color>
+<name>Cuba Libre</name>
+<hex>#73383c</hex>
+</color>
+<color>
+<name>Cucumber</name>
+<hex>#006400</hex>
+</color>
+<color>
+<name>Cucumber Milk</name>
+<hex>#c2f177</hex>
+</color>
+<color>
+<name>Cumin</name>
+<hex>#a58459</hex>
+</color>
+<color>
+<name>Cumulus</name>
+<hex>#f3f3e6</hex>
+</color>
+<color>
+<name>Cupid</name>
+<hex>#f5b2c5</hex>
+</color>
+<color>
+<name>Curry</name>
+<hex>#d6a332</hex>
+</color>
+<color>
+<name>Curry Bubbels</name>
+<hex>#f5b700</hex>
+</color>
+<color>
+<name>Curry Sauce</name>
+<hex>#be9e6f</hex>
+</color>
+<color>
+<name>Currywurst</name>
+<hex>#ddaa33</hex>
+</color>
+<color>
+<name>Cute Crab</name>
+<hex>#dd4444</hex>
+</color>
+<color>
+<name>Cuttlefish</name>
+<hex>#7fbbc2</hex>
+</color>
+<color>
+<name>Cyan</name>
+<hex>#0ff0fe</hex>
+</color>
+<color>
+<name>Cyber Yellow</name>
+<hex>#ffd400</hex>
+</color>
+<color>
+<name>Cypress</name>
+<hex>#545a3e</hex>
+</color>
+<color>
+<name>Daffodil</name>
+<hex>#ffff31</hex>
+</color>
+<color>
+<name>Daisy Desi</name>
+<hex>#fcdf8a</hex>
+</color>
+<color>
+<name>Dallas Dust</name>
+<hex>#ece0d6</hex>
+</color>
+<color>
+<name>Dandelion</name>
+<hex>#fedf08</hex>
+</color>
+<color>
+<name>Danger</name>
+<hex>#ff0e0e</hex>
+</color>
+<color>
+<name>Dangerous Robot</name>
+<hex>#cbc5c6</hex>
+</color>
+<color>
+<name>Dark</name>
+<hex>#1b2431</hex>
+</color>
+<color>
+<name>Dark &amp; Stormy</name>
+<hex>#353f51</hex>
+</color>
+<color>
+<name>Dark Blue</name>
+<hex>#305679</hex>
+</color>
+<color>
+<name>Dark Crypt</name>
+<hex>#3f4551</hex>
+</color>
+<color>
+<name>Dark Cyan</name>
+<hex>#008b8b</hex>
+</color>
+<color>
+<name>Dark Denim</name>
+<hex>#005588</hex>
+</color>
+<color>
+<name>Dark Dreams</name>
+<hex>#332266</hex>
+</color>
+<color>
+<name>Dark Eclipse</name>
+<hex>#112244</hex>
+</color>
+<color>
+<name>Dark Forest</name>
+<hex>#556962</hex>
+</color>
+<color>
+<name>Dark Galaxy</name>
+<hex>#0018a8</hex>
+</color>
+<color>
+<name>Dark Matter</name>
+<hex>#110101</hex>
+</color>
+<color>
+<name>Dark Olive</name>
+<hex>#373e02</hex>
+</color>
+<color>
+<name>Dark Orange</name>
+<hex>#c65102</hex>
+</color>
+<color>
+<name>Dark Pink</name>
+<hex>#cb416b</hex>
+</color>
+<color>
+<name>Dark Purple</name>
+<hex>#35063e</hex>
+</color>
+<color>
+<name>Dark Red</name>
+<hex>#840000</hex>
+</color>
+<color>
+<name>Dark Rum</name>
+<hex>#45362b</hex>
+</color>
+<color>
+<name>Dark Sanctuary</name>
+<hex>#3f012c</hex>
+</color>
+<color>
+<name>Dark Sapphire</name>
+<hex>#082567</hex>
+</color>
+<color>
+<name>Dark Secret</name>
+<hex>#3e5361</hex>
+</color>
+<color>
+<name>Dark Souls</name>
+<hex>#a3a3a2</hex>
+</color>
+<color>
+<name>Dark Void</name>
+<hex>#151517</hex>
+</color>
+<color>
+<name>Dark Wood</name>
+<hex>#855e42</hex>
+</color>
+<color>
+<name>Darkest Dungeon</name>
+<hex>#660011</hex>
+</color>
+<color>
+<name>Darth Vader</name>
+<hex>#0b0b0b</hex>
+</color>
+<color>
+<name>Dead Forest</name>
+<hex>#434b4f</hex>
+</color>
+<color>
+<name>Dead Pixel</name>
+<hex>#3b3a3a</hex>
+</color>
+<color>
+<name>Deadly Depths</name>
+<hex>#111144</hex>
+</color>
+<color>
+<name>Debian Red</name>
+<hex>#d70a53</hex>
+</color>
+<color>
+<name>Deep Forest</name>
+<hex>#37413a</hex>
+</color>
+<color>
+<name>Deep Green</name>
+<hex>#02590f</hex>
+</color>
+<color>
+<name>Deep Lagoon</name>
+<hex>#005265</hex>
+</color>
+<color>
+<name>Deep Night</name>
+<hex>#494c55</hex>
+</color>
+<color>
+<name>Deep Saffron</name>
+<hex>#ff9932</hex>
+</color>
+<color>
+<name>Deep Sea Diver</name>
+<hex>#255c61</hex>
+</color>
+<color>
+<name>Deep Sea Nightmare</name>
+<hex>#002366</hex>
+</color>
+<color>
+<name>Deep Sky Blue</name>
+<hex>#0d75f8</hex>
+</color>
+<color>
+<name>Deep Space Rodeo</name>
+<hex>#332277</hex>
+</color>
+<color>
+<name>Deepsea Kraken</name>
+<hex>#082599</hex>
+</color>
+<color>
+<name>Deer</name>
+<hex>#ba8759</hex>
+</color>
+<color>
+<name>Delicate Cloud</name>
+<hex>#dddfe8</hex>
+</color>
+<color>
+<name>Delicate Ice</name>
+<hex>#b7d2e3</hex>
+</color>
+<color>
+<name>Delicate Lemon</name>
+<hex>#eedd77</hex>
+</color>
+<color>
+<name>Delicate Seashell</name>
+<hex>#ffefdd</hex>
+</color>
+<color>
+<name>Demonic</name>
+<hex>#bb2233</hex>
+</color>
+<color>
+<name>Denim</name>
+<hex>#2243b6</hex>
+</color>
+<color>
+<name>Desert</name>
+<hex>#ccad60</hex>
+</color>
+<color>
+<name>Desert Dune</name>
+<hex>#b5ab9c</hex>
+</color>
+<color>
+<name>Desert Locust</name>
+<hex>#a9a450</hex>
+</color>
+<color>
+<name>Deserted Beach</name>
+<hex>#e7dbbf</hex>
+</color>
+<color>
+<name>Desire</name>
+<hex>#ea3c53</hex>
+</color>
+<color>
+<name>Detective Coat</name>
+<hex>#8b8685</hex>
+</color>
+<color>
+<name>Devil's Advocate</name>
+<hex>#ff3344</hex>
+</color>
+<color>
+<name>Devilish</name>
+<hex>#dd3322</hex>
+</color>
+<color>
+<name>Devilish Diva</name>
+<hex>#ce7790</hex>
+</color>
+<color>
+<name>Diamond</name>
+<hex>#faf7e2</hex>
+</color>
+<color>
+<name>Diesel</name>
+<hex>#322c2b</hex>
+</color>
+<color>
+<name>Digger's Gold</name>
+<hex>#a37336</hex>
+</color>
+<color>
+<name>Dijon Mustard</name>
+<hex>#e2ca73</hex>
+</color>
+<color>
+<name>Dill</name>
+<hex>#6f7755</hex>
+</color>
+<color>
+<name>Dim</name>
+<hex>#c8c2be</hex>
+</color>
+<color>
+<name>Dinosaur Egg</name>
+<hex>#cabaa9</hex>
+</color>
+<color>
+<name>Dire Wolf</name>
+<hex>#282828</hex>
+</color>
+<color>
+<name>Disappearing Memories</name>
+<hex>#eae3e0</hex>
+</color>
+<color>
+<name>Discreet Orange</name>
+<hex>#ffad98</hex>
+</color>
+<color>
+<name>Discrete Pink</name>
+<hex>#ebdbdd</hex>
+</color>
+<color>
+<name>Distant Cloud</name>
+<hex>#e5eae6</hex>
+</color>
+<color>
+<name>Distant Homeworld</name>
+<hex>#acdcee</hex>
+</color>
+<color>
+<name>Distant Landscape</name>
+<hex>#e1efdd</hex>
+</color>
+<color>
+<name>Diva</name>
+<hex>#c9a0ff</hex>
+</color>
+<color>
+<name>Diva Mecha</name>
+<hex>#ee99ee</hex>
+</color>
+<color>
+<name>Diver's Eden</name>
+<hex>#3a797e</hex>
+</color>
+<color>
+<name>Doctor</name>
+<hex>#f9f9f9</hex>
+</color>
+<color>
+<name>Dogwood</name>
+<hex>#faeae2</hex>
+</color>
+<color>
+<name>Dollar Bill</name>
+<hex>#85bb65</hex>
+</color>
+<color>
+<name>Dolly</name>
+<hex>#f5f171</hex>
+</color>
+<color>
+<name>Dolphin</name>
+<hex>#86c4da</hex>
+</color>
+<color>
+<name>Donegal Green</name>
+<hex>#115500</hex>
+</color>
+<color>
+<name>Döner Kebab</name>
+<hex>#bb7766</hex>
+</color>
+<color>
+<name>Donkey Kong</name>
+<hex>#ab4210</hex>
+</color>
+<color>
+<name>Dorn Yellow</name>
+<hex>#fff200</hex>
+</color>
+<color>
+<name>Double Cream</name>
+<hex>#f3e0ac</hex>
+</color>
+<color>
+<name>Dove</name>
+<hex>#b3ada7</hex>
+</color>
+<color>
+<name>Down Feathers</name>
+<hex>#fff9e7</hex>
+</color>
+<color>
+<name>Dr Who</name>
+<hex>#78587d</hex>
+</color>
+<color>
+<name>Dr. White</name>
+<hex>#fafafa</hex>
+</color>
+<color>
+<name>Dragon Ball</name>
+<hex>#ff9922</hex>
+</color>
+<color>
+<name>Dragon Fire</name>
+<hex>#fc642d</hex>
+</color>
+<color>
+<name>Dragon's Blood</name>
+<hex>#b84048</hex>
+</color>
+<color>
+<name>Dragonfly</name>
+<hex>#314a76</hex>
+</color>
+<color>
+<name>Drama Queen</name>
+<hex>#a37298</hex>
+</color>
+<color>
+<name>Dream Setting</name>
+<hex>#ff77bb</hex>
+</color>
+<color>
+<name>Dream Vapor</name>
+<hex>#cc99ee</hex>
+</color>
+<color>
+<name>Dreamless Sleep</name>
+<hex>#111111</hex>
+</color>
+<color>
+<name>Dried Tomatoes</name>
+<hex>#ab6057</hex>
+</color>
+<color>
+<name>Driftwood</name>
+<hex>#a67a45</hex>
+</color>
+<color>
+<name>Droplet</name>
+<hex>#aaddff</hex>
+</color>
+<color>
+<name>Dropped Brick</name>
+<hex>#bb3300</hex>
+</color>
+<color>
+<name>Drover</name>
+<hex>#fbeb9b</hex>
+</color>
+<color>
+<name>Drunk-Tank Pink</name>
+<hex>#dd11dd</hex>
+</color>
+<color>
+<name>Drunken Flamingo</name>
+<hex>#ff55cc</hex>
+</color>
+<color>
+<name>Dry Bone</name>
+<hex>#eadfce</hex>
+</color>
+<color>
+<name>Dry Rose</name>
+<hex>#c22f4d</hex>
+</color>
+<color>
+<name>Duck Butter</name>
+<hex>#ddc75b</hex>
+</color>
+<color>
+<name>Duck Hunt</name>
+<hex>#005800</hex>
+</color>
+<color>
+<name>Dune</name>
+<hex>#d5c0a1</hex>
+</color>
+<color>
+<name>Dungeon Keeper</name>
+<hex>#ef3038</hex>
+</color>
+<color>
+<name>Durian White</name>
+<hex>#e6d0ab</hex>
+</color>
+<color>
+<name>Dusk</name>
+<hex>#4e5481</hex>
+</color>
+<color>
+<name>Dust Storm</name>
+<hex>#e7d3b7</hex>
+</color>
+<color>
+<name>Dust to Dust</name>
+<hex>#bbbcbc</hex>
+</color>
+<color>
+<name>Dusty Chimney</name>
+<hex>#888899</hex>
+</color>
+<color>
+<name>Dwarf Fortress</name>
+<hex>#1d0200</hex>
+</color>
+<color>
+<name>Dwarven Bronze</name>
+<hex>#bf652e</hex>
+</color>
+<color>
+<name>Dwindling Dandelion</name>
+<hex>#f9e9d7</hex>
+</color>
+<color>
+<name>Dynamite</name>
+<hex>#ff4422</hex>
+</color>
+<color>
+<name>Dynasty Green</name>
+<hex>#008e80</hex>
+</color>
+<color>
+<name>Eagle</name>
+<hex>#b0ac94</hex>
+</color>
+<color>
+<name>Earl Grey</name>
+<hex>#a6978a</hex>
+</color>
+<color>
+<name>Earthbound</name>
+<hex>#a48a80</hex>
+</color>
+<color>
+<name>Earthworm</name>
+<hex>#c3816e</hex>
+</color>
+<color>
+<name>Easter Egg</name>
+<hex>#919bc9</hex>
+</color>
+<color>
+<name>Eat Your Greens</name>
+<hex>#696845</hex>
+</color>
+<color>
+<name>Ebi Brown</name>
+<hex>#773c30</hex>
+</color>
+<color>
+<name>Ebony</name>
+<hex>#313337</hex>
+</color>
+<color>
+<name>Eclipse</name>
+<hex>#3f3939</hex>
+</color>
+<color>
+<name>Ecological</name>
+<hex>#677f70</hex>
+</color>
+<color>
+<name>Ecstatic Red</name>
+<hex>#aa1122</hex>
+</color>
+<color>
+<name>Edamame</name>
+<hex>#9ca389</hex>
+</color>
+<color>
+<name>EGA Green</name>
+<hex>#01ff07</hex>
+</color>
+<color>
+<name>Egg Yolk</name>
+<hex>#ffce81</hex>
+</color>
+<color>
+<name>Eggnog</name>
+<hex>#fdea9f</hex>
+</color>
+<color>
+<name>Eggplant</name>
+<hex>#430541</hex>
+</color>
+<color>
+<name>Eggshell</name>
+<hex>#f0ead6</hex>
+</color>
+<color>
+<name>Eiffel Tower</name>
+<hex>#998e83</hex>
+</color>
+<color>
+<name>Eigengrau</name>
+<hex>#16161d</hex>
+</color>
+<color>
+<name>Elastic Pink</name>
+<hex>#eca6ca</hex>
+</color>
+<color>
+<name>Electra</name>
+<hex>#55b492</hex>
+</color>
+<color>
+<name>Electric Eel</name>
+<hex>#88bbee</hex>
+</color>
+<color>
+<name>Electric Yellow</name>
+<hex>#fffc00</hex>
+</color>
+<color>
+<name>Elephant in the Room</name>
+<hex>#a8a9a8</hex>
+</color>
+<color>
+<name>Embarrassment</name>
+<hex>#ff7777</hex>
+</color>
+<color>
+<name>Emerald</name>
+<hex>#028f1e</hex>
+</color>
+<color>
+<name>Emerald Forest</name>
+<hex>#224347</hex>
+</color>
+<color>
+<name>Emerald Glitter</name>
+<hex>#66bb00</hex>
+</color>
+<color>
+<name>Emergency</name>
+<hex>#911911</hex>
+</color>
+<color>
+<name>Eminence</name>
+<hex>#6e3974</hex>
+</color>
+<color>
+<name>Emoji Yellow</name>
+<hex>#ffde34</hex>
+</color>
+<color>
+<name>Emperor Jade</name>
+<hex>#007b75</hex>
+</color>
+<color>
+<name>Empress</name>
+<hex>#7c7173</hex>
+</color>
+<color>
+<name>Emptiness</name>
+<hex>#fcfdfc</hex>
+</color>
+<color>
+<name>Enchanting Ivy</name>
+<hex>#315955</hex>
+</color>
+<color>
+<name>End of Summer</name>
+<hex>#cc8f15</hex>
+</color>
+<color>
+<name>Endless Galaxy</name>
+<hex>#000044</hex>
+</color>
+<color>
+<name>Endo</name>
+<hex>#5da464</hex>
+</color>
+<color>
+<name>English Breakfast</name>
+<hex>#441111</hex>
+</color>
+<color>
+<name>English Manor</name>
+<hex>#7181a4</hex>
+</color>
+<color>
+<name>English Walnut</name>
+<hex>#3e2b23</hex>
+</color>
+<color>
+<name>Enoki</name>
+<hex>#f8faee</hex>
+</color>
+<color>
+<name>Enraged</name>
+<hex>#ee0044</hex>
+</color>
+<color>
+<name>Ephemeral Blue</name>
+<hex>#cbd4df</hex>
+</color>
+<color>
+<name>Ephemeral Red</name>
+<hex>#e4cfd7</hex>
+</color>
+<color>
+<name>Errigal White</name>
+<hex>#f2f2f4</hex>
+</color>
+<color>
+<name>Escalope</name>
+<hex>#cc8866</hex>
+</color>
+<color>
+<name>Escargot</name>
+<hex>#fff1d8</hex>
+</color>
+<color>
+<name>Espresso</name>
+<hex>#4e312d</hex>
+</color>
+<color>
+<name>Espresso Macchiato</name>
+<hex>#4f4744</hex>
+</color>
+<color>
+<name>Estragon</name>
+<hex>#a5af76</hex>
+</color>
+<color>
+<name>Eternal Flame</name>
+<hex>#a13f49</hex>
+</color>
+<color>
+<name>Ether</name>
+<hex>#9eb6b8</hex>
+</color>
+<color>
+<name>Eucalyptus</name>
+<hex>#329760</hex>
+</color>
+<color>
+<name>Evening Glow</name>
+<hex>#fdd792</hex>
+</color>
+<color>
+<name>Everglade</name>
+<hex>#264334</hex>
+</color>
+<color>
+<name>Evergreen</name>
+<hex>#11574a</hex>
+</color>
+<color>
+<name>Everlasting Ice</name>
+<hex>#f6fdfa</hex>
+</color>
+<color>
+<name>Evil Forces</name>
+<hex>#770022</hex>
+</color>
+<color>
+<name>Excalibur</name>
+<hex>#676168</hex>
+</color>
+<color>
+<name>Exclusive Elixir</name>
+<hex>#f9f1dd</hex>
+</color>
+<color>
+<name>Exit Light</name>
+<hex>#55bb33</hex>
+</color>
+<color>
+<name>Exotic Escape</name>
+<hex>#96d9df</hex>
+</color>
+<color>
+<name>Exploding Star</name>
+<hex>#fed83a</hex>
+</color>
+<color>
+<name>Extra Life</name>
+<hex>#6ab417</hex>
+</color>
+<color>
+<name>Extraviolet</name>
+<hex>#661188</hex>
+</color>
+<color>
+<name>Eyeball</name>
+<hex>#fffbf8</hex>
+</color>
+<color>
+<name>Fading Horizon</name>
+<hex>#442266</hex>
+</color>
+<color>
+<name>Fading Love</name>
+<hex>#c973a2</hex>
+</color>
+<color>
+<name>Fail Whale</name>
+<hex>#99ccee</hex>
+</color>
+<color>
+<name>Faint Gold</name>
+<hex>#b59410</hex>
+</color>
+<color>
+<name>Fairy Dust</name>
+<hex>#ffe8f4</hex>
+</color>
+<color>
+<name>Fairy Tale</name>
+<hex>#f2c1d1</hex>
+</color>
+<color>
+<name>Fake Jade</name>
+<hex>#13eac9</hex>
+</color>
+<color>
+<name>Falafel</name>
+<hex>#aa7711</hex>
+</color>
+<color>
+<name>Fancy Fuchsia</name>
+<hex>#ff0088</hex>
+</color>
+<color>
+<name>Fandango</name>
+<hex>#b53389</hex>
+</color>
+<color>
+<name>Farmer's Market</name>
+<hex>#8f917c</hex>
+</color>
+<color>
+<name>Fatback</name>
+<hex>#fff7ed</hex>
+</color>
+<color>
+<name>Fawn</name>
+<hex>#cfaf7b</hex>
+</color>
+<color>
+<name>Featherbed</name>
+<hex>#afcbe5</hex>
+</color>
+<color>
+<name>Fedora</name>
+<hex>#625665</hex>
+</color>
+<color>
+<name>Feijoa</name>
+<hex>#a5d785</hex>
+</color>
+<color>
+<name>Feminism</name>
+<hex>#9d5783</hex>
+</color>
+<color>
+<name>Femme Fatale</name>
+<hex>#948593</hex>
+</color>
+<color>
+<name>Fennec Fox</name>
+<hex>#dad7c8</hex>
+</color>
+<color>
+<name>Fennel Flower</name>
+<hex>#77aaff</hex>
+</color>
+<color>
+<name>Fern</name>
+<hex>#548d44</hex>
+</color>
+<color>
+<name>Ferocious Fuchsia</name>
+<hex>#aa00cc</hex>
+</color>
+<color>
+<name>Festive Ferret</name>
+<hex>#dfdfe5</hex>
+</color>
+<color>
+<name>Feta</name>
+<hex>#dbe0d0</hex>
+</color>
+<color>
+<name>Ficus</name>
+<hex>#3b593a</hex>
+</color>
+<color>
+<name>Ficus Elastica</name>
+<hex>#006131</hex>
+</color>
+<color>
+<name>Fiddle-Leaf Fig</name>
+<hex>#a6c875</hex>
+</color>
+<color>
+<name>Fiery Glow</name>
+<hex>#f0531c</hex>
+</color>
+<color>
+<name>Fiesta</name>
+<hex>#edd8d2</hex>
+</color>
+<color>
+<name>Fiji Sands</name>
+<hex>#d8caa9</hex>
+</color>
+<color>
+<name>Fine Pine</name>
+<hex>#008800</hex>
+</color>
+<color>
+<name>Finger Banana</name>
+<hex>#e1c12f</hex>
+</color>
+<color>
+<name>Finnish Fiord</name>
+<hex>#5db0be</hex>
+</color>
+<color>
+<name>Fiord</name>
+<hex>#4b5a62</hex>
+</color>
+<color>
+<name>Fire</name>
+<hex>#8f3f2a</hex>
+</color>
+<color>
+<name>Fire Ant</name>
+<hex>#be6400</hex>
+</color>
+<color>
+<name>Fire Bolt</name>
+<hex>#cc4411</hex>
+</color>
+<color>
+<name>Fire Engine</name>
+<hex>#fe0002</hex>
+</color>
+<color>
+<name>Fireball</name>
+<hex>#ce2029</hex>
+</color>
+<color>
+<name>Firebug</name>
+<hex>#cd5c51</hex>
+</color>
+<color>
+<name>Firecracker</name>
+<hex>#f36944</hex>
+</color>
+<color>
+<name>Firefly Glow</name>
+<hex>#fff3a1</hex>
+</color>
+<color>
+<name>Firewatch</name>
+<hex>#ee8866</hex>
+</color>
+<color>
+<name>First Crush</name>
+<hex>#f6e2ea</hex>
+</color>
+<color>
+<name>First Love</name>
+<hex>#cf758a</hex>
+</color>
+<color>
+<name>First Snow</name>
+<hex>#e8eff8</hex>
+</color>
+<color>
+<name>Fish Bone</name>
+<hex>#e4d9c5</hex>
+</color>
+<color>
+<name>Fish Ceviche</name>
+<hex>#e1e1d5</hex>
+</color>
+<color>
+<name>Fish Pond</name>
+<hex>#86c8ed</hex>
+</color>
+<color>
+<name>Fisher King</name>
+<hex>#5182b9</hex>
+</color>
+<color>
+<name>Fist of the North Star</name>
+<hex>#225599</hex>
+</color>
+<color>
+<name>Five Star</name>
+<hex>#ffaa4a</hex>
+</color>
+<color>
+<name>Fizz</name>
+<hex>#b1dbaa</hex>
+</color>
+<color>
+<name>Flame</name>
+<hex>#e25822</hex>
+</color>
+<color>
+<name>Flamenco</name>
+<hex>#ea8645</hex>
+</color>
+<color>
+<name>Flamingo Queen</name>
+<hex>#cc33ff</hex>
+</color>
+<color>
+<name>Flan</name>
+<hex>#f6e3b4</hex>
+</color>
+<color>
+<name>Flash in the Pan</name>
+<hex>#ff9977</hex>
+</color>
+<color>
+<name>Flashlight</name>
+<hex>#f9eed6</hex>
+</color>
+<color>
+<name>Flattered Flamingo</name>
+<hex>#ee6655</hex>
+</color>
+<color>
+<name>Fleur-De-Lis</name>
+<hex>#b090c7</hex>
+</color>
+<color>
+<name>Flickering Firefly</name>
+<hex>#f8f6e6</hex>
+</color>
+<color>
+<name>Flickering Light</name>
+<hex>#fff1dc</hex>
+</color>
+<color>
+<name>Flickr Pink</name>
+<hex>#fb0081</hex>
+</color>
+<color>
+<name>Flint Rock</name>
+<hex>#989493</hex>
+</color>
+<color>
+<name>Flip a Coin</name>
+<hex>#ccddcc</hex>
+</color>
+<color>
+<name>Flip-Flop</name>
+<hex>#f2c4a7</hex>
+</color>
+<color>
+<name>Flirt</name>
+<hex>#7a2e4d</hex>
+</color>
+<color>
+<name>Flirtatious Flamingo</name>
+<hex>#cc22ff</hex>
+</color>
+<color>
+<name>Flirty Salmon</name>
+<hex>#fa7069</hex>
+</color>
+<color>
+<name>Floating Feather</name>
+<hex>#e9d8c2</hex>
+</color>
+<color>
+<name>Flood</name>
+<hex>#6677bb</hex>
+</color>
+<color>
+<name>Flora</name>
+<hex>#73fa79</hex>
+</color>
+<color>
+<name>Fluffy Duckling</name>
+<hex>#fcdf39</hex>
+</color>
+<color>
+<name>Fluorescence</name>
+<hex>#89d178</hex>
+</color>
+<color>
+<name>Fluorescent Green</name>
+<hex>#08ff08</hex>
+</color>
+<color>
+<name>Fluorescent Lime</name>
+<hex>#bdc233</hex>
+</color>
+<color>
+<name>Fluorescent Orange</name>
+<hex>#ffcf00</hex>
+</color>
+<color>
+<name>Fluorescent Pink</name>
+<hex>#fe1493</hex>
+</color>
+<color>
+<name>Fluorescent Red</name>
+<hex>#ff5555</hex>
+</color>
+<color>
+<name>Fluorescent Red Orange</name>
+<hex>#fc8427</hex>
+</color>
+<color>
+<name>Fluorescent Turquoise</name>
+<hex>#00fdff</hex>
+</color>
+<color>
+<name>Fluorescent Yellow</name>
+<hex>#ccff02</hex>
+</color>
+<color>
+<name>Flush Orange</name>
+<hex>#ff6f01</hex>
+</color>
+<color>
+<name>Fly a Kite</name>
+<hex>#c8daf5</hex>
+</color>
+<color>
+<name>Fly by Night</name>
+<hex>#1c1e4d</hex>
+</color>
+<color>
+<name>Flying Carpet</name>
+<hex>#787489</hex>
+</color>
+<color>
+<name>Flying Fish Blue</name>
+<hex>#024aca</hex>
+</color>
+<color>
+<name>Fog</name>
+<hex>#d6d7d2</hex>
+</color>
+<color>
+<name>Foggy Day</name>
+<hex>#e7e3db</hex>
+</color>
+<color>
+<name>Foggy Love</name>
+<hex>#d5c7e8</hex>
+</color>
+<color>
+<name>Fogtown</name>
+<hex>#eef0e7</hex>
+</color>
+<color>
+<name>Foil</name>
+<hex>#c0c3c4</hex>
+</color>
+<color>
+<name>Foliage</name>
+<hex>#95b388</hex>
+</color>
+<color>
+<name>Fool's Gold</name>
+<hex>#cad175</hex>
+</color>
+<color>
+<name>Forbidden Fruit</name>
+<hex>#fe7b7c</hex>
+</color>
+<color>
+<name>Force of Nature</name>
+<hex>#d5ce69</hex>
+</color>
+<color>
+<name>Forest</name>
+<hex>#0b5509</hex>
+</color>
+<color>
+<name>Forester</name>
+<hex>#9aa77c</hex>
+</color>
+<color>
+<name>Forget-Me-Not</name>
+<hex>#0087bd</hex>
+</color>
+<color>
+<name>Forgotten Mosque</name>
+<hex>#e2d9db</hex>
+</color>
+<color>
+<name>Fortune Cookie</name>
+<hex>#e0c5a1</hex>
+</color>
+<color>
+<name>Fossil Stone</name>
+<hex>#e3ddcc</hex>
+</color>
+<color>
+<name>Foundation White</name>
+<hex>#efeeff</hex>
+</color>
+<color>
+<name>Four Leaf Clover</name>
+<hex>#738f5d</hex>
+</color>
+<color>
+<name>Fox</name>
+<hex>#c38743</hex>
+</color>
+<color>
+<name>Framboise</name>
+<hex>#e40058</hex>
+</color>
+<color>
+<name>Frankenstein</name>
+<hex>#7ba05b</hex>
+</color>
+<color>
+<name>Free Spirit</name>
+<hex>#deeeed</hex>
+</color>
+<color>
+<name>Freefall</name>
+<hex>#565266</hex>
+</color>
+<color>
+<name>Freezing Vapor</name>
+<hex>#d4e9f5</hex>
+</color>
+<color>
+<name>Freezy Breezy</name>
+<hex>#99eeee</hex>
+</color>
+<color>
+<name>French Blue</name>
+<hex>#0072bb</hex>
+</color>
+<color>
+<name>French Oak</name>
+<hex>#bb9e7c</hex>
+</color>
+<color>
+<name>French Wine</name>
+<hex>#ac1e44</hex>
+</color>
+<color>
+<name>Fresco</name>
+<hex>#f4dbd9</hex>
+</color>
+<color>
+<name>Fresh Air</name>
+<hex>#a6e7ff</hex>
+</color>
+<color>
+<name>Fresh Blue of Bel Air</name>
+<hex>#069af3</hex>
+</color>
+<color>
+<name>Fresh Cut Grass</name>
+<hex>#91cb7d</hex>
+</color>
+<color>
+<name>Fresh Gum</name>
+<hex>#ffaadd</hex>
+</color>
+<color>
+<name>Fresh Snow</name>
+<hex>#f6efe1</hex>
+</color>
+<color>
+<name>Frog</name>
+<hex>#58bc08</hex>
+</color>
+<color>
+<name>Frog Prince</name>
+<hex>#bbd75a</hex>
+</color>
+<color>
+<name>Frogger</name>
+<hex>#8cd612</hex>
+</color>
+<color>
+<name>Frost</name>
+<hex>#e1e4c5</hex>
+</color>
+<color>
+<name>Frostbite</name>
+<hex>#acfffc</hex>
+</color>
+<color>
+<name>Frosted Blueberries</name>
+<hex>#0055dd</hex>
+</color>
+<color>
+<name>Frozen Civilization</name>
+<hex>#e1f5e5</hex>
+</color>
+<color>
+<name>Frozen Forest</name>
+<hex>#cfe8b6</hex>
+</color>
+<color>
+<name>Frozen Mammoth</name>
+<hex>#dfd9da</hex>
+</color>
+<color>
+<name>Frozen Salmon</name>
+<hex>#fea993</hex>
+</color>
+<color>
+<name>Frozen Turquoise</name>
+<hex>#53f6ff</hex>
+</color>
+<color>
+<name>Frozen Wave</name>
+<hex>#56acca</hex>
+</color>
+<color>
+<name>Fruity Licious</name>
+<hex>#f69092</hex>
+</color>
+<color>
+<name>Fuchsia</name>
+<hex>#ed0dd9</hex>
+</color>
+<color>
+<name>Fuchsia Nebula</name>
+<hex>#7722aa</hex>
+</color>
+<color>
+<name>Fuego</name>
+<hex>#ee5533</hex>
+</color>
+<color>
+<name>Fuji Peak</name>
+<hex>#f6eee2</hex>
+</color>
+<color>
+<name>Full Moon</name>
+<hex>#f4f3e0</hex>
+</color>
+<color>
+<name>Funki Porcini</name>
+<hex>#ee9999</hex>
+</color>
+<color>
+<name>Funky Frog</name>
+<hex>#98bd3c</hex>
+</color>
+<color>
+<name>Furious Frog</name>
+<hex>#55ee00</hex>
+</color>
+<color>
+<name>Furious Red</name>
+<hex>#ff1100</hex>
+</color>
+<color>
+<name>Furnace</name>
+<hex>#dd4124</hex>
+</color>
+<color>
+<name>Furry Lion</name>
+<hex>#f09338</hex>
+</color>
+<color>
+<name>Fusilli</name>
+<hex>#f1e8d6</hex>
+</color>
+<color>
+<name>Fusion Red</name>
+<hex>#ff6163</hex>
+</color>
+<color>
+<name>Fuzzy Duckling</name>
+<hex>#ffea70</hex>
+</color>
+<color>
+<name>Fuzzy Sheep</name>
+<hex>#f0e9d1</hex>
+</color>
+<color>
+<name>Fuzzy Wuzzy</name>
+<hex>#cc6666</hex>
+</color>
+<color>
+<name>Galactic Civilization</name>
+<hex>#442288</hex>
+</color>
+<color>
+<name>Galactic Highway</name>
+<hex>#3311bb</hex>
+</color>
+<color>
+<name>Galaxy Blue</name>
+<hex>#2a4b7c</hex>
+</color>
+<color>
+<name>Gale of the Wind</name>
+<hex>#007844</hex>
+</color>
+<color>
+<name>Gallant Green</name>
+<hex>#99aa66</hex>
+</color>
+<color>
+<name>Gameboy Screen</name>
+<hex>#8bac0f</hex>
+</color>
+<color>
+<name>Gangsters Gold</name>
+<hex>#ffdd22</hex>
+</color>
+<color>
+<name>Garden Snail</name>
+<hex>#cdb1ab</hex>
+</color>
+<color>
+<name>Garden Weed</name>
+<hex>#786e38</hex>
+</color>
+<color>
+<name>Garfield</name>
+<hex>#a75429</hex>
+</color>
+<color>
+<name>Gargoyle</name>
+<hex>#abb39e</hex>
+</color>
+<color>
+<name>Garlic Clove</name>
+<hex>#e2d7c1</hex>
+</color>
+<color>
+<name>Garlic Toast</name>
+<hex>#dddd88</hex>
+</color>
+<color>
+<name>Gatsby Glitter</name>
+<hex>#eed683</hex>
+</color>
+<color>
+<name>Gazelle</name>
+<hex>#947e68</hex>
+</color>
+<color>
+<name>Gecko</name>
+<hex>#9d913c</hex>
+</color>
+<color>
+<name>Gédéon Brown</name>
+<hex>#7f5f00</hex>
+</color>
+<color>
+<name>Genie</name>
+<hex>#3e4364</hex>
+</color>
+<color>
+<name>Gentle Caress</name>
+<hex>#fcd7ba</hex>
+</color>
+<color>
+<name>Gentle Cold</name>
+<hex>#c3ece9</hex>
+</color>
+<color>
+<name>Gentle Frost</name>
+<hex>#dce0cd</hex>
+</color>
+<color>
+<name>Georgia Peach</name>
+<hex>#f97272</hex>
+</color>
+<color>
+<name>German Hop</name>
+<hex>#89ac27</hex>
+</color>
+<color>
+<name>Ghost</name>
+<hex>#c0bfc7</hex>
+</color>
+<color>
+<name>Ghost Whisperer</name>
+<hex>#cbd1d0</hex>
+</color>
+<color>
+<name>Ghost White</name>
+<hex>#f8f8ff</hex>
+</color>
+<color>
+<name>Ghoul</name>
+<hex>#667744</hex>
+</color>
+<color>
+<name>Giggle</name>
+<hex>#eff0d3</hex>
+</color>
+<color>
+<name>Gin</name>
+<hex>#d9dfcd</hex>
+</color>
+<color>
+<name>Gin Fizz</name>
+<hex>#f8eaca</hex>
+</color>
+<color>
+<name>Gin Tonic</name>
+<hex>#ecebe5</hex>
+</color>
+<color>
+<name>Ginger</name>
+<hex>#b06500</hex>
+</color>
+<color>
+<name>Ginger Ale</name>
+<hex>#c9a86a</hex>
+</color>
+<color>
+<name>Ginger Beer</name>
+<hex>#c27f38</hex>
+</color>
+<color>
+<name>Ginger Dough</name>
+<hex>#b06d3b</hex>
+</color>
+<color>
+<name>Gingerbread</name>
+<hex>#8c4a2f</hex>
+</color>
+<color>
+<name>Gingerbread House</name>
+<hex>#ca994e</hex>
+</color>
+<color>
+<name>Giraffe</name>
+<hex>#fefe33</hex>
+</color>
+<color>
+<name>Girl Power</name>
+<hex>#d39bcb</hex>
+</color>
+<color>
+<name>Girlie</name>
+<hex>#ffd3cf</hex>
+</color>
+<color>
+<name>Glacial Ice</name>
+<hex>#eae9e7</hex>
+</color>
+<color>
+<name>Glacier</name>
+<hex>#78b1bf</hex>
+</color>
+<color>
+<name>Glamour Pink</name>
+<hex>#ff1dcd</hex>
+</color>
+<color>
+<name>Glamour White</name>
+<hex>#fffcec</hex>
+</color>
+<color>
+<name>Glazed Sugar</name>
+<hex>#ffdccc</hex>
+</color>
+<color>
+<name>Glimpse into Space</name>
+<hex>#121210</hex>
+</color>
+<color>
+<name>Glimpse of Void</name>
+<hex>#335588</hex>
+</color>
+<color>
+<name>Glitter is not Gold</name>
+<hex>#fedc57</hex>
+</color>
+<color>
+<name>Glitter Shower</name>
+<hex>#88ffff</hex>
+</color>
+<color>
+<name>Glorious Green Glitter</name>
+<hex>#aaee11</hex>
+</color>
+<color>
+<name>Glossy Black</name>
+<hex>#110011</hex>
+</color>
+<color>
+<name>Glow in the Dark</name>
+<hex>#befdb7</hex>
+</color>
+<color>
+<name>Glow Worm</name>
+<hex>#bed565</hex>
+</color>
+<color>
+<name>Glowlight</name>
+<hex>#fff6b9</hex>
+</color>
+<color>
+<name>Go Go Green</name>
+<hex>#008a7d</hex>
+</color>
+<color>
+<name>Goblin Green</name>
+<hex>#76ff7a</hex>
+</color>
+<color>
+<name>Goddess</name>
+<hex>#d0e1e8</hex>
+</color>
+<color>
+<name>Godzilla</name>
+<hex>#3c4d03</hex>
+</color>
+<color>
+<name>Goku Orange</name>
+<hex>#f0833a</hex>
+</color>
+<color>
+<name>Gold</name>
+<hex>#ffd700</hex>
+</color>
+<color>
+<name>Gold Rush</name>
+<hex>#c4a777</hex>
+</color>
+<color>
+<name>Gold Tooth</name>
+<hex>#dbb40c</hex>
+</color>
+<color>
+<name>Gold Vein</name>
+<hex>#d6b956</hex>
+</color>
+<color>
+<name>Golden Boy</name>
+<hex>#ffdd44</hex>
+</color>
+<color>
+<name>Golden Coin</name>
+<hex>#fcd975</hex>
+</color>
+<color>
+<name>Golden Ginkgo</name>
+<hex>#f9f525</hex>
+</color>
+<color>
+<name>Golden Retriever</name>
+<hex>#eedec7</hex>
+</color>
+<color>
+<name>Goldfish</name>
+<hex>#f2ad62</hex>
+</color>
+<color>
+<name>Goldilocks</name>
+<hex>#fff39a</hex>
+</color>
+<color>
+<name>Golf Course</name>
+<hex>#5a9e4b</hex>
+</color>
+<color>
+<name>Good Karma</name>
+<hex>#333c76</hex>
+</color>
+<color>
+<name>Good Morning</name>
+<hex>#fcfcda</hex>
+</color>
+<color>
+<name>Good Night!</name>
+<hex>#46565f</hex>
+</color>
+<color>
+<name>Gothic</name>
+<hex>#698890</hex>
+</color>
+<color>
+<name>Gourmet Honey</name>
+<hex>#e3cba8</hex>
+</color>
+<color>
+<name>Grain of Salt</name>
+<hex>#d8dbe1</hex>
+</color>
+<color>
+<name>Grand Bleu</name>
+<hex>#015482</hex>
+</color>
+<color>
+<name>Granite</name>
+<hex>#746a5e</hex>
+</color>
+<color>
+<name>Granola</name>
+<hex>#f5ce9f</hex>
+</color>
+<color>
+<name>Grape</name>
+<hex>#6c3461</hex>
+</color>
+<color>
+<name>Grape Candy</name>
+<hex>#905284</hex>
+</color>
+<color>
+<name>Grape Green</name>
+<hex>#a8e4a0</hex>
+</color>
+<color>
+<name>Grape Kiss</name>
+<hex>#7b4368</hex>
+</color>
+<color>
+<name>Grapefruit</name>
+<hex>#fd5956</hex>
+</color>
+<color>
+<name>Grapest</name>
+<hex>#880066</hex>
+</color>
+<color>
+<name>Grass</name>
+<hex>#5cac2d</hex>
+</color>
+<color>
+<name>Grasshopper</name>
+<hex>#77824a</hex>
+</color>
+<color>
+<name>Grauzone</name>
+<hex>#85a3b2</hex>
+</color>
+<color>
+<name>Great Void</name>
+<hex>#3b5760</hex>
+</color>
+<color>
+<name>Greedy Gecko</name>
+<hex>#aa9922</hex>
+</color>
+<color>
+<name>Green</name>
+<hex>#00ff00</hex>
+</color>
+<color>
+<name>Green Bell Pepper</name>
+<hex>#228800</hex>
+</color>
+<color>
+<name>Green Envy</name>
+<hex>#77aa00</hex>
+</color>
+<color>
+<name>Green Field</name>
+<hex>#88aa77</hex>
+</color>
+<color>
+<name>Green Glimmer</name>
+<hex>#00bb00</hex>
+</color>
+<color>
+<name>Green Glint</name>
+<hex>#dcf1c7</hex>
+</color>
+<color>
+<name>Green Goblin</name>
+<hex>#11bb33</hex>
+</color>
+<color>
+<name>Green Olive</name>
+<hex>#8d8b55</hex>
+</color>
+<color>
+<name>Green Revolution</name>
+<hex>#009944</hex>
+</color>
+<color>
+<name>Green Tea</name>
+<hex>#b5b68f</hex>
+</color>
+<color>
+<name>Green Tea Mochi</name>
+<hex>#90a96e</hex>
+</color>
+<color>
+<name>Green Thumb</name>
+<hex>#779900</hex>
+</color>
+<color>
+<name>Green Venom</name>
+<hex>#b8f818</hex>
+</color>
+<color>
+<name>Greenfinch</name>
+<hex>#bda928</hex>
+</color>
+<color>
+<name>Gremlin</name>
+<hex>#a79954</hex>
+</color>
+<color>
+<name>Grey</name>
+<hex>#808080</hex>
+</color>
+<color>
+<name>Grey Area</name>
+<hex>#dddddd</hex>
+</color>
+<color>
+<name>Grey Marble</name>
+<hex>#b9b4b1</hex>
+</color>
+<color>
+<name>Greystone</name>
+<hex>#b7b9b5</hex>
+</color>
+<color>
+<name>Griffin</name>
+<hex>#8d8f8f</hex>
+</color>
+<color>
+<name>Grilled</name>
+<hex>#633f2e</hex>
+</color>
+<color>
+<name>Grim Grey</name>
+<hex>#e3dcd6</hex>
+</color>
+<color>
+<name>Grim White</name>
+<hex>#f6f1f4</hex>
+</color>
+<color>
+<name>Grizzly</name>
+<hex>#885818</hex>
+</color>
+<color>
+<name>Groovy Giraffe</name>
+<hex>#eeaa11</hex>
+</color>
+<color>
+<name>Grotesque Green</name>
+<hex>#64e986</hex>
+</color>
+<color>
+<name>Gruyère Cheese</name>
+<hex>#f5deb3</hex>
+</color>
+<color>
+<name>Guacamole</name>
+<hex>#95986b</hex>
+</color>
+<color>
+<name>Guinea Pig</name>
+<hex>#987654</hex>
+</color>
+<color>
+<name>Gull</name>
+<hex>#918c8f</hex>
+</color>
+<color>
+<name>Gum Leaf</name>
+<hex>#acc9b2</hex>
+</color>
+<color>
+<name>Gun Powder</name>
+<hex>#484753</hex>
+</color>
+<color>
+<name>Gunmetal</name>
+<hex>#536267</hex>
+</color>
+<color>
+<name>Guns N' Roses</name>
+<hex>#ff0077</hex>
+</color>
+<color>
+<name>Gunsmoke</name>
+<hex>#7a7c76</hex>
+</color>
+<color>
+<name>Gypsy Dancer</name>
+<hex>#c07c7b</hex>
+</color>
+<color>
+<name>H₂O</name>
+<hex>#bfe1e6</hex>
+</color>
+<color>
+<name>Hadfield Blue</name>
+<hex>#1177ff</hex>
+</color>
+<color>
+<name>Hairy Heath</name>
+<hex>#633528</hex>
+</color>
+<color>
+<name>Haiti</name>
+<hex>#2c2a35</hex>
+</color>
+<color>
+<name>Halloween Punch</name>
+<hex>#dd2211</hex>
+</color>
+<color>
+<name>Halo</name>
+<hex>#e2c392</hex>
+</color>
+<color>
+<name>Halt Red</name>
+<hex>#ff004f</hex>
+</color>
+<color>
+<name>Hammam Blue</name>
+<hex>#65dcd6</hex>
+</color>
+<color>
+<name>Hamster Fur</name>
+<hex>#a6814c</hex>
+</color>
+<color>
+<name>Hamtaro Brown</name>
+<hex>#b07426</hex>
+</color>
+<color>
+<name>Happy Hippo</name>
+<hex>#818581</hex>
+</color>
+<color>
+<name>Happy Piglets</name>
+<hex>#f6cbca</hex>
+</color>
+<color>
+<name>Harbor Mist</name>
+<hex>#88aaaa</hex>
+</color>
+<color>
+<name>Harbour Blue</name>
+<hex>#417491</hex>
+</color>
+<color>
+<name>Hard Candy</name>
+<hex>#ffbbbb</hex>
+</color>
+<color>
+<name>Harem Silk</name>
+<hex>#006383</hex>
+</color>
+<color>
+<name>Harlock's Cape</name>
+<hex>#bb0000</hex>
+</color>
+<color>
+<name>Harvest Gold</name>
+<hex>#eab76a</hex>
+</color>
+<color>
+<name>Harvest Time</name>
+<hex>#cf875f</hex>
+</color>
+<color>
+<name>Hatoba Pigeon</name>
+<hex>#95859c</hex>
+</color>
+<color>
+<name>Haunted Hills</name>
+<hex>#003311</hex>
+</color>
+<color>
+<name>Haute Couture</name>
+<hex>#a0252a</hex>
+</color>
+<color>
+<name>Havana</name>
+<hex>#3b2b2c</hex>
+</color>
+<color>
+<name>Hawaii Morning</name>
+<hex>#00bbff</hex>
+</color>
+<color>
+<name>Hay Day</name>
+<hex>#dacd81</hex>
+</color>
+<color>
+<name>Haystacks</name>
+<hex>#cfac47</hex>
+</color>
+<color>
+<name>Hazel</name>
+<hex>#ae7250</hex>
+</color>
+<color>
+<name>Hazelnut</name>
+<hex>#a8715a</hex>
+</color>
+<color>
+<name>Hazelnut Chocolate</name>
+<hex>#7b3f00</hex>
+</color>
+<color>
+<name>Hazelwood</name>
+<hex>#fff3d5</hex>
+</color>
+<color>
+<name>Head in the Clouds</name>
+<hex>#d1dde1</hex>
+</color>
+<color>
+<name>Heartbeat</name>
+<hex>#aa0000</hex>
+</color>
+<color>
+<name>Heartless</name>
+<hex>#623b70</hex>
+</color>
+<color>
+<name>Heat Signature</name>
+<hex>#e3000e</hex>
+</color>
+<color>
+<name>Heat Wave</name>
+<hex>#ff7a00</hex>
+</color>
+<color>
+<name>Heather Berry</name>
+<hex>#e75480</hex>
+</color>
+<color>
+<name>Heavy Brown</name>
+<hex>#73624a</hex>
+</color>
+<color>
+<name>Heavy Green</name>
+<hex>#49583e</hex>
+</color>
+<color>
+<name>Heavy Heart</name>
+<hex>#771122</hex>
+</color>
+<color>
+<name>Heavy Metal</name>
+<hex>#46473e</hex>
+</color>
+<color>
+<name>Heavy Orange</name>
+<hex>#ee4328</hex>
+</color>
+<color>
+<name>Heavy Red</name>
+<hex>#9e1212</hex>
+</color>
+<color>
+<name>Heavy Violet</name>
+<hex>#4f566c</hex>
+</color>
+<color>
+<name>Hedge Garden</name>
+<hex>#00aa11</hex>
+</color>
+<color>
+<name>Helium</name>
+<hex>#eae5d8</hex>
+</color>
+<color>
+<name>Hello Darkness My Old Friend</name>
+<hex>#802280</hex>
+</color>
+<color>
+<name>Hello Fall</name>
+<hex>#995533</hex>
+</color>
+<color>
+<name>Hello Spring</name>
+<hex>#44dd66</hex>
+</color>
+<color>
+<name>Hello Summer</name>
+<hex>#55bbff</hex>
+</color>
+<color>
+<name>Hello Winter</name>
+<hex>#99ffee</hex>
+</color>
+<color>
+<name>Helvetia Red</name>
+<hex>#f00000</hex>
+</color>
+<color>
+<name>Hemp</name>
+<hex>#987d73</hex>
+</color>
+<color>
+<name>Herbal</name>
+<hex>#29ab87</hex>
+</color>
+<color>
+<name>Herbal Vapors</name>
+<hex>#ddffcc</hex>
+</color>
+<color>
+<name>Herbivore</name>
+<hex>#88ee77</hex>
+</color>
+<color>
+<name>Here Comes the Sun</name>
+<hex>#fcdf63</hex>
+</color>
+<color>
+<name>Heron</name>
+<hex>#62617e</hex>
+</color>
+<color>
+<name>Herring Silver</name>
+<hex>#c6c8cf</hex>
+</color>
+<color>
+<name>Hey Blue!</name>
+<hex>#16f8ff</hex>
+</color>
+<color>
+<name>Hibiscus</name>
+<hex>#b6316c</hex>
+</color>
+<color>
+<name>Hickory</name>
+<hex>#b7a28e</hex>
+</color>
+<color>
+<name>Hidden Paradise</name>
+<hex>#5e8b3d</hex>
+</color>
+<color>
+<name>High Blue</name>
+<hex>#4ca8e0</hex>
+</color>
+<color>
+<name>High Dive</name>
+<hex>#59b9cc</hex>
+</color>
+<color>
+<name>High Grass</name>
+<hex>#bbdd00</hex>
+</color>
+<color>
+<name>High Sierra</name>
+<hex>#cedee2</hex>
+</color>
+<color>
+<name>High Voltage</name>
+<hex>#eeff11</hex>
+</color>
+<color>
+<name>Highland</name>
+<hex>#7a9461</hex>
+</color>
+<color>
+<name>Highlander</name>
+<hex>#3a533d</hex>
+</color>
+<color>
+<name>Highway to Hell</name>
+<hex>#cd1102</hex>
+</color>
+<color>
+<name>Himalaya</name>
+<hex>#736330</hex>
+</color>
+<color>
+<name>Himalayan Salt</name>
+<hex>#c07765</hex>
+</color>
+<color>
+<name>Hint of Blue</name>
+<hex>#cee1f2</hex>
+</color>
+<color>
+<name>Hint of Green</name>
+<hex>#dfeade</hex>
+</color>
+<color>
+<name>Hint of Mint</name>
+<hex>#dff1d6</hex>
+</color>
+<color>
+<name>Hint of Orange</name>
+<hex>#f8e6d9</hex>
+</color>
+<color>
+<name>Hint of Pink</name>
+<hex>#f1e4e1</hex>
+</color>
+<color>
+<name>Hint of Red</name>
+<hex>#f6dfe0</hex>
+</color>
+<color>
+<name>Hint of Yellow</name>
+<hex>#faf1cd</hex>
+</color>
+<color>
+<name>Hinterland</name>
+<hex>#616c51</hex>
+</color>
+<color>
+<name>Hippie Trail</name>
+<hex>#c6aa2b</hex>
+</color>
+<color>
+<name>Hippy</name>
+<hex>#eae583</hex>
+</color>
+<color>
+<name>Hipster Salmon</name>
+<hex>#fd7c6e</hex>
+</color>
+<color>
+<name>Hive</name>
+<hex>#ffff77</hex>
+</color>
+<color>
+<name>Hobgoblin</name>
+<hex>#01ad8f</hex>
+</color>
+<color>
+<name>Hold Your Horses</name>
+<hex>#705446</hex>
+</color>
+<color>
+<name>Hole In One</name>
+<hex>#4aae97</hex>
+</color>
+<color>
+<name>Holland Tulip</name>
+<hex>#f89851</hex>
+</color>
+<color>
+<name>Hollandaise</name>
+<hex>#ffee44</hex>
+</color>
+<color>
+<name>Hollow Knight</name>
+<hex>#330055</hex>
+</color>
+<color>
+<name>Holy Crow</name>
+<hex>#332f2c</hex>
+</color>
+<color>
+<name>Holy Grail</name>
+<hex>#e8d720</hex>
+</color>
+<color>
+<name>Home Brew</name>
+<hex>#897b66</hex>
+</color>
+<color>
+<name>Homeopathic Blue</name>
+<hex>#dbe7e3</hex>
+</color>
+<color>
+<name>Homeopathic Green</name>
+<hex>#e1ebd8</hex>
+</color>
+<color>
+<name>Homeopathic Lavender</name>
+<hex>#e5e0ec</hex>
+</color>
+<color>
+<name>Homeopathic Lilac</name>
+<hex>#e1e0eb</hex>
+</color>
+<color>
+<name>Homeopathic Lime</name>
+<hex>#e9f6e2</hex>
+</color>
+<color>
+<name>Homeopathic Mint</name>
+<hex>#e5ead8</hex>
+</color>
+<color>
+<name>Homeopathic Orange</name>
+<hex>#f2e6e1</hex>
+</color>
+<color>
+<name>Homeopathic Red</name>
+<hex>#ecdbe0</hex>
+</color>
+<color>
+<name>Homeopathic Rose</name>
+<hex>#e8dbdd</hex>
+</color>
+<color>
+<name>Homeopathic Yellow</name>
+<hex>#ede7d7</hex>
+</color>
+<color>
+<name>Homeworld</name>
+<hex>#2299dd</hex>
+</color>
+<color>
+<name>Honey</name>
+<hex>#ba9238</hex>
+</color>
+<color>
+<name>Honey and Thyme</name>
+<hex>#aaaa00</hex>
+</color>
+<color>
+<name>Honey Bee</name>
+<hex>#fcdfa4</hex>
+</color>
+<color>
+<name>Honey Bunny</name>
+<hex>#dbb881</hex>
+</color>
+<color>
+<name>Honey Do</name>
+<hex>#ededc7</hex>
+</color>
+<color>
+<name>Honey Glow</name>
+<hex>#e8b447</hex>
+</color>
+<color>
+<name>Honey Teriyaki</name>
+<hex>#ee6611</hex>
+</color>
+<color>
+<name>Honeycomb</name>
+<hex>#ddaa11</hex>
+</color>
+<color>
+<name>Honeydew</name>
+<hex>#f0fff0</hex>
+</color>
+<color>
+<name>Honeysuckle</name>
+<hex>#e8ed69</hex>
+</color>
+<color>
+<name>Hong Kong Taxi</name>
+<hex>#a8102a</hex>
+</color>
+<color>
+<name>Honied White</name>
+<hex>#fcefd1</hex>
+</color>
+<color>
+<name>Honolulu Blue</name>
+<hex>#007fbf</hex>
+</color>
+<color>
+<name>Horizon</name>
+<hex>#648894</hex>
+</color>
+<color>
+<name>Hornet Sting</name>
+<hex>#ff0033</hex>
+</color>
+<color>
+<name>Horror Snob</name>
+<hex>#d34d4d</hex>
+</color>
+<color>
+<name>Horseradish</name>
+<hex>#e6dfc4</hex>
+</color>
+<color>
+<name>Hot Beach</name>
+<hex>#fff6d9</hex>
+</color>
+<color>
+<name>Hot Cacao</name>
+<hex>#a5694f</hex>
+</color>
+<color>
+<name>Hot Chilli</name>
+<hex>#b7513a</hex>
+</color>
+<color>
+<name>Hot Chocolate</name>
+<hex>#683b39</hex>
+</color>
+<color>
+<name>Hot Cuba</name>
+<hex>#bb0033</hex>
+</color>
+<color>
+<name>Hot Curry</name>
+<hex>#815b28</hex>
+</color>
+<color>
+<name>Hot Flamingo</name>
+<hex>#b35966</hex>
+</color>
+<color>
+<name>Hot Jazz</name>
+<hex>#bc3033</hex>
+</color>
+<color>
+<name>Hot Lava</name>
+<hex>#aa0033</hex>
+</color>
+<color>
+<name>Hot Lips</name>
+<hex>#c9312b</hex>
+</color>
+<color>
+<name>Hot Magenta</name>
+<hex>#ff00cc</hex>
+</color>
+<color>
+<name>Hot Pink</name>
+<hex>#ff028d</hex>
+</color>
+<color>
+<name>Hot Sand</name>
+<hex>#ccaa00</hex>
+</color>
+<color>
+<name>Hot Sauce</name>
+<hex>#ab4f41</hex>
+</color>
+<color>
+<name>Hotspot</name>
+<hex>#ff4433</hex>
+</color>
+<color>
+<name>Hottest Of Pinks</name>
+<hex>#ff80ff</hex>
+</color>
+<color>
+<name>Hourglass</name>
+<hex>#e5e0d5</hex>
+</color>
+<color>
+<name>Hulk</name>
+<hex>#008000</hex>
+</color>
+<color>
+<name>Humble Blush</name>
+<hex>#e3cdc2</hex>
+</color>
+<color>
+<name>Humble Hippo</name>
+<hex>#aaaa99</hex>
+</color>
+<color>
+<name>Hummus</name>
+<hex>#eecc99</hex>
+</color>
+<color>
+<name>Hurricane</name>
+<hex>#8b7e77</hex>
+</color>
+<color>
+<name>Hydra</name>
+<hex>#006995</hex>
+</color>
+<color>
+<name>Hydro</name>
+<hex>#426972</hex>
+</color>
+<color>
+<name>Hyper Light Drifter</name>
+<hex>#eddbda</hex>
+</color>
+<color>
+<name>Ibis</name>
+<hex>#f4b3c2</hex>
+</color>
+<color>
+<name>Ice</name>
+<hex>#d6fffa</hex>
+</color>
+<color>
+<name>Ice Climber</name>
+<hex>#25e2cd</hex>
+</color>
+<color>
+<name>Ice Cold</name>
+<hex>#d2eaf1</hex>
+</color>
+<color>
+<name>Ice Ice Baby</name>
+<hex>#00ffdd</hex>
+</color>
+<color>
+<name>Iceberg</name>
+<hex>#dae4ee</hex>
+</color>
+<color>
+<name>Iced Coffee</name>
+<hex>#b18f6a</hex>
+</color>
+<color>
+<name>Iguana</name>
+<hex>#818455</hex>
+</color>
+<color>
+<name>Illicit Darkness</name>
+<hex>#00022e</hex>
+</color>
+<color>
+<name>Illicit Green</name>
+<hex>#56fca2</hex>
+</color>
+<color>
+<name>Illicit Pink</name>
+<hex>#ff5ccd</hex>
+</color>
+<color>
+<name>Illicit Purple</name>
+<hex>#bf77f6</hex>
+</color>
+<color>
+<name>Imperial</name>
+<hex>#602f6b</hex>
+</color>
+<color>
+<name>Imperial Ivory</name>
+<hex>#f1e8d2</hex>
+</color>
+<color>
+<name>Imperial Red</name>
+<hex>#ec2938</hex>
+</color>
+<color>
+<name>In A Pickle</name>
+<hex>#978c59</hex>
+</color>
+<color>
+<name>In for a Penny</name>
+<hex>#ee8877</hex>
+</color>
+<color>
+<name>In Good Taste</name>
+<hex>#b6d4a0</hex>
+</color>
+<color>
+<name>In the Shadows</name>
+<hex>#cbc4c0</hex>
+</color>
+<color>
+<name>Inca Gold</name>
+<hex>#bb7a2c</hex>
+</color>
+<color>
+<name>Inca Yellow</name>
+<hex>#ffd301</hex>
+</color>
+<color>
+<name>Incense</name>
+<hex>#af9a7e</hex>
+</color>
+<color>
+<name>Inchworm</name>
+<hex>#b2ec5d</hex>
+</color>
+<color>
+<name>Incision</name>
+<hex>#ff0022</hex>
+</color>
+<color>
+<name>Indian Mesa</name>
+<hex>#d5a193</hex>
+</color>
+<color>
+<name>Indian Red</name>
+<hex>#850e04</hex>
+</color>
+<color>
+<name>Indian Silk</name>
+<hex>#8a5773</hex>
+</color>
+<color>
+<name>Indica</name>
+<hex>#588c3a</hex>
+</color>
+<color>
+<name>Indigo</name>
+<hex>#4b0082</hex>
+</color>
+<color>
+<name>Indochine</name>
+<hex>#9c5b34</hex>
+</color>
+<color>
+<name>Infinity</name>
+<hex>#6e7e99</hex>
+</color>
+<color>
+<name>Infra Red</name>
+<hex>#fe486c</hex>
+</color>
+<color>
+<name>Infusion</name>
+<hex>#c8d0ca</hex>
+</color>
+<color>
+<name>Ink Black</name>
+<hex>#252024</hex>
+</color>
+<color>
+<name>Inkjet</name>
+<hex>#44556b</hex>
+</color>
+<color>
+<name>Instant Noodles</name>
+<hex>#f4d493</hex>
+</color>
+<color>
+<name>Intense Passion</name>
+<hex>#df3163</hex>
+</color>
+<color>
+<name>Intergalactic</name>
+<hex>#4d516c</hex>
+</color>
+<color>
+<name>Intergalactic Cowboy</name>
+<hex>#222266</hex>
+</color>
+<color>
+<name>Interstellar Blue</name>
+<hex>#001155</hex>
+</color>
+<color>
+<name>Intimate Journal</name>
+<hex>#ccbb99</hex>
+</color>
+<color>
+<name>Intoxicate</name>
+<hex>#11bb55</hex>
+</color>
+<color>
+<name>Inuit Blue</name>
+<hex>#d8e4e7</hex>
+</color>
+<color>
+<name>Iridescent</name>
+<hex>#3a5b52</hex>
+</color>
+<color>
+<name>Irish Clover</name>
+<hex>#53734c</hex>
+</color>
+<color>
+<name>Irish Coffee</name>
+<hex>#62422b</hex>
+</color>
+<color>
+<name>Irish Moor</name>
+<hex>#b5c0b3</hex>
+</color>
+<color>
+<name>Iron</name>
+<hex>#5e5e5e</hex>
+</color>
+<color>
+<name>Iron Fist</name>
+<hex>#cbcdcd</hex>
+</color>
+<color>
+<name>Iron Maiden</name>
+<hex>#d6d1dc</hex>
+</color>
+<color>
+<name>Islamic Green</name>
+<hex>#009900</hex>
+</color>
+<color>
+<name>Island Coral</name>
+<hex>#d8877a</hex>
+</color>
+<color>
+<name>Isolation</name>
+<hex>#494d55</hex>
+</color>
+<color>
+<name>Italian Basil</name>
+<hex>#5f6957</hex>
+</color>
+<color>
+<name>Italian Grape</name>
+<hex>#413d4b</hex>
+</color>
+<color>
+<name>Italian Roast</name>
+<hex>#221111</hex>
+</color>
+<color>
+<name>Ivory</name>
+<hex>#fffff0</hex>
+</color>
+<color>
+<name>Ivory Tower</name>
+<hex>#fbf3f1</hex>
+</color>
+<color>
+<name>Ivy</name>
+<hex>#226c63</hex>
+</color>
+<color>
+<name>Jack and Coke</name>
+<hex>#920f0e</hex>
+</color>
+<color>
+<name>Jack-o</name>
+<hex>#fb9902</hex>
+</color>
+<color>
+<name>Jackpot</name>
+<hex>#d19431</hex>
+</color>
+<color>
+<name>Jacuzzi</name>
+<hex>#007cac</hex>
+</color>
+<color>
+<name>Jade</name>
+<hex>#00a86b</hex>
+</color>
+<color>
+<name>Jade Jewel</name>
+<hex>#247e81</hex>
+</color>
+<color>
+<name>Jaffa</name>
+<hex>#e27945</hex>
+</color>
+<color>
+<name>Jaguar</name>
+<hex>#29292f</hex>
+</color>
+<color>
+<name>Jakarta</name>
+<hex>#efddc3</hex>
+</color>
+<color>
+<name>Jalapeno</name>
+<hex>#9a8d3f</hex>
+</color>
+<color>
+<name>Jalapeno Red</name>
+<hex>#b2103c</hex>
+</color>
+<color>
+<name>Jambalaya</name>
+<hex>#f7b572</hex>
+</color>
+<color>
+<name>James Blonde</name>
+<hex>#f2e3b5</hex>
+</color>
+<color>
+<name>Japanese Bonsai</name>
+<hex>#829f96</hex>
+</color>
+<color>
+<name>Jasmine</name>
+<hex>#fff4bb</hex>
+</color>
+<color>
+<name>Java</name>
+<hex>#259797</hex>
+</color>
+<color>
+<name>Jazz</name>
+<hex>#5f2c2f</hex>
+</color>
+<color>
+<name>Jazzy Jade</name>
+<hex>#55ddcc</hex>
+</color>
+<color>
+<name>Jealous Jellyfish</name>
+<hex>#bb0099</hex>
+</color>
+<color>
+<name>Jedi Night</name>
+<hex>#041108</hex>
+</color>
+<color>
+<name>Jelly Berry</name>
+<hex>#ee1177</hex>
+</color>
+<color>
+<name>Jelly Slug</name>
+<hex>#de6646</hex>
+</color>
+<color>
+<name>Jellyfish Sting</name>
+<hex>#ee6688</hex>
+</color>
+<color>
+<name>Jet Black</name>
+<hex>#2d2c2f</hex>
+</color>
+<color>
+<name>Jet d'Eau</name>
+<hex>#d1eaec</hex>
+</color>
+<color>
+<name>Jewel</name>
+<hex>#136843</hex>
+</color>
+<color>
+<name>Jigglypuff</name>
+<hex>#ffaaff</hex>
+</color>
+<color>
+<name>Jinza Safflower</name>
+<hex>#ee827c</hex>
+</color>
+<color>
+<name>John Lemon</name>
+<hex>#eeff22</hex>
+</color>
+<color>
+<name>Joker's Smile</name>
+<hex>#d70141</hex>
+</color>
+<color>
+<name>Juggernaut</name>
+<hex>#255367</hex>
+</color>
+<color>
+<name>Juicy Lime</name>
+<hex>#b1cf5d</hex>
+</color>
+<color>
+<name>Jumbo</name>
+<hex>#878785</hex>
+</color>
+<color>
+<name>June Bud</name>
+<hex>#bdda57</hex>
+</color>
+<color>
+<name>Jungle</name>
+<hex>#00a466</hex>
+</color>
+<color>
+<name>Jungle Civilization</name>
+<hex>#69673a</hex>
+</color>
+<color>
+<name>Jungle King</name>
+<hex>#4f4d32</hex>
+</color>
+<color>
+<name>Jupiter</name>
+<hex>#e1e1e2</hex>
+</color>
+<color>
+<name>Jurassic Park</name>
+<hex>#3c663e</hex>
+</color>
+<color>
+<name>Just Pink Enough</name>
+<hex>#ffebee</hex>
+</color>
+<color>
+<name>Kabul</name>
+<hex>#6c5e53</hex>
+</color>
+<color>
+<name>Kale</name>
+<hex>#5a7247</hex>
+</color>
+<color>
+<name>Kaltes Klares Wasser</name>
+<hex>#0ffef9</hex>
+</color>
+<color>
+<name>Kashmir</name>
+<hex>#6f8d6a</hex>
+</color>
+<color>
+<name>Katmandu</name>
+<hex>#ad9a5d</hex>
+</color>
+<color>
+<name>Katy Berry</name>
+<hex>#aa0077</hex>
+</color>
+<color>
+<name>Kefir</name>
+<hex>#d5d5ce</hex>
+</color>
+<color>
+<name>Kelp</name>
+<hex>#4d503c</hex>
+</color>
+<color>
+<name>Kelp Forest</name>
+<hex>#448811</hex>
+</color>
+<color>
+<name>Kendall Rose</name>
+<hex>#f7cccd</hex>
+</color>
+<color>
+<name>Kenyan Copper</name>
+<hex>#6c322e</hex>
+</color>
+<color>
+<name>Kermit Green</name>
+<hex>#5cb200</hex>
+</color>
+<color>
+<name>Ketchup</name>
+<hex>#9a382d</hex>
+</color>
+<color>
+<name>Khaki</name>
+<hex>#c3b091</hex>
+</color>
+<color>
+<name>Kid Icarus</name>
+<hex>#a81000</hex>
+</color>
+<color>
+<name>Kilimanjaro</name>
+<hex>#3a3532</hex>
+</color>
+<color>
+<name>Kimchi</name>
+<hex>#ed4b00</hex>
+</color>
+<color>
+<name>Kimono</name>
+<hex>#6d86b6</hex>
+</color>
+<color>
+<name>Kindleflame</name>
+<hex>#e9967a</hex>
+</color>
+<color>
+<name>King Kong</name>
+<hex>#161410</hex>
+</color>
+<color>
+<name>King Lime</name>
+<hex>#add900</hex>
+</color>
+<color>
+<name>King Lizard</name>
+<hex>#77dd22</hex>
+</color>
+<color>
+<name>King Nacho</name>
+<hex>#ffb800</hex>
+</color>
+<color>
+<name>King Neptune</name>
+<hex>#7794c0</hex>
+</color>
+<color>
+<name>King of Waves</name>
+<hex>#c6dce7</hex>
+</color>
+<color>
+<name>King Triton</name>
+<hex>#3c85be</hex>
+</color>
+<color>
+<name>Kings Yellow</name>
+<hex>#ead665</hex>
+</color>
+<color>
+<name>Kinky Pinky</name>
+<hex>#ee55cc</hex>
+</color>
+<color>
+<name>Kirby</name>
+<hex>#d74894</hex>
+</color>
+<color>
+<name>Kiss</name>
+<hex>#d28ca7</hex>
+</color>
+<color>
+<name>Kiss A Frog</name>
+<hex>#bec187</hex>
+</color>
+<color>
+<name>Kissable</name>
+<hex>#fd8f79</hex>
+</color>
+<color>
+<name>Kitten's Paw</name>
+<hex>#daa89b</hex>
+</color>
+<color>
+<name>Kiwi</name>
+<hex>#7aab55</hex>
+</color>
+<color>
+<name>Kiwi Kiss</name>
+<hex>#eef9c1</hex>
+</color>
+<color>
+<name>Knight Rider</name>
+<hex>#0f0707</hex>
+</color>
+<color>
+<name>Knight's Armor</name>
+<hex>#5c5d5d</hex>
+</color>
+<color>
+<name>Knit Cardigan</name>
+<hex>#6d6c5f</hex>
+</color>
+<color>
+<name>Knock On Wood</name>
+<hex>#9f9b84</hex>
+</color>
+<color>
+<name>Kobe</name>
+<hex>#882d17</hex>
+</color>
+<color>
+<name>Köfte Brown</name>
+<hex>#773644</hex>
+</color>
+<color>
+<name>Koi</name>
+<hex>#d15837</hex>
+</color>
+<color>
+<name>Kombucha</name>
+<hex>#d89f66</hex>
+</color>
+<color>
+<name>Koopa Green Shell</name>
+<hex>#58d854</hex>
+</color>
+<color>
+<name>Koromiko</name>
+<hex>#feb552</hex>
+</color>
+<color>
+<name>Kosher Khaki</name>
+<hex>#888877</hex>
+</color>
+<color>
+<name>La Luna</name>
+<hex>#ffffe5</hex>
+</color>
+<color>
+<name>La Palma</name>
+<hex>#428929</hex>
+</color>
+<color>
+<name>LA Vibes</name>
+<hex>#eeccdd</hex>
+</color>
+<color>
+<name>La Vie en Rose</name>
+<hex>#d2a5a3</hex>
+</color>
+<color>
+<name>Labrador</name>
+<hex>#f2ecd9</hex>
+</color>
+<color>
+<name>Lacquered Licorice</name>
+<hex>#383838</hex>
+</color>
+<color>
+<name>Lacrosse</name>
+<hex>#2e5c58</hex>
+</color>
+<color>
+<name>Lagoon</name>
+<hex>#4d9e9a</hex>
+</color>
+<color>
+<name>Lake Lucerne</name>
+<hex>#689db7</hex>
+</color>
+<color>
+<name>Lama</name>
+<hex>#e0bb95</hex>
+</color>
+<color>
+<name>Lambs Wool</name>
+<hex>#e6d1b2</hex>
+</color>
+<color>
+<name>Landjäger</name>
+<hex>#af403c</hex>
+</color>
+<color>
+<name>Larb Gai</name>
+<hex>#dfc6aa</hex>
+</color>
+<color>
+<name>Laser Lemon</name>
+<hex>#ffff66</hex>
+</color>
+<color>
+<name>Last of Lettuce</name>
+<hex>#aadd66</hex>
+</color>
+<color>
+<name>Last Straw</name>
+<hex>#e3dbcd</hex>
+</color>
+<color>
+<name>Last Warning</name>
+<hex>#d30f3f</hex>
+</color>
+<color>
+<name>Later Gator</name>
+<hex>#008a51</hex>
+</color>
+<color>
+<name>Latte</name>
+<hex>#c5a582</hex>
+</color>
+<color>
+<name>Lava</name>
+<hex>#cf1020</hex>
+</color>
+<color>
+<name>Lava Pit</name>
+<hex>#e46f34</hex>
+</color>
+<color>
+<name>Lava Stone</name>
+<hex>#3c4151</hex>
+</color>
+<color>
+<name>Lavender</name>
+<hex>#b56edc</hex>
+</color>
+<color>
+<name>Lavender Ash</name>
+<hex>#9998a7</hex>
+</color>
+<color>
+<name>Lavender Candy</name>
+<hex>#fcb4d5</hex>
+</color>
+<color>
+<name>Lavish Spending</name>
+<hex>#8469bc</hex>
+</color>
+<color>
+<name>Lawn Green</name>
+<hex>#4da409</hex>
+</color>
+<color>
+<name>Lazy Daisy</name>
+<hex>#f6eba1</hex>
+</color>
+<color>
+<name>Lazy Lizard</name>
+<hex>#9c9c4b</hex>
+</color>
+<color>
+<name>Lead</name>
+<hex>#212121</hex>
+</color>
+<color>
+<name>Leaf</name>
+<hex>#71aa34</hex>
+</color>
+<color>
+<name>Leapfrog</name>
+<hex>#41a94f</hex>
+</color>
+<color>
+<name>Leather</name>
+<hex>#906a54</hex>
+</color>
+<color>
+<name>LeChuck's Beard</name>
+<hex>#3c351f</hex>
+</color>
+<color>
+<name>Leek</name>
+<hex>#98d98e</hex>
+</color>
+<color>
+<name>Lemon</name>
+<hex>#fff700</hex>
+</color>
+<color>
+<name>Lemon Curd</name>
+<hex>#ffee11</hex>
+</color>
+<color>
+<name>Lemon Grass</name>
+<hex>#999a86</hex>
+</color>
+<color>
+<name>Lemon Tart</name>
+<hex>#ffdd66</hex>
+</color>
+<color>
+<name>Lemonade</name>
+<hex>#f0e79d</hex>
+</color>
+<color>
+<name>Let it Snow</name>
+<hex>#d8f1f4</hex>
+</color>
+<color>
+<name>Lichen</name>
+<hex>#9bc2b1</hex>
+</color>
+<color>
+<name>Licorice</name>
+<hex>#1a1110</hex>
+</color>
+<color>
+<name>Lifeguard</name>
+<hex>#e50000</hex>
+</color>
+<color>
+<name>Lifeline</name>
+<hex>#990033</hex>
+</color>
+<color>
+<name>Light Blue</name>
+<hex>#add8e6</hex>
+</color>
+<color>
+<name>Light Blush</name>
+<hex>#e9c4cc</hex>
+</color>
+<color>
+<name>Light Brown</name>
+<hex>#b5651d</hex>
+</color>
+<color>
+<name>Light Lilac</name>
+<hex>#dcc6d2</hex>
+</color>
+<color>
+<name>Light Mint</name>
+<hex>#b6ffbb</hex>
+</color>
+<color>
+<name>Light Pink</name>
+<hex>#ffd1df</hex>
+</color>
+<color>
+<name>Light Red</name>
+<hex>#f3d3d9</hex>
+</color>
+<color>
+<name>Light Spirited</name>
+<hex>#d8eee7</hex>
+</color>
+<color>
+<name>Light Yellow</name>
+<hex>#fffe7a</hex>
+</color>
+<color>
+<name>Lighthouse</name>
+<hex>#f3f4f4</hex>
+</color>
+<color>
+<name>Lighthouse Glow</name>
+<hex>#f8d568</hex>
+</color>
+<color>
+<name>Lightning Bolt</name>
+<hex>#e5ebe6</hex>
+</color>
+<color>
+<name>Lightning Bug</name>
+<hex>#efde74</hex>
+</color>
+<color>
+<name>Lights Out</name>
+<hex>#3d474b</hex>
+</color>
+<color>
+<name>Lilac</name>
+<hex>#cea2fd</hex>
+</color>
+<color>
+<name>Lilac Spring</name>
+<hex>#8822cc</hex>
+</color>
+<color>
+<name>Lily</name>
+<hex>#c19fb3</hex>
+</color>
+<color>
+<name>Lima</name>
+<hex>#a9f971</hex>
+</color>
+<color>
+<name>Lime</name>
+<hex>#aaff32</hex>
+</color>
+<color>
+<name>Lime Fizz</name>
+<hex>#cfe838</hex>
+</color>
+<color>
+<name>Lime Mist</name>
+<hex>#ddffaa</hex>
+</color>
+<color>
+<name>Lime Punch</name>
+<hex>#c0d725</hex>
+</color>
+<color>
+<name>Lime Twist</name>
+<hex>#c6d624</hex>
+</color>
+<color>
+<name>Lime Zest</name>
+<hex>#ddff00</hex>
+</color>
+<color>
+<name>Limonana</name>
+<hex>#11dd66</hex>
+</color>
+<color>
+<name>Limoncello</name>
+<hex>#bfff00</hex>
+</color>
+<color>
+<name>Lincoln Green</name>
+<hex>#195905</hex>
+</color>
+<color>
+<name>Lindworm Green</name>
+<hex>#172808</hex>
+</color>
+<color>
+<name>Linen</name>
+<hex>#faf0e6</hex>
+</color>
+<color>
+<name>Link to the Past</name>
+<hex>#d2b48c</hex>
+</color>
+<color>
+<name>Lion</name>
+<hex>#c19a62</hex>
+</color>
+<color>
+<name>Lion King</name>
+<hex>#dd9933</hex>
+</color>
+<color>
+<name>Lionheart</name>
+<hex>#cc2222</hex>
+</color>
+<color>
+<name>Lip Gloss</name>
+<hex>#dfcdc7</hex>
+</color>
+<color>
+<name>Lipstick</name>
+<hex>#c95b83</hex>
+</color>
+<color>
+<name>Liquorice</name>
+<hex>#0a0502</hex>
+</color>
+<color>
+<name>Lit</name>
+<hex>#fffed8</hex>
+</color>
+<color>
+<name>Little Lamb</name>
+<hex>#eae6d7</hex>
+</color>
+<color>
+<name>Little Mermaid</name>
+<hex>#2d454a</hex>
+</color>
+<color>
+<name>Liver</name>
+<hex>#534b4f</hex>
+</color>
+<color>
+<name>Lizard</name>
+<hex>#71643e</hex>
+</color>
+<color>
+<name>Lobster</name>
+<hex>#bb240c</hex>
+</color>
+<color>
+<name>Loch Ness</name>
+<hex>#5f6db0</hex>
+</color>
+<color>
+<name>Lolita</name>
+<hex>#bf2735</hex>
+</color>
+<color>
+<name>Lollipop</name>
+<hex>#cc1c3b</hex>
+</color>
+<color>
+<name>Lonestar</name>
+<hex>#522426</hex>
+</color>
+<color>
+<name>Long Beach</name>
+<hex>#faefdf</hex>
+</color>
+<color>
+<name>Long-Haul Flight</name>
+<hex>#002277</hex>
+</color>
+<color>
+<name>Looney Blue</name>
+<hex>#11ffff</hex>
+</color>
+<color>
+<name>Lost at Sea</name>
+<hex>#8d9ca7</hex>
+</color>
+<color>
+<name>Lost in Heaven</name>
+<hex>#002489</hex>
+</color>
+<color>
+<name>Lost in the Woods</name>
+<hex>#014426</hex>
+</color>
+<color>
+<name>Lotion</name>
+<hex>#fefdfa</hex>
+</color>
+<color>
+<name>Lotus Flower</name>
+<hex>#f4f0da</hex>
+</color>
+<color>
+<name>Love Affair</name>
+<hex>#ffbec8</hex>
+</color>
+<color>
+<name>Love Juice</name>
+<hex>#cc1155</hex>
+</color>
+<color>
+<name>Love Letter</name>
+<hex>#e4658e</hex>
+</color>
+<color>
+<name>Love Potion</name>
+<hex>#c01352</hex>
+</color>
+<color>
+<name>Lucius Lilac</name>
+<hex>#baa2ce</hex>
+</color>
+<color>
+<name>Lucky</name>
+<hex>#ab9a1c</hex>
+</color>
+<color>
+<name>Lucky Clover</name>
+<hex>#008400</hex>
+</color>
+<color>
+<name>Lucky Lobster</name>
+<hex>#cc3322</hex>
+</color>
+<color>
+<name>Lucky Penny</name>
+<hex>#bc6f37</hex>
+</color>
+<color>
+<name>Ludicrous Lemming</name>
+<hex>#bb8877</hex>
+</color>
+<color>
+<name>Luigi</name>
+<hex>#4cbb17</hex>
+</color>
+<color>
+<name>Lumberjack</name>
+<hex>#9d4542</hex>
+</color>
+<color>
+<name>Lunar Base</name>
+<hex>#878786</hex>
+</color>
+<color>
+<name>Lunar Landing</name>
+<hex>#d2cfc1</hex>
+</color>
+<color>
+<name>Lunatic Lynx</name>
+<hex>#ddaa88</hex>
+</color>
+<color>
+<name>Luscious Lemongrass</name>
+<hex>#517933</hex>
+</color>
+<color>
+<name>Lush Bamboo</name>
+<hex>#afbb33</hex>
+</color>
+<color>
+<name>Lush Garden</name>
+<hex>#008811</hex>
+</color>
+<color>
+<name>Lush Green</name>
+<hex>#bbee00</hex>
+</color>
+<color>
+<name>Lust</name>
+<hex>#e62020</hex>
+</color>
+<color>
+<name>Lusty Lavender</name>
+<hex>#8d5eb7</hex>
+</color>
+<color>
+<name>Lusty Lips</name>
+<hex>#d5174e</hex>
+</color>
+<color>
+<name>Luxor Gold</name>
+<hex>#ab8d3f</hex>
+</color>
+<color>
+<name>Lynx</name>
+<hex>#604d47</hex>
+</color>
+<color>
+<name>M. Bison</name>
+<hex>#b4023d</hex>
+</color>
+<color>
+<name>Macabre</name>
+<hex>#880033</hex>
+</color>
+<color>
+<name>Macadamia</name>
+<hex>#e4cfb6</hex>
+</color>
+<color>
+<name>Macaroni</name>
+<hex>#f3d085</hex>
+</color>
+<color>
+<name>Macaroon</name>
+<hex>#b38b71</hex>
+</color>
+<color>
+<name>Macau</name>
+<hex>#46c299</hex>
+</color>
+<color>
+<name>Machinery</name>
+<hex>#9999aa</hex>
+</color>
+<color>
+<name>Machu Picchu Gardens</name>
+<hex>#99bb33</hex>
+</color>
+<color>
+<name>Mademoiselle Pink</name>
+<hex>#f504c9</hex>
+</color>
+<color>
+<name>Madonna</name>
+<hex>#3f4250</hex>
+</color>
+<color>
+<name>Madras</name>
+<hex>#473e23</hex>
+</color>
+<color>
+<name>Magenta</name>
+<hex>#ff00ff</hex>
+</color>
+<color>
+<name>Magenta Affair</name>
+<hex>#aa44dd</hex>
+</color>
+<color>
+<name>Magenta Elephant</name>
+<hex>#de0170</hex>
+</color>
+<color>
+<name>Magentle</name>
+<hex>#aa11aa</hex>
+</color>
+<color>
+<name>Magic Carpet</name>
+<hex>#9488be</hex>
+</color>
+<color>
+<name>Magic Ink</name>
+<hex>#0247fe</hex>
+</color>
+<color>
+<name>Magic Magenta</name>
+<hex>#7f4774</hex>
+</color>
+<color>
+<name>Magic Potion</name>
+<hex>#ff4466</hex>
+</color>
+<color>
+<name>Magical Merlin</name>
+<hex>#3d8ed0</hex>
+</color>
+<color>
+<name>Magical Stardust</name>
+<hex>#eaeadb</hex>
+</color>
+<color>
+<name>Magma</name>
+<hex>#ff4e01</hex>
+</color>
+<color>
+<name>Magna Cum Laude</name>
+<hex>#dd0066</hex>
+</color>
+<color>
+<name>Magnesium</name>
+<hex>#c1c2c3</hex>
+</color>
+<color>
+<name>Magnet</name>
+<hex>#4d4b4f</hex>
+</color>
+<color>
+<name>Magnetos</name>
+<hex>#bf3cff</hex>
+</color>
+<color>
+<name>Magnificent Magenta</name>
+<hex>#ee22aa</hex>
+</color>
+<color>
+<name>Magnolia</name>
+<hex>#fff9e4</hex>
+</color>
+<color>
+<name>Magnolia Petal</name>
+<hex>#f7eee3</hex>
+</color>
+<color>
+<name>Maharaja</name>
+<hex>#3f354f</hex>
+</color>
+<color>
+<name>Mahogany</name>
+<hex>#c04000</hex>
+</color>
+<color>
+<name>Mai Tai</name>
+<hex>#a56531</hex>
+</color>
+<color>
+<name>Maiden's Blush</name>
+<hex>#f3d3bf</hex>
+</color>
+<color>
+<name>Maizena</name>
+<hex>#fbec5e</hex>
+</color>
+<color>
+<name>Majestic Eggplant</name>
+<hex>#443388</hex>
+</color>
+<color>
+<name>Majestic Magenta</name>
+<hex>#ee4488</hex>
+</color>
+<color>
+<name>Majestic Magic</name>
+<hex>#555570</hex>
+</color>
+<color>
+<name>Majesty</name>
+<hex>#593761</hex>
+</color>
+<color>
+<name>Major Brown</name>
+<hex>#5b5149</hex>
+</color>
+<color>
+<name>Makin it Rain</name>
+<hex>#88bb55</hex>
+</color>
+<color>
+<name>Malibu</name>
+<hex>#66b7e1</hex>
+</color>
+<color>
+<name>Malibu Sun</name>
+<hex>#fff2d9</hex>
+</color>
+<color>
+<name>Mallard</name>
+<hex>#254855</hex>
+</color>
+<color>
+<name>Malt</name>
+<hex>#ddcfbc</hex>
+</color>
+<color>
+<name>Mamba</name>
+<hex>#766d7c</hex>
+</color>
+<color>
+<name>Man Cave</name>
+<hex>#816045</hex>
+</color>
+<color>
+<name>Mana Tree</name>
+<hex>#4f7942</hex>
+</color>
+<color>
+<name>Mandarin</name>
+<hex>#f37a48</hex>
+</color>
+<color>
+<name>Mangala Pink</name>
+<hex>#e781a6</hex>
+</color>
+<color>
+<name>Mango</name>
+<hex>#ffa62b</hex>
+</color>
+<color>
+<name>Mango Cheesecake</name>
+<hex>#fbedda</hex>
+</color>
+<color>
+<name>Mango Madness</name>
+<hex>#fd8c23</hex>
+</color>
+<color>
+<name>Mango Tango</name>
+<hex>#ff8243</hex>
+</color>
+<color>
+<name>Mangrove</name>
+<hex>#757461</hex>
+</color>
+<color>
+<name>Manhattan</name>
+<hex>#e2af80</hex>
+</color>
+<color>
+<name>Maniac Green</name>
+<hex>#009000</hex>
+</color>
+<color>
+<name>Maniac Mansion</name>
+<hex>#004058</hex>
+</color>
+<color>
+<name>Mantis</name>
+<hex>#74c365</hex>
+</color>
+<color>
+<name>Maple Syrup</name>
+<hex>#bb9351</hex>
+</color>
+<color>
+<name>Maraschino</name>
+<hex>#ff2600</hex>
+</color>
+<color>
+<name>Marble White</name>
+<hex>#f2f0e6</hex>
+</color>
+<color>
+<name>Marigold</name>
+<hex>#fcc006</hex>
+</color>
+<color>
+<name>Marina</name>
+<hex>#4f84c4</hex>
+</color>
+<color>
+<name>Marine</name>
+<hex>#042e60</hex>
+</color>
+<color>
+<name>Mario</name>
+<hex>#e4000f</hex>
+</color>
+<color>
+<name>Maritime</name>
+<hex>#bdcfea</hex>
+</color>
+<color>
+<name>Maroon</name>
+<hex>#800000</hex>
+</color>
+<color>
+<name>Mars</name>
+<hex>#ad6242</hex>
+</color>
+<color>
+<name>Marshmallow</name>
+<hex>#f0eee4</hex>
+</color>
+<color>
+<name>Marsupilami</name>
+<hex>#fdf200</hex>
+</color>
+<color>
+<name>Martian</name>
+<hex>#aea132</hex>
+</color>
+<color>
+<name>Martini</name>
+<hex>#b7a8a3</hex>
+</color>
+<color>
+<name>Masala</name>
+<hex>#57534b</hex>
+</color>
+<color>
+<name>Master Chief</name>
+<hex>#507d2a</hex>
+</color>
+<color>
+<name>Master Key</name>
+<hex>#ddcc88</hex>
+</color>
+<color>
+<name>Master Sword Blue</name>
+<hex>#00ffee</hex>
+</color>
+<color>
+<name>Matt Black</name>
+<hex>#151515</hex>
+</color>
+<color>
+<name>Matt Blue</name>
+<hex>#2c6fbb</hex>
+</color>
+<color>
+<name>Matt Demon</name>
+<hex>#dd4433</hex>
+</color>
+<color>
+<name>Matt Green</name>
+<hex>#39ad48</hex>
+</color>
+<color>
+<name>Matt Lilac</name>
+<hex>#dec6d3</hex>
+</color>
+<color>
+<name>Matt Pink</name>
+<hex>#ffb6c1</hex>
+</color>
+<color>
+<name>Matt Purple</name>
+<hex>#9370db</hex>
+</color>
+<color>
+<name>Matt White</name>
+<hex>#ffffd4</hex>
+</color>
+<color>
+<name>Matterhorn</name>
+<hex>#524b4b</hex>
+</color>
+<color>
+<name>Mature Cognac</name>
+<hex>#9a463d</hex>
+</color>
+<color>
+<name>Mauve</name>
+<hex>#e0b0ff</hex>
+</color>
+<color>
+<name>Mauve It</name>
+<hex>#bb4466</hex>
+</color>
+<color>
+<name>Mauvelous</name>
+<hex>#d6b3c0</hex>
+</color>
+<color>
+<name>May Green</name>
+<hex>#4c9141</hex>
+</color>
+<color>
+<name>Mayan Treasure</name>
+<hex>#ce9844</hex>
+</color>
+<color>
+<name>McNuke</name>
+<hex>#33ff11</hex>
+</color>
+<color>
+<name>Meadow Yellow</name>
+<hex>#f7da90</hex>
+</color>
+<color>
+<name>Meat</name>
+<hex>#f08080</hex>
+</color>
+<color>
+<name>Meatloaf</name>
+<hex>#663311</hex>
+</color>
+<color>
+<name>Medallion</name>
+<hex>#c3a679</hex>
+</color>
+<color>
+<name>Medieval Blue</name>
+<hex>#29304e</hex>
+</color>
+<color>
+<name>Mediterranea</name>
+<hex>#32575d</hex>
+</color>
+<color>
+<name>Mediterranean Sea</name>
+<hex>#1e8cab</hex>
+</color>
+<color>
+<name>Medium Roast</name>
+<hex>#3c2005</hex>
+</color>
+<color>
+<name>Medlar</name>
+<hex>#d5d7bf</hex>
+</color>
+<color>
+<name>Mega Metal Mecha</name>
+<hex>#dfcbcf</hex>
+</color>
+<color>
+<name>Megaman</name>
+<hex>#3cbcfc</hex>
+</color>
+<color>
+<name>Melancholia</name>
+<hex>#12390d</hex>
+</color>
+<color>
+<name>Melanzane</name>
+<hex>#342931</hex>
+</color>
+<color>
+<name>Mellow Apricot</name>
+<hex>#f8b878</hex>
+</color>
+<color>
+<name>Mellow Mango</name>
+<hex>#cc4400</hex>
+</color>
+<color>
+<name>Mellow Melon</name>
+<hex>#ee2266</hex>
+</color>
+<color>
+<name>Mellow Mint</name>
+<hex>#ddedbd</hex>
+</color>
+<color>
+<name>Mellow Yellow</name>
+<hex>#f8de7f</hex>
+</color>
+<color>
+<name>Melon</name>
+<hex>#ff7855</hex>
+</color>
+<color>
+<name>Melting Glacier</name>
+<hex>#e9f9f5</hex>
+</color>
+<color>
+<name>Melting Point</name>
+<hex>#cbe1e4</hex>
+</color>
+<color>
+<name>Memory Lane</name>
+<hex>#c7d1db</hex>
+</color>
+<color>
+<name>Mental Floss</name>
+<hex>#deb4c5</hex>
+</color>
+<color>
+<name>Mercurial</name>
+<hex>#b6b0a9</hex>
+</color>
+<color>
+<name>Mercury</name>
+<hex>#ebebeb</hex>
+</color>
+<color>
+<name>Merguez</name>
+<hex>#650021</hex>
+</color>
+<color>
+<name>Merino</name>
+<hex>#e1dbd0</hex>
+</color>
+<color>
+<name>Merlot</name>
+<hex>#730039</hex>
+</color>
+<color>
+<name>Mermaid Blues</name>
+<hex>#004477</hex>
+</color>
+<color>
+<name>Mermaid Tears</name>
+<hex>#d9e6a6</hex>
+</color>
+<color>
+<name>Mermaid's Kiss</name>
+<hex>#59c8a5</hex>
+</color>
+<color>
+<name>Metal</name>
+<hex>#babfbc</hex>
+</color>
+<color>
+<name>Metal Gear</name>
+<hex>#a2c3db</hex>
+</color>
+<color>
+<name>Metal Petal</name>
+<hex>#b090b2</hex>
+</color>
+<color>
+<name>Meteor</name>
+<hex>#bb7431</hex>
+</color>
+<color>
+<name>Meteor Shower</name>
+<hex>#5533ff</hex>
+</color>
+<color>
+<name>Meteorite</name>
+<hex>#4a3b6a</hex>
+</color>
+<color>
+<name>Methadone</name>
+<hex>#cc2233</hex>
+</color>
+<color>
+<name>Metroid Red</name>
+<hex>#f83800</hex>
+</color>
+<color>
+<name>Metropolis</name>
+<hex>#61584f</hex>
+</color>
+<color>
+<name>Mexican Chile</name>
+<hex>#d16d76</hex>
+</color>
+<color>
+<name>Mexican Standoff</name>
+<hex>#ec9f76</hex>
+</color>
+<color>
+<name>Microchip</name>
+<hex>#babcc0</hex>
+</color>
+<color>
+<name>Midnight</name>
+<hex>#03012d</hex>
+</color>
+<color>
+<name>Midnight Dreams</name>
+<hex>#002233</hex>
+</color>
+<color>
+<name>Midnight Express</name>
+<hex>#21263a</hex>
+</color>
+<color>
+<name>Midnight in Tokyo</name>
+<hex>#000088</hex>
+</color>
+<color>
+<name>Midnight Melancholia</name>
+<hex>#002266</hex>
+</color>
+<color>
+<name>Midori</name>
+<hex>#2a603b</hex>
+</color>
+<color>
+<name>Midsummer Nights</name>
+<hex>#0011ee</hex>
+</color>
+<color>
+<name>Mighty Mauve</name>
+<hex>#8f7f85</hex>
+</color>
+<color>
+<name>Mikado Yellow</name>
+<hex>#ffc40c</hex>
+</color>
+<color>
+<name>Militant Vegan</name>
+<hex>#229955</hex>
+</color>
+<color>
+<name>Milk</name>
+<hex>#fdfff5</hex>
+</color>
+<color>
+<name>Milk and Cookies</name>
+<hex>#e9e1df</hex>
+</color>
+<color>
+<name>Milk Chocolate</name>
+<hex>#7f4e1e</hex>
+</color>
+<color>
+<name>Milk Mustache</name>
+<hex>#faf3e6</hex>
+</color>
+<color>
+<name>Milk Tooth</name>
+<hex>#faebd7</hex>
+</color>
+<color>
+<name>Mille-Feuille</name>
+<hex>#efc87d</hex>
+</color>
+<color>
+<name>Mimi Pink</name>
+<hex>#ffdae9</hex>
+</color>
+<color>
+<name>Mimosa</name>
+<hex>#f5e9d5</hex>
+</color>
+<color>
+<name>Minestrone</name>
+<hex>#c72616</hex>
+</color>
+<color>
+<name>Ming</name>
+<hex>#407577</hex>
+</color>
+<color>
+<name>Minion Yellow</name>
+<hex>#fed55d</hex>
+</color>
+<color>
+<name>Mink</name>
+<hex>#8a7561</hex>
+</color>
+<color>
+<name>Minotaurus Brown</name>
+<hex>#882211</hex>
+</color>
+<color>
+<name>Mint</name>
+<hex>#3eb489</hex>
+</color>
+<color>
+<name>Mint Twist</name>
+<hex>#98cbba</hex>
+</color>
+<color>
+<name>Mint-o-licious</name>
+<hex>#b6e9c8</hex>
+</color>
+<color>
+<name>Minted Blueberry Lemonade</name>
+<hex>#b32651</hex>
+</color>
+<color>
+<name>Minty Paradice</name>
+<hex>#00ffbb</hex>
+</color>
+<color>
+<name>Mississippi River</name>
+<hex>#3b638c</hex>
+</color>
+<color>
+<name>Misty Morning</name>
+<hex>#b2c8bd</hex>
+</color>
+<color>
+<name>Mithril</name>
+<hex>#878787</hex>
+</color>
+<color>
+<name>Miyamoto Red</name>
+<hex>#e4030f</hex>
+</color>
+<color>
+<name>Moccasin</name>
+<hex>#fbebd6</hex>
+</color>
+<color>
+<name>Mocha</name>
+<hex>#9d7651</hex>
+</color>
+<color>
+<name>Mochito</name>
+<hex>#8efa00</hex>
+</color>
+<color>
+<name>Moelleux Au Chocolat</name>
+<hex>#553311</hex>
+</color>
+<color>
+<name>Moist Gold</name>
+<hex>#dbdb70</hex>
+</color>
+<color>
+<name>Mojito</name>
+<hex>#e4f3e0</hex>
+</color>
+<color>
+<name>Mole</name>
+<hex>#392d2b</hex>
+</color>
+<color>
+<name>Molten Core</name>
+<hex>#ff5800</hex>
+</color>
+<color>
+<name>Momo Peach</name>
+<hex>#f47983</hex>
+</color>
+<color>
+<name>Mona Lisa</name>
+<hex>#ff9889</hex>
+</color>
+<color>
+<name>Monet Magic</name>
+<hex>#c1acc3</hex>
+</color>
+<color>
+<name>Money</name>
+<hex>#7b9a6d</hex>
+</color>
+<color>
+<name>Monkey Island</name>
+<hex>#553b39</hex>
+</color>
+<color>
+<name>Mont Blanc</name>
+<hex>#9eb6d8</hex>
+</color>
+<color>
+<name>Montezuma Gold</name>
+<hex>#eecc44</hex>
+</color>
+<color>
+<name>Montreux Blue</name>
+<hex>#5879a2</hex>
+</color>
+<color>
+<name>Monza</name>
+<hex>#c7031e</hex>
+</color>
+<color>
+<name>Moon Glow</name>
+<hex>#f5f3ce</hex>
+</color>
+<color>
+<name>Moon Rock</name>
+<hex>#958b84</hex>
+</color>
+<color>
+<name>Moondance</name>
+<hex>#e5decc</hex>
+</color>
+<color>
+<name>Moonless Night</name>
+<hex>#2f2d30</hex>
+</color>
+<color>
+<name>Moonlight</name>
+<hex>#f6eed5</hex>
+</color>
+<color>
+<name>Moonraker</name>
+<hex>#c0b2d7</hex>
+</color>
+<color>
+<name>Moonscape</name>
+<hex>#725f69</hex>
+</color>
+<color>
+<name>Moonwalk</name>
+<hex>#bebec4</hex>
+</color>
+<color>
+<name>Moorland</name>
+<hex>#a6ab9b</hex>
+</color>
+<color>
+<name>Morel</name>
+<hex>#685c53</hex>
+</color>
+<color>
+<name>Morning Bread</name>
+<hex>#e7e6de</hex>
+</color>
+<color>
+<name>Morning Mist</name>
+<hex>#e5edf1</hex>
+</color>
+<color>
+<name>Morning Snow</name>
+<hex>#f5f4ed</hex>
+</color>
+<color>
+<name>Moroccan Blue</name>
+<hex>#0f4e67</hex>
+</color>
+<color>
+<name>Morocco</name>
+<hex>#b67267</hex>
+</color>
+<color>
+<name>Morris Leaf</name>
+<hex>#c2d3af</hex>
+</color>
+<color>
+<name>Mosque</name>
+<hex>#005f5b</hex>
+</color>
+<color>
+<name>Moss</name>
+<hex>#009051</hex>
+</color>
+<color>
+<name>Mosslands</name>
+<hex>#779966</hex>
+</color>
+<color>
+<name>Mossy</name>
+<hex>#857349</hex>
+</color>
+<color>
+<name>Moth</name>
+<hex>#d2cbaf</hex>
+</color>
+<color>
+<name>Mother Earth</name>
+<hex>#849c8d</hex>
+</color>
+<color>
+<name>Mother Nature</name>
+<hex>#bde1c4</hex>
+</color>
+<color>
+<name>Mount Eden</name>
+<hex>#e7efe0</hex>
+</color>
+<color>
+<name>Mount Olympus</name>
+<hex>#d4ffff</hex>
+</color>
+<color>
+<name>Mountain Dew</name>
+<hex>#cfe2e0</hex>
+</color>
+<color>
+<name>Mountain View</name>
+<hex>#2e3d30</hex>
+</color>
+<color>
+<name>Moutarde de Bénichon</name>
+<hex>#bf9005</hex>
+</color>
+<color>
+<name>Ms. Pac-Man Kiss</name>
+<hex>#ff00aa</hex>
+</color>
+<color>
+<name>Mt. Rushmore</name>
+<hex>#7f8181</hex>
+</color>
+<color>
+<name>Muddy Brown</name>
+<hex>#886806</hex>
+</color>
+<color>
+<name>Muddy Green</name>
+<hex>#657432</hex>
+</color>
+<color>
+<name>Muddy Mauve</name>
+<hex>#e4b3cc</hex>
+</color>
+<color>
+<name>Muddy Olive</name>
+<hex>#4b5d46</hex>
+</color>
+<color>
+<name>Muddy Quicksand</name>
+<hex>#c3988b</hex>
+</color>
+<color>
+<name>Muddy Rose</name>
+<hex>#e2beb4</hex>
+</color>
+<color>
+<name>Muddy Yellow</name>
+<hex>#bfac05</hex>
+</color>
+<color>
+<name>Muesli</name>
+<hex>#9e7e53</hex>
+</color>
+<color>
+<name>Mulberry</name>
+<hex>#920a4e</hex>
+</color>
+<color>
+<name>Mule</name>
+<hex>#827b77</hex>
+</color>
+<color>
+<name>Mulled Cider</name>
+<hex>#a18162</hex>
+</color>
+<color>
+<name>Mummy's Tomb</name>
+<hex>#828e84</hex>
+</color>
+<color>
+<name>Munch On Melon</name>
+<hex>#f23e67</hex>
+</color>
+<color>
+<name>Munsell Blue</name>
+<hex>#0093af</hex>
+</color>
+<color>
+<name>Munsell Yellow</name>
+<hex>#efcc00</hex>
+</color>
+<color>
+<name>Murasaki</name>
+<hex>#4f284b</hex>
+</color>
+<color>
+<name>Murmur</name>
+<hex>#d2d8d2</hex>
+</color>
+<color>
+<name>Muscat Blanc</name>
+<hex>#ebe2cf</hex>
+</color>
+<color>
+<name>Mushroom</name>
+<hex>#bdaca3</hex>
+</color>
+<color>
+<name>Mushroom Risotto</name>
+<hex>#dbd0ca</hex>
+</color>
+<color>
+<name>Mustang</name>
+<hex>#5e4a47</hex>
+</color>
+<color>
+<name>Mustard</name>
+<hex>#ceb301</hex>
+</color>
+<color>
+<name>Mustard Seed</name>
+<hex>#c69f26</hex>
+</color>
+<color>
+<name>Mutabilis</name>
+<hex>#c29594</hex>
+</color>
+<color>
+<name>Muted Berry</name>
+<hex>#91788c</hex>
+</color>
+<color>
+<name>Muted Blue</name>
+<hex>#3b719f</hex>
+</color>
+<color>
+<name>Muted Clay</name>
+<hex>#d29380</hex>
+</color>
+<color>
+<name>Muted Green</name>
+<hex>#5fa052</hex>
+</color>
+<color>
+<name>Muted Lime</name>
+<hex>#d1c87c</hex>
+</color>
+<color>
+<name>Muted Mauve</name>
+<hex>#b3a9a3</hex>
+</color>
+<color>
+<name>Muted Pink</name>
+<hex>#d1768f</hex>
+</color>
+<color>
+<name>Muted Purple</name>
+<hex>#805b87</hex>
+</color>
+<color>
+<name>MVS Red</name>
+<hex>#ee0000</hex>
+</color>
+<color>
+<name>Mykonos</name>
+<hex>#387abe</hex>
+</color>
+<color>
+<name>Myrtle</name>
+<hex>#21421e</hex>
+</color>
+<color>
+<name>Mysterious Blue</name>
+<hex>#3e7a85</hex>
+</color>
+<color>
+<name>Namibia</name>
+<hex>#7c6d61</hex>
+</color>
+<color>
+<name>Narwhale Grey</name>
+<hex>#080813</hex>
+</color>
+<color>
+<name>Natural Light</name>
+<hex>#f1ebc8</hex>
+</color>
+<color>
+<name>Natural Wool</name>
+<hex>#fff6d7</hex>
+</color>
+<color>
+<name>Nature</name>
+<hex>#bfd5b3</hex>
+</color>
+<color>
+<name>Naughty Hottie</name>
+<hex>#ba403a</hex>
+</color>
+<color>
+<name>Nautical</name>
+<hex>#2e4a7d</hex>
+</color>
+<color>
+<name>Nautilus</name>
+<hex>#273c5a</hex>
+</color>
+<color>
+<name>Naval</name>
+<hex>#41729f</hex>
+</color>
+<color>
+<name>Nebula</name>
+<hex>#a104c3</hex>
+</color>
+<color>
+<name>Nebulous</name>
+<hex>#c4b9b8</hex>
+</color>
+<color>
+<name>Necklace Pearl</name>
+<hex>#f6eeed</hex>
+</color>
+<color>
+<name>Nectarine</name>
+<hex>#ff8656</hex>
+</color>
+<color>
+<name>Negishi Green</name>
+<hex>#938b4b</hex>
+</color>
+<color>
+<name>Negroni</name>
+<hex>#eec7a2</hex>
+</color>
+<color>
+<name>Neon Blue</name>
+<hex>#04d9ff</hex>
+</color>
+<color>
+<name>Neon Boneyard</name>
+<hex>#dfc5fe</hex>
+</color>
+<color>
+<name>Neon Carrot</name>
+<hex>#ff9933</hex>
+</color>
+<color>
+<name>Neon Fuchsia</name>
+<hex>#fe4164</hex>
+</color>
+<color>
+<name>Neon Green</name>
+<hex>#39ff14</hex>
+</color>
+<color>
+<name>Neon Pink</name>
+<hex>#fe019a</hex>
+</color>
+<color>
+<name>Neon Purple</name>
+<hex>#bc13fe</hex>
+</color>
+<color>
+<name>Neon Red</name>
+<hex>#ff073a</hex>
+</color>
+<color>
+<name>Neon Violet</name>
+<hex>#674876</hex>
+</color>
+<color>
+<name>Neon Yellow</name>
+<hex>#cfff04</hex>
+</color>
+<color>
+<name>Neptune Green</name>
+<hex>#7fbb9e</hex>
+</color>
+<color>
+<name>Nero</name>
+<hex>#252525</hex>
+</color>
+<color>
+<name>Nervous Neon Pink</name>
+<hex>#ff6ec7</hex>
+</color>
+<color>
+<name>Netherworld</name>
+<hex>#881111</hex>
+</color>
+<color>
+<name>Nettle</name>
+<hex>#bbac7d</hex>
+</color>
+<color>
+<name>Never Forget</name>
+<hex>#a67283</hex>
+</color>
+<color>
+<name>Nevermind Nirvana</name>
+<hex>#7bc8f6</hex>
+</color>
+<color>
+<name>New Gold</name>
+<hex>#ead151</hex>
+</color>
+<color>
+<name>New Love</name>
+<hex>#c6bbdb</hex>
+</color>
+<color>
+<name>Niagara Falls</name>
+<hex>#cbe3ee</hex>
+</color>
+<color>
+<name>Nickel</name>
+<hex>#929292</hex>
+</color>
+<color>
+<name>Nicotine Gold</name>
+<hex>#eebb33</hex>
+</color>
+<color>
+<name>Night Kite</name>
+<hex>#005572</hex>
+</color>
+<color>
+<name>Night Market</name>
+<hex>#4c6177</hex>
+</color>
+<color>
+<name>Night Mode</name>
+<hex>#234e86</hex>
+</color>
+<color>
+<name>Night Owl</name>
+<hex>#5d7b89</hex>
+</color>
+<color>
+<name>Night Rendezvous</name>
+<hex>#66787e</hex>
+</color>
+<color>
+<name>Night Rider</name>
+<hex>#332e2e</hex>
+</color>
+<color>
+<name>Night Sky</name>
+<hex>#2a2a35</hex>
+</color>
+<color>
+<name>Night Snow</name>
+<hex>#aaccff</hex>
+</color>
+<color>
+<name>Night Watch</name>
+<hex>#3c4f4e</hex>
+</color>
+<color>
+<name>Nightfall</name>
+<hex>#43535e</hex>
+</color>
+<color>
+<name>Nightlife</name>
+<hex>#27426b</hex>
+</color>
+<color>
+<name>Nightmare</name>
+<hex>#112211</hex>
+</color>
+<color>
+<name>Nile</name>
+<hex>#b4bb85</hex>
+</color>
+<color>
+<name>Nimbus Cloud</name>
+<hex>#d5d5d8</hex>
+</color>
+<color>
+<name>Ninja Turtle</name>
+<hex>#94b1a9</hex>
+</color>
+<color>
+<name>Nipple</name>
+<hex>#bb7777</hex>
+</color>
+<color>
+<name>Nippon</name>
+<hex>#bc002c</hex>
+</color>
+<color>
+<name>Nirvana</name>
+<hex>#a2919b</hex>
+</color>
+<color>
+<name>No Way Rosé</name>
+<hex>#fbaa95</hex>
+</color>
+<color>
+<name>Noble Knight</name>
+<hex>#394d78</hex>
+</color>
+<color>
+<name>Noble Plum</name>
+<hex>#871f78</hex>
+</color>
+<color>
+<name>Nocturne</name>
+<hex>#7a4b56</hex>
+</color>
+<color>
+<name>Nomad</name>
+<hex>#a19986</hex>
+</color>
+<color>
+<name>Noodles</name>
+<hex>#f9e3b4</hex>
+</color>
+<color>
+<name>Nordic Breeze</name>
+<hex>#d3dde7</hex>
+</color>
+<color>
+<name>Nordic Noir</name>
+<hex>#003344</hex>
+</color>
+<color>
+<name>North Atlantic</name>
+<hex>#536d70</hex>
+</color>
+<color>
+<name>Northern Star</name>
+<hex>#ffffea</hex>
+</color>
+<color>
+<name>Norway</name>
+<hex>#a4b88f</hex>
+</color>
+<color>
+<name>Not Yo Cheese</name>
+<hex>#ffc12c</hex>
+</color>
+<color>
+<name>Nougat</name>
+<hex>#b69885</hex>
+</color>
+<color>
+<name>Nouveau-Riche</name>
+<hex>#ffbb77</hex>
+</color>
+<color>
+<name>Noxious</name>
+<hex>#89a203</hex>
+</color>
+<color>
+<name>Nuclear Blast</name>
+<hex>#bbff00</hex>
+</color>
+<color>
+<name>Nuclear Mango</name>
+<hex>#ee9933</hex>
+</color>
+<color>
+<name>Nuclear Meltdown</name>
+<hex>#44ee00</hex>
+</color>
+<color>
+<name>Nuclear Throne</name>
+<hex>#00de00</hex>
+</color>
+<color>
+<name>Nude Flamingo</name>
+<hex>#e58f7c</hex>
+</color>
+<color>
+<name>Nude Lips</name>
+<hex>#b5948d</hex>
+</color>
+<color>
+<name>Nugget</name>
+<hex>#bc9229</hex>
+</color>
+<color>
+<name>Nuit Blanche</name>
+<hex>#1e488f</hex>
+</color>
+<color>
+<name>Nut Cracker</name>
+<hex>#816c5b</hex>
+</color>
+<color>
+<name>NYC Taxi</name>
+<hex>#f7b731</hex>
+</color>
+<color>
+<name>Nymph's Delight</name>
+<hex>#7b6c8e</hex>
+</color>
+<color>
+<name>Oak Barrel</name>
+<hex>#715636</hex>
+</color>
+<color>
+<name>Oakwood</name>
+<hex>#bda58b</hex>
+</color>
+<color>
+<name>Oasis</name>
+<hex>#0092a3</hex>
+</color>
+<color>
+<name>Oatmeal</name>
+<hex>#cbc3b4</hex>
+</color>
+<color>
+<name>Oatmeal Cookie</name>
+<hex>#eadac6</hex>
+</color>
+<color>
+<name>Oblivion</name>
+<hex>#000435</hex>
+</color>
+<color>
+<name>Obscure Ogre</name>
+<hex>#771908</hex>
+</color>
+<color>
+<name>Obsidian</name>
+<hex>#445055</hex>
+</color>
+<color>
+<name>Obsidian Shard</name>
+<hex>#060313</hex>
+</color>
+<color>
+<name>Ocean Blue</name>
+<hex>#009dc4</hex>
+</color>
+<color>
+<name>Ocean Breeze</name>
+<hex>#d3e5eb</hex>
+</color>
+<color>
+<name>Ochre Spice</name>
+<hex>#e96d03</hex>
+</color>
+<color>
+<name>Oh Boy!</name>
+<hex>#bbdaf8</hex>
+</color>
+<color>
+<name>Oh My Gold</name>
+<hex>#eebb55</hex>
+</color>
+<color>
+<name>Old Gold</name>
+<hex>#cfb53b</hex>
+</color>
+<color>
+<name>Old Heart</name>
+<hex>#e66a77</hex>
+</color>
+<color>
+<name>Old Silver</name>
+<hex>#848482</hex>
+</color>
+<color>
+<name>Old Whiskey</name>
+<hex>#ddaa55</hex>
+</color>
+<color>
+<name>Olive</name>
+<hex>#808010</hex>
+</color>
+<color>
+<name>Olive Bark</name>
+<hex>#5f5537</hex>
+</color>
+<color>
+<name>Olive Conquering White</name>
+<hex>#e4e5d8</hex>
+</color>
+<color>
+<name>Olive Leaf</name>
+<hex>#4e4b35</hex>
+</color>
+<color>
+<name>Olive Tree</name>
+<hex>#aba77c</hex>
+</color>
+<color>
+<name>Olivia</name>
+<hex>#996622</hex>
+</color>
+<color>
+<name>Olympian Blue</name>
+<hex>#1a4c8b</hex>
+</color>
+<color>
+<name>On Cloud Nine</name>
+<hex>#c2e7e8</hex>
+</color>
+<color>
+<name>Once in a Blue Moon</name>
+<hex>#0044bb</hex>
+</color>
+<color>
+<name>One Minute to Midnight</name>
+<hex>#003388</hex>
+</color>
+<color>
+<name>One Year of Rain</name>
+<hex>#29465b</hex>
+</color>
+<color>
+<name>Onsen</name>
+<hex>#66eebb</hex>
+</color>
+<color>
+<name>Onyx</name>
+<hex>#464544</hex>
+</color>
+<color>
+<name>Opal</name>
+<hex>#aee0e4</hex>
+</color>
+<color>
+<name>Opal Fire</name>
+<hex>#e49c86</hex>
+</color>
+<color>
+<name>Opal Flame</name>
+<hex>#e95c4b</hex>
+</color>
+<color>
+<name>Opal Green</name>
+<hex>#157954</hex>
+</color>
+<color>
+<name>Opera</name>
+<hex>#816575</hex>
+</color>
+<color>
+<name>Opium</name>
+<hex>#987e7e</hex>
+</color>
+<color>
+<name>Orange</name>
+<hex>#ffa500</hex>
+</color>
+<color>
+<name>Orange Crush</name>
+<hex>#ee7733</hex>
+</color>
+<color>
+<name>Orange Delight</name>
+<hex>#ffc355</hex>
+</color>
+<color>
+<name>Orange Juice</name>
+<hex>#ff7f00</hex>
+</color>
+<color>
+<name>Orange Piñata</name>
+<hex>#ff6611</hex>
+</color>
+<color>
+<name>Orangina</name>
+<hex>#fec615</hex>
+</color>
+<color>
+<name>Orb of Discord</name>
+<hex>#772299</hex>
+</color>
+<color>
+<name>Orb of Harmony</name>
+<hex>#eedd44</hex>
+</color>
+<color>
+<name>Orbital</name>
+<hex>#6d83bb</hex>
+</color>
+<color>
+<name>Orbital Kingdom</name>
+<hex>#220088</hex>
+</color>
+<color>
+<name>Orchid</name>
+<hex>#7a81ff</hex>
+</color>
+<color>
+<name>Organic</name>
+<hex>#747261</hex>
+</color>
+<color>
+<name>Oriental Blush</name>
+<hex>#d7c6e1</hex>
+</color>
+<color>
+<name>Oriental Herbs</name>
+<hex>#118822</hex>
+</color>
+<color>
+<name>Oriental Olive</name>
+<hex>#445533</hex>
+</color>
+<color>
+<name>Oriental Pink</name>
+<hex>#c28e88</hex>
+</color>
+<color>
+<name>Oriental Ruby</name>
+<hex>#ce536b</hex>
+</color>
+<color>
+<name>Oriental Spice</name>
+<hex>#8b5131</hex>
+</color>
+<color>
+<name>Ottoman Red</name>
+<hex>#ee2222</hex>
+</color>
+<color>
+<name>Outback</name>
+<hex>#c9a375</hex>
+</color>
+<color>
+<name>Overdue Blue</name>
+<hex>#4400ff</hex>
+</color>
+<color>
+<name>Overgrown</name>
+<hex>#6b6048</hex>
+</color>
+<color>
+<name>Oxblood</name>
+<hex>#800020</hex>
+</color>
+<color>
+<name>Oyster</name>
+<hex>#e3d3bf</hex>
+</color>
+<color>
+<name>Pac-Man</name>
+<hex>#ffe737</hex>
+</color>
+<color>
+<name>Pacific</name>
+<hex>#1f595c</hex>
+</color>
+<color>
+<name>Pacific Depths</name>
+<hex>#004488</hex>
+</color>
+<color>
+<name>Paella</name>
+<hex>#dcc61f</hex>
+</color>
+<color>
+<name>Pale Sky</name>
+<hex>#bdf6fe</hex>
+</color>
+<color>
+<name>Palm</name>
+<hex>#afaf5e</hex>
+</color>
+<color>
+<name>Palm Leaf</name>
+<hex>#36482f</hex>
+</color>
+<color>
+<name>Pancake</name>
+<hex>#f7d788</hex>
+</color>
+<color>
+<name>Pandora's Box</name>
+<hex>#fedbb7</hex>
+</color>
+<color>
+<name>Panorama</name>
+<hex>#327a88</hex>
+</color>
+<color>
+<name>Papaya</name>
+<hex>#fea166</hex>
+</color>
+<color>
+<name>Paper Hearts</name>
+<hex>#cc4466</hex>
+</color>
+<color>
+<name>Paprika</name>
+<hex>#7c2d37</hex>
+</color>
+<color>
+<name>Papyrus</name>
+<hex>#999911</hex>
+</color>
+<color>
+<name>Paradise Bird</name>
+<hex>#ff8c55</hex>
+</color>
+<color>
+<name>Paradise Pink</name>
+<hex>#e4445e</hex>
+</color>
+<color>
+<name>Paradiso</name>
+<hex>#488084</hex>
+</color>
+<color>
+<name>Parchment</name>
+<hex>#fefcaf</hex>
+</color>
+<color>
+<name>Parfait</name>
+<hex>#c8a6a1</hex>
+</color>
+<color>
+<name>Parmesan</name>
+<hex>#ffffdd</hex>
+</color>
+<color>
+<name>Partial Pink</name>
+<hex>#ffedf8</hex>
+</color>
+<color>
+<name>Party Pig</name>
+<hex>#ee99ff</hex>
+</color>
+<color>
+<name>Passion Flower</name>
+<hex>#6d5698</hex>
+</color>
+<color>
+<name>Passion Potion</name>
+<hex>#e398af</hex>
+</color>
+<color>
+<name>Passionate Plum</name>
+<hex>#753a58</hex>
+</color>
+<color>
+<name>Pasta</name>
+<hex>#f7dfaf</hex>
+</color>
+<color>
+<name>Pastel Blue</name>
+<hex>#a2bffe</hex>
+</color>
+<color>
+<name>Pastel Brown</name>
+<hex>#836953</hex>
+</color>
+<color>
+<name>Pastel Day</name>
+<hex>#dfd8e1</hex>
+</color>
+<color>
+<name>Pastel Green</name>
+<hex>#77dd77</hex>
+</color>
+<color>
+<name>Pastel Grey</name>
+<hex>#cfcfc4</hex>
+</color>
+<color>
+<name>Pastel Lavender</name>
+<hex>#d8a1c4</hex>
+</color>
+<color>
+<name>Pastel Lilac</name>
+<hex>#bdb0d0</hex>
+</color>
+<color>
+<name>Pastel Magenta</name>
+<hex>#f49ac2</hex>
+</color>
+<color>
+<name>Pastel Mint</name>
+<hex>#cef0cc</hex>
+</color>
+<color>
+<name>Pastel Orange</name>
+<hex>#ff964f</hex>
+</color>
+<color>
+<name>Pastel Pea</name>
+<hex>#bee7a5</hex>
+</color>
+<color>
+<name>Pastel Pink</name>
+<hex>#dea5a4</hex>
+</color>
+<color>
+<name>Pastel Purple</name>
+<hex>#b39eb5</hex>
+</color>
+<color>
+<name>Pastel Red</name>
+<hex>#ff6961</hex>
+</color>
+<color>
+<name>Pastel Smirk</name>
+<hex>#deece1</hex>
+</color>
+<color>
+<name>Pastel Turquoise</name>
+<hex>#99c5c4</hex>
+</color>
+<color>
+<name>Pastel Violet</name>
+<hex>#cb99c9</hex>
+</color>
+<color>
+<name>Pastel Yellow</name>
+<hex>#fdfd96</hex>
+</color>
+<color>
+<name>Pastry</name>
+<hex>#f8deb8</hex>
+</color>
+<color>
+<name>PCB Green</name>
+<hex>#002d04</hex>
+</color>
+<color>
+<name>Pea</name>
+<hex>#a4bf20</hex>
+</color>
+<color>
+<name>Peach</name>
+<hex>#ffb07c</hex>
+</color>
+<color>
+<name>Peach Beauty</name>
+<hex>#e7c3ab</hex>
+</color>
+<color>
+<name>Peach Bud</name>
+<hex>#fdb2ab</hex>
+</color>
+<color>
+<name>Peach Cream</name>
+<hex>#fff0db</hex>
+</color>
+<color>
+<name>Peach Crème Brûlée</name>
+<hex>#ffe19d</hex>
+</color>
+<color>
+<name>Peach Fizz</name>
+<hex>#ffa883</hex>
+</color>
+<color>
+<name>Peach Fuzz</name>
+<hex>#ffc7b9</hex>
+</color>
+<color>
+<name>Peach Puff</name>
+<hex>#ffdab9</hex>
+</color>
+<color>
+<name>Peaches of Immortality</name>
+<hex>#d98586</hex>
+</color>
+<color>
+<name>Peachy Feeling</name>
+<hex>#ed8666</hex>
+</color>
+<color>
+<name>Peachy Milk</name>
+<hex>#f3e0d8</hex>
+</color>
+<color>
+<name>Peachy Pinky</name>
+<hex>#ff775e</hex>
+</color>
+<color>
+<name>Peacock Pride</name>
+<hex>#006663</hex>
+</color>
+<color>
+<name>Peanut</name>
+<hex>#7a4434</hex>
+</color>
+<color>
+<name>Peanut Butter</name>
+<hex>#be893f</hex>
+</color>
+<color>
+<name>Peanut Butter Chicken</name>
+<hex>#ffb75f</hex>
+</color>
+<color>
+<name>Peanut Butter Jelly</name>
+<hex>#ce4a2d</hex>
+</color>
+<color>
+<name>Pear</name>
+<hex>#d1e231</hex>
+</color>
+<color>
+<name>Pearl</name>
+<hex>#eae0c8</hex>
+</color>
+<color>
+<name>Pearl Brite</name>
+<hex>#e6e6e3</hex>
+</color>
+<color>
+<name>Pearl White</name>
+<hex>#f3f2ed</hex>
+</color>
+<color>
+<name>Peas Please</name>
+<hex>#8c7f3c</hex>
+</color>
+<color>
+<name>Pebble</name>
+<hex>#9d9880</hex>
+</color>
+<color>
+<name>Pebble Beach</name>
+<hex>#7f8285</hex>
+</color>
+<color>
+<name>Peekaboo</name>
+<hex>#e6dee6</hex>
+</color>
+<color>
+<name>Pegasus</name>
+<hex>#e8e9e4</hex>
+</color>
+<color>
+<name>Pelati</name>
+<hex>#ff3333</hex>
+</color>
+<color>
+<name>Pelican</name>
+<hex>#c1bcac</hex>
+</color>
+<color>
+<name>Pepper Green</name>
+<hex>#007d60</hex>
+</color>
+<color>
+<name>Peppermint</name>
+<hex>#d7e7d0</hex>
+</color>
+<color>
+<name>Pepperoni</name>
+<hex>#aa4400</hex>
+</color>
+<color>
+<name>Peppy Pineapple</name>
+<hex>#ffff44</hex>
+</color>
+<color>
+<name>Perfect Dark</name>
+<hex>#313390</hex>
+</color>
+<color>
+<name>Perfect Pink</name>
+<hex>#e5b3b2</hex>
+</color>
+<color>
+<name>Perfume Cloud</name>
+<hex>#e2c9ce</hex>
+</color>
+<color>
+<name>Perfume Haze</name>
+<hex>#f3e9f7</hex>
+</color>
+<color>
+<name>Pergament</name>
+<hex>#bfa58a</hex>
+</color>
+<color>
+<name>Periwinkle</name>
+<hex>#8e82fe</hex>
+</color>
+<color>
+<name>Permafrost</name>
+<hex>#98eff9</hex>
+</color>
+<color>
+<name>Perrywinkle</name>
+<hex>#8f8ce7</hex>
+</color>
+<color>
+<name>Persian Red</name>
+<hex>#cc3333</hex>
+</color>
+<color>
+<name>Persicus</name>
+<hex>#ffb49b</hex>
+</color>
+<color>
+<name>Persimmon</name>
+<hex>#e59b34</hex>
+</color>
+<color>
+<name>Peru</name>
+<hex>#cd853f</hex>
+</color>
+<color>
+<name>Pesto</name>
+<hex>#c1b23e</hex>
+</color>
+<color>
+<name>Pesto Alla Genovese</name>
+<hex>#558800</hex>
+</color>
+<color>
+<name>Pesto di Pistacchio</name>
+<hex>#a7c437</hex>
+</color>
+<color>
+<name>Pesto di Rucola</name>
+<hex>#748a35</hex>
+</color>
+<color>
+<name>Pesto Rosso</name>
+<hex>#bb3333</hex>
+</color>
+<color>
+<name>Petal Pink</name>
+<hex>#f2e2e0</hex>
+</color>
+<color>
+<name>Petite Pink</name>
+<hex>#eacacb</hex>
+</color>
+<color>
+<name>Phantom</name>
+<hex>#6e797b</hex>
+</color>
+<color>
+<name>Phaser Beam</name>
+<hex>#ff4d00</hex>
+</color>
+<color>
+<name>Pheasant</name>
+<hex>#c68463</hex>
+</color>
+<color>
+<name>Philodendron</name>
+<hex>#116356</hex>
+</color>
+<color>
+<name>Phoenix Red</name>
+<hex>#e2725b</hex>
+</color>
+<color>
+<name>Phosphor Green</name>
+<hex>#00aa00</hex>
+</color>
+<color>
+<name>Picante</name>
+<hex>#8d3f2d</hex>
+</color>
+<color>
+<name>Pickled</name>
+<hex>#b3a74b</hex>
+</color>
+<color>
+<name>Pickled Pineapple</name>
+<hex>#eeff33</hex>
+</color>
+<color>
+<name>Pickled Radish</name>
+<hex>#ee1144</hex>
+</color>
+<color>
+<name>Piercing Pink</name>
+<hex>#dd00ee</hex>
+</color>
+<color>
+<name>Piercing Red</name>
+<hex>#dd1122</hex>
+</color>
+<color>
+<name>Pig Pink</name>
+<hex>#fdd7e4</hex>
+</color>
+<color>
+<name>Pigeon</name>
+<hex>#a9afaa</hex>
+</color>
+<color>
+<name>Piggy</name>
+<hex>#ef98aa</hex>
+</color>
+<color>
+<name>Piggy Bank</name>
+<hex>#ffccbb</hex>
+</color>
+<color>
+<name>Piglet</name>
+<hex>#ffc0c6</hex>
+</color>
+<color>
+<name>Pika Yellow</name>
+<hex>#eee92d</hex>
+</color>
+<color>
+<name>Pilsener</name>
+<hex>#f8f753</hex>
+</color>
+<color>
+<name>Piment Piquant</name>
+<hex>#cc2200</hex>
+</color>
+<color>
+<name>Pimm's</name>
+<hex>#c3585c</hex>
+</color>
+<color>
+<name>Pina Colada</name>
+<hex>#f4deb3</hex>
+</color>
+<color>
+<name>Pinball</name>
+<hex>#d3d3d3</hex>
+</color>
+<color>
+<name>Pinch Me</name>
+<hex>#c88ca4</hex>
+</color>
+<color>
+<name>Pine</name>
+<hex>#2b5d34</hex>
+</color>
+<color>
+<name>Pine Needle</name>
+<hex>#334d41</hex>
+</color>
+<color>
+<name>Pineapple</name>
+<hex>#563c0d</hex>
+</color>
+<color>
+<name>Pineapple Perfume</name>
+<hex>#eeee88</hex>
+</color>
+<color>
+<name>Pineapple Sorbet</name>
+<hex>#f7f4da</hex>
+</color>
+<color>
+<name>Pineapple Whip</name>
+<hex>#ead988</hex>
+</color>
+<color>
+<name>Pink</name>
+<hex>#ffc0cb</hex>
+</color>
+<color>
+<name>Pink Blush</name>
+<hex>#f4acb6</hex>
+</color>
+<color>
+<name>Pink Elephants</name>
+<hex>#ff99ee</hex>
+</color>
+<color>
+<name>Pink Flamingo</name>
+<hex>#ff66ff</hex>
+</color>
+<color>
+<name>Pink Floyd</name>
+<hex>#eb9a9d</hex>
+</color>
+<color>
+<name>Pink Glitter</name>
+<hex>#fddfda</hex>
+</color>
+<color>
+<name>Pink Horror</name>
+<hex>#90305d</hex>
+</color>
+<color>
+<name>Pink Ink</name>
+<hex>#ff1476</hex>
+</color>
+<color>
+<name>Pink Orchid</name>
+<hex>#da70d6</hex>
+</color>
+<color>
+<name>Pink Panther</name>
+<hex>#ff0090</hex>
+</color>
+<color>
+<name>Pink Party</name>
+<hex>#ff55ee</hex>
+</color>
+<color>
+<name>Pink Pleasure</name>
+<hex>#ffdfe5</hex>
+</color>
+<color>
+<name>Pink Poison</name>
+<hex>#ff007e</hex>
+</color>
+<color>
+<name>Pink Prestige</name>
+<hex>#ee99aa</hex>
+</color>
+<color>
+<name>Pink Pride</name>
+<hex>#ef1de7</hex>
+</color>
+<color>
+<name>Pinkalicious</name>
+<hex>#ff99ff</hex>
+</color>
+<color>
+<name>Pinky</name>
+<hex>#fc86aa</hex>
+</color>
+<color>
+<name>Pinky Swear</name>
+<hex>#eeaaee</hex>
+</color>
+<color>
+<name>Pinot Noir</name>
+<hex>#605258</hex>
+</color>
+<color>
+<name>Pirate Gold</name>
+<hex>#ba782a</hex>
+</color>
+<color>
+<name>Pirate's Hook</name>
+<hex>#b08f42</hex>
+</color>
+<color>
+<name>Pisco Sour</name>
+<hex>#beeb71</hex>
+</color>
+<color>
+<name>Pistachio</name>
+<hex>#93c572</hex>
+</color>
+<color>
+<name>Pistachio Shell</name>
+<hex>#d7cfbb</hex>
+</color>
+<color>
+<name>Pita</name>
+<hex>#f5e7d2</hex>
+</color>
+<color>
+<name>Pitch Black</name>
+<hex>#483c41</hex>
+</color>
+<color>
+<name>Pitch-Black Forests</name>
+<hex>#003322</hex>
+</color>
+<color>
+<name>Pixel Bleeding</name>
+<hex>#bb0022</hex>
+</color>
+<color>
+<name>Pizza</name>
+<hex>#bf8d3c</hex>
+</color>
+<color>
+<name>Planet of the Apes</name>
+<hex>#883333</hex>
+</color>
+<color>
+<name>Plantation</name>
+<hex>#3e594c</hex>
+</color>
+<color>
+<name>Plaster</name>
+<hex>#eaeaea</hex>
+</color>
+<color>
+<name>Plastic Veggie</name>
+<hex>#22ff22</hex>
+</color>
+<color>
+<name>Platinum</name>
+<hex>#e5e4e2</hex>
+</color>
+<color>
+<name>Platinum Blonde</name>
+<hex>#f0e8d7</hex>
+</color>
+<color>
+<name>Pleasant Purple</name>
+<hex>#8833aa</hex>
+</color>
+<color>
+<name>Pleasing Pink</name>
+<hex>#f5cdd2</hex>
+</color>
+<color>
+<name>Pleasure</name>
+<hex>#80385c</hex>
+</color>
+<color>
+<name>Plein Air</name>
+<hex>#bfcad6</hex>
+</color>
+<color>
+<name>Plum</name>
+<hex>#5a315d</hex>
+</color>
+<color>
+<name>Plum Highness</name>
+<hex>#885577</hex>
+</color>
+<color>
+<name>Plum Kingdom</name>
+<hex>#aa3377</hex>
+</color>
+<color>
+<name>Plum Perfect</name>
+<hex>#aa1155</hex>
+</color>
+<color>
+<name>Plushy Pink</name>
+<hex>#eab7a8</hex>
+</color>
+<color>
+<name>Plutonium</name>
+<hex>#35fa00</hex>
+</color>
+<color>
+<name>Poached Egg</name>
+<hex>#f5d893</hex>
+</color>
+<color>
+<name>Poison Ivy</name>
+<hex>#00ad43</hex>
+</color>
+<color>
+<name>Poison Purple</name>
+<hex>#7f01fe</hex>
+</color>
+<color>
+<name>Poisonous</name>
+<hex>#55ff11</hex>
+</color>
+<color>
+<name>Poisonous Dart</name>
+<hex>#77ff66</hex>
+</color>
+<color>
+<name>Polar</name>
+<hex>#e5f2e7</hex>
+</color>
+<color>
+<name>Polar Bear</name>
+<hex>#eae9e0</hex>
+</color>
+<color>
+<name>Polar Expedition</name>
+<hex>#c9e7e3</hex>
+</color>
+<color>
+<name>Polenta</name>
+<hex>#efc47f</hex>
+</color>
+<color>
+<name>Polished Apple</name>
+<hex>#862a2e</hex>
+</color>
+<color>
+<name>Polished Bronze</name>
+<hex>#cd7f32</hex>
+</color>
+<color>
+<name>Polished Copper</name>
+<hex>#b66325</hex>
+</color>
+<color>
+<name>Polished Gold</name>
+<hex>#eeaa55</hex>
+</color>
+<color>
+<name>Polished Limestone</name>
+<hex>#dcd5c8</hex>
+</color>
+<color>
+<name>Polished Pearl</name>
+<hex>#f8edd3</hex>
+</color>
+<color>
+<name>Polished Silver</name>
+<hex>#c5d1da</hex>
+</color>
+<color>
+<name>Pollen</name>
+<hex>#eeeeaa</hex>
+</color>
+<color>
+<name>Pollination</name>
+<hex>#eedd66</hex>
+</color>
+<color>
+<name>Polly</name>
+<hex>#ffcaa4</hex>
+</color>
+<color>
+<name>Pomegranate</name>
+<hex>#c35550</hex>
+</color>
+<color>
+<name>Pomelo Red</name>
+<hex>#e38fac</hex>
+</color>
+<color>
+<name>Pomodoro</name>
+<hex>#c30232</hex>
+</color>
+<color>
+<name>Pompelmo</name>
+<hex>#ff6666</hex>
+</color>
+<color>
+<name>Pony</name>
+<hex>#c6aa81</hex>
+</color>
+<color>
+<name>Poodle Skirt</name>
+<hex>#ffaebb</hex>
+</color>
+<color>
+<name>Popcorn</name>
+<hex>#f8de8d</hex>
+</color>
+<color>
+<name>Poppy Flower</name>
+<hex>#ec5800</hex>
+</color>
+<color>
+<name>Porcelain</name>
+<hex>#dddcdb</hex>
+</color>
+<color>
+<name>Porcini</name>
+<hex>#cca580</hex>
+</color>
+<color>
+<name>Pork Belly</name>
+<hex>#f8e0e7</hex>
+</color>
+<color>
+<name>Port Wine</name>
+<hex>#a17a83</hex>
+</color>
+<color>
+<name>Poseidon</name>
+<hex>#123955</hex>
+</color>
+<color>
+<name>Poseidon Jr.</name>
+<hex>#66eeee</hex>
+</color>
+<color>
+<name>Possessed Purple</name>
+<hex>#881166</hex>
+</color>
+<color>
+<name>Possessed Red</name>
+<hex>#c2264d</hex>
+</color>
+<color>
+<name>Potato Chip</name>
+<hex>#fddc57</hex>
+</color>
+<color>
+<name>Powder Puff</name>
+<hex>#ffeff3</hex>
+</color>
+<color>
+<name>Powdered</name>
+<hex>#f9f2e7</hex>
+</color>
+<color>
+<name>Prairie Land</name>
+<hex>#e2cc9c</hex>
+</color>
+<color>
+<name>Praise the Sun</name>
+<hex>#f3f4d9</hex>
+</color>
+<color>
+<name>Precious Pumpkin</name>
+<hex>#e16233</hex>
+</color>
+<color>
+<name>Preppy Rose</name>
+<hex>#d1668f</hex>
+</color>
+<color>
+<name>Pressing my Luck</name>
+<hex>#00cc11</hex>
+</color>
+<color>
+<name>Pretty in Pink</name>
+<hex>#fabfe4</hex>
+</color>
+<color>
+<name>Pretty Pastry</name>
+<hex>#dfcdb2</hex>
+</color>
+<color>
+<name>Primal Green</name>
+<hex>#11875d</hex>
+</color>
+<color>
+<name>Primrose</name>
+<hex>#d6859f</hex>
+</color>
+<color>
+<name>Princess Peach</name>
+<hex>#f878f8</hex>
+</color>
+<color>
+<name>Professor Plum</name>
+<hex>#393540</hex>
+</color>
+<color>
+<name>Promenade</name>
+<hex>#f8f6df</hex>
+</color>
+<color>
+<name>Prosciutto</name>
+<hex>#e0b4a4</hex>
+</color>
+<color>
+<name>Prosecco</name>
+<hex>#fad6a5</hex>
+</color>
+<color>
+<name>Prune</name>
+<hex>#701c11</hex>
+</color>
+<color>
+<name>Pulp</name>
+<hex>#e18289</hex>
+</color>
+<color>
+<name>Puma</name>
+<hex>#96711c</hex>
+</color>
+<color>
+<name>Pumpkin</name>
+<hex>#ff7518</hex>
+</color>
+<color>
+<name>Pumpkin Pie</name>
+<hex>#e99e56</hex>
+</color>
+<color>
+<name>Punch</name>
+<hex>#dc4333</hex>
+</color>
+<color>
+<name>Punk Rock Purple</name>
+<hex>#bb11aa</hex>
+</color>
+<color>
+<name>Pure Blue</name>
+<hex>#0203e2</hex>
+</color>
+<color>
+<name>Purple</name>
+<hex>#800080</hex>
+</color>
+<color>
+<name>Purple Climax</name>
+<hex>#8800ff</hex>
+</color>
+<color>
+<name>Purple Emperor</name>
+<hex>#6633bb</hex>
+</color>
+<color>
+<name>Purple Haze</name>
+<hex>#807396</hex>
+</color>
+<color>
+<name>Purple Heart</name>
+<hex>#69359c</hex>
+</color>
+<color>
+<name>Purple Illusion</name>
+<hex>#b8b8f8</hex>
+</color>
+<color>
+<name>Purple Ink</name>
+<hex>#9a2ca0</hex>
+</color>
+<color>
+<name>Purple Noir</name>
+<hex>#322c56</hex>
+</color>
+<color>
+<name>Purple Passion</name>
+<hex>#683d62</hex>
+</color>
+<color>
+<name>Purple Pizzazz</name>
+<hex>#fe4eda</hex>
+</color>
+<color>
+<name>Purple Poodle</name>
+<hex>#dab4cc</hex>
+</color>
+<color>
+<name>Purple Rain</name>
+<hex>#7442c8</hex>
+</color>
+<color>
+<name>Purple Void</name>
+<hex>#442244</hex>
+</color>
+<color>
+<name>Purple's Baby Sister</name>
+<hex>#eec3ee</hex>
+</color>
+<color>
+<name>Put on Ice</name>
+<hex>#c8ddea</hex>
+</color>
+<color>
+<name>Pyramid</name>
+<hex>#9f7d4f</hex>
+</color>
+<color>
+<name>Quack Quack</name>
+<hex>#ffe989</hex>
+</color>
+<color>
+<name>Queen Blue</name>
+<hex>#436b95</hex>
+</color>
+<color>
+<name>Queen of Hearts</name>
+<hex>#98333a</hex>
+</color>
+<color>
+<name>Queer Blue</name>
+<hex>#88ace0</hex>
+</color>
+<color>
+<name>Quicksand</name>
+<hex>#ac9884</hex>
+</color>
+<color>
+<name>Quicksilver</name>
+<hex>#a6a6a6</hex>
+</color>
+<color>
+<name>Race the Sun</name>
+<hex>#eef3d0</hex>
+</color>
+<color>
+<name>Radiant Sunrise</name>
+<hex>#eebe1b</hex>
+</color>
+<color>
+<name>Radical Red</name>
+<hex>#ff355e</hex>
+</color>
+<color>
+<name>Radioactive</name>
+<hex>#89fe05</hex>
+</color>
+<color>
+<name>Rage</name>
+<hex>#ff1133</hex>
+</color>
+<color>
+<name>Raging Raisin</name>
+<hex>#aa3333</hex>
+</color>
+<color>
+<name>Rainforest</name>
+<hex>#009a70</hex>
+</color>
+<color>
+<name>Rajah</name>
+<hex>#fbab60</hex>
+</color>
+<color>
+<name>Rampant Rhubarb</name>
+<hex>#603231</hex>
+</color>
+<color>
+<name>Rampart</name>
+<hex>#bcb7b1</hex>
+</color>
+<color>
+<name>Rapeseed</name>
+<hex>#c19a13</hex>
+</color>
+<color>
+<name>Rare Blue</name>
+<hex>#0044ff</hex>
+</color>
+<color>
+<name>Rare Red</name>
+<hex>#dd1133</hex>
+</color>
+<color>
+<name>Raspberry</name>
+<hex>#b00149</hex>
+</color>
+<color>
+<name>Red Elegance</name>
+<hex>#85464b</hex>
+</color>
+<color>
+<name>Red Menace</name>
+<hex>#aa2121</hex>
+</color>
+<color>
+<name>Redrum</name>
+<hex>#ff2200</hex>
+</color>
+<color>
+<name>Retro Nectarine</name>
+<hex>#ef7d16</hex>
+</color>
+<color>
+<name>Retro Vibe</name>
+<hex>#cb9711</hex>
+</color>
+<color>
+<name>Ridgeback</name>
+<hex>#ef985c</hex>
+</color>
+<color>
+<name>Roasted Pepper</name>
+<hex>#890a01</hex>
+</color>
+<color>
+<name>Roland-Garros</name>
+<hex>#bb5522</hex>
+</color>
+<color>
+<name>Romesco</name>
+<hex>#f48101</hex>
+</color>
+<color>
+<name>Rosé</name>
+<hex>#f7746b</hex>
+</color>
+<color>
+<name>Rosecco</name>
+<hex>#eebbdd</hex>
+</color>
+<color>
+<name>Royal Milk Tea</name>
+<hex>#f7cfb4</hex>
+</color>
+<color>
+<name>Royal Night</name>
+<hex>#2b3191</hex>
+</color>
+<color>
+<name>Royal Purpleness</name>
+<hex>#881177</hex>
+</color>
+<color>
+<name>Ruby</name>
+<hex>#ca0147</hex>
+</color>
+<color>
+<name>Rubylicious</name>
+<hex>#db1459</hex>
+</color>
+<color>
+<name>Sacrifice Altar</name>
+<hex>#850101</hex>
+</color>
+<color>
+<name>Safety Orange</name>
+<hex>#ff6600</hex>
+</color>
+<color>
+<name>Salmon Poké Bowl</name>
+<hex>#ee7777</hex>
+</color>
+<color>
+<name>Salsa Verde</name>
+<hex>#cec754</hex>
+</color>
+<color>
+<name>Salted Caramel Popcorn</name>
+<hex>#fdb251</hex>
+</color>
+<color>
+<name>Salty Ice</name>
+<hex>#cce2f3</hex>
+</color>
+<color>
+<name>Sapphire Glitter</name>
+<hex>#0033cc</hex>
+</color>
+<color>
+<name>Sauna Steam</name>
+<hex>#edebe1</hex>
+</color>
+<color>
+<name>Sereni Teal</name>
+<hex>#76baa8</hex>
+</color>
+<color>
+<name>Shimmering Love</name>
+<hex>#ff88cc</hex>
+</color>
+<color>
+<name>Shin Godzilla</name>
+<hex>#9a373f</hex>
+</color>
+<color>
+<name>Sinister</name>
+<hex>#12110e</hex>
+</color>
+<color>
+<name>Sky Dancer</name>
+<hex>#4499ff</hex>
+</color>
+<color>
+<name>Slice of Heaven</name>
+<hex>#0022ee</hex>
+</color>
+<color>
+<name>Smashing Pumpkins</name>
+<hex>#ff5522</hex>
+</color>
+<color>
+<name>Smoke Dragon</name>
+<hex>#ccbbaa</hex>
+</color>
+<color>
+<name>Sneaky Sesame</name>
+<hex>#896a46</hex>
+</color>
+<color>
+<name>Solar Ash</name>
+<hex>#cc6622</hex>
+</color>
+<color>
+<name>Sour Green</name>
+<hex>#c1e613</hex>
+</color>
+<color>
+<name>Sour Yellow</name>
+<hex>#eeff04</hex>
+</color>
+<color>
+<name>Space Dust</name>
+<hex>#002299</hex>
+</color>
+<color>
+<name>Space Exploration</name>
+<hex>#001199</hex>
+</color>
+<color>
+<name>Spectacular Purple</name>
+<hex>#bb00ff</hex>
+</color>
+<color>
+<name>Splashing Wave</name>
+<hex>#44ddff</hex>
+</color>
+<color>
+<name>Stainless Steel</name>
+<hex>#b4bdc7</hex>
+</color>
+<color>
+<name>Starship Tonic</name>
+<hex>#cce7e8</hex>
+</color>
+<color>
+<name>Strawberry Dreams</name>
+<hex>#ff88aa</hex>
+</color>
+<color>
+<name>Succulents</name>
+<hex>#007744</hex>
+</color>
+<color>
+<name>Sugar Mint</name>
+<hex>#c0e2c5</hex>
+</color>
+<color>
+<name>Sugar Quill</name>
+<hex>#ebe5d7</hex>
+</color>
+<color>
+<name>Summer Glow</name>
+<hex>#eeaa44</hex>
+</color>
+<color>
+<name>Sunshone Plum</name>
+<hex>#886688</hex>
+</color>
+<color>
+<name>Super Rose Red</name>
+<hex>#cb1028</hex>
+</color>
+<color>
+<name>Sweet Desire</name>
+<hex>#aa33ee</hex>
+</color>
+<color>
+<name>Sweet Mint Pesto</name>
+<hex>#bbee99</hex>
+</color>
+<color>
+<name>Tadorna Teal</name>
+<hex>#7ad7ad</hex>
+</color>
+<color>
+<name>Tangent Periwinkle</name>
+<hex>#50507f</hex>
+</color>
+<color>
+<name>Tardis Blue</name>
+<hex>#003b6f</hex>
+</color>
+<color>
+<name>Tartan Red</name>
+<hex>#b1282a</hex>
+</color>
+<color>
+<name>The Vast of Night</name>
+<hex>#110066</hex>
+</color>
+<color>
+<name>Thunder &amp; Lightning</name>
+<hex>#f9f5db</hex>
+</color>
+<color>
+<name>Tiger</name>
+<hex>#be9c67</hex>
+</color>
+<color>
+<name>Tiger King</name>
+<hex>#dd9922</hex>
+</color>
+<color>
+<name>Tiger of Mysore</name>
+<hex>#ff8855</hex>
+</color>
+<color>
+<name>Timeless Beauty</name>
+<hex>#b6273e</hex>
+</color>
+<color>
+<name>Tomato Baby</name>
+<hex>#e10d18</hex>
+</color>
+<color>
+<name>Too Dark Tonight</name>
+<hex>#0011bb</hex>
+</color>
+<color>
+<name>Touch of Glamor</name>
+<hex>#dd8844</hex>
+</color>
+<color>
+<name>Toxic Sludge</name>
+<hex>#00bb33</hex>
+</color>
+<color>
+<name>Tranquili Teal</name>
+<hex>#6c9da9</hex>
+</color>
+<color>
+<name>Transcendence</name>
+<hex>#f8f4d8</hex>
+</color>
+<color>
+<name>Transfusion</name>
+<hex>#ea1833</hex>
+</color>
+<color>
+<name>Trapped Darkness</name>
+<hex>#0e1d32</hex>
+</color>
+<color>
+<name>Treetop</name>
+<hex>#91b6ac</hex>
+</color>
+<color>
+<name>Tropical Dream</name>
+<hex>#d9eae5</hex>
+</color>
+<color>
+<name>Tropical Fog</name>
+<hex>#cbcab6</hex>
+</color>
+<color>
+<name>Tropical Forest</name>
+<hex>#024a43</hex>
+</color>
+<color>
+<name>Tropical Rain</name>
+<hex>#447777</hex>
+</color>
+<color>
+<name>Tropical Rainforest</name>
+<hex>#00755e</hex>
+</color>
+<color>
+<name>Tropical Turquoise</name>
+<hex>#04cdff</hex>
+</color>
+<color>
+<name>Trout</name>
+<hex>#4c5356</hex>
+</color>
+<color>
+<name>Truf Master</name>
+<hex>#009922</hex>
+</color>
+<color>
+<name>Tulip</name>
+<hex>#ff878d</hex>
+</color>
+<color>
+<name>Tuna</name>
+<hex>#46494e</hex>
+</color>
+<color>
+<name>Turf</name>
+<hex>#5f4f42</hex>
+</color>
+<color>
+<name>Turquoise</name>
+<hex>#06c2ac</hex>
+</color>
+<color>
+<name>Turquoise Pearl</name>
+<hex>#89f5e3</hex>
+</color>
+<color>
+<name>Turtle</name>
+<hex>#523f31</hex>
+</color>
+<color>
+<name>Tuscan</name>
+<hex>#fbd5a6</hex>
+</color>
+<color>
+<name>Tuscan Sun</name>
+<hex>#ffd84d</hex>
+</color>
+<color>
+<name>Tutu</name>
+<hex>#f8e4e3</hex>
+</color>
+<color>
+<name>Twilight</name>
+<hex>#4e518b</hex>
+</color>
+<color>
+<name>Twinkly Pinkily</name>
+<hex>#cf4796</hex>
+</color>
+<color>
+<name>Ultraberry</name>
+<hex>#770088</hex>
+</color>
+<color>
+<name>Umbra</name>
+<hex>#211e1f</hex>
+</color>
+<color>
+<name>Underwater Moonlight</name>
+<hex>#4488aa</hex>
+</color>
+<color>
+<name>Unicorn Dust</name>
+<hex>#ff2f92</hex>
+</color>
+<color>
+<name>Valkyrie</name>
+<hex>#eecc22</hex>
+</color>
+<color>
+<name>Vampire Bite</name>
+<hex>#c40233</hex>
+</color>
+<color>
+<name>Vampire Fangs</name>
+<hex>#cc2255</hex>
+</color>
+<color>
+<name>Vampire Red</name>
+<hex>#dd4132</hex>
+</color>
+<color>
+<name>Vampire State Building</name>
+<hex>#cc1100</hex>
+</color>
+<color>
+<name>Vanilla</name>
+<hex>#f3e5ab</hex>
+</color>
+<color>
+<name>Vanilla Blush</name>
+<hex>#fcede4</hex>
+</color>
+<color>
+<name>Vanilla Ice</name>
+<hex>#fdf2d1</hex>
+</color>
+<color>
+<name>Vanishing Point</name>
+<hex>#ddeedd</hex>
+</color>
+<color>
+<name>Vapor</name>
+<hex>#f0ffff</hex>
+</color>
+<color>
+<name>Vapor Trail</name>
+<hex>#f5eedf</hex>
+</color>
+<color>
+<name>Vaporwave</name>
+<hex>#ff66ee</hex>
+</color>
+<color>
+<name>Varnished Ivory</name>
+<hex>#e6dccc</hex>
+</color>
+<color>
+<name>Vegas Gold</name>
+<hex>#c5b358</hex>
+</color>
+<color>
+<name>Vegetarian</name>
+<hex>#22aa00</hex>
+</color>
+<color>
+<name>Vegetation</name>
+<hex>#5ccd97</hex>
+</color>
+<color>
+<name>Velvet</name>
+<hex>#750851</hex>
+</color>
+<color>
+<name>Velvet Black</name>
+<hex>#241f20</hex>
+</color>
+<color>
+<name>Velvet Cosmos</name>
+<hex>#441144</hex>
+</color>
+<color>
+<name>Velvet Magic</name>
+<hex>#bb1155</hex>
+</color>
+<color>
+<name>Velvet Scarf</name>
+<hex>#e3dfec</hex>
+</color>
+<color>
+<name>Velvet Wine</name>
+<hex>#9a435d</hex>
+</color>
+<color>
+<name>Venom Dart</name>
+<hex>#01ff01</hex>
+</color>
+<color>
+<name>Venomous Green</name>
+<hex>#66ff22</hex>
+</color>
+<color>
+<name>Venus</name>
+<hex>#eed053</hex>
+</color>
+<color>
+<name>Venus Mist</name>
+<hex>#5f606e</hex>
+</color>
+<color>
+<name>Venus Slipper Orchid</name>
+<hex>#df73ff</hex>
+</color>
+<color>
+<name>Veranda Gold</name>
+<hex>#af9968</hex>
+</color>
+<color>
+<name>Verde</name>
+<hex>#7fb383</hex>
+</color>
+<color>
+<name>Vermicelle</name>
+<hex>#dabe82</hex>
+</color>
+<color>
+<name>Vermillion</name>
+<hex>#da3b1f</hex>
+</color>
+<color>
+<name>Verminal</name>
+<hex>#55cc11</hex>
+</color>
+<color>
+<name>Very Berry</name>
+<hex>#b73275</hex>
+</color>
+<color>
+<name>Vibrant Blue</name>
+<hex>#0339f8</hex>
+</color>
+<color>
+<name>Vibrant Honey</name>
+<hex>#ffbd31</hex>
+</color>
+<color>
+<name>Vibrant Orange</name>
+<hex>#ff7420</hex>
+</color>
+<color>
+<name>Vibrant Vine</name>
+<hex>#4b373a</hex>
+</color>
+<color>
+<name>Vibrant Yellow</name>
+<hex>#ffda29</hex>
+</color>
+<color>
+<name>Vice City</name>
+<hex>#ee00dd</hex>
+</color>
+<color>
+<name>Vicious Violet</name>
+<hex>#8f509d</hex>
+</color>
+<color>
+<name>Victorian Crown</name>
+<hex>#c38b36</hex>
+</color>
+<color>
+<name>Vienna Roast</name>
+<hex>#330022</hex>
+</color>
+<color>
+<name>Viking Diva</name>
+<hex>#cabae0</hex>
+</color>
+<color>
+<name>Vin Cuit</name>
+<hex>#b47463</hex>
+</color>
+<color>
+<name>Vinaigrette</name>
+<hex>#efdaae</hex>
+</color>
+<color>
+<name>Vineyard</name>
+<hex>#819e84</hex>
+</color>
+<color>
+<name>Vintage</name>
+<hex>#847592</hex>
+</color>
+<color>
+<name>Vintage Copper</name>
+<hex>#9d5f46</hex>
+</color>
+<color>
+<name>Vintage Porcelain</name>
+<hex>#f2edec</hex>
+</color>
+<color>
+<name>Viola</name>
+<hex>#966ebd</hex>
+</color>
+<color>
+<name>Violaceous</name>
+<hex>#bf8fc4</hex>
+</color>
+<color>
+<name>Violent Violet</name>
+<hex>#7f00ff</hex>
+</color>
+<color>
+<name>Violet</name>
+<hex>#9a0eea</hex>
+</color>
+<color>
+<name>Violet Kiss</name>
+<hex>#f0a0d1</hex>
+</color>
+<color>
+<name>Violet Pink</name>
+<hex>#fb5ffc</hex>
+</color>
+<color>
+<name>Violet Poison</name>
+<hex>#8601bf</hex>
+</color>
+<color>
+<name>Violet Vapor</name>
+<hex>#e5dae1</hex>
+</color>
+<color>
+<name>Violet Velvet</name>
+<hex>#b19cd9</hex>
+</color>
+<color>
+<name>Violet Vixen</name>
+<hex>#883377</hex>
+</color>
+<color>
+<name>Virgin Olive Oil</name>
+<hex>#e2dcab</hex>
+</color>
+<color>
+<name>Viridian</name>
+<hex>#1e9167</hex>
+</color>
+<color>
+<name>Virtual Boy</name>
+<hex>#fe0215</hex>
+</color>
+<color>
+<name>Vitamin C</name>
+<hex>#ff9900</hex>
+</color>
+<color>
+<name>Vivid Blue</name>
+<hex>#152eff</hex>
+</color>
+<color>
+<name>Vivid Orange</name>
+<hex>#ff5f00</hex>
+</color>
+<color>
+<name>Vivid Raspberry</name>
+<hex>#ff006c</hex>
+</color>
+<color>
+<name>Vivid Violet</name>
+<hex>#9f00ff</hex>
+</color>
+<color>
+<name>Voila!</name>
+<hex>#af8ba8</hex>
+</color>
+<color>
+<name>Volcanic Ash</name>
+<hex>#6f7678</hex>
+</color>
+<color>
+<name>Volcanic Rock</name>
+<hex>#6b6965</hex>
+</color>
+<color>
+<name>Voldemort</name>
+<hex>#2d135f</hex>
+</color>
+<color>
+<name>Volt</name>
+<hex>#ceff00</hex>
+</color>
+<color>
+<name>Vulcan</name>
+<hex>#36383c</hex>
+</color>
+<color>
+<name>Waffle Cone</name>
+<hex>#e2c779</hex>
+</color>
+<color>
+<name>Waikiki</name>
+<hex>#218ba0</hex>
+</color>
+<color>
+<name>Wakame Green</name>
+<hex>#00656e</hex>
+</color>
+<color>
+<name>Walk in the Park</name>
+<hex>#88bb11</hex>
+</color>
+<color>
+<name>Walnut</name>
+<hex>#773f1a</hex>
+</color>
+<color>
+<name>Walrus</name>
+<hex>#999b9b</hex>
+</color>
+<color>
+<name>Warlord</name>
+<hex>#ba0033</hex>
+</color>
+<color>
+<name>Warm Ash</name>
+<hex>#cfc9c7</hex>
+</color>
+<color>
+<name>Warm Blue</name>
+<hex>#4b57db</hex>
+</color>
+<color>
+<name>Warm Brown</name>
+<hex>#964e02</hex>
+</color>
+<color>
+<name>Warm Light</name>
+<hex>#fff9d8</hex>
+</color>
+<color>
+<name>Warm Pink</name>
+<hex>#fb5581</hex>
+</color>
+<color>
+<name>Warm Purple</name>
+<hex>#952e8f</hex>
+</color>
+<color>
+<name>Warm Welcome</name>
+<hex>#ea9073</hex>
+</color>
+<color>
+<name>Warp Drive</name>
+<hex>#eaf2f1</hex>
+</color>
+<color>
+<name>Warrior</name>
+<hex>#7d685b</hex>
+</color>
+<color>
+<name>Wasabi</name>
+<hex>#afd77f</hex>
+</color>
+<color>
+<name>Wasabi Nori</name>
+<hex>#333300</hex>
+</color>
+<color>
+<name>Washed Dollar</name>
+<hex>#e1e3d7</hex>
+</color>
+<color>
+<name>Wasteland</name>
+<hex>#9c8855</hex>
+</color>
+<color>
+<name>Water</name>
+<hex>#d4f1f9</hex>
+</color>
+<color>
+<name>Water Leaf</name>
+<hex>#b6ecde</hex>
+</color>
+<color>
+<name>Water Lily</name>
+<hex>#dde3d5</hex>
+</color>
+<color>
+<name>Waterfall</name>
+<hex>#3ab0a2</hex>
+</color>
+<color>
+<name>Watermelon</name>
+<hex>#fd4659</hex>
+</color>
+<color>
+<name>Watermelon Milk</name>
+<hex>#dfcfca</hex>
+</color>
+<color>
+<name>Watermelonade</name>
+<hex>#eb4652</hex>
+</color>
+<color>
+<name>Waterworld</name>
+<hex>#00718a</hex>
+</color>
+<color>
+<name>Wave</name>
+<hex>#a5ced5</hex>
+</color>
+<color>
+<name>Wave Splash</name>
+<hex>#cbe4e7</hex>
+</color>
+<color>
+<name>Wavelet</name>
+<hex>#7dc4cd</hex>
+</color>
+<color>
+<name>Wax</name>
+<hex>#ddbb33</hex>
+</color>
+<color>
+<name>Wax Flower</name>
+<hex>#eeb39e</hex>
+</color>
+<color>
+<name>Waxy Corn</name>
+<hex>#f8b500</hex>
+</color>
+<color>
+<name>Way Beyond the Blue</name>
+<hex>#1188cc</hex>
+</color>
+<color>
+<name>We Peep</name>
+<hex>#fdd7d8</hex>
+</color>
+<color>
+<name>Weathered Leather</name>
+<hex>#90614a</hex>
+</color>
+<color>
+<name>Weathered Stone</name>
+<hex>#c4c4c4</hex>
+</color>
+<color>
+<name>Weathered Wood</name>
+<hex>#b19c86</hex>
+</color>
+<color>
+<name>Wedding Dress</name>
+<hex>#fefee7</hex>
+</color>
+<color>
+<name>Wedding in White</name>
+<hex>#fffee5</hex>
+</color>
+<color>
+<name>Weissbier</name>
+<hex>#b3833b</hex>
+</color>
+<color>
+<name>Wet Asphalt</name>
+<hex>#989cab</hex>
+</color>
+<color>
+<name>Wet Concrete</name>
+<hex>#353838</hex>
+</color>
+<color>
+<name>Whale Shark</name>
+<hex>#607c8e</hex>
+</color>
+<color>
+<name>Whale's Tale</name>
+<hex>#115a82</hex>
+</color>
+<color>
+<name>What We Do in the Shadows</name>
+<hex>#441122</hex>
+</color>
+<color>
+<name>Wheat</name>
+<hex>#fbdd7e</hex>
+</color>
+<color>
+<name>Whipped Cream</name>
+<hex>#f2f0e7</hex>
+</color>
+<color>
+<name>Whirlpool</name>
+<hex>#a5d8cd</hex>
+</color>
+<color>
+<name>Whiskers</name>
+<hex>#f6f1e2</hex>
+</color>
+<color>
+<name>Whiskey</name>
+<hex>#d29062</hex>
+</color>
+<color>
+<name>Whiskey Sour</name>
+<hex>#d4915d</hex>
+</color>
+<color>
+<name>Whisky</name>
+<hex>#c2877b</hex>
+</color>
+<color>
+<name>Whisky Cola</name>
+<hex>#772233</hex>
+</color>
+<color>
+<name>Whisky Sour</name>
+<hex>#eeaa33</hex>
+</color>
+<color>
+<name>White</name>
+<hex>#ffffff</hex>
+</color>
+<color>
+<name>White Asparagus</name>
+<hex>#eceabe</hex>
+</color>
+<color>
+<name>White Beach</name>
+<hex>#f5efe5</hex>
+</color>
+<color>
+<name>White Chalk</name>
+<hex>#f6f4f1</hex>
+</color>
+<color>
+<name>White Chocolate</name>
+<hex>#f0e3c7</hex>
+</color>
+<color>
+<name>White Elephant</name>
+<hex>#dedee5</hex>
+</color>
+<color>
+<name>White Mecca</name>
+<hex>#ecf3e1</hex>
+</color>
+<color>
+<name>White Pearl</name>
+<hex>#ede1d1</hex>
+</color>
+<color>
+<name>White Porcelain</name>
+<hex>#f8fbf8</hex>
+</color>
+<color>
+<name>White Russian</name>
+<hex>#f0e0dc</hex>
+</color>
+<color>
+<name>White Sand</name>
+<hex>#f5ebd8</hex>
+</color>
+<color>
+<name>White Smoke</name>
+<hex>#f5f5f5</hex>
+</color>
+<color>
+<name>White Truffle</name>
+<hex>#efdbcd</hex>
+</color>
+<color>
+<name>Wicked Green</name>
+<hex>#9bca47</hex>
+</color>
+<color>
+<name>Widowmaker</name>
+<hex>#99aaff</hex>
+</color>
+<color>
+<name>Wild Berry</name>
+<hex>#7e3a3c</hex>
+</color>
+<color>
+<name>Wild Chocolate</name>
+<hex>#665134</hex>
+</color>
+<color>
+<name>Wild Forest</name>
+<hex>#38914a</hex>
+</color>
+<color>
+<name>Wild Horses</name>
+<hex>#8d6747</hex>
+</color>
+<color>
+<name>Wild Rice</name>
+<hex>#d5bfb4</hex>
+</color>
+<color>
+<name>Wild West</name>
+<hex>#7e5c52</hex>
+</color>
+<color>
+<name>Wild Wheat</name>
+<hex>#e0e1d1</hex>
+</color>
+<color>
+<name>Wildfire</name>
+<hex>#ff8833</hex>
+</color>
+<color>
+<name>Willow Leaf</name>
+<hex>#a1a46d</hex>
+</color>
+<color>
+<name>Wind Chimes</name>
+<hex>#cac5c2</hex>
+</color>
+<color>
+<name>Windfall</name>
+<hex>#84a7ce</hex>
+</color>
+<color>
+<name>Windjammer</name>
+<hex>#62a5df</hex>
+</color>
+<color>
+<name>Windows 95 Desktop</name>
+<hex>#018281</hex>
+</color>
+<color>
+<name>Windsor Toffee</name>
+<hex>#ccb490</hex>
+</color>
+<color>
+<name>Windstorm</name>
+<hex>#6d98c4</hex>
+</color>
+<color>
+<name>Wine Barrel</name>
+<hex>#aa5522</hex>
+</color>
+<color>
+<name>Wine Cellar</name>
+<hex>#70403d</hex>
+</color>
+<color>
+<name>Wine Grape</name>
+<hex>#941751</hex>
+</color>
+<color>
+<name>Wine Stain</name>
+<hex>#69444f</hex>
+</color>
+<color>
+<name>Wine Tasting</name>
+<hex>#492a34</hex>
+</color>
+<color>
+<name>Wine Tour</name>
+<hex>#653b66</hex>
+</color>
+<color>
+<name>Wineberry</name>
+<hex>#663366</hex>
+</color>
+<color>
+<name>Wing Commander</name>
+<hex>#0065ac</hex>
+</color>
+<color>
+<name>Winter Duvet</name>
+<hex>#ffffe0</hex>
+</color>
+<color>
+<name>Winter Storm</name>
+<hex>#4b7079</hex>
+</color>
+<color>
+<name>Winter Wizard</name>
+<hex>#a0e6ff</hex>
+</color>
+<color>
+<name>Wintermint</name>
+<hex>#94d2bf</hex>
+</color>
+<color>
+<name>Wishing Well</name>
+<hex>#d0d1c1</hex>
+</color>
+<color>
+<name>Wisteria</name>
+<hex>#a87dc2</hex>
+</color>
+<color>
+<name>Wisteria Blue</name>
+<hex>#84a2d4</hex>
+</color>
+<color>
+<name>Witchcraft</name>
+<hex>#474c50</hex>
+</color>
+<color>
+<name>Wizard</name>
+<hex>#4d5b88</hex>
+</color>
+<color>
+<name>Wizard's Brew</name>
+<hex>#a090b8</hex>
+</color>
+<color>
+<name>Wolfram</name>
+<hex>#7d8574</hex>
+</color>
+<color>
+<name>Wonder Wine</name>
+<hex>#635d63</hex>
+</color>
+<color>
+<name>Wood Bark</name>
+<hex>#302621</hex>
+</color>
+<color>
+<name>Woodgrain</name>
+<hex>#996633</hex>
+</color>
+<color>
+<name>Woodland Grass</name>
+<hex>#004400</hex>
+</color>
+<color>
+<name>Wormicelles</name>
+<hex>#bb835f</hex>
+</color>
+<color>
+<name>Worn Silver</name>
+<hex>#c9c0bb</hex>
+</color>
+<color>
+<name>Wreath</name>
+<hex>#76856a</hex>
+</color>
+<color>
+<name>Wu-Tang Gold</name>
+<hex>#f8d106</hex>
+</color>
+<color>
+<name>Xmas Candy</name>
+<hex>#990020</hex>
+</color>
+<color>
+<name>Xoxo</name>
+<hex>#f08497</hex>
+</color>
+<color>
+<name>Yacht Club</name>
+<hex>#566062</hex>
+</color>
+<color>
+<name>Yang Mist</name>
+<hex>#ede8dd</hex>
+</color>
+<color>
+<name>Yell Yellow</name>
+<hex>#ffffbf</hex>
+</color>
+<color>
+<name>Yellow</name>
+<hex>#ffff00</hex>
+</color>
+<color>
+<name>Yellow Buzzing</name>
+<hex>#eedd11</hex>
+</color>
+<color>
+<name>Yellow Chalk</name>
+<hex>#f5f9ad</hex>
+</color>
+<color>
+<name>Yellow Submarine</name>
+<hex>#ffff14</hex>
+</color>
+<color>
+<name>Yellowish</name>
+<hex>#faee66</hex>
+</color>
+<color>
+<name>Yeti Footprint</name>
+<hex>#c7d7e0</hex>
+</color>
+<color>
+<name>Yippie Ya Yellow</name>
+<hex>#f9f59f</hex>
+</color>
+<color>
+<name>York Plum</name>
+<hex>#d3bfe5</hex>
+</color>
+<color>
+<name>Yorkshire Cloud</name>
+<hex>#bac3cc</hex>
+</color>
+<color>
+<name>Yoshi</name>
+<hex>#55aa00</hex>
+</color>
+<color>
+<name>Young Crab</name>
+<hex>#f6a09d</hex>
+</color>
+<color>
+<name>Young Night</name>
+<hex>#232323</hex>
+</color>
+<color>
+<name>Young Salmon</name>
+<hex>#ffb6b4</hex>
+</color>
+<color>
+<name>Your Shadow</name>
+<hex>#787e93</hex>
+</color>
+<color>
+<name>Yucca</name>
+<hex>#75978f</hex>
+</color>
+<color>
+<name>Yuma Gold</name>
+<hex>#ffd678</hex>
+</color>
+<color>
+<name>Zen</name>
+<hex>#cfd9de</hex>
+</color>
+<color>
+<name>Zen Garden</name>
+<hex>#d1dac0</hex>
+</color>
+<color>
+<name>Zinc</name>
+<hex>#92898a</hex>
+</color>
+<color>
+<name>Zombie</name>
+<hex>#595a5c</hex>
+</color>
+<color>
+<name>Zucchini</name>
+<hex>#17462e</hex>
+</color>
+<color>
+<name>Zucchini Noodles</name>
+<hex>#c8d07f</hex>
+</color>
+</colors>

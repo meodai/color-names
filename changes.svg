@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 570">
+  <defs>
+    <style type="text/css">
+      @import url('https://rsms.me/inter/inter.css');
+      text {
+        font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        font-size: 40px;
+        font-weight: 900;
+      }
+    </style>
+  </defs>
+  <rect fill="#212121" x="0" y="0" width="600" height="570"/>
+  <text x="40" y="90" fill="#e8dbbd">Biscuit Dough</text><text x="40" y="160" fill="#dbfffe">Cold Canada</text><text x="40" y="230" fill="#edfcfb">Cold White</text><text x="40" y="300" fill="#ee6666">Coral Commander</text><text x="40" y="370" fill="#8822dd">Purple Protest</text><text x="40" y="440" fill="#f7cfb4">Royal Milk Tea</text><text x="40" y="510" fill="#efebd8">Warm White</text>
+</svg>
