@@ -9,7 +9,7 @@
     "pull-colors": "curl 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQube6Y0wHyEtJnjg0eU3N7VseoxVnD4L9uDqvWZdl_tzzrHDVN10IPP7cdFipX8j70atNMLfPCB0Q6/pub?gid=40578722&single=true&output=csv' -o src/colornames.csv",
     "test": "node scripts/build.js --testOnly",
     "clean-dist-folder": "rm -rf dist && mkdir dist",
-    "build": "npm run clean-dist-folder && node scripts/build.js",
+    "build": "npm run clean-dist-folder && node scripts/sort.js && node scripts/build.js",
     "start": "node scripts/server.js",
     "semantic-release": "semantic-release"
   },
