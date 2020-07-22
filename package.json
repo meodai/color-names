@@ -11,7 +11,9 @@
     "clean-dist-folder": "rm -rf dist && mkdir dist",
     "build": "npm run clean-dist-folder && node scripts/build.js",
     "start": "node scripts/server.js",
-    "semantic-release": "semantic-release"
+    "travis-deploy-once": "travis-deploy-once",
+    "semantic-release": "semantic-release",
+    "heroku-postbuild": "echo Skip build on Heroku"
   },
   "repository": {
     "type": "git",
@@ -35,7 +37,8 @@
     "eslint": "^5.15.1",
     "eslint-config-google": "^0.10.0",
     "ghooks": "^2.0.4",
-    "semantic-release": "^17.0.2"
+    "semantic-release": "^17.0.2",
+    "travis-deploy-once": "^5.0.11"
   },
   "engines": {
     "node": ">=8",
@@ -49,5 +52,6 @@
       "path": "cz-conventional-changelog"
     }
   },
-  "dependencies": {}
+  "dependencies": {},
+  "heroku-run-build-script": true
 }
