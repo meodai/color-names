@@ -104,7 +104,7 @@ by adding `?noduplicates=true` every returned name will be unique. The closest c
 ```
 
 #### Good Color-Names
-Not all color-names are created equal; add `?goodnamesonly=true` to your request URL to get a hadpicked subset of names that were rated as good by humans. (Colors that are liked a lot on [twitter](https://twitter.com/color_parrot) and some of the team favourites).
+Not all color-names are created equal; add `?goodnamesonly=true` to your request URL to get a handpicked subset of names that were rated as good by humans. (Colors that are liked a lot on [twitter](https://twitter.com/color_parrot) and some of the team favourites).
 
 ### Usage JS ⌨
 
