@@ -5,6 +5,9 @@
   name:"3AM in Shibuya"
   hex:"#225577"
 -
+  name:"3am Latte"
+  hex:"#c0a98e"
+-
   name:"8Bit Eggplant"
   hex:"#990066"
 -
@@ -16,6 +19,9 @@
 -
   name:"Abyssal Waters"
   hex:"#005765"
+-
+  name:"Acapulco Dive"
+  hex:"#65a7dd"
 -
   name:"Acid Green"
   hex:"#8ffe09"
@@ -257,6 +263,9 @@
   name:"Bambino"
   hex:"#8edacc"
 -
+  name:"Bamboo Forest"
+  hex:"#b1a979"
+-
   name:"Banana"
   hex:"#fffc79"
 -
@@ -490,6 +499,9 @@
 -
   name:"Blackout"
   hex:"#0e0702"
+-
+  name:"Blackwater"
+  hex:"#545663"
 -
   name:"Blanc Cassé"
   hex:"#f1eee2"
@@ -1004,6 +1016,9 @@
   name:"Castaway"
   hex:"#6dbac0"
 -
+  name:"Castaway Beach"
+  hex:"#d0c19f"
+-
   name:"Castle in the Sky"
   hex:"#d1eaed"
 -
@@ -1036,6 +1051,9 @@
 -
   name:"Celestial"
   hex:"#006380"
+-
+  name:"Celestial Horizon"
+  hex:"#7c94b3"
 -
   name:"Cement Feet"
   hex:"#7b737b"
@@ -1175,6 +1193,9 @@
   name:"Chocolate Lust"
   hex:"#993322"
 -
+  name:"Chocolate Temptation"
+  hex:"#956e5f"
+-
   name:"Chocolate Truffle"
   hex:"#612e35"
 -
@@ -1264,6 +1285,9 @@
 -
   name:"Coconut"
   hex:"#965a3e"
+-
+  name:"Coconut Macaroon"
+  hex:"#dacac0"
 -
   name:"Coconut Milk"
   hex:"#f0ede5"
@@ -1553,6 +1577,9 @@
   name:"Dallas Dust"
   hex:"#ece0d6"
 -
+  name:"Dancing Sea"
+  hex:"#1c4d8f"
+-
   name:"Dandelion"
   hex:"#fedf08"
 -
@@ -1714,6 +1741,9 @@
 -
   name:"Desire"
   hex:"#ea3c53"
+-
+  name:"Desired Dawn"
+  hex:"#d8d7d9"
 -
   name:"Detective Coat"
   hex:"#8b8685"
@@ -1888,6 +1918,9 @@
 -
   name:"Dusk"
   hex:"#4e5481"
+-
+  name:"Dusky Mood"
+  hex:"#979ba8"
 -
   name:"Dust Storm"
   hex:"#e7d3b7"
@@ -2203,6 +2236,9 @@
 -
   name:"Fiji Sands"
   hex:"#d8caa9"
+-
+  name:"Film Noir"
+  hex:"#473933"
 -
   name:"Fine Pine"
   hex:"#008800"
@@ -2584,6 +2620,9 @@
 -
   name:"Gangsters Gold"
   hex:"#ffdd22"
+-
+  name:"Garden Goddess"
+  hex:"#99cea0"
 -
   name:"Garden Snail"
   hex:"#cdb1ab"
@@ -3050,6 +3089,9 @@
   name:"Heather Berry"
   hex:"#e75480"
 -
+  name:"Heavenly Sky"
+  hex:"#6b90b3"
+-
   name:"Heavy Brown"
   hex:"#73624a"
 -
@@ -3503,6 +3545,9 @@
   name:"Intimate Journal"
   hex:"#ccbb99"
 -
+  name:"Into the Stratosphere"
+  hex:"#425267"
+-
   name:"Intoxicate"
   hex:"#11bb55"
 -
@@ -3535,6 +3580,9 @@
 -
   name:"Island Coral"
   hex:"#d8877a"
+-
+  name:"Isle of Dreams"
+  hex:"#bcccb5"
 -
   name:"Isolation"
   hex:"#494d55"
@@ -4283,6 +4331,9 @@
   name:"Maiden's Blush"
   hex:"#f3d3bf"
 -
+  name:"Maison Verte"
+  hex:"#e5f0d9"
+-
   name:"Maizena"
   hex:"#fbec5e"
 -
@@ -4697,6 +4748,9 @@
   name:"Moelleux Au Chocolat"
   hex:"#553311"
 -
+  name:"Mohalla"
+  hex:"#a79b7e"
+-
   name:"Moist Gold"
   hex:"#dbdb70"
 -
@@ -4804,6 +4858,9 @@
 -
   name:"Mother Nature"
   hex:"#bde1c4"
+-
+  name:"Motherland"
+  hex:"#bcb667"
 -
   name:"Mount Eden"
   hex:"#e7efe0"
@@ -5831,6 +5888,9 @@
   name:"Pizza"
   hex:"#bf8d3c"
 -
+  name:"Planet Earth"
+  hex:"#daddc3"
+-
   name:"Planet of the Apes"
   hex:"#883333"
 -
@@ -6155,6 +6215,9 @@
   name:"Rampart"
   hex:"#bcb7b1"
 -
+  name:"Ranch House"
+  hex:"#7b645a"
+-
   name:"Rapeseed"
   hex:"#c19a13"
 -
@@ -6175,6 +6238,9 @@
 -
   name:"Redrum"
   hex:"#ff2200"
+-
+  name:"Restful Rain"
+  hex:"#f1f2dd"
 -
   name:"Retro Nectarine"
   hex:"#ef7d16"
@@ -6224,6 +6290,9 @@
   name:"Safety Orange"
   hex:"#ff6600"
 -
+  name:"Sail into the Horizon"
+  hex:"#a3bbdc"
+-
   name:"Salmon Poké Bowl"
   hex:"#ee7777"
 -
@@ -6251,6 +6320,9 @@
   name:"Shin Godzilla"
   hex:"#9a373f"
 -
+  name:"Silent Sea"
+  hex:"#3a4a63"
+-
   name:"Sinister"
   hex:"#12110e"
 -
@@ -6271,6 +6343,9 @@
 -
   name:"Solar Ash"
   hex:"#cc6622"
+-
+  name:"Soufflé"
+  hex:"#cebbb3"
 -
   name:"Sour Green"
   hex:"#c1e613"
@@ -6301,6 +6376,9 @@
 -
   name:"Starship Tonic"
   hex:"#cce7e8"
+-
+  name:"Stormy Oceans"
+  hex:"#70818e"
 -
   name:"Strawberry Dreams"
   hex:"#ff88aa"
@@ -6340,6 +6418,9 @@
 -
   name:"Tartan Red"
   hex:"#b1282a"
+-
+  name:"Tender Shoot"
+  hex:"#e8eace"
 -
   name:"The Vast of Night"
   hex:"#110066"
@@ -6914,6 +6995,9 @@
   name:"Willow Leaf"
   hex:"#a1a46d"
 -
+  name:"Wind Blown"
+  hex:"#dde3e7"
+-
   name:"Wind Chimes"
   hex:"#cac5c2"
 -
@@ -7082,8 +7166,14 @@
   name:"Zen Garden"
   hex:"#d1dac0"
 -
+  name:"Zenith"
+  hex:"#497a9f"
+-
   name:"Zinc"
   hex:"#92898a"
+-
+  name:"Zodiac Constellation"
+  hex:"#ee8844"
 -
   name:"Zombie"
   hex:"#595a5c"
