@@ -1,17 +1,27 @@
 const fs = require('fs');
-const colors = fs.readFileSync('refs.csv').toString().split(`\n`);
+
+//const colors = fs.readFileSync('refs.csv').toString().split(`\n`);
+const colorsSRCfile = fs.readFileSync(__dirname + '/../../color-is-master.json', 'utf8');
+
+const colors = eval(colorsSRCfile);
+
 const namedColors = JSON.parse(
     fs.readFileSync(__dirname + '/../../dist/colornames.json', 'utf8')
 );
 
 const uniqueColors = [];
 
-for(const name in colors) {
+for(const color in colors) {
+  let name = colors[color]['Name'];
   const foundMath = namedColors.find(item => {
-    return item.name.toLowerCase() === colors[name][0].toLowerCase() || item.name.toLowerCase() === colors[name][0].toLowerCase().split(' ').reverse().join(' ');
+    return item.name.toLowerCase() === name.toLowerCase()
+    || item.name.toLowerCase() === name.toLowerCase().split(' ').reverse().join(' ');
   });
   if (!foundMath) {
-    uniqueColors.push(colors[name])
+    uniqueColors.push([
+      name,
+      '#' + colors[color]['HexaDecimal'].toLowerCase()
+    ])
   }
 }
 
