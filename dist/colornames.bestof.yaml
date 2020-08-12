@@ -398,6 +398,9 @@
   name:"Bethlehem Superstar"
   hex:"#eaeeda"
 -
+  name:"Beurre Blanc"
+  hex:"#ede1be"
+-
   name:"Beveled Glass"
   hex:"#7accb8"
 -
@@ -640,6 +643,9 @@
 -
   name:"Borderline Pink"
   hex:"#ee1166"
+-
+  name:"Borlotti Bean"
+  hex:"#d9b1aa"
 -
   name:"Botanical Night"
   hex:"#12403c"
@@ -947,6 +953,9 @@
   name:"Capital Blue"
   hex:"#1a4157"
 -
+  name:"Caponata"
+  hex:"#822a10"
+-
   name:"Cappuccino"
   hex:"#633f33"
 -
@@ -1042,6 +1051,9 @@
 -
   name:"Caviar"
   hex:"#292a2d"
+-
+  name:"Cavolo Nero"
+  hex:"#72939e"
 -
   name:"Cedar Chest"
   hex:"#c95a49"
@@ -1426,6 +1438,9 @@
 -
   name:"Cotton Field"
   hex:"#f2f0e8"
+-
+  name:"Court-Bouillon"
+  hex:"#cecb97"
 -
   name:"Couscous"
   hex:"#ffe29b"
@@ -1985,6 +2000,9 @@
   name:"EGA Green"
   hex:"#01ff07"
 -
+  name:"Egg Toast"
+  hex:"#f2c911"
+-
   name:"Egg Yolk"
   hex:"#ffce81"
 -
@@ -2513,6 +2531,9 @@
   name:"Fresh Snow"
   hex:"#f6efe1"
 -
+  name:"Fricassée"
+  hex:"#ffe6c2"
+-
   name:"Frog"
   hex:"#58bc08"
 -
@@ -2864,8 +2885,14 @@
   name:"Grasshopper"
   hex:"#77824a"
 -
+  name:"Gratin Dauphinois"
+  hex:"#e0d2a9"
+-
   name:"Grauzone"
   hex:"#85a3b2"
+-
+  name:"Gravlax"
+  hex:"#ec834f"
 -
   name:"Great Void"
   hex:"#3b5760"
@@ -3812,6 +3839,9 @@
   name:"Kirby"
   hex:"#d74894"
 -
+  name:"Kirsch"
+  hex:"#b2132b"
+-
   name:"Kiss"
   hex:"#d28ca7"
 -
@@ -3890,6 +3920,9 @@
   name:"Lake Lucerne"
   hex:"#689db7"
 -
+  name:"Laksa"
+  hex:"#e6bf95"
+-
   name:"Lama"
   hex:"#e0bb95"
 -
@@ -3898,6 +3931,9 @@
 -
   name:"Landjäger"
   hex:"#af403c"
+-
+  name:"Langoustine"
+  hex:"#dc5226"
 -
   name:"Larb Gai"
   hex:"#dfc6aa"
@@ -4453,6 +4489,9 @@
 -
   name:"Masala"
   hex:"#57534b"
+-
+  name:"Mascarpone"
+  hex:"#ece6d4"
 -
   name:"Master Chief"
   hex:"#507d2a"
@@ -6185,6 +6224,9 @@
   name:"Quicksilver"
   hex:"#a6a6a6"
 -
+  name:"Quince"
+  hex:"#d4cb60"
+-
   name:"Race the Sun"
   hex:"#eef3d0"
 -
@@ -6229,6 +6271,9 @@
 -
   name:"Raspberry"
   hex:"#b00149"
+-
+  name:"Ravioli al Limone"
+  hex:"#fade79"
 -
   name:"Red Elegance"
   hex:"#85464b"
@@ -6361,6 +6406,9 @@
 -
   name:"Spectacular Purple"
   hex:"#bb00ff"
+-
+  name:"Spicy Sweetcorn"
+  hex:"#f6ac00"
 -
   name:"Splashing Wave"
   hex:"#44ddff"
