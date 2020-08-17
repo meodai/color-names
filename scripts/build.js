@@ -184,7 +184,7 @@ const outputFormats = {
     insertBefore: ':root{\r\n--color-',
     beforeValue: '',
     afterValue: '',
-    insertAfter: '};',
+    insertAfter: '}',
     itemDelimitor: ':',
     rowDelimitor: ';\r\n--color-',
   },
