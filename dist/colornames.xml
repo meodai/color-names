@@ -1037,6 +1037,10 @@
 <hex>#939b71</hex>
 </color>
 <color>
+<name>Alarm</name>
+<hex>#ec0003</hex>
+</color>
+<color>
 <name>Alarming Slime</name>
 <hex>#2ce335</hex>
 </color>
@@ -7589,6 +7593,10 @@
 <hex>#b64701</hex>
 </color>
 <color>
+<name>Beef Hotpot</name>
+<hex>#a85d2e</hex>
+</color>
+<color>
 <name>Beef Jerky</name>
 <hex>#a25768</hex>
 </color>
@@ -7830,7 +7838,7 @@
 </color>
 <color>
 <name>Beluga</name>
-<hex>#4a4843</hex>
+<hex>#eff2f1</hex>
 </color>
 <color>
 <name>Belvedere Cream</name>
@@ -7903,6 +7911,10 @@
 <color>
 <name>Bento Box</name>
 <hex>#cc363c</hex>
+</color>
+<color>
+<name>Bergamot</name>
+<hex>#95c703</hex>
 </color>
 <color>
 <name>Bergamot Orange</name>
@@ -14829,6 +14841,10 @@
 <hex>#1e4d2b</hex>
 </color>
 <color>
+<name>Cala Benirrás Blue</name>
+<hex>#0ac2c2</hex>
+</color>
+<color>
 <name>Calabash</name>
 <hex>#f8eb97</hex>
 </color>
@@ -15935,6 +15951,10 @@
 <color>
 <name>Caramel Cream</name>
 <hex>#f4ba94</hex>
+</color>
+<color>
+<name>Caramel Crumb</name>
+<hex>#c39355</hex>
 </color>
 <color>
 <name>Caramel Cupcake</name>
@@ -18039,6 +18059,10 @@
 <color>
 <name>Cheesus</name>
 <hex>#ffcc77</hex>
+</color>
+<color>
+<name>Cheesy Frittata</name>
+<hex>#f0e093</hex>
 </color>
 <color>
 <name>Cheesy Grin</name>
@@ -21057,6 +21081,10 @@
 <hex>#d9e7e6</hex>
 </color>
 <color>
+<name>Cold Spring</name>
+<hex>#88bb66</hex>
+</color>
+<color>
 <name>Cold Steel</name>
 <hex>#262335</hex>
 </color>
@@ -22377,6 +22405,10 @@
 <hex>#cfb3a6</hex>
 </color>
 <color>
+<name>Cosmic Bit Flip</name>
+<hex>#001000</hex>
+</color>
+<color>
 <name>Cosmic Blue</name>
 <hex>#93c3cb</hex>
 </color>
@@ -22395,6 +22427,10 @@
 <color>
 <name>Cosmic Energy</name>
 <hex>#9392ab</hex>
+</color>
+<color>
+<name>Cosmic Explorer</name>
+<hex>#551155</hex>
 </color>
 <color>
 <name>Cosmic Latte</name>
@@ -24797,6 +24833,10 @@
 <hex>#5c8774</hex>
 </color>
 <color>
+<name>Dark Knight</name>
+<hex>#151931</hex>
+</color>
+<color>
 <name>Dark Lagoon</name>
 <hex>#6a7f7d</hex>
 </color>
@@ -26355,6 +26395,10 @@
 <color>
 <name>Dense Shrub</name>
 <hex>#636d65</hex>
+</color>
+<color>
+<name>Dent Corn</name>
+<hex>#f2b717</hex>
 </color>
 <color>
 <name>Dentist Green</name>
@@ -28737,6 +28781,10 @@
 <hex>#c0dccd</hex>
 </color>
 <color>
+<name>Dusty Attic</name>
+<hex>#bfb6a3</hex>
+</color>
+<color>
 <name>Dusty Blue</name>
 <hex>#8c9dad</hex>
 </color>
@@ -30935,6 +30983,10 @@
 <color>
 <name>Estragon</name>
 <hex>#a5af76</hex>
+</color>
+<color>
+<name>Estroruby</name>
+<hex>#9b101f</hex>
 </color>
 <color>
 <name>Estuary Blue</name>
@@ -35669,6 +35721,10 @@
 <hex>#30555d</hex>
 </color>
 <color>
+<name>Frozen Tomato</name>
+<hex>#dd5533</hex>
+</color>
+<color>
 <name>Frozen Tundra</name>
 <hex>#a3bfcb</hex>
 </color>
@@ -38373,6 +38429,10 @@
 <hex>#f6da74</hex>
 </color>
 <color>
+<name>Golden Relic</name>
+<hex>#e8ce49</hex>
+</color>
+<color>
 <name>Golden Retriever</name>
 <hex>#eedec7</hex>
 </color>
@@ -38407,6 +38467,10 @@
 <color>
 <name>Golden Spice</name>
 <hex>#c6973f</hex>
+</color>
+<color>
+<name>Golden Staff</name>
+<hex>#f7eb83</hex>
 </color>
 <color>
 <name>Golden Straw</name>
@@ -41333,6 +41397,10 @@
 <hex>#bdc6dc</hex>
 </color>
 <color>
+<name>Halt and Catch Fire</name>
+<hex>#ff6633</hex>
+</color>
+<color>
 <name>Halt Red</name>
 <hex>#ff004f</hex>
 </color>
@@ -43799,6 +43867,10 @@
 <color>
 <name>Hopeful Dream</name>
 <hex>#95a9cd</hex>
+</color>
+<color>
+<name>Hopi Blue Corn</name>
+<hex>#174871</hex>
 </color>
 <color>
 <name>Hopi Moccasin</name>
@@ -47191,6 +47263,10 @@
 <color>
 <name>Jube Green</name>
 <hex>#78cf86</hex>
+</color>
+<color>
+<name>Jubilant Jade</name>
+<hex>#44aa77</hex>
 </color>
 <color>
 <name>Jubilation</name>
@@ -59809,6 +59885,10 @@
 <hex>#beb1b0</hex>
 </color>
 <color>
+<name>Moussaka</name>
+<hex>#6d2a13</hex>
+</color>
+<color>
 <name>Mousy Brown</name>
 <hex>#5c4939</hex>
 </color>
@@ -59855,6 +59935,10 @@
 <color>
 <name>Mozart</name>
 <hex>#485480</hex>
+</color>
+<color>
+<name>Mozzarella Covered Chorizo</name>
+<hex>#e39b7a</hex>
 </color>
 <color>
 <name>Mr Frosty</name>
@@ -60487,6 +60571,10 @@
 <color>
 <name>Mystic Light</name>
 <hex>#dde5ec</hex>
+</color>
+<color>
+<name>Mystic Magenta</name>
+<hex>#e02e82</hex>
 </color>
 <color>
 <name>Mystic Maroon</name>
@@ -68365,6 +68453,10 @@
 <hex>#826663</hex>
 </color>
 <color>
+<name>Pharmaceutical Green</name>
+<hex>#087e34</hex>
+</color>
+<color>
 <name>Pharmacy Green</name>
 <hex>#005500</hex>
 </color>
@@ -73717,6 +73809,10 @@
 <hex>#b393c0</hex>
 </color>
 <color>
+<name>Quiche Lorraine</name>
+<hex>#fed56f</hex>
+</color>
+<color>
 <name>Quicksand</name>
 <hex>#ac9884</hex>
 </color>
@@ -75239,6 +75335,10 @@
 <color>
 <name>Red Red Wine</name>
 <hex>#814142</hex>
+</color>
+<color>
+<name>Red Remains</name>
+<hex>#ffe0de</hex>
 </color>
 <color>
 <name>Red Revival</name>
@@ -81817,6 +81917,10 @@
 <hex>#a9b4ba</hex>
 </color>
 <color>
+<name>Shaving Cream</name>
+<hex>#e1e5e5</hex>
+</color>
+<color>
 <name>Shawarma</name>
 <hex>#dd9955</hex>
 </color>
@@ -83103,6 +83207,10 @@
 <color>
 <name>Silver Sky</name>
 <hex>#eaece9</hex>
+</color>
+<color>
+<name>Silver Snippet</name>
+<hex>#8e9090</hex>
 </color>
 <color>
 <name>Silver Spoon</name>
@@ -86377,6 +86485,10 @@
 <hex>#f5eae3</hex>
 </color>
 <color>
+<name>Spoonful of Sugar</name>
+<hex>#e7e9e3</hex>
+</color>
+<color>
 <name>Spores</name>
 <hex>#7f8162</hex>
 </color>
@@ -86999,6 +87111,10 @@
 <color>
 <name>Star of Gold</name>
 <hex>#ebe3c7</hex>
+</color>
+<color>
+<name>Star of Life</name>
+<hex>#057bc1</hex>
 </color>
 <color>
 <name>Star of Morning</name>

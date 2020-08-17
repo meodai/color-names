@@ -38,6 +38,9 @@
   name:"Airborne"
   hex:"#a2c2d0"
 -
+  name:"Alarm"
+  hex:"#ec0003"
+-
   name:"Alien Abduction"
   hex:"#0cff0c"
 -
@@ -377,6 +380,9 @@
   name:"Below Zero"
   hex:"#87cded"
 -
+  name:"Beluga"
+  hex:"#eff2f1"
+-
   name:"Benevolent Pink"
   hex:"#dd1188"
 -
@@ -385,6 +391,9 @@
 -
   name:"Bento Box"
   hex:"#cc363c"
+-
+  name:"Bergamot"
+  hex:"#95c703"
 -
   name:"Bermuda"
   hex:"#1b7d8d"
@@ -971,6 +980,9 @@
   name:"Caramel Coating"
   hex:"#bb7711"
 -
+  name:"Caramel Crumb"
+  hex:"#c39355"
+-
   name:"Caramel Finish"
   hex:"#ffd59a"
 -
@@ -1126,6 +1138,9 @@
 -
   name:"Cheesus"
   hex:"#ffcc77"
+-
+  name:"Cheesy Frittata"
+  hex:"#f0e093"
 -
   name:"Cherry"
   hex:"#cf0234"
@@ -1430,6 +1445,12 @@
   name:"Cosmic"
   hex:"#b8b9cb"
 -
+  name:"Cosmic Bit Flip"
+  hex:"#001000"
+-
+  name:"Cosmic Explorer"
+  hex:"#551155"
+-
   name:"Cotton Ball"
   hex:"#f2f7fd"
 -
@@ -1634,6 +1655,9 @@
   name:"Dark Galaxy"
   hex:"#0018a8"
 -
+  name:"Dark Knight"
+  hex:"#151931"
+-
   name:"Dark Matter"
   hex:"#110101"
 -
@@ -1678,6 +1702,9 @@
 -
   name:"Darth Vader"
   hex:"#0b0b0b"
+-
+  name:"Day On Mercury"
+  hex:"#d5d2d1"
 -
   name:"Dead Forest"
   hex:"#434b4f"
@@ -2564,6 +2591,9 @@
   name:"Frozen Salmon"
   hex:"#fea993"
 -
+  name:"Frozen Tomato"
+  hex:"#dd5533"
+-
   name:"Frozen Turquoise"
   hex:"#53f6ff"
 -
@@ -2813,6 +2843,9 @@
   name:"Gold Vein"
   hex:"#d6b956"
 -
+  name:"Golden Blood"
+  hex:"#ff1155"
+-
   name:"Golden Boy"
   hex:"#ffdd44"
 -
@@ -2821,6 +2854,9 @@
 -
   name:"Golden Ginkgo"
   hex:"#f9f525"
+-
+  name:"Golden Relic"
+  hex:"#e8ce49"
 -
   name:"Golden Retriever"
   hex:"#eedec7"
@@ -3722,6 +3758,9 @@
   name:"Joker's Smile"
   hex:"#d70141"
 -
+  name:"Jubilant Jade"
+  hex:"#44aa77"
+-
   name:"Juggernaut"
   hex:"#255367"
 -
@@ -4369,6 +4408,9 @@
 -
   name:"Maison Verte"
   hex:"#e5f0d9"
+-
+  name:"Maize"
+  hex:"#f4d054"
 -
   name:"Maizena"
   hex:"#fbec5e"
@@ -5029,6 +5071,9 @@
 -
   name:"Mysterious Blue"
   hex:"#3e7a85"
+-
+  name:"Mystic Magenta"
+  hex:"#e02e82"
 -
   name:"Namibia"
   hex:"#7c6d61"
@@ -5753,6 +5798,9 @@
   name:"Phantom"
   hex:"#6e797b"
 -
+  name:"Pharmaceutical Green"
+  hex:"#087e34"
+-
   name:"Phaser Beam"
   hex:"#ff4d00"
 -
@@ -6218,6 +6266,9 @@
   name:"Queer Blue"
   hex:"#88ace0"
 -
+  name:"Quiche Lorraine"
+  hex:"#fed56f"
+-
   name:"Quicksand"
   hex:"#ac9884"
 -
@@ -6359,6 +6410,9 @@
   name:"Sereni Teal"
   hex:"#76baa8"
 -
+  name:"Shaving Cream"
+  hex:"#e1e5e5"
+-
   name:"Shimmering Love"
   hex:"#ff88cc"
 -
@@ -6415,6 +6469,9 @@
 -
   name:"Stainless Steel"
   hex:"#b4bdc7"
+-
+  name:"Star of Life"
+  hex:"#057bc1"
 -
   name:"Starlit Night"
   hex:"#3b476b"

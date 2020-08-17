@@ -258,6 +258,7 @@ Alaitoc Blue,#8e8c97
 Alajuela Toad,#ffae52
 Alameda Ochre,#ca9234
 Alamosa Green,#939b71
+Alarm,#ec0003
 Alarming Slime,#2ce335
 Alaskan Blue,#6da9d2
 Alaskan Cruise,#34466c
@@ -1896,6 +1897,7 @@ Beech Nut,#d7b59a
 Beechnut,#c2c18d
 Beechwood,#6e5955
 Beef Bourguignon,#b64701
+Beef Hotpot,#a85d2e
 Beef Jerky,#a25768
 Beehive,#e1b781
 Beekeeper,#f6e491
@@ -1956,7 +1958,7 @@ Belly Fire,#773b38
 Belly Flop,#00817f
 Beloved Pink,#e9d3d4
 Below Zero,#87cded
-Beluga,#4a4843
+Beluga,#eff2f1
 Belvedere Cream,#e3dbc3
 Belyi White,#f0f1e1
 Benevolence,#694977
@@ -1975,6 +1977,7 @@ Benitoite,#007baa
 Beniukon Bronze,#fb8136
 Benthic Black,#000011
 Bento Box,#cc363c
+Bergamot,#95c703
 Bergamot Orange,#f59d59
 Bering Sea,#4b5b6e
 Bering Wave,#3d6d84
@@ -3706,6 +3709,7 @@ Cake Dough,#fce0a8
 Cake Frosting,#f9dfe5
 Cake Spice,#d6a672
 Cal Poly Pomona Green,#1e4d2b
+Cala Benirrás Blue,#0ac2c2
 Calabash,#f8eb97
 Calabash Clash,#728478
 Calabrese,#f4a6a3
@@ -3983,6 +3987,7 @@ Caramel Candy,#b3715d
 Caramel Cloud,#d4af85
 Caramel Coating,#bb7711
 Caramel Cream,#f4ba94
+Caramel Crumb,#c39355
 Caramel Cupcake,#b98c5d
 Caramel Finish,#ffd59a
 Caramel Ice,#eec9aa
@@ -4509,6 +4514,7 @@ Cheese Powder,#ffe4be
 Cheese Puff,#ffb96f
 Cheesecake,#fffcda
 Cheesus,#ffcc77
+Cheesy Frittata,#f0e093
 Cheesy Grin,#fae195
 Chefchaouen Blue,#a3d1e8
 Chelsea Cucumber,#88a95b
@@ -5263,6 +5269,7 @@ Cold Purple,#9d8abf
 Cold Sea Currents,#32545e
 Cold Shoulder,#d4e0ef
 Cold Soft Blue,#d9e7e6
+Cold Spring,#88bb66
 Cold Steel,#262335
 Cold Turbulence,#cfe1ef
 Cold Turkey,#cab5b2
@@ -5593,11 +5600,13 @@ Cosmetic Mauve,#d3bed5
 Cosmetic Red,#a56078
 Cosmic,#b8b9cb
 Cosmic Aura,#cfb3a6
+Cosmic Bit Flip,#001000
 Cosmic Blue,#93c3cb
 Cosmic Cobalt,#2e2d88
 Cosmic Coral,#e77e6c
 Cosmic Dust,#dce2e5
 Cosmic Energy,#9392ab
+Cosmic Explorer,#551155
 Cosmic Latte,#fff8e7
 Cosmic Quest,#9ea19f
 Cosmic Ray,#cadada
@@ -6198,6 +6207,7 @@ Dark Imperial Blue,#00416a
 Dark Iris,#4d5a7e
 Dark Ivy,#5b7763
 Dark Jade,#5c8774
+Dark Knight,#151931
 Dark Lagoon,#6a7f7d
 Dark Lavender,#856798
 Dark Lemon Lime,#8bbe1b
@@ -6588,6 +6598,7 @@ Denim Drift,#7c8d96
 Denim Light,#b8cad5
 Denim Tradition,#7f97b5
 Dense Shrub,#636d65
+Dent Corn,#f2b717
 Dentist Green,#99d590
 Denver River,#7795c1
 Dépaysement,#e7d8c7
@@ -7183,6 +7194,7 @@ Dusted Peri,#696ba0
 Dusting Powder,#e7ece8
 Dustwallow Marsh,#685243
 Dusty Aqua,#c0dccd
+Dusty Attic,#bfb6a3
 Dusty Blue,#8c9dad
 Dusty Cedar,#dd9592
 Dusty Chestnut,#847163
@@ -7733,6 +7745,7 @@ Estate Blue,#233658
 Estate Limestone,#dccdb4
 Estate Vineyard,#68454b
 Estragon,#a5af76
+Estroruby,#9b101f
 Estuary Blue,#70a5b7
 Etcetera,#e1c6d4
 Etched Glass,#dde2e2
@@ -8916,6 +8929,7 @@ Frozen Salmon,#fea993
 Frozen State,#26f7fd
 Frozen Statues,#e1dee5
 Frozen Stream,#30555d
+Frozen Tomato,#dd5533
 Frozen Tundra,#a3bfcb
 Frozen Turquoise,#53f6ff
 Frozen Wave,#56acca
@@ -9592,6 +9606,7 @@ Golden Quartz Ochre,#aa8a58
 Golden Rain Yellow,#ffb657
 Golden Raspberry,#f8d878
 Golden Rays,#f6da74
+Golden Relic,#e8ce49
 Golden Retriever,#eedec7
 Golden Rice,#e3d474
 Golden Rule,#daae49
@@ -9601,6 +9616,7 @@ Golden Schnitzel,#ddbb11
 Golden Slumber,#b98841
 Golden Snitch,#f1e346
 Golden Spice,#c6973f
+Golden Staff,#f7eb83
 Golden Straw,#f5edae
 Golden Summer,#816945
 Golden Syrup,#ebd8b3
@@ -10332,6 +10348,7 @@ Halloween Orange,#eb6123
 Halloween Punch,#dd2211
 Halo,#e2c392
 Halogen Blue,#bdc6dc
+Halt and Catch Fire,#ff6633
 Halt Red,#ff004f
 Hamilton Blue,#8a99a4
 Hammam Blue,#65dcd6
@@ -10949,6 +10966,7 @@ Hope Chest,#875942
 Hopeful,#f2d4e2
 Hopeful Blue,#a2b9bf
 Hopeful Dream,#95a9cd
+Hopi Blue Corn,#174871
 Hopi Moccasin,#ffe4b5
 Hopscotch,#afbb42
 Horchata,#f2e9d9
@@ -11797,6 +11815,7 @@ Joyous Song,#5b365e
 Jú Huáng Tangerine,#f9900f
 Jube,#4b373c
 Jube Green,#78cf86
+Jubilant Jade,#44aa77
 Jubilation,#fbdd24
 Jubilee,#7e6099
 Jubilee Grey,#7c7379
@@ -14951,6 +14970,7 @@ Mouse Catcher,#9e928f
 Mouse Nose,#ffe5b4
 Mouse Tail,#727664
 Mouse Trap,#beb1b0
+Moussaka,#6d2a13
 Mousy Brown,#5c4939
 Mousy Indigo,#5c544e
 Moutarde de Bénichon,#bf9005
@@ -14963,6 +14983,7 @@ Mown Grass,#627948
 Mown Hay,#e6d3bb
 Moxie,#e5dad8
 Mozart,#485480
+Mozzarella Covered Chorizo,#e39b7a
 Mr Frosty,#a3c5db
 Mr Mustard,#e4b857
 Mr. Glass,#c0d5ef
@@ -15121,6 +15142,7 @@ Mystic Green,#d8f878
 Mystic Harbor,#d2e4ee
 Mystic Iris,#8596d2
 Mystic Light,#dde5ec
+Mystic Magenta,#e02e82
 Mystic Maroon,#ad4379
 Mystic Mauve,#dbb7ba
 Mystic Melon,#edebb4
@@ -17090,6 +17112,7 @@ Pharaoh's Gem,#007367
 Pharaoh's Jade,#83d1a9
 Pharaoh's Seas,#59bbc2
 Pharlap,#826663
+Pharmaceutical Green,#087e34
 Pharmacy Green,#005500
 Phaser Beam,#ff4d00
 Pheasant,#c68463
@@ -18428,6 +18451,7 @@ Quest,#bdc1c1
 Question Mark Block,#ef9a49
 Quetzal Green,#006865
 Quibble,#b393c0
+Quiche Lorraine,#fed56f
 Quicksand,#ac9884
 Quicksilver,#a6a6a6
 Quiet Bay,#6597cc
@@ -18809,6 +18833,7 @@ Red Radish,#ee3344
 Red Rampage,#ee3322
 Red Red Red,#91403d
 Red Red Wine,#814142
+Red Remains,#ffe0de
 Red Revival,#a8453b
 Red Ribbon,#ed0a3f
 Red Riding Hood,#fe2713
@@ -20453,6 +20478,7 @@ Shattered Sky,#d0dde9
 Shattered White,#f1f1e5
 Shaved Chocolate,#543b35
 Shaved Ice,#a9b4ba
+Shaving Cream,#e1e5e5
 Shawarma,#dd9955
 She Loves Pink,#e39b96
 Shea,#f8f1eb
@@ -20775,6 +20801,7 @@ Silver Setting,#d8dadb
 Silver Shadow,#d8dad8
 Silver Skate,#87a1b1
 Silver Sky,#eaece9
+Silver Snippet,#8e9090
 Silver Spoon,#d3d3d2
 Silver Springs,#b7bdc4
 Silver Spruce,#cadfdd
@@ -21593,6 +21620,7 @@ Spooky,#d1d2bf
 Spooky Ghost,#d4d1d9
 Spooky Graveyard,#685e4f
 Spooled White,#f5eae3
+Spoonful of Sugar,#e7e9e3
 Spores,#7f8162
 Sport Green,#00a27d
 Sport Yellow,#efd678
@@ -21749,6 +21777,7 @@ Star Magic,#e4d8d8
 Star Map,#dae2e9
 Star Mist,#b3c6ce
 Star of Gold,#ebe3c7
+Star of Life,#057bc1
 Star of Morning,#ebbbbe
 Star Sapphire,#386192
 Star Shine,#f8f6e3
