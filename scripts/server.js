@@ -153,8 +153,7 @@ const requestHandler = (request, response) => {
   // understanding where requests come from
   console.log(
       'request from',
-      request.headers.origin,
-      request.headers.referrer
+      request.headers.origin
   );
 
   // makes sure the API is beeing requested
