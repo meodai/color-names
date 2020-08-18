@@ -29,26 +29,30 @@ const responseHeaderObj = {
 const rgbColorsArr = [];
 const rgbColorsArrBestOf = [];
 
-// prepare color array
-colors.forEach((c) => {
-  const rgb = lib.hexToRgb(c.hex);
+/**
+ * entriches color object and fills RGB color arrays
+ * Warning: Not a pure function at all :D
+ * @param   {object} colorObj hex representation of color
+ * @param   {array} rgbColorArrRef reference to RGB color array
+ * @return  {object} enriched color object
+ */
+const enrichColorObj = (colorObj, rgbColorArrRef) => {
+  const rgb = lib.hexToRgb(colorObj.hex);
   // populates array needed for ClosestVector()
-  rgbColorsArr.push([rgb.r, rgb.g, rgb.b]);
+  rgbColorArrRef.push([rgb.r, rgb.g, rgb.b]);
   // transform hex to RGB
-  c.rgb = rgb;
+  colorObj.rgb = rgb;
+  // get hsl color value
+  colorObj.hsl = lib.rgbToHsl(...Object.values(rgb));
   // calculate luminancy for each color
-  c.luminance = lib.luminance(rgb);
-});
+  colorObj.luminance = lib.luminance(rgb);
 
-colorsBestOf.forEach((c) => {
-  const rgb = lib.hexToRgb(c.hex);
-  // populates array needed for ClosestVector()
-  rgbColorsArrBestOf.push([rgb.r, rgb.g, rgb.b]);
-  // transform hex to RGB
-  c.rgb = rgb;
-  // calculate luminancy for each color
-  c.luminance = lib.luminance(rgb);
-});
+  return colorObj;
+};
+
+// prepare color array
+colors.forEach((c) => enrichColorObj(c, rgbColorsArr));
+colorsBestOf.forEach((c) => enrichColorObj(c, rgbColorsArrBestOf));
 
 const closest = new ClosestVector(rgbColorsArr);
 const closestBestOf = new ClosestVector(rgbColorsArrBestOf);
@@ -87,20 +91,17 @@ const nameColors = (colorArr, unique = false, bestOf = false) => {
     const closestColor = localClosest.get([rgb.r, rgb.g, rgb.b]);
     const color = bestOf ? colorsBestOf[closestColor.index] :
                            colors[closestColor.index];
-
     return {
-      hex: color.hex,
-      name: color.name,
-      rgb: color.rgb,
+      ...color,
       requestedHex: `#${hex}`,
-      luminance: color.luminance,
       distance: Math.sqrt(
-          Math.pow(color.rgb.r - rgb.r, 2) +
-          Math.pow(color.rgb.g - rgb.g, 2) +
-          Math.pow(color.rgb.b - rgb.b, 2)
+        Math.pow(color.rgb.r - rgb.r, 2) +
+        Math.pow(color.rgb.g - rgb.g, 2) +
+        Math.pow(color.rgb.b - rgb.b, 2)
       ),
-    };
+    }
   });
+
   if (unique) {
     localClosest.clearCache();
   }
