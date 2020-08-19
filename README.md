@@ -185,6 +185,7 @@ See [package.json](package.json#L6) for more.
 
 - [meodai] Initiator, maintainer, name creator &, tooling
 - [Nirazul] Name creator & tooling
+- [Bathos] Tooling
 - [Metafizzy] Logo Sponsor 💖
 
 ### Color Namers
@@ -228,6 +229,7 @@ As some of the color names come from other lists, some bad ones might slip in. [
 [Jason Wilson]: https://github.com/SgiobairOg
 [Jess the name wizzard]: https://twitter.com/_nutbird_
 [meodai]: https://github.com/meodai
+[Bathos]: https://github.com/bathos
 [Metafizzy]: https://metafizzy.co/
 [Nick Niles]: http://nickniles.com/
 [Nirazul]: https://github.com/Nirazul
