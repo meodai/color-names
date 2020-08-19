@@ -54,6 +54,9 @@ const enrichColorObj = (colorObj, rgbColorArrRef) => {
 colors.forEach((c) => enrichColorObj(c, rgbColorsArr));
 colorsBestOf.forEach((c) => enrichColorObj(c, rgbColorsArrBestOf));
 
+Object.freeze(colors);
+Object.freeze(colorsBestOf);
+
 const closest = new ClosestVector(rgbColorsArr);
 const closestBestOf = new ClosestVector(rgbColorsArrBestOf);
 
