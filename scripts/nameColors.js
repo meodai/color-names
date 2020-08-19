@@ -1,5 +1,5 @@
 const lib = require('./lib.js');
-const ClosestVector = require('../node_modules/closestvector/.');
+const ClosestVector = require('closestvector');
 
 /**
  * entriches color object and fills RGB color arrays
