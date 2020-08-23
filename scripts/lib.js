@@ -111,7 +111,7 @@ module.exports = {
       return {
         r: value >> 16,
         g: value >> 8 & 0xFF,
-        b: value & 0xFF
+        b: value & 0xFF,
       };
     } else if (short) {
       const rgbArray = Array.from(short,

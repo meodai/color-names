@@ -32,6 +32,7 @@ const src = fs.readFileSync(
     path.normalize(`${baseFolder}${folderSrc}${fileNameSrc}.csv`),
     'utf8'
 ).toString();
+
 const colorsSrc = parseCSVString(src);
 
 // sort by sorting criteria

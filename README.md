@@ -1,4 +1,4 @@
-# __25571__ color-names
+# handpicked color names
 
 <img align="right" height="222" width="222" src="https://meodai.github.io/color-names/logo/cockatoo-fill.svg">
 

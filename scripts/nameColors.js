@@ -68,6 +68,7 @@ module.exports = class NameColors {
       const closestColor = localClosest.get([rgb.r, rgb.g, rgb.b]);
       const color = bestOf ? this.colorsBestOf[closestColor.index] :
         this.colors[closestColor.index];
+
       return {
         ...color,
         requestedHex: `#${hex}`,
