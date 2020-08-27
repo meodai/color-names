@@ -311,6 +311,9 @@
   name:"Bat Wing"
   hex:"#7e7466"
 -
+  name:"Bat-Signal"
+  hex:"#feff00"
+-
   name:"Bat's Blood Soup"
   hex:"#ee3366"
 -
@@ -2345,6 +2348,9 @@
   name:"Fish Bone"
   hex:"#e4d9c5"
 -
+  name:"Fish Boy"
+  hex:"#11dddd"
+-
   name:"Fish Ceviche"
   hex:"#e1e1d5"
 -
@@ -4136,6 +4142,9 @@
   name:"Lilac"
   hex:"#cea2fd"
 -
+  name:"Lilac Lotion"
+  hex:"#ff3388"
+-
   name:"Lilac Spring"
   hex:"#8822cc"
 -
@@ -4849,9 +4858,6 @@
 -
   name:"Mohalla"
   hex:"#a79b7e"
--
-  name:"Moist Gold"
-  hex:"#dbdb70"
 -
   name:"Mojito"
   hex:"#e4f3e0"
@@ -5596,6 +5602,9 @@
 -
   name:"Pasta"
   hex:"#f7dfaf"
+-
+  name:"Pasta Rasta"
+  hex:"#eec474"
 -
   name:"Pastel Blue"
   hex:"#a2bffe"
@@ -6443,6 +6452,9 @@
   name:"Shin Godzilla"
   hex:"#9a373f"
 -
+  name:"Shōji"
+  hex:"#ded5c7"
+-
   name:"Silent Sea"
   hex:"#3a4a63"
 -
@@ -6481,6 +6493,9 @@
 -
   name:"Space Exploration"
   hex:"#001199"
+-
+  name:"Spaghetti Monster"
+  hex:"#eecc88"
 -
   name:"Spectacular Purple"
   hex:"#bb00ff"
@@ -6550,6 +6565,9 @@
 -
   name:"Tartan Red"
   hex:"#b1282a"
+-
+  name:"Temptatious Tangerine"
+  hex:"#ff7733"
 -
   name:"Tender Shoot"
   hex:"#e8eace"
