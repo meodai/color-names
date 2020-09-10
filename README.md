@@ -2,6 +2,7 @@
 
 <img align="right" height="222" width="222" src="https://meodai.github.io/color-names/logo/cockatoo-fill.svg">
 
+[![Actions Status](https://github.com/meodai/color-names/workflows/Build%20CI/badge.svg)](https://github.com/meodai/color-names/actions)
 [![GitHub release](https://img.shields.io/github/release/meodai/color-names.svg)](https://github.com/meodai/color-names/)
 [![npm version](https://img.shields.io/npm/v/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
 [![npm](https://img.shields.io/npm/dt/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
