@@ -1226,6 +1226,9 @@
   name:"Chocolate Bells"
   hex:"#775130"
 -
+  name:"Chocolate Castle"
+  hex:"#452207"
+-
   name:"Chocolate Explosion"
   hex:"#8e473b"
 -
@@ -2215,6 +2218,9 @@
 -
   name:"Eyeball"
   hex:"#fffbf8"
+-
+  name:"Fabric of Space"
+  hex:"#341758"
 -
   name:"Fading Horizon"
   hex:"#442266"
@@ -5708,6 +5714,9 @@
   name:"Peach Fizz"
   hex:"#ffa883"
 -
+  name:"Peach Fury"
+  hex:"#f88435"
+-
   name:"Peach Fuzz"
   hex:"#ffc7b9"
 -
@@ -6058,6 +6067,9 @@
 -
   name:"Plum"
   hex:"#5a315d"
+-
+  name:"Plum Cheese"
+  hex:"#670728"
 -
   name:"Plum Highness"
   hex:"#885577"
@@ -6425,11 +6437,17 @@
   name:"Royal Purpleness"
   hex:"#881177"
 -
+  name:"Royal Star"
+  hex:"#fede4f"
+-
   name:"Ruby"
   hex:"#ca0147"
 -
   name:"Rubylicious"
   hex:"#db1459"
+-
+  name:"Ruthless Empress"
+  hex:"#573894"
 -
   name:"Sable Cloaked"
   hex:"#c4a7a1"
@@ -6494,6 +6512,9 @@
   name:"Smoke Dragon"
   hex:"#ccbbaa"
 -
+  name:"Snarky Mint"
+  hex:"#9ae37d"
+-
   name:"Sneaky Sesame"
   hex:"#896a46"
 -
@@ -6523,6 +6544,9 @@
 -
   name:"Spicy Sweetcorn"
   hex:"#f6ac00"
+-
+  name:"Spikey Red"
+  hex:"#600000"
 -
   name:"Splashing Wave"
   hex:"#44ddff"
