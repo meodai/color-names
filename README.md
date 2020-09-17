@@ -6,7 +6,7 @@
 [![GitHub release](https://img.shields.io/github/release/meodai/color-names.svg)](https://github.com/meodai/color-names/)
 [![npm version](https://img.shields.io/npm/v/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
 [![npm](https://img.shields.io/npm/dt/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
-[![color count](https://img.shields.io/badge/25600-colors-orange.svg)](https://github.com/meodai/color-names/blob/master/src/colornames.csv)
+[![name count](https://img.shields.io/badge/25600-names-orange.svg)](https://github.com/meodai/color-names/blob/master/src/colornames.csv)
 
 A handpicked list of __25600__ unique color names from [various sources](#sources-) and thousands of curated user submissions.
 
