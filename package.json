@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/meodai/color-names#readme",
   "devDependencies": {
-    "closestvector": "^0.4.3",
+    "closestvector": "^0.6.0",
     "commitizen": "^4.0.3",
     "eslint": "^5.15.1",
     "eslint-config-google": "^0.10.0",
