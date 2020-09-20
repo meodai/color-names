@@ -8,7 +8,7 @@
   name:"3am Latte"
   hex:"#c0a98e"
 -
-  name:"8Bit Eggplant"
+  name:"8 Bit Eggplant"
   hex:"#990066"
 -
   name:"A Dime a Dozen"
@@ -131,8 +131,14 @@
   name:"Arcade Fire"
   hex:"#ee3311"
 -
+  name:"Archeology"
+  hex:"#6e6a5e"
+-
   name:"Arctic"
   hex:"#648589"
+-
+  name:"Arctic Water"
+  hex:"#00fcfc"
 -
   name:"Argan Oil"
   hex:"#8b593e"
@@ -574,6 +580,9 @@
 -
   name:"Blue"
   hex:"#0000ff"
+-
+  name:"Blue Bay"
+  hex:"#619ad6"
 -
   name:"Blue Bell"
   hex:"#93b4d7"
@@ -1214,9 +1223,6 @@
   name:"Chipmunk"
   hex:"#cfa14a"
 -
-  name:"Choclate Rain"
-  hex:"#714f29"
--
   name:"Choco Chic"
   hex:"#993311"
 -
@@ -1240,6 +1246,9 @@
 -
   name:"Chocolate Lust"
   hex:"#993322"
+-
+  name:"Chocolate Rain"
+  hex:"#714f29"
 -
   name:"Chocolate Temptation"
   hex:"#956e5f"
@@ -2921,6 +2930,9 @@
   name:"Good Night!"
   hex:"#46565f"
 -
+  name:"Goose Bill"
+  hex:"#ffba80"
+-
   name:"Gothic"
   hex:"#698890"
 -
@@ -3854,7 +3866,7 @@
   name:"Kashmir"
   hex:"#6f8d6a"
 -
-  name:"Katmandu"
+  name:"Kathmandu"
   hex:"#ad9a5d"
 -
   name:"Katy Berry"
@@ -4276,6 +4288,9 @@
 -
   name:"Lost at Sea"
   hex:"#8d9ca7"
+-
+  name:"Lost Golfer"
+  hex:"#74af54"
 -
   name:"Lost in Heaven"
   hex:"#002489"
@@ -4859,7 +4874,7 @@
   name:"Minted Blueberry Lemonade"
   hex:"#b32651"
 -
-  name:"Minty Paradice"
+  name:"Minty Paradise"
   hex:"#00ffbb"
 -
   name:"Mississippi River"
@@ -5135,7 +5150,7 @@
   name:"Namibia"
   hex:"#7c6d61"
 -
-  name:"Narwhale Grey"
+  name:"Narwhal Grey"
   hex:"#080813"
 -
   name:"Natural Light"
@@ -5566,6 +5581,9 @@
 -
   name:"Pacific Depths"
   hex:"#004488"
+-
+  name:"Packing Paper"
+  hex:"#ba9b5d"
 -
   name:"Paella"
   hex:"#dcc61f"
@@ -6404,6 +6422,9 @@
   name:"Ravioli al Limone"
   hex:"#fade79"
 -
+  name:"Reading Tea Leaves"
+  hex:"#7d5d5e"
+-
   name:"Red Elegance"
   hex:"#85464b"
 -
@@ -6434,6 +6455,9 @@
   name:"Romesco"
   hex:"#f48101"
 -
+  name:"Rooftop Garden"
+  hex:"#9ead92"
+-
   name:"Rosé"
   hex:"#f7746b"
 -
@@ -6458,6 +6482,9 @@
   name:"Rubylicious"
   hex:"#db1459"
 -
+  name:"Rusty Heart"
+  hex:"#a04039"
+-
   name:"Ruthless Empress"
   hex:"#573894"
 -
@@ -6472,6 +6499,9 @@
 -
   name:"Sail into the Horizon"
   hex:"#a3bbdc"
+-
+  name:"Sakura Night"
+  hex:"#7b6c7c"
 -
   name:"Salmon Poké Bowl"
   hex:"#ee7777"
@@ -6707,9 +6737,6 @@
   name:"Trout"
   hex:"#4c5356"
 -
-  name:"Truf Master"
-  hex:"#009922"
--
   name:"Tulip"
   hex:"#ff878d"
 -
@@ -6718,6 +6745,9 @@
 -
   name:"Turf"
   hex:"#5f4f42"
+-
+  name:"Turf Master"
+  hex:"#009922"
 -
   name:"Turquoise"
   hex:"#06c2ac"
@@ -6847,6 +6877,9 @@
 -
   name:"Vermicelle"
   hex:"#dabe82"
+-
+  name:"Vermicelles"
+  hex:"#bb835f"
 -
   name:"Vermillion"
   hex:"#da3b1f"
@@ -7045,6 +7078,9 @@
 -
   name:"Water Lily"
   hex:"#dde3d5"
+-
+  name:"Water Park"
+  hex:"#54af9c"
 -
   name:"Waterfall"
   hex:"#3ab0a2"
@@ -7283,6 +7319,9 @@
   name:"Wisteria Blue"
   hex:"#84a2d4"
 -
+  name:"Witch Hazel"
+  hex:"#fbf073"
+-
   name:"Witchcraft"
   hex:"#474c50"
 -
@@ -7306,9 +7345,6 @@
 -
   name:"Woodland Grass"
   hex:"#004400"
--
-  name:"Wormicelles"
-  hex:"#bb835f"
 -
   name:"Worn Silver"
   hex:"#c9c0bb"

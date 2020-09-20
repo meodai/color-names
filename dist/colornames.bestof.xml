@@ -13,7 +13,7 @@
 <hex>#c0a98e</hex>
 </color>
 <color>
-<name>8Bit Eggplant</name>
+<name>8 Bit Eggplant</name>
 <hex>#990066</hex>
 </color>
 <color>
@@ -177,8 +177,16 @@
 <hex>#ee3311</hex>
 </color>
 <color>
+<name>Archeology</name>
+<hex>#6e6a5e</hex>
+</color>
+<color>
 <name>Arctic</name>
 <hex>#648589</hex>
+</color>
+<color>
+<name>Arctic Water</name>
+<hex>#00fcfc</hex>
 </color>
 <color>
 <name>Argan Oil</name>
@@ -767,6 +775,10 @@
 <color>
 <name>Blue</name>
 <hex>#0000ff</hex>
+</color>
+<color>
+<name>Blue Bay</name>
+<hex>#619ad6</hex>
 </color>
 <color>
 <name>Blue Bell</name>
@@ -1621,10 +1633,6 @@
 <hex>#cfa14a</hex>
 </color>
 <color>
-<name>Choclate Rain</name>
-<hex>#714f29</hex>
-</color>
-<color>
 <name>Choco Chic</name>
 <hex>#993311</hex>
 </color>
@@ -1655,6 +1663,10 @@
 <color>
 <name>Chocolate Lust</name>
 <hex>#993322</hex>
+</color>
+<color>
+<name>Chocolate Rain</name>
+<hex>#714f29</hex>
 </color>
 <color>
 <name>Chocolate Temptation</name>
@@ -3897,6 +3909,10 @@
 <hex>#46565f</hex>
 </color>
 <color>
+<name>Goose Bill</name>
+<hex>#ffba80</hex>
+</color>
+<color>
 <name>Gothic</name>
 <hex>#698890</hex>
 </color>
@@ -5141,7 +5157,7 @@
 <hex>#6f8d6a</hex>
 </color>
 <color>
-<name>Katmandu</name>
+<name>Kathmandu</name>
 <hex>#ad9a5d</hex>
 </color>
 <color>
@@ -5703,6 +5719,10 @@
 <color>
 <name>Lost at Sea</name>
 <hex>#8d9ca7</hex>
+</color>
+<color>
+<name>Lost Golfer</name>
+<hex>#74af54</hex>
 </color>
 <color>
 <name>Lost in Heaven</name>
@@ -6481,7 +6501,7 @@
 <hex>#b32651</hex>
 </color>
 <color>
-<name>Minty Paradice</name>
+<name>Minty Paradise</name>
 <hex>#00ffbb</hex>
 </color>
 <color>
@@ -6849,7 +6869,7 @@
 <hex>#7c6d61</hex>
 </color>
 <color>
-<name>Narwhale Grey</name>
+<name>Narwhal Grey</name>
 <hex>#080813</hex>
 </color>
 <color>
@@ -7423,6 +7443,10 @@
 <color>
 <name>Pacific Depths</name>
 <hex>#004488</hex>
+</color>
+<color>
+<name>Packing Paper</name>
+<hex>#ba9b5d</hex>
 </color>
 <color>
 <name>Paella</name>
@@ -8541,6 +8565,10 @@
 <hex>#fade79</hex>
 </color>
 <color>
+<name>Reading Tea Leaves</name>
+<hex>#7d5d5e</hex>
+</color>
+<color>
 <name>Red Elegance</name>
 <hex>#85464b</hex>
 </color>
@@ -8581,6 +8609,10 @@
 <hex>#f48101</hex>
 </color>
 <color>
+<name>Rooftop Garden</name>
+<hex>#9ead92</hex>
+</color>
+<color>
 <name>Rosé</name>
 <hex>#f7746b</hex>
 </color>
@@ -8613,6 +8645,10 @@
 <hex>#db1459</hex>
 </color>
 <color>
+<name>Rusty Heart</name>
+<hex>#a04039</hex>
+</color>
+<color>
 <name>Ruthless Empress</name>
 <hex>#573894</hex>
 </color>
@@ -8631,6 +8667,10 @@
 <color>
 <name>Sail into the Horizon</name>
 <hex>#a3bbdc</hex>
+</color>
+<color>
+<name>Sakura Night</name>
+<hex>#7b6c7c</hex>
 </color>
 <color>
 <name>Salmon Poké Bowl</name>
@@ -8945,10 +8985,6 @@
 <hex>#4c5356</hex>
 </color>
 <color>
-<name>Truf Master</name>
-<hex>#009922</hex>
-</color>
-<color>
 <name>Tulip</name>
 <hex>#ff878d</hex>
 </color>
@@ -8959,6 +8995,10 @@
 <color>
 <name>Turf</name>
 <hex>#5f4f42</hex>
+</color>
+<color>
+<name>Turf Master</name>
+<hex>#009922</hex>
 </color>
 <color>
 <name>Turquoise</name>
@@ -9131,6 +9171,10 @@
 <color>
 <name>Vermicelle</name>
 <hex>#dabe82</hex>
+</color>
+<color>
+<name>Vermicelles</name>
+<hex>#bb835f</hex>
 </color>
 <color>
 <name>Vermillion</name>
@@ -9395,6 +9439,10 @@
 <color>
 <name>Water Lily</name>
 <hex>#dde3d5</hex>
+</color>
+<color>
+<name>Water Park</name>
+<hex>#54af9c</hex>
 </color>
 <color>
 <name>Waterfall</name>
@@ -9713,6 +9761,10 @@
 <hex>#84a2d4</hex>
 </color>
 <color>
+<name>Witch Hazel</name>
+<hex>#fbf073</hex>
+</color>
+<color>
 <name>Witchcraft</name>
 <hex>#474c50</hex>
 </color>
@@ -9743,10 +9795,6 @@
 <color>
 <name>Woodland Grass</name>
 <hex>#004400</hex>
-</color>
-<color>
-<name>Wormicelles</name>
-<hex>#bb835f</hex>
 </color>
 <color>
 <name>Worn Silver</name>
