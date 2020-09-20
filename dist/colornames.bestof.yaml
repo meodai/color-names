@@ -1064,6 +1064,9 @@
   name:"Catfish"
   hex:"#657d82"
 -
+  name:"Cathedral"
+  hex:"#acaaa7"
+-
   name:"Cathode Green"
   hex:"#00ff55"
 -
@@ -2954,6 +2957,9 @@
   name:"Grapest"
   hex:"#880066"
 -
+  name:"Graphite Black"
+  hex:"#262a2b"
+-
   name:"Grass"
   hex:"#5cac2d"
 -
@@ -3024,7 +3030,7 @@
   hex:"#808080"
 -
   name:"Grey Area"
-  hex:"#dddddd"
+  hex:"#8f9394"
 -
   name:"Grey Marble"
   hex:"#b9b4b1"
@@ -5588,6 +5594,9 @@
   name:"Paper Hearts"
   hex:"#cc4466"
 -
+  name:"Paper White"
+  hex:"#eef0f3"
+-
   name:"Paprika"
   hex:"#7c2d37"
 -
@@ -5851,6 +5860,9 @@
 -
   name:"Petite Pink"
   hex:"#eacacb"
+-
+  name:"Petrified"
+  hex:"#8b8680"
 -
   name:"Phantom"
   hex:"#6e797b"
@@ -6473,6 +6485,9 @@
   name:"Salty Ice"
   hex:"#cce2f3"
 -
+  name:"Sand Ripples"
+  hex:"#c1b7b0"
+-
   name:"Sapphire Glitter"
   hex:"#0033cc"
 -
@@ -6566,6 +6581,12 @@
   name:"Starship Tonic"
   hex:"#cce7e8"
 -
+  name:"Steam"
+  hex:"#dddddd"
+-
+  name:"Steam Bath"
+  hex:"#ccd0da"
+-
   name:"Stormy Horizon"
   hex:"#777799"
 -
@@ -6592,6 +6613,9 @@
 -
   name:"Super Rose Red"
   hex:"#cb1028"
+-
+  name:"Swamp Monster"
+  hex:"#005511"
 -
   name:"Sweet Desire"
   hex:"#aa33ee"
