@@ -8,7 +8,7 @@
 [![npm](https://img.shields.io/npm/dt/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
 [![name count](https://img.shields.io/badge/25600-names-orange.svg)](https://github.com/meodai/color-names/blob/master/src/colornames.csv)
 
-A handpicked list of __25626__ unique color names from [various sources](#sources-) and thousands of curated user submissions.
+A handpicked list of __25642__ unique color names from [various sources](#sources-) and thousands of curated user submissions.
 
 > The names of color function like a thread attached to a frightfully slender needle, capable of stitching together our most delicate emotions and memories. When the needle hits the target, we feel either pleasure or empathy. **Kenya Hara – White**
 
@@ -31,7 +31,7 @@ The aim of this project is to create as large a list of color names as possible 
 
 Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute!
 
-## Color Count: __25626__ 🎉
+## Color Count: __25642__ 🎉
 
 ~__0.15%__ of the RGB color space
 
@@ -170,7 +170,7 @@ See [package.json](package.json#L6) for more.
 - [Olympian god colors]
 - Model Color Paints: [Vallejo](http://www.danbecker.info/minis/miniother/PaintCharts/VallejoModelColor.html)
 - [Fictional Colors] (2018-05-09)
-- Non English Transliterations: [Japanese](https://en.wikipedia.org/wiki/Traditional_colors_of_Japan), [Mandarin](http://www.fluentu.com/blog/chinese/2016/07/25/chinese-colors/), [Hindi](https://en.wikibooks.org/wiki/Hindi/Colors), [Persian](https://en.wikibooks.org/wiki/Persian/Phrasebook/Colors), [Russian](//github.com/AleksejDix)
+- Non English Transliterations: [Japanese](https://en.wikipedia.org/wiki/Traditional_colors_of_Japan), [Mandarin](http://www.fluentu.com/blog/chinese/2016/07/25/chinese-colors/), [Hindi](https://en.wikibooks.org/wiki/Hindi/Colors), [Persian](https://en.wikibooks.org/wiki/Persian/Phrasebook/Colors), [Russian](//github.com/AleksejDix), [Māori](https://www.maorilanguage.net/maori-words-phrases/colours-nga-tae/)
 - Multiple paint, print, nail polish, model paint color lists
 - Curated Machine Learning names from [Matt DesLauriers](https://twitter.com/mattdesl/status/1234829613907501057) and [Nathan Kjer](https://nathankjer.com/text-generation/)
 
