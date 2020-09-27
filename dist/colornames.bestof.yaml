@@ -2009,6 +2009,9 @@
   name:"Duckling Fluff"
   hex:"#fafc5d"
 -
+  name:"Dumpling"
+  hex:"#f7ddaa"
+-
   name:"Dune"
   hex:"#d5c0a1"
 -
@@ -6704,6 +6707,12 @@
   name:"Steam Bath"
   hex:"#ccd0da"
 -
+  name:"Steam Engine"
+  hex:"#b2b2ad"
+-
+  name:"Steamy Dumpling"
+  hex:"#eae9b4"
+-
   name:"Stormy Horizon"
   hex:"#777799"
 -
@@ -7279,6 +7288,9 @@
 -
   name:"Whisky"
   hex:"#c2877b"
+-
+  name:"Whisky Barrel"
+  hex:"#96745b"
 -
   name:"Whisky Cola"
   hex:"#772233"
