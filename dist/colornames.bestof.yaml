@@ -686,6 +686,9 @@
   name:"Borlotti Bean"
   hex:"#d9b1aa"
 -
+  name:"Botanical Garden"
+  hex:"#44aa11"
+-
   name:"Botanical Night"
   hex:"#12403c"
 -
@@ -976,6 +979,9 @@
 -
   name:"Candy Grape Fizz"
   hex:"#7755ee"
+-
+  name:"Candy Green"
+  hex:"#33cc00"
 -
   name:"Candy Pink"
   hex:"#ff63e9"
@@ -3058,6 +3064,9 @@
 -
   name:"Greenfinch"
   hex:"#bda928"
+-
+  name:"Greenhouse"
+  hex:"#3e6334"
 -
   name:"Gremlin"
   hex:"#a79954"
@@ -5429,6 +5438,9 @@
   name:"NYC Taxi"
   hex:"#f7b731"
 -
+  name:"Nylon"
+  hex:"#e9e3cb"
+-
   name:"Nymph's Delight"
   hex:"#7b6c8e"
 -
@@ -6470,6 +6482,9 @@
   name:"Rapeseed"
   hex:"#c19a13"
 -
+  name:"Rapunzel Silver"
+  hex:"#d2d2d4"
+-
   name:"Rare Blue"
   hex:"#0044ff"
 -
@@ -6595,6 +6610,9 @@
 -
   name:"Shaving Cream"
   hex:"#e1e5e5"
+-
+  name:"Shimmering Blue"
+  hex:"#82dbcc"
 -
   name:"Shimmering Love"
   hex:"#ff88cc"
@@ -6772,6 +6790,15 @@
 -
   name:"Toxic Sludge"
   hex:"#00bb33"
+-
+  name:"Traffic Green"
+  hex:"#55ff22"
+-
+  name:"Traffic Red"
+  hex:"#ff1c1c"
+-
+  name:"Traffic Yellow"
+  hex:"#fedc39"
 -
   name:"Tranquili Teal"
   hex:"#6c9da9"
@@ -6958,6 +6985,9 @@
 -
   name:"Verminal"
   hex:"#55cc11"
+-
+  name:"Vertigo Cherry"
+  hex:"#990055"
 -
   name:"Very Berry"
   hex:"#b73275"

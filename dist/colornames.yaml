@@ -929,6 +929,9 @@
   name:"Alien Breed"
   hex:"#b9cc81"
 -
+  name:"Alien Parasite"
+  hex:"#55ff33"
+-
   name:"Alien Purple"
   hex:"#490648"
 -
@@ -8922,7 +8925,7 @@
   hex:"#227700"
 -
   name:"Botanical Garden"
-  hex:"#5e624a"
+  hex:"#44aa11"
 -
   name:"Botanical Green"
   hex:"#77976e"
@@ -11682,10 +11685,10 @@
   hex:"#7755ee"
 -
   name:"Candy Grass"
-  hex:"#e2d6bd"
+  hex:"#33aa00"
 -
   name:"Candy Green"
-  hex:"#82dbcc"
+  hex:"#33cc00"
 -
   name:"Candy Heart Pink"
   hex:"#f5a2a1"
@@ -42251,6 +42254,9 @@
   name:"Mecca Red"
   hex:"#663f3f"
 -
+  name:"Mech Suit"
+  hex:"#bbdddd"
+-
   name:"Mecha Grey"
   hex:"#8d847f"
 -
@@ -47306,6 +47312,9 @@
   name:"Nyctophobia Blue"
   hex:"#4d587a"
 -
+  name:"Nylon"
+  hex:"#e9e3cb"
+-
   name:"Nymph Green"
   hex:"#aec2a5"
 -
@@ -47824,6 +47833,9 @@
 -
   name:"Old Boot"
   hex:"#7c644b"
+-
+  name:"Old Botanical Garden"
+  hex:"#5e624a"
 -
   name:"Old Brick"
   hex:"#8a3335"
@@ -48511,6 +48523,9 @@
 -
   name:"Orange Sherbet"
   hex:"#fec49b"
+-
+  name:"Orange Shimmer"
+  hex:"#e2d6bd"
 -
   name:"Orange Shot"
   hex:"#dd7744"
@@ -53654,6 +53669,9 @@
   name:"Polyanthus Narcissus"
   hex:"#feffcc"
 -
+  name:"Polypropylene"
+  hex:"#eaeae8"
+-
   name:"Pomace Red"
   hex:"#856f76"
 -
@@ -56293,6 +56311,9 @@
 -
   name:"Rapunzel"
   hex:"#f6d77f"
+-
+  name:"Rapunzel Silver"
+  hex:"#d2d2d4"
 -
   name:"Rare Blue"
   hex:"#0044ff"
@@ -62044,6 +62065,9 @@
 -
   name:"Shimmer"
   hex:"#88c7e9"
+-
+  name:"Shimmering Blue"
+  hex:"#82dbcc"
 -
   name:"Shimmering Blush"
   hex:"#d98695"
@@ -70469,11 +70493,20 @@
   name:"Traditional Tan"
   hex:"#d6d2c0"
 -
+  name:"Traffic Green"
+  hex:"#55ff22"
+-
   name:"Traffic Light Green"
   hex:"#8c9900"
 -
+  name:"Traffic Red"
+  hex:"#ff1c1c"
+-
   name:"Traffic White"
   hex:"#f1f0ea"
+-
+  name:"Traffic Yellow"
+  hex:"#fedc39"
 -
   name:"Trail Dust"
   hex:"#d0c4ac"
@@ -72649,6 +72682,9 @@
 -
   name:"Vert Pierre"
   hex:"#4a615c"
+-
+  name:"Vertigo Cherry"
+  hex:"#990055"
 -
   name:"Verve"
   hex:"#fcedd8"

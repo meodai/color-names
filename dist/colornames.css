@@ -309,6 +309,7 @@
 --color-alien-abduction:#0cff0c;
 --color-alien-armpit:#84de02;
 --color-alien-breed:#b9cc81;
+--color-alien-parasite:#55ff33;
 --color-alien-purple:#490648;
 --color-alienator-grey:#9790a4;
 --color-align:#00728d;
@@ -2973,7 +2974,7 @@
 --color-boston-university-red:#cc0000;
 --color-bōtan:#a2345c;
 --color-botanical-beauty:#227700;
---color-botanical-garden:#5e624a;
+--color-botanical-garden:#44aa11;
 --color-botanical-green:#77976e;
 --color-botanical-night:#12403c;
 --color-botanical-tint:#a7e6d4;
@@ -3893,8 +3894,8 @@
 --color-candy-drop:#c25d6a;
 --color-candy-floss:#e8a7e2;
 --color-candy-grape-fizz:#7755ee;
---color-candy-grass:#e2d6bd;
---color-candy-green:#82dbcc;
+--color-candy-grass:#33aa00;
+--color-candy-green:#33cc00;
 --color-candy-heart-pink:#f5a2a1;
 --color-candy-mix:#f3dfe3;
 --color-candy-pink:#ff63e9;
@@ -14083,6 +14084,7 @@
 --color-mecca-gold:#c89134;
 --color-mecca-orange:#bd5745;
 --color-mecca-red:#663f3f;
+--color-mech-suit:#bbdddd;
 --color-mecha-grey:#8d847f;
 --color-mechagodzilla:#dedce2;
 --color-mechanicus-standard-grey:#3d4b4d;
@@ -15768,6 +15770,7 @@
 --color-nyanza:#e9ffdb;
 --color-nyc-taxi:#f7b731;
 --color-nyctophobia-blue:#4d587a;
+--color-nylon:#e9e3cb;
 --color-nymph-green:#aec2a5;
 --color-nymphs-delight:#7b6c8e;
 --color-nymphaeaceae:#cee0e3;
@@ -15941,6 +15944,7 @@
 --color-old-benchmark:#029386;
 --color-old-bone:#dbc2ab;
 --color-old-boot:#7c644b;
+--color-old-botanical-garden:#5e624a;
 --color-old-brick:#8a3335;
 --color-old-brown-crayon:#330000;
 --color-old-burgundy:#43302e;
@@ -16170,6 +16174,7 @@
 --color-orange-salmonberry:#f0b073;
 --color-orange-satisfaction:#dd9900;
 --color-orange-sherbet:#fec49b;
+--color-orange-shimmer:#e2d6bd;
 --color-orange-shot:#dd7744;
 --color-orange-soda:#fa5b3d;
 --color-orange-spice:#fea060;
@@ -17884,6 +17889,7 @@
 --color-polo-pony:#d09258;
 --color-polo-tan:#f4e5dd;
 --color-polyanthus-narcissus:#feffcc;
+--color-polypropylene:#eaeae8;
 --color-pomace-red:#856f76;
 --color-pomegranate:#c35550;
 --color-pomegranate-red:#b53d45;
@@ -18764,6 +18770,7 @@
 --color-rapture-rose:#d16277;
 --color-raptures-light:#f6f3e7;
 --color-rapunzel:#f6d77f;
+--color-rapunzel-silver:#d2d2d4;
 --color-rare-blue:#0044ff;
 --color-rare-crystal:#e1dee8;
 --color-rare-find:#ac8044;
@@ -20681,6 +20688,7 @@
 --color-shikon:#2b2028;
 --color-shilo:#e6b2a6;
 --color-shimmer:#88c7e9;
+--color-shimmering-blue:#82dbcc;
 --color-shimmering-blush:#d98695;
 --color-shimmering-brook:#64b3d3;
 --color-shimmering-champagne:#f3debc;
@@ -23489,8 +23497,11 @@
 --color-traditional-rose:#be013c;
 --color-traditional-royal-blue:#0504aa;
 --color-traditional-tan:#d6d2c0;
+--color-traffic-green:#55ff22;
 --color-traffic-light-green:#8c9900;
+--color-traffic-red:#ff1c1c;
 --color-traffic-white:#f1f0ea;
+--color-traffic-yellow:#fedc39;
 --color-trail-dust:#d0c4ac;
 --color-trail-print:#6b6662;
 --color-trail-sand:#bfaa97;
@@ -24216,6 +24227,7 @@
 --color-versailles-rose:#c4b0ad;
 --color-verse-green:#18880d;
 --color-vert-pierre:#4a615c;
+--color-vertigo-cherry:#990055;
 --color-verve:#fcedd8;
 --color-very-berry:#b73275;
 --color-very-grape:#927288;

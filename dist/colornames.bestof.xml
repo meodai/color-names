@@ -917,6 +917,10 @@
 <hex>#d9b1aa</hex>
 </color>
 <color>
+<name>Botanical Garden</name>
+<hex>#44aa11</hex>
+</color>
+<color>
 <name>Botanical Night</name>
 <hex>#12403c</hex>
 </color>
@@ -1303,6 +1307,10 @@
 <color>
 <name>Candy Grape Fizz</name>
 <hex>#7755ee</hex>
+</color>
+<color>
+<name>Candy Green</name>
+<hex>#33cc00</hex>
 </color>
 <color>
 <name>Candy Pink</name>
@@ -4079,6 +4087,10 @@
 <color>
 <name>Greenfinch</name>
 <hex>#bda928</hex>
+</color>
+<color>
+<name>Greenhouse</name>
+<hex>#3e6334</hex>
 </color>
 <color>
 <name>Gremlin</name>
@@ -7241,6 +7253,10 @@
 <hex>#f7b731</hex>
 </color>
 <color>
+<name>Nylon</name>
+<hex>#e9e3cb</hex>
+</color>
+<color>
 <name>Nymph's Delight</name>
 <hex>#7b6c8e</hex>
 </color>
@@ -8629,6 +8645,10 @@
 <hex>#c19a13</hex>
 </color>
 <color>
+<name>Rapunzel Silver</name>
+<hex>#d2d2d4</hex>
+</color>
+<color>
 <name>Rare Blue</name>
 <hex>#0044ff</hex>
 </color>
@@ -8795,6 +8815,10 @@
 <color>
 <name>Shaving Cream</name>
 <hex>#e1e5e5</hex>
+</color>
+<color>
+<name>Shimmering Blue</name>
+<hex>#82dbcc</hex>
 </color>
 <color>
 <name>Shimmering Love</name>
@@ -9031,6 +9055,18 @@
 <color>
 <name>Toxic Sludge</name>
 <hex>#00bb33</hex>
+</color>
+<color>
+<name>Traffic Green</name>
+<hex>#55ff22</hex>
+</color>
+<color>
+<name>Traffic Red</name>
+<hex>#ff1c1c</hex>
+</color>
+<color>
+<name>Traffic Yellow</name>
+<hex>#fedc39</hex>
 </color>
 <color>
 <name>Tranquili Teal</name>
@@ -9279,6 +9315,10 @@
 <color>
 <name>Verminal</name>
 <hex>#55cc11</hex>
+</color>
+<color>
+<name>Vertigo Cherry</name>
+<hex>#990055</hex>
 </color>
 <color>
 <name>Very Berry</name>

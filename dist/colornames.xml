@@ -1241,6 +1241,10 @@
 <hex>#b9cc81</hex>
 </color>
 <color>
+<name>Alien Parasite</name>
+<hex>#55ff33</hex>
+</color>
+<color>
 <name>Alien Purple</name>
 <hex>#490648</hex>
 </color>
@@ -11898,7 +11902,7 @@
 </color>
 <color>
 <name>Botanical Garden</name>
-<hex>#5e624a</hex>
+<hex>#44aa11</hex>
 </color>
 <color>
 <name>Botanical Green</name>
@@ -15578,11 +15582,11 @@
 </color>
 <color>
 <name>Candy Grass</name>
-<hex>#e2d6bd</hex>
+<hex>#33aa00</hex>
 </color>
 <color>
 <name>Candy Green</name>
-<hex>#82dbcc</hex>
+<hex>#33cc00</hex>
 </color>
 <color>
 <name>Candy Heart Pink</name>
@@ -56337,6 +56341,10 @@
 <hex>#663f3f</hex>
 </color>
 <color>
+<name>Mech Suit</name>
+<hex>#bbdddd</hex>
+</color>
+<color>
 <name>Mecha Grey</name>
 <hex>#8d847f</hex>
 </color>
@@ -63077,6 +63085,10 @@
 <hex>#4d587a</hex>
 </color>
 <color>
+<name>Nylon</name>
+<hex>#e9e3cb</hex>
+</color>
+<color>
 <name>Nymph Green</name>
 <hex>#aec2a5</hex>
 </color>
@@ -63767,6 +63779,10 @@
 <color>
 <name>Old Boot</name>
 <hex>#7c644b</hex>
+</color>
+<color>
+<name>Old Botanical Garden</name>
+<hex>#5e624a</hex>
 </color>
 <color>
 <name>Old Brick</name>
@@ -64683,6 +64699,10 @@
 <color>
 <name>Orange Sherbet</name>
 <hex>#fec49b</hex>
+</color>
+<color>
+<name>Orange Shimmer</name>
+<hex>#e2d6bd</hex>
 </color>
 <color>
 <name>Orange Shot</name>
@@ -71541,6 +71561,10 @@
 <hex>#feffcc</hex>
 </color>
 <color>
+<name>Polypropylene</name>
+<hex>#eaeae8</hex>
+</color>
+<color>
 <name>Pomace Red</name>
 <hex>#856f76</hex>
 </color>
@@ -75059,6 +75083,10 @@
 <color>
 <name>Rapunzel</name>
 <hex>#f6d77f</hex>
+</color>
+<color>
+<name>Rapunzel Silver</name>
+<hex>#d2d2d4</hex>
 </color>
 <color>
 <name>Rare Blue</name>
@@ -82727,6 +82755,10 @@
 <color>
 <name>Shimmer</name>
 <hex>#88c7e9</hex>
+</color>
+<color>
+<name>Shimmering Blue</name>
+<hex>#82dbcc</hex>
 </color>
 <color>
 <name>Shimmering Blush</name>
@@ -93961,12 +93993,24 @@
 <hex>#d6d2c0</hex>
 </color>
 <color>
+<name>Traffic Green</name>
+<hex>#55ff22</hex>
+</color>
+<color>
 <name>Traffic Light Green</name>
 <hex>#8c9900</hex>
 </color>
 <color>
+<name>Traffic Red</name>
+<hex>#ff1c1c</hex>
+</color>
+<color>
 <name>Traffic White</name>
 <hex>#f1f0ea</hex>
+</color>
+<color>
+<name>Traffic Yellow</name>
+<hex>#fedc39</hex>
 </color>
 <color>
 <name>Trail Dust</name>
@@ -96867,6 +96911,10 @@
 <color>
 <name>Vert Pierre</name>
 <hex>#4a615c</hex>
+</color>
+<color>
+<name>Vertigo Cherry</name>
+<hex>#990055</hex>
 </color>
 <color>
 <name>Verve</name>
