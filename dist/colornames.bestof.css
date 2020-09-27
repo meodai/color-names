@@ -169,6 +169,7 @@
 --color-black-hole:#010203;
 --color-black-knight:#010b13;
 --color-black-magic:#4f4554;
+--color-black-mana:#858585;
 --color-black-metal:#060606;
 --color-black-pearl:#1e272c;
 --color-black-sabbath:#220022;
@@ -204,6 +205,7 @@
 --color-blue-haze:#bdbace;
 --color-blue-hour:#0034ab;
 --color-blue-lips:#a6bce2;
+--color-blue-mana:#68c2f5;
 --color-blue-martini:#52b4d3;
 --color-blue-moon:#3686a0;
 --color-blue-ribbon:#0066ff;
@@ -406,6 +408,7 @@
 --color-chickadee:#ffcf65;
 --color-chicken-comb:#dd2222;
 --color-chicken-masala:#cc8822;
+--color-child-of-the-night:#220077;
 --color-chili-con-carne:#985e2b;
 --color-chili-pepper:#9b1b30;
 --color-chimera:#74626d;
@@ -580,6 +583,7 @@
 --color-dark-sanctuary:#3f012c;
 --color-dark-sapphire:#082567;
 --color-dark-secret:#3e5361;
+--color-dark-soul:#112255;
 --color-dark-souls:#a3a3a2;
 --color-dark-void:#151517;
 --color-dark-wood:#855e42;
@@ -1015,6 +1019,7 @@
 --color-green-glimmer:#00bb00;
 --color-green-glint:#dcf1c7;
 --color-green-goblin:#11bb33;
+--color-green-mana:#26b467;
 --color-green-olive:#8d8b55;
 --color-green-revolution:#009944;
 --color-green-tea:#b5b68f;
@@ -1470,6 +1475,7 @@
 --color-lush-bamboo:#afbb33;
 --color-lush-garden:#008811;
 --color-lush-green:#bbee00;
+--color-lush-plains:#22bb22;
 --color-lust:#e62020;
 --color-lusty-lavender:#8d5eb7;
 --color-lusty-lips:#d5174e;
@@ -1660,6 +1666,7 @@
 --color-monet-magic:#c1acc3;
 --color-money:#7b9a6d;
 --color-monkey-island:#553b39;
+--color-monstrous-green:#22cc11;
 --color-mont-blanc:#9eb6d8;
 --color-montezuma-gold:#eecc44;
 --color-montreux-blue:#5879a2;
@@ -2168,6 +2175,7 @@
 --color-ravioli-al-limone:#fade79;
 --color-reading-tea-leaves:#7d5d5e;
 --color-red-elegance:#85464b;
+--color-red-mana:#f95554;
 --color-red-menace:#aa2121;
 --color-redrum:#ff2200;
 --color-restful-rain:#f1f2dd;
@@ -2498,6 +2506,7 @@
 --color-yellow:#ffff00;
 --color-yellow-buzzing:#eedd11;
 --color-yellow-chalk:#f5f9ad;
+--color-yellow-mana:#fdfcbf;
 --color-yellow-submarine:#ffff14;
 --color-yellowish:#faee66;
 --color-yeti-footprint:#c7d7e0;

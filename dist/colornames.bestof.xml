@@ -681,6 +681,10 @@
 <hex>#4f4554</hex>
 </color>
 <color>
+<name>Black Mana</name>
+<hex>#858585</hex>
+</color>
+<color>
 <name>Black Metal</name>
 <hex>#060606</hex>
 </color>
@@ -819,6 +823,10 @@
 <color>
 <name>Blue Lips</name>
 <hex>#a6bce2</hex>
+</color>
+<color>
+<name>Blue Mana</name>
+<hex>#68c2f5</hex>
 </color>
 <color>
 <name>Blue Martini</name>
@@ -1629,6 +1637,10 @@
 <hex>#cc8822</hex>
 </color>
 <color>
+<name>Child of the Night</name>
+<hex>#220077</hex>
+</color>
+<color>
 <name>Chili Con Carne</name>
 <hex>#985e2b</hex>
 </color>
@@ -2323,6 +2335,10 @@
 <color>
 <name>Dark Secret</name>
 <hex>#3e5361</hex>
+</color>
+<color>
+<name>Dark Soul</name>
+<hex>#112255</hex>
 </color>
 <color>
 <name>Dark Souls</name>
@@ -4063,6 +4079,10 @@
 <color>
 <name>Green Goblin</name>
 <hex>#11bb33</hex>
+</color>
+<color>
+<name>Green Mana</name>
+<hex>#26b467</hex>
 </color>
 <color>
 <name>Green Olive</name>
@@ -5885,6 +5905,10 @@
 <hex>#bbee00</hex>
 </color>
 <color>
+<name>Lush Plains</name>
+<hex>#22bb22</hex>
+</color>
+<color>
 <name>Lust</name>
 <hex>#e62020</hex>
 </color>
@@ -6643,6 +6667,10 @@
 <color>
 <name>Monkey Island</name>
 <hex>#553b39</hex>
+</color>
+<color>
+<name>Monstrous Green</name>
+<hex>#22cc11</hex>
 </color>
 <color>
 <name>Mont Blanc</name>
@@ -8677,6 +8705,10 @@
 <hex>#85464b</hex>
 </color>
 <color>
+<name>Red Mana</name>
+<hex>#f95554</hex>
+</color>
+<color>
 <name>Red Menace</name>
 <hex>#aa2121</hex>
 </color>
@@ -9995,6 +10027,10 @@
 <color>
 <name>Yellow Chalk</name>
 <hex>#f5f9ad</hex>
+</color>
+<color>
+<name>Yellow Mana</name>
+<hex>#fdfcbf</hex>
 </color>
 <color>
 <name>Yellow Submarine</name>

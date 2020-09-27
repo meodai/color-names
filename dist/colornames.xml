@@ -9061,6 +9061,10 @@
 <hex>#4f4554</hex>
 </color>
 <color>
+<name>Black Mana</name>
+<hex>#858585</hex>
+</color>
+<color>
 <name>Black Market</name>
 <hex>#222244</hex>
 </color>
@@ -10545,6 +10549,10 @@
 <hex>#5a5b9f</hex>
 </color>
 <color>
+<name>Blue Island</name>
+<hex>#22aaaa</hex>
+</color>
+<color>
 <name>Blue Jacket</name>
 <hex>#597193</hex>
 </color>
@@ -10631,6 +10639,10 @@
 <color>
 <name>Blue Magenta Violet</name>
 <hex>#553592</hex>
+</color>
+<color>
+<name>Blue Mana</name>
+<hex>#68c2f5</hex>
 </color>
 <color>
 <name>Blue Marble</name>
@@ -18617,8 +18629,16 @@
 <hex>#eae5c5</hex>
 </color>
 <color>
+<name>Child of Light</name>
+<hex>#f0f4f8</hex>
+</color>
+<color>
 <name>Child of the Moon</name>
 <hex>#c68d37</hex>
+</color>
+<color>
+<name>Child of the Night</name>
+<hex>#220077</hex>
 </color>
 <color>
 <name>Childhood Crush</name>
@@ -19447,6 +19467,10 @@
 <color>
 <name>Chun-Li Blue</name>
 <hex>#1559db</hex>
+</color>
+<color>
+<name>Chunky Bee</name>
+<hex>#ffc84b</hex>
 </color>
 <color>
 <name>Chupacabra Grey</name>
@@ -25211,6 +25235,10 @@
 <color>
 <name>Dark Sorrel</name>
 <hex>#587a65</hex>
+</color>
+<color>
+<name>Dark Soul</name>
+<hex>#112255</hex>
 </color>
 <color>
 <name>Dark Souls</name>
@@ -39805,6 +39833,10 @@
 <hex>#516a62</hex>
 </color>
 <color>
+<name>Green Blob</name>
+<hex>#22dd00</hex>
+</color>
+<color>
 <name>Green Blue</name>
 <hex>#42b395</hex>
 </color>
@@ -40167,6 +40199,10 @@
 <color>
 <name>Green Mallard</name>
 <hex>#455f5f</hex>
+</color>
+<color>
+<name>Green Mana</name>
+<hex>#26b467</hex>
 </color>
 <color>
 <name>Green McQuarrie</name>
@@ -54005,6 +54041,10 @@
 <hex>#006e51</hex>
 </color>
 <color>
+<name>Lush Plains</name>
+<hex>#22bb22</hex>
+</color>
+<color>
 <name>Lush Un'goro Crater</name>
 <hex>#54a64d</hex>
 </color>
@@ -59203,6 +59243,10 @@
 <color>
 <name>Monstera Deliciosa</name>
 <hex>#75bf0a</hex>
+</color>
+<color>
+<name>Monstrous Green</name>
+<hex>#22cc11</hex>
 </color>
 <color>
 <name>Mont Blanc</name>
@@ -70777,6 +70821,10 @@
 <hex>#905100</hex>
 </color>
 <color>
+<name>Plains</name>
+<hex>#f5de85</hex>
+</color>
+<color>
 <name>Plane Brown</name>
 <hex>#8a5024</hex>
 </color>
@@ -75791,6 +75839,10 @@
 <color>
 <name>Red Mahogany</name>
 <hex>#60373d</hex>
+</color>
+<color>
+<name>Red Mana</name>
+<hex>#f95554</hex>
 </color>
 <color>
 <name>Red Mane</name>
@@ -90373,6 +90425,10 @@
 <hex>#6d753b</hex>
 </color>
 <color>
+<name>Swampland</name>
+<hex>#226633</hex>
+</color>
+<color>
 <name>Swan Dive</name>
 <hex>#e5e4dd</hex>
 </color>
@@ -98005,10 +98061,6 @@
 <hex>#615c60</hex>
 </color>
 <color>
-<name>Volcanic Island</name>
-<hex>#605244</hex>
-</color>
-<color>
 <name>Volcanic Rock</name>
 <hex>#6b6965</hex>
 </color>
@@ -101961,6 +102013,10 @@
 <hex>#86a96f</hex>
 </color>
 <color>
+<name>x</name>
+<hex>#605244</hex>
+</color>
+<color>
 <name>Xâkestari White</name>
 <hex>#fef2dc</hex>
 </color>
@@ -102251,6 +102307,10 @@
 <color>
 <name>Yellow Maize</name>
 <hex>#c0a85a</hex>
+</color>
+<color>
+<name>Yellow Mana</name>
+<hex>#fdfcbf</hex>
 </color>
 <color>
 <name>Yellow Mandarin</name>

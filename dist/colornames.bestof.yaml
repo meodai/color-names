@@ -509,6 +509,9 @@
   name:"Black Magic"
   hex:"#4f4554"
 -
+  name:"Black Mana"
+  hex:"#858585"
+-
   name:"Black Metal"
   hex:"#060606"
 -
@@ -613,6 +616,9 @@
 -
   name:"Blue Lips"
   hex:"#a6bce2"
+-
+  name:"Blue Mana"
+  hex:"#68c2f5"
 -
   name:"Blue Martini"
   hex:"#52b4d3"
@@ -1220,6 +1226,9 @@
   name:"Chicken Masala"
   hex:"#cc8822"
 -
+  name:"Child of the Night"
+  hex:"#220077"
+-
   name:"Chili Con Carne"
   hex:"#985e2b"
 -
@@ -1741,6 +1750,9 @@
 -
   name:"Dark Secret"
   hex:"#3e5361"
+-
+  name:"Dark Soul"
+  hex:"#112255"
 -
   name:"Dark Souls"
   hex:"#a3a3a2"
@@ -3046,6 +3058,9 @@
 -
   name:"Green Goblin"
   hex:"#11bb33"
+-
+  name:"Green Mana"
+  hex:"#26b467"
 -
   name:"Green Olive"
   hex:"#8d8b55"
@@ -4412,6 +4427,9 @@
   name:"Lush Green"
   hex:"#bbee00"
 -
+  name:"Lush Plains"
+  hex:"#22bb22"
+-
   name:"Lust"
   hex:"#e62020"
 -
@@ -4981,6 +4999,9 @@
 -
   name:"Monkey Island"
   hex:"#553b39"
+-
+  name:"Monstrous Green"
+  hex:"#22cc11"
 -
   name:"Mont Blanc"
   hex:"#9eb6d8"
@@ -6506,6 +6527,9 @@
   name:"Red Elegance"
   hex:"#85464b"
 -
+  name:"Red Mana"
+  hex:"#f95554"
+-
   name:"Red Menace"
   hex:"#aa2121"
 -
@@ -7495,6 +7519,9 @@
 -
   name:"Yellow Chalk"
   hex:"#f5f9ad"
+-
+  name:"Yellow Mana"
+  hex:"#fdfcbf"
 -
   name:"Yellow Submarine"
   hex:"#ffff14"

@@ -6794,6 +6794,9 @@
   name:"Black Magic"
   hex:"#4f4554"
 -
+  name:"Black Mana"
+  hex:"#858585"
+-
   name:"Black Market"
   hex:"#222244"
 -
@@ -7907,6 +7910,9 @@
   name:"Blue Iris"
   hex:"#5a5b9f"
 -
+  name:"Blue Island"
+  hex:"#22aaaa"
+-
   name:"Blue Jacket"
   hex:"#597193"
 -
@@ -7972,6 +7978,9 @@
 -
   name:"Blue Magenta Violet"
   hex:"#553592"
+-
+  name:"Blue Mana"
+  hex:"#68c2f5"
 -
   name:"Blue Marble"
   hex:"#6594bc"
@@ -13961,8 +13970,14 @@
   name:"Child of Heaven"
   hex:"#eae5c5"
 -
+  name:"Child of Light"
+  hex:"#f0f4f8"
+-
   name:"Child of the Moon"
   hex:"#c68d37"
+-
+  name:"Child of the Night"
+  hex:"#220077"
 -
   name:"Childhood Crush"
   hex:"#e26d68"
@@ -14584,6 +14599,9 @@
 -
   name:"Chun-Li Blue"
   hex:"#1559db"
+-
+  name:"Chunky Bee"
+  hex:"#ffc84b"
 -
   name:"Chupacabra Grey"
   hex:"#cfcdcf"
@@ -18907,6 +18925,9 @@
 -
   name:"Dark Sorrel"
   hex:"#587a65"
+-
+  name:"Dark Soul"
+  hex:"#112255"
 -
   name:"Dark Souls"
   hex:"#a3a3a2"
@@ -29852,6 +29873,9 @@
   name:"Green Beret"
   hex:"#516a62"
 -
+  name:"Green Blob"
+  hex:"#22dd00"
+-
   name:"Green Blue"
   hex:"#42b395"
 -
@@ -30124,6 +30148,9 @@
 -
   name:"Green Mallard"
   hex:"#455f5f"
+-
+  name:"Green Mana"
+  hex:"#26b467"
 -
   name:"Green McQuarrie"
   hex:"#555d50"
@@ -40502,6 +40529,9 @@
   name:"Lush Meadow"
   hex:"#006e51"
 -
+  name:"Lush Plains"
+  hex:"#22bb22"
+-
   name:"Lush Un'goro Crater"
   hex:"#54a64d"
 -
@@ -44401,6 +44431,9 @@
 -
   name:"Monstera Deliciosa"
   hex:"#75bf0a"
+-
+  name:"Monstrous Green"
+  hex:"#22cc11"
 -
   name:"Mont Blanc"
   hex:"#9eb6d8"
@@ -53081,6 +53114,9 @@
   name:"Plain Old Brown"
   hex:"#905100"
 -
+  name:"Plains"
+  hex:"#f5de85"
+-
   name:"Plane Brown"
   hex:"#8a5024"
 -
@@ -56842,6 +56878,9 @@
 -
   name:"Red Mahogany"
   hex:"#60373d"
+-
+  name:"Red Mana"
+  hex:"#f95554"
 -
   name:"Red Mane"
   hex:"#6d3d2a"
@@ -67778,6 +67817,9 @@
   name:"Swamp Shrub"
   hex:"#6d753b"
 -
+  name:"Swampland"
+  hex:"#226633"
+-
   name:"Swan Dive"
   hex:"#e5e4dd"
 -
@@ -73502,9 +73544,6 @@
   name:"Volcanic Glass"
   hex:"#615c60"
 -
-  name:"Volcanic Island"
-  hex:"#605244"
--
   name:"Volcanic Rock"
   hex:"#6b6965"
 -
@@ -76469,6 +76508,9 @@
   name:"Wyvern Green"
   hex:"#86a96f"
 -
+  name:"x"
+  hex:"#605244"
+-
   name:"Xâkestari White"
   hex:"#fef2dc"
 -
@@ -76687,6 +76729,9 @@
 -
   name:"Yellow Maize"
   hex:"#c0a85a"
+-
+  name:"Yellow Mana"
+  hex:"#fdfcbf"
 -
   name:"Yellow Mandarin"
   hex:"#d28034"
