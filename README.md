@@ -8,7 +8,7 @@
 [![npm](https://img.shields.io/npm/dt/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
 [![name count](https://img.shields.io/badge/25780-names-orange.svg)](https://github.com/meodai/color-names/blob/master/src/colornames.csv)
 
-A handpicked list of __25780__ unique color names from [various sources](#sources-) and thousands of curated user submissions.
+A handpicked list of __25791__ unique color names from [various sources](#sources-) and thousands of curated user submissions.
 
 > The names of color function like a thread attached to a frightfully slender needle, capable of stitching together our most delicate emotions and memories. When the needle hits the target, we feel either pleasure or empathy. **Kenya Hara – White**
 
@@ -31,7 +31,7 @@ The aim of this project is to create as large a list of color names as possible 
 
 Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute!
 
-## Color Count: __25780__ 🎉
+## Color Count: __25791__ 🎉
 
 ~__0.15%__ of the RGB color space
 

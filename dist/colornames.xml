@@ -305,12 +305,20 @@
 <hex>#4e4f48</hex>
 </color>
 <color>
+<name>Acid</name>
+<hex>#00ff22</hex>
+</color>
+<color>
 <name>Acid Blond</name>
 <hex>#efedd7</hex>
 </color>
 <color>
 <name>Acid Candy</name>
 <hex>#a8c74d</hex>
+</color>
+<color>
+<name>Acid Drop</name>
+<hex>#11ff22</hex>
 </color>
 <color>
 <name>Acid Green</name>
@@ -1853,7 +1861,7 @@
 <hex>#ab6f60</hex>
 </color>
 <color>
-<name>Amaretto Sours</name>
+<name>Amaretto Sour</name>
 <hex>#c09856</hex>
 </color>
 <color>
@@ -6903,6 +6911,10 @@
 <color>
 <name>Base Sand</name>
 <hex>#bb9955</hex>
+</color>
+<color>
+<name>Baseball Base</name>
+<hex>#f4eadc</hex>
 </color>
 <color>
 <name>Bashful</name>
@@ -17235,6 +17247,10 @@
 <color>
 <name>Celestial</name>
 <hex>#006380</hex>
+</color>
+<color>
+<name>Celestial Alien</name>
+<hex>#11cc00</hex>
 </color>
 <color>
 <name>Celestial Blue</name>
@@ -34451,6 +34467,10 @@
 <color>
 <name>Football</name>
 <hex>#825736</hex>
+</color>
+<color>
+<name>Football Field</name>
+<hex>#7eaf34</hex>
 </color>
 <color>
 <name>Foothill Drive</name>
@@ -55297,6 +55317,10 @@
 <hex>#96a793</hex>
 </color>
 <color>
+<name>Manually Pressed Grapes</name>
+<hex>#881144</hex>
+</color>
+<color>
 <name>Manure</name>
 <hex>#ad900d</hex>
 </color>
@@ -59585,6 +59609,10 @@
 <hex>#a2db10</hex>
 </color>
 <color>
+<name>Moping Green</name>
+<hex>#00ee33</hex>
+</color>
+<color>
 <name>Morado Purple</name>
 <hex>#9955cc</hex>
 </color>
@@ -62887,6 +62915,10 @@
 <color>
 <name>Not Yo Cheese</name>
 <hex>#ffc12c</hex>
+</color>
+<color>
+<name>Notebook Paper</name>
+<hex>#e8ebe6</hex>
 </color>
 <color>
 <name>Notes of Plum</name>
@@ -85381,6 +85413,10 @@
 <hex>#dad5d6</hex>
 </color>
 <color>
+<name>So Sour</name>
+<hex>#00ff11</hex>
+</color>
+<color>
 <name>So Sublime</name>
 <hex>#8b847c</hex>
 </color>
@@ -92239,6 +92275,10 @@
 <color>
 <name>Tennis Blue</name>
 <hex>#7cb5c6</hex>
+</color>
+<color>
+<name>Tennis Court</name>
+<hex>#c8450c</hex>
 </color>
 <color>
 <name>Tense Terracotta</name>
@@ -101895,6 +101935,10 @@
 <color>
 <name>Wool White</name>
 <hex>#f9ede4</hex>
+</color>
+<color>
+<name>Wool-Milk Pig</name>
+<hex>#dbbdaa</hex>
 </color>
 <color>
 <name>Woolen Mittens</name>

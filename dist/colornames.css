@@ -75,8 +75,10 @@
 --color-ace:#c7cce7;
 --color-aceituna-picante:#727a5f;
 --color-aceto-balsamico:#4e4f48;
+--color-acid:#00ff22;
 --color-acid-blond:#efedd7;
 --color-acid-candy:#a8c74d;
+--color-acid-drop:#11ff22;
 --color-acid-green:#8ffe09;
 --color-acid-lime:#badf30;
 --color-acid-pool:#00ee22;
@@ -462,7 +464,7 @@
 --color-amarantha-red:#cc3311;
 --color-amaranthine:#5f4053;
 --color-amaretto:#ab6f60;
---color-amaretto-sours:#c09856;
+--color-amaretto-sour:#c09856;
 --color-amarillo-bebito:#fff1d4;
 --color-amarillo-yellow:#fbf1c3;
 --color-amarklor-violet:#551199;
@@ -1725,6 +1727,7 @@
 --color-basalt-grey:#999999;
 --color-base-camp:#575c3a;
 --color-base-sand:#bb9955;
+--color-baseball-base:#f4eadc;
 --color-bashful:#e3eded;
 --color-bashful-blue:#6994cf;
 --color-bashful-emu:#b2b0ac;
@@ -4308,6 +4311,7 @@
 --color-celeste:#b2ffff;
 --color-celeste-blue:#406374;
 --color-celestial:#006380;
+--color-celestial-alien:#11cc00;
 --color-celestial-blue:#2c4d69;
 --color-celestial-coral:#dd4455;
 --color-celestial-dragon:#992266;
@@ -8612,6 +8616,7 @@
 --color-fondue-fudge:#5d4236;
 --color-fools-gold:#cad175;
 --color-football:#825736;
+--color-football-field:#7eaf34;
 --color-foothill-drive:#cab48e;
 --color-foothills:#e1cfa5;
 --color-footie-pajamas:#e6cee6;
@@ -13823,6 +13828,7 @@
 --color-manticore-wing:#dd7711;
 --color-mantis:#74c365;
 --color-mantle:#96a793;
+--color-manually-pressed-grapes:#881144;
 --color-manure:#ad900d;
 --color-manuscript:#d1c9ba;
 --color-manuscript-ink:#827e71;
@@ -14895,6 +14901,7 @@
 --color-moose-trail:#6b5445;
 --color-moosewood:#5d5744;
 --color-moot-green:#a2db10;
+--color-moping-green:#00ee33;
 --color-morado-purple:#9955cc;
 --color-morality:#b4cde5;
 --color-morass:#726138;
@@ -15721,6 +15728,7 @@
 --color-not-my-fault:#7e7d78;
 --color-not-so-innocent:#6a6968;
 --color-not-yo-cheese:#ffc12c;
+--color-notebook-paper:#e8ebe6;
 --color-notes-of-plum:#770f05;
 --color-noteworthy:#d9bacc;
 --color-nothing-less:#f2deb9;
@@ -21344,6 +21352,7 @@
 --color-so-merlot:#84525a;
 --color-so-much-fawn:#f1e0cb;
 --color-so-shy:#dad5d6;
+--color-so-sour:#00ff11;
 --color-so-sublime:#8b847c;
 --color-so-sari:#006f47;
 --color-soap:#cec8ef;
@@ -23059,6 +23068,7 @@
 --color-tenné:#cd5700;
 --color-tennis-ball:#dfff4f;
 --color-tennis-blue:#7cb5c6;
+--color-tennis-court:#c8450c;
 --color-tense-terracotta:#a35732;
 --color-tent-green:#a89f86;
 --color-tentacle-pink:#ffbacd;
@@ -25473,6 +25483,7 @@
 --color-wool-tweed:#917747;
 --color-wool-violet:#5e5587;
 --color-wool-white:#f9ede4;
+--color-wool-milk-pig:#dbbdaa;
 --color-woolen-mittens:#b59f55;
 --color-woolen-vest:#b0a582;
 --color-woolly-beige:#e7d5c9;

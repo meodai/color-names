@@ -227,11 +227,17 @@
   name:"Aceto Balsamico"
   hex:"#4e4f48"
 -
+  name:"Acid"
+  hex:"#00ff22"
+-
   name:"Acid Blond"
   hex:"#efedd7"
 -
   name:"Acid Candy"
   hex:"#a8c74d"
+-
+  name:"Acid Drop"
+  hex:"#11ff22"
 -
   name:"Acid Green"
   hex:"#8ffe09"
@@ -1388,7 +1394,7 @@
   name:"Amaretto"
   hex:"#ab6f60"
 -
-  name:"Amaretto Sours"
+  name:"Amaretto Sour"
   hex:"#c09856"
 -
   name:"Amarillo Bebito"
@@ -5176,6 +5182,9 @@
 -
   name:"Base Sand"
   hex:"#bb9955"
+-
+  name:"Baseball Base"
+  hex:"#f4eadc"
 -
   name:"Bashful"
   hex:"#e3eded"
@@ -12925,6 +12934,9 @@
 -
   name:"Celestial"
   hex:"#006380"
+-
+  name:"Celestial Alien"
+  hex:"#11cc00"
 -
   name:"Celestial Blue"
   hex:"#2c4d69"
@@ -25837,6 +25849,9 @@
 -
   name:"Football"
   hex:"#825736"
+-
+  name:"Football Field"
+  hex:"#7eaf34"
 -
   name:"Foothill Drive"
   hex:"#cab48e"
@@ -41471,6 +41486,9 @@
   name:"Mantle"
   hex:"#96a793"
 -
+  name:"Manually Pressed Grapes"
+  hex:"#881144"
+-
   name:"Manure"
   hex:"#ad900d"
 -
@@ -44687,6 +44705,9 @@
   name:"Moot Green"
   hex:"#a2db10"
 -
+  name:"Moping Green"
+  hex:"#00ee33"
+-
   name:"Morado Purple"
   hex:"#9955cc"
 -
@@ -47164,6 +47185,9 @@
 -
   name:"Not Yo Cheese"
   hex:"#ffc12c"
+-
+  name:"Notebook Paper"
+  hex:"#e8ebe6"
 -
   name:"Notes of Plum"
   hex:"#770f05"
@@ -64034,6 +64058,9 @@
   name:"So Shy"
   hex:"#dad5d6"
 -
+  name:"So Sour"
+  hex:"#00ff11"
+-
   name:"So Sublime"
   hex:"#8b847c"
 -
@@ -69178,6 +69205,9 @@
 -
   name:"Tennis Blue"
   hex:"#7cb5c6"
+-
+  name:"Tennis Court"
+  hex:"#c8450c"
 -
   name:"Tense Terracotta"
   hex:"#a35732"
@@ -76420,6 +76450,9 @@
 -
   name:"Wool White"
   hex:"#f9ede4"
+-
+  name:"Wool-Milk Pig"
+  hex:"#dbbdaa"
 -
   name:"Woolen Mittens"
   hex:"#b59f55"
