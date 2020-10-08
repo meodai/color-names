@@ -6,9 +6,9 @@
 [![GitHub release](https://img.shields.io/github/release/meodai/color-names.svg)](https://github.com/meodai/color-names/)
 [![npm version](https://img.shields.io/npm/v/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
 [![npm](https://img.shields.io/npm/dt/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
-[![name count](https://img.shields.io/badge/25780-names-orange.svg)](https://github.com/meodai/color-names/blob/master/src/colornames.csv)
+[![name count](https://img.shields.io/badge/25810-names-orange.svg)](https://github.com/meodai/color-names/blob/master/src/colornames.csv)
 
-A handpicked list of __25791__ unique color names from [various sources](#sources-) and thousands of curated user submissions.
+A handpicked list of __25810__ unique color names from [various sources](#sources-) and thousands of curated user submissions.
 
 > The names of color function like a thread attached to a frightfully slender needle, capable of stitching together our most delicate emotions and memories. When the needle hits the target, we feel either pleasure or empathy. **Kenya Hara – White**
 
@@ -31,7 +31,7 @@ The aim of this project is to create as large a list of color names as possible 
 
 Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute!
 
-## Color Count: __25791__ 🎉
+## Color Count: __25810__ 🎉
 
 ~__0.15%__ of the RGB color space
 
@@ -189,7 +189,7 @@ See [package.json](package.json#L6) for more.
 
 ### Color Namers
 
-[Verena the naming overloard], [Jess the name wizzard], [Syl], [Stephanie Stutz], [Simbiasamba], [Jason Wilson], [Inês João], [Nick Niles], [Qwhex], [Ichatdelune], [basgys], Shelina S., Trevor Elia, [cheesits456], [Sandhya Subram]
+[Verena the naming overloard], [Jess the name wizzard], [Syl], [Stephanie Stutz], [Simbiasamba], [Jason Wilson], [Inês João], [Nick Niles], [Qwhex], [Ichatdelune], [basgys], Shelina S., Trevor Elia, [cheesits456], [Sandhya Subram], [BerylBucket]
 
 ## Disclaimer 👮🏾‍
 
@@ -240,6 +240,7 @@ As some of the color names come from other lists, some bad ones might slip in. [
 [basgys]: https://github.com/basgys
 [cheesits456]: https://cheesits456.dev
 [Sandhya Subram]: https://sandhyasubram.github.io/
+[BerylBucket]: https://github.com/BerylBucket
 
 <!-- Sources: Names -->
 

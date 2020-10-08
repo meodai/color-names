@@ -20,6 +20,7 @@
 --color-a-state-of-mint:#88ffcc;
 --color-aare-river:#00b89f;
 --color-aare-river-brienz:#05a3ad;
+--color-aarhusian-sky:#1150af;
 --color-abaddon-black:#231f20;
 --color-abaidh-white:#f2f1e6;
 --color-abalone:#f8f3f6;
@@ -455,6 +456,7 @@
 --color-always-rosey:#e79db3;
 --color-alyssa:#f4e2d6;
 --color-amalfi-coast:#297cbf;
+--color-amalfitan-azure:#033b9a;
 --color-amaranth:#e86ead;
 --color-amaranth-blossom:#7b2331;
 --color-amaranth-deep-purple:#9f2b68;
@@ -2863,6 +2865,7 @@
 --color-bluster-blue:#4a5a6f;
 --color-blustery-day:#d6dfe7;
 --color-blustery-wind:#b6c5c1;
+--color-bnei-brak-bay:#1d5bd6;
 --color-boa:#8e855f;
 --color-boardman:#757760;
 --color-boat-anchor:#6c6b6a;
@@ -3120,6 +3123,7 @@
 --color-breezy-blue:#bad9e5;
 --color-breonne-blue:#2d567c;
 --color-bresaola:#a9203e;
+--color-brescian-blue:#0080ff;
 --color-bretzel-brown:#aa5555;
 --color-brewed-mustard:#e68364;
 --color-brewing-storm:#777788;
@@ -3480,6 +3484,7 @@
 --color-bullfrog:#8a966a;
 --color-bulma-hair:#359e6b;
 --color-bulrush:#6d5837;
+--color-bumangués-blue:#0777bc;
 --color-bumble-baby:#f5f1de;
 --color-bumblebee:#ffc82a;
 --color-bunchberry:#674961;
@@ -3772,6 +3777,7 @@
 --color-california-roll:#a09574;
 --color-california-sagebrush:#959988;
 --color-california-stucco:#c5ad9a;
+--color-california-sunset:#ca1850;
 --color-california-wine:#ca4b65;
 --color-calla:#f2dfb5;
 --color-calla-green:#6a6f34;
@@ -3979,6 +3985,7 @@
 --color-capital-blue:#1a4157;
 --color-capital-grains:#dbd0a8;
 --color-capital-yellow:#e6ba45;
+--color-capitalino-cactus:#008f4c;
 --color-capocollo:#d9544d;
 --color-caponata:#822a10;
 --color-cappuccino:#633f33;
@@ -4035,6 +4042,7 @@
 --color-caramelized-pecan:#a17b4d;
 --color-caramelized-walnut:#6e564a;
 --color-caramelo-dulce:#d69e6b;
+--color-caraquenian-crimson:#9c0013;
 --color-caravel-brown:#8c6e54;
 --color-caraway:#a19473;
 --color-caraway-brown:#6d563c;
@@ -6561,6 +6569,7 @@
 --color-del-rio:#b5998e;
 --color-del-sol-maize:#dabf92;
 --color-delaunay-green:#aab350;
+--color-delaware-blue-hen:#76a09e;
 --color-delectable:#9a92a7;
 --color-delft:#3d5e8c;
 --color-delft-blue:#3311ee;
@@ -11139,6 +11148,7 @@
 --color-huckleberry-brown:#71563b;
 --color-hudson:#eadbd2;
 --color-hudson-bee:#fdef02;
+--color-huelveño-horizon:#17a9e5;
 --color-hughs-hue:#9fa09f;
 --color-hugo:#e6cfcc;
 --color-hūi-sè-grey:#c1c6d3;
@@ -11318,6 +11328,7 @@
 --color-idyllic-pink:#c89eb7;
 --color-igloo:#fdfcfa;
 --color-igloo-blue:#c9e5eb;
+--color-iguaçuense-waterfall:#2e776d;
 --color-iguana:#818455;
 --color-iguana-green:#71bc77;
 --color-ikkonzome-pink:#f08f90;
@@ -11563,6 +11574,7 @@
 --color-iolite:#707bb4;
 --color-ionic-sky:#d0ede9;
 --color-ionized-air-glow:#55ddff;
+--color-iqaluit-ice:#93cfe3;
 --color-ireland-green:#006c2e;
 --color-iridescent:#3a5b52;
 --color-iridescent-green:#48c072;
@@ -11648,6 +11660,7 @@
 --color-isle-of-capri:#0099c9;
 --color-isle-of-dreams:#bcccb5;
 --color-isle-of-pines:#3e6655;
+--color-isle-of-sand:#f9dd13;
 --color-isle-royale:#80d7cf;
 --color-isolation:#494d55;
 --color-isotonic-water:#ddff55;
@@ -13148,6 +13161,7 @@
 --color-limed-spruce:#394851;
 --color-limed-white:#cfc9c0;
 --color-limelight:#f0e87d;
+--color-limeño-limón:#f8b109;
 --color-limerick:#76857b;
 --color-limescent:#e0d4b7;
 --color-limesicle:#f2eabf;
@@ -13532,6 +13546,7 @@
 --color-luxor-gold:#ab8d3f;
 --color-luxury:#818eb1;
 --color-lviv-blue:#384172;
+--color-lvivian-rain:#0182cc;
 --color-lyceum-(was-lycra-strip):#adcf43;
 --color-lychee:#ba0b32;
 --color-lychee-pulp:#f7f2da;
@@ -13602,6 +13617,7 @@
 --color-madras:#473e23;
 --color-madras-blue:#9ac3da;
 --color-madrid-beige:#ecbf9f;
+--color-madrileño-maroon:#8f003a;
 --color-magenta:#ff00ff;
 --color-magenta-affair:#aa44dd;
 --color-magenta-crayon:#ff55a3;
@@ -14357,6 +14373,7 @@
 --color-mǐ-bái-beige:#dad7ad;
 --color-mì-chéng-honey:#e8af45;
 --color-miami-jade:#17917f;
+--color-miami-marmalade:#f7931a;
 --color-miami-spice:#907a6e;
 --color-miami-stucco:#f5d5b8;
 --color-miami-weiss:#ede4d3;
@@ -16324,6 +16341,7 @@
 --color-oswego-tea:#665d59;
 --color-ōtan-red:#ff4e20;
 --color-otis-madeira:#633d38;
+--color-ottawa-falls:#00a78d;
 --color-otter:#7f674f;
 --color-otter-brown:#654320;
 --color-otter-creek:#3f5a5d;
@@ -22898,6 +22916,7 @@
 --color-tansy:#c7c844;
 --color-tantalizing-tan:#f3dcd1;
 --color-tantanmen-brown:#857158;
+--color-tanzanian-gold:#fcd215;
 --color-tanzanite:#1478a7;
 --color-tanzanite-blue:#114a6b;
 --color-taos-taupe:#bfa77f;
