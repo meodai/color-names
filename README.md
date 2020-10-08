@@ -240,6 +240,7 @@ As some of the color names come from other lists, some bad ones might slip in. [
 [basgys]: https://github.com/basgys
 [cheesits456]: https://cheesits456.dev
 [Sandhya Subram]: https://sandhyasubram.github.io/
+[BerylBucket]: https://github.com/BerylBucket
 
 <!-- Sources: Names -->
 
