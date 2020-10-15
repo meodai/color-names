@@ -1754,6 +1754,12 @@
   name:"Anakiwa"
   hex:"#8cceea"
 -
+  name:"Anarchist"
+  hex:"#db304a"
+-
+  name:"Anarchy"
+  hex:"#de0300"
+-
   name:"Ancestral"
   hex:"#d0c1c3"
 -
@@ -3601,6 +3607,9 @@
 -
   name:"Assassin"
   hex:"#2d4f83"
+-
+  name:"Assassin's Red"
+  hex:"#f60206"
 -
   name:"Assateague Sand"
   hex:"#e1d0b2"
@@ -8949,7 +8958,7 @@
   hex:"#90966d"
 -
   name:"Boston University Red"
-  hex:"#cc0000"
+  hex:"#cc0002"
 -
   name:"Bōtan"
   hex:"#a2345c"
@@ -9066,7 +9075,7 @@
   hex:"#8cacd6"
 -
   name:"Boy Red"
-  hex:"#0e9ca5"
+  hex:"#b3111d"
 -
   name:"Boycott"
   hex:"#635c53"
@@ -16127,6 +16136,9 @@
   name:"Common Teal"
   hex:"#009193"
 -
+  name:"Communist"
+  hex:"#cc0000"
+-
   name:"Community"
   hex:"#d0b997"
 -
@@ -19915,6 +19927,9 @@
 -
   name:"Demitasse"
   hex:"#40342b"
+-
+  name:"Democrat"
+  hex:"#00aef3"
 -
   name:"Demon"
   hex:"#224376"
@@ -38114,6 +38129,9 @@
   name:"Liberal Lilac"
   hex:"#9955bb"
 -
+  name:"Liberalist"
+  hex:"#0c4792"
+-
   name:"Liberated Lime"
   hex:"#d8ddcc"
 -
@@ -44431,6 +44449,9 @@
 -
   name:"Monarch's Cocoon"
   hex:"#8cb293"
+-
+  name:"Monarchist"
+  hex:"#4b62d2"
 -
   name:"Monarchy"
   hex:"#9093ad"
@@ -57557,6 +57578,9 @@
   name:"Reptilian Green"
   hex:"#009e82"
 -
+  name:"Republican"
+  hex:"#de0100"
+-
   name:"Requiem"
   hex:"#4e3f44"
 -
@@ -60625,6 +60649,9 @@
 -
   name:"Savoy"
   hex:"#87b550"
+-
+  name:"Savoy Blue"
+  hex:"#4b61d1"
 -
   name:"Sawdust"
   hex:"#f6e9cf"
@@ -64174,6 +64201,9 @@
 -
   name:"Social Butterfly"
   hex:"#faf2dc"
+-
+  name:"Socialist"
+  hex:"#921a1c"
 -
   name:"Soda Pop"
   hex:"#c3c67e"
@@ -68357,6 +68387,9 @@
   name:"Synchronicity"
   hex:"#c7d4ce"
 -
+  name:"Syndicalist"
+  hex:"#f8c300"
+-
   name:"Syndicate Camouflage"
   hex:"#918151"
 -
@@ -71407,6 +71440,9 @@
 -
   name:"Turkish Blue"
   hex:"#007fae"
+-
+  name:"Turkish Boy"
+  hex:"#0e9ca5"
 -
   name:"Turkish Coffee"
   hex:"#483f39"

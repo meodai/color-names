@@ -584,6 +584,8 @@
 --color-amygdala-purple:#69045f;
 --color-àn-zǐ-purple:#94568c;
 --color-anakiwa:#8cceea;
+--color-anarchist:#db304a;
+--color-anarchy:#de0300;
 --color-ancestral:#d0c1c3;
 --color-ancestral-water:#d0d0d0;
 --color-ancestry-violet:#9e90a7;
@@ -1200,6 +1202,7 @@
 --color-asphalt-grey:#5e5e5d;
 --color-aspiring-blue:#a2c1c0;
 --color-assassin:#2d4f83;
+--color-assassins-red:#f60206;
 --color-assateague-sand:#e1d0b2;
 --color-assault:#1c4374;
 --color-aster:#867ba9;
@@ -2982,7 +2985,7 @@
 --color-boston-blue:#438eac;
 --color-boston-brick:#87544e;
 --color-boston-fern:#90966d;
---color-boston-university-red:#cc0000;
+--color-boston-university-red:#cc0002;
 --color-bōtan:#a2345c;
 --color-botanical-beauty:#227700;
 --color-botanical-garden:#44aa11;
@@ -3021,7 +3024,7 @@
 --color-boxwood:#707b71;
 --color-boxwood-yellow:#efe4a5;
 --color-boy-blue:#8cacd6;
---color-boy-red:#0e9ca5;
+--color-boy-red:#b3111d;
 --color-boycott:#635c53;
 --color-boynton-canyon:#9f4e3e;
 --color-boysenberry:#873260;
@@ -5375,6 +5378,7 @@
 --color-common-feldspar:#858f94;
 --color-common-jasper:#946943;
 --color-common-teal:#009193;
+--color-communist:#cc0000;
 --color-community:#d0b997;
 --color-como:#4c785c;
 --color-compact-disc-grey:#cdcdcd;
@@ -6638,6 +6642,7 @@
 --color-demeter:#ecda9e;
 --color-demeter-green:#00cc00;
 --color-demitasse:#40342b;
+--color-democrat:#00aef3;
 --color-demon:#224376;
 --color-demonic:#bb2233;
 --color-demonic-presence:#7c0a02;
@@ -12704,6 +12709,7 @@
 --color-lián-hóng-lotus-pink:#f075e6;
 --color-liberace:#ccb8d2;
 --color-liberal-lilac:#9955bb;
+--color-liberalist:#0c4792;
 --color-liberated-lime:#d8ddcc;
 --color-liberator-gold:#e8c447;
 --color-liberia:#efe2db;
@@ -14810,6 +14816,7 @@
 --color-monarch-orange:#efa06b;
 --color-monarch-wing:#ff8d25;
 --color-monarchs-cocoon:#8cb293;
+--color-monarchist:#4b62d2;
 --color-monarchy:#9093ad;
 --color-monastery-mantle:#41363a;
 --color-monastic:#aba9d2;
@@ -19185,6 +19192,7 @@
 --color-renwick-brown:#504e47;
 --color-reptile-green:#24da91;
 --color-reptilian-green:#009e82;
+--color-republican:#de0100;
 --color-requiem:#4e3f44;
 --color-reseda:#a1ad92;
 --color-reservation:#8c7544;
@@ -20208,6 +20216,7 @@
 --color-savon-de-provence:#eed9b6;
 --color-savory-salmon:#d19c97;
 --color-savoy:#87b550;
+--color-savoy-blue:#4b61d1;
 --color-sawdust:#f6e9cf;
 --color-sawgrass:#d1cfc0;
 --color-sawgrass-cottage:#d3cda2;
@@ -21391,6 +21400,7 @@
 --color-soccer-turf:#22bb00;
 --color-sociable:#cf8c76;
 --color-social-butterfly:#faf2dc;
+--color-socialist:#921a1c;
 --color-soda-pop:#c3c67e;
 --color-sodalite-blue:#253668;
 --color-sōdenkaracha-brown:#9b533f;
@@ -22785,6 +22795,7 @@
 --color-symphony-of-blue:#89a0a6;
 --color-synallactida:#331133;
 --color-synchronicity:#c7d4ce;
+--color-syndicalist:#f8c300;
 --color-syndicate-camouflage:#918151;
 --color-synthetic-mint:#9ffeb0;
 --color-synthetic-pumpkin:#ff7538;
@@ -23802,6 +23813,7 @@
 --color-turkish-aqua:#006169;
 --color-turkish-bath:#bb937b;
 --color-turkish-blue:#007fae;
+--color-turkish-boy:#0e9ca5;
 --color-turkish-coffee:#483f39;
 --color-turkish-jade:#2b888d;
 --color-turkish-rose:#a56e75;

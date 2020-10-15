@@ -2341,6 +2341,14 @@
 <hex>#8cceea</hex>
 </color>
 <color>
+<name>Anarchist</name>
+<hex>#db304a</hex>
+</color>
+<color>
+<name>Anarchy</name>
+<hex>#de0300</hex>
+</color>
+<color>
 <name>Ancestral</name>
 <hex>#d0c1c3</hex>
 </color>
@@ -4803,6 +4811,10 @@
 <color>
 <name>Assassin</name>
 <hex>#2d4f83</hex>
+</color>
+<color>
+<name>Assassin's Red</name>
+<hex>#f60206</hex>
 </color>
 <color>
 <name>Assateague Sand</name>
@@ -11934,7 +11946,7 @@
 </color>
 <color>
 <name>Boston University Red</name>
-<hex>#cc0000</hex>
+<hex>#cc0002</hex>
 </color>
 <color>
 <name>Bōtan</name>
@@ -12090,7 +12102,7 @@
 </color>
 <color>
 <name>Boy Red</name>
-<hex>#0e9ca5</hex>
+<hex>#b3111d</hex>
 </color>
 <color>
 <name>Boycott</name>
@@ -21505,6 +21517,10 @@
 <hex>#009193</hex>
 </color>
 <color>
+<name>Communist</name>
+<hex>#cc0000</hex>
+</color>
+<color>
 <name>Community</name>
 <hex>#d0b997</hex>
 </color>
@@ -26555,6 +26571,10 @@
 <color>
 <name>Demitasse</name>
 <hex>#40342b</hex>
+</color>
+<color>
+<name>Democrat</name>
+<hex>#00aef3</hex>
 </color>
 <color>
 <name>Demon</name>
@@ -50821,6 +50841,10 @@
 <hex>#9955bb</hex>
 </color>
 <color>
+<name>Liberalist</name>
+<hex>#0c4792</hex>
+</color>
+<color>
 <name>Liberated Lime</name>
 <hex>#d8ddcc</hex>
 </color>
@@ -59243,6 +59267,10 @@
 <color>
 <name>Monarch's Cocoon</name>
 <hex>#8cb293</hex>
+</color>
+<color>
+<name>Monarchist</name>
+<hex>#4b62d2</hex>
 </color>
 <color>
 <name>Monarchy</name>
@@ -76745,6 +76773,10 @@
 <hex>#009e82</hex>
 </color>
 <color>
+<name>Republican</name>
+<hex>#de0100</hex>
+</color>
+<color>
 <name>Requiem</name>
 <hex>#4e3f44</hex>
 </color>
@@ -80835,6 +80867,10 @@
 <color>
 <name>Savoy</name>
 <hex>#87b550</hex>
+</color>
+<color>
+<name>Savoy Blue</name>
+<hex>#4b61d1</hex>
 </color>
 <color>
 <name>Sawdust</name>
@@ -85567,6 +85603,10 @@
 <color>
 <name>Social Butterfly</name>
 <hex>#faf2dc</hex>
+</color>
+<color>
+<name>Socialist</name>
+<hex>#921a1c</hex>
 </color>
 <color>
 <name>Soda Pop</name>
@@ -91145,6 +91185,10 @@
 <hex>#c7d4ce</hex>
 </color>
 <color>
+<name>Syndicalist</name>
+<hex>#f8c300</hex>
+</color>
+<color>
 <name>Syndicate Camouflage</name>
 <hex>#918151</hex>
 </color>
@@ -95211,6 +95255,10 @@
 <color>
 <name>Turkish Blue</name>
 <hex>#007fae</hex>
+</color>
+<color>
+<name>Turkish Boy</name>
+<hex>#0e9ca5</hex>
 </color>
 <color>
 <name>Turkish Coffee</name>
