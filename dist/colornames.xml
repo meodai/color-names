@@ -3861,6 +3861,10 @@
 <hex>#3cadd4</hex>
 </color>
 <color>
+<name>Aquarius Reef Base</name>
+<hex>#559999</hex>
+</color>
+<color>
 <name>Aquatic</name>
 <hex>#99c1cc</hex>
 </color>
@@ -9163,6 +9167,10 @@
 <color>
 <name>Black Pudding</name>
 <hex>#a44a56</hex>
+</color>
+<color>
+<name>Black Queen</name>
+<hex>#694d27</hex>
 </color>
 <color>
 <name>Black Raspberry</name>
@@ -32869,6 +32877,10 @@
 <hex>#dbe0d0</hex>
 </color>
 <color>
+<name>Feverish</name>
+<hex>#dd6677</hex>
+</color>
+<color>
 <name>Fibre Moss</name>
 <hex>#bec0af</hex>
 </color>
@@ -44437,6 +44449,10 @@
 <hex>#f55931</hex>
 </color>
 <color>
+<name>Hot Fever</name>
+<hex>#d40301</hex>
+</color>
+<color>
 <name>Hot Flamingo</name>
 <hex>#b35966</hex>
 </color>
@@ -53993,8 +54009,16 @@
 <hex>#415053</hex>
 </color>
 <color>
+<name>Lunar Federation</name>
+<hex>#868381</hex>
+</color>
+<color>
 <name>Lunar Green</name>
 <hex>#4e5541</hex>
+</color>
+<color>
+<name>Lunar Lander</name>
+<hex>#dece9e</hex>
 </color>
 <color>
 <name>Lunar Landing</name>
@@ -54007,6 +54031,10 @@
 <color>
 <name>Lunar Light</name>
 <hex>#9b959c</hex>
+</color>
+<color>
+<name>Lunar Outpost</name>
+<hex>#828287</hex>
 </color>
 <color>
 <name>Lunar Rays</name>
@@ -55831,6 +55859,10 @@
 <color>
 <name>Martian</name>
 <hex>#aea132</hex>
+</color>
+<color>
+<name>Martian Colony</name>
+<hex>#e5750f</hex>
 </color>
 <color>
 <name>Martian Green</name>
@@ -59495,6 +59527,10 @@
 <color>
 <name>Mooloolaba</name>
 <hex>#c7b8a9</hex>
+</color>
+<color>
+<name>Moon Base</name>
+<hex>#7d7d77</hex>
 </color>
 <color>
 <name>Moon Buggy</name>
@@ -77745,6 +77781,10 @@
 <hex>#f4e4e0</hex>
 </color>
 <color>
+<name>Rocket Fuel</name>
+<hex>#fefbe5</hex>
+</color>
+<color>
 <name>Rocket Man</name>
 <hex>#bebec3</hex>
 </color>
@@ -89243,6 +89283,10 @@
 <color>
 <name>Submarine</name>
 <hex>#7a7778</hex>
+</color>
+<color>
+<name>Submarine Base</name>
+<hex>#5566aa</hex>
 </color>
 <color>
 <name>Submarine Grey</name>

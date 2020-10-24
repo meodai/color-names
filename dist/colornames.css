@@ -964,6 +964,7 @@
 --color-aquarium-blue:#66cdaa;
 --color-aquarium-diver:#0a98ac;
 --color-aquarius:#3cadd4;
+--color-aquarius-reef-base:#559999;
 --color-aquatic:#99c1cc;
 --color-aquatic-cool:#41a0b4;
 --color-aquatic-green:#49999a;
@@ -2290,6 +2291,7 @@
 --color-black-pool:#4f5552;
 --color-black-powder:#34342c;
 --color-black-pudding:#a44a56;
+--color-black-queen:#694d27;
 --color-black-raspberry:#16110d;
 --color-black-ribbon:#484c51;
 --color-black-river-falls:#343e54;
@@ -8216,6 +8218,7 @@
 --color-festive-ferret:#dfdfe5;
 --color-festive-green:#008c6c;
 --color-feta:#dbe0d0;
+--color-feverish:#dd6677;
 --color-fibre-moss:#bec0af;
 --color-ficus:#3b593a;
 --color-ficus-elastica:#006131;
@@ -11108,6 +11111,7 @@
 --color-hot-desert:#eae4da;
 --color-hot-dog-relish:#717c3e;
 --color-hot-embers:#f55931;
+--color-hot-fever:#d40301;
 --color-hot-flamingo:#b35966;
 --color-hot-ginger:#a36736;
 --color-hot-gossip:#e07c89;
@@ -13497,10 +13501,13 @@
 --color-lunar-base:#878786;
 --color-lunar-dust:#ccccdd;
 --color-lunar-eclipse:#415053;
+--color-lunar-federation:#868381;
 --color-lunar-green:#4e5541;
+--color-lunar-lander:#dece9e;
 --color-lunar-landing:#d2cfc1;
 --color-lunar-launch-site:#938673;
 --color-lunar-light:#9b959c;
+--color-lunar-outpost:#828287;
 --color-lunar-rays:#caced2;
 --color-lunar-rock:#c5c5c5;
 --color-lunar-shadow:#707685;
@@ -13957,6 +13964,7 @@
 --color-marshy-habitat:#b8aea2;
 --color-marsupilami:#fdf200;
 --color-martian:#aea132;
+--color-martian-colony:#e5750f;
 --color-martian-green:#136c51;
 --color-martian-haze:#adeace;
 --color-martian-ironcrust:#b7410e;
@@ -14873,6 +14881,7 @@
 --color-moody-blue:#8378c7;
 --color-moody-blues:#586e75;
 --color-mooloolaba:#c7b8a9;
+--color-moon-base:#7d7d77;
 --color-moon-buggy:#c7bdc1;
 --color-moon-dance:#faefbe;
 --color-moon-drop:#ddd5c9;
@@ -19435,6 +19444,7 @@
 --color-rocknrose:#fc8aaa;
 --color-rockabilly:#6c7186;
 --color-rockabye-baby:#f4e4e0;
+--color-rocket-fuel:#fefbe5;
 --color-rocket-man:#bebec3;
 --color-rocket-metallic:#8a7f80;
 --color-rocket-science:#ff3311;
@@ -22310,6 +22320,7 @@
 --color-subdued-hue:#c6b1ad;
 --color-sublime:#ecede0;
 --color-submarine:#7a7778;
+--color-submarine-base:#5566aa;
 --color-submarine-grey:#4d585c;
 --color-submerge:#4a7d82;
 --color-submersible:#00576e;

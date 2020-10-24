@@ -2894,6 +2894,9 @@
   name:"Aquarius"
   hex:"#3cadd4"
 -
+  name:"Aquarius Reef Base"
+  hex:"#559999"
+-
   name:"Aquatic"
   hex:"#99c1cc"
 -
@@ -6871,6 +6874,9 @@
 -
   name:"Black Pudding"
   hex:"#a44a56"
+-
+  name:"Black Queen"
+  hex:"#694d27"
 -
   name:"Black Raspberry"
   hex:"#16110d"
@@ -24650,6 +24656,9 @@
   name:"Feta"
   hex:"#dbe0d0"
 -
+  name:"Feverish"
+  hex:"#dd6677"
+-
   name:"Fibre Moss"
   hex:"#bec0af"
 -
@@ -33326,6 +33335,9 @@
   name:"Hot Embers"
   hex:"#f55931"
 -
+  name:"Hot Fever"
+  hex:"#d40301"
+-
   name:"Hot Flamingo"
   hex:"#b35966"
 -
@@ -40493,8 +40505,14 @@
   name:"Lunar Eclipse"
   hex:"#415053"
 -
+  name:"Lunar Federation"
+  hex:"#868381"
+-
   name:"Lunar Green"
   hex:"#4e5541"
+-
+  name:"Lunar Lander"
+  hex:"#dece9e"
 -
   name:"Lunar Landing"
   hex:"#d2cfc1"
@@ -40504,6 +40522,9 @@
 -
   name:"Lunar Light"
   hex:"#9b959c"
+-
+  name:"Lunar Outpost"
+  hex:"#828287"
 -
   name:"Lunar Rays"
   hex:"#caced2"
@@ -41872,6 +41893,9 @@
 -
   name:"Martian"
   hex:"#aea132"
+-
+  name:"Martian Colony"
+  hex:"#e5750f"
 -
   name:"Martian Green"
   hex:"#136c51"
@@ -44620,6 +44644,9 @@
 -
   name:"Mooloolaba"
   hex:"#c7b8a9"
+-
+  name:"Moon Base"
+  hex:"#7d7d77"
 -
   name:"Moon Buggy"
   hex:"#c7bdc1"
@@ -58307,6 +58334,9 @@
   name:"Rockabye Baby"
   hex:"#f4e4e0"
 -
+  name:"Rocket Fuel"
+  hex:"#fefbe5"
+-
   name:"Rocket Man"
   hex:"#bebec3"
 -
@@ -66931,6 +66961,9 @@
 -
   name:"Submarine"
   hex:"#7a7778"
+-
+  name:"Submarine Base"
+  hex:"#5566aa"
 -
   name:"Submarine Grey"
   hex:"#4d585c"
