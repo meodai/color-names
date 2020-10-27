@@ -5282,6 +5282,9 @@
   name:"Naval"
   hex:"#41729f"
 -
+  name:"Near Moon"
+  hex:"#5ee7df"
+-
   name:"Nebula"
   hex:"#a104c3"
 -
@@ -6581,6 +6584,9 @@
   name:"Ridgeback"
   hex:"#ef985c"
 -
+  name:"Ripe Malinka"
+  hex:"#f5576c"
+-
   name:"Roasted Pepper"
   hex:"#890a01"
 -
@@ -6646,6 +6652,9 @@
 -
   name:"Salsa Verde"
   hex:"#cec754"
+-
+  name:"Salt Mountain"
+  hex:"#d7fefe"
 -
   name:"Salted Caramel Popcorn"
   hex:"#fdb251"
