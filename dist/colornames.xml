@@ -2337,6 +2337,10 @@
 <hex>#94568c</hex>
 </color>
 <color>
+<name>Anaheim Pepper</name>
+<hex>#00bb44</hex>
+</color>
+<color>
 <name>Anakiwa</name>
 <hex>#8cceea</hex>
 </color>
@@ -6529,6 +6533,10 @@
 <hex>#ffe774</hex>
 </color>
 <color>
+<name>Banana Pepper</name>
+<hex>#fdd630</hex>
+</color>
+<color>
 <name>Banana Pie</name>
 <hex>#f7efd7</hex>
 </color>
@@ -8699,6 +8707,10 @@
 <color>
 <name>Bird's Nest</name>
 <hex>#cfbb9b</hex>
+</color>
+<color>
+<name>Bird’s Eye</name>
+<hex>#b9030a</hex>
 </color>
 <color>
 <name>Birdhouse Brown</name>
@@ -19185,6 +19197,10 @@
 <hex>#775130</hex>
 </color>
 <color>
+<name>Chocolate Bhut Jolokia</name>
+<hex>#782a2e</hex>
+</color>
+<color>
 <name>Chocolate Brown</name>
 <hex>#411900</hex>
 </color>
@@ -27897,6 +27913,10 @@
 <hex>#fff200</hex>
 </color>
 <color>
+<name>Dorset Naga</name>
+<hex>#9d2c31</hex>
+</color>
+<color>
 <name>Dotted Dove</name>
 <hex>#6c6868</hex>
 </color>
@@ -28115,6 +28135,10 @@
 <color>
 <name>Dragon's Blood</name>
 <hex>#b84048</hex>
+</color>
+<color>
+<name>Dragon's Breath</name>
+<hex>#d41003</hex>
 </color>
 <color>
 <name>Dragon's Fire</name>
@@ -37289,6 +37313,10 @@
 <hex>#9c9b98</hex>
 </color>
 <color>
+<name>Ghost Pepper</name>
+<hex>#c10102</hex>
+</color>
+<color>
 <name>Ghost Ship</name>
 <hex>#887b6e</hex>
 </color>
@@ -41611,6 +41639,10 @@
 <color>
 <name>H₂O</name>
 <hex>#bfe1e6</hex>
+</color>
+<color>
+<name>Habanero</name>
+<hex>#f98513</hex>
 </color>
 <color>
 <name>Habanero Gold</name>
@@ -47177,15 +47209,15 @@
 <hex>#3d325d</hex>
 </color>
 <color>
-<name>Jalapeno</name>
+<name>Jalapeño</name>
 <hex>#9a8d3f</hex>
 </color>
 <color>
-<name>Jalapeno Poppers</name>
+<name>Jalapeño Bouquet</name>
 <hex>#576648</hex>
 </color>
 <color>
-<name>Jalapeno Red</name>
+<name>Jalapeño Red</name>
 <hex>#b2103c</hex>
 </color>
 <color>
@@ -49007,6 +49039,10 @@
 <color>
 <name>Kommando Khaki</name>
 <hex>#9d907e</hex>
+</color>
+<color>
+<name>Komodo Dragon</name>
+<hex>#b38052</hex>
 </color>
 <color>
 <name>Komorebi</name>
@@ -61361,6 +61397,14 @@
 <hex>#afc9c0</hex>
 </color>
 <color>
+<name>Naga Morich</name>
+<hex>#c90406</hex>
+</color>
+<color>
+<name>Naga Viper Pepper</name>
+<hex>#ed292b</hex>
+</color>
+<color>
 <name>Naggaroth Night</name>
 <hex>#3d3354</hex>
 </color>
@@ -68757,6 +68801,10 @@
 <hex>#e1e9db</hex>
 </color>
 <color>
+<name>Peri Peri</name>
+<hex>#c62d2c</hex>
+</color>
+<color>
 <name>Pericallis Hybrida</name>
 <hex>#904fef</hex>
 </color>
@@ -71563,6 +71611,10 @@
 <color>
 <name>Poached Rainbow Trout</name>
 <hex>#ff8552</hex>
+</color>
+<color>
+<name>Poblano</name>
+<hex>#077f1b</hex>
 </color>
 <color>
 <name>Pochard Duck Head</name>
@@ -76291,6 +76343,10 @@
 <color>
 <name>Red Sandstorm</name>
 <hex>#e5cac0</hex>
+</color>
+<color>
+<name>Red Savina Pepper</name>
+<hex>#ee0128</hex>
 </color>
 <color>
 <name>Red Shade Wash</name>
@@ -81283,6 +81339,10 @@
 <color>
 <name>Scotch Blue</name>
 <hex>#000077</hex>
+</color>
+<color>
+<name>Scotch Bonnet</name>
+<hex>#fe9f00</hex>
 </color>
 <color>
 <name>Scotch Lassie</name>
@@ -89597,6 +89657,10 @@
 <hex>#ebe5d7</hex>
 </color>
 <color>
+<name>Sugar Rush Peach Pepper</name>
+<hex>#cfb599</hex>
+</color>
+<color>
 <name>Sugar Shack</name>
 <hex>#eed5b6</hex>
 </color>
@@ -92789,8 +92853,16 @@
 <hex>#7a7f3f</hex>
 </color>
 <color>
+<name>Thai Chili</name>
+<hex>#ce0001</hex>
+</color>
+<color>
 <name>Thai Curry</name>
 <hex>#ab6819</hex>
+</color>
+<color>
+<name>Thai Hot</name>
+<hex>#fe1c06</hex>
 </color>
 <color>
 <name>Thai Ice Tea</name>
@@ -93143,6 +93215,10 @@
 <color>
 <name>Thunder Chi</name>
 <hex>#aac4d4</hex>
+</color>
+<color>
+<name>Thunder Mountain Longhorn Pepper</name>
+<hex>#ce1b1f</hex>
 </color>
 <color>
 <name>Thunderbird</name>
@@ -94835,6 +94911,10 @@
 <color>
 <name>Trinidad</name>
 <hex>#c54f33</hex>
+</color>
+<color>
+<name>Trinidad Moruga Scorpion</name>
+<hex>#d0343d</hex>
 </color>
 <color>
 <name>Trinity Islands</name>
@@ -100145,6 +100225,10 @@
 <hex>#e3e0e8</hex>
 </color>
 <color>
+<name>White Bullet</name>
+<hex>#dfdfda</hex>
+</color>
+<color>
 <name>White Cabbage</name>
 <hex>#b0b49b</hex>
 </color>
@@ -103099,6 +103183,10 @@
 <color>
 <name>Yucatan</name>
 <hex>#e9af78</hex>
+</color>
+<color>
+<name>Yucatan White Habanero</name>
+<hex>#f2efe0</hex>
 </color>
 <color>
 <name>Yucca</name>

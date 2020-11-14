@@ -1751,6 +1751,9 @@
   name:"Àn Zǐ Purple"
   hex:"#94568c"
 -
+  name:"Anaheim Pepper"
+  hex:"#00bb44"
+-
   name:"Anakiwa"
   hex:"#8cceea"
 -
@@ -4895,6 +4898,9 @@
   name:"Banana Peel"
   hex:"#ffe774"
 -
+  name:"Banana Pepper"
+  hex:"#fdd630"
+-
   name:"Banana Pie"
   hex:"#f7efd7"
 -
@@ -6523,6 +6529,9 @@
 -
   name:"Bird's Nest"
   hex:"#cfbb9b"
+-
+  name:"Bird’s Eye"
+  hex:"#b9030a"
 -
   name:"Birdhouse Brown"
   hex:"#6c483a"
@@ -14387,6 +14396,9 @@
   name:"Chocolate Bells"
   hex:"#775130"
 -
+  name:"Chocolate Bhut Jolokia"
+  hex:"#782a2e"
+-
   name:"Chocolate Brown"
   hex:"#411900"
 -
@@ -20921,6 +20933,9 @@
   name:"Dorn Yellow"
   hex:"#fff200"
 -
+  name:"Dorset Naga"
+  hex:"#9d2c31"
+-
   name:"Dotted Dove"
   hex:"#6c6868"
 -
@@ -21085,6 +21100,9 @@
 -
   name:"Dragon's Blood"
   hex:"#b84048"
+-
+  name:"Dragon's Breath"
+  hex:"#d41003"
 -
   name:"Dragon's Fire"
   hex:"#9c2d5d"
@@ -27965,6 +27983,9 @@
   name:"Ghost Grey"
   hex:"#9c9b98"
 -
+  name:"Ghost Pepper"
+  hex:"#c10102"
+-
   name:"Ghost Ship"
   hex:"#887b6e"
 -
@@ -31207,6 +31228,9 @@
 -
   name:"H₂O"
   hex:"#bfe1e6"
+-
+  name:"Habanero"
+  hex:"#f98513"
 -
   name:"Habanero Gold"
   hex:"#fed450"
@@ -35381,13 +35405,13 @@
   name:"Jakarta Skyline"
   hex:"#3d325d"
 -
-  name:"Jalapeno"
+  name:"Jalapeño"
   hex:"#9a8d3f"
 -
-  name:"Jalapeno Poppers"
+  name:"Jalapeño Bouquet"
   hex:"#576648"
 -
-  name:"Jalapeno Red"
+  name:"Jalapeño Red"
   hex:"#b2103c"
 -
   name:"Jam Session"
@@ -36754,6 +36778,9 @@
 -
   name:"Kommando Khaki"
   hex:"#9d907e"
+-
+  name:"Komodo Dragon"
+  hex:"#b38052"
 -
   name:"Komorebi"
   hex:"#bbc5b2"
@@ -46019,6 +46046,12 @@
   name:"Nadia"
   hex:"#afc9c0"
 -
+  name:"Naga Morich"
+  hex:"#c90406"
+-
+  name:"Naga Viper Pepper"
+  hex:"#ed292b"
+-
   name:"Naggaroth Night"
   hex:"#3d3354"
 -
@@ -51566,6 +51599,9 @@
   name:"Pergola Panorama"
   hex:"#e1e9db"
 -
+  name:"Peri Peri"
+  hex:"#c62d2c"
+-
   name:"Pericallis Hybrida"
   hex:"#904fef"
 -
@@ -53671,6 +53707,9 @@
 -
   name:"Poached Rainbow Trout"
   hex:"#ff8552"
+-
+  name:"Poblano"
+  hex:"#077f1b"
 -
   name:"Pochard Duck Head"
   hex:"#ee9977"
@@ -57217,6 +57256,9 @@
 -
   name:"Red Sandstorm"
   hex:"#e5cac0"
+-
+  name:"Red Savina Pepper"
+  hex:"#ee0128"
 -
   name:"Red Shade Wash"
   hex:"#862808"
@@ -60961,6 +61003,9 @@
 -
   name:"Scotch Blue"
   hex:"#000077"
+-
+  name:"Scotch Bonnet"
+  hex:"#fe9f00"
 -
   name:"Scotch Lassie"
   hex:"#649d85"
@@ -67196,6 +67241,9 @@
   name:"Sugar Quill"
   hex:"#ebe5d7"
 -
+  name:"Sugar Rush Peach Pepper"
+  hex:"#cfb599"
+-
   name:"Sugar Shack"
   hex:"#eed5b6"
 -
@@ -69590,8 +69638,14 @@
   name:"Thai Basil"
   hex:"#7a7f3f"
 -
+  name:"Thai Chili"
+  hex:"#ce0001"
+-
   name:"Thai Curry"
   hex:"#ab6819"
+-
+  name:"Thai Hot"
+  hex:"#fe1c06"
 -
   name:"Thai Ice Tea"
   hex:"#e0a878"
@@ -69856,6 +69910,9 @@
 -
   name:"Thunder Chi"
   hex:"#aac4d4"
+-
+  name:"Thunder Mountain Longhorn Pepper"
+  hex:"#ce1b1f"
 -
   name:"Thunderbird"
   hex:"#923830"
@@ -71125,6 +71182,9 @@
 -
   name:"Trinidad"
   hex:"#c54f33"
+-
+  name:"Trinidad Moruga Scorpion"
+  hex:"#d0343d"
 -
   name:"Trinity Islands"
   hex:"#b9b79b"
@@ -75107,6 +75167,9 @@
   name:"White Bud"
   hex:"#e3e0e8"
 -
+  name:"White Bullet"
+  hex:"#dfdfda"
+-
   name:"White Cabbage"
   hex:"#b0b49b"
 -
@@ -77323,6 +77386,9 @@
 -
   name:"Yucatan"
   hex:"#e9af78"
+-
+  name:"Yucatan White Habanero"
+  hex:"#f2efe0"
 -
   name:"Yucca"
   hex:"#75978f"

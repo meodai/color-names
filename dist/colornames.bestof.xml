@@ -417,6 +417,10 @@
 <hex>#e8d82c</hex>
 </color>
 <color>
+<name>Banana Pepper</name>
+<hex>#fdd630</hex>
+</color>
+<color>
 <name>Bangalore</name>
 <hex>#bbaa88</hex>
 </color>
@@ -473,6 +477,10 @@
 <hex>#e6f2ea</hex>
 </color>
 <color>
+<name>Bath Water</name>
+<hex>#88eeee</hex>
+</color>
+<color>
 <name>Batman</name>
 <hex>#656e72</hex>
 </color>
@@ -499,6 +507,10 @@
 <color>
 <name>Beach Dune</name>
 <hex>#c6bb9c</hex>
+</color>
+<color>
+<name>Beach Glass</name>
+<hex>#96dfce</hex>
 </color>
 <color>
 <name>Bear Hug</name>
@@ -1513,8 +1525,16 @@
 <hex>#72939e</hex>
 </color>
 <color>
+<name>Cayenne</name>
+<hex>#941100</hex>
+</color>
+<color>
 <name>Cedar Chest</name>
 <hex>#c95a49</hex>
+</color>
+<color>
+<name>Celadon Porcelain</name>
+<hex>#7ebea5</hex>
 </color>
 <color>
 <name>Celery</name>
@@ -2669,6 +2689,10 @@
 <hex>#b84048</hex>
 </color>
 <color>
+<name>Dragon's Breath</name>
+<hex>#d41003</hex>
+</color>
+<color>
 <name>Dragonfly</name>
 <hex>#314a76</hex>
 </color>
@@ -3545,6 +3569,10 @@
 <hex>#bb9e7c</hex>
 </color>
 <color>
+<name>French Porcelain</name>
+<hex>#f6f4f6</hex>
+</color>
+<color>
 <name>French Wine</name>
 <hex>#ac1e44</hex>
 </color>
@@ -3803,6 +3831,10 @@
 <color>
 <name>Ghost</name>
 <hex>#c0bfc7</hex>
+</color>
+<color>
+<name>Ghost Pepper</name>
+<hex>#c10102</hex>
 </color>
 <color>
 <name>Ghost Whisperer</name>
@@ -4251,6 +4283,14 @@
 <color>
 <name>H₂O</name>
 <hex>#bfe1e6</hex>
+</color>
+<color>
+<name>Habanero</name>
+<hex>#f98513</hex>
+</color>
+<color>
+<name>Habanero Gold</name>
+<hex>#fed450</hex>
 </color>
 <color>
 <name>Haddock's Sweater</name>
@@ -5157,11 +5197,11 @@
 <hex>#efddc3</hex>
 </color>
 <color>
-<name>Jalapeno</name>
+<name>Jalapeño</name>
 <hex>#9a8d3f</hex>
 </color>
 <color>
-<name>Jalapeno Red</name>
+<name>Jalapeño Red</name>
 <hex>#b2103c</hex>
 </color>
 <color>
@@ -5459,6 +5499,10 @@
 <color>
 <name>Kombucha</name>
 <hex>#d89f66</hex>
+</color>
+<color>
+<name>Komodo Dragon</name>
+<hex>#b38052</hex>
 </color>
 <color>
 <name>Koopa Green Shell</name>
@@ -7045,6 +7089,10 @@
 <hex>#e02e82</hex>
 </color>
 <color>
+<name>Naga Viper Pepper</name>
+<hex>#ed292b</hex>
+</color>
+<color>
 <name>Namibia</name>
 <hex>#7c6d61</hex>
 </color>
@@ -7977,6 +8025,10 @@
 <hex>#bfa58a</hex>
 </color>
 <color>
+<name>Peri Peri</name>
+<hex>#c62d2c</hex>
+</color>
+<color>
 <name>Periwinkle</name>
 <hex>#8e82fe</hex>
 </color>
@@ -8369,6 +8421,10 @@
 <hex>#f5d893</hex>
 </color>
 <color>
+<name>Poblano</name>
+<hex>#077f1b</hex>
+</color>
+<color>
 <name>Poison Ivy</name>
 <hex>#00ad43</hex>
 </color>
@@ -8475,6 +8531,14 @@
 <color>
 <name>Porcelain</name>
 <hex>#dddcdb</hex>
+</color>
+<color>
+<name>Porcelain Mint</name>
+<hex>#dbe7e1</hex>
+</color>
+<color>
+<name>Porcelain Skin</name>
+<hex>#ffe7eb</hex>
 </color>
 <color>
 <name>Porcini</name>
@@ -8949,6 +9013,10 @@
 <hex>#76baa8</hex>
 </color>
 <color>
+<name>Serrano Pepper</name>
+<hex>#556600</hex>
+</color>
+<color>
 <name>Shaving Cream</name>
 <hex>#e1e5e5</hex>
 </color>
@@ -9133,6 +9201,10 @@
 <hex>#886688</hex>
 </color>
 <color>
+<name>Super Pink</name>
+<hex>#ce6ba4</hex>
+</color>
+<color>
 <name>Super Rose Red</name>
 <hex>#cb1028</hex>
 </color>
@@ -9147,6 +9219,10 @@
 <color>
 <name>Sweet Mint Pesto</name>
 <hex>#bbee99</hex>
+</color>
+<color>
+<name>Tabasco</name>
+<hex>#a02712</hex>
 </color>
 <color>
 <name>Taco</name>
@@ -9179,6 +9255,14 @@
 <color>
 <name>Tennis Ball</name>
 <hex>#dfff4f</hex>
+</color>
+<color>
+<name>Thai Chili</name>
+<hex>#ce0001</hex>
+</color>
+<color>
+<name>Thai Hot</name>
+<hex>#fe1c06</hex>
 </color>
 <color>
 <name>The Vast of Night</name>
@@ -9905,6 +9989,10 @@
 <hex>#f5efe5</hex>
 </color>
 <color>
+<name>White Bullet</name>
+<hex>#dfdfda</hex>
+</color>
+<color>
 <name>White Chalk</name>
 <hex>#f6f4f1</hex>
 </color>
@@ -10015,6 +10103,10 @@
 <color>
 <name>Windstorm</name>
 <hex>#6d98c4</hex>
+</color>
+<color>
+<name>Windy Meadow</name>
+<hex>#b0a676</hex>
 </color>
 <color>
 <name>Wine Barrel</name>

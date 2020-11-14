@@ -103,6 +103,7 @@ Banana,#fffc79
 Banana Bandanna,#f8f739
 Banana Bread,#ffcf73
 Banana Brick,#e8d82c
+Banana Pepper,#fdd630
 Bangalore,#bbaa88
 Bank Vault,#757374
 Banner Gold,#a28557
@@ -117,6 +118,7 @@ Bat Wing,#7e7466
 Bat-Signal,#feff00
 Bat's Blood Soup,#ee3366
 Bath Bubbles,#e6f2ea
+Bath Water,#88eeee
 Batman,#656e72
 Bats Cloak,#1f1518
 Battletoad,#11cc55
@@ -124,6 +126,7 @@ Bavarian Green,#749a54
 Bay,#bae5d6
 Bay View,#6a819e
 Beach Dune,#c6bb9c
+Beach Glass,#96dfce
 Bear Hug,#796359
 Beat Around the Bush,#6e6a44
 Beautiful Darkness,#686d70
@@ -377,7 +380,9 @@ Cauliflower,#ebe5d0
 Caveman,#625c58
 Caviar,#292a2d
 Cavolo Nero,#72939e
+Cayenne,#941100
 Cedar Chest,#c95a49
+Celadon Porcelain,#7ebea5
 Celery,#b4c04c
 Celestial,#006380
 Celestial Horizon,#7c94b3
@@ -666,6 +671,7 @@ Dr. White,#fafafa
 Dragon Ball,#ff9922
 Dragon Fire,#fc642d
 Dragon's Blood,#b84048
+Dragon's Breath,#d41003
 Dragonfly,#314a76
 Drama Queen,#a37298
 Dream Setting,#ff77bb
@@ -885,6 +891,7 @@ Freezing Vapor,#d4e9f5
 Freezy Breezy,#99eeee
 French Blue,#0072bb
 French Oak,#bb9e7c
+French Porcelain,#f6f4f6
 French Wine,#ac1e44
 French Winery,#991133
 Fresco,#f4dbd9
@@ -950,6 +957,7 @@ Gentle Frost,#dce0cd
 Georgia Peach,#f97272
 German Hop,#89ac27
 Ghost,#c0bfc7
+Ghost Pepper,#c10102
 Ghost Whisperer,#cbd1d0
 Ghost White,#f8f8ff
 Ghoul,#667744
@@ -1062,6 +1070,8 @@ Guns N' Roses,#ff0077
 Gunsmoke,#7a7c76
 Gypsy Dancer,#c07c7b
 H₂O,#bfe1e6
+Habanero,#f98513
+Habanero Gold,#fed450
 Haddock's Sweater,#277aba
 Hadfield Blue,#1177ff
 Hairy Heath,#633528
@@ -1288,8 +1298,8 @@ Jade Jewel,#247e81
 Jaffa,#e27945
 Jaguar,#29292f
 Jakarta,#efddc3
-Jalapeno,#9a8d3f
-Jalapeno Red,#b2103c
+Jalapeño,#9a8d3f
+Jalapeño Red,#b2103c
 Jambalaya,#f7b572
 James Blonde,#f2e3b5
 Japanese Bonsai,#829f96
@@ -1364,6 +1374,7 @@ Kobe,#882d17
 Köfte Brown,#773644
 Koi,#d15837
 Kombucha,#d89f66
+Komodo Dragon,#b38052
 Koopa Green Shell,#58d854
 Koromiko,#feb552
 Kosher Khaki,#888877
@@ -1760,6 +1771,7 @@ Mykonos,#387abe
 Myrtle,#21421e
 Mysterious Blue,#3e7a85
 Mystic Magenta,#e02e82
+Naga Viper Pepper,#ed292b
 Namibia,#7c6d61
 Narwhal Grey,#080813
 Natural Light,#f1ebc8
@@ -1993,6 +2005,7 @@ Perfect Pink,#e5b3b2
 Perfume Cloud,#e2c9ce
 Perfume Haze,#f3e9f7
 Pergament,#bfa58a
+Peri Peri,#c62d2c
 Periwinkle,#8e82fe
 Permafrost,#98eff9
 Perrywinkle,#8f8ce7
@@ -2091,6 +2104,7 @@ Plum Perfect,#aa1155
 Plushy Pink,#eab7a8
 Plutonium,#35fa00
 Poached Egg,#f5d893
+Poblano,#077f1b
 Poison Ivy,#00ad43
 Poison Purple,#7f01fe
 Poisonous,#55ff11
@@ -2118,6 +2132,8 @@ Poodle Skirt,#ffaebb
 Popcorn,#f8de8d
 Poppy Flower,#ec5800
 Porcelain,#dddcdb
+Porcelain Mint,#dbe7e1
+Porcelain Skin,#ffe7eb
 Porcini,#cca580
 Pork Belly,#f8e0e7
 Port Wine,#a17a83
@@ -2236,6 +2252,7 @@ Sauna Steam,#edebe1
 Savoy Blue,#4b61d1
 Secret Garden,#11aa66
 Sereni Teal,#76baa8
+Serrano Pepper,#556600
 Shaving Cream,#e1e5e5
 Shimmering Blue,#82dbcc
 Shimmering Love,#ff88cc
@@ -2282,10 +2299,12 @@ Sugar Mint,#c0e2c5
 Sugar Quill,#ebe5d7
 Summer Glow,#eeaa44
 Sunshone Plum,#886688
+Super Pink,#ce6ba4
 Super Rose Red,#cb1028
 Swamp Monster,#005511
 Sweet Desire,#aa33ee
 Sweet Mint Pesto,#bbee99
+Tabasco,#a02712
 Taco,#f3c7b3
 Tadorna Teal,#7ad7ad
 Tangent Periwinkle,#50507f
@@ -2294,6 +2313,8 @@ Tartan Red,#b1282a
 Temptatious Tangerine,#ff7733
 Tender Shoot,#e8eace
 Tennis Ball,#dfff4f
+Thai Chili,#ce0001
+Thai Hot,#fe1c06
 The Vast of Night,#110066
 Thunder & Lightning,#f9f5db
 Tiger,#be9c67
@@ -2475,6 +2496,7 @@ Whisky Sour,#eeaa33
 White,#ffffff
 White Asparagus,#eceabe
 White Beach,#f5efe5
+White Bullet,#dfdfda
 White Chalk,#f6f4f1
 White Chocolate,#f0e3c7
 White Elephant,#dedee5
@@ -2503,6 +2525,7 @@ Windjammer,#62a5df
 Windows 95 Desktop,#018281
 Windsor Toffee,#ccb490
 Windstorm,#6d98c4
+Windy Meadow,#b0a676
 Wine Barrel,#aa5522
 Wine Cellar,#70403d
 Wine Grape,#941751

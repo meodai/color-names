@@ -311,6 +311,9 @@
   name:"Banana Brick"
   hex:"#e8d82c"
 -
+  name:"Banana Pepper"
+  hex:"#fdd630"
+-
   name:"Bangalore"
   hex:"#bbaa88"
 -
@@ -353,6 +356,9 @@
   name:"Bath Bubbles"
   hex:"#e6f2ea"
 -
+  name:"Bath Water"
+  hex:"#88eeee"
+-
   name:"Batman"
   hex:"#656e72"
 -
@@ -373,6 +379,9 @@
 -
   name:"Beach Dune"
   hex:"#c6bb9c"
+-
+  name:"Beach Glass"
+  hex:"#96dfce"
 -
   name:"Bear Hug"
   hex:"#796359"
@@ -1133,8 +1142,14 @@
   name:"Cavolo Nero"
   hex:"#72939e"
 -
+  name:"Cayenne"
+  hex:"#941100"
+-
   name:"Cedar Chest"
   hex:"#c95a49"
+-
+  name:"Celadon Porcelain"
+  hex:"#7ebea5"
 -
   name:"Celery"
   hex:"#b4c04c"
@@ -2000,6 +2015,9 @@
   name:"Dragon's Blood"
   hex:"#b84048"
 -
+  name:"Dragon's Breath"
+  hex:"#d41003"
+-
   name:"Dragonfly"
   hex:"#314a76"
 -
@@ -2657,6 +2675,9 @@
   name:"French Oak"
   hex:"#bb9e7c"
 -
+  name:"French Porcelain"
+  hex:"#f6f4f6"
+-
   name:"French Wine"
   hex:"#ac1e44"
 -
@@ -2851,6 +2872,9 @@
 -
   name:"Ghost"
   hex:"#c0bfc7"
+-
+  name:"Ghost Pepper"
+  hex:"#c10102"
 -
   name:"Ghost Whisperer"
   hex:"#cbd1d0"
@@ -3187,6 +3211,12 @@
 -
   name:"H₂O"
   hex:"#bfe1e6"
+-
+  name:"Habanero"
+  hex:"#f98513"
+-
+  name:"Habanero Gold"
+  hex:"#fed450"
 -
   name:"Haddock's Sweater"
   hex:"#277aba"
@@ -3866,10 +3896,10 @@
   name:"Jakarta"
   hex:"#efddc3"
 -
-  name:"Jalapeno"
+  name:"Jalapeño"
   hex:"#9a8d3f"
 -
-  name:"Jalapeno Red"
+  name:"Jalapeño Red"
   hex:"#b2103c"
 -
   name:"Jambalaya"
@@ -4093,6 +4123,9 @@
 -
   name:"Kombucha"
   hex:"#d89f66"
+-
+  name:"Komodo Dragon"
+  hex:"#b38052"
 -
   name:"Koopa Green Shell"
   hex:"#58d854"
@@ -5282,6 +5315,9 @@
   name:"Mystic Magenta"
   hex:"#e02e82"
 -
+  name:"Naga Viper Pepper"
+  hex:"#ed292b"
+-
   name:"Namibia"
   hex:"#7c6d61"
 -
@@ -5981,6 +6017,9 @@
   name:"Pergament"
   hex:"#bfa58a"
 -
+  name:"Peri Peri"
+  hex:"#c62d2c"
+-
   name:"Periwinkle"
   hex:"#8e82fe"
 -
@@ -6275,6 +6314,9 @@
   name:"Poached Egg"
   hex:"#f5d893"
 -
+  name:"Poblano"
+  hex:"#077f1b"
+-
   name:"Poison Ivy"
   hex:"#00ad43"
 -
@@ -6355,6 +6397,12 @@
 -
   name:"Porcelain"
   hex:"#dddcdb"
+-
+  name:"Porcelain Mint"
+  hex:"#dbe7e1"
+-
+  name:"Porcelain Skin"
+  hex:"#ffe7eb"
 -
   name:"Porcini"
   hex:"#cca580"
@@ -6710,6 +6758,9 @@
   name:"Sereni Teal"
   hex:"#76baa8"
 -
+  name:"Serrano Pepper"
+  hex:"#556600"
+-
   name:"Shaving Cream"
   hex:"#e1e5e5"
 -
@@ -6848,6 +6899,9 @@
   name:"Sunshone Plum"
   hex:"#886688"
 -
+  name:"Super Pink"
+  hex:"#ce6ba4"
+-
   name:"Super Rose Red"
   hex:"#cb1028"
 -
@@ -6859,6 +6913,9 @@
 -
   name:"Sweet Mint Pesto"
   hex:"#bbee99"
+-
+  name:"Tabasco"
+  hex:"#a02712"
 -
   name:"Taco"
   hex:"#f3c7b3"
@@ -6883,6 +6940,12 @@
 -
   name:"Tennis Ball"
   hex:"#dfff4f"
+-
+  name:"Thai Chili"
+  hex:"#ce0001"
+-
+  name:"Thai Hot"
+  hex:"#fe1c06"
 -
   name:"The Vast of Night"
   hex:"#110066"
@@ -7427,6 +7490,9 @@
   name:"White Beach"
   hex:"#f5efe5"
 -
+  name:"White Bullet"
+  hex:"#dfdfda"
+-
   name:"White Chalk"
   hex:"#f6f4f1"
 -
@@ -7510,6 +7576,9 @@
 -
   name:"Windstorm"
   hex:"#6d98c4"
+-
+  name:"Windy Meadow"
+  hex:"#b0a676"
 -
   name:"Wine Barrel"
   hex:"#aa5522"
