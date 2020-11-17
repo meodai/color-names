@@ -341,6 +341,10 @@
 <hex>#293432</hex>
 </color>
 <color>
+<name>Aztec Temple</name>
+<hex>#84705b</hex>
+</color>
+<color>
 <name>Azure</name>
 <hex>#007fff</hex>
 </color>
@@ -593,6 +597,10 @@
 <hex>#1b7d8d</hex>
 </color>
 <color>
+<name>Bermuda Grass</name>
+<hex>#a19f79</hex>
+</color>
+<color>
 <name>Berries n Cream</name>
 <hex>#f2b8ca</hex>
 </color>
@@ -809,6 +817,10 @@
 <hex>#880011</hex>
 </color>
 <color>
+<name>Bloodthirsty Beige</name>
+<hex>#f8d7d0</hex>
+</color>
+<color>
 <name>Bloody Salmon</name>
 <hex>#cc4433</hex>
 </color>
@@ -905,6 +917,10 @@
 <hex>#dd99aa</hex>
 </color>
 <color>
+<name>Blush d'Amour</name>
+<hex>#de5d83</hex>
+</color>
+<color>
 <name>Boa</name>
 <hex>#8e855f</hex>
 </color>
@@ -919,6 +935,10 @@
 <color>
 <name>Bold Irish</name>
 <hex>#2a814d</hex>
+</color>
+<color>
+<name>Bollywood Gold</name>
+<hex>#fffbab</hex>
 </color>
 <color>
 <name>Bolognese</name>
@@ -2965,6 +2985,10 @@
 <hex>#cc8f15</hex>
 </color>
 <color>
+<name>Endive</name>
+<hex>#cee1c8</hex>
+</color>
+<color>
 <name>Endless Galaxy</name>
 <hex>#000044</hex>
 </color>
@@ -3065,12 +3089,20 @@
 <hex>#f9f1dd</hex>
 </color>
 <color>
+<name>Exclusive Ivory</name>
+<hex>#e2d8c3</hex>
+</color>
+<color>
 <name>Exit Light</name>
 <hex>#55bb33</hex>
 </color>
 <color>
 <name>Exotic Escape</name>
 <hex>#96d9df</hex>
+</color>
+<color>
+<name>Exotic Lilac</name>
+<hex>#d198b5</hex>
 </color>
 <color>
 <name>Exploding Star</name>
@@ -3821,6 +3853,10 @@
 <hex>#dce0cd</hex>
 </color>
 <color>
+<name>Gentle Glow</name>
+<hex>#f6e5b9</hex>
+</color>
+<color>
 <name>Georgia Peach</name>
 <hex>#f97272</hex>
 </color>
@@ -3963,6 +3999,10 @@
 <color>
 <name>Goblin Green</name>
 <hex>#76ff7a</hex>
+</color>
+<color>
+<name>God of Rain</name>
+<hex>#4466cc</hex>
 </color>
 <color>
 <name>Goddess</name>
@@ -4163,6 +4203,10 @@
 <color>
 <name>Green Olive</name>
 <hex>#8d8b55</hex>
+</color>
+<color>
+<name>Green Priestess</name>
+<hex>#11dd55</hex>
 </color>
 <color>
 <name>Green Revolution</name>
@@ -5649,6 +5693,14 @@
 <hex>#71aa34</hex>
 </color>
 <color>
+<name>Leafy</name>
+<hex>#679b6a</hex>
+</color>
+<color>
+<name>Leafy Lemon</name>
+<hex>#c0f000</hex>
+</color>
+<color>
 <name>Leapfrog</name>
 <hex>#41a94f</hex>
 </color>
@@ -5909,6 +5961,10 @@
 <hex>#11ffff</hex>
 </color>
 <color>
+<name>Lords of the Night</name>
+<hex>#664488</hex>
+</color>
+<color>
 <name>Lost at Sea</name>
 <hex>#8d9ca7</hex>
 </color>
@@ -5947,6 +6003,10 @@
 <color>
 <name>Love Potion</name>
 <hex>#c01352</hex>
+</color>
+<color>
+<name>Love Priestess</name>
+<hex>#bb55cc</hex>
 </color>
 <color>
 <name>Lucius Lilac</name>
@@ -5995,6 +6055,10 @@
 <color>
 <name>Lunatic Lynx</name>
 <hex>#ddaa88</hex>
+</color>
+<color>
+<name>Lurid Lettuce</name>
+<hex>#b4f319</hex>
 </color>
 <color>
 <name>Luscious Lemongrass</name>
@@ -6415,6 +6479,10 @@
 <color>
 <name>Mauve It</name>
 <hex>#bb4466</hex>
+</color>
+<color>
+<name>Mauve Magic</name>
+<hex>#bf91b2</hex>
 </color>
 <color>
 <name>Mauvelous</name>
@@ -7658,7 +7726,15 @@
 </color>
 <color>
 <name>Overgrown</name>
-<hex>#6b6048</hex>
+<hex>#88dd00</hex>
+</color>
+<color>
+<name>Overgrown Citadel</name>
+<hex>#888844</hex>
+</color>
+<color>
+<name>Overgrowth</name>
+<hex>#88cc33</hex>
 </color>
 <color>
 <name>Oxblood</name>
@@ -8621,12 +8697,20 @@
 <hex>#d6859f</hex>
 </color>
 <color>
+<name>Prince Charming</name>
+<hex>#cc2277</hex>
+</color>
+<color>
 <name>Princess Peach</name>
 <hex>#f878f8</hex>
 </color>
 <color>
 <name>Professor Plum</name>
 <hex>#393540</hex>
+</color>
+<color>
+<name>Prom Corsage</name>
+<hex>#e7c3e7</hex>
 </color>
 <color>
 <name>Promenade</name>
@@ -8849,6 +8933,10 @@
 <hex>#7d5d5e</hex>
 </color>
 <color>
+<name>Realm of the Underworld</name>
+<hex>#114411</hex>
+</color>
+<color>
 <name>Red Elegance</name>
 <hex>#85464b</hex>
 </color>
@@ -8863,6 +8951,10 @@
 <color>
 <name>Red Octopus</name>
 <hex>#773243</hex>
+</color>
+<color>
+<name>Red Panda</name>
+<hex>#c34b1b</hex>
 </color>
 <color>
 <name>Redrum</name>
@@ -8895,6 +8987,10 @@
 <color>
 <name>Roland-Garros</name>
 <hex>#bb5522</hex>
+</color>
+<color>
+<name>Romantic Vampire</name>
+<hex>#991166</hex>
 </color>
 <color>
 <name>Romesco</name>
@@ -8937,6 +9033,10 @@
 <hex>#db1459</hex>
 </color>
 <color>
+<name>Ruins of Civilization</name>
+<hex>#cadece</hex>
+</color>
+<color>
 <name>Rusty Heart</name>
 <hex>#a04039</hex>
 </color>
@@ -8963,6 +9063,10 @@
 <color>
 <name>Sail into the Horizon</name>
 <hex>#a3bbdc</hex>
+</color>
+<color>
+<name>Sail to the Sea</name>
+<hex>#99c3f0</hex>
 </color>
 <color>
 <name>Sakura Night</name>
@@ -8993,6 +9097,10 @@
 <hex>#c1b7b0</hex>
 </color>
 <color>
+<name>Sanguinary</name>
+<hex>#f01a4d</hex>
+</color>
+<color>
 <name>Sapphire Glitter</name>
 <hex>#0033cc</hex>
 </color>
@@ -9003,6 +9111,10 @@
 <color>
 <name>Savoy Blue</name>
 <hex>#4b61d1</hex>
+</color>
+<color>
+<name>Schiaparelli Pink</name>
+<hex>#e84998</hex>
 </color>
 <color>
 <name>Secret Garden</name>
@@ -9067,6 +9179,10 @@
 <color>
 <name>Smoke Dragon</name>
 <hex>#ccbbaa</hex>
+</color>
+<color>
+<name>Smoking Mirror</name>
+<hex>#a29587</hex>
 </color>
 <color>
 <name>Snarky Mint</name>
@@ -9217,6 +9333,10 @@
 <hex>#aa33ee</hex>
 </color>
 <color>
+<name>Sweet Lilac</name>
+<hex>#e8b5ce</hex>
+</color>
+<color>
 <name>Sweet Mint Pesto</name>
 <hex>#bbee99</hex>
 </color>
@@ -9245,6 +9365,10 @@
 <hex>#b1282a</hex>
 </color>
 <color>
+<name>Tea Green</name>
+<hex>#d0f0c0</hex>
+</color>
+<color>
 <name>Temptatious Tangerine</name>
 <hex>#ff7733</hex>
 </color>
@@ -9267,6 +9391,10 @@
 <color>
 <name>The Vast of Night</name>
 <hex>#110066</hex>
+</color>
+<color>
+<name>Think Pink</name>
+<hex>#e5a5c1</hex>
 </color>
 <color>
 <name>Thunder &amp; Lightning</name>
@@ -9425,6 +9553,10 @@
 <hex>#4488aa</hex>
 </color>
 <color>
+<name>Underworld</name>
+<hex>#1e231c</hex>
+</color>
+<color>
 <name>Unicorn Dust</name>
 <hex>#ff2f92</hex>
 </color>
@@ -9445,12 +9577,20 @@
 <hex>#cc2255</hex>
 </color>
 <color>
+<name>Vampire Love Story</name>
+<hex>#dd0077</hex>
+</color>
+<color>
 <name>Vampire Red</name>
 <hex>#dd4132</hex>
 </color>
 <color>
 <name>Vampire State Building</name>
 <hex>#cc1100</hex>
+</color>
+<color>
+<name>Vampiric Bloodlust</name>
+<hex>#cc0066</hex>
 </color>
 <color>
 <name>Vanilla</name>
@@ -9545,6 +9685,10 @@
 <hex>#af9968</hex>
 </color>
 <color>
+<name>Verdant Forest</name>
+<hex>#28615d</hex>
+</color>
+<color>
 <name>Verde</name>
 <hex>#7fb383</hex>
 </color>
@@ -9611,6 +9755,10 @@
 <color>
 <name>Vienna Roast</name>
 <hex>#330022</hex>
+</color>
+<color>
+<name>Viking</name>
+<hex>#4db1c8</hex>
 </color>
 <color>
 <name>Viking Diva</name>
@@ -10267,6 +10415,10 @@
 <color>
 <name>Yippie Ya Yellow</name>
 <hex>#f9f59f</hex>
+</color>
+<color>
+<name>York Pink</name>
+<hex>#d7837f</hex>
 </color>
 <color>
 <name>York Plum</name>

@@ -1418,6 +1418,7 @@
 --color-aztec-gold:#c39953;
 --color-aztec-jade:#33bb88;
 --color-aztec-sky:#4db5d7;
+--color-aztec-temple:#84705b;
 --color-aztec-turquoise:#00d6e2;
 --color-azuki-bean:#96514d;
 --color-azuki-red:#672422;
@@ -1785,6 +1786,7 @@
 --color-battered-sausage:#ede2d4;
 --color-battery-charged-blue:#1dacd4;
 --color-battle-blue:#74828f;
+--color-battle-cat:#2b7414;
 --color-battle-dress:#7e8270;
 --color-battle-harbor:#9c9c82;
 --color-battleship-green:#828f72;
@@ -2474,6 +2476,9 @@
 --color-bloodstain:#772200;
 --color-bloodstone:#413431;
 --color-bloodthirsty:#880011;
+--color-bloodthirsty-beige:#f8d7d0;
+--color-bloodthirsty-vampire:#9b0503;
+--color-bloodthirsty-warlock:#ec1837;
 --color-bloodtracker-brown:#703f00;
 --color-bloody-periphylla:#aa1144;
 --color-bloody-pico-8:#ff004d;
@@ -2916,6 +2921,8 @@
 --color-bold-sangria:#7a4549;
 --color-bole:#79443b;
 --color-bolero:#88464a;
+--color-bollywood:#debb32;
+--color-bollywood-gold:#fffbab;
 --color-bologna-sausage:#ffcfdc;
 --color-bolognese:#bb4400;
 --color-bolt-from-the-blue:#2277ff;
@@ -4371,6 +4378,7 @@
 --color-centaur:#90673f;
 --color-centaur-brown:#8b6a4f;
 --color-centennial-rose:#b3a7a6;
+--color-centeōtl-yellow:#f7e077;
 --color-center-earth:#685549;
 --color-center-ridge:#817a69;
 --color-center-stage:#ffc100;
@@ -4513,6 +4521,7 @@
 --color-charmed-green:#007f3a;
 --color-charming:#d4e092;
 --color-charming-cherry:#ff90a2;
+--color-charming-nature:#11bb44;
 --color-charming-violet:#8c7281;
 --color-charoite-violet:#6a577f;
 --color-charolais-cattle:#f1ebea;
@@ -7910,6 +7919,7 @@
 --color-evil-eye:#1100cc;
 --color-evil-forces:#770022;
 --color-evil-sunz-scarlet:#c2191f;
+--color-evil-lyn:#fed903;
 --color-evolution:#704a3d;
 --color-evora:#538b89;
 --color-ewa:#454042;
@@ -8334,6 +8344,7 @@
 --color-fire-engine:#fe0002;
 --color-fire-flower:#f68f37;
 --color-fire-island:#d95137;
+--color-fire-lord:#bb7733;
 --color-fire-mist:#fbd9c4;
 --color-fire-opal:#fd3c06;
 --color-fire-orange:#ff8e57;
@@ -9544,6 +9555,8 @@
 --color-goblin-warboss:#4efd54;
 --color-gobo-brown:#635147;
 --color-gochujang-red:#770000;
+--color-god-of-nights:#550066;
+--color-god-of-rain:#4466cc;
 --color-god-given:#faf4e0;
 --color-god’s-own-junkyard-pink:#f56991;
 --color-goddess:#d0e1e8;
@@ -9769,6 +9782,7 @@
 --color-gorse:#fde336;
 --color-gorse-yellow-orange:#e99a3c;
 --color-gorthor-brown:#654741;
+--color-gory-movie:#b42435;
 --color-gory-red:#a30800;
 --color-goshawk-grey:#444444;
 --color-gossamer:#399f86;
@@ -10116,6 +10130,7 @@
 --color-green-pigment:#00a550;
 --color-green-plaza:#98a76e;
 --color-green-power:#e2e1c6;
+--color-green-priestess:#11dd55;
 --color-green-revolution:#009944;
 --color-green-room:#80aea4;
 --color-green-savage:#888866;
@@ -10335,6 +10350,7 @@
 --color-groundcover:#64634d;
 --color-grounded:#d18c62;
 --color-groundwater:#1100aa;
+--color-growing-nature:#88cc11;
 --color-growing-season:#c3cdb0;
 --color-growth:#6ca178;
 --color-grubenwald:#4a5b51;
@@ -11296,6 +11312,7 @@
 --color-ice-rink:#bbddee;
 --color-ice-sculpture:#e1e6e5;
 --color-ice-shard-soft-blue:#c1dee2;
+--color-ice-temple:#11ffee;
 --color-ice-water-green:#cdebe1;
 --color-ice-yellow:#fefecd;
 --color-ice-cold-white:#dff0e2;
@@ -12586,6 +12603,7 @@
 --color-leaf-tea:#697d4c;
 --color-leaf-yellow:#e9d79e;
 --color-leafy:#679b6a;
+--color-leafy-lemon:#c0f000;
 --color-leafy-seadragon:#b6c406;
 --color-leamington-spa:#a0b7a8;
 --color-leap-of-faith:#c4d3e3;
@@ -13403,6 +13421,7 @@
 --color-loose-leather:#84613d;
 --color-loquat-brown:#ae7c4f;
 --color-lord-baltimore:#b76764;
+--color-lords-of-the-night:#664488;
 --color-loren-forest:#50702d;
 --color-lorian:#8ebcbd;
 --color-lorna:#658477;
@@ -13445,6 +13464,7 @@
 --color-love-letter:#e4658e;
 --color-love-poem:#a06582;
 --color-love-potion:#c01352;
+--color-love-priestess:#bb55cc;
 --color-love-red:#ff496c;
 --color-love-spell:#f8b4c4;
 --color-love-struck-chinchilla:#aeaeb7;
@@ -13541,6 +13561,7 @@
 --color-lupin-grey:#d1e0e9;
 --color-lupine:#be9cc1;
 --color-lupine-blue:#6a96ba;
+--color-lurid-lettuce:#b4f319;
 --color-lurid-pink:#ff33ee;
 --color-lurid-red:#ff4400;
 --color-luscious:#903d49;
@@ -13567,6 +13588,7 @@
 --color-lush-plains:#22bb22;
 --color-lush-ungoro-crater:#54a64d;
 --color-lust:#e62020;
+--color-lust-priestess:#bb3388;
 --color-luster-green:#bece61;
 --color-luster-white:#f4f1ec;
 --color-lustful-wishes:#cc4499;
@@ -16363,6 +16385,7 @@
 --color-orion-grey:#535558;
 --color-orka-black:#27221f;
 --color-orkhide-shade:#3e5755;
+--color-orko:#d91407;
 --color-orleans-tune:#b8995b;
 --color-orleans-tune:#97d5e7;
 --color-ornamental-turquoise:#00867d;
@@ -16424,8 +16447,11 @@
 --color-overdue-blue:#4400ff;
 --color-overdue-grey:#c7c3be;
 --color-overexposed-shot:#eff4dc;
---color-overgrown:#6b6048;
+--color-overgrown:#88dd00;
+--color-overgrown-citadel:#888844;
+--color-overgrown-trees:#6b6048;
 --color-overgrown-trellis:#6a8988;
+--color-overgrowth:#88cc33;
 --color-overnight-oats:#fbf0db;
 --color-overtake:#33557f;
 --color-overtone:#a4e3b3;
@@ -18310,6 +18336,7 @@
 --color-primrose-yellow:#f6d155;
 --color-primula:#ca9fa5;
 --color-prince:#4b384c;
+--color-prince-charming:#cc2277;
 --color-prince-grey:#a0adac;
 --color-prince-paris:#9d7957;
 --color-prince-royal:#60606f;
@@ -18959,6 +18986,7 @@
 --color-really-light-green:#e9eadb;
 --color-really-rain:#e8ecdb;
 --color-realm:#796c70;
+--color-realm-of-the-underworld:#114411;
 --color-rebecca-purple:#663399;
 --color-rebel:#453430;
 --color-rebel-red:#cd4035;
@@ -19052,6 +19080,7 @@
 --color-red-orange-juice:#ff5349;
 --color-red-orpiment:#cd6d57;
 --color-red-oxide:#5d1f1e;
+--color-red-panda:#c34b1b;
 --color-red-paracentrotus:#bb0044;
 --color-red-pear:#7b3539;
 --color-red-pegasus:#dd0000;
@@ -19555,6 +19584,7 @@
 --color-romantic-night:#96353a;
 --color-romantic-poetry:#cac0ce;
 --color-romantic-rose:#aa4488;
+--color-romantic-vampire:#991166;
 --color-romeo:#e3d2ce;
 --color-romeo-o-romeo:#a4233c;
 --color-romesco:#f48101;
@@ -19792,6 +19822,7 @@
 --color-rugged-tan:#b8a292;
 --color-ruggero-grey:#484435;
 --color-ruined-smores:#0f1012;
+--color-ruins-of-civilization:#cadece;
 --color-rule-breaker:#774e55;
 --color-rum:#716675;
 --color-rum-custard:#e9cfaa;
@@ -20164,6 +20195,7 @@
 --color-sango-red:#f8674f;
 --color-sangoire-red:#881100;
 --color-sangria:#b14566;
+--color-sanguinary:#f01a4d;
 --color-sanguine-brown:#6c3736;
 --color-sanskrit:#e69332;
 --color-santa-fe:#b16d52;
@@ -20308,6 +20340,7 @@
 --color-sceptre-blue:#353542;
 --color-schabziger-yellow:#eeeebb;
 --color-schauss-pink:#ff91af;
+--color-schiaparelli-pink:#e84998;
 --color-schiava-blue:#192961;
 --color-schindler-brown:#8b714c;
 --color-schist:#87876f;
@@ -21325,6 +21358,7 @@
 --color-smokey-topaz:#a57b5b;
 --color-smokey-wings:#a7a5a3;
 --color-smokin-hot:#954a3d;
+--color-smoking-mirror:#a29587;
 --color-smoking-night-blue:#43454c;
 --color-smoking-red:#992200;
 --color-smoky:#605d6b;
@@ -23211,6 +23245,7 @@
 --color-texas-sage:#b9a77c;
 --color-texas-sunset:#fc9625;
 --color-texas-sweet-tea:#794840;
+--color-tezcatlipōca-blue:#5500ee;
 --color-thai-basil:#7a7f3f;
 --color-thai-chili:#ce0001;
 --color-thai-curry:#ab6819;
@@ -23239,6 +23274,7 @@
 --color-the-ego-has-landed:#a75455;
 --color-the-fang:#585673;
 --color-the-fang-grey:#436174;
+--color-the-fifth-sun:#f0e22c;
 --color-the-golden-state:#e9d2af;
 --color-the-goods:#aaa651;
 --color-the-killing-joke:#b0bf1a;
@@ -23453,6 +23489,7 @@
 --color-titian-red:#bd5620;
 --color-titmouse-grey:#b8b2be;
 --color-tizzy:#f9f3df;
+--color-tlāloc-blue:#316f82;
 --color-toad:#748d70;
 --color-toad-king:#3d6c54;
 --color-toadstool:#b8282f;
@@ -23519,6 +23556,7 @@
 --color-tōmorokoshi-corn:#faa945;
 --color-tomorokoshi-yellow:#eec362;
 --color-tomorrows-coral:#ffc5a3;
+--color-tōnatiuh-red:#d14155;
 --color-tongue:#d1908e;
 --color-tonic:#deddaa;
 --color-tonicha:#975437;
@@ -24050,6 +24088,7 @@
 --color-underwater-fern:#06d078;
 --color-underwater-flare:#e78ea5;
 --color-underwater-moonlight:#4488aa;
+--color-underworld:#1e231c;
 --color-undine:#89c1ba;
 --color-unexplained:#69667c;
 --color-unfading-dusk:#e7d8de;
@@ -24167,8 +24206,10 @@
 --color-valor:#a3bcdb;
 --color-vampire-bite:#c40233;
 --color-vampire-fangs:#cc2255;
+--color-vampire-love-story:#dd0077;
 --color-vampire-red:#dd4132;
 --color-vampire-state-building:#cc1100;
+--color-vampiric-bloodlust:#cc0066;
 --color-vampiric-shadow:#bfb6aa;
 --color-van-cleef:#523936;
 --color-van-de-cane:#faf7eb;
@@ -24314,6 +24355,7 @@
 --color-veranda-green:#8e977e;
 --color-veranda-hills:#ccb994;
 --color-veranda-iris:#9da4be;
+--color-verdant-fields:#5ad33e;
 --color-verdant-forest:#28615d;
 --color-verdant-green:#12674a;
 --color-verdant-views:#75794a;
@@ -25624,6 +25666,7 @@
 --color-xiàng-yá-bái-ivory:#ece6d1;
 --color-xiao-long-bao-dumpling:#bcb7b0;
 --color-xìng-huáng-yellow:#fce166;
+--color-xīpe-totēc-red:#cc1166;
 --color-xmas-candy:#990020;
 --color-xoxo:#f08497;
 --color-xv-88:#72491e;

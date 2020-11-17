@@ -4256,6 +4256,9 @@
   name:"Aztec Sky"
   hex:"#4db5d7"
 -
+  name:"Aztec Temple"
+  hex:"#84705b"
+-
   name:"Aztec Turquoise"
   hex:"#00d6e2"
 -
@@ -5356,6 +5359,9 @@
 -
   name:"Battle Blue"
   hex:"#74828f"
+-
+  name:"Battle Cat"
+  hex:"#2b7414"
 -
   name:"Battle Dress"
   hex:"#7e8270"
@@ -7424,6 +7430,15 @@
   name:"Bloodthirsty"
   hex:"#880011"
 -
+  name:"Bloodthirsty Beige"
+  hex:"#f8d7d0"
+-
+  name:"Bloodthirsty Vampire"
+  hex:"#9b0503"
+-
+  name:"Bloodthirsty Warlock"
+  hex:"#ec1837"
+-
   name:"Bloodtracker Brown"
   hex:"#703f00"
 -
@@ -8749,6 +8764,12 @@
 -
   name:"Bolero"
   hex:"#88464a"
+-
+  name:"Bollywood"
+  hex:"#debb32"
+-
+  name:"Bollywood Gold"
+  hex:"#fffbab"
 -
   name:"Bologna Sausage"
   hex:"#ffcfdc"
@@ -13115,6 +13136,9 @@
   name:"Centennial Rose"
   hex:"#b3a7a6"
 -
+  name:"Centeōtl Yellow"
+  hex:"#f7e077"
+-
   name:"Center Earth"
   hex:"#685549"
 -
@@ -13540,6 +13564,9 @@
 -
   name:"Charming Cherry"
   hex:"#ff90a2"
+-
+  name:"Charming Nature"
+  hex:"#11bb44"
 -
   name:"Charming Violet"
   hex:"#8c7281"
@@ -23732,6 +23759,9 @@
   name:"Evil Sunz Scarlet"
   hex:"#c2191f"
 -
+  name:"Evil-Lyn"
+  hex:"#fed903"
+-
   name:"Evolution"
   hex:"#704a3d"
 -
@@ -25003,6 +25033,9 @@
 -
   name:"Fire Island"
   hex:"#d95137"
+-
+  name:"Fire Lord"
+  hex:"#bb7733"
 -
   name:"Fire Mist"
   hex:"#fbd9c4"
@@ -28634,6 +28667,12 @@
   name:"Gochujang Red"
   hex:"#770000"
 -
+  name:"God of Nights"
+  hex:"#550066"
+-
+  name:"God of Rain"
+  hex:"#4466cc"
+-
   name:"God-Given"
   hex:"#faf4e0"
 -
@@ -29308,6 +29347,9 @@
 -
   name:"Gorthor Brown"
   hex:"#654741"
+-
+  name:"Gory Movie"
+  hex:"#b42435"
 -
   name:"Gory Red"
   hex:"#a30800"
@@ -30350,6 +30392,9 @@
   name:"Green Power"
   hex:"#e2e1c6"
 -
+  name:"Green Priestess"
+  hex:"#11dd55"
+-
   name:"Green Revolution"
   hex:"#009944"
 -
@@ -31006,6 +31051,9 @@
 -
   name:"Groundwater"
   hex:"#1100aa"
+-
+  name:"Growing Nature"
+  hex:"#88cc11"
 -
   name:"Growing Season"
   hex:"#c3cdb0"
@@ -33889,6 +33937,9 @@
 -
   name:"Ice Shard Soft Blue"
   hex:"#c1dee2"
+-
+  name:"Ice Temple"
+  hex:"#11ffee"
 -
   name:"Ice Water Green"
   hex:"#cdebe1"
@@ -37760,6 +37811,9 @@
   name:"Leafy"
   hex:"#679b6a"
 -
+  name:"Leafy Lemon"
+  hex:"#c0f000"
+-
   name:"Leafy Seadragon"
   hex:"#b6c406"
 -
@@ -40211,6 +40265,9 @@
   name:"Lord Baltimore"
   hex:"#b76764"
 -
+  name:"Lords of the Night"
+  hex:"#664488"
+-
   name:"Loren Forest"
   hex:"#50702d"
 -
@@ -40336,6 +40393,9 @@
 -
   name:"Love Potion"
   hex:"#c01352"
+-
+  name:"Love Priestess"
+  hex:"#bb55cc"
 -
   name:"Love Red"
   hex:"#ff496c"
@@ -40625,6 +40685,9 @@
   name:"Lupine Blue"
   hex:"#6a96ba"
 -
+  name:"Lurid Lettuce"
+  hex:"#b4f319"
+-
   name:"Lurid Pink"
   hex:"#ff33ee"
 -
@@ -40702,6 +40765,9 @@
 -
   name:"Lust"
   hex:"#e62020"
+-
+  name:"Lust Priestess"
+  hex:"#bb3388"
 -
   name:"Luster Green"
   hex:"#bece61"
@@ -49091,6 +49157,9 @@
   name:"Orkhide Shade"
   hex:"#3e5755"
 -
+  name:"Orko"
+  hex:"#d91407"
+-
   name:"Orlean's Tune"
   hex:"#b8995b"
 -
@@ -49275,10 +49344,19 @@
   hex:"#eff4dc"
 -
   name:"Overgrown"
+  hex:"#88dd00"
+-
+  name:"Overgrown Citadel"
+  hex:"#888844"
+-
+  name:"Overgrown Trees"
   hex:"#6b6048"
 -
   name:"Overgrown Trellis"
   hex:"#6a8988"
+-
+  name:"Overgrowth"
+  hex:"#88cc33"
 -
   name:"Overnight Oats"
   hex:"#fbf0db"
@@ -54932,6 +55010,9 @@
   name:"Prince"
   hex:"#4b384c"
 -
+  name:"Prince Charming"
+  hex:"#cc2277"
+-
   name:"Prince Grey"
   hex:"#a0adac"
 -
@@ -56879,6 +56960,9 @@
   name:"Realm"
   hex:"#796c70"
 -
+  name:"Realm of the Underworld"
+  hex:"#114411"
+-
   name:"Rebecca Purple"
   hex:"#663399"
 -
@@ -57157,6 +57241,9 @@
 -
   name:"Red Oxide"
   hex:"#5d1f1e"
+-
+  name:"Red Panda"
+  hex:"#c34b1b"
 -
   name:"Red Paracentrotus"
   hex:"#bb0044"
@@ -58667,6 +58754,9 @@
   name:"Romantic Rose"
   hex:"#aa4488"
 -
+  name:"Romantic Vampire"
+  hex:"#991166"
+-
   name:"Romeo"
   hex:"#e3d2ce"
 -
@@ -59377,6 +59467,9 @@
 -
   name:"Ruined Smores"
   hex:"#0f1012"
+-
+  name:"Ruins of Civilization"
+  hex:"#cadece"
 -
   name:"Rule Breaker"
   hex:"#774e55"
@@ -60494,6 +60587,9 @@
   name:"Sangria"
   hex:"#b14566"
 -
+  name:"Sanguinary"
+  hex:"#f01a4d"
+-
   name:"Sanguine Brown"
   hex:"#6c3736"
 -
@@ -60925,6 +61021,9 @@
 -
   name:"Schauss Pink"
   hex:"#ff91af"
+-
+  name:"Schiaparelli Pink"
+  hex:"#e84998"
 -
   name:"Schiava Blue"
   hex:"#192961"
@@ -63976,6 +64075,9 @@
 -
   name:"Smokin Hot"
   hex:"#954a3d"
+-
+  name:"Smoking Mirror"
+  hex:"#a29587"
 -
   name:"Smoking Night Blue"
   hex:"#43454c"
@@ -69635,6 +69737,9 @@
   name:"Texas Sweet Tea"
   hex:"#794840"
 -
+  name:"Tezcatlipōca Blue"
+  hex:"#5500ee"
+-
   name:"Thai Basil"
   hex:"#7a7f3f"
 -
@@ -69718,6 +69823,9 @@
 -
   name:"The Fang Grey"
   hex:"#436174"
+-
+  name:"The Fifth Sun"
+  hex:"#f0e22c"
 -
   name:"The Golden State"
   hex:"#e9d2af"
@@ -70361,6 +70469,9 @@
   name:"Tizzy"
   hex:"#f9f3df"
 -
+  name:"Tlāloc Blue"
+  hex:"#316f82"
+-
   name:"Toad"
   hex:"#748d70"
 -
@@ -70558,6 +70669,9 @@
 -
   name:"Tomorrow's Coral"
   hex:"#ffc5a3"
+-
+  name:"Tōnatiuh Red"
+  hex:"#d14155"
 -
   name:"Tongue"
   hex:"#d1908e"
@@ -72152,6 +72266,9 @@
   name:"Underwater Moonlight"
   hex:"#4488aa"
 -
+  name:"Underworld"
+  hex:"#1e231c"
+-
   name:"Undine"
   hex:"#89c1ba"
 -
@@ -72503,11 +72620,17 @@
   name:"Vampire Fangs"
   hex:"#cc2255"
 -
+  name:"Vampire Love Story"
+  hex:"#dd0077"
+-
   name:"Vampire Red"
   hex:"#dd4132"
 -
   name:"Vampire State Building"
   hex:"#cc1100"
+-
+  name:"Vampiric Bloodlust"
+  hex:"#cc0066"
 -
   name:"Vampiric Shadow"
   hex:"#bfb6aa"
@@ -72943,6 +73066,9 @@
 -
   name:"Veranda Iris"
   hex:"#9da4be"
+-
+  name:"Verdant Fields"
+  hex:"#5ad33e"
 -
   name:"Verdant Forest"
   hex:"#28615d"
@@ -76873,6 +76999,9 @@
 -
   name:"Xìng Huáng Yellow"
   hex:"#fce166"
+-
+  name:"Xīpe Totēc Red"
+  hex:"#cc1166"
 -
   name:"Xmas Candy"
   hex:"#990020"
