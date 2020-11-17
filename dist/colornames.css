@@ -583,7 +583,6 @@
 --color-amulet-gem:#01748e;
 --color-amygdala-purple:#69045f;
 --color-àn-zǐ-purple:#94568c;
---color-ana:#292d74;
 --color-anaheim-pepper:#00bb44;
 --color-anakiwa:#8cceea;
 --color-anarchist:#db304a;
@@ -787,7 +786,6 @@
 --color-apeland:#8a843b;
 --color-aphrodites-pearls:#eeffff;
 --color-aphroditean-fuschia:#dd14ab;
---color-apiary:#f1e798;
 --color-apium:#b5d0a2;
 --color-apnea-dive:#284fbd;
 --color-apocalyptic-orange:#f4711e;
@@ -2742,6 +2740,7 @@
 --color-blue-rice:#b3d9f3;
 --color-blue-rinse:#b7bdc6;
 --color-blue-romance:#d8f0d2;
+--color-blue-rose:#292d74;
 --color-blue-royale:#29217a;
 --color-blue-ruin:#0066dd;
 --color-blue-sabre:#575f6a;
@@ -4387,6 +4386,7 @@
 --color-centipede-brown:#6d2400;
 --color-centra:#c08f45;
 --color-centre-stage:#c8c7cb;
+--color-centurys-last-sunset:#9c7b87;
 --color-ceramic:#fcfff9;
 --color-ceramic-beige:#edd1ac;
 --color-ceramic-blue-turquoise:#16a29a;
@@ -8382,6 +8382,7 @@
 --color-first-date:#f5b1a2;
 --color-first-daughter:#f7d2d8;
 --color-first-day-of-school:#fadba0;
+--color-first-day-of-summer:#f1e798;
 --color-first-frost:#cfe5f0;
 --color-first-impression:#f4e5e7;
 --color-first-lady:#c47967;
@@ -12408,7 +12409,6 @@
 --color-lamb-chop:#82502c;
 --color-lambs-ears:#c8ccbc;
 --color-lambs-wool:#ffffe3;
---color-lambda:#a2c748;
 --color-lambent-lagoon:#3b5b92;
 --color-lambs-wool:#e6d1b2;
 --color-lambskin:#ebdcca;
@@ -15189,7 +15189,6 @@
 --color-mozzarella-covered-chorizo:#e39b7a;
 --color-mr-frosty:#a3c5db;
 --color-mr-mustard:#e4b857;
---color-mr.-cooper:#d7d927;
 --color-mr.-glass:#c0d5ef;
 --color-ms.-pac-man-kiss:#ff00aa;
 --color-msu-green:#18453b;
@@ -17411,7 +17410,6 @@
 --color-piccadilly-grey:#625d5d;
 --color-piccolo:#8bd2e2;
 --color-picholine:#566955;
---color-pick-a-toy:#cdb7fa;
 --color-picket-fence:#f3f2ea;
 --color-picket-fence-white:#ebe7db;
 --color-pickford:#c9f0d1;
@@ -17963,6 +17961,7 @@
 --color-poisonous:#55ff11;
 --color-poisonous-apple:#993333;
 --color-poisonous-dart:#77ff66;
+--color-poisonous-ice-cream:#d7d927;
 --color-poisonous-pesticide:#32cd32;
 --color-poisonous-purple:#2a0134;
 --color-poker-green:#35654d;
@@ -18065,6 +18064,7 @@
 --color-pool-side:#aad5d9;
 --color-pool-tide:#70928e;
 --color-pool-tiles:#89cff0;
+--color-pool-water:#2188ff;
 --color-pop-shop:#93d4c0;
 --color-popcorn:#f8de8d;
 --color-popcorn-ball:#fcebd1;
@@ -19902,6 +19902,7 @@
 --color-rusty-red:#af2f0d;
 --color-rusty-sand:#edb384;
 --color-rusty-sword:#a4493d;
+--color-rusty-tap:#719da8;
 --color-rutabaga:#ecddbe;
 --color-rutherford:#8d734f;
 --color-ruthless-empress:#573894;
@@ -20571,6 +20572,7 @@
 --color-sedona-sage:#686d6c;
 --color-sedona-shadow:#665f70;
 --color-seduction:#fbf2bf;
+--color-seductive-thorns:#a2c748;
 --color-seed-pearl:#e6dac4;
 --color-seedless-grape:#d3c3d4;
 --color-seedling:#c0cba1;
@@ -21302,7 +21304,6 @@
 --color-slopes:#d2b698;
 --color-slow-dance:#dbdcc4;
 --color-slow-perch:#d5d4ce;
---color-slowness:#2188ff;
 --color-slubbed-silk:#e1c2be;
 --color-sludge:#ca6b02;
 --color-slugger:#42342b;
@@ -22793,7 +22794,6 @@
 --color-sweet-florence:#8a9b76;
 --color-sweet-flower:#e2e2ea;
 --color-sweet-frosting:#fff8e4;
---color-sweet-furniture:#719da8;
 --color-sweet-garden:#5fd1ba;
 --color-sweet-gardenia:#efe4da;
 --color-sweet-georgia-brown:#8b715a;
@@ -22939,7 +22939,6 @@
 --color-taj:#734a33;
 --color-taj-mahal:#ede9df;
 --color-take-the-plunge:#d8d4dd;
---color-take-time:#9c7b87;
 --color-take-out:#e6ccb7;
 --color-talavera:#a0928b;
 --color-talâyi-gold:#e7b25d;
@@ -24563,6 +24562,7 @@
 --color-violet-gems:#c4c0e9;
 --color-violet-glow:#4422ee;
 --color-violet-haze:#675b72;
+--color-violet-heaven:#cdb7fa;
 --color-violet-hickey:#330099;
 --color-violet-hush:#e5e2e7;
 --color-violet-ice:#c2acb1;

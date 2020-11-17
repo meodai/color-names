@@ -189,7 +189,7 @@ See [package.json](package.json#L6) for more.
 
 ### Color Namers
 
-[Verena the naming overloard], [Jess the name wizzard], [Syl], [Stephanie Stutz], [Simbiasamba], [Jason Wilson], [Inês João], [Nick Niles], [Qwhex], [Ichatdelune], [basgys], Shelina S., Trevor Elia, [cheesits456], [Sandhya Subram], [BerylBucket], [Jimmy Fitzback]
+[Verena the naming overloard], [Jess the name wizzard], [Syl], [Stephanie Stutz], [Simbiasamba], [Jason Wilson], [Inês João], [Nick Niles], [Qwhex], [Ichatdelune], [basgys], Shelina S., Trevor Elia, [cheesits456], [Sandhya Subram], [BerylBucket], [Jimmy Fitzback], [TLZ]
 
 ## Disclaimer 👮🏾‍
 
@@ -242,6 +242,7 @@ As some of the color names come from other lists, some bad ones might slip in. [
 [Sandhya Subram]: https://sandhyasubram.github.io/
 [BerylBucket]: https://github.com/BerylBucket
 [Jimmy Fitzback]: https://www.linkedin.com/in/jimmy-fitzback-6b602265/
+[TLZ]: https://github.com/TheLastZombie
 
 <!-- Sources: Names -->
 
