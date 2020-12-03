@@ -11252,6 +11252,9 @@
   name:"Buster"
   hex:"#3e4b69"
 -
+  name:"Busty Blue"
+  hex:"#3300cc"
+-
   name:"Butter"
   hex:"#ffff81"
 -
@@ -25097,6 +25100,9 @@
   name:"Fabulous Frog"
   hex:"#88cc00"
 -
+  name:"Fabulous Fuchsia"
+  hex:"#ee1188"
+-
   name:"Fabulous Grape"
   hex:"#9083a5"
 -
@@ -25427,6 +25433,9 @@
   name:"Family Tree"
   hex:"#a7b191"
 -
+  name:"Fanatic Fuchsia"
+  hex:"#ee1199"
+-
   name:"Fancy Flamingo"
   hex:"#ffb1b0"
 -
@@ -25574,6 +25583,9 @@
   name:"Fate"
   hex:"#6ba0bf"
 -
+  name:"Fatty Fuchsia"
+  hex:"#ee0077"
+-
   name:"Favored One"
   hex:"#fae6cc"
 -
@@ -25600,6 +25612,9 @@
 -
   name:"Fawn Brown"
   hex:"#71452a"
+-
+  name:"Feasty Fuchsia"
+  hex:"#ee0088"
 -
   name:"Feather Boa"
   hex:"#f1c9cd"
@@ -25783,6 +25798,9 @@
 -
   name:"Fern Shade"
   hex:"#797447"
+-
+  name:"Ferocious Flamingo"
+  hex:"#ee00cc"
 -
   name:"Ferocious Fuchsia"
   hex:"#aa00cc"
@@ -27494,6 +27512,9 @@
   name:"Fragrant Wand"
   hex:"#adb1c1"
 -
+  name:"Frail Fuchsia"
+  hex:"#ee88ee"
+-
   name:"Framboise"
   hex:"#e40058"
 -
@@ -28454,6 +28475,9 @@
   name:"Fuel Yellow"
   hex:"#d19033"
 -
+  name:"Fugitive Flamingo"
+  hex:"#ee66aa"
+-
   name:"Fuji Peak"
   hex:"#f6eee2"
 -
@@ -28558,6 +28582,9 @@
 -
   name:"Furious Frog"
   hex:"#55ee00"
+-
+  name:"Furious Fuchsia"
+  hex:"#ee2277"
 -
   name:"Furious Red"
   hex:"#ff1100"
@@ -37511,8 +37538,14 @@
   name:"Jitterbug Lure"
   hex:"#8db0ad"
 -
+  name:"Jittery Jade"
+  hex:"#77eebb"
+-
   name:"Job's Tears"
   hex:"#005b7a"
+-
+  name:"Jocose Jade"
+  hex:"#77cc99"
 -
   name:"Jocular Green"
   hex:"#cce2ca"
@@ -37547,6 +37580,9 @@
   name:"Jolly Green"
   hex:"#5e774a"
 -
+  name:"Jolly Jade"
+  hex:"#77ccbb"
+-
   name:"Jonquil"
   hex:"#eef293"
 -
@@ -37579,6 +37615,9 @@
 -
   name:"Jovial"
   hex:"#eeb9a7"
+-
+  name:"Jovial Jade"
+  hex:"#88ddaa"
 -
   name:"Joyful"
   hex:"#f6eec0"
@@ -39209,6 +39248,9 @@
   name:"Lasting Impression"
   hex:"#b36663"
 -
+  name:"Lasting Lime"
+  hex:"#88ff00"
+-
   name:"Lasting Thoughts"
   hex:"#d4e6b1"
 -
@@ -40072,6 +40114,9 @@
 -
   name:"Let it Snow"
   hex:"#d8f1f4"
+-
+  name:"Lethal Lime"
+  hex:"#88ff11"
 -
   name:"Leticiaz"
   hex:"#95be76"
@@ -41306,6 +41351,9 @@
   name:"Liliac"
   hex:"#c48efd"
 -
+  name:"Lilliputian Lime"
+  hex:"#88dd55"
+-
   name:"Lilting Laughter"
   hex:"#fcebd8"
 -
@@ -42281,6 +42329,9 @@
   name:"Lotus Red"
   hex:"#d1717b"
 -
+  name:"Loud Lime"
+  hex:"#88ff22"
+-
   name:"Louisiana Mud"
   hex:"#655856"
 -
@@ -42769,6 +42820,9 @@
 -
   name:"Luxor Gold"
   hex:"#ab8d3f"
+-
+  name:"Luxurious Lime"
+  hex:"#88ee22"
 -
   name:"Luxurious Red"
   hex:"#863a42"
@@ -68807,6 +68861,9 @@
   name:"Spicy"
   hex:"#ff1111"
 -
+  name:"Spicy Berry"
+  hex:"#cc3366"
+-
   name:"Spicy Cayenne"
   hex:"#9b5b4f"
 -
@@ -77698,6 +77755,9 @@
 -
   name:"Voltage"
   hex:"#3b4956"
+-
+  name:"Voluptuous Violet"
+  hex:"#7711dd"
 -
   name:"Volute"
   hex:"#445a5e"

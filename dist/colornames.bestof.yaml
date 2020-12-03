@@ -890,6 +890,9 @@
   name:"Burrito"
   hex:"#eed7c1"
 -
+  name:"Busty Blue"
+  hex:"#3300cc"
+-
   name:"Butter"
   hex:"#ffff81"
 -
@@ -2345,6 +2348,9 @@
   name:"Fabric of Space"
   hex:"#341758"
 -
+  name:"Fabulous Fuchsia"
+  hex:"#ee1188"
+-
   name:"Fading Horizon"
   hex:"#442266"
 -
@@ -2372,6 +2378,9 @@
   name:"Falafel"
   hex:"#aa7711"
 -
+  name:"Fanatic Fuchsia"
+  hex:"#ee1199"
+-
   name:"Fancy Fuchsia"
   hex:"#ff0088"
 -
@@ -2384,8 +2393,14 @@
   name:"Fatback"
   hex:"#fff7ed"
 -
+  name:"Fatty Fuchsia"
+  hex:"#ee0077"
+-
   name:"Fawn"
   hex:"#cfaf7b"
+-
+  name:"Feasty Fuchsia"
+  hex:"#ee0088"
 -
   name:"Featherbed"
   hex:"#afcbe5"
@@ -2410,6 +2425,9 @@
 -
   name:"Fern"
   hex:"#548d44"
+-
+  name:"Ferocious Flamingo"
+  hex:"#ee00cc"
 -
   name:"Ferocious Fuchsia"
   hex:"#aa00cc"
@@ -2681,6 +2699,9 @@
   name:"Fox"
   hex:"#c38743"
 -
+  name:"Frail Fuchsia"
+  hex:"#ee88ee"
+-
   name:"Framboise"
   hex:"#e40058"
 -
@@ -2789,6 +2810,9 @@
   name:"Fuego"
   hex:"#ee5533"
 -
+  name:"Fugitive Flamingo"
+  hex:"#ee66aa"
+-
   name:"Fuji Peak"
   hex:"#f6eee2"
 -
@@ -2803,6 +2827,9 @@
 -
   name:"Furious Frog"
   hex:"#55ee00"
+-
+  name:"Furious Fuchsia"
+  hex:"#ee2277"
 -
   name:"Furious Red"
   hex:"#ff1100"
@@ -3998,11 +4025,20 @@
   name:"Jinza Safflower"
   hex:"#ee827c"
 -
+  name:"Jittery Jade"
+  hex:"#77eebb"
+-
   name:"John Lemon"
   hex:"#eeff22"
 -
   name:"Joker's Smile"
   hex:"#d70141"
+-
+  name:"Jolly Jade"
+  hex:"#77ccbb"
+-
+  name:"Jovial Jade"
+  hex:"#88ddaa"
 -
   name:"Jubilant Jade"
   hex:"#44aa77"
@@ -4238,6 +4274,9 @@
   name:"Last Warning"
   hex:"#d30f3f"
 -
+  name:"Lasting Lime"
+  hex:"#88ff00"
+-
   name:"Later Gator"
   hex:"#008a51"
 -
@@ -4315,6 +4354,9 @@
 -
   name:"Let it Snow"
   hex:"#d8f1f4"
+-
+  name:"Lethal Lime"
+  hex:"#88ff11"
 -
   name:"Lichen"
   hex:"#9bc2b1"
@@ -4502,6 +4544,9 @@
   name:"Lotus Flower"
   hex:"#f4f0da"
 -
+  name:"Loud Lime"
+  hex:"#88ff22"
+-
   name:"Love Affair"
   hex:"#ffbec8"
 -
@@ -4588,6 +4633,9 @@
 -
   name:"Luxor Gold"
   hex:"#ab8d3f"
+-
+  name:"Luxurious Lime"
+  hex:"#88ee22"
 -
   name:"Lynx"
   hex:"#604d47"
@@ -6953,6 +7001,9 @@
   name:"Spectacular Purple"
   hex:"#bb00ff"
 -
+  name:"Spicy Berry"
+  hex:"#cc3366"
+-
   name:"Spicy Sweetcorn"
   hex:"#f6ac00"
 -
@@ -7444,6 +7495,9 @@
 -
   name:"Volt"
   hex:"#ceff00"
+-
+  name:"Voluptuous Violet"
+  hex:"#7711dd"
 -
   name:"Vulcan"
   hex:"#36383c"

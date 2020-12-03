@@ -3750,6 +3750,7 @@
 --color-bushland-grey:#7f7b73;
 --color-bussell-lace:#e5a1a0;
 --color-buster:#3e4b69;
+--color-busty-blue:#3300cc;
 --color-butter:#ffff81;
 --color-butter-base:#c28a35;
 --color-butter-cake:#fdff52;
@@ -8365,6 +8366,7 @@
 --color-fabulous-find:#abe3c9;
 --color-fabulous-forties:#ddcdab;
 --color-fabulous-frog:#88cc00;
+--color-fabulous-fuchsia:#ee1188;
 --color-fabulous-grape:#9083a5;
 --color-facemark:#f7cf89;
 --color-fade-to-black:#676965;
@@ -8475,6 +8477,7 @@
 --color-fame-orange:#db9c7b;
 --color-familiar-beige:#cab3a0;
 --color-family-tree:#a7b191;
+--color-fanatic-fuchsia:#ee1199;
 --color-fancy-flamingo:#ffb1b0;
 --color-fancy-flirt:#b4b780;
 --color-fancy-fuchsia:#ff0088;
@@ -8524,6 +8527,7 @@
 --color-fatal-fields:#008822;
 --color-fatback:#fff7ed;
 --color-fate:#6ba0bf;
+--color-fatty-fuchsia:#ee0077;
 --color-favored-one:#fae6cc;
 --color-favorite-fudge:#877252;
 --color-favorite-jeans:#8aa3b1;
@@ -8533,6 +8537,7 @@
 --color-fawn:#cfaf7b;
 --color-fawn-brindle:#a7a094;
 --color-fawn-brown:#71452a;
+--color-feasty-fuchsia:#ee0088;
 --color-feather-boa:#f1c9cd;
 --color-feather-falls:#606972;
 --color-feather-fern:#d5dcd0;
@@ -8594,6 +8599,7 @@
 --color-fern-gully:#595646;
 --color-fern-leaf:#99a787;
 --color-fern-shade:#797447;
+--color-ferocious-flamingo:#ee00cc;
 --color-ferocious-fuchsia:#aa00cc;
 --color-ferra:#876a68;
 --color-ferrari-red:#ff2800;
@@ -9164,6 +9170,7 @@
 --color-fragrant-satchel:#a99fba;
 --color-fragrant-snowbell:#d5c5d4;
 --color-fragrant-wand:#adb1c1;
+--color-frail-fuchsia:#ee88ee;
 --color-framboise:#e40058;
 --color-frangipane:#f4d5b2;
 --color-frangipani:#ffd7a0;
@@ -9484,6 +9491,7 @@
 --color-fuego-verde:#c2d62e;
 --color-fuel-town:#596472;
 --color-fuel-yellow:#d19033;
+--color-fugitive-flamingo:#ee66aa;
 --color-fuji-peak:#f6eee2;
 --color-fuji-purple:#89729e;
 --color-fuji-snow:#f1efe8;
@@ -9519,6 +9527,7 @@
 --color-funnel-cloud:#113366;
 --color-funny-face:#edc8ce;
 --color-furious-frog:#55ee00;
+--color-furious-fuchsia:#ee2277;
 --color-furious-red:#ff1100;
 --color-furnace:#dd4124;
 --color-furry-lady:#f5efeb;
@@ -12503,7 +12512,9 @@
 --color-jitterbug:#bac08a;
 --color-jitterbug-jade:#019d6e;
 --color-jitterbug-lure:#8db0ad;
+--color-jittery-jade:#77eebb;
 --color-jobs-tears:#005b7a;
+--color-jocose-jade:#77cc99;
 --color-jocular-green:#cce2ca;
 --color-jodhpur-blue:#9bd7e9;
 --color-jodhpur-tan:#dad1c8;
@@ -12515,6 +12526,7 @@
 --color-jokaero-orange:#ea5505;
 --color-jokers-smile:#d70141;
 --color-jolly-green:#5e774a;
+--color-jolly-jade:#77ccbb;
 --color-jonquil:#eef293;
 --color-jonquil-trail:#f7d395;
 --color-jordan-jazz:#037a3b;
@@ -12526,6 +12538,7 @@
 --color-journeys-end:#bac9d4;
 --color-joust-blue:#55aaff;
 --color-jovial:#eeb9a7;
+--color-jovial-jade:#88ddaa;
 --color-joyful:#f6eec0;
 --color-joyful-lilac:#e4d4e2;
 --color-joyful-orange:#fa9335;
@@ -13069,6 +13082,7 @@
 --color-last-straw:#e3dbcd;
 --color-last-warning:#d30f3f;
 --color-lasting-impression:#b36663;
+--color-lasting-lime:#88ff00;
 --color-lasting-thoughts:#d4e6b1;
 --color-later-gator:#008a51;
 --color-latigo-bay:#379190;
@@ -13357,6 +13371,7 @@
 --color-let-it-rain:#b6b8bd;
 --color-let-it-ring:#cfae74;
 --color-let-it-snow:#d8f1f4;
+--color-lethal-lime:#88ff11;
 --color-leticiaz:#95be76;
 --color-letter-grey:#8f8f8b;
 --color-letter-jacket:#b8860b;
@@ -13768,6 +13783,7 @@
 --color-lilas:#b88995;
 --color-lilás:#cc99ff;
 --color-liliac:#c48efd;
+--color-lilliputian-lime:#88dd55;
 --color-lilting-laughter:#fcebd8;
 --color-lily:#c19fb3;
 --color-lily-green:#c5cf98;
@@ -14093,6 +14109,7 @@
 --color-lotus-petal:#f2e9dc;
 --color-lotus-pod:#e7d7c2;
 --color-lotus-red:#d1717b;
+--color-loud-lime:#88ff22;
 --color-louisiana-mud:#655856;
 --color-loulou:#4c3347;
 --color-lounge-green:#8ba97f;
@@ -14256,6 +14273,7 @@
 --color-luxe-lilac:#a8a3b1;
 --color-luxor-blue:#bde9e5;
 --color-luxor-gold:#ab8d3f;
+--color-luxurious-lime:#88ee22;
 --color-luxurious-red:#863a42;
 --color-luxury:#818eb1;
 --color-lviv-blue:#384172;
@@ -22935,6 +22953,7 @@
 --color-spiced-vinegar:#cdba99;
 --color-spiced-wine:#664942;
 --color-spicy:#ff1111;
+--color-spicy-berry:#cc3366;
 --color-spicy-cayenne:#9b5b4f;
 --color-spicy-hue:#994b35;
 --color-spicy-hummus:#eebbaa;
@@ -25899,6 +25918,7 @@
 --color-voldemort:#2d135f;
 --color-volt:#ceff00;
 --color-voltage:#3b4956;
+--color-voluptuous-violet:#7711dd;
 --color-volute:#445a5e;
 --color-voodoo:#443240;
 --color-voxatron-purple:#83769c;
