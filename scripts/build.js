@@ -153,9 +153,17 @@ fs.writeFileSync(
     path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.esm.js`),
     esmTpl.replace('"{{COLORS}}"', JSONExportString)
 );
+fs.writeFileSync(
+    path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.esm.mjs`),
+    esmTpl.replace('"{{COLORS}}"', JSONExportString)
+);
 
 fs.writeFileSync(
   path.normalize(`${baseFolder}${folderDist}${fileNameSrc}${fileNameBestOfPostfix}.esm.js`),
+  esmTpl.replace('"{{COLORS}}"', JSONExportStringBestOf)
+);
+fs.writeFileSync(
+  path.normalize(`${baseFolder}${folderDist}${fileNameSrc}${fileNameBestOfPostfix}.esm.mjs`),
   esmTpl.replace('"{{COLORS}}"', JSONExportStringBestOf)
 );
 
