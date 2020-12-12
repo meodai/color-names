@@ -21,6 +21,10 @@
 <hex>#d3dde4</hex>
 </color>
 <color>
+<name>A Smell of Bakery</name>
+<hex>#f3e9d9</hex>
+</color>
+<color>
 <name>A State of Mint</name>
 <hex>#88ffcc</hex>
 </color>
@@ -1063,6 +1067,10 @@
 <color>
 <name>Broccoli Green</name>
 <hex>#4b5338</hex>
+</color>
+<color>
+<name>Broccoli Paradise</name>
+<hex>#008833</hex>
 </color>
 <color>
 <name>Bronze</name>
@@ -4081,6 +4089,14 @@
 <hex>#ffd700</hex>
 </color>
 <color>
+<name>Gold Buttercup</name>
+<hex>#ffe8bb</hex>
+</color>
+<color>
+<name>Gold Digger</name>
+<hex>#d1b075</hex>
+</color>
+<color>
 <name>Gold Rush</name>
 <hex>#c4a777</hex>
 </color>
@@ -4121,6 +4137,10 @@
 <hex>#eedec7</hex>
 </color>
 <color>
+<name>Goldfinger</name>
+<hex>#eebb11</hex>
+</color>
+<color>
 <name>Goldfish</name>
 <hex>#f2ad62</hex>
 </color>
@@ -4137,6 +4157,10 @@
 <hex>#333c76</hex>
 </color>
 <color>
+<name>Good Luck</name>
+<hex>#86c994</hex>
+</color>
+<color>
 <name>Good Morning</name>
 <hex>#fcfcda</hex>
 </color>
@@ -4149,8 +4173,20 @@
 <hex>#ffba80</hex>
 </color>
 <color>
+<name>Gory Red</name>
+<hex>#a30800</hex>
+</color>
+<color>
+<name>Gossip</name>
+<hex>#9fd385</hex>
+</color>
+<color>
 <name>Gothic</name>
 <hex>#698890</hex>
+</color>
+<color>
+<name>Gothic Gold</name>
+<hex>#bb852f</hex>
 </color>
 <color>
 <name>Gourmet Honey</name>
@@ -4163,6 +4199,14 @@
 <color>
 <name>Grand Bleu</name>
 <hex>#015482</hex>
+</color>
+<color>
+<name>Grand Sunset</name>
+<hex>#c38d87</hex>
+</color>
+<color>
+<name>Grandma's Cameo</name>
+<hex>#f7e7dd</hex>
 </color>
 <color>
 <name>Granite</name>
@@ -4181,12 +4225,20 @@
 <hex>#905284</hex>
 </color>
 <color>
+<name>Grape Fizz</name>
+<hex>#64435f</hex>
+</color>
+<color>
 <name>Grape Green</name>
 <hex>#a8e4a0</hex>
 </color>
 <color>
 <name>Grape Kiss</name>
 <hex>#7b4368</hex>
+</color>
+<color>
+<name>Grape Taffy</name>
+<hex>#f4daf1</hex>
 </color>
 <color>
 <name>Grapefruit</name>
@@ -7085,6 +7137,10 @@
 <hex>#bcb667</hex>
 </color>
 <color>
+<name>Mothy</name>
+<hex>#cebbb3</hex>
+</color>
+<color>
 <name>Mount Eden</name>
 <hex>#e7efe0</hex>
 </color>
@@ -9129,12 +9185,36 @@
 <hex>#9ead92</hex>
 </color>
 <color>
+<name>Root Beer</name>
+<hex>#714a41</hex>
+</color>
+<color>
 <name>Rosé</name>
 <hex>#f7746b</hex>
 </color>
 <color>
 <name>Rosecco</name>
 <hex>#eebbdd</hex>
+</color>
+<color>
+<name>Rosemary</name>
+<hex>#405e5c</hex>
+</color>
+<color>
+<name>Rosewood</name>
+<hex>#65000b</hex>
+</color>
+<color>
+<name>Rouge</name>
+<hex>#ab1239</hex>
+</color>
+<color>
+<name>Royal</name>
+<hex>#0c1793</hex>
+</color>
+<color>
+<name>Royal Lavender</name>
+<hex>#7851a9</hex>
 </color>
 <color>
 <name>Royal Milk Tea</name>
@@ -9153,6 +9233,10 @@
 <hex>#fede4f</hex>
 </color>
 <color>
+<name>Rubber Ducky</name>
+<hex>#facf58</hex>
+</color>
+<color>
 <name>Ruby</name>
 <hex>#ca0147</hex>
 </color>
@@ -9165,12 +9249,24 @@
 <hex>#cadece</hex>
 </color>
 <color>
+<name>Rum</name>
+<hex>#716675</hex>
+</color>
+<color>
+<name>Rust</name>
+<hex>#a83c09</hex>
+</color>
+<color>
 <name>Rusty Heart</name>
 <hex>#a04039</hex>
 </color>
 <color>
 <name>Ruthless Empress</name>
 <hex>#573894</hex>
+</color>
+<color>
+<name>Sablé</name>
+<hex>#f6d8be</hex>
 </color>
 <color>
 <name>Sable Cloaked</name>
@@ -9189,28 +9285,76 @@
 <hex>#ff6600</hex>
 </color>
 <color>
+<name>Safflower</name>
+<hex>#fdae44</hex>
+</color>
+<color>
+<name>Saffron</name>
+<hex>#f4c430</hex>
+</color>
+<color>
+<name>Sage</name>
+<hex>#87ae73</hex>
+</color>
+<color>
 <name>Sail into the Horizon</name>
 <hex>#a3bbdc</hex>
+</color>
+<color>
+<name>Sail On</name>
+<hex>#4575ad</hex>
 </color>
 <color>
 <name>Sail to the Sea</name>
 <hex>#99c3f0</hex>
 </color>
 <color>
+<name>Sailor</name>
+<hex>#445780</hex>
+</color>
+<color>
+<name>Sakura</name>
+<hex>#dfb1b6</hex>
+</color>
+<color>
 <name>Sakura Night</name>
 <hex>#7b6c7c</hex>
+</color>
+<color>
+<name>Salami</name>
+<hex>#820000</hex>
+</color>
+<color>
+<name>Salmon</name>
+<hex>#ff796c</hex>
+</color>
+<color>
+<name>Salmon Nigiri</name>
+<hex>#f9906f</hex>
 </color>
 <color>
 <name>Salmon Poké Bowl</name>
 <hex>#ee7777</hex>
 </color>
 <color>
+<name>Salmon Sashimi</name>
+<hex>#ff7e79</hex>
+</color>
+<color>
 <name>Salsa Verde</name>
 <hex>#cec754</hex>
 </color>
 <color>
+<name>Salt</name>
+<hex>#efede6</hex>
+</color>
+<color>
 <name>Salt Mountain</name>
 <hex>#d7fefe</hex>
+</color>
+<color>
+<name>Salt n Pepa</name>
+<hex>#dcd9db</hex>
 </color>
 <color>
 <name>Salted Caramel Popcorn</name>
@@ -9221,16 +9365,48 @@
 <hex>#cce2f3</hex>
 </color>
 <color>
+<name>Salvia</name>
+<hex>#a8b59e</hex>
+</color>
+<color>
+<name>Samba</name>
+<hex>#a2242f</hex>
+</color>
+<color>
+<name>Sand</name>
+<hex>#e2ca76</hex>
+</color>
+<color>
+<name>Sand Dune</name>
+<hex>#e3d2c0</hex>
+</color>
+<color>
 <name>Sand Ripples</name>
 <hex>#c1b7b0</hex>
+</color>
+<color>
+<name>Sandstorm</name>
+<hex>#ecd540</hex>
+</color>
+<color>
+<name>Sandworm</name>
+<hex>#fce883</hex>
 </color>
 <color>
 <name>Sanguinary</name>
 <hex>#f01a4d</hex>
 </color>
 <color>
+<name>Sappanwood</name>
+<hex>#9e3d3f</hex>
+</color>
+<color>
 <name>Sapphire Glitter</name>
 <hex>#0033cc</hex>
+</color>
+<color>
+<name>Saturn</name>
+<hex>#fae5bf</hex>
 </color>
 <color>
 <name>Sauna Steam</name>
@@ -9241,12 +9417,60 @@
 <hex>#4b61d1</hex>
 </color>
 <color>
+<name>Scampi</name>
+<hex>#6f63a0</hex>
+</color>
+<color>
+<name>Scarlet</name>
+<hex>#ff2400</hex>
+</color>
+<color>
 <name>Schiaparelli Pink</name>
 <hex>#e84998</hex>
 </color>
 <color>
+<name>School Bus</name>
+<hex>#ffd800</hex>
+</color>
+<color>
+<name>Sea</name>
+<hex>#3c9992</hex>
+</color>
+<color>
+<name>Sea Creature</name>
+<hex>#00586d</hex>
+</color>
+<color>
+<name>Seashell</name>
+<hex>#fff5ee</hex>
+</color>
+<color>
+<name>Seaweed</name>
+<hex>#18d17b</hex>
+</color>
+<color>
+<name>Secret Blush</name>
+<hex>#e1d2d5</hex>
+</color>
+<color>
 <name>Secret Garden</name>
 <hex>#11aa66</hex>
+</color>
+<color>
+<name>Secret of Mana</name>
+<hex>#4166f5</hex>
+</color>
+<color>
+<name>Secret Path</name>
+<hex>#737054</hex>
+</color>
+<color>
+<name>Serene</name>
+<hex>#dce3e4</hex>
+</color>
+<color>
+<name>Serene Sea</name>
+<hex>#78a7c3</hex>
 </color>
 <color>
 <name>Sereni Teal</name>
@@ -9257,8 +9481,36 @@
 <hex>#556600</hex>
 </color>
 <color>
+<name>Sesame</name>
+<hex>#baa38b</hex>
+</color>
+<color>
+<name>Sesame Seed</name>
+<hex>#e1d9b8</hex>
+</color>
+<color>
+<name>Shadows</name>
+<hex>#6b6d6a</hex>
+</color>
+<color>
+<name>Shady Character</name>
+<hex>#4c4b4c</hex>
+</color>
+<color>
+<name>Shallow Water</name>
+<hex>#8af1fe</hex>
+</color>
+<color>
+<name>Shark</name>
+<hex>#cadcde</hex>
+</color>
+<color>
 <name>Shaving Cream</name>
 <hex>#e1e5e5</hex>
+</color>
+<color>
+<name>She Loves Pink</name>
+<hex>#e39b96</hex>
 </color>
 <color>
 <name>Shimmering Blue</name>
@@ -9273,44 +9525,196 @@
 <hex>#9a373f</hex>
 </color>
 <color>
+<name>Shipyard</name>
+<hex>#4f6f85</hex>
+</color>
+<color>
 <name>Shōji</name>
 <hex>#ded5c7</hex>
+</color>
+<color>
+<name>Shrimp</name>
+<hex>#e29a86</hex>
+</color>
+<color>
+<name>Shrimp Toast</name>
+<hex>#f7c5a0</hex>
+</color>
+<color>
+<name>Shuriken</name>
+<hex>#333344</hex>
+</color>
+<color>
+<name>Sienna</name>
+<hex>#a9561e</hex>
 </color>
 <color>
 <name>Signal Green</name>
 <hex>#33ff00</hex>
 </color>
 <color>
+<name>Silence</name>
+<hex>#eaede5</hex>
+</color>
+<color>
 <name>Silent Sea</name>
 <hex>#3a4a63</hex>
+</color>
+<color>
+<name>Silk Dessou</name>
+<hex>#eee9dc</hex>
+</color>
+<color>
+<name>Silk Lining</name>
+<hex>#fcefe0</hex>
+</color>
+<color>
+<name>Silk Star</name>
+<hex>#f5eec6</hex>
+</color>
+<color>
+<name>Silver</name>
+<hex>#c0c0c0</hex>
+</color>
+<color>
+<name>Silver Birch</name>
+<hex>#d2cfc4</hex>
 </color>
 <color>
 <name>Silver Bird</name>
 <hex>#fbf5f0</hex>
 </color>
 <color>
+<name>Silver Fern</name>
+<hex>#e1ddbf</hex>
+</color>
+<color>
+<name>Silver Fox</name>
+<hex>#bdbcc4</hex>
+</color>
+<color>
+<name>Silver Lake</name>
+<hex>#dedddd</hex>
+</color>
+<color>
+<name>Silver Surfer</name>
+<hex>#7e7d88</hex>
+</color>
+<color>
+<name>Silverfish</name>
+<hex>#8d95aa</hex>
+</color>
+<color>
+<name>Silverplate</name>
+<hex>#c2c0ba</hex>
+</color>
+<color>
 <name>Sinister</name>
 <hex>#12110e</hex>
+</color>
+<color>
+<name>Sip of Mint</name>
+<hex>#dedfc9</hex>
+</color>
+<color>
+<name>Skeleton</name>
+<hex>#ebdecc</hex>
+</color>
+<color>
+<name>Sky</name>
+<hex>#76d6ff</hex>
 </color>
 <color>
 <name>Sky Dancer</name>
 <hex>#4499ff</hex>
 </color>
 <color>
+<name>Sky Fall</name>
+<hex>#89c6df</hex>
+</color>
+<color>
+<name>Sky High</name>
+<hex>#a7c2eb</hex>
+</color>
+<color>
+<name>Skydiver</name>
+<hex>#83acd3</hex>
+</color>
+<color>
+<name>Skyscraper</name>
+<hex>#d3dbe2</hex>
+</color>
+<color>
 <name>Slice of Heaven</name>
 <hex>#0022ee</hex>
+</color>
+<color>
+<name>Slipper Satin</name>
+<hex>#bfc1cb</hex>
+</color>
+<color>
+<name>Slippery Salmon</name>
+<hex>#f87e63</hex>
+</color>
+<color>
+<name>Slippery Soap</name>
+<hex>#efedd8</hex>
+</color>
+<color>
+<name>Sly Fox</name>
+<hex>#804741</hex>
+</color>
+<color>
+<name>Smalt</name>
+<hex>#003399</hex>
 </color>
 <color>
 <name>Smashing Pumpkins</name>
 <hex>#ff5522</hex>
 </color>
 <color>
+<name>Smell of Garlic</name>
+<hex>#d9ddcb</hex>
+</color>
+<color>
+<name>Smiley Face</name>
+<hex>#ffc962</hex>
+</color>
+<color>
+<name>Smoke and Mirrors</name>
+<hex>#d9e6e8</hex>
+</color>
+<color>
 <name>Smoke Dragon</name>
 <hex>#ccbbaa</hex>
 </color>
 <color>
+<name>Smoked Black Coffee</name>
+<hex>#3b2f2f</hex>
+</color>
+<color>
+<name>Smoked Oyster</name>
+<hex>#d9d2cd</hex>
+</color>
+<color>
+<name>Smoked Salmon</name>
+<hex>#fa8072</hex>
+</color>
+<color>
+<name>Smokescreen</name>
+<hex>#5e5755</hex>
+</color>
+<color>
 <name>Smoking Mirror</name>
 <hex>#a29587</hex>
+</color>
+<color>
+<name>Snake Fruit</name>
+<hex>#db2217</hex>
+</color>
+<color>
+<name>Snakes in the Grass</name>
+<hex>#889717</hex>
 </color>
 <color>
 <name>Snarky Mint</name>
@@ -9321,6 +9725,30 @@
 <hex>#896a46</hex>
 </color>
 <color>
+<name>Snow</name>
+<hex>#fffafa</hex>
+</color>
+<color>
+<name>Snow White</name>
+<hex>#eeffee</hex>
+</color>
+<color>
+<name>Snowflake</name>
+<hex>#eff0f0</hex>
+</color>
+<color>
+<name>Snowman</name>
+<hex>#fefafb</hex>
+</color>
+<color>
+<name>Snowy Mint</name>
+<hex>#d6f0cd</hex>
+</color>
+<color>
+<name>Snowy Summit</name>
+<hex>#c5d8e9</hex>
+</color>
+<color>
 <name>So Sour</name>
 <hex>#00ff11</hex>
 </color>
@@ -9329,12 +9757,44 @@
 <hex>#921a1c</hex>
 </color>
 <color>
+<name>Soda Pop</name>
+<hex>#c3c67e</hex>
+</color>
+<color>
+<name>Soft Blush</name>
+<hex>#e3bcbc</hex>
+</color>
+<color>
+<name>Soft Boiled</name>
+<hex>#ffb737</hex>
+</color>
+<color>
+<name>Soft Cashmere</name>
+<hex>#efb6d8</hex>
+</color>
+<color>
+<name>Solar</name>
+<hex>#fbeab8</hex>
+</color>
+<color>
 <name>Solar Ash</name>
 <hex>#cc6622</hex>
 </color>
 <color>
+<name>Solar Power</name>
+<hex>#f4bf3a</hex>
+</color>
+<color>
+<name>Sombrero</name>
+<hex>#b39c8c</hex>
+</color>
+<color>
+<name>Sooty</name>
+<hex>#141414</hex>
+</color>
+<color>
 <name>Soufflé</name>
-<hex>#cebbb3</hex>
+<hex>#edd1a8</hex>
 </color>
 <color>
 <name>Sour Apple Rings</name>
@@ -9349,6 +9809,10 @@
 <hex>#eeff04</hex>
 </color>
 <color>
+<name>Spa</name>
+<hex>#ceece7</hex>
+</color>
+<color>
 <name>Space Dust</name>
 <hex>#002299</hex>
 </color>
@@ -9359,6 +9823,18 @@
 <color>
 <name>Spaghetti Monster</name>
 <hex>#eecc88</hex>
+</color>
+<color>
+<name>Sparkling Champagne</name>
+<hex>#efcf98</hex>
+</color>
+<color>
+<name>Sparkling Cider</name>
+<hex>#fffdeb</hex>
+</color>
+<color>
+<name>Spearmint</name>
+<hex>#64bfa4</hex>
 </color>
 <color>
 <name>Spectacular Purple</name>
@@ -9417,8 +9893,28 @@
 <hex>#eae9b4</hex>
 </color>
 <color>
+<name>Stellar</name>
+<hex>#46647e</hex>
+</color>
+<color>
+<name>Still Water</name>
+<hex>#4a5d5f</hex>
+</color>
+<color>
 <name>Stone Guardians</name>
 <hex>#caba97</hex>
+</color>
+<color>
+<name>Stop</name>
+<hex>#c33a36</hex>
+</color>
+<color>
+<name>Stormy</name>
+<hex>#b0bcc3</hex>
+</color>
+<color>
+<name>Stormy Bay</name>
+<hex>#9aafaf</hex>
 </color>
 <color>
 <name>Stormy Horizon</name>
@@ -9429,12 +9925,36 @@
 <hex>#70818e</hex>
 </color>
 <color>
+<name>Straw Gold</name>
+<hex>#fcf679</hex>
+</color>
+<color>
+<name>Strawberry</name>
+<hex>#fb2943</hex>
+</color>
+<color>
 <name>Strawberry Dreams</name>
 <hex>#ff88aa</hex>
 </color>
 <color>
+<name>Submerge</name>
+<hex>#4a7d82</hex>
+</color>
+<color>
 <name>Succulents</name>
 <hex>#007744</hex>
+</color>
+<color>
+<name>Sugar Chic</name>
+<hex>#ffccff</hex>
+</color>
+<color>
+<name>Sugar Cookie</name>
+<hex>#f2e2a4</hex>
+</color>
+<color>
+<name>Sugar Glaze</name>
+<hex>#fff0e1</hex>
 </color>
 <color>
 <name>Sugar Mint</name>
@@ -9445,12 +9965,80 @@
 <hex>#ebe5d7</hex>
 </color>
 <color>
+<name>Sulfur Pit</name>
+<hex>#e5cc69</hex>
+</color>
+<color>
+<name>Sulphur</name>
+<hex>#ddb614</hex>
+</color>
+<color>
+<name>Summer Crush</name>
+<hex>#f2d6da</hex>
+</color>
+<color>
 <name>Summer Glow</name>
 <hex>#eeaa44</hex>
 </color>
 <color>
+<name>Summer Mist</name>
+<hex>#cbeaee</hex>
+</color>
+<color>
+<name>Summer's End</name>
+<hex>#dc9367</hex>
+</color>
+<color>
+<name>Summit</name>
+<hex>#8bb6b8</hex>
+</color>
+<color>
+<name>Sunbeam</name>
+<hex>#f5edb2</hex>
+</color>
+<color>
+<name>Sunburst</name>
+<hex>#f6c289</hex>
+</color>
+<color>
+<name>Sunflower</name>
+<hex>#ffc512</hex>
+</color>
+<color>
+<name>Sunken Gold</name>
+<hex>#b29700</hex>
+</color>
+<color>
+<name>Sunlight</name>
+<hex>#edd59e</hex>
+</color>
+<color>
+<name>Sunny Honey</name>
+<hex>#f8f0d8</hex>
+</color>
+<color>
+<name>Sunny Yellow</name>
+<hex>#fff917</hex>
+</color>
+<color>
+<name>Sunray</name>
+<hex>#e3ab57</hex>
+</color>
+<color>
+<name>Sunset Gold</name>
+<hex>#f7c46c</hex>
+</color>
+<color>
+<name>Sunset Orange</name>
+<hex>#fd5e53</hex>
+</color>
+<color>
 <name>Sunshone Plum</name>
 <hex>#886688</hex>
+</color>
+<color>
+<name>Super Banana</name>
+<hex>#fffe71</hex>
 </color>
 <color>
 <name>Super Pink</name>
@@ -9465,6 +10053,10 @@
 <hex>#005511</hex>
 </color>
 <color>
+<name>Sweet Butter</name>
+<hex>#fffcd7</hex>
+</color>
+<color>
 <name>Sweet Desire</name>
 <hex>#aa33ee</hex>
 </color>
@@ -9475,6 +10067,22 @@
 <color>
 <name>Sweet Mint Pesto</name>
 <hex>#bbee99</hex>
+</color>
+<color>
+<name>Sweet Potato</name>
+<hex>#d87c3b</hex>
+</color>
+<color>
+<name>Sweetly</name>
+<hex>#ffe5ef</hex>
+</color>
+<color>
+<name>Swimmer</name>
+<hex>#0a91bf</hex>
+</color>
+<color>
+<name>Swimming</name>
+<hex>#c2e5e5</hex>
 </color>
 <color>
 <name>Tabasco</name>
@@ -9501,8 +10109,28 @@
 <hex>#b1282a</hex>
 </color>
 <color>
+<name>Tatami</name>
+<hex>#deccaf</hex>
+</color>
+<color>
 <name>Tea Green</name>
 <hex>#d0f0c0</hex>
+</color>
+<color>
+<name>Teak</name>
+<hex>#ab8953</hex>
+</color>
+<color>
+<name>Teakwood</name>
+<hex>#8d7e6d</hex>
+</color>
+<color>
+<name>Teal</name>
+<hex>#008080</hex>
+</color>
+<color>
+<name>Tempest</name>
+<hex>#79839b</hex>
 </color>
 <color>
 <name>Temptatious Tangerine</name>
@@ -9551,6 +10179,14 @@
 <color>
 <name>Timeless Beauty</name>
 <hex>#b6273e</hex>
+</color>
+<color>
+<name>Toffee</name>
+<hex>#755139</hex>
+</color>
+<color>
+<name>Tomato</name>
+<hex>#ef4026</hex>
 </color>
 <color>
 <name>Tomato Baby</name>

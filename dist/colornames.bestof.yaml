@@ -14,6 +14,9 @@
   name:"A Dime a Dozen"
   hex:"#d3dde4"
 -
+  name:"A Smell of Bakery"
+  hex:"#f3e9d9"
+-
   name:"A State of Mint"
   hex:"#88ffcc"
 -
@@ -796,6 +799,9 @@
 -
   name:"Broccoli Green"
   hex:"#4b5338"
+-
+  name:"Broccoli Paradise"
+  hex:"#008833"
 -
   name:"Bronze"
   hex:"#a87900"
@@ -3059,6 +3065,12 @@
   name:"Gold"
   hex:"#ffd700"
 -
+  name:"Gold Buttercup"
+  hex:"#ffe8bb"
+-
+  name:"Gold Digger"
+  hex:"#d1b075"
+-
   name:"Gold Rush"
   hex:"#c4a777"
 -
@@ -3089,6 +3101,9 @@
   name:"Golden Retriever"
   hex:"#eedec7"
 -
+  name:"Goldfinger"
+  hex:"#eebb11"
+-
   name:"Goldfish"
   hex:"#f2ad62"
 -
@@ -3101,6 +3116,9 @@
   name:"Good Karma"
   hex:"#333c76"
 -
+  name:"Good Luck"
+  hex:"#86c994"
+-
   name:"Good Morning"
   hex:"#fcfcda"
 -
@@ -3110,8 +3128,17 @@
   name:"Goose Bill"
   hex:"#ffba80"
 -
+  name:"Gory Red"
+  hex:"#a30800"
+-
+  name:"Gossip"
+  hex:"#9fd385"
+-
   name:"Gothic"
   hex:"#698890"
+-
+  name:"Gothic Gold"
+  hex:"#bb852f"
 -
   name:"Gourmet Honey"
   hex:"#e3cba8"
@@ -3121,6 +3148,12 @@
 -
   name:"Grand Bleu"
   hex:"#015482"
+-
+  name:"Grand Sunset"
+  hex:"#c38d87"
+-
+  name:"Grandma's Cameo"
+  hex:"#f7e7dd"
 -
   name:"Granite"
   hex:"#746a5e"
@@ -3134,11 +3167,17 @@
   name:"Grape Candy"
   hex:"#905284"
 -
+  name:"Grape Fizz"
+  hex:"#64435f"
+-
   name:"Grape Green"
   hex:"#a8e4a0"
 -
   name:"Grape Kiss"
   hex:"#7b4368"
+-
+  name:"Grape Taffy"
+  hex:"#f4daf1"
 -
   name:"Grapefruit"
   hex:"#fd5956"
@@ -5312,6 +5351,9 @@
   name:"Motherland"
   hex:"#bcb667"
 -
+  name:"Mothy"
+  hex:"#cebbb3"
+-
   name:"Mount Eden"
   hex:"#e7efe0"
 -
@@ -6845,11 +6887,29 @@
   name:"Rooftop Garden"
   hex:"#9ead92"
 -
+  name:"Root Beer"
+  hex:"#714a41"
+-
   name:"Rosé"
   hex:"#f7746b"
 -
   name:"Rosecco"
   hex:"#eebbdd"
+-
+  name:"Rosemary"
+  hex:"#405e5c"
+-
+  name:"Rosewood"
+  hex:"#65000b"
+-
+  name:"Rouge"
+  hex:"#ab1239"
+-
+  name:"Royal"
+  hex:"#0c1793"
+-
+  name:"Royal Lavender"
+  hex:"#7851a9"
 -
   name:"Royal Milk Tea"
   hex:"#f7cfb4"
@@ -6863,6 +6923,9 @@
   name:"Royal Star"
   hex:"#fede4f"
 -
+  name:"Rubber Ducky"
+  hex:"#facf58"
+-
   name:"Ruby"
   hex:"#ca0147"
 -
@@ -6872,11 +6935,20 @@
   name:"Ruins of Civilization"
   hex:"#cadece"
 -
+  name:"Rum"
+  hex:"#716675"
+-
+  name:"Rust"
+  hex:"#a83c09"
+-
   name:"Rusty Heart"
   hex:"#a04039"
 -
   name:"Ruthless Empress"
   hex:"#573894"
+-
+  name:"Sablé"
+  hex:"#f6d8be"
 -
   name:"Sable Cloaked"
   hex:"#c4a7a1"
@@ -6890,23 +6962,59 @@
   name:"Safety Orange"
   hex:"#ff6600"
 -
+  name:"Safflower"
+  hex:"#fdae44"
+-
+  name:"Saffron"
+  hex:"#f4c430"
+-
+  name:"Sage"
+  hex:"#87ae73"
+-
   name:"Sail into the Horizon"
   hex:"#a3bbdc"
+-
+  name:"Sail On"
+  hex:"#4575ad"
 -
   name:"Sail to the Sea"
   hex:"#99c3f0"
 -
+  name:"Sailor"
+  hex:"#445780"
+-
+  name:"Sakura"
+  hex:"#dfb1b6"
+-
   name:"Sakura Night"
   hex:"#7b6c7c"
+-
+  name:"Salami"
+  hex:"#820000"
+-
+  name:"Salmon"
+  hex:"#ff796c"
+-
+  name:"Salmon Nigiri"
+  hex:"#f9906f"
 -
   name:"Salmon Poké Bowl"
   hex:"#ee7777"
 -
+  name:"Salmon Sashimi"
+  hex:"#ff7e79"
+-
   name:"Salsa Verde"
   hex:"#cec754"
 -
+  name:"Salt"
+  hex:"#efede6"
+-
   name:"Salt Mountain"
   hex:"#d7fefe"
+-
+  name:"Salt n Pepa"
+  hex:"#dcd9db"
 -
   name:"Salted Caramel Popcorn"
   hex:"#fdb251"
@@ -6914,14 +7022,38 @@
   name:"Salty Ice"
   hex:"#cce2f3"
 -
+  name:"Salvia"
+  hex:"#a8b59e"
+-
+  name:"Samba"
+  hex:"#a2242f"
+-
+  name:"Sand"
+  hex:"#e2ca76"
+-
+  name:"Sand Dune"
+  hex:"#e3d2c0"
+-
   name:"Sand Ripples"
   hex:"#c1b7b0"
+-
+  name:"Sandstorm"
+  hex:"#ecd540"
+-
+  name:"Sandworm"
+  hex:"#fce883"
 -
   name:"Sanguinary"
   hex:"#f01a4d"
 -
+  name:"Sappanwood"
+  hex:"#9e3d3f"
+-
   name:"Sapphire Glitter"
   hex:"#0033cc"
+-
+  name:"Saturn"
+  hex:"#fae5bf"
 -
   name:"Sauna Steam"
   hex:"#edebe1"
@@ -6929,11 +7061,47 @@
   name:"Savoy Blue"
   hex:"#4b61d1"
 -
+  name:"Scampi"
+  hex:"#6f63a0"
+-
+  name:"Scarlet"
+  hex:"#ff2400"
+-
   name:"Schiaparelli Pink"
   hex:"#e84998"
 -
+  name:"School Bus"
+  hex:"#ffd800"
+-
+  name:"Sea"
+  hex:"#3c9992"
+-
+  name:"Sea Creature"
+  hex:"#00586d"
+-
+  name:"Seashell"
+  hex:"#fff5ee"
+-
+  name:"Seaweed"
+  hex:"#18d17b"
+-
+  name:"Secret Blush"
+  hex:"#e1d2d5"
+-
   name:"Secret Garden"
   hex:"#11aa66"
+-
+  name:"Secret of Mana"
+  hex:"#4166f5"
+-
+  name:"Secret Path"
+  hex:"#737054"
+-
+  name:"Serene"
+  hex:"#dce3e4"
+-
+  name:"Serene Sea"
+  hex:"#78a7c3"
 -
   name:"Sereni Teal"
   hex:"#76baa8"
@@ -6941,8 +7109,29 @@
   name:"Serrano Pepper"
   hex:"#556600"
 -
+  name:"Sesame"
+  hex:"#baa38b"
+-
+  name:"Sesame Seed"
+  hex:"#e1d9b8"
+-
+  name:"Shadows"
+  hex:"#6b6d6a"
+-
+  name:"Shady Character"
+  hex:"#4c4b4c"
+-
+  name:"Shallow Water"
+  hex:"#8af1fe"
+-
+  name:"Shark"
+  hex:"#cadcde"
+-
   name:"Shaving Cream"
   hex:"#e1e5e5"
+-
+  name:"She Loves Pink"
+  hex:"#e39b96"
 -
   name:"Shimmering Blue"
   hex:"#82dbcc"
@@ -6953,35 +7142,149 @@
   name:"Shin Godzilla"
   hex:"#9a373f"
 -
+  name:"Shipyard"
+  hex:"#4f6f85"
+-
   name:"Shōji"
   hex:"#ded5c7"
+-
+  name:"Shrimp"
+  hex:"#e29a86"
+-
+  name:"Shrimp Toast"
+  hex:"#f7c5a0"
+-
+  name:"Shuriken"
+  hex:"#333344"
+-
+  name:"Sienna"
+  hex:"#a9561e"
 -
   name:"Signal Green"
   hex:"#33ff00"
 -
+  name:"Silence"
+  hex:"#eaede5"
+-
   name:"Silent Sea"
   hex:"#3a4a63"
+-
+  name:"Silk Dessou"
+  hex:"#eee9dc"
+-
+  name:"Silk Lining"
+  hex:"#fcefe0"
+-
+  name:"Silk Star"
+  hex:"#f5eec6"
+-
+  name:"Silver"
+  hex:"#c0c0c0"
+-
+  name:"Silver Birch"
+  hex:"#d2cfc4"
 -
   name:"Silver Bird"
   hex:"#fbf5f0"
 -
+  name:"Silver Fern"
+  hex:"#e1ddbf"
+-
+  name:"Silver Fox"
+  hex:"#bdbcc4"
+-
+  name:"Silver Lake"
+  hex:"#dedddd"
+-
+  name:"Silver Surfer"
+  hex:"#7e7d88"
+-
+  name:"Silverfish"
+  hex:"#8d95aa"
+-
+  name:"Silverplate"
+  hex:"#c2c0ba"
+-
   name:"Sinister"
   hex:"#12110e"
+-
+  name:"Sip of Mint"
+  hex:"#dedfc9"
+-
+  name:"Skeleton"
+  hex:"#ebdecc"
+-
+  name:"Sky"
+  hex:"#76d6ff"
 -
   name:"Sky Dancer"
   hex:"#4499ff"
 -
+  name:"Sky Fall"
+  hex:"#89c6df"
+-
+  name:"Sky High"
+  hex:"#a7c2eb"
+-
+  name:"Skydiver"
+  hex:"#83acd3"
+-
+  name:"Skyscraper"
+  hex:"#d3dbe2"
+-
   name:"Slice of Heaven"
   hex:"#0022ee"
+-
+  name:"Slipper Satin"
+  hex:"#bfc1cb"
+-
+  name:"Slippery Salmon"
+  hex:"#f87e63"
+-
+  name:"Slippery Soap"
+  hex:"#efedd8"
+-
+  name:"Sly Fox"
+  hex:"#804741"
+-
+  name:"Smalt"
+  hex:"#003399"
 -
   name:"Smashing Pumpkins"
   hex:"#ff5522"
 -
+  name:"Smell of Garlic"
+  hex:"#d9ddcb"
+-
+  name:"Smiley Face"
+  hex:"#ffc962"
+-
+  name:"Smoke and Mirrors"
+  hex:"#d9e6e8"
+-
   name:"Smoke Dragon"
   hex:"#ccbbaa"
 -
+  name:"Smoked Black Coffee"
+  hex:"#3b2f2f"
+-
+  name:"Smoked Oyster"
+  hex:"#d9d2cd"
+-
+  name:"Smoked Salmon"
+  hex:"#fa8072"
+-
+  name:"Smokescreen"
+  hex:"#5e5755"
+-
   name:"Smoking Mirror"
   hex:"#a29587"
+-
+  name:"Snake Fruit"
+  hex:"#db2217"
+-
+  name:"Snakes in the Grass"
+  hex:"#889717"
 -
   name:"Snarky Mint"
   hex:"#9ae37d"
@@ -6989,17 +7292,59 @@
   name:"Sneaky Sesame"
   hex:"#896a46"
 -
+  name:"Snow"
+  hex:"#fffafa"
+-
+  name:"Snow White"
+  hex:"#eeffee"
+-
+  name:"Snowflake"
+  hex:"#eff0f0"
+-
+  name:"Snowman"
+  hex:"#fefafb"
+-
+  name:"Snowy Mint"
+  hex:"#d6f0cd"
+-
+  name:"Snowy Summit"
+  hex:"#c5d8e9"
+-
   name:"So Sour"
   hex:"#00ff11"
 -
   name:"Socialist"
   hex:"#921a1c"
 -
+  name:"Soda Pop"
+  hex:"#c3c67e"
+-
+  name:"Soft Blush"
+  hex:"#e3bcbc"
+-
+  name:"Soft Boiled"
+  hex:"#ffb737"
+-
+  name:"Soft Cashmere"
+  hex:"#efb6d8"
+-
+  name:"Solar"
+  hex:"#fbeab8"
+-
   name:"Solar Ash"
   hex:"#cc6622"
 -
+  name:"Solar Power"
+  hex:"#f4bf3a"
+-
+  name:"Sombrero"
+  hex:"#b39c8c"
+-
+  name:"Sooty"
+  hex:"#141414"
+-
   name:"Soufflé"
-  hex:"#cebbb3"
+  hex:"#edd1a8"
 -
   name:"Sour Apple Rings"
   hex:"#33bb00"
@@ -7010,6 +7355,9 @@
   name:"Sour Yellow"
   hex:"#eeff04"
 -
+  name:"Spa"
+  hex:"#ceece7"
+-
   name:"Space Dust"
   hex:"#002299"
 -
@@ -7018,6 +7366,15 @@
 -
   name:"Spaghetti Monster"
   hex:"#eecc88"
+-
+  name:"Sparkling Champagne"
+  hex:"#efcf98"
+-
+  name:"Sparkling Cider"
+  hex:"#fffdeb"
+-
+  name:"Spearmint"
+  hex:"#64bfa4"
 -
   name:"Spectacular Purple"
   hex:"#bb00ff"
@@ -7061,8 +7418,23 @@
   name:"Steamy Dumpling"
   hex:"#eae9b4"
 -
+  name:"Stellar"
+  hex:"#46647e"
+-
+  name:"Still Water"
+  hex:"#4a5d5f"
+-
   name:"Stone Guardians"
   hex:"#caba97"
+-
+  name:"Stop"
+  hex:"#c33a36"
+-
+  name:"Stormy"
+  hex:"#b0bcc3"
+-
+  name:"Stormy Bay"
+  hex:"#9aafaf"
 -
   name:"Stormy Horizon"
   hex:"#777799"
@@ -7070,11 +7442,29 @@
   name:"Stormy Oceans"
   hex:"#70818e"
 -
+  name:"Straw Gold"
+  hex:"#fcf679"
+-
+  name:"Strawberry"
+  hex:"#fb2943"
+-
   name:"Strawberry Dreams"
   hex:"#ff88aa"
 -
+  name:"Submerge"
+  hex:"#4a7d82"
+-
   name:"Succulents"
   hex:"#007744"
+-
+  name:"Sugar Chic"
+  hex:"#ffccff"
+-
+  name:"Sugar Cookie"
+  hex:"#f2e2a4"
+-
+  name:"Sugar Glaze"
+  hex:"#fff0e1"
 -
   name:"Sugar Mint"
   hex:"#c0e2c5"
@@ -7082,11 +7472,62 @@
   name:"Sugar Quill"
   hex:"#ebe5d7"
 -
+  name:"Sulfur Pit"
+  hex:"#e5cc69"
+-
+  name:"Sulphur"
+  hex:"#ddb614"
+-
+  name:"Summer Crush"
+  hex:"#f2d6da"
+-
   name:"Summer Glow"
   hex:"#eeaa44"
 -
+  name:"Summer Mist"
+  hex:"#cbeaee"
+-
+  name:"Summer's End"
+  hex:"#dc9367"
+-
+  name:"Summit"
+  hex:"#8bb6b8"
+-
+  name:"Sunbeam"
+  hex:"#f5edb2"
+-
+  name:"Sunburst"
+  hex:"#f6c289"
+-
+  name:"Sunflower"
+  hex:"#ffc512"
+-
+  name:"Sunken Gold"
+  hex:"#b29700"
+-
+  name:"Sunlight"
+  hex:"#edd59e"
+-
+  name:"Sunny Honey"
+  hex:"#f8f0d8"
+-
+  name:"Sunny Yellow"
+  hex:"#fff917"
+-
+  name:"Sunray"
+  hex:"#e3ab57"
+-
+  name:"Sunset Gold"
+  hex:"#f7c46c"
+-
+  name:"Sunset Orange"
+  hex:"#fd5e53"
+-
   name:"Sunshone Plum"
   hex:"#886688"
+-
+  name:"Super Banana"
+  hex:"#fffe71"
 -
   name:"Super Pink"
   hex:"#ce6ba4"
@@ -7097,6 +7538,9 @@
   name:"Swamp Monster"
   hex:"#005511"
 -
+  name:"Sweet Butter"
+  hex:"#fffcd7"
+-
   name:"Sweet Desire"
   hex:"#aa33ee"
 -
@@ -7105,6 +7549,18 @@
 -
   name:"Sweet Mint Pesto"
   hex:"#bbee99"
+-
+  name:"Sweet Potato"
+  hex:"#d87c3b"
+-
+  name:"Sweetly"
+  hex:"#ffe5ef"
+-
+  name:"Swimmer"
+  hex:"#0a91bf"
+-
+  name:"Swimming"
+  hex:"#c2e5e5"
 -
   name:"Tabasco"
   hex:"#a02712"
@@ -7124,8 +7580,23 @@
   name:"Tartan Red"
   hex:"#b1282a"
 -
+  name:"Tatami"
+  hex:"#deccaf"
+-
   name:"Tea Green"
   hex:"#d0f0c0"
+-
+  name:"Teak"
+  hex:"#ab8953"
+-
+  name:"Teakwood"
+  hex:"#8d7e6d"
+-
+  name:"Teal"
+  hex:"#008080"
+-
+  name:"Tempest"
+  hex:"#79839b"
 -
   name:"Temptatious Tangerine"
   hex:"#ff7733"
@@ -7162,6 +7633,12 @@
 -
   name:"Timeless Beauty"
   hex:"#b6273e"
+-
+  name:"Toffee"
+  hex:"#755139"
+-
+  name:"Tomato"
+  hex:"#ef4026"
 -
   name:"Tomato Baby"
   hex:"#e10d18"

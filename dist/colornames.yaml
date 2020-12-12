@@ -56,6 +56,9 @@
   name:"A Pair of Brown Eyes"
   hex:"#bfaf92"
 -
+  name:"A Smell of Bakery"
+  hex:"#f3e9d9"
+-
   name:"A State of Mint"
   hex:"#88ffcc"
 -
@@ -10319,6 +10322,9 @@
   name:"Broccoli Green"
   hex:"#4b5338"
 -
+  name:"Broccoli Paradise"
+  hex:"#008833"
+-
   name:"Brochantite Green"
   hex:"#486262"
 -
@@ -17869,6 +17875,9 @@
 -
   name:"Cougar"
   hex:"#9a7f78"
+-
+  name:"Count's Wardrobe"
+  hex:"#772277"
 -
   name:"Country Air"
   hex:"#9fb6c6"
@@ -47546,6 +47555,9 @@
   name:"Mothra Wing"
   hex:"#eedd82"
 -
+  name:"Mothy"
+  hex:"#cebbb3"
+-
   name:"Motto"
   hex:"#917c6f"
 -
@@ -63134,9 +63146,6 @@
   name:"Salisbury Stone"
   hex:"#ddd8c6"
 -
-  name:"Salm0n Fresco"
-  hex:"#fbb1a2"
--
   name:"Salmon"
   hex:"#ff796c"
 -
@@ -63157,6 +63166,9 @@
 -
   name:"Salmon Eggs"
   hex:"#f7d560"
+-
+  name:"Salmon Fresco"
+  hex:"#fbb1a2"
 -
   name:"Salmon Grey"
   hex:"#e3b6aa"
@@ -63241,6 +63253,9 @@
 -
   name:"Salsify White"
   hex:"#ded8c4"
+-
+  name:"Salt"
+  hex:"#efede6"
 -
   name:"Salt Blue"
   hex:"#7d9c9d"
@@ -64106,7 +64121,7 @@
   name:"Scholarship"
   hex:"#586a7d"
 -
-  name:"School Bus Yellow"
+  name:"School Bus"
   hex:"#ffd800"
 -
   name:"School Ink"
@@ -65251,6 +65266,9 @@
 -
   name:"Shady Blue"
   hex:"#42808a"
+-
+  name:"Shady Character"
+  hex:"#4c4b4c"
 -
   name:"Shady Glade"
   hex:"#006e5b"
@@ -67562,6 +67580,9 @@
   name:"Snowglory"
   hex:"#c8c8c4"
 -
+  name:"Snowman"
+  hex:"#fefafb"
+-
   name:"Snowmelt"
   hex:"#c9e6e9"
 -
@@ -68240,11 +68261,8 @@
   name:"Sotek Green"
   hex:"#47788a"
 -
-  name:"Souffle"
-  hex:"#edd1a8"
--
   name:"Soufflé"
-  hex:"#cebbb3"
+  hex:"#edd1a8"
 -
   name:"Soul Quenching"
   hex:"#7e989d"
@@ -70775,6 +70793,9 @@
   name:"Suitable Brown"
   hex:"#645a4b"
 -
+  name:"Sulfur Pit"
+  hex:"#e5cc69"
+-
   name:"Sulfur Yellow"
   hex:"#dbc058"
 -
@@ -72025,6 +72046,9 @@
 -
   name:"Swiss Cheese"
   hex:"#fff4b9"
+-
+  name:"Swiss Chocolate"
+  hex:"#8c6150"
 -
   name:"Swiss Coffee"
   hex:"#d5c3ad"
