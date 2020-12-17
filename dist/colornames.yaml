@@ -779,6 +779,9 @@
   name:"Ajo Lily"
   hex:"#faecd9"
 -
+  name:"Ajwain Green"
+  hex:"#d3de7b"
+-
   name:"Akabeni"
   hex:"#c3272b"
 -
@@ -2164,6 +2167,9 @@
 -
   name:"Anime"
   hex:"#ccc14d"
+-
+  name:"Anise Biscotti"
+  hex:"#c0baaf"
 -
   name:"Anise Flower"
   hex:"#f4e3b5"
@@ -4459,6 +4465,9 @@
 -
   name:"Aztec Turquoise"
   hex:"#00d6e2"
+-
+  name:"Aztec Warrior"
+  hex:"#bb0066"
 -
   name:"Azuki Bean"
   hex:"#96514d"
@@ -13756,6 +13765,9 @@
 -
   name:"Chá Lǜ Green"
   hex:"#77926f"
+-
+  name:"Chaat Masala"
+  hex:"#ec7d2c"
 -
   name:"Chablis"
   hex:"#fde9e0"
@@ -24404,6 +24416,9 @@
   name:"Ephren Blue"
   hex:"#1164b4"
 -
+  name:"Epic Blue"
+  hex:"#0066ee"
+-
   name:"Epicurean Orange"
   hex:"#ea6a0a"
 -
@@ -24412,6 +24427,9 @@
 -
   name:"Epimetheus"
   hex:"#4bb2d5"
+-
+  name:"Epink"
+  hex:"#dd33ff"
 -
   name:"Epiphany"
   hex:"#dbc1de"
@@ -25213,6 +25231,9 @@
 -
   name:"Fading Love"
   hex:"#c973a2"
+-
+  name:"Fading Night"
+  hex:"#3377cc"
 -
   name:"Fading Parchment"
   hex:"#ece6dc"
@@ -29368,6 +29389,9 @@
 -
   name:"Geyser Steam"
   hex:"#cbd0cf"
+-
+  name:"Ghee Yellow"
+  hex:"#d8bc23"
 -
   name:"Ghost"
   hex:"#c0bfc7"
@@ -38942,6 +38966,9 @@
   name:"Lacy Mist"
   hex:"#a78490"
 -
+  name:"Laddu Orange"
+  hex:"#ff8e13"
+-
   name:"Ladoga Bottom"
   hex:"#d9ded8"
 -
@@ -39892,6 +39919,9 @@
 -
   name:"Lemon Bubble"
   hex:"#fcebbf"
+-
+  name:"Lemon Bundt Cake"
+  hex:"#fef59f"
 -
   name:"Lemon Burst"
   hex:"#fed67e"
@@ -41872,6 +41902,9 @@
 -
   name:"Liquorice Green"
   hex:"#2a4041"
+-
+  name:"Liquorice Red"
+  hex:"#740900"
 -
   name:"Liquorice Root"
   hex:"#222200"
@@ -45487,6 +45520,9 @@
 -
   name:"Mid Century"
   hex:"#553333"
+-
+  name:"Mid Century Furniture"
+  hex:"#ae5c1b"
 -
   name:"Mid Cypress"
   hex:"#779781"
@@ -49340,6 +49376,9 @@
   name:"Nightly Escapade"
   hex:"#0433ff"
 -
+  name:"Nightly Expedition"
+  hex:"#221188"
+-
   name:"Nightly Ivy"
   hex:"#444940"
 -
@@ -52586,8 +52625,14 @@
   name:"Pandora's Box"
   hex:"#fedbb7"
 -
+  name:"Panela"
+  hex:"#9b5227"
+-
   name:"Pango Black"
   hex:"#4e4f6a"
+-
+  name:"Pani Puri"
+  hex:"#f4aa53"
 -
   name:"Pannikin"
   hex:"#7895cc"
@@ -54380,6 +54425,9 @@
   name:"Pesto Rosso"
   hex:"#bb3333"
 -
+  name:"Pestulance"
+  hex:"#aa9933"
+-
   name:"Petal Bloom"
   hex:"#f7d5da"
 -
@@ -54682,6 +54730,9 @@
 -
   name:"Pianissimo"
   hex:"#e6d0ca"
+-
+  name:"Piano Black"
+  hex:"#17171a"
 -
   name:"Piano Brown"
   hex:"#5c4c4a"
@@ -69575,6 +69626,9 @@
   name:"Stanley"
   hex:"#9bc2b4"
 -
+  name:"Star"
+  hex:"#ffe500"
+-
   name:"Star Anise"
   hex:"#5c5042"
 -
@@ -70478,6 +70532,9 @@
   name:"Strong Winds"
   hex:"#a3a59b"
 -
+  name:"Stroopwafel"
+  hex:"#a86f48"
+-
   name:"Struck by Lightning"
   hex:"#f0e1e8"
 -
@@ -70580,7 +70637,7 @@
   name:"Submarine Grey"
   hex:"#4d585c"
 -
-  name:"Submerge"
+  name:"Submerged"
   hex:"#4a7d82"
 -
   name:"Submersible"
@@ -73385,6 +73442,9 @@
   name:"The Ego Has Landed"
   hex:"#a75455"
 -
+  name:"The End"
+  hex:"#2a2a2a"
+-
   name:"The Fang"
   hex:"#585673"
 -
@@ -74234,6 +74294,9 @@
   name:"Tomato Baby"
   hex:"#e10d18"
 -
+  name:"Tomato Bisque"
+  hex:"#d15915"
+-
   name:"Tomato Concassé"
   hex:"#f6561c"
 -
@@ -74755,6 +74818,9 @@
 -
   name:"Treacherous Blizzard"
   hex:"#ddf5e7"
+-
+  name:"Treacle"
+  hex:"#885d2d"
 -
   name:"Treacle Fudge"
   hex:"#de9832"
@@ -76094,6 +76160,9 @@
   name:"Upsdell Red"
   hex:"#ae2029"
 -
+  name:"Upsed Tomato"
+  hex:"#b52923"
+-
   name:"Upstream Salmon"
   hex:"#f99a7a"
 -
@@ -76345,6 +76414,9 @@
 -
   name:"Vampire Fangs"
   hex:"#cc2255"
+-
+  name:"Vampire Fiction"
+  hex:"#9b0f11"
 -
   name:"Vampire Love Story"
   hex:"#dd0077"
@@ -80809,6 +80881,9 @@
 -
   name:"Wooster Smoke"
   hex:"#a5a192"
+-
+  name:"Worcestershire Sauce"
+  hex:"#572b26"
 -
   name:"Work Blue"
   hex:"#004d67"

@@ -116,6 +116,9 @@
   name:"Angry Pasta"
   hex:"#ffcc55"
 -
+  name:"Anise Biscotti"
+  hex:"#c0baaf"
+-
   name:"Another One Bites the Dust"
   hex:"#c7bba4"
 -
@@ -259,6 +262,9 @@
 -
   name:"Aztec Temple"
   hex:"#84705b"
+-
+  name:"Aztec Warrior"
+  hex:"#bb0066"
 -
   name:"Azure"
   hex:"#007fff"
@@ -1634,8 +1640,14 @@
   name:"Creamed Caramel"
   hex:"#b79c94"
 -
+  name:"Creamy"
+  hex:"#efe8db"
+-
   name:"Creamy Apricot"
   hex:"#ffe8bd"
+-
+  name:"Creamy Ivory"
+  hex:"#eeddaa"
 -
   name:"Creamy Mint"
   hex:"#aaffaa"
@@ -2285,6 +2297,12 @@
   name:"Ephemeral Red"
   hex:"#e4cfd7"
 -
+  name:"Epic Blue"
+  hex:"#0066ee"
+-
+  name:"Epink"
+  hex:"#dd33ff"
+-
   name:"Errigal White"
   hex:"#f2f2f4"
 -
@@ -2368,6 +2386,9 @@
 -
   name:"Fading Love"
   hex:"#c973a2"
+-
+  name:"Fading Night"
+  hex:"#3377cc"
 -
   name:"Fail Whale"
   hex:"#99ccee"
@@ -2990,6 +3011,9 @@
   name:"Gingerbread"
   hex:"#8c4a2f"
 -
+  name:"Gingerbread Crumble"
+  hex:"#9c5e33"
+-
   name:"Gingerbread House"
   hex:"#ca994e"
 -
@@ -3094,6 +3118,12 @@
 -
   name:"Golden Harvest"
   hex:"#cccc11"
+-
+  name:"Golden Mist"
+  hex:"#d5cd94"
+-
+  name:"Golden Nugget"
+  hex:"#db9b59"
 -
   name:"Golden Relic"
   hex:"#e8ce49"
@@ -4397,6 +4427,9 @@
   name:"Lemon"
   hex:"#fff700"
 -
+  name:"Lemon Burst"
+  hex:"#fed67e"
+-
   name:"Lemon Curd"
   hex:"#ffee11"
 -
@@ -4406,6 +4439,9 @@
   name:"Lemon Tart"
   hex:"#ffdd66"
 -
+  name:"Lemon Zest"
+  hex:"#f9d857"
+-
   name:"Lemonade"
   hex:"#f0e79d"
 -
@@ -4414,6 +4450,9 @@
 -
   name:"Lethal Lime"
   hex:"#88ff11"
+-
+  name:"Liaison"
+  hex:"#8c3f52"
 -
   name:"Lichen"
   hex:"#9bc2b1"
@@ -4540,6 +4579,9 @@
 -
   name:"Liquorice"
   hex:"#0a0502"
+-
+  name:"Liquorice Red"
+  hex:"#740900"
 -
   name:"Lit"
   hex:"#fffed8"
@@ -5240,6 +5282,9 @@
   name:"Mojito"
   hex:"#e4f3e0"
 -
+  name:"Molasses"
+  hex:"#574a47"
+-
   name:"Mole"
   hex:"#392d2b"
 -
@@ -5639,6 +5684,9 @@
   name:"Nightlife"
   hex:"#27426b"
 -
+  name:"Nightly Expedition"
+  hex:"#221188"
+-
   name:"Nightmare"
   hex:"#112211"
 -
@@ -5687,6 +5735,9 @@
   name:"North Atlantic"
   hex:"#536d70"
 -
+  name:"North Star"
+  hex:"#f2dea4"
+-
   name:"Northern Star"
   hex:"#ffffea"
 -
@@ -5731,6 +5782,9 @@
 -
   name:"Nut Cracker"
   hex:"#816c5b"
+-
+  name:"Nutmeg"
+  hex:"#7e4a3b"
 -
   name:"NYC Taxi"
   hex:"#f7b731"
@@ -5870,6 +5924,9 @@
   name:"Orange Piñata"
   hex:"#ff6611"
 -
+  name:"Orangealicious"
+  hex:"#ee5511"
+-
   name:"Orangina"
   hex:"#fec615"
 -
@@ -5962,6 +6019,12 @@
 -
   name:"Pandora's Box"
   hex:"#fedbb7"
+-
+  name:"Panela"
+  hex:"#9b5227"
+-
+  name:"Pani Puri"
+  hex:"#f4aa53"
 -
   name:"Panorama"
   hex:"#327a88"
@@ -6275,6 +6338,9 @@
   name:"Phosphor Green"
   hex:"#00aa00"
 -
+  name:"Piano Black"
+  hex:"#17171a"
+-
   name:"Picante"
   hex:"#8d3f2d"
 -
@@ -6316,6 +6382,9 @@
 -
   name:"Piment Piquant"
   hex:"#cc2200"
+-
+  name:"Pimento"
+  hex:"#dc5d47"
 -
   name:"Pimm's"
   hex:"#c3585c"
@@ -6628,6 +6697,9 @@
 -
   name:"Prairie Land"
   hex:"#e2cc9c"
+-
+  name:"Prairie Winds"
+  hex:"#e8e6d9"
 -
   name:"Praise the Sun"
   hex:"#f3f4d9"
@@ -7145,6 +7217,9 @@
   name:"Shipyard"
   hex:"#4f6f85"
 -
+  name:"Shocking Pink"
+  hex:"#fe02a2"
+-
   name:"Shōji"
   hex:"#ded5c7"
 -
@@ -7394,8 +7469,17 @@
   name:"Stainless Steel"
   hex:"#b4bdc7"
 -
+  name:"Star"
+  hex:"#ffe500"
+-
   name:"Star of Life"
   hex:"#057bc1"
+-
+  name:"Stargazing"
+  hex:"#414549"
+-
+  name:"Starlet"
+  hex:"#854e51"
 -
   name:"Starlit Night"
   hex:"#3b476b"
@@ -7451,7 +7535,10 @@
   name:"Strawberry Dreams"
   hex:"#ff88aa"
 -
-  name:"Submerge"
+  name:"Stroopwafel"
+  hex:"#a86f48"
+-
+  name:"Submerged"
   hex:"#4a7d82"
 -
   name:"Succulents"
@@ -7613,6 +7700,9 @@
   name:"Thai Hot"
   hex:"#fe1c06"
 -
+  name:"The End"
+  hex:"#2a2a2a"
+-
   name:"The Vast of Night"
   hex:"#110066"
 -
@@ -7642,6 +7732,9 @@
 -
   name:"Tomato Baby"
   hex:"#e10d18"
+-
+  name:"Tomato Bisque"
+  hex:"#d15915"
 -
   name:"Too Dark Tonight"
   hex:"#0011bb"
@@ -7762,6 +7855,9 @@
 -
   name:"Vampire Fangs"
   hex:"#cc2255"
+-
+  name:"Vampire Fiction"
+  hex:"#9b0f11"
 -
   name:"Vampire Love Story"
   hex:"#dd0077"
@@ -7999,6 +8095,9 @@
 -
   name:"Voluptuous Violet"
   hex:"#7711dd"
+-
+  name:"Voodoo"
+  hex:"#443240"
 -
   name:"Vulcan"
   hex:"#36383c"
@@ -8356,6 +8455,9 @@
 -
   name:"Woodland Grass"
   hex:"#004400"
+-
+  name:"Worcestershire Sauce"
+  hex:"#572b26"
 -
   name:"Worn Silver"
   hex:"#c9c0bb"

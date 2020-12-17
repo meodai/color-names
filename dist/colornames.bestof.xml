@@ -157,6 +157,10 @@
 <hex>#ffcc55</hex>
 </color>
 <color>
+<name>Anise Biscotti</name>
+<hex>#c0baaf</hex>
+</color>
+<color>
 <name>Another One Bites the Dust</name>
 <hex>#c7bba4</hex>
 </color>
@@ -347,6 +351,10 @@
 <color>
 <name>Aztec Temple</name>
 <hex>#84705b</hex>
+</color>
+<color>
+<name>Aztec Warrior</name>
+<hex>#bb0066</hex>
 </color>
 <color>
 <name>Azure</name>
@@ -2181,8 +2189,16 @@
 <hex>#b79c94</hex>
 </color>
 <color>
+<name>Creamy</name>
+<hex>#efe8db</hex>
+</color>
+<color>
 <name>Creamy Apricot</name>
 <hex>#ffe8bd</hex>
+</color>
+<color>
+<name>Creamy Ivory</name>
+<hex>#eeddaa</hex>
 </color>
 <color>
 <name>Creamy Mint</name>
@@ -3049,6 +3065,14 @@
 <hex>#e4cfd7</hex>
 </color>
 <color>
+<name>Epic Blue</name>
+<hex>#0066ee</hex>
+</color>
+<color>
+<name>Epink</name>
+<hex>#dd33ff</hex>
+</color>
+<color>
 <name>Errigal White</name>
 <hex>#f2f2f4</hex>
 </color>
@@ -3159,6 +3183,10 @@
 <color>
 <name>Fading Love</name>
 <hex>#c973a2</hex>
+</color>
+<color>
+<name>Fading Night</name>
+<hex>#3377cc</hex>
 </color>
 <color>
 <name>Fail Whale</name>
@@ -3989,6 +4017,10 @@
 <hex>#8c4a2f</hex>
 </color>
 <color>
+<name>Gingerbread Crumble</name>
+<hex>#9c5e33</hex>
+</color>
+<color>
 <name>Gingerbread House</name>
 <hex>#ca994e</hex>
 </color>
@@ -4127,6 +4159,14 @@
 <color>
 <name>Golden Harvest</name>
 <hex>#cccc11</hex>
+</color>
+<color>
+<name>Golden Mist</name>
+<hex>#d5cd94</hex>
+</color>
+<color>
+<name>Golden Nugget</name>
+<hex>#db9b59</hex>
 </color>
 <color>
 <name>Golden Relic</name>
@@ -5865,6 +5905,10 @@
 <hex>#fff700</hex>
 </color>
 <color>
+<name>Lemon Burst</name>
+<hex>#fed67e</hex>
+</color>
+<color>
 <name>Lemon Curd</name>
 <hex>#ffee11</hex>
 </color>
@@ -5877,6 +5921,10 @@
 <hex>#ffdd66</hex>
 </color>
 <color>
+<name>Lemon Zest</name>
+<hex>#f9d857</hex>
+</color>
+<color>
 <name>Lemonade</name>
 <hex>#f0e79d</hex>
 </color>
@@ -5887,6 +5935,10 @@
 <color>
 <name>Lethal Lime</name>
 <hex>#88ff11</hex>
+</color>
+<color>
+<name>Liaison</name>
+<hex>#8c3f52</hex>
 </color>
 <color>
 <name>Lichen</name>
@@ -6055,6 +6107,10 @@
 <color>
 <name>Liquorice</name>
 <hex>#0a0502</hex>
+</color>
+<color>
+<name>Liquorice Red</name>
+<hex>#740900</hex>
 </color>
 <color>
 <name>Lit</name>
@@ -6989,6 +7045,10 @@
 <hex>#e4f3e0</hex>
 </color>
 <color>
+<name>Molasses</name>
+<hex>#574a47</hex>
+</color>
+<color>
 <name>Mole</name>
 <hex>#392d2b</hex>
 </color>
@@ -7521,6 +7581,10 @@
 <hex>#27426b</hex>
 </color>
 <color>
+<name>Nightly Expedition</name>
+<hex>#221188</hex>
+</color>
+<color>
 <name>Nightmare</name>
 <hex>#112211</hex>
 </color>
@@ -7585,6 +7649,10 @@
 <hex>#536d70</hex>
 </color>
 <color>
+<name>North Star</name>
+<hex>#f2dea4</hex>
+</color>
+<color>
 <name>Northern Star</name>
 <hex>#ffffea</hex>
 </color>
@@ -7643,6 +7711,10 @@
 <color>
 <name>Nut Cracker</name>
 <hex>#816c5b</hex>
+</color>
+<color>
+<name>Nutmeg</name>
+<hex>#7e4a3b</hex>
 </color>
 <color>
 <name>NYC Taxi</name>
@@ -7829,6 +7901,10 @@
 <hex>#ff6611</hex>
 </color>
 <color>
+<name>Orangealicious</name>
+<hex>#ee5511</hex>
+</color>
+<color>
 <name>Orangina</name>
 <hex>#fec615</hex>
 </color>
@@ -7951,6 +8027,14 @@
 <color>
 <name>Pandora's Box</name>
 <hex>#fedbb7</hex>
+</color>
+<color>
+<name>Panela</name>
+<hex>#9b5227</hex>
+</color>
+<color>
+<name>Pani Puri</name>
+<hex>#f4aa53</hex>
 </color>
 <color>
 <name>Panorama</name>
@@ -8369,6 +8453,10 @@
 <hex>#00aa00</hex>
 </color>
 <color>
+<name>Piano Black</name>
+<hex>#17171a</hex>
+</color>
+<color>
 <name>Picante</name>
 <hex>#8d3f2d</hex>
 </color>
@@ -8423,6 +8511,10 @@
 <color>
 <name>Piment Piquant</name>
 <hex>#cc2200</hex>
+</color>
+<color>
+<name>Pimento</name>
+<hex>#dc5d47</hex>
 </color>
 <color>
 <name>Pimm's</name>
@@ -8839,6 +8931,10 @@
 <color>
 <name>Prairie Land</name>
 <hex>#e2cc9c</hex>
+</color>
+<color>
+<name>Prairie Winds</name>
+<hex>#e8e6d9</hex>
 </color>
 <color>
 <name>Praise the Sun</name>
@@ -9529,6 +9625,10 @@
 <hex>#4f6f85</hex>
 </color>
 <color>
+<name>Shocking Pink</name>
+<hex>#fe02a2</hex>
+</color>
+<color>
 <name>Shōji</name>
 <hex>#ded5c7</hex>
 </color>
@@ -9861,8 +9961,20 @@
 <hex>#b4bdc7</hex>
 </color>
 <color>
+<name>Star</name>
+<hex>#ffe500</hex>
+</color>
+<color>
 <name>Star of Life</name>
 <hex>#057bc1</hex>
+</color>
+<color>
+<name>Stargazing</name>
+<hex>#414549</hex>
+</color>
+<color>
+<name>Starlet</name>
+<hex>#854e51</hex>
 </color>
 <color>
 <name>Starlit Night</name>
@@ -9937,7 +10049,11 @@
 <hex>#ff88aa</hex>
 </color>
 <color>
-<name>Submerge</name>
+<name>Stroopwafel</name>
+<hex>#a86f48</hex>
+</color>
+<color>
+<name>Submerged</name>
 <hex>#4a7d82</hex>
 </color>
 <color>
@@ -10153,6 +10269,10 @@
 <hex>#fe1c06</hex>
 </color>
 <color>
+<name>The End</name>
+<hex>#2a2a2a</hex>
+</color>
+<color>
 <name>The Vast of Night</name>
 <hex>#110066</hex>
 </color>
@@ -10191,6 +10311,10 @@
 <color>
 <name>Tomato Baby</name>
 <hex>#e10d18</hex>
+</color>
+<color>
+<name>Tomato Bisque</name>
+<hex>#d15915</hex>
 </color>
 <color>
 <name>Too Dark Tonight</name>
@@ -10351,6 +10475,10 @@
 <color>
 <name>Vampire Fangs</name>
 <hex>#cc2255</hex>
+</color>
+<color>
+<name>Vampire Fiction</name>
+<hex>#9b0f11</hex>
 </color>
 <color>
 <name>Vampire Love Story</name>
@@ -10667,6 +10795,10 @@
 <color>
 <name>Voluptuous Violet</name>
 <hex>#7711dd</hex>
+</color>
+<color>
+<name>Voodoo</name>
+<hex>#443240</hex>
 </color>
 <color>
 <name>Vulcan</name>
@@ -11143,6 +11275,10 @@
 <color>
 <name>Woodland Grass</name>
 <hex>#004400</hex>
+</color>
+<color>
+<name>Worcestershire Sauce</name>
+<hex>#572b26</hex>
 </color>
 <color>
 <name>Worn Silver</name>
