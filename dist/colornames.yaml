@@ -6047,6 +6047,9 @@
   name:"Beef Jerky"
   hex:"#a25768"
 -
+  name:"Beef Patties"
+  hex:"#bb5533"
+-
   name:"Beehive"
   hex:"#e1b781"
 -
@@ -16655,6 +16658,9 @@
   name:"Cold Wind"
   hex:"#e1e3e4"
 -
+  name:"Cold Winter's Morn"
+  hex:"#b4bcd1"
+-
   name:"Coliseum Marble"
   hex:"#cec8b6"
 -
@@ -17818,6 +17824,9 @@
 -
   name:"Cotton Blossom"
   hex:"#f5f1e4"
+-
+  name:"Cotton Boll"
+  hex:"#e7effb"
 -
   name:"Cotton Candy"
   hex:"#ffbcd9"
@@ -32654,6 +32663,9 @@
   name:"Guitar"
   hex:"#6b4c37"
 -
+  name:"Gulab Brown"
+  hex:"#8b2e19"
+-
   name:"Gulābī Pink"
   hex:"#c772c0"
 -
@@ -34564,6 +34576,9 @@
 -
   name:"Holly Green"
   hex:"#0f9d76"
+-
+  name:"Holly Jolly Christmas"
+  hex:"#b50729"
 -
   name:"Holly Leaf"
   hex:"#2e5a50"
@@ -57686,6 +57701,9 @@
   name:"Princess Blue"
   hex:"#00539c"
 -
+  name:"Princess Blue Feather"
+  hex:"#cceeee"
+-
   name:"Princess Bride"
   hex:"#f4c1c1"
 -
@@ -58555,6 +58573,9 @@
 -
   name:"Purplish White"
   hex:"#dfd3e3"
+-
+  name:"Purplue"
+  hex:"#5e0dc2"
 -
   name:"Purposeful"
   hex:"#776c76"
@@ -64436,6 +64457,9 @@
   name:"Sea Glass"
   hex:"#afc1bf"
 -
+  name:"Sea Glass Teal"
+  hex:"#a0e5d9"
+-
   name:"Sea Goddess"
   hex:"#216987"
 -
@@ -65938,6 +65962,9 @@
 -
   name:"Shrimp Toast"
   hex:"#f7c5a0"
+-
+  name:"Shrine of Pleasures"
+  hex:"#cc3388"
 -
   name:"Shrinking Violet"
   hex:"#5d84b1"
@@ -75989,6 +76016,9 @@
   name:"Underhive Ash"
   hex:"#b2ac88"
 -
+  name:"Underpass Shrine"
+  hex:"#cc4422"
+-
   name:"Undersea"
   hex:"#90b1ae"
 -
@@ -81821,5 +81851,5 @@
   name:"Zürich Blue"
   hex:"#248bcc"
 -
-  name:"Zurich White"
+  name:"Zürich White"
   hex:"#e6e1d9"

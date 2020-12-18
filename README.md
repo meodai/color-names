@@ -6,9 +6,9 @@
 [![GitHub release](https://img.shields.io/github/release/meodai/color-names.svg)](https://github.com/meodai/color-names/)
 [![npm version](https://img.shields.io/npm/v/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
 [![npm](https://img.shields.io/npm/dt/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
-[![name count](https://img.shields.io/badge/__27275__-names-orange.svg)](https://github.com/meodai/color-names/blob/master/src/colornames.csv)
+[![name count](https://img.shields.io/badge/__27285__-names-orange.svg)](https://github.com/meodai/color-names/blob/master/src/colornames.csv)
 
-A handpicked list of __27275__ unique color names from [various sources](#sources-) and thousands of curated user submissions.
+A handpicked list of __27285__ unique color names from [various sources](#sources-) and thousands of curated user submissions.
 
 
 > The names of color function like a thread attached to a frightfully slender needle, capable of stitching together our most delicate emotions and memories. When the needle hits the target, we feel either pleasure or empathy. **Kenya Hara – White**
@@ -32,7 +32,7 @@ The aim of this project is to create as large a list of color names as possible 
 
 Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute!
 
-## Color Count: __27275__ 🎉
+## Color Count: __27285__ 🎉
 
 ~__0.16%__ of the RGB color space
 
@@ -197,7 +197,7 @@ See [package.json](package.json#L6) for more.
 
 ### Color Namers
 
-[Verena the naming overloard], [Jess the name wizzard], [Syl], [Stephanie Stutz], [Simbiasamba], [Jason Wilson], [Inês João], [Nick Niles], [Qwhex], [Ichatdelune], [basgys], Shelina S., Trevor Elia, [cheesits456], [Sandhya Subram], [BerylBucket], [Jimmy Fitzback], [TLZ]
+[Verena the naming overloard], [Jess the name wizzard], [Syl], [Stephanie Stutz], [Simbiasamba], [Jason Wilson], [Inês João], [Nick Niles], [Qwhex], [Ichatdelune], [basgys], Shelina S., Trevor Elia, [cheesits456], [Sandhya Subram], [BerylBucket], [Jimmy Fitzback], [TLZ], [DarthTorus]
 
 ## Disclaimer 👮🏾‍
 
@@ -250,6 +250,7 @@ As some of the color names come from other lists, some bad ones might slip in. [
 [BerylBucket]: https://github.com/BerylBucket
 [Jimmy Fitzback]: https://www.linkedin.com/in/jimmy-fitzback-6b602265/
 [TLZ]: https://github.com/TheLastZombie
+[DarthTorus]: https://github.com/DarthTorus
 
 <!-- Sources: Names -->
 
