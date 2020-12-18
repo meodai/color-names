@@ -78,7 +78,7 @@ const requestHandler = (request, response) => {
   const isAPI = requestUrl.pathname.indexOf(baseUrl) !== -1;
 
   // understanding where requests come from
-  console.log(
+  console.info(
       'request from',
       request.headers.origin
   );
@@ -92,21 +92,26 @@ const requestHandler = (request, response) => {
   }
 
   // const search = requestUrl.search || '';
+  const searchParams = new URLSearchParams(requestUrl.search);
 
-  const uniqueMode = request.url.indexOf('noduplicates=true') !== -1;
+  const uniqueMode = searchParams.has('noduplicates')
+                     && searchParams.get('noduplicates') === 'true';
 
-  const goodNamesMode = request.url.indexOf('goodnamesonly=true') !== -1;
+  const goodNamesMode = searchParams.has('goodnamesonly')
+                        && searchParams.get('goodnamesonly') === 'true';
 
   const colorQuery = request.url.replace(requestUrl.search, '')
   // splits the base url from everything
   // after the API URL
       .split(baseUrl)[1] || '';
 
+  const colorListString = searchParams.has('values')
+                          ? searchParams.get('values') : '';
 
   // gets all the colors after
-  const urlColorList = colorQuery.toLowerCase()
+  const urlColorList = (colorQuery || colorListString).toLowerCase()
       .split(urlColorSeparator)
-      .filter((hex) => (hex));
+      .filter((hex) => hex);
 
   // creates a list of invalid colors
   const invalidColors = urlColorList.filter((hex) => (
