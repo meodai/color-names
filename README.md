@@ -92,7 +92,7 @@ In this case colors is not an `object` but an `array` of `objects` sorted by col
 
 #### Unique Color-Names
 by adding `?noduplicates=true` every returned name will be unique. The closest color, that was not returned previously will be returned:
-`curl` [https://api.color.pizza/v1/?values=212121,212121&noduplicates=true](https://api.color.pizza/v1/21,212121&noduplicates=true)
+`curl` [https://api.color.pizza/v1/?values=212121,212121&noduplicates=true](https://api.color.pizza/v1/?values=212121,212121&noduplicates=true)
 
 ```javascript
 {
