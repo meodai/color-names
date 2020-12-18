@@ -22,7 +22,7 @@ const enrichColorObj = (colorObj, rgbColorArrRef) => {
   return colorObj;
 };
 
-module.exports = class NameColors {
+module.exports = class FindColors {
   constructor(colors, colorsBestOf) {
 
     this.colors = colors;
@@ -44,13 +44,23 @@ module.exports = class NameColors {
   }
 
   /**
+   * returns all colors that match a name
+   * @param {string} searchStr search term
+   * @param {boolen} bestOf    if set only returns good names
+   */
+  searchNames (searchStr, bestOf = false) {
+    const colors = bestOf ? this.colorsBestOf : this.colors;
+    return colors.filter(color => color.name.toLowerCase().includes(searchStr.toLowerCase()));
+  }
+
+  /**
    * names an array of colors
    * @param   {array} colorArr array containing hex values without the hash
    * @param   {boolean} unique if set to true every returned name will be unque
    * @param   {boolean} bestOf if set only returns good names
    * @return  {object}         object containing all nearest colors
    */
-  getNames (colorArr, unique = false, bestOf = false) {
+  getNamesForValues (colorArr, unique = false, bestOf = false) {
     let localClosest = bestOf ? this.closestBestOf : this.closest;
 
     if (unique) {

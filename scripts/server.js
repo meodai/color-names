@@ -8,11 +8,13 @@ const colors = JSON.parse(
 const colorsBestOf = JSON.parse(
     fs.readFileSync(__dirname + '/../dist/colornames.bestof.json', 'utf8')
 );
-const NameColors = require('./nameColors.js');
+const FindColors = require('./findColors.js');
 const port = process.env.PORT || 8080;
 const currentVersion = 'v1';
+const urlNameSubpath = 'names';
 const APIurl = ''; // subfolder for the API
 const baseUrl = `${APIurl}${currentVersion}/`;
+const baseUrlNames = `${baseUrl}${urlNameSubpath}/`;
 const urlColorSeparator = ',';
 const responseHeaderObj = {
   'Access-Control-Allow-Origin': '*',
@@ -24,7 +26,7 @@ const responseHeaderObj = {
   'Content-Type': 'application/json; charset=utf-8',
 };
 
-const nameColors = new NameColors(colors, colorsBestOf);
+const findColors = new FindColors(colors, colorsBestOf);
 
 /**
  * validates a hex color
@@ -35,21 +37,6 @@ const validateColor = (color) => (
   /^[0-9A-F]{3}([0-9A-F]{3})?$/i.test(color)
 );
 
-
-/*
-const parseSearchString = (searchStr) => {
-  const objURL = {};
-
-  searchStr.replace(
-      new RegExp('([^?=&]+)(=([^&]*))?', 'g'),
-      ($0, $1, $2, $3) => {
-        objURL[$1] = $3;
-      }
-  );
-
-  return objURL;
-};
-*/
 /**
  * responds to the client
  * @param {object} response      server response object
@@ -64,41 +51,45 @@ const httpRespond = (response, responseObj = {}, statusCode = 200) => {
   });
 };
 
-/**
- * Paths:
- *
- * /                      => Error
- * /v1/                   => all colors
- * /v1/212121             => array with one color
- * /v1/212121,222,f02f123 => array with 3 color
- */
+const respondNameSearch = (
+    searchParams = new URLSearchParams(''),
+    goodNamesMode = false,
+    requestUrl,
+    request,
+    response
+) => {
+  const nameQuery = request.url.replace(requestUrl.search, '')
+  // splits the base url from everything
+  // after the API URL
+      .split(baseUrlNames)[1] || '';
 
-const requestHandler = (request, response) => {
-  const requestUrl = url.parse(request.url);
-  const isAPI = requestUrl.pathname.indexOf(baseUrl) !== -1;
+  // gets the name
+  const nameString = searchParams.has('name')
+                     ? searchParams.get('name') : '';
 
-  // understanding where requests come from
-  console.info(
-      'request from',
-      request.headers.origin
-  );
+  const searchString = decodeURI(nameString || nameQuery);
 
-  // makes sure the API is beeing requested
-  if (!isAPI) {
+  if (searchString.length < 3) {
     return httpRespond(response, {error: {
       status: 404,
-      message: 'invalid URL: make sure to provide the API version',
+      message: `the color name your are looking for must be at least 3 characters long.`,
     }}, 404);
   }
 
-  // const search = requestUrl.search || '';
-  const searchParams = new URLSearchParams(requestUrl.search);
+  return httpRespond(response, {
+    colors: findColors.searchNames(searchString, goodNamesMode),
+  }, 200);
+};
 
+const respondValueSearch = (
+    searchParams = new URLSearchParams(''),
+    goodNamesMode = false,
+    requestUrl,
+    request,
+    response
+) => {
   const uniqueMode = searchParams.has('noduplicates')
-                     && searchParams.get('noduplicates') === 'true';
-
-  const goodNamesMode = searchParams.has('goodnamesonly')
-                        && searchParams.get('goodnamesonly') === 'true';
+                    && searchParams.get('noduplicates') === 'true';
 
   const colorQuery = request.url.replace(requestUrl.search, '')
   // splits the base url from everything
@@ -127,9 +118,64 @@ const requestHandler = (request, response) => {
 
   return httpRespond(response, {
     colors: urlColorList[0] ?
-    nameColors.getNames(urlColorList, uniqueMode, goodNamesMode):
+    findColors.getNamesForValues(urlColorList, uniqueMode, goodNamesMode):
     (goodNamesMode ? colorsBestOf : colors),
   }, 200);
+};
+
+/**
+ * Paths:
+ *
+ * /                      => Error
+ * /v1/                   => all colors
+ * /v1/212121             => array with one color
+ * /v1/212121,222,f02f123 => array with 3 color
+ * /v1/names/             => all colors
+ * /v1/names/red          => all colors containing the word red
+ */
+
+const requestHandler = (request, response) => {
+  const requestUrl = url.parse(request.url);
+  const isAPI = requestUrl.pathname.includes(baseUrl);
+  const isNamesAPI = requestUrl.pathname.includes(urlNameSubpath + '/');
+
+  // understanding where requests come from
+  console.info(
+      'request from',
+      request.headers.origin
+  );
+
+  // makes sure the API is beeing requested
+  if (!isAPI) {
+    return httpRespond(response, {error: {
+      status: 404,
+      message: 'invalid URL: make sure to provide the API version',
+    }}, 404);
+  }
+
+  // const search = requestUrl.search || '';
+  const searchParams = new URLSearchParams(requestUrl.search);
+
+  const goodNamesMode = searchParams.has('goodnamesonly')
+                        && searchParams.get('goodnamesonly') === 'true';
+
+  if (!isNamesAPI) {
+    return respondValueSearch(
+        searchParams,
+        goodNamesMode,
+        requestUrl,
+        request,
+        response
+    );
+  } else {
+    return respondNameSearch(
+        searchParams,
+        goodNamesMode,
+        requestUrl,
+        request,
+        response
+    );
+  }
 };
 
 const server = http.createServer(requestHandler);
