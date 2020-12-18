@@ -60,6 +60,12 @@ or `yarn add color-name-list`
 ```url
 https://api.color.pizza/v1/{{hexvalue without the #}},{{more comma separated values}}
 ```
+or
+```url
+https://api.color.pizza/v1/?values={{hexvalue without the #}},{{more comma separated values}}
+```
+
+
 #### Single Color
 `curl` [https://api.color.pizza/v1/212121](https://api.color.pizza/v1/212121)
 
@@ -77,7 +83,8 @@ https://api.color.pizza/v1/{{hexvalue without the #}},{{more comma separated val
 ```
 #### Multiple Colors
 `curl` [https://api.color.pizza/v1/212121,060606,ff0012,550055,123456](https://api.color.pizza/v1/212121,060606,ff0012,550055,123456)
-
+or
+`curl` [https://api.color.pizza/v1/?values=212121,060606,ff0012,550055,123456](https://api.color.pizza/v1/?values=212121,060606,ff0012,550055,123456)
 #### All Named Colors
 `curl` [https://api.color.pizza/v1/](https://api.color.pizza/v1/)
 
@@ -85,7 +92,7 @@ In this case colors is not an `object` but an `array` of `objects` sorted by col
 
 #### Unique Color-Names
 by adding `?noduplicates=true` every returned name will be unique. The closest color, that was not returned previously will be returned:
-`curl` [https://api.color.pizza/v1/212121,212121?noduplicates=true](https://api.color.pizza/v1/212121,212121?noduplicates=true)
+`curl` [https://api.color.pizza/v1/?values=212121,212121&noduplicates=true](https://api.color.pizza/v1/21,212121&noduplicates=true)
 
 ```javascript
 {
@@ -104,7 +111,7 @@ by adding `?noduplicates=true` every returned name will be unique. The closest c
 ```
 
 #### Good Color-Names
-Not all color-names are created equal; add `?goodnamesonly=true` to your request URL to get a handpicked subset of names that were rated as good by humans. (Colors that are liked a lot on [twitter](https://twitter.com/color_parrot) and some of the team favourites).
+Not all color-names are created equal; add [`?goodnamesonly=true`](https://api.color.pizza/v1/?values=212121,060606,ff0012,550055,123456&goodnamesonly=true) to your request URL to get a handpicked subset of names that were rated as good by humans. (Colors that are liked a lot on [twitter](https://twitter.com/color_parrot) and some of the team favourites).
 
 ### Usage JS ⌨
 
