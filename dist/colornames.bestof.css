@@ -13,6 +13,7 @@
 --color-acorn:#7e5e52;
 --color-active-volcano:#bb1133;
 --color-agent-orange:#ee6633;
+--color-agressive-aqua:#00fbff;
 --color-airborne:#a2c2d0;
 --color-alarm:#ec0003;
 --color-alien-abduction:#0cff0c;
@@ -50,6 +51,7 @@
 --color-aqua:#00ffff;
 --color-aquamarine:#2ee8bb;
 --color-aquarius:#3cadd4;
+--color-arabica-mint:#c0ffee;
 --color-arcade-fire:#ee3311;
 --color-archeology:#6e6a5e;
 --color-arctic:#648589;
@@ -584,6 +586,7 @@
 --color-cute-crab:#dd4444;
 --color-cuttlefish:#7fbbc2;
 --color-cyan:#0ff0fe;
+--color-cyber-pink:#dd77ee;
 --color-cyber-yellow:#ffd400;
 --color-cypress:#545a3e;
 --color-daffodil:#ffff31;
@@ -625,6 +628,7 @@
 --color-dead-pixel:#3b3a3a;
 --color-deadly-depths:#111144;
 --color-debian-red:#d70a53;
+--color-decadial-pink:#decade;
 --color-deep-forest:#37413a;
 --color-deep-green:#02590f;
 --color-deep-lagoon:#005265;
@@ -636,6 +640,7 @@
 --color-deep-space-rodeo:#332277;
 --color-deepsea-kraken:#082599;
 --color-deer:#ba8759;
+--color-delayed-yellow:#fdf901;
 --color-delicate-cloud:#dddfe8;
 --color-delicate-ice:#b7d2e3;
 --color-delicate-lemon:#eedd77;
@@ -842,6 +847,7 @@
 --color-fire-ant:#be6400;
 --color-fire-bolt:#cc4411;
 --color-fire-engine:#fe0002;
+--color-fire-hydrant:#ff0d00;
 --color-fireball:#ce2029;
 --color-firebug:#cd5c51;
 --color-firecracker:#f36944;
@@ -1019,6 +1025,7 @@
 --color-glimpse-into-space:#121210;
 --color-glimpse-of-void:#335588;
 --color-glitter-is-not-gold:#fedc57;
+--color-glitter-lake:#44bbff;
 --color-glitter-shower:#88ffff;
 --color-glorious-green-glitter:#aaee11;
 --color-glossy-black:#110011;
@@ -1287,6 +1294,7 @@
 --color-ice-climber:#25e2cd;
 --color-ice-cold:#d2eaf1;
 --color-ice-ice-baby:#00ffdd;
+--color-ice-temple:#11ffee;
 --color-iceberg:#dae4ee;
 --color-iced-coffee:#b18f6a;
 --color-iguana:#818455;
@@ -1423,6 +1431,7 @@
 --color-kiss:#d28ca7;
 --color-kiss-a-frog:#bec187;
 --color-kissable:#fd8f79;
+--color-kissed-by-mist:#fcccf5;
 --color-kittens-paw:#daa89b;
 --color-kiwi:#7aab55;
 --color-kiwi-kiss:#eef9c1;
@@ -2389,6 +2398,8 @@
 --color-sea:#3c9992;
 --color-sea-creature:#00586d;
 --color-sea-glass-teal:#a0e5d9;
+--color-sea-serpent:#4bc7cf;
+--color-sea-serpents-tears:#5511cc;
 --color-seashell:#fff5ee;
 --color-seaweed:#18d17b;
 --color-secret-blush:#e1d2d5;

@@ -41,6 +41,9 @@
   name:"Agent Orange"
   hex:"#ee6633"
 -
+  name:"Agressive Aqua"
+  hex:"#00fbff"
+-
   name:"Airborne"
   hex:"#a2c2d0"
 -
@@ -151,6 +154,9 @@
 -
   name:"Aquarius"
   hex:"#3cadd4"
+-
+  name:"Arabica Mint"
+  hex:"#c0ffee"
 -
   name:"Arcade Fire"
   hex:"#ee3311"
@@ -1754,6 +1760,9 @@
   name:"Cyan"
   hex:"#0ff0fe"
 -
+  name:"Cyber Pink"
+  hex:"#dd77ee"
+-
   name:"Cyber Yellow"
   hex:"#ffd400"
 -
@@ -1877,6 +1886,9 @@
   name:"Debian Red"
   hex:"#d70a53"
 -
+  name:"Decadial Pink"
+  hex:"#decade"
+-
   name:"Deep Forest"
   hex:"#37413a"
 -
@@ -1909,6 +1921,9 @@
 -
   name:"Deer"
   hex:"#ba8759"
+-
+  name:"Delayed Yellow"
+  hex:"#fdf901"
 -
   name:"Delicate Cloud"
   hex:"#dddfe8"
@@ -2528,6 +2543,9 @@
   name:"Fire Engine"
   hex:"#fe0002"
 -
+  name:"Fire Hydrant"
+  hex:"#ff0d00"
+-
   name:"Fireball"
   hex:"#ce2029"
 -
@@ -3058,6 +3076,9 @@
 -
   name:"Glitter is not Gold"
   hex:"#fedc57"
+-
+  name:"Glitter Lake"
+  hex:"#44bbff"
 -
   name:"Glitter Shower"
   hex:"#88ffff"
@@ -3863,6 +3884,9 @@
   name:"Ice Ice Baby"
   hex:"#00ffdd"
 -
+  name:"Ice Temple"
+  hex:"#11ffee"
+-
   name:"Iceberg"
   hex:"#dae4ee"
 -
@@ -4270,6 +4294,9 @@
 -
   name:"Kissable"
   hex:"#fd8f79"
+-
+  name:"Kissed by Mist"
+  hex:"#fcccf5"
 -
   name:"Kitten's Paw"
   hex:"#daa89b"
@@ -7168,6 +7195,12 @@
 -
   name:"Sea Glass Teal"
   hex:"#a0e5d9"
+-
+  name:"Sea Serpent"
+  hex:"#4bc7cf"
+-
+  name:"Sea Serpent's Tears"
+  hex:"#5511cc"
 -
   name:"Seashell"
   hex:"#fff5ee"
