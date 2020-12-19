@@ -110,6 +110,17 @@ by adding `?noduplicates=true` every returned name will be unique. The closest c
 }
 ```
 
+#### Search for colors by name
+```url
+https://api.color.pizza/v1/names/{{query}}
+```
+or
+```url
+https://api.color.pizza/v1/names/?name={{query}}
+```
+Returns an `array` of color `objects` which match the given query, sorted by color-name:    
+`curl` [https://api.color.pizza/v1/names/red](https://api.color.pizza/v1/names/red)
+
 #### Good Color-Names
 Not all color-names are created equal; add [`?goodnamesonly=true`](https://api.color.pizza/v1/?values=212121,060606,ff0012,550055,123456&goodnamesonly=true) to your request URL to get a handpicked subset of names that were rated as good by humans. (Colors that are liked a lot on [twitter](https://twitter.com/color_parrot) and some of the team favourites).
 
