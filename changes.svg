@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 1900">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 150">
   <defs>
     <style type="text/css">
       @import url('https://rsms.me/inter/inter.css');
@@ -9,6 +9,6 @@
       }
     </style>
   </defs>
-  <rect fill="#212121" x="0" y="0" width="600" height="1900"/>
-  <text x="40" y="90" fill="#aaccee">Blossom Blue</text><text x="40" y="160" fill="#bb99aa">Classy Mauve</text><text x="40" y="230" fill="#ff2077">Cyberpink</text><text x="40" y="300" fill="#5500bb">Elegant Midnight</text><text x="40" y="370" fill="#312297">Gentian Blue</text><text x="40" y="440" fill="#9b9b9b">Hydrargyrum</text><text x="40" y="510" fill="#22aabb">Kentucky Bluegrass</text><text x="40" y="580" fill="#cf3476">Magentarama</text><text x="40" y="650" fill="#aaffcc">Neo Mint</text><text x="40" y="720" fill="#005522">O Tannenbaum</text><text x="40" y="790" fill="#0055ee">Opulent Blue</text><text x="40" y="860" fill="#88dd11">Opulent Lime</text><text x="40" y="930" fill="#88ddcc">Opulent Turquoise</text><text x="40" y="1000" fill="#dd77ee">Pink Bonnet</text><text x="40" y="1070" fill="#885522">Precious Copper</text><text x="40" y="1140" fill="#117777">Prismarine</text><text x="40" y="1210" fill="#bb3344">Rust Effect</text><text x="40" y="1280" fill="#773344">Satin Chocolate</text><text x="40" y="1350" fill="#fdf3d5">Satin Cream White</text><text x="40" y="1420" fill="#1c1e21">Satin Deep Black</text><text x="40" y="1490" fill="#33ee00">Satin Lime</text><text x="40" y="1560" fill="#d5d2c7">Soy Milk</text><text x="40" y="1630" fill="#11bb22">Spring Forth</text><text x="40" y="1700" fill="#aa22cc">Telemagenta</text><text x="40" y="1770" fill="#d1902e">Vibrant Amber</text><text x="40" y="1840" fill="#bb0088">Vibrant Velvet</text>
+  <rect fill="#212121" x="0" y="0" width="600" height="150"/>
+  <text x="40" y="90" fill="#bb22aa">Amora Purple</text>
 </svg>
