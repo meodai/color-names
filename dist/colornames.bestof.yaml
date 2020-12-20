@@ -1226,6 +1226,9 @@
   name:"Champagne"
   hex:"#e9d2ac"
 -
+  name:"Champagne Gold"
+  hex:"#e8d6b3"
+-
   name:"Channel"
   hex:"#f1c3c2"
 -
@@ -1402,6 +1405,9 @@
 -
   name:"Clairvoyant"
   hex:"#480656"
+-
+  name:"Classy Mauve"
+  hex:"#bb99aa"
 -
   name:"Clay"
   hex:"#b66a50"
@@ -1760,11 +1766,11 @@
   name:"Cyan"
   hex:"#0ff0fe"
 -
-  name:"Cyber Pink"
-  hex:"#dd77ee"
--
   name:"Cyber Yellow"
   hex:"#ffd400"
+-
+  name:"Cyberpink"
+  hex:"#ff2077"
 -
   name:"Cypress"
   hex:"#545a3e"
@@ -2977,6 +2983,9 @@
 -
   name:"Genie"
   hex:"#3e4364"
+-
+  name:"Gentian Blue"
+  hex:"#312297"
 -
   name:"Gentle Caress"
   hex:"#fcd7ba"
@@ -4823,6 +4832,9 @@
   name:"Magenta Elephant"
   hex:"#de0170"
 -
+  name:"Magentarama"
+  hex:"#cf3476"
+-
   name:"Magentle"
   hex:"#aa11aa"
 -
@@ -5624,6 +5636,9 @@
   name:"Negroni"
   hex:"#eec7a2"
 -
+  name:"Neo Mint"
+  hex:"#aaffcc"
+-
   name:"Neon Blue"
   hex:"#04d9ff"
 -
@@ -5834,6 +5849,9 @@
   name:"Nymph's Delight"
   hex:"#7b6c8e"
 -
+  name:"O Tannenbaum"
+  hex:"#005522"
+-
   name:"Oak Barrel"
   hex:"#715636"
 -
@@ -5947,6 +5965,18 @@
 -
   name:"Opium"
   hex:"#987e7e"
+-
+  name:"Opulent Blue"
+  hex:"#0055ee"
+-
+  name:"Opulent Lime"
+  hex:"#88dd11"
+-
+  name:"Opulent Purple"
+  hex:"#673362"
+-
+  name:"Opulent Turquoise"
+  hex:"#88ddcc"
 -
   name:"Orange"
   hex:"#ffa500"
@@ -6743,6 +6773,9 @@
   name:"Praise the Sun"
   hex:"#f3f4d9"
 -
+  name:"Precious Copper"
+  hex:"#885522"
+-
   name:"Precious Persimmon"
   hex:"#ff7744"
 -
@@ -6775,6 +6808,9 @@
 -
   name:"Princess Peach"
   hex:"#f878f8"
+-
+  name:"Prismarine"
+  hex:"#117777"
 -
   name:"Professor Plum"
   hex:"#393540"
@@ -6980,6 +7016,9 @@
   name:"Retro Vibe"
   hex:"#cb9711"
 -
+  name:"Rich Gold"
+  hex:"#aa8833"
+-
   name:"Ridgeback"
   hex:"#ef985c"
 -
@@ -7165,6 +7204,18 @@
 -
   name:"Sapphire Glitter"
   hex:"#0033cc"
+-
+  name:"Satin Chocolate"
+  hex:"#773344"
+-
+  name:"Satin Cream White"
+  hex:"#fdf3d5"
+-
+  name:"Satin Deep Black"
+  hex:"#1c1e21"
+-
+  name:"Satin Lime"
+  hex:"#33ee00"
 -
   name:"Saturn"
   hex:"#fae5bf"
@@ -7484,6 +7535,9 @@
   name:"Sour Yellow"
   hex:"#eeff04"
 -
+  name:"Soy Milk"
+  hex:"#d5d2c7"
+-
   name:"Spa"
   hex:"#ceece7"
 -
@@ -7519,6 +7573,9 @@
 -
   name:"Splashing Wave"
   hex:"#44ddff"
+-
+  name:"Spring Forth"
+  hex:"#11bb22"
 -
   name:"Stainless Steel"
   hex:"#b4bdc7"
@@ -7741,6 +7798,9 @@
 -
   name:"Teal"
   hex:"#008080"
+-
+  name:"Telemagenta"
+  hex:"#aa22cc"
 -
   name:"Tempest"
   hex:"#79839b"
@@ -8030,6 +8090,9 @@
   name:"Very Coffee"
   hex:"#664411"
 -
+  name:"Vibrant Amber"
+  hex:"#d1902e"
+-
   name:"Vibrant Blue"
   hex:"#0339f8"
 -
@@ -8038,6 +8101,9 @@
 -
   name:"Vibrant Orange"
   hex:"#ff7420"
+-
+  name:"Vibrant Velvet"
+  hex:"#bb0088"
 -
   name:"Vibrant Vine"
   hex:"#4b373a"

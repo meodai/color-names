@@ -16,6 +16,7 @@ const enrichColorObj = (colorObj, rgbColorArrRef) => {
   colorObj.rgb = rgb;
   // get hsl color value
   colorObj.hsl = lib.rgbToHsl(...Object.values(rgb));
+
   // calculate luminancy for each color
   colorObj.luminance = lib.luminance(rgb);
 

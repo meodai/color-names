@@ -7814,6 +7814,9 @@
   name:"Blossom"
   hex:"#fee9d8"
 -
+  name:"Blossom Blue"
+  hex:"#aaccee"
+-
   name:"Blossom Mauve"
   hex:"#a3a7cc"
 -
@@ -15746,6 +15749,9 @@
   name:"Classy"
   hex:"#aeacad"
 -
+  name:"Classy Mauve"
+  hex:"#bb99aa"
+-
   name:"Classy Plum"
   hex:"#887e82"
 -
@@ -19211,11 +19217,11 @@
   name:"Cyber Lavender"
   hex:"#e6e6fa"
 -
-  name:"Cyber Pink"
-  hex:"#dd77ee"
--
   name:"Cyber Yellow"
   hex:"#ffd400"
+-
+  name:"Cyberpink"
+  hex:"#ff2077"
 -
   name:"Cyberspace"
   hex:"#44484d"
@@ -23725,6 +23731,9 @@
 -
   name:"Elegant Light Rose"
   hex:"#fdcaca"
+-
+  name:"Elegant Midnight"
+  hex:"#5500bb"
 -
   name:"Elegant Navy"
   hex:"#48516a"
@@ -29275,6 +29284,9 @@
 -
   name:"Gentian"
   hex:"#9079ad"
+-
+  name:"Gentian Blue"
+  hex:"#312297"
 -
   name:"Gentian Flower"
   hex:"#3366ff"
@@ -35450,6 +35462,9 @@
   name:"Hydrangea Purple"
   hex:"#caa0ff"
 -
+  name:"Hydrargyrum"
+  hex:"#9b9b9b"
+-
   name:"Hydro"
   hex:"#426972"
 -
@@ -38245,6 +38260,9 @@
 -
   name:"Kentucky Blue"
   hex:"#a5b3cc"
+-
+  name:"Kentucky Bluegrass"
+  hex:"#22aabb"
 -
   name:"Kenya"
   hex:"#cca179"
@@ -43201,6 +43219,9 @@
 -
   name:"Magenta Violet"
   hex:"#6c5389"
+-
+  name:"Magentarama"
+  hex:"#cf3476"
 -
   name:"Magentella"
   hex:"#d521b8"
@@ -48920,6 +48941,9 @@
   name:"Nelson's Milk Snake"
   hex:"#933d41"
 -
+  name:"Neo Mint"
+  hex:"#aaffcc"
+-
   name:"Neo Tokyo Grey"
   hex:"#bec0c2"
 -
@@ -50069,6 +50093,9 @@
   name:"O Fortuna"
   hex:"#e1b8b5"
 -
+  name:"O Tannenbaum"
+  hex:"#005522"
+-
   name:"O'Brien Orange"
   hex:"#f3a347"
 -
@@ -51146,8 +51173,14 @@
   name:"Opulent"
   hex:"#d5892f"
 -
+  name:"Opulent Blue"
+  hex:"#0055ee"
+-
   name:"Opulent Green"
   hex:"#103222"
+-
+  name:"Opulent Lime"
+  hex:"#88dd11"
 -
   name:"Opulent Mauve"
   hex:"#462343"
@@ -51160,6 +51193,9 @@
 -
   name:"Opulent Purple"
   hex:"#673362"
+-
+  name:"Opulent Turquoise"
+  hex:"#88ddcc"
 -
   name:"Opulent Violet"
   hex:"#a09ec6"
@@ -55259,6 +55295,9 @@
   name:"Pink Blush"
   hex:"#f4acb6"
 -
+  name:"Pink Bonnet"
+  hex:"#dd77ee"
+-
   name:"Pink Booties"
   hex:"#efe1e4"
 -
@@ -57467,6 +57506,9 @@
   name:"Precious Blue"
   hex:"#008389"
 -
+  name:"Precious Copper"
+  hex:"#885522"
+-
   name:"Precious Dewdrop"
   hex:"#f5f5e4"
 -
@@ -57772,6 +57814,9 @@
 -
   name:"Prism Violet"
   hex:"#53357d"
+-
+  name:"Prismarine"
+  hex:"#117777"
 -
   name:"Prismatic Pearl"
   hex:"#eae8dd"
@@ -62723,6 +62768,9 @@
   name:"Rust Coloured"
   hex:"#a46454"
 -
+  name:"Rust Effect"
+  hex:"#bb3344"
+-
   name:"Rust Magenta"
   hex:"#966684"
 -
@@ -63911,6 +63959,15 @@
   name:"Satin Blush"
   hex:"#ffe4c6"
 -
+  name:"Satin Chocolate"
+  hex:"#773344"
+-
+  name:"Satin Cream White"
+  hex:"#fdf3d5"
+-
+  name:"Satin Deep Black"
+  hex:"#1c1e21"
+-
   name:"Satin Flower"
   hex:"#b48fbd"
 -
@@ -63919,6 +63976,9 @@
 -
   name:"Satin Latour"
   hex:"#fad7b0"
+-
+  name:"Satin Lime"
+  hex:"#33ee00"
 -
   name:"Satin Linen"
   hex:"#e6e4d4"
@@ -68507,6 +68567,9 @@
   name:"Sovereignty"
   hex:"#304e63"
 -
+  name:"Soy Milk"
+  hex:"#d5d2c7"
+-
   name:"Soya"
   hex:"#fae3bc"
 -
@@ -69325,6 +69388,9 @@
 -
   name:"Spring Forest"
   hex:"#67926f"
+-
+  name:"Spring Forth"
+  hex:"#11bb22"
 -
   name:"Spring Frost"
   hex:"#87ff2a"
@@ -73146,7 +73212,7 @@
   hex:"#ad66d2"
 -
   name:"Telemagenta"
-  hex:"#cf3476"
+  hex:"#aa22cc"
 -
   name:"Telopea"
   hex:"#2d2541"
@@ -77159,6 +77225,9 @@
   name:"Vibrant"
   hex:"#ffd44d"
 -
+  name:"Vibrant Amber"
+  hex:"#d1902e"
+-
   name:"Vibrant Blue"
   hex:"#0339f8"
 -
@@ -77185,6 +77254,9 @@
 -
   name:"Vibrant Soft Blue"
   hex:"#88d6dc"
+-
+  name:"Vibrant Velvet"
+  hex:"#bb0088"
 -
   name:"Vibrant Vine"
   hex:"#4b373a"

@@ -82,7 +82,6 @@ module.exports = {
       itemDelimitor: ',',
     }, options);
 
-
     return settings.insertBefore + arr.map((item) => {
       return keys.map((key) => {
         return (settings.includeKeyPerItem ? settings.beforeKey + key + settings.afterKey + settings.keyValueSeparator : '') + settings.beforeValue + item[key] + settings.afterValue;
@@ -134,7 +133,7 @@ module.exports = {
    * @param   {Number}  r       The red color value
    * @param   {Number}  g       The green color value
    * @param   {Number}  b       The blue color value
-   * @return  {Array}           The HSL representation
+   * @return  {Object}          The HSL representation
    */
   rgbToHsl: (r, g, b) => {
     r = r / 255;
@@ -193,8 +192,8 @@ module.exports = {
   distance: (rgb1, rgb2) => (
     Math.sqrt(
         Math.pow(rgb1.r - rgb2.r, 2) +
-      Math.pow(rgb1.g - rgb2.g, 2) +
-      Math.pow(rgb1.b - rgb2.b, 2)
+        Math.pow(rgb1.g - rgb2.g, 2) +
+        Math.pow(rgb1.b - rgb2.b, 2)
     )
   ),
 };

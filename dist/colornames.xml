@@ -10421,6 +10421,10 @@
 <hex>#fee9d8</hex>
 </color>
 <color>
+<name>Blossom Blue</name>
+<hex>#aaccee</hex>
+</color>
+<color>
 <name>Blossom Mauve</name>
 <hex>#a3a7cc</hex>
 </color>
@@ -20997,6 +21001,10 @@
 <hex>#aeacad</hex>
 </color>
 <color>
+<name>Classy Mauve</name>
+<hex>#bb99aa</hex>
+</color>
+<color>
 <name>Classy Plum</name>
 <hex>#887e82</hex>
 </color>
@@ -25617,12 +25625,12 @@
 <hex>#e6e6fa</hex>
 </color>
 <color>
-<name>Cyber Pink</name>
-<hex>#dd77ee</hex>
-</color>
-<color>
 <name>Cyber Yellow</name>
 <hex>#ffd400</hex>
+</color>
+<color>
+<name>Cyberpink</name>
+<hex>#ff2077</hex>
 </color>
 <color>
 <name>Cyberspace</name>
@@ -31635,6 +31643,10 @@
 <color>
 <name>Elegant Light Rose</name>
 <hex>#fdcaca</hex>
+</color>
+<color>
+<name>Elegant Midnight</name>
+<hex>#5500bb</hex>
 </color>
 <color>
 <name>Elegant Navy</name>
@@ -39035,6 +39047,10 @@
 <color>
 <name>Gentian</name>
 <hex>#9079ad</hex>
+</color>
+<color>
+<name>Gentian Blue</name>
+<hex>#312297</hex>
 </color>
 <color>
 <name>Gentian Flower</name>
@@ -47269,6 +47285,10 @@
 <hex>#caa0ff</hex>
 </color>
 <color>
+<name>Hydrargyrum</name>
+<hex>#9b9b9b</hex>
+</color>
+<color>
 <name>Hydro</name>
 <hex>#426972</hex>
 </color>
@@ -50995,6 +51015,10 @@
 <color>
 <name>Kentucky Blue</name>
 <hex>#a5b3cc</hex>
+</color>
+<color>
+<name>Kentucky Bluegrass</name>
+<hex>#22aabb</hex>
 </color>
 <color>
 <name>Kenya</name>
@@ -57603,6 +57627,10 @@
 <color>
 <name>Magenta Violet</name>
 <hex>#6c5389</hex>
+</color>
+<color>
+<name>Magentarama</name>
+<hex>#cf3476</hex>
 </color>
 <color>
 <name>Magentella</name>
@@ -65229,6 +65257,10 @@
 <hex>#933d41</hex>
 </color>
 <color>
+<name>Neo Mint</name>
+<hex>#aaffcc</hex>
+</color>
+<color>
 <name>Neo Tokyo Grey</name>
 <hex>#bec0c2</hex>
 </color>
@@ -66761,6 +66793,10 @@
 <hex>#e1b8b5</hex>
 </color>
 <color>
+<name>O Tannenbaum</name>
+<hex>#005522</hex>
+</color>
+<color>
 <name>O'Brien Orange</name>
 <hex>#f3a347</hex>
 </color>
@@ -68197,8 +68233,16 @@
 <hex>#d5892f</hex>
 </color>
 <color>
+<name>Opulent Blue</name>
+<hex>#0055ee</hex>
+</color>
+<color>
 <name>Opulent Green</name>
 <hex>#103222</hex>
+</color>
+<color>
+<name>Opulent Lime</name>
+<hex>#88dd11</hex>
 </color>
 <color>
 <name>Opulent Mauve</name>
@@ -68215,6 +68259,10 @@
 <color>
 <name>Opulent Purple</name>
 <hex>#673362</hex>
+</color>
+<color>
+<name>Opulent Turquoise</name>
+<hex>#88ddcc</hex>
 </color>
 <color>
 <name>Opulent Violet</name>
@@ -73681,6 +73729,10 @@
 <hex>#f4acb6</hex>
 </color>
 <color>
+<name>Pink Bonnet</name>
+<hex>#dd77ee</hex>
+</color>
+<color>
 <name>Pink Booties</name>
 <hex>#efe1e4</hex>
 </color>
@@ -76625,6 +76677,10 @@
 <hex>#008389</hex>
 </color>
 <color>
+<name>Precious Copper</name>
+<hex>#885522</hex>
+</color>
+<color>
 <name>Precious Dewdrop</name>
 <hex>#f5f5e4</hex>
 </color>
@@ -77031,6 +77087,10 @@
 <color>
 <name>Prism Violet</name>
 <hex>#53357d</hex>
+</color>
+<color>
+<name>Prismarine</name>
+<hex>#117777</hex>
 </color>
 <color>
 <name>Prismatic Pearl</name>
@@ -83633,6 +83693,10 @@
 <hex>#a46454</hex>
 </color>
 <color>
+<name>Rust Effect</name>
+<hex>#bb3344</hex>
+</color>
+<color>
 <name>Rust Magenta</name>
 <hex>#966684</hex>
 </color>
@@ -85217,6 +85281,18 @@
 <hex>#ffe4c6</hex>
 </color>
 <color>
+<name>Satin Chocolate</name>
+<hex>#773344</hex>
+</color>
+<color>
+<name>Satin Cream White</name>
+<hex>#fdf3d5</hex>
+</color>
+<color>
+<name>Satin Deep Black</name>
+<hex>#1c1e21</hex>
+</color>
+<color>
 <name>Satin Flower</name>
 <hex>#b48fbd</hex>
 </color>
@@ -85227,6 +85303,10 @@
 <color>
 <name>Satin Latour</name>
 <hex>#fad7b0</hex>
+</color>
+<color>
+<name>Satin Lime</name>
+<hex>#33ee00</hex>
 </color>
 <color>
 <name>Satin Linen</name>
@@ -91345,6 +91425,10 @@
 <hex>#304e63</hex>
 </color>
 <color>
+<name>Soy Milk</name>
+<hex>#d5d2c7</hex>
+</color>
+<color>
 <name>Soya</name>
 <hex>#fae3bc</hex>
 </color>
@@ -92435,6 +92519,10 @@
 <color>
 <name>Spring Forest</name>
 <hex>#67926f</hex>
+</color>
+<color>
+<name>Spring Forth</name>
+<hex>#11bb22</hex>
 </color>
 <color>
 <name>Spring Frost</name>
@@ -97530,7 +97618,7 @@
 </color>
 <color>
 <name>Telemagenta</name>
-<hex>#cf3476</hex>
+<hex>#aa22cc</hex>
 </color>
 <color>
 <name>Telopea</name>
@@ -102881,6 +102969,10 @@
 <hex>#ffd44d</hex>
 </color>
 <color>
+<name>Vibrant Amber</name>
+<hex>#d1902e</hex>
+</color>
+<color>
 <name>Vibrant Blue</name>
 <hex>#0339f8</hex>
 </color>
@@ -102915,6 +103007,10 @@
 <color>
 <name>Vibrant Soft Blue</name>
 <hex>#88d6dc</hex>
+</color>
+<color>
+<name>Vibrant Velvet</name>
+<hex>#bb0088</hex>
 </color>
 <color>
 <name>Vibrant Vine</name>

@@ -1637,6 +1637,10 @@
 <hex>#e9d2ac</hex>
 </color>
 <color>
+<name>Champagne Gold</name>
+<hex>#e8d6b3</hex>
+</color>
+<color>
 <name>Channel</name>
 <hex>#f1c3c2</hex>
 </color>
@@ -1871,6 +1875,10 @@
 <color>
 <name>Clairvoyant</name>
 <hex>#480656</hex>
+</color>
+<color>
+<name>Classy Mauve</name>
+<hex>#bb99aa</hex>
 </color>
 <color>
 <name>Clay</name>
@@ -2349,12 +2357,12 @@
 <hex>#0ff0fe</hex>
 </color>
 <color>
-<name>Cyber Pink</name>
-<hex>#dd77ee</hex>
-</color>
-<color>
 <name>Cyber Yellow</name>
 <hex>#ffd400</hex>
+</color>
+<color>
+<name>Cyberpink</name>
+<hex>#ff2077</hex>
 </color>
 <color>
 <name>Cypress</name>
@@ -3971,6 +3979,10 @@
 <color>
 <name>Genie</name>
 <hex>#3e4364</hex>
+</color>
+<color>
+<name>Gentian Blue</name>
+<hex>#312297</hex>
 </color>
 <color>
 <name>Gentle Caress</name>
@@ -6433,6 +6445,10 @@
 <hex>#de0170</hex>
 </color>
 <color>
+<name>Magentarama</name>
+<hex>#cf3476</hex>
+</color>
+<color>
 <name>Magentle</name>
 <hex>#aa11aa</hex>
 </color>
@@ -7501,6 +7517,10 @@
 <hex>#eec7a2</hex>
 </color>
 <color>
+<name>Neo Mint</name>
+<hex>#aaffcc</hex>
+</color>
+<color>
 <name>Neon Blue</name>
 <hex>#04d9ff</hex>
 </color>
@@ -7781,6 +7801,10 @@
 <hex>#7b6c8e</hex>
 </color>
 <color>
+<name>O Tannenbaum</name>
+<hex>#005522</hex>
+</color>
+<color>
 <name>Oak Barrel</name>
 <hex>#715636</hex>
 </color>
@@ -7931,6 +7955,22 @@
 <color>
 <name>Opium</name>
 <hex>#987e7e</hex>
+</color>
+<color>
+<name>Opulent Blue</name>
+<hex>#0055ee</hex>
+</color>
+<color>
+<name>Opulent Lime</name>
+<hex>#88dd11</hex>
+</color>
+<color>
+<name>Opulent Purple</name>
+<hex>#673362</hex>
+</color>
+<color>
+<name>Opulent Turquoise</name>
+<hex>#88ddcc</hex>
 </color>
 <color>
 <name>Orange</name>
@@ -8993,6 +9033,10 @@
 <hex>#f3f4d9</hex>
 </color>
 <color>
+<name>Precious Copper</name>
+<hex>#885522</hex>
+</color>
+<color>
 <name>Precious Persimmon</name>
 <hex>#ff7744</hex>
 </color>
@@ -9035,6 +9079,10 @@
 <color>
 <name>Princess Peach</name>
 <hex>#f878f8</hex>
+</color>
+<color>
+<name>Prismarine</name>
+<hex>#117777</hex>
 </color>
 <color>
 <name>Professor Plum</name>
@@ -9309,6 +9357,10 @@
 <hex>#cb9711</hex>
 </color>
 <color>
+<name>Rich Gold</name>
+<hex>#aa8833</hex>
+</color>
+<color>
 <name>Ridgeback</name>
 <hex>#ef985c</hex>
 </color>
@@ -9555,6 +9607,22 @@
 <color>
 <name>Sapphire Glitter</name>
 <hex>#0033cc</hex>
+</color>
+<color>
+<name>Satin Chocolate</name>
+<hex>#773344</hex>
+</color>
+<color>
+<name>Satin Cream White</name>
+<hex>#fdf3d5</hex>
+</color>
+<color>
+<name>Satin Deep Black</name>
+<hex>#1c1e21</hex>
+</color>
+<color>
+<name>Satin Lime</name>
+<hex>#33ee00</hex>
 </color>
 <color>
 <name>Saturn</name>
@@ -9981,6 +10049,10 @@
 <hex>#eeff04</hex>
 </color>
 <color>
+<name>Soy Milk</name>
+<hex>#d5d2c7</hex>
+</color>
+<color>
 <name>Spa</name>
 <hex>#ceece7</hex>
 </color>
@@ -10027,6 +10099,10 @@
 <color>
 <name>Splashing Wave</name>
 <hex>#44ddff</hex>
+</color>
+<color>
+<name>Spring Forth</name>
+<hex>#11bb22</hex>
 </color>
 <color>
 <name>Stainless Steel</name>
@@ -10323,6 +10399,10 @@
 <color>
 <name>Teal</name>
 <hex>#008080</hex>
+</color>
+<color>
+<name>Telemagenta</name>
+<hex>#aa22cc</hex>
 </color>
 <color>
 <name>Tempest</name>
@@ -10709,6 +10789,10 @@
 <hex>#664411</hex>
 </color>
 <color>
+<name>Vibrant Amber</name>
+<hex>#d1902e</hex>
+</color>
+<color>
 <name>Vibrant Blue</name>
 <hex>#0339f8</hex>
 </color>
@@ -10719,6 +10803,10 @@
 <color>
 <name>Vibrant Orange</name>
 <hex>#ff7420</hex>
+</color>
+<color>
+<name>Vibrant Velvet</name>
+<hex>#bb0088</hex>
 </color>
 <color>
 <name>Vibrant Vine</name>
