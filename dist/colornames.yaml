@@ -4745,6 +4745,9 @@
   name:"Badab Black Wash"
   hex:"#0a0908"
 -
+  name:"Badass Grass"
+  hex:"#b4da55"
+-
   name:"Badlands Orange"
   hex:"#ff6316"
 -
@@ -7421,6 +7424,9 @@
   name:"Blackmail"
   hex:"#220066"
 -
+  name:"Blackn't"
+  hex:"#020f03"
+-
   name:"Blackout"
   hex:"#0e0702"
 -
@@ -7504,6 +7510,9 @@
 -
   name:"Blazing Bonfire"
   hex:"#ffa035"
+-
+  name:"Blazing Dragonfruit"
+  hex:"#ff0054"
 -
   name:"Blazing Orange"
   hex:"#ffa64f"
@@ -15085,6 +15094,9 @@
 -
   name:"Chocolate Moment"
   hex:"#998069"
+-
+  name:"Chocolate Oatmeal Cookie"
+  hex:"#bb5544"
 -
   name:"Chocolate Pancakes"
   hex:"#884400"
@@ -22811,6 +22823,9 @@
   name:"Dust Green"
   hex:"#c6c8be"
 -
+  name:"Dust of the Moon"
+  hex:"#cfc9df"
+-
   name:"Dust Storm"
   hex:"#e7d3b7"
 -
@@ -25039,6 +25054,9 @@
 -
   name:"Exploring Khaki"
   hex:"#aa9a79"
+-
+  name:"Explosive Purple"
+  hex:"#cc11bb"
 -
   name:"Express Blue"
   hex:"#395a73"
@@ -28793,6 +28811,9 @@
   name:"Galactic Civilization"
   hex:"#442288"
 -
+  name:"Galactic Federation"
+  hex:"#330077"
+-
   name:"Galactic Highway"
   hex:"#3311bb"
 -
@@ -31880,6 +31901,9 @@
   name:"Green Neon"
   hex:"#b2ac31"
 -
+  name:"Green not Found"
+  hex:"#404404"
+-
   name:"Green Oasis"
   hex:"#b0b454"
 -
@@ -32527,6 +32551,9 @@
 -
   name:"Grim Grey"
   hex:"#e3dcd6"
+-
+  name:"Grim Pink"
+  hex:"#deadaf"
 -
   name:"Grim Purple"
   hex:"#441188"
@@ -35698,6 +35725,9 @@
 -
   name:"Iceberg Green"
   hex:"#8c9c92"
+-
+  name:"Iced Almond"
+  hex:"#fef4dd"
 -
   name:"Iced Aniseed"
   hex:"#cbd3c3"
@@ -40400,6 +40430,9 @@
   name:"Lifeguard"
   hex:"#e50000"
 -
+  name:"Lifeless Green"
+  hex:"#00dead"
+-
   name:"Lifeless Planet"
   hex:"#e6d699"
 -
@@ -42464,6 +42497,9 @@
   name:"Loud Lime"
   hex:"#88ff22"
 -
+  name:"Loudicious Pink"
+  hex:"#d92fb4"
+-
   name:"Louisiana Mud"
   hex:"#655856"
 -
@@ -43591,6 +43627,9 @@
 -
   name:"Male Betta"
   hex:"#347699"
+-
+  name:"Malevolent Mauve"
+  hex:"#bb6688"
 -
   name:"Malibu"
   hex:"#66b7e1"
@@ -46657,6 +46696,9 @@
 -
   name:"Mocha Brown"
   hex:"#6b565e"
+-
+  name:"Mocha Dandelion"
+  hex:"#f1d96e"
 -
   name:"Mocha Foam"
   hex:"#bba28e"
@@ -51664,6 +51706,9 @@
 -
   name:"Orioles Orange"
   hex:"#fb4f14"
+-
+  name:"Orion"
+  hex:"#de55a9"
 -
   name:"Orion Blue"
   hex:"#3e4f5c"
@@ -59693,6 +59738,9 @@
   name:"Raven's Coat"
   hex:"#030205"
 -
+  name:"Ravenclaw"
+  hex:"#0a0555"
+-
   name:"Ravine"
   hex:"#d3cec7"
 -
@@ -67181,6 +67229,9 @@
   name:"Sleeping Giant"
   hex:"#786d5e"
 -
+  name:"Sleepless Blue"
+  hex:"#badbed"
+-
   name:"Sleepy Blue"
   hex:"#bccbce"
 -
@@ -68570,6 +68621,9 @@
   name:"Sovereignty"
   hex:"#304e63"
 -
+  name:"Soviet Gold"
+  hex:"#ffd900"
+-
   name:"Soy Milk"
   hex:"#d5d2c7"
 -
@@ -68839,6 +68893,9 @@
 -
   name:"Sparks In The Dark"
   hex:"#ff7711"
+-
+  name:"Sparky Blue"
+  hex:"#22eeff"
 -
   name:"Sparrow"
   hex:"#69595c"
@@ -70508,6 +70565,9 @@
   name:"Strawberry Dust"
   hex:"#fff0ea"
 -
+  name:"Strawberry Field"
+  hex:"#fa8383"
+-
   name:"Strawberry Frappe"
   hex:"#ffa2aa"
 -
@@ -70529,7 +70589,7 @@
   name:"Strawberry Jubilee"
   hex:"#c08591"
 -
-  name:"Strawberry Milkshake Red"
+  name:"Strawberry Milkshake"
   hex:"#d47186"
 -
   name:"Strawberry Mousse"
@@ -73199,6 +73259,9 @@
   name:"Teddy's Taupe"
   hex:"#bcac9f"
 -
+  name:"Tedious Red"
+  hex:"#c00c20"
+-
   name:"Tee Off"
   hex:"#68855a"
 -
@@ -73648,6 +73711,9 @@
 -
   name:"Thermal Spring"
   hex:"#589489"
+-
+  name:"Thermic Orange"
+  hex:"#eb3318"
 -
   name:"Thermocline"
   hex:"#8fadbd"
@@ -75206,6 +75272,9 @@
   name:"Tropical Dream"
   hex:"#d9eae5"
 -
+  name:"Tropical Elements"
+  hex:"#33ff22"
+-
   name:"Tropical Fog"
   hex:"#cbcab6"
 -
@@ -76706,6 +76775,9 @@
   name:"Vaporwave"
   hex:"#ff66ee"
 -
+  name:"Vaporwave Blue"
+  hex:"#22ddff"
+-
   name:"Vaporwave Pool"
   hex:"#99eebb"
 -
@@ -77906,6 +77978,9 @@
   name:"Vivid Crimson"
   hex:"#cc0033"
 -
+  name:"Vivid Fuchsia"
+  hex:"#b13aad"
+-
   name:"Vivid Green"
   hex:"#2fef10"
 -
@@ -78656,6 +78731,9 @@
   name:"Watermelon Slice"
   hex:"#e77b68"
 -
+  name:"Watermelon Sugar"
+  hex:"#e42b73"
+-
   name:"Watermelonade"
   hex:"#eb4652"
 -
@@ -79175,6 +79253,9 @@
   name:"Whetstone Brown"
   hex:"#9f6f55"
 -
+  name:"Whimsical Blue"
+  hex:"#00ebff"
+-
   name:"Whimsical White"
   hex:"#ece4e2"
 -
@@ -79321,6 +79402,9 @@
 -
   name:"White Alyssum"
   hex:"#efebe7"
+-
+  name:"White as Heaven"
+  hex:"#fefefe"
 -
   name:"White Asparagus"
   hex:"#eceabe"
@@ -79666,6 +79750,9 @@
 -
   name:"Whitened Sage"
   hex:"#dee0d2"
+-
+  name:"Whiteout"
+  hex:"#fbfbfb"
 -
   name:"Whitest White"
   hex:"#f8f9f5"
@@ -80389,6 +80476,9 @@
 -
   name:"Winter Day"
   hex:"#e3e7e9"
+-
+  name:"Winter Doldrums"
+  hex:"#f5f1ea"
 -
   name:"Winter Dusk"
   hex:"#b8b8cb"

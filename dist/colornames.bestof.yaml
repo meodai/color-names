@@ -302,6 +302,9 @@
   name:"Bacon Strips"
   hex:"#df3f32"
 -
+  name:"Badass Grass"
+  hex:"#b4da55"
+-
   name:"Bakery Brown"
   hex:"#ab9078"
 -
@@ -584,6 +587,9 @@
   name:"Blackberry Yogurt"
   hex:"#e5bddf"
 -
+  name:"Blackn't"
+  hex:"#020f03"
+-
   name:"Blackout"
   hex:"#0e0702"
 -
@@ -595,6 +601,9 @@
 -
   name:"Blank Canvas"
   hex:"#ffefd6"
+-
+  name:"Blazing Dragonfruit"
+  hex:"#ff0054"
 -
   name:"Bleeding Heart"
   hex:"#c02e4c"
@@ -886,6 +895,9 @@
 -
   name:"Bullfrog"
   hex:"#8a966a"
+-
+  name:"Bulma Hair"
+  hex:"#359e6b"
 -
   name:"Bumblebee"
   hex:"#ffc82a"
@@ -2165,6 +2177,9 @@
   name:"Dusky Mood"
   hex:"#979ba8"
 -
+  name:"Dust of the Moon"
+  hex:"#cfc9df"
+-
   name:"Dust Storm"
   hex:"#e7d3b7"
 -
@@ -2263,6 +2278,9 @@
 -
   name:"Elephant in the Room"
   hex:"#a8a9a8"
+-
+  name:"Elite Teal"
+  hex:"#133337"
 -
   name:"Embarrassment"
   hex:"#ff7777"
@@ -2398,6 +2416,9 @@
 -
   name:"Exploding Star"
   hex:"#fed83a"
+-
+  name:"Explosive Purple"
+  hex:"#cc11bb"
 -
   name:"Extra Life"
   hex:"#6ab417"
@@ -2933,6 +2954,9 @@
   name:"Galactic Civilization"
   hex:"#442288"
 -
+  name:"Galactic Federation"
+  hex:"#330077"
+-
   name:"Galactic Highway"
   hex:"#3311bb"
 -
@@ -3257,6 +3281,9 @@
   name:"Grapest"
   hex:"#880066"
 -
+  name:"Graphite"
+  hex:"#383428"
+-
   name:"Graphite Black"
   hex:"#262a2b"
 -
@@ -3304,6 +3331,9 @@
 -
   name:"Green Mana"
   hex:"#26b467"
+-
+  name:"Green not Found"
+  hex:"#404404"
 -
   name:"Green Olive"
   hex:"#8d8b55"
@@ -4697,6 +4727,9 @@
   name:"Loud Lime"
   hex:"#88ff22"
 -
+  name:"Loudicious Pink"
+  hex:"#d92fb4"
+-
   name:"Love Affair"
   hex:"#ffbec8"
 -
@@ -4924,6 +4957,9 @@
 -
   name:"Makin it Rain"
   hex:"#88bb55"
+-
+  name:"Malevolent Mauve"
+  hex:"#bb6688"
 -
   name:"Malibu"
   hex:"#66b7e1"
@@ -6983,6 +7019,9 @@
   name:"Raspberry"
   hex:"#b00149"
 -
+  name:"Ravenclaw"
+  hex:"#0a0555"
+-
   name:"Ravioli al Limone"
   hex:"#fade79"
 -
@@ -7226,6 +7265,12 @@
   name:"Sauna Steam"
   hex:"#edebe1"
 -
+  name:"Savannah Grass"
+  hex:"#babc72"
+-
+  name:"Savory Salmon"
+  hex:"#d19c97"
+-
   name:"Savoy Blue"
   hex:"#4b61d1"
 -
@@ -7414,6 +7459,9 @@
 -
   name:"Skyscraper"
   hex:"#d3dbe2"
+-
+  name:"Sleepless Blue"
+  hex:"#badbed"
 -
   name:"Slice of Heaven"
   hex:"#0022ee"
@@ -7646,8 +7694,17 @@
   name:"Strawberry"
   hex:"#fb2943"
 -
+  name:"Strawberry Blonde"
+  hex:"#ffdadc"
+-
   name:"Strawberry Dreams"
   hex:"#ff88aa"
+-
+  name:"Strawberry Field"
+  hex:"#fa8383"
+-
+  name:"Strawberry Milkshake"
+  hex:"#d47186"
 -
   name:"Stroopwafel"
   hex:"#a86f48"
@@ -7895,6 +7952,9 @@
   name:"Tropical Dream"
   hex:"#d9eae5"
 -
+  name:"Tropical Elements"
+  hex:"#33ff22"
+-
   name:"Tropical Fog"
   hex:"#cbcab6"
 -
@@ -7951,6 +8011,9 @@
 -
   name:"Ultimate Gray"
   hex:"#a9a8a9"
+-
+  name:"Ultra Green"
+  hex:"#7eba4d"
 -
   name:"Ultraberry"
   hex:"#770088"
@@ -8207,6 +8270,9 @@
   name:"Vivid Violet"
   hex:"#9f00ff"
 -
+  name:"Void"
+  hex:"#050d25"
+-
   name:"Voila!"
   hex:"#af8ba8"
 -
@@ -8320,6 +8386,9 @@
 -
   name:"Watermelon Milk"
   hex:"#dfcfca"
+-
+  name:"Watermelon Sugar"
+  hex:"#e42b73"
 -
   name:"Watermelonade"
   hex:"#eb4652"

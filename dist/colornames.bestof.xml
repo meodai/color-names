@@ -405,6 +405,10 @@
 <hex>#df3f32</hex>
 </color>
 <color>
+<name>Badass Grass</name>
+<hex>#b4da55</hex>
+</color>
+<color>
 <name>Bakery Brown</name>
 <hex>#ab9078</hex>
 </color>
@@ -781,6 +785,10 @@
 <hex>#e5bddf</hex>
 </color>
 <color>
+<name>Blackn't</name>
+<hex>#020f03</hex>
+</color>
+<color>
 <name>Blackout</name>
 <hex>#0e0702</hex>
 </color>
@@ -795,6 +803,10 @@
 <color>
 <name>Blank Canvas</name>
 <hex>#ffefd6</hex>
+</color>
+<color>
+<name>Blazing Dragonfruit</name>
+<hex>#ff0054</hex>
 </color>
 <color>
 <name>Bleeding Heart</name>
@@ -1183,6 +1195,10 @@
 <color>
 <name>Bullfrog</name>
 <hex>#8a966a</hex>
+</color>
+<color>
+<name>Bulma Hair</name>
+<hex>#359e6b</hex>
 </color>
 <color>
 <name>Bumblebee</name>
@@ -2889,6 +2905,10 @@
 <hex>#979ba8</hex>
 </color>
 <color>
+<name>Dust of the Moon</name>
+<hex>#cfc9df</hex>
+</color>
+<color>
 <name>Dust Storm</name>
 <hex>#e7d3b7</hex>
 </color>
@@ -3019,6 +3039,10 @@
 <color>
 <name>Elephant in the Room</name>
 <hex>#a8a9a8</hex>
+</color>
+<color>
+<name>Elite Teal</name>
+<hex>#133337</hex>
 </color>
 <color>
 <name>Embarrassment</name>
@@ -3199,6 +3223,10 @@
 <color>
 <name>Exploding Star</name>
 <hex>#fed83a</hex>
+</color>
+<color>
+<name>Explosive Purple</name>
+<hex>#cc11bb</hex>
 </color>
 <color>
 <name>Extra Life</name>
@@ -3913,6 +3941,10 @@
 <hex>#442288</hex>
 </color>
 <color>
+<name>Galactic Federation</name>
+<hex>#330077</hex>
+</color>
+<color>
 <name>Galactic Highway</name>
 <hex>#3311bb</hex>
 </color>
@@ -4345,6 +4377,10 @@
 <hex>#880066</hex>
 </color>
 <color>
+<name>Graphite</name>
+<hex>#383428</hex>
+</color>
+<color>
 <name>Graphite Black</name>
 <hex>#262a2b</hex>
 </color>
@@ -4407,6 +4443,10 @@
 <color>
 <name>Green Mana</name>
 <hex>#26b467</hex>
+</color>
+<color>
+<name>Green not Found</name>
+<hex>#404404</hex>
 </color>
 <color>
 <name>Green Olive</name>
@@ -6265,6 +6305,10 @@
 <hex>#88ff22</hex>
 </color>
 <color>
+<name>Loudicious Pink</name>
+<hex>#d92fb4</hex>
+</color>
+<color>
 <name>Love Affair</name>
 <hex>#ffbec8</hex>
 </color>
@@ -6567,6 +6611,10 @@
 <color>
 <name>Makin it Rain</name>
 <hex>#88bb55</hex>
+</color>
+<color>
+<name>Malevolent Mauve</name>
+<hex>#bb6688</hex>
 </color>
 <color>
 <name>Malibu</name>
@@ -9313,6 +9361,10 @@
 <hex>#b00149</hex>
 </color>
 <color>
+<name>Ravenclaw</name>
+<hex>#0a0555</hex>
+</color>
+<color>
 <name>Ravioli al Limone</name>
 <hex>#fade79</hex>
 </color>
@@ -9637,6 +9689,14 @@
 <hex>#edebe1</hex>
 </color>
 <color>
+<name>Savannah Grass</name>
+<hex>#babc72</hex>
+</color>
+<color>
+<name>Savory Salmon</name>
+<hex>#d19c97</hex>
+</color>
+<color>
 <name>Savoy Blue</name>
 <hex>#4b61d1</hex>
 </color>
@@ -9887,6 +9947,10 @@
 <color>
 <name>Skyscraper</name>
 <hex>#d3dbe2</hex>
+</color>
+<color>
+<name>Sleepless Blue</name>
+<hex>#badbed</hex>
 </color>
 <color>
 <name>Slice of Heaven</name>
@@ -10197,8 +10261,20 @@
 <hex>#fb2943</hex>
 </color>
 <color>
+<name>Strawberry Blonde</name>
+<hex>#ffdadc</hex>
+</color>
+<color>
 <name>Strawberry Dreams</name>
 <hex>#ff88aa</hex>
+</color>
+<color>
+<name>Strawberry Field</name>
+<hex>#fa8383</hex>
+</color>
+<color>
+<name>Strawberry Milkshake</name>
+<hex>#d47186</hex>
 </color>
 <color>
 <name>Stroopwafel</name>
@@ -10529,6 +10605,10 @@
 <hex>#d9eae5</hex>
 </color>
 <color>
+<name>Tropical Elements</name>
+<hex>#33ff22</hex>
+</color>
+<color>
 <name>Tropical Fog</name>
 <hex>#cbcab6</hex>
 </color>
@@ -10603,6 +10683,10 @@
 <color>
 <name>Ultimate Gray</name>
 <hex>#a9a8a9</hex>
+</color>
+<color>
+<name>Ultra Green</name>
+<hex>#7eba4d</hex>
 </color>
 <color>
 <name>Ultraberry</name>
@@ -10945,6 +11029,10 @@
 <hex>#9f00ff</hex>
 </color>
 <color>
+<name>Void</name>
+<hex>#050d25</hex>
+</color>
+<color>
 <name>Voila!</name>
 <hex>#af8ba8</hex>
 </color>
@@ -11095,6 +11183,10 @@
 <color>
 <name>Watermelon Milk</name>
 <hex>#dfcfca</hex>
+</color>
+<color>
+<name>Watermelon Sugar</name>
+<hex>#e42b73</hex>
 </color>
 <color>
 <name>Watermelonade</name>
