@@ -2870,6 +2870,9 @@
   name:"Frothy Milk"
   hex:"#faede6"
 -
+  name:"Frozen Boubble"
+  hex:"#00eedd"
+-
   name:"Frozen Civilization"
   hex:"#e1f5e5"
 -
@@ -4426,6 +4429,9 @@
 -
   name:"Langoustine"
   hex:"#dc5226"
+-
+  name:"Lapis on Neptune"
+  hex:"#1f22d2"
 -
   name:"Larb Gai"
   hex:"#dfc6aa"
@@ -6140,8 +6146,14 @@
   name:"Papaya"
   hex:"#fea166"
 -
+  name:"Paper Heart"
+  hex:"#f7dbc7"
+-
   name:"Paper Hearts"
   hex:"#cc4466"
+-
+  name:"Paper Plane"
+  hex:"#f1ece0"
 -
   name:"Paper White"
   hex:"#eef0f3"
@@ -6671,6 +6683,12 @@
   name:"Plum Perfect"
   hex:"#aa1155"
 -
+  name:"Plunge"
+  hex:"#035568"
+-
+  name:"Plunge Pool"
+  hex:"#00ffcc"
+-
   name:"Plushy Pink"
   hex:"#eab7a8"
 -
@@ -6868,6 +6886,9 @@
 -
   name:"Prune"
   hex:"#701c11"
+-
+  name:"Pucker Up"
+  hex:"#ff1177"
 -
   name:"Pulp"
   hex:"#e18289"

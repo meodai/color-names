@@ -956,6 +956,7 @@
 --color-frostbite:#acfffc;
 --color-frosted-blueberries:#0055dd;
 --color-frothy-milk:#faede6;
+--color-frozen-boubble:#00eedd;
 --color-frozen-civilization:#e1f5e5;
 --color-frozen-forest:#cfe8b6;
 --color-frozen-mammoth:#dfd9da;
@@ -1475,6 +1476,7 @@
 --color-lambs-wool:#e6d1b2;
 --color-landjäger:#af403c;
 --color-langoustine:#dc5226;
+--color-lapis-on-neptune:#1f22d2;
 --color-larb-gai:#dfc6aa;
 --color-laser-lemon:#ffff66;
 --color-last-of-lettuce:#aadd66;
@@ -2046,7 +2048,9 @@
 --color-pani-puri:#f4aa53;
 --color-panorama:#327a88;
 --color-papaya:#fea166;
+--color-paper-heart:#f7dbc7;
 --color-paper-hearts:#cc4466;
+--color-paper-plane:#f1ece0;
 --color-paper-white:#eef0f3;
 --color-paperwhite:#f6efdf;
 --color-paprika:#7c2d37;
@@ -2223,6 +2227,8 @@
 --color-plum-highness:#885577;
 --color-plum-kingdom:#aa3377;
 --color-plum-perfect:#aa1155;
+--color-plunge:#035568;
+--color-plunge-pool:#00ffcc;
 --color-plushy-pink:#eab7a8;
 --color-plutonium:#35fa00;
 --color-poached-egg:#f5d893;
@@ -2289,6 +2295,7 @@
 --color-prosciutto:#e0b4a4;
 --color-prosecco:#fad6a5;
 --color-prune:#701c11;
+--color-pucker-up:#ff1177;
 --color-pulp:#e18289;
 --color-puma:#96711c;
 --color-pumpkin:#ff7518;
