@@ -343,6 +343,7 @@
 --color-all-dressed-up:#e6999d;
 --color-all-made-up:#efd7e7;
 --color-all-nighter:#455454;
+--color-all-the-leaves-are-brown:#994411;
 --color-alls-ace:#c68886;
 --color-allegiance:#5a6a8c;
 --color-allegory:#b4b2a9;
@@ -6097,6 +6098,7 @@
 --color-crazy-horse:#a57648;
 --color-crazy-horse-mountain:#e9dbd2;
 --color-cream:#ffffc2;
+--color-cream-and-butter:#feeea5;
 --color-cream-and-sugar:#ddcfb9;
 --color-cream-blush:#f8c19a;
 --color-cream-cake:#e3d0ad;
@@ -7461,6 +7463,7 @@
 --color-driftwood:#a67a45;
 --color-drip:#a6ccd6;
 --color-dripping-ice:#d2dfed;
+--color-dripping-wisteria:#bb99bb;
 --color-drippy-honey:#eebb22;
 --color-drisheen:#a24857;
 --color-drive-in-cherry:#a62e30;
@@ -8618,6 +8621,8 @@
 --color-fenland:#ac9d83;
 --color-fennec-fox:#dad7c8;
 --color-fennel-bulb:#ddeebb;
+--color-fennel-fiasco:#00aa44;
+--color-fennel-fiesta:#00bb77;
 --color-fennel-flower:#77aaff;
 --color-fennel-seed:#998456;
 --color-fennel-stem:#b1b6a3;
@@ -14117,6 +14122,7 @@
 --color-london-square:#7f909d;
 --color-lone-pine:#575a44;
 --color-lone-star:#c09458;
+--color-lonely-chocolate:#4a0a00;
 --color-lonely-road:#947754;
 --color-lonestar:#522426;
 --color-long-beach:#faefdf;
@@ -15052,6 +15058,7 @@
 --color-melmac-silver:#b6b2a1;
 --color-melodic-white:#eee8e8;
 --color-melodious:#7bb5ae;
+--color-melodramatic-magenta:#dd22aa;
 --color-melody:#becbd7;
 --color-melon:#ff7855;
 --color-melon-baby:#f47869;
@@ -15070,6 +15077,7 @@
 --color-melon-tint:#f8e7d4;
 --color-melon-twist:#aa6864;
 --color-melon-water:#fdbcb4;
+--color-melondrama:#ee8170;
 --color-melrose:#c3b9dd;
 --color-melt-ice:#b4cbe3;
 --color-melt-with-you:#e3cfab;
@@ -15124,6 +15132,7 @@
 --color-merlot-fields:#712735;
 --color-mermaid:#817a65;
 --color-mermaid-blues:#004477;
+--color-mermaid-dreams:#0088bb;
 --color-mermaid-harbor:#00776f;
 --color-mermaid-net:#22cccc;
 --color-mermaid-sea:#297f6d;
@@ -15277,6 +15286,7 @@
 --color-midori-green:#3eb370;
 --color-midsummer:#f6d9a9;
 --color-midsummer-dream:#b7a5ad;
+--color-midsummer-field:#88cc44;
 --color-midsummer-gold:#eab034;
 --color-midsummer-nights:#0011ee;
 --color-midsummers-dream:#b4d0d9;
@@ -18559,6 +18569,7 @@
 --color-pink-piano:#f62681;
 --color-pink-pieris:#efc9b8;
 --color-pink-ping:#ee66ee;
+--color-pink-plastic-fantastic:#fc80c3;
 --color-pink-pleasure:#ffdfe5;
 --color-pink-plum:#ead2d2;
 --color-pink-poison:#ff007e;
@@ -20338,7 +20349,7 @@
 --color-rhode-island-red:#9b5b55;
 --color-rhodes:#89c0e6;
 --color-rhododendron:#722b3f;
---color-rhodonite:#be2bdf;
+--color-rhodonite:#f3b3c5;
 --color-rhodonite-brown:#4d4141;
 --color-rhubarb:#77202f;
 --color-rhubarb-gin:#d9a6c1;
@@ -20434,6 +20445,7 @@
 --color-ripe-eggplant:#492d35;
 --color-ripe-fig:#6a5254;
 --color-ripe-green:#747a2c;
+--color-ripe-lavander:#a259ce;
 --color-ripe-lemon:#f4d81c;
 --color-ripe-malinka:#f5576c;
 --color-ripe-mango:#ffc324;
@@ -21811,6 +21823,7 @@
 --color-shaded-hammock:#859c9b;
 --color-shaded-spruce:#00585e;
 --color-shaded-sun:#f3eba5;
+--color-shades-of-rhodonite:#be2bdf;
 --color-shades-on:#605f5f;
 --color-shadow:#837050;
 --color-shadow-azalea-pink:#e96a97;
@@ -23539,6 +23552,7 @@
 --color-strawberry-jam:#86423e;
 --color-strawberry-jubilee:#c08591;
 --color-strawberry-milkshake:#d47186;
+--color-strawberry-mix:#e42d65;
 --color-strawberry-mousse:#a5647e;
 --color-strawberry-pink:#f57f8e;
 --color-strawberry-pop:#ee2255;
@@ -23685,6 +23699,7 @@
 --color-sugared-pears:#ebd5b7;
 --color-sugarloaf-brown:#554400;
 --color-sugarpills:#ffddff;
+--color-sugarwinkle:#fdc5e3;
 --color-sugilite:#a2999f;
 --color-suit-blue:#2b3036;
 --color-suitable-brown:#645a4b;
@@ -23902,6 +23917,7 @@
 --color-sunset-yellow:#fa873d;
 --color-sunshade:#fa9d49;
 --color-sunshine:#fade85;
+--color-sunshine-mellow:#f5c20b;
 --color-sunshine-surprise:#fcb02f;
 --color-sunshine-yellow:#fffd37;
 --color-sunshone-plum:#886688;

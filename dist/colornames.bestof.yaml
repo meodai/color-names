@@ -1664,6 +1664,9 @@
   name:"Cream"
   hex:"#ffffc2"
 -
+  name:"Cream and Butter"
+  hex:"#feeea5"
+-
   name:"Cream and Sugar"
   hex:"#ddcfb9"
 -
@@ -2129,6 +2132,9 @@
   name:"Driftwood"
   hex:"#a67a45"
 -
+  name:"Dripping Wisteria"
+  hex:"#bb99bb"
+-
   name:"Droplet"
   hex:"#aaddff"
 -
@@ -2506,6 +2512,12 @@
 -
   name:"Fennec Fox"
   hex:"#dad7c8"
+-
+  name:"Fennel Fiasco"
+  hex:"#00aa44"
+-
+  name:"Fennel Fiesta"
+  hex:"#00bb77"
 -
   name:"Fennel Flower"
   hex:"#77aaff"
@@ -4697,6 +4709,9 @@
   name:"Lollipop"
   hex:"#cc1c3b"
 -
+  name:"Lonely Chocolate"
+  hex:"#4a0a00"
+-
   name:"Lonestar"
   hex:"#522426"
 -
@@ -5186,8 +5201,14 @@
   name:"Mellow Yellow"
   hex:"#f8de7f"
 -
+  name:"Melodramatic Magenta"
+  hex:"#dd22aa"
+-
   name:"Melon"
   hex:"#ff7855"
+-
+  name:"Melondrama"
+  hex:"#ee8170"
 -
   name:"Melting Glacier"
   hex:"#e9f9f5"
@@ -5221,6 +5242,9 @@
 -
   name:"Mermaid Blues"
   hex:"#004477"
+-
+  name:"Mermaid Dreams"
+  hex:"#0088bb"
 -
   name:"Mermaid Tears"
   hex:"#d9e6a6"
@@ -7751,6 +7775,9 @@
   name:"Sugar Quill"
   hex:"#ebe5d7"
 -
+  name:"Sugarwinkle"
+  hex:"#fdc5e3"
+-
   name:"Sulfur Pit"
   hex:"#e5cc69"
 -
@@ -7801,6 +7828,9 @@
 -
   name:"Sunset Orange"
   hex:"#fd5e53"
+-
+  name:"Sunshine Mellow"
+  hex:"#f5c20b"
 -
   name:"Sunshone Plum"
   hex:"#886688"
