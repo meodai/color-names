@@ -827,6 +827,7 @@
 --color-apatite-blue:#31827b;
 --color-apatite-crystal-green:#bbff99;
 --color-apeland:#8a843b;
+--color-aphrodite-aqua:#45e9c1;
 --color-aphrodites-pearls:#eeffff;
 --color-aphroditean-fuschia:#dd14ab;
 --color-apium:#b5d0a2;
@@ -2495,6 +2496,7 @@
 --color-blanched-almond:#ffebcd;
 --color-blanched-driftwood:#ccbeb6;
 --color-bland:#afa88b;
+--color-bland-celery:#74915f;
 --color-blank-canvas:#ffefd6;
 --color-blanka-green:#9cd33c;
 --color-blanket-brown:#9e8574;
@@ -2515,6 +2517,7 @@
 --color-bleached-aqua:#bce3df;
 --color-bleached-bare:#d0c7c3;
 --color-bleached-bark:#8b7f78;
+--color-bleached-beige:#dfddd0;
 --color-bleached-bone:#efd9a8;
 --color-bleached-cedar:#2c2133;
 --color-bleached-coral:#ffd6d1;
@@ -2524,10 +2527,12 @@
 --color-bleached-linen:#f3ece1;
 --color-bleached-maple:#c7a06c;
 --color-bleached-meadow:#eae5d5;
+--color-bleached-olive:#55bb88;
 --color-bleached-sand:#daccb4;
 --color-bleached-shell:#f6e5da;
 --color-bleached-silk:#f3f3f2;
 --color-bleached-spruce:#bad7ae;
+--color-bleached-sunflower:#fbe8a8;
 --color-bleached-wheat:#ddd2a9;
 --color-bleached-white:#dfe3e8;
 --color-bleaches:#c7c7c3;
@@ -3920,6 +3925,7 @@
 --color-cake-dough:#fce0a8;
 --color-cake-frosting:#f9dfe5;
 --color-cake-spice:#d6a672;
+--color-cakepop-sorbet:#f8c649;
 --color-cal-poly-pomona-green:#1e4d2b;
 --color-cala-benirrás-blue:#0ac2c2;
 --color-calabash:#f8eb97;
@@ -9435,12 +9441,15 @@
 --color-frosted-garden:#e2f7d9;
 --color-frosted-glass:#eaf0f0;
 --color-frosted-grape:#d4c4d2;
+--color-frosted-hills:#aaeeaa;
 --color-frosted-iris:#b1b9d9;
 --color-frosted-jade:#c2d1c4;
 --color-frosted-juniper:#f0f4eb;
 --color-frosted-lemon:#ffedc7;
 --color-frosted-lilac:#d3d1dc;
 --color-frosted-mint:#e2f2e4;
+--color-frosted-mint-hills:#ccffc2;
+--color-frosted-plains:#e0ffdf;
 --color-frosted-pomegranate:#ad3d46;
 --color-frosted-sage:#c6d1c4;
 --color-frosted-silver:#c5c9c5;
@@ -9492,6 +9501,7 @@
 --color-frozen-tomato:#dd5533;
 --color-frozen-tundra:#a3bfcb;
 --color-frozen-turquoise:#53f6ff;
+--color-frozen-veins:#ecb3be;
 --color-frozen-wave:#56acca;
 --color-frugal:#a5d7b2;
 --color-fruit-bowl:#fdc9d0;
@@ -11947,6 +11957,7 @@
 --color-icelandic-winds:#d7deeb;
 --color-icelandic-winter:#d9e7e3;
 --color-icepick:#dadcd0;
+--color-icery:#a5fcdc;
 --color-icewind-dale:#e8ecee;
 --color-icicle:#dde7df;
 --color-icicle-mint:#cfe8e6;
@@ -11963,6 +11974,7 @@
 --color-icy-life:#55ffee;
 --color-icy-lilac:#e6e9f9;
 --color-icy-morn:#b0d3d1;
+--color-icy-plains:#cfdafb;
 --color-icy-teal:#d6dfe8;
 --color-icy-tundra:#f7f5ec;
 --color-icy-water:#bce2e8;
@@ -19757,6 +19769,7 @@
 --color-radioactive-lilypad:#66dd00;
 --color-radish:#a42e41;
 --color-radish-lips:#ee3355;
+--color-radishical:#ec4872;
 --color-radisson:#e5e7e6;
 --color-radium:#7fff00;
 --color-radler:#ffd15c;

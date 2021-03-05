@@ -2483,6 +2483,9 @@
   name:"Apeland"
   hex:"#8a843b"
 -
+  name:"Aphrodite Aqua"
+  hex:"#45e9c1"
+-
   name:"Aphrodite's Pearls"
   hex:"#eeffff"
 -
@@ -7487,6 +7490,9 @@
   name:"Bland"
   hex:"#afa88b"
 -
+  name:"Bland Celery"
+  hex:"#74915f"
+-
   name:"Blank Canvas"
   hex:"#ffefd6"
 -
@@ -7547,6 +7553,9 @@
   name:"Bleached Bark"
   hex:"#8b7f78"
 -
+  name:"Bleached Beige"
+  hex:"#dfddd0"
+-
   name:"Bleached Bone"
   hex:"#efd9a8"
 -
@@ -7574,6 +7583,9 @@
   name:"Bleached Meadow"
   hex:"#eae5d5"
 -
+  name:"Bleached Olive"
+  hex:"#55bb88"
+-
   name:"Bleached Sand"
   hex:"#daccb4"
 -
@@ -7585,6 +7597,9 @@
 -
   name:"Bleached Spruce"
   hex:"#bad7ae"
+-
+  name:"Bleached Sunflower"
+  hex:"#fbe8a8"
 -
   name:"Bleached Wheat"
   hex:"#ddd2a9"
@@ -11761,6 +11776,9 @@
 -
   name:"Cake Spice"
   hex:"#d6a672"
+-
+  name:"Cakepop Sorbet"
+  hex:"#f8c649"
 -
   name:"Cal Poly Pomona Green"
   hex:"#1e4d2b"
@@ -28307,6 +28325,9 @@
   name:"Frosted Grape"
   hex:"#d4c4d2"
 -
+  name:"Frosted Hills"
+  hex:"#aaeeaa"
+-
   name:"Frosted Iris"
   hex:"#b1b9d9"
 -
@@ -28324,6 +28345,12 @@
 -
   name:"Frosted Mint"
   hex:"#e2f2e4"
+-
+  name:"Frosted Mint Hills"
+  hex:"#ccffc2"
+-
+  name:"Frosted Plains"
+  hex:"#e0ffdf"
 -
   name:"Frosted Pomegranate"
   hex:"#ad3d46"
@@ -28477,6 +28504,9 @@
 -
   name:"Frozen Turquoise"
   hex:"#53f6ff"
+-
+  name:"Frozen Veins"
+  hex:"#ecb3be"
 -
   name:"Frozen Wave"
   hex:"#56acca"
@@ -35843,6 +35873,9 @@
   name:"Icepick"
   hex:"#dadcd0"
 -
+  name:"Icery"
+  hex:"#a5fcdc"
+-
   name:"Icewind Dale"
   hex:"#e8ecee"
 -
@@ -35890,6 +35923,9 @@
 -
   name:"Icy Morn"
   hex:"#b0d3d1"
+-
+  name:"Icy Plains"
+  hex:"#cfdafb"
 -
   name:"Icy Teal"
   hex:"#d6dfe8"
@@ -59272,6 +59308,9 @@
 -
   name:"Radish Lips"
   hex:"#ee3355"
+-
+  name:"Radishical"
+  hex:"#ec4872"
 -
   name:"Radisson"
   hex:"#e5e7e6"
