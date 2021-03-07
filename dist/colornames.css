@@ -2461,7 +2461,7 @@
 --color-blackberry-wine:#4d3246;
 --color-blackberry-yogurt:#e5bddf;
 --color-blackbird:#3f444c;
---color-blackbirds-ggg:#fce7e4;
+--color-blackbirds-egg:#fce7e4;
 --color-blackboard-green:#274c43;
 --color-blackcurrant:#2e183b;
 --color-blackcurrant-conserve:#52383d;
@@ -6946,7 +6946,7 @@
 --color-delicate-viola:#d7d6dc;
 --color-delicate-violet:#8c8da8;
 --color-delicate-white:#f1f2ee;
---color-délicieux:#412010;
+--color-délicieux-au-chocolat:#412010;
 --color-delicioso:#3f352f;
 --color-delicious:#585e46;
 --color-delicious-berry:#654254;
@@ -11440,7 +11440,6 @@
 --color-high-salute:#445056;
 --color-high-sierra:#cedee2;
 --color-high-society:#cab7c0;
---color-high-speed-access:#bdbebf;
 --color-high-strung:#ac9825;
 --color-high-style:#a8b1d7;
 --color-high-style-beige:#e4d7c3;
@@ -20817,6 +20816,7 @@
 --color-rouge-like:#a94064;
 --color-rouge-red:#e24666;
 --color-rouge-sarde:#ee2233;
+--color-rough-asphalt:#bdbebf;
 --color-rough-ride:#7a8687;
 --color-rough-stone:#9ea2aa;
 --color-roulette:#97635f;

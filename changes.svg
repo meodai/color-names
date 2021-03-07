@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 990">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 290">
   <defs>
     <style type="text/css">
       @import url('https://rsms.me/inter/inter.css');
@@ -9,6 +9,6 @@
       }
     </style>
   </defs>
-  <rect fill="#212121" x="0" y="0" width="600" height="990"/>
-  <text x="40" y="90" fill="#45e9c1">Aphrodite Aqua</text><text x="40" y="160" fill="#74915f">Bland Celery</text><text x="40" y="230" fill="#dfddd0">Bleached Beige</text><text x="40" y="300" fill="#55bb88">Bleached Olive</text><text x="40" y="370" fill="#fbe8a8">Bleached Sunflower</text><text x="40" y="440" fill="#f8c649">Cakepop Sorbet</text><text x="40" y="510" fill="#aaeeaa">Frosted Hills</text><text x="40" y="580" fill="#ccffc2">Frosted Mint Hills</text><text x="40" y="650" fill="#e0ffdf">Frosted Plains</text><text x="40" y="720" fill="#ecb3be">Frozen Veins</text><text x="40" y="790" fill="#a5fcdc">Icery</text><text x="40" y="860" fill="#cfdafb">Icy Plains</text><text x="40" y="930" fill="#ec4872">Radishical</text>
+  <rect fill="#212121" x="0" y="0" width="600" height="290"/>
+  <text x="40" y="90" fill="#fce7e4">Blackbird's Egg</text><text x="40" y="160" fill="#412010">Délicieux au Chocolat</text><text x="40" y="230" fill="#bdbebf">Rough Asphalt</text>
 </svg>
