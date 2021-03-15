@@ -704,6 +704,9 @@
   name:"Blue Screen of Death"
   hex:"#0033bb"
 -
+  name:"Blue Silk"
+  hex:"#d0dce8"
+-
   name:"Blue Velvet"
   hex:"#0d6183"
 -
@@ -1045,6 +1048,9 @@
 -
   name:"Canadian Maple"
   hex:"#cab266"
+-
+  name:"Canadian Tuxedo"
+  hex:"#579aca"
 -
   name:"Canary"
   hex:"#fdff63"
@@ -1487,6 +1493,9 @@
   name:"Coconut"
   hex:"#965a3e"
 -
+  name:"Coconut Agony"
+  hex:"#ebe8e7"
+-
   name:"Coconut Macaroon"
   hex:"#dacac0"
 -
@@ -1513,6 +1522,9 @@
 -
   name:"Cola"
   hex:"#3c2f23"
+-
+  name:"Cold and Dark"
+  hex:"#154250"
 -
   name:"Cold Blue"
   hex:"#88dddd"
@@ -1630,6 +1642,9 @@
 -
   name:"Cosmic Explorer"
   hex:"#551155"
+-
+  name:"Cosmic Latte"
+  hex:"#fff8e7"
 -
   name:"Cotton Ball"
   hex:"#f2f7fd"
@@ -1987,6 +2002,9 @@
 -
   name:"Desert"
   hex:"#ccad60"
+-
+  name:"Desert Dessert"
+  hex:"#ffba6b"
 -
   name:"Desert Dune"
   hex:"#b5ab9c"
@@ -2911,6 +2929,9 @@
 -
   name:"Frozen Forest"
   hex:"#cfe8b6"
+-
+  name:"Frozen Landscape"
+  hex:"#aee4ff"
 -
   name:"Frozen Mammoth"
   hex:"#dfd9da"
@@ -3959,6 +3980,15 @@
   name:"Ice Cold"
   hex:"#d2eaf1"
 -
+  name:"Ice Cube"
+  hex:"#afe3d6"
+-
+  name:"Ice Dagger"
+  hex:"#cee5df"
+-
+  name:"Ice Desert"
+  hex:"#d1dce8"
+-
   name:"Ice Ice Baby"
   hex:"#00ffdd"
 -
@@ -4030,6 +4060,9 @@
 -
   name:"Incision"
   hex:"#ff0022"
+-
+  name:"Incubation Red"
+  hex:"#da1d38"
 -
   name:"Indian Mesa"
   hex:"#d5a193"
@@ -5687,6 +5720,9 @@
   name:"Narwhal Grey"
   hex:"#080813"
 -
+  name:"Nattō"
+  hex:"#c79843"
+-
   name:"Natural Light"
   hex:"#f1ebc8"
 -
@@ -6520,6 +6556,9 @@
 -
   name:"Pickled Radish"
   hex:"#ee1144"
+-
+  name:"Pie Crust"
+  hex:"#f1d99f"
 -
   name:"Piercing Pink"
   hex:"#dd00ee"
@@ -7412,6 +7451,9 @@
   name:"Sesame Seed"
   hex:"#e1d9b8"
 -
+  name:"Shadow Purple"
+  hex:"#4e334e"
+-
   name:"Shadows"
   hex:"#6b6d6a"
 -
@@ -7619,6 +7661,9 @@
   name:"So Sour"
   hex:"#00ff11"
 -
+  name:"Soba"
+  hex:"#d1b49f"
+-
   name:"Socialist"
   hex:"#921a1c"
 -
@@ -7751,6 +7796,9 @@
   name:"Stop"
   hex:"#c33a36"
 -
+  name:"Storm Is Coming"
+  hex:"#3d3d63"
+-
   name:"Stormy"
   hex:"#b0bcc3"
 -
@@ -7762,6 +7810,9 @@
 -
   name:"Stormy Oceans"
   hex:"#70818e"
+-
+  name:"Stormy Passion"
+  hex:"#c36666"
 -
   name:"Straw Gold"
   hex:"#fcf679"
@@ -7970,8 +8021,17 @@
   name:"Think Pink"
   hex:"#e5a5c1"
 -
+  name:"Thor's Thunder"
+  hex:"#44ccff"
+-
   name:"Thunder & Lightning"
   hex:"#f9f5db"
+-
+  name:"Thunderbolt"
+  hex:"#fdefad"
+-
+  name:"Thundercloud"
+  hex:"#698589"
 -
   name:"Tiger"
   hex:"#be9c67"
@@ -7996,6 +8056,9 @@
 -
   name:"Tomato Bisque"
   hex:"#d15915"
+-
+  name:"Tonkatsu"
+  hex:"#edac36"
 -
   name:"Too Dark Tonight"
   hex:"#0011bb"
@@ -8026,6 +8089,15 @@
 -
   name:"Trapped Darkness"
   hex:"#0e1d32"
+-
+  name:"Treasure Map"
+  hex:"#d0bb9d"
+-
+  name:"Treasure Map Waters"
+  hex:"#658faa"
+-
+  name:"Treasures"
+  hex:"#ba8b36"
 -
   name:"Treetop"
   hex:"#91b6ac"
@@ -8753,6 +8825,9 @@
   name:"Wu-Tang Gold"
   hex:"#f8d106"
 -
+  name:"X Marks the Spot"
+  hex:"#e6474a"
+-
   name:"Xmas Candy"
   hex:"#990020"
 -
@@ -8761,6 +8836,9 @@
 -
   name:"Yacht Club"
   hex:"#566062"
+-
+  name:"Yakitori"
+  hex:"#ecab3f"
 -
   name:"Yang Mist"
   hex:"#ede8dd"
@@ -8821,6 +8899,12 @@
 -
   name:"Yuma Gold"
   hex:"#ffd678"
+-
+  name:"Yuzu Marmalade"
+  hex:"#ffd766"
+-
+  name:"Yuzukoshō"
+  hex:"#d4de49"
 -
   name:"Zen"
   hex:"#cfd9de"

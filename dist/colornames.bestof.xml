@@ -941,6 +941,10 @@
 <hex>#0033bb</hex>
 </color>
 <color>
+<name>Blue Silk</name>
+<hex>#d0dce8</hex>
+</color>
+<color>
 <name>Blue Velvet</name>
 <hex>#0d6183</hex>
 </color>
@@ -1395,6 +1399,10 @@
 <color>
 <name>Canadian Maple</name>
 <hex>#cab266</hex>
+</color>
+<color>
+<name>Canadian Tuxedo</name>
+<hex>#579aca</hex>
 </color>
 <color>
 <name>Canary</name>
@@ -1985,6 +1993,10 @@
 <hex>#965a3e</hex>
 </color>
 <color>
+<name>Coconut Agony</name>
+<hex>#ebe8e7</hex>
+</color>
+<color>
 <name>Coconut Macaroon</name>
 <hex>#dacac0</hex>
 </color>
@@ -2019,6 +2031,10 @@
 <color>
 <name>Cola</name>
 <hex>#3c2f23</hex>
+</color>
+<color>
+<name>Cold and Dark</name>
+<hex>#154250</hex>
 </color>
 <color>
 <name>Cold Blue</name>
@@ -2175,6 +2191,10 @@
 <color>
 <name>Cosmic Explorer</name>
 <hex>#551155</hex>
+</color>
+<color>
+<name>Cosmic Latte</name>
+<hex>#fff8e7</hex>
 </color>
 <color>
 <name>Cotton Ball</name>
@@ -2651,6 +2671,10 @@
 <color>
 <name>Desert</name>
 <hex>#ccad60</hex>
+</color>
+<color>
+<name>Desert Dessert</name>
+<hex>#ffba6b</hex>
 </color>
 <color>
 <name>Desert Dune</name>
@@ -3883,6 +3907,10 @@
 <color>
 <name>Frozen Forest</name>
 <hex>#cfe8b6</hex>
+</color>
+<color>
+<name>Frozen Landscape</name>
+<hex>#aee4ff</hex>
 </color>
 <color>
 <name>Frozen Mammoth</name>
@@ -5281,6 +5309,18 @@
 <hex>#d2eaf1</hex>
 </color>
 <color>
+<name>Ice Cube</name>
+<hex>#afe3d6</hex>
+</color>
+<color>
+<name>Ice Dagger</name>
+<hex>#cee5df</hex>
+</color>
+<color>
+<name>Ice Desert</name>
+<hex>#d1dce8</hex>
+</color>
+<color>
 <name>Ice Ice Baby</name>
 <hex>#00ffdd</hex>
 </color>
@@ -5375,6 +5415,10 @@
 <color>
 <name>Incision</name>
 <hex>#ff0022</hex>
+</color>
+<color>
+<name>Incubation Red</name>
+<hex>#da1d38</hex>
 </color>
 <color>
 <name>Indian Mesa</name>
@@ -7585,6 +7629,10 @@
 <hex>#080813</hex>
 </color>
 <color>
+<name>Nattō</name>
+<hex>#c79843</hex>
+</color>
+<color>
 <name>Natural Light</name>
 <hex>#f1ebc8</hex>
 </color>
@@ -8695,6 +8743,10 @@
 <color>
 <name>Pickled Radish</name>
 <hex>#ee1144</hex>
+</color>
+<color>
+<name>Pie Crust</name>
+<hex>#f1d99f</hex>
 </color>
 <color>
 <name>Piercing Pink</name>
@@ -9885,6 +9937,10 @@
 <hex>#e1d9b8</hex>
 </color>
 <color>
+<name>Shadow Purple</name>
+<hex>#4e334e</hex>
+</color>
+<color>
 <name>Shadows</name>
 <hex>#6b6d6a</hex>
 </color>
@@ -10161,6 +10217,10 @@
 <hex>#00ff11</hex>
 </color>
 <color>
+<name>Soba</name>
+<hex>#d1b49f</hex>
+</color>
+<color>
 <name>Socialist</name>
 <hex>#921a1c</hex>
 </color>
@@ -10337,6 +10397,10 @@
 <hex>#c33a36</hex>
 </color>
 <color>
+<name>Storm Is Coming</name>
+<hex>#3d3d63</hex>
+</color>
+<color>
 <name>Stormy</name>
 <hex>#b0bcc3</hex>
 </color>
@@ -10351,6 +10415,10 @@
 <color>
 <name>Stormy Oceans</name>
 <hex>#70818e</hex>
+</color>
+<color>
+<name>Stormy Passion</name>
+<hex>#c36666</hex>
 </color>
 <color>
 <name>Straw Gold</name>
@@ -10629,8 +10697,20 @@
 <hex>#e5a5c1</hex>
 </color>
 <color>
+<name>Thor's Thunder</name>
+<hex>#44ccff</hex>
+</color>
+<color>
 <name>Thunder &amp; Lightning</name>
 <hex>#f9f5db</hex>
+</color>
+<color>
+<name>Thunderbolt</name>
+<hex>#fdefad</hex>
+</color>
+<color>
+<name>Thundercloud</name>
+<hex>#698589</hex>
 </color>
 <color>
 <name>Tiger</name>
@@ -10663,6 +10743,10 @@
 <color>
 <name>Tomato Bisque</name>
 <hex>#d15915</hex>
+</color>
+<color>
+<name>Tonkatsu</name>
+<hex>#edac36</hex>
 </color>
 <color>
 <name>Too Dark Tonight</name>
@@ -10703,6 +10787,18 @@
 <color>
 <name>Trapped Darkness</name>
 <hex>#0e1d32</hex>
+</color>
+<color>
+<name>Treasure Map</name>
+<hex>#d0bb9d</hex>
+</color>
+<color>
+<name>Treasure Map Waters</name>
+<hex>#658faa</hex>
+</color>
+<color>
+<name>Treasures</name>
+<hex>#ba8b36</hex>
 </color>
 <color>
 <name>Treetop</name>
@@ -11673,6 +11769,10 @@
 <hex>#f8d106</hex>
 </color>
 <color>
+<name>X Marks the Spot</name>
+<hex>#e6474a</hex>
+</color>
+<color>
 <name>Xmas Candy</name>
 <hex>#990020</hex>
 </color>
@@ -11683,6 +11783,10 @@
 <color>
 <name>Yacht Club</name>
 <hex>#566062</hex>
+</color>
+<color>
+<name>Yakitori</name>
+<hex>#ecab3f</hex>
 </color>
 <color>
 <name>Yang Mist</name>
@@ -11763,6 +11867,14 @@
 <color>
 <name>Yuma Gold</name>
 <hex>#ffd678</hex>
+</color>
+<color>
+<name>Yuzu Marmalade</name>
+<hex>#ffd766</hex>
+</color>
+<color>
+<name>Yuzukoshō</name>
+<hex>#d4de49</hex>
 </color>
 <color>
 <name>Zen</name>

@@ -12155,6 +12155,9 @@
   name:"Canadian Pine"
   hex:"#2e7b52"
 -
+  name:"Canadian Tuxedo"
+  hex:"#579aca"
+-
   name:"Canadian Voodoo Grey"
   hex:"#b8b7a3"
 -
@@ -16478,6 +16481,9 @@
   name:"Coconut"
   hex:"#965a3e"
 -
+  name:"Coconut Agony"
+  hex:"#ebe8e7"
+-
   name:"Coconut Aroma"
   hex:"#eeeedd"
 -
@@ -16618,6 +16624,9 @@
 -
   name:"Cold Air Turquoise"
   hex:"#c1dcdb"
+-
+  name:"Cold and Dark"
+  hex:"#154250"
 -
   name:"Cold Blooded"
   hex:"#bbeeee"
@@ -18808,6 +18817,9 @@
 -
   name:"Crumbling Statue"
   hex:"#cabfb4"
+-
+  name:"Crumbly Lipstick"
+  hex:"#ee66bb"
 -
   name:"Crunch"
   hex:"#f2b95f"
@@ -21043,6 +21055,9 @@
 -
   name:"Desert Dawn"
   hex:"#eddbe8"
+-
+  name:"Desert Dessert"
+  hex:"#ffba6b"
 -
   name:"Desert Dune"
   hex:"#b5ab9c"
@@ -28466,6 +28481,9 @@
   name:"Frozen Lake"
   hex:"#7b9cb3"
 -
+  name:"Frozen Landscape"
+  hex:"#aee4ff"
+-
   name:"Frozen Mammoth"
   hex:"#dfd9da"
 -
@@ -33758,6 +33776,9 @@
   name:"Heating Lamp"
   hex:"#ee4422"
 -
+  name:"Heatstroke"
+  hex:"#ff7788"
+-
   name:"Heaven Sent"
   hex:"#eee1eb"
 -
@@ -35696,6 +35717,9 @@
   name:"Ice Dark Turquoise"
   hex:"#005456"
 -
+  name:"Ice Desert"
+  hex:"#d1dce8"
+-
   name:"Ice Dream"
   hex:"#eaebe1"
 -
@@ -35905,6 +35929,9 @@
 -
   name:"Icy Brook"
   hex:"#c1cad9"
+-
+  name:"Icy Landscape"
+  hex:"#c5e6f7"
 -
   name:"Icy Lavender"
   hex:"#e2e2ed"
@@ -36217,6 +36244,9 @@
 -
   name:"Incremental Blue"
   hex:"#123456"
+-
+  name:"Incubation Red"
+  hex:"#da1d38"
 -
   name:"Incubi Darkness"
   hex:"#0b474a"
@@ -48770,6 +48800,9 @@
   name:"Natrolite"
   hex:"#ebbc71"
 -
+  name:"Nattō"
+  hex:"#c79843"
+-
   name:"Natural"
   hex:"#aa907d"
 -
@@ -48841,6 +48874,9 @@
 -
   name:"Natural Twine"
   hex:"#dbc39b"
+-
+  name:"Natural Watercourse"
+  hex:"#006e4e"
 -
   name:"Natural Whisper"
   hex:"#f0e8cf"
@@ -55096,6 +55132,9 @@
 -
   name:"Picture Perfect"
   hex:"#fbf2d1"
+-
+  name:"Pie Crust"
+  hex:"#f1d99f"
 -
   name:"Pie Safe"
   hex:"#877a64"
@@ -64400,6 +64439,9 @@
   name:"Scenic Path"
   hex:"#cec5b4"
 -
+  name:"Scenic Water"
+  hex:"#88bbff"
+-
   name:"Scented Clove"
   hex:"#61524c"
 -
@@ -68006,6 +68048,9 @@
   name:"Soaring Sky"
   hex:"#b9e5e8"
 -
+  name:"Soba"
+  hex:"#d1b49f"
+-
   name:"Soccer Turf"
   hex:"#22bb00"
 -
@@ -70517,6 +70562,9 @@
   name:"Storm Grey"
   hex:"#717486"
 -
+  name:"Storm Is Coming"
+  hex:"#3d3d63"
+-
   name:"Storm Lightning"
   hex:"#f9e69c"
 -
@@ -70564,6 +70612,9 @@
 -
   name:"Stormy Oceans"
   hex:"#70818e"
+-
+  name:"Stormy Passion"
+  hex:"#c36666"
 -
   name:"Stormy Pink"
   hex:"#e3b5ad"
@@ -70753,6 +70804,9 @@
 -
   name:"Stretch Limo"
   hex:"#2b2c30"
+-
+  name:"Stretch of Water"
+  hex:"#9dbbd0"
 -
   name:"Streusel Cake"
   hex:"#d7aa60"
@@ -73893,7 +73947,7 @@
   hex:"#8ab3bf"
 -
   name:"Thor's Thunder"
-  hex:"#915a7f"
+  hex:"#44ccff"
 -
   name:"Thorn Crown"
   hex:"#b5a197"
@@ -73977,7 +74031,7 @@
   hex:"#923830"
 -
   name:"Thunderbolt"
-  hex:"#7c8783"
+  hex:"#fdefad"
 -
   name:"Thunderbolt Blue"
   hex:"#454c56"
@@ -74657,6 +74711,9 @@
   name:"Tonicha"
   hex:"#975437"
 -
+  name:"Tonkatsu"
+  hex:"#edac36"
+-
   name:"Tony Taupe"
   hex:"#b1a290"
 -
@@ -75153,6 +75210,9 @@
   hex:"#609d91"
 -
   name:"Treasure Map"
+  hex:"#d0bb9d"
+-
+  name:"Treasure Map Waters"
   hex:"#658faa"
 -
   name:"Treasure Seeker"
@@ -75385,6 +75445,9 @@
 -
   name:"Tropical Cascade"
   hex:"#8ca8a0"
+-
+  name:"Tropical Cyclone"
+  hex:"#b9cabd"
 -
   name:"Tropical Dream"
   hex:"#d9eae5"
@@ -78798,7 +78861,7 @@
   hex:"#dbe5db"
 -
   name:"Watercourse"
-  hex:"#006e4e"
+  hex:"#5ccbd6"
 -
   name:"Watercress"
   hex:"#6e9377"
@@ -81326,6 +81389,9 @@
   name:"Wyvern Green"
   hex:"#86a96f"
 -
+  name:"X Marks the Spot"
+  hex:"#e6474a"
+-
   name:"Xâkestari White"
   hex:"#fef2dc"
 -
@@ -81391,6 +81457,9 @@
 -
   name:"Yahoo"
   hex:"#fabba9"
+-
+  name:"Yakitori"
+  hex:"#ecab3f"
 -
   name:"Yale Blue"
   hex:"#0f4d92"
@@ -81923,8 +81992,14 @@
   name:"Yuzu Jam"
   hex:"#fdd200"
 -
+  name:"Yuzu Marmalade"
+  hex:"#ffd766"
+-
   name:"Yuzu Soy"
   hex:"#112200"
+-
+  name:"Yuzukoshō"
+  hex:"#d4de49"
 -
   name:"Yves Klein Blue"
   hex:"#00008b"
