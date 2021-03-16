@@ -8773,6 +8773,10 @@
 <hex>#688049</hex>
 </color>
 <color>
+<name>Beyond the Stars</name>
+<hex>#0a3251</hex>
+</color>
+<color>
 <name>Beyond the Wall</name>
 <hex>#d7e0eb</hex>
 </color>
@@ -38109,6 +38113,10 @@
 <hex>#e47cb8</hex>
 </color>
 <color>
+<name>Fuchsia Felicity</name>
+<hex>#f44772</hex>
+</color>
+<color>
 <name>Fuchsia Fever</name>
 <hex>#ff5599</hex>
 </color>
@@ -42739,6 +42747,10 @@
 <color>
 <name>Green Screen</name>
 <hex>#22ff00</hex>
+</color>
+<color>
+<name>Green Serum</name>
+<hex>#99dd22</hex>
 </color>
 <color>
 <name>Green Shade Wash</name>
@@ -62693,6 +62705,10 @@
 <hex>#ffd4bb</hex>
 </color>
 <color>
+<name>Mom's Pancake</name>
+<hex>#f5c553</hex>
+</color>
+<color>
 <name>Momentum</name>
 <hex>#746f5c</hex>
 </color>
@@ -74350,7 +74366,7 @@
 </color>
 <color>
 <name>Pink Pepper</name>
-<hex>#c62d42</hex>
+<hex>#ef586c</hex>
 </color>
 <color>
 <name>Pink Perfume</name>
@@ -75643,6 +75659,10 @@
 <color>
 <name>Poisonous Pesticide</name>
 <hex>#32cd32</hex>
+</color>
+<color>
+<name>Poisonous Potion</name>
+<hex>#99dd33</hex>
 </color>
 <color>
 <name>Poisonous Purple</name>
@@ -80427,6 +80447,10 @@
 <color>
 <name>Red Pepper</name>
 <hex>#7a3f38</hex>
+</color>
+<color>
+<name>Red Peppercorn</name>
+<hex>#c62d42</hex>
 </color>
 <color>
 <name>Red Perfume</name>
@@ -88825,8 +88849,20 @@
 <hex>#cc9999</hex>
 </color>
 <color>
+<name>Silken Gold</name>
+<hex>#fce17c</hex>
+</color>
+<color>
+<name>Silken Jade</name>
+<hex>#11a39e</hex>
+</color>
+<color>
 <name>Silken Peacock</name>
 <hex>#427584</hex>
+</color>
+<color>
+<name>Silken Pebble</name>
+<hex>#d0d0c9</hex>
 </color>
 <color>
 <name>Silken Pine</name>
@@ -88835,6 +88871,10 @@
 <color>
 <name>Silken Raspberry</name>
 <hex>#aa7d89</hex>
+</color>
+<color>
+<name>Silken Ruby</name>
+<hex>#e81320</hex>
 </color>
 <color>
 <name>Silken Tofu</name>
@@ -95863,6 +95903,10 @@
 <color>
 <name>Super Pink</name>
 <hex>#ce6ba4</hex>
+</color>
+<color>
+<name>Super Rare Jade</name>
+<hex>#14bab4</hex>
 </color>
 <color>
 <name>Super Rose Red</name>

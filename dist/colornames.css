@@ -2192,6 +2192,7 @@
 --color-bewitching-blue:#bbd0e3;
 --color-beyond-the-clouds:#aaeeff;
 --color-beyond-the-pines:#688049;
+--color-beyond-the-stars:#0a3251;
 --color-beyond-the-wall:#d7e0eb;
 --color-bff:#dbb0d3;
 --color-bhūrā-brown:#947706;
@@ -9526,6 +9527,7 @@
 --color-fuchsia-berries:#333322;
 --color-fuchsia-blue:#7a58c1;
 --color-fuchsia-blush:#e47cb8;
+--color-fuchsia-felicity:#f44772;
 --color-fuchsia-fever:#ff5599;
 --color-fuchsia-flair:#bb22bb;
 --color-fuchsia-flash:#dd55cc;
@@ -10684,6 +10686,7 @@
 --color-green-savage:#888866;
 --color-green-scene:#858365;
 --color-green-screen:#22ff00;
+--color-green-serum:#99dd22;
 --color-green-shade-wash:#45523a;
 --color-green-sheen:#d9ce52;
 --color-green-shimmer:#ccfd7f;
@@ -15672,6 +15675,7 @@
 --color-molten-lead:#686a69;
 --color-moms-apple-pie:#eab781;
 --color-moms-love:#ffd4bb;
+--color-moms-pancake:#f5c553;
 --color-momentum:#746f5c;
 --color-momo-peach:#f47983;
 --color-momoshio-brown:#542d24;
@@ -18586,7 +18590,7 @@
 --color-pink-peacock:#c62168;
 --color-pink-pearl:#e7accf;
 --color-pink-peony:#e1bed9;
---color-pink-pepper:#c62d42;
+--color-pink-pepper:#ef586c;
 --color-pink-perfume:#ffdbe5;
 --color-pink-persimmon:#ffad97;
 --color-pink-petal:#f6e6e2;
@@ -18910,6 +18914,7 @@
 --color-poisonous-dart:#77ff66;
 --color-poisonous-ice-cream:#d7d927;
 --color-poisonous-pesticide:#32cd32;
+--color-poisonous-potion:#99dd33;
 --color-poisonous-purple:#2a0134;
 --color-poker-green:#35654d;
 --color-polar:#e5f2e7;
@@ -20106,6 +20111,7 @@
 --color-red-pear:#7b3539;
 --color-red-pegasus:#dd0000;
 --color-red-pepper:#7a3f38;
+--color-red-peppercorn:#c62d42;
 --color-red-perfume:#f6b894;
 --color-red-pigment:#ed1c24;
 --color-red-pines:#72423f;
@@ -22205,9 +22211,13 @@
 --color-silk-sox:#a5b2c7;
 --color-silk-star:#f5eec6;
 --color-silk-stone:#cc9999;
+--color-silken-gold:#fce17c;
+--color-silken-jade:#11a39e;
 --color-silken-peacock:#427584;
+--color-silken-pebble:#d0d0c9;
 --color-silken-pine:#495d5a;
 --color-silken-raspberry:#aa7d89;
+--color-silken-ruby:#e81320;
 --color-silken-tofu:#fef6d8;
 --color-silkie-chicken:#fdefdb;
 --color-silkworm:#eeeecc;
@@ -23965,6 +23975,7 @@
 --color-super-leaf-brown:#ba5e0f;
 --color-super-lemon:#e4bf45;
 --color-super-pink:#ce6ba4;
+--color-super-rare-jade:#14bab4;
 --color-super-rose-red:#cb1028;
 --color-super-saiyan:#ffdd00;
 --color-super-sepia:#ffaa88;

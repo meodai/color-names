@@ -491,6 +491,9 @@
   name:"Beyond the Pines"
   hex:"#688049"
 -
+  name:"Beyond the Stars"
+  hex:"#0a3251"
+-
   name:"Bianca"
   hex:"#f4efe0"
 -
@@ -1543,6 +1546,9 @@
 -
   name:"Cold Turkey"
   hex:"#cab5b2"
+-
+  name:"Cold Wave"
+  hex:"#c2e2e3"
 -
   name:"Cold White"
   hex:"#edfcfb"
@@ -2953,6 +2959,9 @@
 -
   name:"Fuchsia"
   hex:"#ed0dd9"
+-
+  name:"Fuchsia Felicity"
+  hex:"#f44772"
 -
   name:"Fuchsia Nebula"
   hex:"#7722aa"
@@ -5468,6 +5477,9 @@
   name:"Molten Core"
   hex:"#ff5800"
 -
+  name:"Mom's Pancake"
+  hex:"#f5c553"
+-
   name:"Momo Peach"
   hex:"#f47983"
 -
@@ -6656,6 +6668,9 @@
   name:"Pink Party"
   hex:"#ff55ee"
 -
+  name:"Pink Pepper"
+  hex:"#ef586c"
+-
   name:"Pink Pleasure"
   hex:"#ffdfe5"
 -
@@ -6799,6 +6814,9 @@
 -
   name:"Poisonous Dart"
   hex:"#77ff66"
+-
+  name:"Poisonous Potion"
+  hex:"#99dd33"
 -
   name:"Polar"
   hex:"#e5f2e7"
@@ -7523,6 +7541,18 @@
   name:"Silk Star"
   hex:"#f5eec6"
 -
+  name:"Silken Gold"
+  hex:"#fce17c"
+-
+  name:"Silken Jade"
+  hex:"#11a39e"
+-
+  name:"Silken Pebble"
+  hex:"#d0d0c9"
+-
+  name:"Silken Ruby"
+  hex:"#e81320"
+-
   name:"Silver"
   hex:"#c0c0c0"
 -
@@ -7921,6 +7951,9 @@
 -
   name:"Super Pink"
   hex:"#ce6ba4"
+-
+  name:"Super Rare Jade"
+  hex:"#14bab4"
 -
   name:"Super Rose Red"
   hex:"#cb1028"

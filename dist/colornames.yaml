@@ -6578,6 +6578,9 @@
   name:"Beyond the Pines"
   hex:"#688049"
 -
+  name:"Beyond the Stars"
+  hex:"#0a3251"
+-
   name:"Beyond the Wall"
   hex:"#d7e0eb"
 -
@@ -28580,6 +28583,9 @@
   name:"Fuchsia Blush"
   hex:"#e47cb8"
 -
+  name:"Fuchsia Felicity"
+  hex:"#f44772"
+-
   name:"Fuchsia Fever"
   hex:"#ff5599"
 -
@@ -32053,6 +32059,9 @@
 -
   name:"Green Screen"
   hex:"#22ff00"
+-
+  name:"Green Serum"
+  hex:"#99dd22"
 -
   name:"Green Shade Wash"
   hex:"#45523a"
@@ -47018,6 +47027,9 @@
   name:"Mom's Love"
   hex:"#ffd4bb"
 -
+  name:"Mom's Pancake"
+  hex:"#f5c553"
+-
   name:"Momentum"
   hex:"#746f5c"
 -
@@ -55761,7 +55773,7 @@
   hex:"#e1bed9"
 -
   name:"Pink Pepper"
-  hex:"#c62d42"
+  hex:"#ef586c"
 -
   name:"Pink Perfume"
   hex:"#ffdbe5"
@@ -56731,6 +56743,9 @@
 -
   name:"Poisonous Pesticide"
   hex:"#32cd32"
+-
+  name:"Poisonous Potion"
+  hex:"#99dd33"
 -
   name:"Poisonous Purple"
   hex:"#2a0134"
@@ -60319,6 +60334,9 @@
 -
   name:"Red Pepper"
   hex:"#7a3f38"
+-
+  name:"Red Peppercorn"
+  hex:"#c62d42"
 -
   name:"Red Perfume"
   hex:"#f6b894"
@@ -66617,14 +66635,26 @@
   name:"Silk Stone"
   hex:"#cc9999"
 -
+  name:"Silken Gold"
+  hex:"#fce17c"
+-
+  name:"Silken Jade"
+  hex:"#11a39e"
+-
   name:"Silken Peacock"
   hex:"#427584"
+-
+  name:"Silken Pebble"
+  hex:"#d0d0c9"
 -
   name:"Silken Pine"
   hex:"#495d5a"
 -
   name:"Silken Raspberry"
   hex:"#aa7d89"
+-
+  name:"Silken Ruby"
+  hex:"#e81320"
 -
   name:"Silken Tofu"
   hex:"#fef6d8"
@@ -71896,6 +71926,9 @@
 -
   name:"Super Pink"
   hex:"#ce6ba4"
+-
+  name:"Super Rare Jade"
+  hex:"#14bab4"
 -
   name:"Super Rose Red"
   hex:"#cb1028"
