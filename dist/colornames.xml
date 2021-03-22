@@ -6461,6 +6461,10 @@
 <hex>#89674a</hex>
 </color>
 <color>
+<name>Baked Ham</name>
+<hex>#eec8bc</hex>
+</color>
+<color>
 <name>Baked Potato</name>
 <hex>#b69e87</hex>
 </color>
@@ -12341,6 +12345,10 @@
 <hex>#f1e1b0</hex>
 </color>
 <color>
+<name>Bone-Chilling</name>
+<hex>#e1f2f0</hex>
+</color>
+<color>
 <name>Boneyard</name>
 <hex>#bb9977</hex>
 </color>
@@ -14165,6 +14173,10 @@
 <hex>#c8ae96</hex>
 </color>
 <color>
+<name>Brown Sugar Glaze</name>
+<hex>#cf7a4b</hex>
+</color>
+<color>
 <name>Brown Teepee</name>
 <hex>#bca792</hex>
 </color>
@@ -14555,6 +14567,10 @@
 <color>
 <name>Buff Yellow</name>
 <hex>#f1bf70</hex>
+</color>
+<color>
+<name>Buffallo Sauce</name>
+<hex>#f25a1a</hex>
 </color>
 <color>
 <name>Buffalo Bill</name>
@@ -15255,6 +15271,10 @@
 <color>
 <name>Butternut Pizazz</name>
 <hex>#e59752</hex>
+</color>
+<color>
+<name>Butternut Squash</name>
+<hex>#fc7604</hex>
 </color>
 <color>
 <name>Butternut Wood</name>
@@ -17519,6 +17539,10 @@
 <color>
 <name>Cashmere Sweater</name>
 <hex>#fef2d2</hex>
+</color>
+<color>
+<name>Casino Lights</name>
+<hex>#f9f2b3</hex>
 </color>
 <color>
 <name>Casket</name>
@@ -21659,6 +21683,10 @@
 <color>
 <name>Club-Mate</name>
 <hex>#f8de7e</hex>
+</color>
+<color>
+<name>Cluedo Night</name>
+<hex>#2b245a</hex>
 </color>
 <color>
 <name>Clumsy Caramel</name>
@@ -36297,6 +36325,10 @@
 <hex>#99aebb</hex>
 </color>
 <color>
+<name>Foggy Bog</name>
+<hex>#7f8e1d</hex>
+</color>
+<color>
 <name>Foggy Day</name>
 <hex>#e7e3db</hex>
 </color>
@@ -40893,6 +40925,10 @@
 <hex>#f4d9b9</hex>
 </color>
 <color>
+<name>Golden Period</name>
+<hex>#fedb2d</hex>
+</color>
+<color>
 <name>Golden Pheasant</name>
 <hex>#cf9632</hex>
 </color>
@@ -41763,6 +41799,10 @@
 <color>
 <name>Grapemist</name>
 <hex>#8398ca</hex>
+</color>
+<color>
+<name>Grapes of Italy</name>
+<hex>#714a8b</hex>
 </color>
 <color>
 <name>Grapes of Wrath</name>
@@ -63117,6 +63157,10 @@
 <hex>#f9f0e6</hex>
 </color>
 <color>
+<name>Moonlit Forest</name>
+<hex>#3e6d6a</hex>
+</color>
+<color>
 <name>Moonlit Mauve</name>
 <hex>#d28fb0</hex>
 </color>
@@ -77361,8 +77405,16 @@
 <hex>#f2e8da</hex>
 </color>
 <color>
+<name>Pristine Oceanic</name>
+<hex>#00ccbb</hex>
+</color>
+<color>
 <name>Pristine Petal</name>
 <hex>#d5e1e0</hex>
+</color>
+<color>
+<name>Pristine Seas</name>
+<hex>#007799</hex>
 </color>
 <color>
 <name>Private Black</name>
@@ -78231,6 +78283,10 @@
 <color>
 <name>Purple Prince</name>
 <hex>#5b4d54</hex>
+</color>
+<color>
+<name>Purple Pristine</name>
+<hex>#7733aa</hex>
 </color>
 <color>
 <name>Purple Prophet</name>
@@ -85829,6 +85885,10 @@
 <hex>#fce3cf</hex>
 </color>
 <color>
+<name>Scalloped Potatoes</name>
+<hex>#f6d58b</hex>
+</color>
+<color>
 <name>Scalloped Shell</name>
 <hex>#f3e9e0</hex>
 </color>
@@ -87367,6 +87427,10 @@
 <color>
 <name>Severe Seal</name>
 <hex>#eee7de</hex>
+</color>
+<color>
+<name>Severely Burnt Toast</name>
+<hex>#241005</hex>
 </color>
 <color>
 <name>Seville Scarlet</name>
@@ -102765,8 +102829,16 @@
 <hex>#cfd5d7</hex>
 </color>
 <color>
+<name>Veiled Treasure</name>
+<hex>#f6edb6</hex>
+</color>
+<color>
 <name>Veiled Violet</name>
 <hex>#b19bb0</hex>
+</color>
+<color>
+<name>Veiling Waterfalls</name>
+<hex>#d4eaff</hex>
 </color>
 <color>
 <name>Velddrif</name>

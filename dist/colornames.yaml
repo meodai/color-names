@@ -4844,6 +4844,9 @@
   name:"Baked Cookie"
   hex:"#89674a"
 -
+  name:"Baked Ham"
+  hex:"#eec8bc"
+-
   name:"Baked Potato"
   hex:"#b69e87"
 -
@@ -9254,6 +9257,9 @@
   name:"Bone White"
   hex:"#f1e1b0"
 -
+  name:"Bone-Chilling"
+  hex:"#e1f2f0"
+-
   name:"Boneyard"
   hex:"#bb9977"
 -
@@ -10622,6 +10628,9 @@
   name:"Brown Sugar Coating"
   hex:"#c8ae96"
 -
+  name:"Brown Sugar Glaze"
+  hex:"#cf7a4b"
+-
   name:"Brown Teepee"
   hex:"#bca792"
 -
@@ -10915,6 +10924,9 @@
 -
   name:"Buff Yellow"
   hex:"#f1bf70"
+-
+  name:"Buffallo Sauce"
+  hex:"#f25a1a"
 -
   name:"Buffalo Bill"
   hex:"#ae9274"
@@ -11440,6 +11452,9 @@
 -
   name:"Butternut Pizazz"
   hex:"#e59752"
+-
+  name:"Butternut Squash"
+  hex:"#fc7604"
 -
   name:"Butternut Wood"
   hex:"#7e6f59"
@@ -13138,6 +13153,9 @@
 -
   name:"Cashmere Sweater"
   hex:"#fef2d2"
+-
+  name:"Casino Lights"
+  hex:"#f9f2b3"
 -
   name:"Casket"
   hex:"#a49186"
@@ -16243,6 +16261,9 @@
 -
   name:"Club-Mate"
   hex:"#f8de7e"
+-
+  name:"Cluedo Night"
+  hex:"#2b245a"
 -
   name:"Clumsy Caramel"
   hex:"#d3b683"
@@ -27221,6 +27242,9 @@
   name:"Foggy Blue"
   hex:"#99aebb"
 -
+  name:"Foggy Bog"
+  hex:"#7f8e1d"
+-
   name:"Foggy Day"
   hex:"#e7e3db"
 -
@@ -30668,6 +30692,9 @@
   name:"Golden Pastel"
   hex:"#f4d9b9"
 -
+  name:"Golden Period"
+  hex:"#fedb2d"
+-
   name:"Golden Pheasant"
   hex:"#cf9632"
 -
@@ -31321,6 +31348,9 @@
 -
   name:"Grapemist"
   hex:"#8398ca"
+-
+  name:"Grapes of Italy"
+  hex:"#714a8b"
 -
   name:"Grapes of Wrath"
   hex:"#58424c"
@@ -47336,6 +47366,9 @@
   name:"Moonlit Beach"
   hex:"#f9f0e6"
 -
+  name:"Moonlit Forest"
+  hex:"#3e6d6a"
+-
   name:"Moonlit Mauve"
   hex:"#d28fb0"
 -
@@ -58019,8 +58052,14 @@
   name:"Pristine"
   hex:"#f2e8da"
 -
+  name:"Pristine Oceanic"
+  hex:"#00ccbb"
+-
   name:"Pristine Petal"
   hex:"#d5e1e0"
+-
+  name:"Pristine Seas"
+  hex:"#007799"
 -
   name:"Private Black"
   hex:"#4c4949"
@@ -58672,6 +58711,9 @@
 -
   name:"Purple Prince"
   hex:"#5b4d54"
+-
+  name:"Purple Pristine"
+  hex:"#7733aa"
 -
   name:"Purple Prophet"
   hex:"#bb9eca"
@@ -64370,6 +64412,9 @@
   name:"Scalloped Potato"
   hex:"#fce3cf"
 -
+  name:"Scalloped Potatoes"
+  hex:"#f6d58b"
+-
   name:"Scalloped Shell"
   hex:"#f3e9e0"
 -
@@ -65524,6 +65569,9 @@
 -
   name:"Severe Seal"
   hex:"#eee7de"
+-
+  name:"Severely Burnt Toast"
+  hex:"#241005"
 -
   name:"Seville Scarlet"
   hex:"#955843"
@@ -77072,8 +77120,14 @@
   name:"Veiled Spotlight"
   hex:"#cfd5d7"
 -
+  name:"Veiled Treasure"
+  hex:"#f6edb6"
+-
   name:"Veiled Violet"
   hex:"#b19bb0"
+-
+  name:"Veiling Waterfalls"
+  hex:"#d4eaff"
 -
   name:"Velddrif"
   hex:"#a17d61"

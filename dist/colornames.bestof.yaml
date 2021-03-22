@@ -761,6 +761,9 @@
   name:"Bone"
   hex:"#e0d7c6"
 -
+  name:"Bone-Chilling"
+  hex:"#e1f2f0"
+-
   name:"Bonfire"
   hex:"#f78058"
 -
@@ -869,6 +872,9 @@
   name:"Brown Sugar"
   hex:"#a17249"
 -
+  name:"Brown Sugar Glaze"
+  hex:"#cf7a4b"
+-
   name:"Brownie"
   hex:"#964b00"
 -
@@ -961,6 +967,9 @@
 -
   name:"Butternut"
   hex:"#ffa177"
+-
+  name:"Butternut Squash"
+  hex:"#fc7604"
 -
   name:"Butterscotch"
   hex:"#fdb147"
@@ -1183,6 +1192,9 @@
 -
   name:"Cashmere"
   hex:"#d1b399"
+-
+  name:"Casino Lights"
+  hex:"#f9f2b3"
 -
   name:"Casper"
   hex:"#aab5b8"
@@ -1918,6 +1930,9 @@
 -
   name:"Dark Souls"
   hex:"#a3a3a2"
+-
+  name:"Dark Veil"
+  hex:"#141311"
 -
   name:"Dark Void"
   hex:"#151517"
@@ -3257,6 +3272,9 @@
   name:"Golden Nugget"
   hex:"#db9b59"
 -
+  name:"Golden Period"
+  hex:"#fedb2d"
+-
   name:"Golden Relic"
   hex:"#e8ce49"
 -
@@ -3343,6 +3361,9 @@
 -
   name:"Grapefruit"
   hex:"#fd5956"
+-
+  name:"Grapes of Italy"
+  hex:"#714a8b"
 -
   name:"Grapest"
   hex:"#880066"
@@ -5528,6 +5549,9 @@
   name:"Moonlight"
   hex:"#f6eed5"
 -
+  name:"Moonlit Forest"
+  hex:"#3e6d6a"
+-
   name:"Moonraker"
   hex:"#c0b2d7"
 -
@@ -6266,6 +6290,9 @@
   name:"Paradise Bird"
   hex:"#ff8c55"
 -
+  name:"Paradise Island"
+  hex:"#5aa7a0"
+-
   name:"Paradise Pink"
   hex:"#e4445e"
 -
@@ -6974,6 +7001,12 @@
   name:"Prismarine"
   hex:"#117777"
 -
+  name:"Pristine Oceanic"
+  hex:"#00ccbb"
+-
+  name:"Pristine Seas"
+  hex:"#007799"
+-
   name:"Professor Plum"
   hex:"#393540"
 -
@@ -7054,6 +7087,9 @@
 -
   name:"Purple Poodle"
   hex:"#dab4cc"
+-
+  name:"Purple Pristine"
+  hex:"#7733aa"
 -
   name:"Purple Rain"
   hex:"#7442c8"
@@ -8278,6 +8314,15 @@
 -
   name:"Vegetation"
   hex:"#5ccd97"
+-
+  name:"Veiled Rose"
+  hex:"#f8cdc9"
+-
+  name:"Veiled Treasure"
+  hex:"#f6edb6"
+-
+  name:"Veiling Waterfalls"
+  hex:"#d4eaff"
 -
   name:"Velvet"
   hex:"#750851"
