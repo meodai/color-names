@@ -28,7 +28,7 @@ The aim of this project is to create as large a list of color names as possible 
 
 ## Color Name Submission 💌
 
-**[via form 🌈](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform) / or [twitter 🐦](https://codepen.io/meodai/full/ZXQzLb/)**
+**[via form 🌈](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform) / or [twitter 🐦](https://twitter.com/color_parrot)**
 
 Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute!
 
