@@ -8793,7 +8793,7 @@
   hex:"#397c80"
 -
   name:"Blue Violet"
-  hex:"#324ab2"
+  hex:"#4e32b2"
 -
   name:"Blue Vortex"
   hex:"#3d4457"
@@ -14171,11 +14171,11 @@
   name:"Charmed Green"
   hex:"#007f3a"
 -
-  name:"Charming"
-  hex:"#d4e092"
--
   name:"Charming Cherry"
   hex:"#ff90a2"
+-
+  name:"Charming Green"
+  hex:"#d4e092"
 -
   name:"Charming Nature"
   hex:"#11bb44"
@@ -20437,6 +20437,24 @@
 -
   name:"Deep Current"
   hex:"#007381"
+-
+  name:"Deep Daichi Black"
+  hex:"#322d2d"
+-
+  name:"Deep Daigi White"
+  hex:"#e9e7e6"
+-
+  name:"Deep Daijin Blue"
+  hex:"#3311aa"
+-
+  name:"Deep Dairei Red"
+  hex:"#7c2229"
+-
+  name:"Deep Daishin Yellow"
+  hex:"#f0ca00"
+-
+  name:"Deep Daitoku Purple"
+  hex:"#661177"
 -
   name:"Deep Denim"
   hex:"#6688ff"
@@ -41252,8 +41270,26 @@
   name:"Light Shimmer"
   hex:"#a3d4ef"
 -
+  name:"Light Shōchi Black"
+  hex:"#8e8887"
+-
+  name:"Light Shōgi White"
+  hex:"#d8d4d7"
+-
+  name:"Light Shōjin Blue"
+  hex:"#1155ff"
+-
+  name:"Light Shōrei Red"
+  hex:"#d0181f"
+-
   name:"Light Short Phase"
   hex:"#cbe8df"
+-
+  name:"Light Shōshin Yellow"
+  hex:"#f7e582"
+-
+  name:"Light Shōtoku Purple"
+  hex:"#aa55ee"
 -
   name:"Light Shutterbug"
   hex:"#cef2e4"
@@ -49538,6 +49574,9 @@
   name:"Night Gull Grey"
   hex:"#615d5c"
 -
+  name:"Night in Manchester"
+  hex:"#324ab2"
+-
   name:"Night in the Woods"
   hex:"#443300"
 -
@@ -49639,6 +49678,9 @@
 -
   name:"Nightlife"
   hex:"#27426b"
+-
+  name:"Nightly Activities"
+  hex:"#2e5090"
 -
   name:"Nightly Aurora"
   hex:"#9beec1"
@@ -54725,6 +54767,9 @@
   name:"Petal Dust"
   hex:"#f4dfcd"
 -
+  name:"Petal of a Dying Rose"
+  hex:"#9f0630"
+-
   name:"Petal Pink"
   hex:"#f2e2e0"
 -
@@ -58297,6 +58342,9 @@
 -
   name:"Pumpkin Butter"
   hex:"#cba077"
+-
+  name:"Pumpkin Cat"
+  hex:"#eb7b07"
 -
   name:"Pumpkin Choco"
   hex:"#8d2d13"
@@ -77456,6 +77504,9 @@
   name:"Vermilion Red"
   hex:"#b5493a"
 -
+  name:"Vermilion Scarlet"
+  hex:"#d1062b"
+-
   name:"Vermillion"
   hex:"#da3b1f"
 -
@@ -81882,7 +81933,7 @@
   hex:"#632de9"
 -
   name:"YInMn Blue"
-  hex:"#2e5090"
+  hex:"#265ef7"
 -
   name:"Yippie Ya Yellow"
   hex:"#f9f59f"

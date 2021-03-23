@@ -11726,7 +11726,7 @@
 </color>
 <color>
 <name>Blue Violet</name>
-<hex>#324ab2</hex>
+<hex>#4e32b2</hex>
 </color>
 <color>
 <name>Blue Vortex</name>
@@ -18897,12 +18897,12 @@
 <hex>#007f3a</hex>
 </color>
 <color>
-<name>Charming</name>
-<hex>#d4e092</hex>
-</color>
-<color>
 <name>Charming Cherry</name>
 <hex>#ff90a2</hex>
+</color>
+<color>
+<name>Charming Green</name>
+<hex>#d4e092</hex>
 </color>
 <color>
 <name>Charming Nature</name>
@@ -27251,6 +27251,30 @@
 <color>
 <name>Deep Current</name>
 <hex>#007381</hex>
+</color>
+<color>
+<name>Deep Daichi Black</name>
+<hex>#322d2d</hex>
+</color>
+<color>
+<name>Deep Daigi White</name>
+<hex>#e9e7e6</hex>
+</color>
+<color>
+<name>Deep Daijin Blue</name>
+<hex>#3311aa</hex>
+</color>
+<color>
+<name>Deep Dairei Red</name>
+<hex>#7c2229</hex>
+</color>
+<color>
+<name>Deep Daishin Yellow</name>
+<hex>#f0ca00</hex>
+</color>
+<color>
+<name>Deep Daitoku Purple</name>
+<hex>#661177</hex>
 </color>
 <color>
 <name>Deep Denim</name>
@@ -55005,8 +55029,32 @@
 <hex>#a3d4ef</hex>
 </color>
 <color>
+<name>Light Shōchi Black</name>
+<hex>#8e8887</hex>
+</color>
+<color>
+<name>Light Shōgi White</name>
+<hex>#d8d4d7</hex>
+</color>
+<color>
+<name>Light Shōjin Blue</name>
+<hex>#1155ff</hex>
+</color>
+<color>
+<name>Light Shōrei Red</name>
+<hex>#d0181f</hex>
+</color>
+<color>
 <name>Light Short Phase</name>
 <hex>#cbe8df</hex>
+</color>
+<color>
+<name>Light Shōshin Yellow</name>
+<hex>#f7e582</hex>
+</color>
+<color>
+<name>Light Shōtoku Purple</name>
+<hex>#aa55ee</hex>
 </color>
 <color>
 <name>Light Shutterbug</name>
@@ -66053,6 +66101,10 @@
 <hex>#615d5c</hex>
 </color>
 <color>
+<name>Night in Manchester</name>
+<hex>#324ab2</hex>
+</color>
+<color>
 <name>Night in the Woods</name>
 <hex>#443300</hex>
 </color>
@@ -66187,6 +66239,10 @@
 <color>
 <name>Nightlife</name>
 <hex>#27426b</hex>
+</color>
+<color>
+<name>Nightly Activities</name>
+<hex>#2e5090</hex>
 </color>
 <color>
 <name>Nightly Aurora</name>
@@ -72969,6 +73025,10 @@
 <hex>#f4dfcd</hex>
 </color>
 <color>
+<name>Petal of a Dying Rose</name>
+<hex>#9f0630</hex>
+</color>
+<color>
 <name>Petal Pink</name>
 <hex>#f2e2e0</hex>
 </color>
@@ -77731,6 +77791,10 @@
 <color>
 <name>Pumpkin Butter</name>
 <hex>#cba077</hex>
+</color>
+<color>
+<name>Pumpkin Cat</name>
+<hex>#eb7b07</hex>
 </color>
 <color>
 <name>Pumpkin Choco</name>
@@ -103277,6 +103341,10 @@
 <hex>#b5493a</hex>
 </color>
 <color>
+<name>Vermilion Scarlet</name>
+<hex>#d1062b</hex>
+</color>
+<color>
 <name>Vermillion</name>
 <hex>#da3b1f</hex>
 </color>
@@ -109178,7 +109246,7 @@
 </color>
 <color>
 <name>YInMn Blue</name>
-<hex>#2e5090</hex>
+<hex>#265ef7</hex>
 </color>
 <color>
 <name>Yippie Ya Yellow</name>

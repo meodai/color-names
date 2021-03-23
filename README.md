@@ -6,9 +6,9 @@
 [![GitHub release](https://img.shields.io/github/release/meodai/color-names.svg)](https://github.com/meodai/color-names/)
 [![npm version](https://img.shields.io/npm/v/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
 [![npm](https://img.shields.io/npm/dt/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
-[![name count](https://img.shields.io/badge/__27445__-names-orange.svg)](https://github.com/meodai/color-names/blob/master/src/colornames.csv)
+[![name count](https://img.shields.io/badge/__27462__-names-orange.svg)](https://github.com/meodai/color-names/blob/master/src/colornames.csv)
 
-A handpicked list of __27445__ unique color names from [various sources](#sources-) and thousands of curated user submissions.
+A handpicked list of __27462__ unique color names from [various sources](#sources-) and thousands of curated user submissions.
 
 
 > The names of color function like a thread attached to a frightfully slender needle, capable of stitching together our most delicate emotions and memories. When the needle hits the target, we feel either pleasure or empathy. **Kenya Hara – White**
@@ -32,7 +32,7 @@ The aim of this project is to create as large a list of color names as possible 
 
 Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute!
 
-## Color Count: __27445__ 🎉
+## Color Count: __27462__ 🎉
 
 ~__0.16%__ of the RGB color space
 
@@ -118,7 +118,7 @@ or
 ```url
 https://api.color.pizza/v1/names/?name={{query}}
 ```
-Returns an `array` of color `objects` which match the given query, sorted by color-name:    
+Returns an `array` of color `objects` which match the given query, sorted by color-name:
 `curl` [https://api.color.pizza/v1/names/red](https://api.color.pizza/v1/names/red)
 
 #### Good Color-Names
@@ -183,6 +183,7 @@ See [package.json](package.json#L6) for more.
 - [htmlcsscolor.com]
 - [OSX Crayons]
 - [Crayola crayon]
+- [Japanese Twelve Level Cap and Rank System colors]
 - [Thailand weekday colors]
 - [Chinese heavenly creatures colors]
 - [Military Paint]
@@ -265,6 +266,7 @@ As some of the color names come from other lists, some bad ones might slip in. [
 
 <!-- Sources: Names -->
 
+[Japanese Twelve Level Cap and Rank System colors]: https://en.wikipedia.org/wiki/Twelve_Level_Cap_and_Rank_System
 [Chinese heavenly creatures colors]: https://en.wikipedia.org/wiki/Color_in_Chinese_culture
 [Crayola crayon]: https://en.wikipedia.org/wiki/List_of_Crayola_crayon_colors
 [CSS/HTML color names]: https://developer.mozilla.org/en/docs/Web/CSS/color_value
