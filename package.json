@@ -31,11 +31,11 @@
   "homepage": "https://github.com/meodai/color-names#readme",
   "devDependencies": {
     "closestvector": "^0.6.0",
-    "commitizen": "^4.0.3",
+    "commitizen": "^4.2.3",
     "eslint": "^5.15.1",
     "eslint-config-google": "^0.10.0",
     "ghooks": "^2.0.4",
-    "semantic-release": "^17.0.2"
+    "semantic-release": "^17.4.2"
   },
   "engines": {
     "node": ">=8",
