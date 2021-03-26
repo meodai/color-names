@@ -1958,6 +1958,9 @@
   name:"Deadly Depths"
   hex:"#111144"
 -
+  name:"Death of a Star"
+  hex:"#e760d2"
+-
   name:"Debian Red"
   hex:"#d70a53"
 -
@@ -2536,6 +2539,9 @@
 -
   name:"Fandango"
   hex:"#b53389"
+-
+  name:"Fantasy Romance"
+  hex:"#e83a72"
 -
   name:"Farmer's Market"
   hex:"#8f917c"
@@ -4613,6 +4619,9 @@
   name:"Leek"
   hex:"#98d98e"
 -
+  name:"Legendary Lavender"
+  hex:"#9d61d4"
+-
   name:"Lemon"
   hex:"#fff700"
 -
@@ -4925,6 +4934,9 @@
   name:"Lusty Lips"
   hex:"#d5174e"
 -
+  name:"Lusty Lizard"
+  hex:"#00bb11"
+-
   name:"Luxor Gold"
   hex:"#ab8d3f"
 -
@@ -4978,6 +4990,9 @@
 -
   name:"Magenta Elephant"
   hex:"#de0170"
+-
+  name:"Magenta Memoir"
+  hex:"#b4559b"
 -
   name:"Magentarama"
   hex:"#cf3476"
@@ -5944,6 +5959,9 @@
 -
   name:"Nocturne"
   hex:"#7a4b56"
+-
+  name:"Noir Fiction"
+  hex:"#150811"
 -
   name:"Nomad"
   hex:"#a19986"
@@ -7250,6 +7268,9 @@
   name:"Roland-Garros"
   hex:"#bb5522"
 -
+  name:"Romantic Thriller"
+  hex:"#a2101b"
+-
   name:"Romantic Vampire"
   hex:"#991166"
 -
@@ -7358,11 +7379,20 @@
   name:"Sailor"
   hex:"#445780"
 -
+  name:"Sailor Boy"
+  hex:"#aebbd0"
+-
+  name:"Sailor Moon"
+  hex:"#ffee00"
+-
   name:"Sakura"
   hex:"#dfb1b6"
 -
   name:"Sakura Night"
   hex:"#7b6c7c"
+-
+  name:"Salametti"
+  hex:"#e25e31"
 -
   name:"Salami"
   hex:"#820000"
@@ -7802,6 +7832,9 @@
   name:"Space Exploration"
   hex:"#001199"
 -
+  name:"Space Opera"
+  hex:"#5511dd"
+-
   name:"Spaghetti Monster"
   hex:"#eecc88"
 -
@@ -7817,6 +7850,9 @@
   name:"Spectacular Purple"
   hex:"#bb00ff"
 -
+  name:"Spectacular Scarlet"
+  hex:"#f72305"
+-
   name:"Spicy Berry"
   hex:"#cc3366"
 -
@@ -7828,6 +7864,9 @@
 -
   name:"Splashing Wave"
   hex:"#44ddff"
+-
+  name:"Splatter Movie"
+  hex:"#d01a2c"
 -
   name:"Spring Forth"
   hex:"#11bb22"
@@ -8296,6 +8335,9 @@
 -
   name:"Vampire Fiction"
   hex:"#9b0f11"
+-
+  name:"Vampire Hunter"
+  hex:"#610507"
 -
   name:"Vampire Love Story"
   hex:"#dd0077"

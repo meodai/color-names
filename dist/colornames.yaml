@@ -6812,6 +6812,9 @@
   name:"Bioluminescence"
   hex:"#55eeff"
 -
+  name:"Biopunk"
+  hex:"#66ff55"
+-
   name:"BioShock"
   hex:"#889900"
 -
@@ -19757,6 +19760,9 @@
   name:"Dark Horizon"
   hex:"#666699"
 -
+  name:"Dark Humor"
+  hex:"#661122"
+-
   name:"Dark Imperial Blue"
   hex:"#00416a"
 -
@@ -20240,6 +20246,9 @@
   name:"Death Guard"
   hex:"#9eb37b"
 -
+  name:"Death of a Star"
+  hex:"#e760d2"
+-
   name:"Death Valley Beige"
   hex:"#ddbb88"
 -
@@ -20680,6 +20689,9 @@
 -
   name:"Deep Space Rodeo"
   hex:"#332277"
+-
+  name:"Deep Space Royal"
+  hex:"#223382"
 -
   name:"Deep Space Sparkle"
   hex:"#4a646c"
@@ -25678,6 +25690,9 @@
 -
   name:"Fantasy Grey"
   hex:"#8591a2"
+-
+  name:"Fantasy Romance"
+  hex:"#e83a72"
 -
   name:"Far Away Grey"
   hex:"#2d383a"
@@ -40127,6 +40142,9 @@
   name:"Legendary Grey"
   hex:"#787976"
 -
+  name:"Legendary Lavender"
+  hex:"#9d61d4"
+-
   name:"Legendary Lilac"
   hex:"#ad969d"
 -
@@ -43155,10 +43173,13 @@
   hex:"#00bb11"
 -
   name:"Lusty Orange"
-  hex:"#efafa7"
+  hex:"#e26d28"
 -
   name:"Lusty Red"
   hex:"#b1383d"
+-
+  name:"Lusty Salmon"
+  hex:"#efafa7"
 -
   name:"Lusty-Gallant"
   hex:"#ffcccc"
@@ -43423,6 +43444,9 @@
 -
   name:"Magenta Ink"
   hex:"#513d3c"
+-
+  name:"Magenta Memoir"
+  hex:"#b4559b"
 -
   name:"Magenta Pink"
   hex:"#cc338b"
@@ -49901,6 +49925,9 @@
   name:"Noghrei Silver"
   hex:"#bdbebd"
 -
+  name:"Noir Fiction"
+  hex:"#150811"
+-
   name:"Nomad"
   hex:"#a19986"
 -
@@ -55719,7 +55746,7 @@
   hex:"#ffece0"
 -
   name:"Pink Granite"
-  hex:"#a4877d"
+  hex:"#bd9e97"
 -
   name:"Pink Grapefruit"
   hex:"#f3bac9"
@@ -55972,6 +55999,9 @@
 -
   name:"Pink Shade"
   hex:"#cd7584"
+-
+  name:"Pink Shade Granite"
+  hex:"#a4877d"
 -
   name:"Pink Shadow"
   hex:"#bb3377"
@@ -62114,6 +62144,9 @@
   name:"Romantic Rose"
   hex:"#aa4488"
 -
+  name:"Romantic Thriller"
+  hex:"#a2101b"
+-
   name:"Romantic Vampire"
   hex:"#991166"
 -
@@ -63539,7 +63572,7 @@
   name:"Sailor Boy"
   hex:"#aebbd0"
 -
-  name:"Sailor Moon Locks"
+  name:"Sailor Moon"
   hex:"#ffee00"
 -
   name:"Sailor's Bay"
@@ -63583,6 +63616,9 @@
 -
   name:"Salamander"
   hex:"#63775b"
+-
+  name:"Salametti"
+  hex:"#e25e31"
 -
   name:"Salami"
   hex:"#820000"
@@ -69272,6 +69308,9 @@
   name:"Spectacular Purple"
   hex:"#bb00ff"
 -
+  name:"Spectacular Scarlet"
+  hex:"#f72305"
+-
   name:"Spectra"
   hex:"#375d4f"
 -
@@ -69595,6 +69634,9 @@
 -
   name:"Splatter"
   hex:"#a9586c"
+-
+  name:"Splatter Movie"
+  hex:"#d01a2c"
 -
   name:"Spleen Green"
   hex:"#ccee00"
@@ -72073,6 +72115,9 @@
 -
   name:"Supernatural"
   hex:"#313641"
+-
+  name:"Supernatural Saffron"
+  hex:"#ef760e"
 -
   name:"Supernova"
   hex:"#fff8d9"
@@ -76954,6 +76999,9 @@
 -
   name:"Vampire Fiction"
   hex:"#9b0f11"
+-
+  name:"Vampire Hunter"
+  hex:"#610507"
 -
   name:"Vampire Love Story"
   hex:"#dd0077"

@@ -652,6 +652,7 @@
 --color-dead-forest:#434b4f;
 --color-dead-pixel:#3b3a3a;
 --color-deadly-depths:#111144;
+--color-death-of-a-star:#e760d2;
 --color-debian-red:#d70a53;
 --color-decadial-pink:#decade;
 --color-deep-forest:#37413a;
@@ -845,6 +846,7 @@
 --color-fanatic-fuchsia:#ee1199;
 --color-fancy-fuchsia:#ff0088;
 --color-fandango:#b53389;
+--color-fantasy-romance:#e83a72;
 --color-farmers-market:#8f917c;
 --color-fatback:#fff7ed;
 --color-fatty-fuchsia:#ee0077;
@@ -1537,6 +1539,7 @@
 --color-leather:#906a54;
 --color-lechucks-beard:#3c351f;
 --color-leek:#98d98e;
+--color-legendary-lavender:#9d61d4;
 --color-lemon:#fff700;
 --color-lemon-burst:#fed67e;
 --color-lemon-curd:#ffee11;
@@ -1641,6 +1644,7 @@
 --color-lustful-wishes:#cc4499;
 --color-lusty-lavender:#8d5eb7;
 --color-lusty-lips:#d5174e;
+--color-lusty-lizard:#00bb11;
 --color-luxor-gold:#ab8d3f;
 --color-luxurious-lime:#88ee22;
 --color-lynx:#604d47;
@@ -1659,6 +1663,7 @@
 --color-magenta:#ff00ff;
 --color-magenta-affair:#aa44dd;
 --color-magenta-elephant:#de0170;
+--color-magenta-memoir:#b4559b;
 --color-magentarama:#cf3476;
 --color-magentle:#aa11aa;
 --color-magic-carpet:#9488be;
@@ -1981,6 +1986,7 @@
 --color-noble-knight:#394d78;
 --color-noble-plum:#871f78;
 --color-nocturne:#7a4b56;
+--color-noir-fiction:#150811;
 --color-nomad:#a19986;
 --color-noodles:#f9e3b4;
 --color-nordic-breeze:#d3dde7;
@@ -2416,6 +2422,7 @@
 --color-ripe-malinka:#f5576c;
 --color-roasted-pepper:#890a01;
 --color-roland-garros:#bb5522;
+--color-romantic-thriller:#a2101b;
 --color-romantic-vampire:#991166;
 --color-romesco:#f48101;
 --color-rooftop-garden:#9ead92;
@@ -2452,8 +2459,11 @@
 --color-sail-on:#4575ad;
 --color-sail-to-the-sea:#99c3f0;
 --color-sailor:#445780;
+--color-sailor-boy:#aebbd0;
+--color-sailor-moon:#ffee00;
 --color-sakura:#dfb1b6;
 --color-sakura-night:#7b6c7c;
+--color-salametti:#e25e31;
 --color-salami:#820000;
 --color-salmon:#ff796c;
 --color-salmon-nigiri:#f9906f;
@@ -2600,15 +2610,18 @@
 --color-spa:#ceece7;
 --color-space-dust:#002299;
 --color-space-exploration:#001199;
+--color-space-opera:#5511dd;
 --color-spaghetti-monster:#eecc88;
 --color-sparkling-champagne:#efcf98;
 --color-sparkling-cider:#fffdeb;
 --color-spearmint:#64bfa4;
 --color-spectacular-purple:#bb00ff;
+--color-spectacular-scarlet:#f72305;
 --color-spicy-berry:#cc3366;
 --color-spicy-sweetcorn:#f6ac00;
 --color-spikey-red:#600000;
 --color-splashing-wave:#44ddff;
+--color-splatter-movie:#d01a2c;
 --color-spring-forth:#11bb22;
 --color-sprinkled-with-pink:#e7a2ae;
 --color-stainless-steel:#b4bdc7;
@@ -2765,6 +2778,7 @@
 --color-vampire-bite:#c40233;
 --color-vampire-fangs:#cc2255;
 --color-vampire-fiction:#9b0f11;
+--color-vampire-hunter:#610507;
 --color-vampire-love-story:#dd0077;
 --color-vampire-red:#dd4132;
 --color-vampire-state-building:#cc1100;
