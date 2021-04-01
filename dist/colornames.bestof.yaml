@@ -827,6 +827,9 @@
   name:"Brick Red"
   hex:"#8f1402"
 -
+  name:"Bricky Brick"
+  hex:"#b33a22"
+-
   name:"Bride's Blush"
   hex:"#f9e2e1"
 -
@@ -1247,6 +1250,12 @@
   name:"Celery"
   hex:"#b4c04c"
 -
+  name:"Celery Mousse"
+  hex:"#c1fd95"
+-
+  name:"Celery Scepter"
+  hex:"#e1df9a"
+-
   name:"Celestial"
   hex:"#006380"
 -
@@ -1303,6 +1312,9 @@
 -
   name:"Che Guevara Red"
   hex:"#ed214d"
+-
+  name:"Cheddar"
+  hex:"#ee9a09"
 -
   name:"Cheeky Chestnut"
   hex:"#7b4d3a"
@@ -1417,6 +1429,9 @@
 -
   name:"Chocolate Truffle"
   hex:"#612e35"
+-
+  name:"Chocolate Velvet"
+  hex:"#7f7453"
 -
   name:"Chorizo"
   hex:"#aa0011"
@@ -1795,6 +1810,9 @@
 -
   name:"Cucumber"
   hex:"#006400"
+-
+  name:"Cucumber Bomber"
+  hex:"#bbdd11"
 -
   name:"Cucumber Milk"
   hex:"#c2f177"
@@ -2494,6 +2512,9 @@
 -
   name:"Eyeball"
   hex:"#fffbf8"
+-
+  name:"Fabric of Love"
+  hex:"#aa1177"
 -
   name:"Fabric of Space"
   hex:"#341758"
@@ -3499,6 +3520,9 @@
 -
   name:"Guacamole"
   hex:"#95986b"
+-
+  name:"Guardian of Gardens"
+  hex:"#88aa22"
 -
   name:"Guinea Pig"
   hex:"#987654"
@@ -6239,6 +6263,9 @@
   name:"Overgrown Citadel"
   hex:"#888844"
 -
+  name:"Overgrown Temple"
+  hex:"#116611"
+-
   name:"Overgrowth"
   hex:"#88cc33"
 -
@@ -6445,6 +6472,9 @@
 -
   name:"Peach Puff"
   hex:"#ffdab9"
+-
+  name:"Peach's Daydream"
+  hex:"#fd9b88"
 -
   name:"Peaches of Immortality"
   hex:"#d98586"
@@ -7142,6 +7172,9 @@
   name:"Queen Blue"
   hex:"#436b95"
 -
+  name:"Queen of Gardens"
+  hex:"#bbdd55"
+-
   name:"Queen of Hearts"
   hex:"#98333a"
 -
@@ -7244,6 +7277,9 @@
   name:"Redrum"
   hex:"#ff2200"
 -
+  name:"Reign of Tomatoes"
+  hex:"#f7250b"
+-
   name:"Restful Rain"
   hex:"#f1f2dd"
 -
@@ -7312,6 +7348,9 @@
 -
   name:"Royal Night"
   hex:"#2b3191"
+-
+  name:"Royal Plum"
+  hex:"#654161"
 -
   name:"Royal Purpleness"
   hex:"#881177"
@@ -7511,6 +7550,9 @@
   name:"Sea Glass Teal"
   hex:"#a0e5d9"
 -
+  name:"Sea Lion"
+  hex:"#7f8793"
+-
   name:"Sea Serpent"
   hex:"#4bc7cf"
 -
@@ -7567,6 +7609,9 @@
 -
   name:"Shark"
   hex:"#cadcde"
+-
+  name:"Shattered Ice"
+  hex:"#daeee6"
 -
   name:"Shaving Cream"
   hex:"#e1e5e5"
@@ -7825,6 +7870,9 @@
 -
   name:"Spa"
   hex:"#ceece7"
+-
+  name:"Space Battle Blue"
+  hex:"#440099"
 -
   name:"Space Dust"
   hex:"#002299"
@@ -8186,6 +8234,9 @@
   name:"Tomato Bisque"
   hex:"#d15915"
 -
+  name:"Tomato Queen"
+  hex:"#dd4422"
+-
   name:"Tonkatsu"
   hex:"#edac36"
 -
@@ -8275,6 +8326,9 @@
 -
   name:"Turtle"
   hex:"#523f31"
+-
+  name:"Turtle Warrior"
+  hex:"#35b76d"
 -
   name:"Tuscan"
   hex:"#fbd5a6"
@@ -8952,7 +9006,7 @@
   hex:"#a090b8"
 -
   name:"Wolfram"
-  hex:"#7d8574"
+  hex:"#b5b6b7"
 -
   name:"Wonder Wine"
   hex:"#635d63"

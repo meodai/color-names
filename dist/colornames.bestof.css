@@ -275,6 +275,7 @@
 --color-breath-of-fire:#ee0011;
 --color-breeze:#c2dde6;
 --color-brick-red:#8f1402;
+--color-bricky-brick:#b33a22;
 --color-brides-blush:#f9e2e1;
 --color-bright-star:#dde2e6;
 --color-brilliance:#fdfdfd;
@@ -415,6 +416,8 @@
 --color-cedar-chest:#c95a49;
 --color-celadon-porcelain:#7ebea5;
 --color-celery:#b4c04c;
+--color-celery-mousse:#c1fd95;
+--color-celery-scepter:#e1df9a;
 --color-celestial:#006380;
 --color-celestial-horizon:#7c94b3;
 --color-cement-feet:#7b737b;
@@ -434,6 +437,7 @@
 --color-charm:#d0748b;
 --color-chartreuse:#c1f80a;
 --color-che-guevara-red:#ed214d;
+--color-cheddar:#ee9a09;
 --color-cheeky-chestnut:#7b4d3a;
 --color-cheese:#ffa600;
 --color-cheese-please:#ff9613;
@@ -472,6 +476,7 @@
 --color-chocolate-rain:#714f29;
 --color-chocolate-temptation:#956e5f;
 --color-chocolate-truffle:#612e35;
+--color-chocolate-velvet:#7f7453;
 --color-chorizo:#aa0011;
 --color-christmas-red:#b01b2e;
 --color-chrome-white:#cac7b7;
@@ -598,6 +603,7 @@
 --color-crystal-lake:#88b5c4;
 --color-cuba-libre:#73383c;
 --color-cucumber:#006400;
+--color-cucumber-bomber:#bbdd11;
 --color-cucumber-milk:#c2f177;
 --color-cumin:#a58459;
 --color-cumulus:#f3f3e6;
@@ -831,6 +837,7 @@
 --color-extra-life:#6ab417;
 --color-extraviolet:#661188;
 --color-eyeball:#fffbf8;
+--color-fabric-of-love:#aa1177;
 --color-fabric-of-space:#341758;
 --color-fabulous-fuchsia:#ee1188;
 --color-fading-horizon:#442266;
@@ -1166,6 +1173,7 @@
 --color-grotesque-green:#64e986;
 --color-gruyère-cheese:#f5deb3;
 --color-guacamole:#95986b;
+--color-guardian-of-gardens:#88aa22;
 --color-guinea-pig:#987654;
 --color-gull:#918c8f;
 --color-gum-leaf:#acc9b2;
@@ -2079,6 +2087,7 @@
 --color-overdue-blue:#4400ff;
 --color-overgrown:#88dd00;
 --color-overgrown-citadel:#888844;
+--color-overgrown-temple:#116611;
 --color-overgrowth:#88cc33;
 --color-oxblood:#800020;
 --color-oyster:#e3d3bf;
@@ -2148,6 +2157,7 @@
 --color-peach-fury:#f88435;
 --color-peach-fuzz:#ffc7b9;
 --color-peach-puff:#ffdab9;
+--color-peachs-daydream:#fd9b88;
 --color-peaches-of-immortality:#d98586;
 --color-peachy-feeling:#ed8666;
 --color-peachy-milk:#f3e0d8;
@@ -2380,6 +2390,7 @@
 --color-pyramid:#9f7d4f;
 --color-quack-quack:#ffe989;
 --color-queen-blue:#436b95;
+--color-queen-of-gardens:#bbdd55;
 --color-queen-of-hearts:#98333a;
 --color-queer-blue:#88ace0;
 --color-quiche-lorraine:#fed56f;
@@ -2414,6 +2425,7 @@
 --color-red-octopus:#773243;
 --color-red-panda:#c34b1b;
 --color-redrum:#ff2200;
+--color-reign-of-tomatoes:#f7250b;
 --color-restful-rain:#f1f2dd;
 --color-retro-nectarine:#ef7d16;
 --color-retro-vibe:#cb9711;
@@ -2437,6 +2449,7 @@
 --color-royal-lavender:#7851a9;
 --color-royal-milk-tea:#f7cfb4;
 --color-royal-night:#2b3191;
+--color-royal-plum:#654161;
 --color-royal-purpleness:#881177;
 --color-royal-star:#fede4f;
 --color-rubber-ducky:#facf58;
@@ -2503,6 +2516,7 @@
 --color-sea:#3c9992;
 --color-sea-creature:#00586d;
 --color-sea-glass-teal:#a0e5d9;
+--color-sea-lion:#7f8793;
 --color-sea-serpent:#4bc7cf;
 --color-sea-serpents-tears:#5511cc;
 --color-seashell:#fff5ee;
@@ -2522,6 +2536,7 @@
 --color-shady-character:#4c4b4c;
 --color-shallow-water:#8af1fe;
 --color-shark:#cadcde;
+--color-shattered-ice:#daeee6;
 --color-shaving-cream:#e1e5e5;
 --color-she-loves-pink:#e39b96;
 --color-shimmering-blue:#82dbcc;
@@ -2608,6 +2623,7 @@
 --color-sour-yellow:#eeff04;
 --color-soy-milk:#d5d2c7;
 --color-spa:#ceece7;
+--color-space-battle-blue:#440099;
 --color-space-dust:#002299;
 --color-space-exploration:#001199;
 --color-space-opera:#5511dd;
@@ -2728,6 +2744,7 @@
 --color-tomato:#ef4026;
 --color-tomato-baby:#e10d18;
 --color-tomato-bisque:#d15915;
+--color-tomato-queen:#dd4422;
 --color-tonkatsu:#edac36;
 --color-too-dark-tonight:#0011bb;
 --color-touch-of-glamor:#dd8844;
@@ -2758,6 +2775,7 @@
 --color-turquoise:#06c2ac;
 --color-turquoise-pearl:#89f5e3;
 --color-turtle:#523f31;
+--color-turtle-warrior:#35b76d;
 --color-tuscan:#fbd5a6;
 --color-tuscan-sun:#ffd84d;
 --color-tutu:#f8e4e3;
@@ -2983,7 +3001,7 @@
 --color-witchcraft:#474c50;
 --color-wizard:#4d5b88;
 --color-wizards-brew:#a090b8;
---color-wolfram:#7d8574;
+--color-wolfram:#b5b6b7;
 --color-wonder-wine:#635d63;
 --color-wood-bark:#302621;
 --color-woodgrain:#996633;

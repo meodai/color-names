@@ -9950,6 +9950,9 @@
   name:"Brickwork Red"
   hex:"#986971"
 -
+  name:"Bricky Brick"
+  hex:"#b33a22"
+-
   name:"Bridal Blush"
   hex:"#eee2dd"
 -
@@ -13583,6 +13586,9 @@
   name:"Celery Satin"
   hex:"#d0d8be"
 -
+  name:"Celery Scepter"
+  hex:"#e1df9a"
+-
   name:"Celery Sprig"
   hex:"#9ed686"
 -
@@ -14278,6 +14284,9 @@
 -
   name:"Cheater"
   hex:"#eeb15d"
+-
+  name:"Cheddar"
+  hex:"#ee9a09"
 -
   name:"Cheddar Biscuit"
   hex:"#d2ad87"
@@ -19048,6 +19057,9 @@
 -
   name:"Cucumber"
   hex:"#006400"
+-
+  name:"Cucumber Bomber"
+  hex:"#bbdd11"
 -
   name:"Cucumber Cream"
   hex:"#e4ebb1"
@@ -25283,6 +25295,9 @@
   name:"Eyre"
   hex:"#8f9482"
 -
+  name:"Fabric of Love"
+  hex:"#aa1177"
+-
   name:"Fabric of Space"
   hex:"#341758"
 -
@@ -30812,6 +30827,9 @@
   name:"Golden Tainoi"
   hex:"#ffc152"
 -
+  name:"Golden Talisman"
+  hex:"#e9c89b"
+-
   name:"Golden Thistle Yellow"
   hex:"#caa375"
 -
@@ -31802,6 +31820,9 @@
   name:"Green Eggs and Ham"
   hex:"#7cb68e"
 -
+  name:"Green Elisabeth Ⅱ"
+  hex:"#bbcc11"
+-
   name:"Green Elliott"
   hex:"#00bb66"
 -
@@ -32131,6 +32152,9 @@
 -
   name:"Green Screen"
   hex:"#22ff00"
+-
+  name:"Green Serpent Scepter"
+  hex:"#bbcc00"
 -
   name:"Green Serum"
   hex:"#99dd22"
@@ -32839,6 +32863,9 @@
 -
   name:"Guardian Angel"
   hex:"#e4e1ea"
+-
+  name:"Guardian of Gardens"
+  hex:"#88aa22"
 -
   name:"Guardsman Red"
   hex:"#952e31"
@@ -40052,6 +40079,9 @@
   name:"Leafy Lemon"
   hex:"#c0f000"
 -
+  name:"Leafy Lichen"
+  hex:"#7d8574"
+-
   name:"Leafy Seadragon"
   hex:"#b6c406"
 -
@@ -42757,6 +42787,9 @@
 -
   name:"Love Red"
   hex:"#ff496c"
+-
+  name:"Love Scepter"
+  hex:"#dd8877"
 -
   name:"Love Spell"
   hex:"#f8b4c4"
@@ -45796,6 +45829,9 @@
 -
   name:"Mì Chéng Honey"
   hex:"#e8af45"
+-
+  name:"Miami Coral"
+  hex:"#fd8973"
 -
   name:"Miami Jade"
   hex:"#17917f"
@@ -52172,6 +52208,9 @@
   name:"Overgrown Citadel"
   hex:"#888844"
 -
+  name:"Overgrown Temple"
+  hex:"#116611"
+-
   name:"Overgrown Trees"
   hex:"#6b6048"
 -
@@ -53944,6 +53983,9 @@
 -
   name:"Peach Yellow"
   hex:"#fadfad"
+-
+  name:"Peach's Daydream"
+  hex:"#fd9b88"
 -
   name:"Peachade"
   hex:"#fadfc7"
@@ -59180,6 +59222,9 @@
   name:"Queen Lioness"
   hex:"#77613d"
 -
+  name:"Queen of Gardens"
+  hex:"#bbdd55"
+-
   name:"Queen of Hearts"
   hex:"#98333a"
 -
@@ -60922,6 +60967,9 @@
 -
   name:"Regula Barbara Blue"
   hex:"#009999"
+-
+  name:"Reign of Tomatoes"
+  hex:"#f7250b"
 -
   name:"Reign Over Me"
   hex:"#76679e"
@@ -62911,6 +62959,9 @@
 -
   name:"Ruby Shade"
   hex:"#a2566f"
+-
+  name:"Ruby Shard"
+  hex:"#bd1c30"
 -
   name:"Ruby Slippers"
   hex:"#9c2e33"
@@ -68324,6 +68375,9 @@
   name:"Soft Charcoal"
   hex:"#838298"
 -
+  name:"Soft Cheddar"
+  hex:"#e4bc5b"
+-
   name:"Soft Cloud"
   hex:"#d0e3ed"
 -
@@ -68986,6 +69040,9 @@
 -
   name:"Space Angel"
   hex:"#3b4271"
+-
+  name:"Space Battle Blue"
+  hex:"#440099"
 -
   name:"Space Black"
   hex:"#505150"
@@ -71270,6 +71327,9 @@
   name:"Suede Vest"
   hex:"#d79043"
 -
+  name:"Suez Canal"
+  hex:"#235e80"
+-
   name:"Suffragette Yellow"
   hex:"#ecd0a1"
 -
@@ -72913,6 +72973,9 @@
 -
   name:"Talipot Palm"
   hex:"#648149"
+-
+  name:"Talismanic Teal"
+  hex:"#159f9b"
 -
   name:"Tall Poppy"
   hex:"#853534"
@@ -74870,11 +74933,17 @@
   name:"Tomato Puree"
   hex:"#c53346"
 -
+  name:"Tomato Queen"
+  hex:"#dd4422"
+-
   name:"Tomato Red"
   hex:"#ec2d01"
 -
   name:"Tomato Sauce"
   hex:"#b21807"
+-
+  name:"Tomato Scepter"
+  hex:"#e44458"
 -
   name:"Tomato Slices"
   hex:"#a2423d"
@@ -76153,6 +76222,9 @@
 -
   name:"Turtle Trail"
   hex:"#b6b5a0"
+-
+  name:"Turtle Warrior"
+  hex:"#35b76d"
 -
   name:"Turtledove"
   hex:"#ded7c8"
@@ -81306,7 +81378,7 @@
   hex:"#5c5451"
 -
   name:"Wolfram"
-  hex:"#7d8574"
+  hex:"#b5b6b7"
 -
   name:"Wolverine"
   hex:"#91989d"

@@ -1105,6 +1105,10 @@
 <hex>#8f1402</hex>
 </color>
 <color>
+<name>Bricky Brick</name>
+<hex>#b33a22</hex>
+</color>
+<color>
 <name>Bride's Blush</name>
 <hex>#f9e2e1</hex>
 </color>
@@ -1665,6 +1669,14 @@
 <hex>#b4c04c</hex>
 </color>
 <color>
+<name>Celery Mousse</name>
+<hex>#c1fd95</hex>
+</color>
+<color>
+<name>Celery Scepter</name>
+<hex>#e1df9a</hex>
+</color>
+<color>
 <name>Celestial</name>
 <hex>#006380</hex>
 </color>
@@ -1739,6 +1751,10 @@
 <color>
 <name>Che Guevara Red</name>
 <hex>#ed214d</hex>
+</color>
+<color>
+<name>Cheddar</name>
+<hex>#ee9a09</hex>
 </color>
 <color>
 <name>Cheeky Chestnut</name>
@@ -1891,6 +1907,10 @@
 <color>
 <name>Chocolate Truffle</name>
 <hex>#612e35</hex>
+</color>
+<color>
+<name>Chocolate Velvet</name>
+<hex>#7f7453</hex>
 </color>
 <color>
 <name>Chorizo</name>
@@ -2395,6 +2415,10 @@
 <color>
 <name>Cucumber</name>
 <hex>#006400</hex>
+</color>
+<color>
+<name>Cucumber Bomber</name>
+<hex>#bbdd11</hex>
 </color>
 <color>
 <name>Cucumber Milk</name>
@@ -3327,6 +3351,10 @@
 <color>
 <name>Eyeball</name>
 <hex>#fffbf8</hex>
+</color>
+<color>
+<name>Fabric of Love</name>
+<hex>#aa1177</hex>
 </color>
 <color>
 <name>Fabric of Space</name>
@@ -4667,6 +4695,10 @@
 <color>
 <name>Guacamole</name>
 <hex>#95986b</hex>
+</color>
+<color>
+<name>Guardian of Gardens</name>
+<hex>#88aa22</hex>
 </color>
 <color>
 <name>Guinea Pig</name>
@@ -8321,6 +8353,10 @@
 <hex>#888844</hex>
 </color>
 <color>
+<name>Overgrown Temple</name>
+<hex>#116611</hex>
+</color>
+<color>
 <name>Overgrowth</name>
 <hex>#88cc33</hex>
 </color>
@@ -8595,6 +8631,10 @@
 <color>
 <name>Peach Puff</name>
 <hex>#ffdab9</hex>
+</color>
+<color>
+<name>Peach's Daydream</name>
+<hex>#fd9b88</hex>
 </color>
 <color>
 <name>Peaches of Immortality</name>
@@ -9525,6 +9565,10 @@
 <hex>#436b95</hex>
 </color>
 <color>
+<name>Queen of Gardens</name>
+<hex>#bbdd55</hex>
+</color>
+<color>
 <name>Queen of Hearts</name>
 <hex>#98333a</hex>
 </color>
@@ -9661,6 +9705,10 @@
 <hex>#ff2200</hex>
 </color>
 <color>
+<name>Reign of Tomatoes</name>
+<hex>#f7250b</hex>
+</color>
+<color>
 <name>Restful Rain</name>
 <hex>#f1f2dd</hex>
 </color>
@@ -9751,6 +9799,10 @@
 <color>
 <name>Royal Night</name>
 <hex>#2b3191</hex>
+</color>
+<color>
+<name>Royal Plum</name>
+<hex>#654161</hex>
 </color>
 <color>
 <name>Royal Purpleness</name>
@@ -10017,6 +10069,10 @@
 <hex>#a0e5d9</hex>
 </color>
 <color>
+<name>Sea Lion</name>
+<hex>#7f8793</hex>
+</color>
+<color>
 <name>Sea Serpent</name>
 <hex>#4bc7cf</hex>
 </color>
@@ -10091,6 +10147,10 @@
 <color>
 <name>Shark</name>
 <hex>#cadcde</hex>
+</color>
+<color>
+<name>Shattered Ice</name>
+<hex>#daeee6</hex>
 </color>
 <color>
 <name>Shaving Cream</name>
@@ -10435,6 +10495,10 @@
 <color>
 <name>Spa</name>
 <hex>#ceece7</hex>
+</color>
+<color>
+<name>Space Battle Blue</name>
+<hex>#440099</hex>
 </color>
 <color>
 <name>Space Dust</name>
@@ -10917,6 +10981,10 @@
 <hex>#d15915</hex>
 </color>
 <color>
+<name>Tomato Queen</name>
+<hex>#dd4422</hex>
+</color>
+<color>
 <name>Tonkatsu</name>
 <hex>#edac36</hex>
 </color>
@@ -11035,6 +11103,10 @@
 <color>
 <name>Turtle</name>
 <hex>#523f31</hex>
+</color>
+<color>
+<name>Turtle Warrior</name>
+<hex>#35b76d</hex>
 </color>
 <color>
 <name>Tuscan</name>
@@ -11938,7 +12010,7 @@
 </color>
 <color>
 <name>Wolfram</name>
-<hex>#7d8574</hex>
+<hex>#b5b6b7</hex>
 </color>
 <color>
 <name>Wonder Wine</name>
