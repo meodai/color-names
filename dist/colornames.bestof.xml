@@ -573,6 +573,10 @@
 <hex>#f6e491</hex>
 </color>
 <color>
+<name>Beet Red</name>
+<hex>#7a1f3d</hex>
+</color>
+<color>
 <name>Beetroot Purple</name>
 <hex>#cf2d71</hex>
 </color>
@@ -985,6 +989,10 @@
 <hex>#de5d83</hex>
 </color>
 <color>
+<name>Blush Rush</name>
+<hex>#f0bcbe</hex>
+</color>
+<color>
 <name>Boa</name>
 <hex>#8e855f</hex>
 </color>
@@ -1131,6 +1139,10 @@
 <color>
 <name>Broad Daylight</name>
 <hex>#bbddff</hex>
+</color>
+<color>
+<name>Broccoli</name>
+<hex>#87b364</hex>
 </color>
 <color>
 <name>Broccoli Green</name>
@@ -3425,6 +3437,10 @@
 <hex>#8f917c</hex>
 </color>
 <color>
+<name>Fatal Fury</name>
+<hex>#da321c</hex>
+</color>
+<color>
 <name>Fatback</name>
 <hex>#fff7ed</hex>
 </color>
@@ -3729,32 +3745,8 @@
 <hex>#08ff08</hex>
 </color>
 <color>
-<name>Fluorescent Lime</name>
-<hex>#bdc233</hex>
-</color>
-<color>
-<name>Fluorescent Orange</name>
-<hex>#ffcf00</hex>
-</color>
-<color>
 <name>Fluorescent Pink</name>
 <hex>#fe1493</hex>
-</color>
-<color>
-<name>Fluorescent Red</name>
-<hex>#ff5555</hex>
-</color>
-<color>
-<name>Fluorescent Red Orange</name>
-<hex>#fc8427</hex>
-</color>
-<color>
-<name>Fluorescent Turquoise</name>
-<hex>#00fdff</hex>
-</color>
-<color>
-<name>Fluorescent Yellow</name>
-<hex>#ccff02</hex>
 </color>
 <color>
 <name>Flush Orange</name>
@@ -4385,6 +4377,10 @@
 <hex>#fcd975</hex>
 </color>
 <color>
+<name>Golden Frame</name>
+<hex>#e2b31b</hex>
+</color>
+<color>
 <name>Golden Ginkgo</name>
 <hex>#f9f525</hex>
 </color>
@@ -4399,6 +4395,10 @@
 <color>
 <name>Golden Nugget</name>
 <hex>#db9b59</hex>
+</color>
+<color>
+<name>Golden Opportunity</name>
+<hex>#f7c070</hex>
 </color>
 <color>
 <name>Golden Period</name>
@@ -4631,6 +4631,10 @@
 <color>
 <name>Green Venom</name>
 <hex>#b8f818</hex>
+</color>
+<color>
+<name>Green With Envy</name>
+<hex>#22bb33</hex>
 </color>
 <color>
 <name>Greenfinch</name>
@@ -5277,6 +5281,10 @@
 <hex>#a5694f</hex>
 </color>
 <color>
+<name>Hot Caramel</name>
+<hex>#cc6e3b</hex>
+</color>
+<color>
 <name>Hot Chilli</name>
 <hex>#b7513a</hex>
 </color>
@@ -5475,6 +5483,10 @@
 <color>
 <name>In Good Taste</name>
 <hex>#b6d4a0</hex>
+</color>
+<color>
+<name>In the Red</name>
+<hex>#ff2233</hex>
 </color>
 <color>
 <name>In the Shadows</name>
@@ -6665,6 +6677,10 @@
 <hex>#99bb33</hex>
 </color>
 <color>
+<name>Mad For Mango</name>
+<hex>#f8a200</hex>
+</color>
+<color>
 <name>Mademoiselle Pink</name>
 <hex>#f504c9</hex>
 </color>
@@ -7245,6 +7261,14 @@
 <hex>#002266</hex>
 </color>
 <color>
+<name>Midnight Pines</name>
+<hex>#17240b</hex>
+</color>
+<color>
+<name>Midnight Serenade</name>
+<hex>#41434e</hex>
+</color>
+<color>
 <name>Midori</name>
 <hex>#2a603b</hex>
 </color>
@@ -7383,6 +7407,10 @@
 <color>
 <name>Mole</name>
 <hex>#392d2b</hex>
+</color>
+<color>
+<name>Molten Caramel</name>
+<hex>#bb7a39</hex>
 </color>
 <color>
 <name>Molten Core</name>
@@ -9665,6 +9693,10 @@
 <hex>#b00149</hex>
 </color>
 <color>
+<name>Raspberry Romantic</name>
+<hex>#972b51</hex>
+</color>
+<color>
 <name>Ravenclaw</name>
 <hex>#0a0555</hex>
 </color>
@@ -9873,6 +9905,10 @@
 <hex>#f4c430</hex>
 </color>
 <color>
+<name>Saffron Desires</name>
+<hex>#c24359</hex>
+</color>
+<color>
 <name>Sage</name>
 <hex>#87ae73</hex>
 </color>
@@ -10065,12 +10101,28 @@
 <hex>#00586d</hex>
 </color>
 <color>
+<name>Sea Foam</name>
+<hex>#87e0cf</hex>
+</color>
+<color>
+<name>Sea Foam Mist</name>
+<hex>#cbdce2</hex>
+</color>
+<color>
 <name>Sea Glass Teal</name>
 <hex>#a0e5d9</hex>
 </color>
 <color>
+<name>Sea Goddess</name>
+<hex>#216987</hex>
+</color>
+<color>
 <name>Sea Lion</name>
 <hex>#7f8793</hex>
+</color>
+<color>
+<name>Sea Paint</name>
+<hex>#00507a</hex>
 </color>
 <color>
 <name>Sea Serpent</name>
@@ -10853,6 +10905,10 @@
 <hex>#7ad7ad</hex>
 </color>
 <color>
+<name>Tahini Brown</name>
+<hex>#9b856b</hex>
+</color>
+<color>
 <name>Tandoori</name>
 <hex>#bb5c4d</hex>
 </color>
@@ -10965,8 +11021,36 @@
 <hex>#b6273e</hex>
 </color>
 <color>
+<name>Tin</name>
+<hex>#919191</hex>
+</color>
+<color>
+<name>Toad</name>
+<hex>#748d70</hex>
+</color>
+<color>
+<name>Toad King</name>
+<hex>#3d6c54</hex>
+</color>
+<color>
+<name>Toadstool</name>
+<hex>#b8282f</hex>
+</color>
+<color>
+<name>Toast and Butter</name>
+<hex>#d2ad84</hex>
+</color>
+<color>
+<name>Tobacco Leaf</name>
+<hex>#8c724f</hex>
+</color>
+<color>
 <name>Toffee</name>
 <hex>#755139</hex>
+</color>
+<color>
+<name>Tofu</name>
+<hex>#e8e3d9</hex>
 </color>
 <color>
 <name>Tomato</name>
@@ -10995,6 +11079,10 @@
 <color>
 <name>Touch of Glamor</name>
 <hex>#dd8844</hex>
+</color>
+<color>
+<name>Toxic Frog</name>
+<hex>#98fb98</hex>
 </color>
 <color>
 <name>Toxic Sludge</name>
@@ -11045,12 +11133,12 @@
 <hex>#91b6ac</hex>
 </color>
 <color>
-<name>Tropical Dream</name>
-<hex>#d9eae5</hex>
+<name>Trippy Velvet</name>
+<hex>#cc00ee</hex>
 </color>
 <color>
-<name>Tropical Elements</name>
-<hex>#33ff22</hex>
+<name>Tropical Dream</name>
+<hex>#d9eae5</hex>
 </color>
 <color>
 <name>Tropical Fog</name>
@@ -11059,6 +11147,10 @@
 <color>
 <name>Tropical Forest</name>
 <hex>#024a43</hex>
+</color>
+<color>
+<name>Tropical Freeze</name>
+<hex>#99ddcc</hex>
 </color>
 <color>
 <name>Tropical Rain</name>
@@ -11091,6 +11183,10 @@
 <color>
 <name>Turf Master</name>
 <hex>#009922</hex>
+</color>
+<color>
+<name>Turkish Jade</name>
+<hex>#2b888d</hex>
 </color>
 <color>
 <name>Turquoise</name>

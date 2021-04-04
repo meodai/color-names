@@ -142,6 +142,7 @@ Beautiful Darkness,#686d70
 Becquerel,#4bec13
 Bee Yellow,#feff32
 Beekeeper,#f6e491
+Beet Red,#7a1f3d
 Beetroot Purple,#cf2d71
 Begonia,#fa6e79
 Beige,#e6daa6
@@ -245,6 +246,7 @@ Blues White Shoes,#99badd
 Bluetiful,#3c69e7
 Blush Bomb,#dd99aa
 Blush d'Amour,#de5d83
+Blush Rush,#f0bcbe
 Boa,#8e855f
 Bohemian Blue,#0000aa
 Boiling Magma,#ff3300
@@ -282,6 +284,7 @@ Brilliance,#fdfdfd
 Brink Pink,#fb607f
 Brisket,#6e4534
 Broad Daylight,#bbddff
+Broccoli,#87b364
 Broccoli Green,#4b5338
 Broccoli Paradise,#008833
 Bronze,#a87900
@@ -855,6 +858,7 @@ Fancy Fuchsia,#ff0088
 Fandango,#b53389
 Fantasy Romance,#e83a72
 Farmer's Market,#8f917c
+Fatal Fury,#da321c
 Fatback,#fff7ed
 Fatty Fuchsia,#ee0077
 Fawn,#cfaf7b
@@ -931,13 +935,7 @@ Flora,#73fa79
 Fluffy Duckling,#fcdf39
 Fluorescence,#89d178
 Fluorescent Green,#08ff08
-Fluorescent Lime,#bdc233
-Fluorescent Orange,#ffcf00
 Fluorescent Pink,#fe1493
-Fluorescent Red,#ff5555
-Fluorescent Red Orange,#fc8427
-Fluorescent Turquoise,#00fdff
-Fluorescent Yellow,#ccff02
 Flush Orange,#ff6f01
 Fly a Kite,#c8daf5
 Fly by Night,#1c1e4d
@@ -1095,10 +1093,12 @@ Gold Vein,#d6b956
 Golden Blood,#ff1155
 Golden Boy,#ffdd44
 Golden Coin,#fcd975
+Golden Frame,#e2b31b
 Golden Ginkgo,#f9f525
 Golden Harvest,#cccc11
 Golden Mist,#d5cd94
 Golden Nugget,#db9b59
+Golden Opportunity,#f7c070
 Golden Period,#fedb2d
 Golden Relic,#e8ce49
 Golden Retriever,#eedec7
@@ -1157,6 +1157,7 @@ Green Tea,#b5b68f
 Green Tea Mochi,#90a96e
 Green Thumb,#779900
 Green Venom,#b8f818
+Green With Envy,#22bb33
 Greenfinch,#bda928
 Greenhouse,#3e6334
 Gremlin,#a79954
@@ -1318,6 +1319,7 @@ Horseradish,#e6dfc4
 Hot Beach,#fff6d9
 Hot Butter,#e69d00
 Hot Cacao,#a5694f
+Hot Caramel,#cc6e3b
 Hot Chilli,#b7513a
 Hot Chocolate,#683b39
 Hot Cuba,#bb0033
@@ -1368,6 +1370,7 @@ Imperial Red,#ec2938
 In A Pickle,#978c59
 In for a Penny,#ee8877
 In Good Taste,#b6d4a0
+In the Red,#ff2233
 In the Shadows,#cbc4c0
 Inca Gold,#bb7a2c
 Inca Yellow,#ffd301
@@ -1665,6 +1668,7 @@ Macaroon,#b38b71
 Macau,#46c299
 Machinery,#9999aa
 Machu Picchu Gardens,#99bb33
+Mad For Mango,#f8a200
 Mademoiselle Pink,#f504c9
 Madonna,#3f4250
 Madras,#473e23
@@ -1810,6 +1814,8 @@ Midnight Dreams,#002233
 Midnight Express,#21263a
 Midnight in Tokyo,#000088
 Midnight Melancholia,#002266
+Midnight Pines,#17240b
+Midnight Serenade,#41434e
 Midori,#2a603b
 Midsummer Nights,#0011ee
 Mighty Mauve,#8f7f85
@@ -1845,6 +1851,7 @@ Mohalla,#a79b7e
 Mojito,#e4f3e0
 Molasses,#574a47
 Mole,#392d2b
+Molten Caramel,#bb7a39
 Molten Core,#ff5800
 Mom's Pancake,#f5c553
 Momo Peach,#f47983
@@ -2415,6 +2422,7 @@ Rapunzel Silver,#d2d2d4
 Rare Blue,#0044ff
 Rare Red,#dd1133
 Raspberry,#b00149
+Raspberry Romantic,#972b51
 Ravenclaw,#0a0555
 Ravioli al Limone,#fade79
 Reading Tea Leaves,#7d5d5e
@@ -2467,6 +2475,7 @@ Sacro Bosco,#229911
 Safety Orange,#ff6600
 Safflower,#fdae44
 Saffron,#f4c430
+Saffron Desires,#c24359
 Sage,#87ae73
 Sail into the Horizon,#a3bbdc
 Sail On,#4575ad
@@ -2515,8 +2524,12 @@ Schiaparelli Pink,#e84998
 School Bus,#ffd800
 Sea,#3c9992
 Sea Creature,#00586d
+Sea Foam,#87e0cf
+Sea Foam Mist,#cbdce2
 Sea Glass Teal,#a0e5d9
+Sea Goddess,#216987
 Sea Lion,#7f8793
+Sea Paint,#00507a
 Sea Serpent,#4bc7cf
 Sea Serpent's Tears,#5511cc
 Seashell,#fff5ee
@@ -2712,6 +2725,7 @@ Swimming,#c2e5e5
 Tabasco,#a02712
 Taco,#f3c7b3
 Tadorna Teal,#7ad7ad
+Tahini Brown,#9b856b
 Tandoori,#bb5c4d
 Tangent Periwinkle,#50507f
 Tangerine Tango,#ff9e4b
@@ -2740,7 +2754,14 @@ Tiger,#be9c67
 Tiger King,#dd9922
 Tiger of Mysore,#ff8855
 Timeless Beauty,#b6273e
+Tin,#919191
+Toad,#748d70
+Toad King,#3d6c54
+Toadstool,#b8282f
+Toast and Butter,#d2ad84
+Tobacco Leaf,#8c724f
 Toffee,#755139
+Tofu,#e8e3d9
 Tomato,#ef4026
 Tomato Baby,#e10d18
 Tomato Bisque,#d15915
@@ -2748,6 +2769,7 @@ Tomato Queen,#dd4422
 Tonkatsu,#edac36
 Too Dark Tonight,#0011bb
 Touch of Glamor,#dd8844
+Toxic Frog,#98fb98
 Toxic Sludge,#00bb33
 Traffic Green,#55ff22
 Traffic Red,#ff1c1c
@@ -2760,10 +2782,11 @@ Treasure Map,#d0bb9d
 Treasure Map Waters,#658faa
 Treasures,#ba8b36
 Treetop,#91b6ac
+Trippy Velvet,#cc00ee
 Tropical Dream,#d9eae5
-Tropical Elements,#33ff22
 Tropical Fog,#cbcab6
 Tropical Forest,#024a43
+Tropical Freeze,#99ddcc
 Tropical Rain,#447777
 Tropical Rainforest,#00755e
 Tropical Turquoise,#04cdff
@@ -2772,6 +2795,7 @@ Tulip,#ff878d
 Tuna,#46494e
 Turf,#5f4f42
 Turf Master,#009922
+Turkish Jade,#2b888d
 Turquoise,#06c2ac
 Turquoise Pearl,#89f5e3
 Turtle,#523f31

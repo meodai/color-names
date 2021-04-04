@@ -13857,8 +13857,8 @@
 <hex>#8fa277</hex>
 </color>
 <color>
-<name>Broccoli Brown</name>
-<hex>#9b856b</hex>
+<name>Broccoli</name>
+<hex>#87b364</hex>
 </color>
 <color>
 <name>Broccoli Green</name>
@@ -17855,6 +17855,10 @@
 <color>
 <name>Catwalk</name>
 <hex>#4a4649</hex>
+</color>
+<color>
+<name>Caught Red-Handed</name>
+<hex>#be4236</hex>
 </color>
 <color>
 <name>Caulerpa Lentillifera</name>
@@ -34405,6 +34409,10 @@
 <hex>#008822</hex>
 </color>
 <color>
+<name>Fatal Fury</name>
+<hex>#da321c</hex>
+</color>
+<color>
 <name>Fatback</name>
 <hex>#fff7ed</hex>
 </color>
@@ -39213,6 +39221,10 @@
 <hex>#dba674</hex>
 </color>
 <color>
+<name>Geisha Pink</name>
+<hex>#dd44ff</hex>
+</color>
+<color>
 <name>Gellibrand</name>
 <hex>#b5acb2</hex>
 </color>
@@ -39695,6 +39707,10 @@
 <color>
 <name>Ginger Root</name>
 <hex>#c17444</hex>
+</color>
+<color>
+<name>Ginger Root Peel</name>
+<hex>#f0c48c</hex>
 </color>
 <color>
 <name>Ginger Rose</name>
@@ -40787,6 +40803,10 @@
 <color>
 <name>Golden Fragrance</name>
 <hex>#eeee99</hex>
+</color>
+<color>
+<name>Golden Frame</name>
+<hex>#e2b31b</hex>
 </color>
 <color>
 <name>Golden Freesia</name>
@@ -43047,6 +43067,10 @@
 <color>
 <name>Green White</name>
 <hex>#deddcb</hex>
+</color>
+<color>
+<name>Green With Envy</name>
+<hex>#22bb33</hex>
 </color>
 <color>
 <name>Green Woodpecker Olive</name>
@@ -47079,6 +47103,10 @@
 <color>
 <name>Hot Calypso</name>
 <hex>#fa8d7c</hex>
+</color>
+<color>
+<name>Hot Caramel</name>
+<hex>#cc6e3b</hex>
 </color>
 <color>
 <name>Hot Chili</name>
@@ -57821,10 +57849,6 @@
 <hex>#bfae5b</hex>
 </color>
 <color>
-<name>MacKintosh Midnight</name>
-<hex>#41434e</hex>
-</color>
-<color>
 <name>Macquarie</name>
 <hex>#007d82</hex>
 </color>
@@ -61381,12 +61405,20 @@
 <hex>#5f6c74</hex>
 </color>
 <color>
+<name>Midnight Pines</name>
+<hex>#17240b</hex>
+</color>
+<color>
 <name>Midnight Purple</name>
 <hex>#280137</hex>
 </color>
 <color>
 <name>Midnight Sea</name>
 <hex>#565b8d</hex>
+</color>
+<color>
+<name>Midnight Serenade</name>
+<hex>#41434e</hex>
 </color>
 <color>
 <name>Midnight Show</name>
@@ -61511,6 +61543,10 @@
 <color>
 <name>Mild Green</name>
 <hex>#789885</hex>
+</color>
+<color>
+<name>Mild Menthol</name>
+<hex>#87f8a3</hex>
 </color>
 <color>
 <name>Mild Mint</name>
@@ -62859,6 +62895,10 @@
 <color>
 <name>Molten Bronze</name>
 <hex>#c69c04</hex>
+</color>
+<color>
+<name>Molten Caramel</name>
+<hex>#bb7a39</hex>
 </color>
 <color>
 <name>Molten Core</name>
@@ -68767,10 +68807,6 @@
 <color>
 <name>Orange Coloured White</name>
 <hex>#fbebcf</hex>
-</color>
-<color>
-<name>Orange Com</name>
-<hex>#da321c</hex>
 </color>
 <color>
 <name>Orange Confection</name>
@@ -79993,6 +80029,10 @@
 <hex>#cd827d</hex>
 </color>
 <color>
+<name>Raspberry Romantic</name>
+<hex>#972b51</hex>
+</color>
+<color>
 <name>Raspberry Rose</name>
 <hex>#b3436c</hex>
 </color>
@@ -84609,6 +84649,10 @@
 <hex>#584c77</hex>
 </color>
 <color>
+<name>Saffron Desires</name>
+<hex>#c24359</hex>
+</color>
+<color>
 <name>Saffron Gold</name>
 <hex>#f08f00</hex>
 </color>
@@ -87175,6 +87219,10 @@
 <color>
 <name>Seductive Thorns</name>
 <hex>#a2c748</hex>
+</color>
+<color>
+<name>Seed Brown</name>
+<hex>#734f39</hex>
 </color>
 <color>
 <name>Seed Pearl</name>
@@ -89763,6 +89811,10 @@
 <color>
 <name>Siskin Sprout</name>
 <hex>#7a942e</hex>
+</color>
+<color>
+<name>Sister Loganberry Frost</name>
+<hex>#863f76</hex>
 </color>
 <color>
 <name>Site White</name>
@@ -97189,6 +97241,10 @@
 <hex>#ddbb77</hex>
 </color>
 <color>
+<name>Tahini Brown</name>
+<hex>#9b856b</hex>
+</color>
+<color>
 <name>Tahiti Gold</name>
 <hex>#dc722a</hex>
 </color>
@@ -97535,6 +97591,10 @@
 <color>
 <name>Tangerine Flake</name>
 <hex>#e57f5b</hex>
+</color>
+<color>
+<name>Tangerine Haze</name>
+<hex>#de8417</hex>
 </color>
 <color>
 <name>Tangerine Skin</name>
@@ -99945,7 +100005,7 @@
 <hex>#faa945</hex>
 </color>
 <color>
-<name>Tomorokoshi Yellow</name>
+<name>Tōmorokoshi Yellow</name>
 <hex>#eec362</hex>
 </color>
 <color>
@@ -106327,6 +106387,10 @@
 <color>
 <name>Whipped Citron</name>
 <hex>#f0edd2</hex>
+</color>
+<color>
+<name>Whipped Coconut Cream</name>
+<hex>#edece7</hex>
 </color>
 <color>
 <name>Whipped Cream</name>

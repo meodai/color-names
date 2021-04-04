@@ -10391,8 +10391,8 @@
   name:"Broccoflower"
   hex:"#8fa277"
 -
-  name:"Broccoli Brown"
-  hex:"#9b856b"
+  name:"Broccoli"
+  hex:"#87b364"
 -
   name:"Broccoli Green"
   hex:"#4b5338"
@@ -13390,6 +13390,9 @@
 -
   name:"Catwalk"
   hex:"#4a4649"
+-
+  name:"Caught Red-Handed"
+  hex:"#be4236"
 -
   name:"Caulerpa Lentillifera"
   hex:"#599c99"
@@ -25802,6 +25805,9 @@
   name:"Fatal Fields"
   hex:"#008822"
 -
+  name:"Fatal Fury"
+  hex:"#da321c"
+-
   name:"Fatback"
   hex:"#fff7ed"
 -
@@ -29408,6 +29414,9 @@
   name:"Gehenna's Gold"
   hex:"#dba674"
 -
+  name:"Geisha Pink"
+  hex:"#dd44ff"
+-
   name:"Gellibrand"
   hex:"#b5acb2"
 -
@@ -29770,6 +29779,9 @@
 -
   name:"Ginger Root"
   hex:"#c17444"
+-
+  name:"Ginger Root Peel"
+  hex:"#f0c48c"
 -
   name:"Ginger Rose"
   hex:"#be8774"
@@ -30589,6 +30601,9 @@
 -
   name:"Golden Fragrance"
   hex:"#eeee99"
+-
+  name:"Golden Frame"
+  hex:"#e2b31b"
 -
   name:"Golden Freesia"
   hex:"#876f4d"
@@ -32284,6 +32299,9 @@
 -
   name:"Green White"
   hex:"#deddcb"
+-
+  name:"Green With Envy"
+  hex:"#22bb33"
 -
   name:"Green Woodpecker Olive"
   hex:"#7d7853"
@@ -35308,6 +35326,9 @@
 -
   name:"Hot Calypso"
   hex:"#fa8d7c"
+-
+  name:"Hot Caramel"
+  hex:"#cc6e3b"
 -
   name:"Hot Chili"
   hex:"#ad756b"
@@ -43364,9 +43385,6 @@
   name:"Mack Creek"
   hex:"#bfae5b"
 -
-  name:"MacKintosh Midnight"
-  hex:"#41434e"
--
   name:"Macquarie"
   hex:"#007d82"
 -
@@ -46034,11 +46052,17 @@
   name:"Midnight Pearl"
   hex:"#5f6c74"
 -
+  name:"Midnight Pines"
+  hex:"#17240b"
+-
   name:"Midnight Purple"
   hex:"#280137"
 -
   name:"Midnight Sea"
   hex:"#565b8d"
+-
+  name:"Midnight Serenade"
+  hex:"#41434e"
 -
   name:"Midnight Show"
   hex:"#546473"
@@ -46132,6 +46156,9 @@
 -
   name:"Mild Green"
   hex:"#789885"
+-
+  name:"Mild Menthol"
+  hex:"#87f8a3"
 -
   name:"Mild Mint"
   hex:"#dce6e3"
@@ -47143,6 +47170,9 @@
 -
   name:"Molten Bronze"
   hex:"#c69c04"
+-
+  name:"Molten Caramel"
+  hex:"#bb7a39"
 -
   name:"Molten Core"
   hex:"#ff5800"
@@ -51574,9 +51604,6 @@
 -
   name:"Orange Coloured White"
   hex:"#fbebcf"
--
-  name:"Orange Com"
-  hex:"#da321c"
 -
   name:"Orange Confection"
   hex:"#f4e3d2"
@@ -59993,6 +60020,9 @@
   name:"Raspberry Ripple"
   hex:"#cd827d"
 -
+  name:"Raspberry Romantic"
+  hex:"#972b51"
+-
   name:"Raspberry Rose"
   hex:"#b3436c"
 -
@@ -63455,6 +63485,9 @@
   name:"Saffron Crocus"
   hex:"#584c77"
 -
+  name:"Saffron Desires"
+  hex:"#c24359"
+-
   name:"Saffron Gold"
   hex:"#f08f00"
 -
@@ -65380,6 +65413,9 @@
 -
   name:"Seductive Thorns"
   hex:"#a2c748"
+-
+  name:"Seed Brown"
+  hex:"#734f39"
 -
   name:"Seed Pearl"
   hex:"#e6dac4"
@@ -67321,6 +67357,9 @@
 -
   name:"Siskin Sprout"
   hex:"#7a942e"
+-
+  name:"Sister Loganberry Frost"
+  hex:"#863f76"
 -
   name:"Site White"
   hex:"#dcdedc"
@@ -72890,6 +72929,9 @@
   name:"Tahini"
   hex:"#ddbb77"
 -
+  name:"Tahini Brown"
+  hex:"#9b856b"
+-
   name:"Tahiti Gold"
   hex:"#dc722a"
 -
@@ -73150,6 +73192,9 @@
 -
   name:"Tangerine Flake"
   hex:"#e57f5b"
+-
+  name:"Tangerine Haze"
+  hex:"#de8417"
 -
   name:"Tangerine Skin"
   hex:"#f28500"
@@ -74957,7 +75002,7 @@
   name:"Tōmorokoshi Corn"
   hex:"#faa945"
 -
-  name:"Tomorokoshi Yellow"
+  name:"Tōmorokoshi Yellow"
   hex:"#eec362"
 -
   name:"Tomorrow's Coral"
@@ -79744,6 +79789,9 @@
 -
   name:"Whipped Citron"
   hex:"#f0edd2"
+-
+  name:"Whipped Coconut Cream"
+  hex:"#edece7"
 -
   name:"Whipped Cream"
   hex:"#f2f0e7"

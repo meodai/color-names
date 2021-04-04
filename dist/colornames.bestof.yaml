@@ -428,6 +428,9 @@
   name:"Beekeeper"
   hex:"#f6e491"
 -
+  name:"Beet Red"
+  hex:"#7a1f3d"
+-
   name:"Beetroot Purple"
   hex:"#cf2d71"
 -
@@ -737,6 +740,9 @@
   name:"Blush d'Amour"
   hex:"#de5d83"
 -
+  name:"Blush Rush"
+  hex:"#f0bcbe"
+-
   name:"Boa"
   hex:"#8e855f"
 -
@@ -847,6 +853,9 @@
 -
   name:"Broad Daylight"
   hex:"#bbddff"
+-
+  name:"Broccoli"
+  hex:"#87b364"
 -
   name:"Broccoli Green"
   hex:"#4b5338"
@@ -2567,6 +2576,9 @@
   name:"Farmer's Market"
   hex:"#8f917c"
 -
+  name:"Fatal Fury"
+  hex:"#da321c"
+-
   name:"Fatback"
   hex:"#fff7ed"
 -
@@ -2795,26 +2807,8 @@
   name:"Fluorescent Green"
   hex:"#08ff08"
 -
-  name:"Fluorescent Lime"
-  hex:"#bdc233"
--
-  name:"Fluorescent Orange"
-  hex:"#ffcf00"
--
   name:"Fluorescent Pink"
   hex:"#fe1493"
--
-  name:"Fluorescent Red"
-  hex:"#ff5555"
--
-  name:"Fluorescent Red Orange"
-  hex:"#fc8427"
--
-  name:"Fluorescent Turquoise"
-  hex:"#00fdff"
--
-  name:"Fluorescent Yellow"
-  hex:"#ccff02"
 -
   name:"Flush Orange"
   hex:"#ff6f01"
@@ -3287,6 +3281,9 @@
   name:"Golden Coin"
   hex:"#fcd975"
 -
+  name:"Golden Frame"
+  hex:"#e2b31b"
+-
   name:"Golden Ginkgo"
   hex:"#f9f525"
 -
@@ -3298,6 +3295,9 @@
 -
   name:"Golden Nugget"
   hex:"#db9b59"
+-
+  name:"Golden Opportunity"
+  hex:"#f7c070"
 -
   name:"Golden Period"
   hex:"#fedb2d"
@@ -3472,6 +3472,9 @@
 -
   name:"Green Venom"
   hex:"#b8f818"
+-
+  name:"Green With Envy"
+  hex:"#22bb33"
 -
   name:"Greenfinch"
   hex:"#bda928"
@@ -3956,6 +3959,9 @@
   name:"Hot Cacao"
   hex:"#a5694f"
 -
+  name:"Hot Caramel"
+  hex:"#cc6e3b"
+-
   name:"Hot Chilli"
   hex:"#b7513a"
 -
@@ -4105,6 +4111,9 @@
 -
   name:"In Good Taste"
   hex:"#b6d4a0"
+-
+  name:"In the Red"
+  hex:"#ff2233"
 -
   name:"In the Shadows"
   hex:"#cbc4c0"
@@ -4997,6 +5006,9 @@
   name:"Machu Picchu Gardens"
   hex:"#99bb33"
 -
+  name:"Mad For Mango"
+  hex:"#f8a200"
+-
   name:"Mademoiselle Pink"
   hex:"#f504c9"
 -
@@ -5432,6 +5444,12 @@
   name:"Midnight Melancholia"
   hex:"#002266"
 -
+  name:"Midnight Pines"
+  hex:"#17240b"
+-
+  name:"Midnight Serenade"
+  hex:"#41434e"
+-
   name:"Midori"
   hex:"#2a603b"
 -
@@ -5536,6 +5554,9 @@
 -
   name:"Mole"
   hex:"#392d2b"
+-
+  name:"Molten Caramel"
+  hex:"#bb7a39"
 -
   name:"Molten Core"
   hex:"#ff5800"
@@ -7247,6 +7268,9 @@
   name:"Raspberry"
   hex:"#b00149"
 -
+  name:"Raspberry Romantic"
+  hex:"#972b51"
+-
   name:"Ravenclaw"
   hex:"#0a0555"
 -
@@ -7403,6 +7427,9 @@
   name:"Saffron"
   hex:"#f4c430"
 -
+  name:"Saffron Desires"
+  hex:"#c24359"
+-
   name:"Sage"
   hex:"#87ae73"
 -
@@ -7547,11 +7574,23 @@
   name:"Sea Creature"
   hex:"#00586d"
 -
+  name:"Sea Foam"
+  hex:"#87e0cf"
+-
+  name:"Sea Foam Mist"
+  hex:"#cbdce2"
+-
   name:"Sea Glass Teal"
   hex:"#a0e5d9"
 -
+  name:"Sea Goddess"
+  hex:"#216987"
+-
   name:"Sea Lion"
   hex:"#7f8793"
+-
+  name:"Sea Paint"
+  hex:"#00507a"
 -
   name:"Sea Serpent"
   hex:"#4bc7cf"
@@ -8138,6 +8177,9 @@
   name:"Tadorna Teal"
   hex:"#7ad7ad"
 -
+  name:"Tahini Brown"
+  hex:"#9b856b"
+-
   name:"Tandoori"
   hex:"#bb5c4d"
 -
@@ -8222,8 +8264,29 @@
   name:"Timeless Beauty"
   hex:"#b6273e"
 -
+  name:"Tin"
+  hex:"#919191"
+-
+  name:"Toad"
+  hex:"#748d70"
+-
+  name:"Toad King"
+  hex:"#3d6c54"
+-
+  name:"Toadstool"
+  hex:"#b8282f"
+-
+  name:"Toast and Butter"
+  hex:"#d2ad84"
+-
+  name:"Tobacco Leaf"
+  hex:"#8c724f"
+-
   name:"Toffee"
   hex:"#755139"
+-
+  name:"Tofu"
+  hex:"#e8e3d9"
 -
   name:"Tomato"
   hex:"#ef4026"
@@ -8245,6 +8308,9 @@
 -
   name:"Touch of Glamor"
   hex:"#dd8844"
+-
+  name:"Toxic Frog"
+  hex:"#98fb98"
 -
   name:"Toxic Sludge"
   hex:"#00bb33"
@@ -8282,17 +8348,20 @@
   name:"Treetop"
   hex:"#91b6ac"
 -
+  name:"Trippy Velvet"
+  hex:"#cc00ee"
+-
   name:"Tropical Dream"
   hex:"#d9eae5"
--
-  name:"Tropical Elements"
-  hex:"#33ff22"
 -
   name:"Tropical Fog"
   hex:"#cbcab6"
 -
   name:"Tropical Forest"
   hex:"#024a43"
+-
+  name:"Tropical Freeze"
+  hex:"#99ddcc"
 -
   name:"Tropical Rain"
   hex:"#447777"
@@ -8317,6 +8386,9 @@
 -
   name:"Turf Master"
   hex:"#009922"
+-
+  name:"Turkish Jade"
+  hex:"#2b888d"
 -
   name:"Turquoise"
   hex:"#06c2ac"
