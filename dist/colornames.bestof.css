@@ -1,4 +1,5 @@
 :root{
+--color-100-mph:#c93f38;
 --color-20000-leagues-under-the-sea:#191970;
 --color-3am-in-shibuya:#225577;
 --color-3am-latte:#c0a98e;
@@ -113,6 +114,7 @@
 --color-banana-bread:#ffcf73;
 --color-banana-brick:#e8d82c;
 --color-banana-pepper:#fdd630;
+--color-banana-propaganda:#f3db00;
 --color-bangalore:#bbaa88;
 --color-bank-vault:#757374;
 --color-banner-gold:#a28557;
@@ -264,6 +266,7 @@
 --color-borlotti-bean:#d9b1aa;
 --color-botanical-garden:#44aa11;
 --color-botanical-night:#12403c;
+--color-bottom-of-my-heart:#cc0077;
 --color-bourbon:#af6c3e;
 --color-boutique-beige:#e1cead;
 --color-brain-freeze:#00eeff;
@@ -795,6 +798,7 @@
 --color-emerald:#028f1e;
 --color-emerald-forest:#224347;
 --color-emerald-glitter:#66bb00;
+--color-emerald-ice-palace:#2af589;
 --color-emergency:#911911;
 --color-eminence:#6e3974;
 --color-emoji-yellow:#ffde34;
@@ -875,6 +879,7 @@
 --color-fern:#548d44;
 --color-ferocious-flamingo:#ee00cc;
 --color-ferocious-fuchsia:#aa00cc;
+--color-fertility-green:#66fc00;
 --color-festive-ferret:#dfdfe5;
 --color-feta:#dbe0d0;
 --color-feverish:#dd6677;
@@ -932,6 +937,7 @@
 --color-floating-feather:#e9d8c2;
 --color-flood:#6677bb;
 --color-flora:#73fa79;
+--color-floridas-alligator:#664422;
 --color-fluffy-duckling:#fcdf39;
 --color-fluorescence:#89d178;
 --color-fluorescent-green:#08ff08;
@@ -1006,6 +1012,7 @@
 --color-full-moon:#f4f3e0;
 --color-funki-porcini:#ee9999;
 --color-funky-frog:#98bd3c;
+--color-furious-fox:#e35519;
 --color-furious-frog:#55ee00;
 --color-furious-fuchsia:#ee2277;
 --color-furious-red:#ff1100;
@@ -2043,6 +2050,7 @@
 --color-ochre-spice:#e96d03;
 --color-oh-boy!:#bbdaf8;
 --color-oh-my-gold:#eebb55;
+--color-oh-pistachio:#abca99;
 --color-old-gold:#cfb53b;
 --color-old-heart:#e66a77;
 --color-old-silver:#848482;
@@ -2306,6 +2314,7 @@
 --color-poison-purple:#7f01fe;
 --color-poisonous:#55ff11;
 --color-poisonous-dart:#77ff66;
+--color-poisonous-pistachio:#88ee11;
 --color-poisonous-potion:#99dd33;
 --color-polar:#e5f2e7;
 --color-polar-bear:#eae9e0;
@@ -2593,6 +2602,7 @@
 --color-skyscraper:#d3dbe2;
 --color-sleepless-blue:#badbed;
 --color-slice-of-heaven:#0022ee;
+--color-slime-girl:#00bb88;
 --color-slipper-satin:#bfc1cb;
 --color-slippery-salmon:#f87e63;
 --color-slippery-soap:#efedd8;
@@ -2726,6 +2736,7 @@
 --color-taco:#f3c7b3;
 --color-tadorna-teal:#7ad7ad;
 --color-tahini-brown:#9b856b;
+--color-tamahagane:#3b3f40;
 --color-tandoori:#bb5c4d;
 --color-tangent-periwinkle:#50507f;
 --color-tangerine-tango:#ff9e4b;

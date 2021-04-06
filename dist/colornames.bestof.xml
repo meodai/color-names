@@ -1,6 +1,10 @@
 <?xml version='1.0'?>
 <colors>
 <color>
+<name>100 Mph</name>
+<hex>#c93f38</hex>
+</color>
+<color>
 <name>20000 Leagues Under the Sea</name>
 <hex>#191970</hex>
 </color>
@@ -455,6 +459,10 @@
 <color>
 <name>Banana Pepper</name>
 <hex>#fdd630</hex>
+</color>
+<color>
+<name>Banana Propaganda</name>
+<hex>#f3db00</hex>
 </color>
 <color>
 <name>Bangalore</name>
@@ -1059,6 +1067,10 @@
 <color>
 <name>Botanical Night</name>
 <hex>#12403c</hex>
+</color>
+<color>
+<name>Bottom of my Heart</name>
+<hex>#cc0077</hex>
 </color>
 <color>
 <name>Bourbon</name>
@@ -3185,6 +3197,10 @@
 <hex>#66bb00</hex>
 </color>
 <color>
+<name>Emerald Ice Palace</name>
+<hex>#2af589</hex>
+</color>
+<color>
 <name>Emergency</name>
 <hex>#911911</hex>
 </color>
@@ -3505,6 +3521,10 @@
 <hex>#aa00cc</hex>
 </color>
 <color>
+<name>Fertility Green</name>
+<hex>#66fc00</hex>
+</color>
+<color>
 <name>Festive Ferret</name>
 <hex>#dfdfe5</hex>
 </color>
@@ -3731,6 +3751,10 @@
 <color>
 <name>Flora</name>
 <hex>#73fa79</hex>
+</color>
+<color>
+<name>Florida's Alligator</name>
+<hex>#664422</hex>
 </color>
 <color>
 <name>Fluffy Duckling</name>
@@ -4027,6 +4051,10 @@
 <color>
 <name>Funky Frog</name>
 <hex>#98bd3c</hex>
+</color>
+<color>
+<name>Furious Fox</name>
+<hex>#e35519</hex>
 </color>
 <color>
 <name>Furious Frog</name>
@@ -8177,6 +8205,10 @@
 <hex>#eebb55</hex>
 </color>
 <color>
+<name>Oh Pistachio</name>
+<hex>#abca99</hex>
+</color>
+<color>
 <name>Old Gold</name>
 <hex>#cfb53b</hex>
 </color>
@@ -9227,6 +9259,10 @@
 <color>
 <name>Poisonous Dart</name>
 <hex>#77ff66</hex>
+</color>
+<color>
+<name>Poisonous Pistachio</name>
+<hex>#88ee11</hex>
 </color>
 <color>
 <name>Poisonous Potion</name>
@@ -10377,6 +10413,10 @@
 <hex>#0022ee</hex>
 </color>
 <color>
+<name>Slime Girl</name>
+<hex>#00bb88</hex>
+</color>
+<color>
 <name>Slipper Satin</name>
 <hex>#bfc1cb</hex>
 </color>
@@ -10907,6 +10947,10 @@
 <color>
 <name>Tahini Brown</name>
 <hex>#9b856b</hex>
+</color>
+<color>
+<name>Tamahagane</name>
+<hex>#3b3f40</hex>
 </color>
 <color>
 <name>Tandoori</name>
