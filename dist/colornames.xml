@@ -9357,6 +9357,10 @@
 <hex>#cfff00</hex>
 </color>
 <color>
+<name>Bitter Liquorice</name>
+<hex>#262926</hex>
+</color>
+<color>
 <name>Bitter Melon</name>
 <hex>#cfd1b2</hex>
 </color>
@@ -10755,6 +10759,10 @@
 <color>
 <name>Blue Chalk</name>
 <hex>#94c0cc</hex>
+</color>
+<color>
+<name>Blue Chaos</name>
+<hex>#5599ff</hex>
 </color>
 <color>
 <name>Blue Charcoal</name>
@@ -16925,6 +16933,10 @@
 <hex>#b98c5d</hex>
 </color>
 <color>
+<name>Caramel Dream</name>
+<hex>#b8623b</hex>
+</color>
+<color>
 <name>Caramel Finish</name>
 <hex>#ffd59a</hex>
 </color>
@@ -17547,6 +17559,10 @@
 <color>
 <name>Cashmere Blue</name>
 <hex>#a5b8d0</hex>
+</color>
+<color>
+<name>Cashmere Clay</name>
+<hex>#cda291</hex>
 </color>
 <color>
 <name>Cashmere Rose</name>
@@ -19117,6 +19133,10 @@
 <hex>#7e4258</hex>
 </color>
 <color>
+<name>Cheerly Kiwi</name>
+<hex>#bccb08</hex>
+</color>
+<color>
 <name>Cheers!</name>
 <hex>#c09962</hex>
 </color>
@@ -20179,6 +20199,10 @@
 <color>
 <name>Chocolate Explosion</name>
 <hex>#8e473b</hex>
+</color>
+<color>
+<name>Chocolate Fantasies</name>
+<hex>#5c3612</hex>
 </color>
 <color>
 <name>Chocolate Fondant</name>
@@ -27369,6 +27393,10 @@
 <hex>#393437</hex>
 </color>
 <color>
+<name>Deep Forestial Escapade</name>
+<hex>#335500</hex>
+</color>
+<color>
 <name>Deep Garnet</name>
 <hex>#5f4246</hex>
 </color>
@@ -30855,6 +30883,10 @@
 <color>
 <name>Dying Moss</name>
 <hex>#669c7d</hex>
+</color>
+<color>
+<name>Dying Storm Blue</name>
+<hex>#111166</hex>
 </color>
 <color>
 <name>Dynamic</name>
@@ -34817,6 +34849,10 @@
 <hex>#dbe0d0</hex>
 </color>
 <color>
+<name>Fever Dream</name>
+<hex>#dd5577</hex>
+</color>
+<color>
 <name>Feverish</name>
 <hex>#dd6677</hex>
 </color>
@@ -36725,6 +36761,14 @@
 <hex>#9aa77c</hex>
 </color>
 <color>
+<name>Forestial</name>
+<hex>#007733</hex>
+</color>
+<color>
+<name>Forestial Outpost</name>
+<hex>#556611</hex>
+</color>
+<color>
 <name>Forestwood</name>
 <hex>#4d5346</hex>
 </color>
@@ -38137,6 +38181,10 @@
 <hex>#c4ead5</hex>
 </color>
 <color>
+<name>Frozen Periwinkle</name>
+<hex>#c9d1ef</hex>
+</color>
+<color>
 <name>Frozen Pond</name>
 <hex>#a5b4ae</hex>
 </color>
@@ -39503,6 +39551,10 @@
 <color>
 <name>Get Up and Go</name>
 <hex>#1a9d49</hex>
+</color>
+<color>
+<name>Getting Wet</name>
+<hex>#c3dae3</hex>
 </color>
 <color>
 <name>Gettysburg Grey</name>
@@ -41039,6 +41091,10 @@
 <color>
 <name>Golden Pastel</name>
 <hex>#f4d9b9</hex>
+</color>
+<color>
+<name>Golden Patina</name>
+<hex>#e4aa76</hex>
 </color>
 <color>
 <name>Golden Period</name>
@@ -49933,7 +49989,7 @@
 <hex>#c0b2b1</hex>
 </color>
 <color>
-<name>Jack-o</name>
+<name>Jack-O</name>
 <hex>#fb9902</hex>
 </color>
 <color>
@@ -52497,6 +52553,10 @@
 <hex>#76c6d3</hex>
 </color>
 <color>
+<name>Laguna</name>
+<hex>#36a5c9</hex>
+</color>
+<color>
 <name>Laguna Beach</name>
 <hex>#e9d7c0</hex>
 </color>
@@ -54563,10 +54623,6 @@
 <color>
 <name>Light Fern Green</name>
 <hex>#e6e6d0</hex>
-</color>
-<color>
-<name>Light First Love</name>
-<hex>#fce6db</hex>
 </color>
 <color>
 <name>Light Flamingo Pink</name>
@@ -59181,6 +59237,10 @@
 <hex>#27293d</hex>
 </color>
 <color>
+<name>Maritime Outpost</name>
+<hex>#1e4581</hex>
+</color>
+<color>
 <name>Maritime Soft Blue</name>
 <hex>#69b8c0</hex>
 </color>
@@ -60415,6 +60475,10 @@
 <color>
 <name>Mega Metal Phoenix</name>
 <hex>#c6ccd4</hex>
+</color>
+<color>
+<name>Mega Teal</name>
+<hex>#0ee8a3</hex>
 </color>
 <color>
 <name>Megadrive Screen</name>
@@ -69653,6 +69717,10 @@
 <hex>#73a3d0</hex>
 </color>
 <color>
+<name>Overcast Brick</name>
+<hex>#b3583d</hex>
+</color>
+<color>
 <name>Overcast Day</name>
 <hex>#8f99a2</hex>
 </color>
@@ -69683,6 +69751,10 @@
 <color>
 <name>Overgrown Citadel</name>
 <hex>#888844</hex>
+</color>
+<color>
+<name>Overgrown Mausoleum</name>
+<hex>#448833</hex>
 </color>
 <color>
 <name>Overgrown Temple</name>
@@ -72335,6 +72407,10 @@
 <color>
 <name>Pearly Flesh</name>
 <hex>#f4e3df</hex>
+</color>
+<color>
+<name>Pearly Pink</name>
+<hex>#ee99cc</hex>
 </color>
 <color>
 <name>Pearly Purple</name>
@@ -77725,6 +77801,10 @@
 <hex>#da9ec5</hex>
 </color>
 <color>
+<name>Promiscuous Pink</name>
+<hex>#bb11ee</hex>
+</color>
+<color>
 <name>Promise Keeping</name>
 <hex>#afc7e8</hex>
 </color>
@@ -78153,6 +78233,10 @@
 <hex>#6f5390</hex>
 </color>
 <color>
+<name>Pure Midnight</name>
+<hex>#112266</hex>
+</color>
+<color>
 <name>Pure Passion</name>
 <hex>#b40039</hex>
 </color>
@@ -78335,6 +78419,10 @@
 <color>
 <name>Purple Feather</name>
 <hex>#594670</hex>
+</color>
+<color>
+<name>Purple Feather Boa</name>
+<hex>#880099</hex>
 </color>
 <color>
 <name>Purple Gladiola</name>
@@ -78797,7 +78885,7 @@
 <hex>#879f6c</hex>
 </color>
 <color>
-<name>Pussy Foot</name>
+<name>Pussyfoot</name>
 <hex>#cebada</hex>
 </color>
 <color>
@@ -79739,6 +79827,10 @@
 <color>
 <name>Rainy Lake</name>
 <hex>#3f6c8f</hex>
+</color>
+<color>
+<name>Rainy Mood</name>
+<hex>#4499aa</hex>
 </color>
 <color>
 <name>Rainy Morning</name>
@@ -83599,6 +83691,10 @@
 <color>
 <name>Rosy Copper</name>
 <hex>#cf8974</hex>
+</color>
+<color>
+<name>Rosy Fluffy Bedspread</name>
+<hex>#cc77ff</hex>
 </color>
 <color>
 <name>Rosy Highlight</name>
@@ -90305,6 +90401,10 @@
 <hex>#cb904e</hex>
 </color>
 <color>
+<name>Slightly in Love</name>
+<hex>#fce6db</hex>
+</color>
+<color>
 <name>Slightly Peach</name>
 <hex>#f1ddd8</hex>
 </color>
@@ -91731,6 +91831,10 @@
 <color>
 <name>Something Blue</name>
 <hex>#b0d6e6</hex>
+</color>
+<color>
+<name>Somewhere in a Fairytale</name>
+<hex>#cc99dd</hex>
 </color>
 <color>
 <name>Sommelier</name>
@@ -96533,6 +96637,10 @@
 <hex>#748500</hex>
 </color>
 <color>
+<name>Swamp Mausoleum</name>
+<hex>#094c49</hex>
+</color>
+<color>
 <name>Swamp Monster</name>
 <hex>#005511</hex>
 </color>
@@ -99557,6 +99665,10 @@
 <hex>#9a4149</hex>
 </color>
 <color>
+<name>Timeless Seafoam</name>
+<hex>#afe4e2</hex>
+</color>
+<color>
 <name>Timeless Taupe</name>
 <hex>#908379</hex>
 </color>
@@ -100753,6 +100865,18 @@
 <hex>#3f363d</hex>
 </color>
 <color>
+<name>Treasured Love</name>
+<hex>#bb2277</hex>
+</color>
+<color>
+<name>Treasured Teal</name>
+<hex>#52c1b3</hex>
+</color>
+<color>
+<name>Treasured Wilderness</name>
+<hex>#006633</hex>
+</color>
+<color>
 <name>Treasures</name>
 <hex>#ba8b36</hex>
 </color>
@@ -101087,6 +101211,10 @@
 <color>
 <name>Tropical Fruit</name>
 <hex>#fdd3a7</hex>
+</color>
+<color>
+<name>Tropical Funk</name>
+<hex>#55dd00</hex>
 </color>
 <color>
 <name>Tropical Green</name>

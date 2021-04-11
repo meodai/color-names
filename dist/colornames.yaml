@@ -7016,6 +7016,9 @@
   name:"Bitter Lime"
   hex:"#cfff00"
 -
+  name:"Bitter Liquorice"
+  hex:"#262926"
+-
   name:"Bitter Melon"
   hex:"#cfd1b2"
 -
@@ -8065,6 +8068,9 @@
 -
   name:"Blue Chalk"
   hex:"#94c0cc"
+-
+  name:"Blue Chaos"
+  hex:"#5599ff"
 -
   name:"Blue Charcoal"
   hex:"#262b2f"
@@ -12692,6 +12698,9 @@
   name:"Caramel Cupcake"
   hex:"#b98c5d"
 -
+  name:"Caramel Dream"
+  hex:"#b8623b"
+-
   name:"Caramel Finish"
   hex:"#ffd59a"
 -
@@ -13159,6 +13168,9 @@
 -
   name:"Cashmere Blue"
   hex:"#a5b8d0"
+-
+  name:"Cashmere Clay"
+  hex:"#cda291"
 -
   name:"Cashmere Rose"
   hex:"#ce879f"
@@ -14336,6 +14348,9 @@
   name:"Cheerful Wine"
   hex:"#7e4258"
 -
+  name:"Cheerly Kiwi"
+  hex:"#bccb08"
+-
   name:"Cheers!"
   hex:"#c09962"
 -
@@ -15133,6 +15148,9 @@
 -
   name:"Chocolate Explosion"
   hex:"#8e473b"
+-
+  name:"Chocolate Fantasies"
+  hex:"#5c3612"
 -
   name:"Chocolate Fondant"
   hex:"#56352d"
@@ -20525,6 +20543,9 @@
   name:"Deep Forest Brown"
   hex:"#393437"
 -
+  name:"Deep Forestial Escapade"
+  hex:"#335500"
+-
   name:"Deep Garnet"
   hex:"#5f4246"
 -
@@ -23140,6 +23161,9 @@
 -
   name:"Dying Moss"
   hex:"#669c7d"
+-
+  name:"Dying Storm Blue"
+  hex:"#111166"
 -
   name:"Dynamic"
   hex:"#6d5160"
@@ -26111,6 +26135,9 @@
   name:"Feta"
   hex:"#dbe0d0"
 -
+  name:"Fever Dream"
+  hex:"#dd5577"
+-
   name:"Feverish"
   hex:"#dd6677"
 -
@@ -27542,6 +27569,12 @@
   name:"Forester"
   hex:"#9aa77c"
 -
+  name:"Forestial"
+  hex:"#007733"
+-
+  name:"Forestial Outpost"
+  hex:"#556611"
+-
   name:"Forestwood"
   hex:"#4d5346"
 -
@@ -28601,6 +28634,9 @@
   name:"Frozen Pea"
   hex:"#c4ead5"
 -
+  name:"Frozen Periwinkle"
+  hex:"#c9d1ef"
+-
   name:"Frozen Pond"
   hex:"#a5b4ae"
 -
@@ -29626,6 +29662,9 @@
 -
   name:"Get Up and Go"
   hex:"#1a9d49"
+-
+  name:"Getting Wet"
+  hex:"#c3dae3"
 -
   name:"Gettysburg Grey"
   hex:"#c7c1b7"
@@ -30778,6 +30817,9 @@
 -
   name:"Golden Pastel"
   hex:"#f4d9b9"
+-
+  name:"Golden Patina"
+  hex:"#e4aa76"
 -
   name:"Golden Period"
   hex:"#fedb2d"
@@ -37448,7 +37490,7 @@
   name:"Jack Rabbit"
   hex:"#c0b2b1"
 -
-  name:"Jack-o"
+  name:"Jack-O"
   hex:"#fb9902"
 -
   name:"Jack-O-Lantern"
@@ -39371,6 +39413,9 @@
   name:"Lagoona Teal"
   hex:"#76c6d3"
 -
+  name:"Laguna"
+  hex:"#36a5c9"
+-
   name:"Laguna Beach"
   hex:"#e9d7c0"
 -
@@ -40921,9 +40966,6 @@
 -
   name:"Light Fern Green"
   hex:"#e6e6d0"
--
-  name:"Light First Love"
-  hex:"#fce6db"
 -
   name:"Light Flamingo Pink"
   hex:"#e7d1dd"
@@ -44384,6 +44426,9 @@
   name:"Maritime Blue"
   hex:"#27293d"
 -
+  name:"Maritime Outpost"
+  hex:"#1e4581"
+-
   name:"Maritime Soft Blue"
   hex:"#69b8c0"
 -
@@ -45310,6 +45355,9 @@
 -
   name:"Mega Metal Phoenix"
   hex:"#c6ccd4"
+-
+  name:"Mega Teal"
+  hex:"#0ee8a3"
 -
   name:"Megadrive Screen"
   hex:"#4a40ad"
@@ -52238,6 +52286,9 @@
   name:"Overcast"
   hex:"#73a3d0"
 -
+  name:"Overcast Brick"
+  hex:"#b3583d"
+-
   name:"Overcast Day"
   hex:"#8f99a2"
 -
@@ -52261,6 +52312,9 @@
 -
   name:"Overgrown Citadel"
   hex:"#888844"
+-
+  name:"Overgrown Mausoleum"
+  hex:"#448833"
 -
   name:"Overgrown Temple"
   hex:"#116611"
@@ -54250,6 +54304,9 @@
 -
   name:"Pearly Flesh"
   hex:"#f4e3df"
+-
+  name:"Pearly Pink"
+  hex:"#ee99cc"
 -
   name:"Pearly Purple"
   hex:"#b768a2"
@@ -58292,6 +58349,9 @@
   name:"Prominent Pink"
   hex:"#da9ec5"
 -
+  name:"Promiscuous Pink"
+  hex:"#bb11ee"
+-
   name:"Promise Keeping"
   hex:"#afc7e8"
 -
@@ -58613,6 +58673,9 @@
   name:"Pure Mauve"
   hex:"#6f5390"
 -
+  name:"Pure Midnight"
+  hex:"#112266"
+-
   name:"Pure Passion"
   hex:"#b40039"
 -
@@ -58750,6 +58813,9 @@
 -
   name:"Purple Feather"
   hex:"#594670"
+-
+  name:"Purple Feather Boa"
+  hex:"#880099"
 -
   name:"Purple Gladiola"
   hex:"#c1abd4"
@@ -59096,7 +59162,7 @@
   name:"Purslane"
   hex:"#879f6c"
 -
-  name:"Pussy Foot"
+  name:"Pussyfoot"
   hex:"#cebada"
 -
   name:"Pussywillow"
@@ -59803,6 +59869,9 @@
 -
   name:"Rainy Lake"
   hex:"#3f6c8f"
+-
+  name:"Rainy Mood"
+  hex:"#4499aa"
 -
   name:"Rainy Morning"
   hex:"#005566"
@@ -62698,6 +62767,9 @@
 -
   name:"Rosy Copper"
   hex:"#cf8974"
+-
+  name:"Rosy Fluffy Bedspread"
+  hex:"#cc77ff"
 -
   name:"Rosy Highlight"
   hex:"#f7d994"
@@ -67727,6 +67799,9 @@
   name:"Slightly Golden"
   hex:"#cb904e"
 -
+  name:"Slightly in Love"
+  hex:"#fce6db"
+-
   name:"Slightly Peach"
   hex:"#f1ddd8"
 -
@@ -68797,6 +68872,9 @@
 -
   name:"Something Blue"
   hex:"#b0d6e6"
+-
+  name:"Somewhere in a Fairytale"
+  hex:"#cc99dd"
 -
   name:"Sommelier"
   hex:"#5d3736"
@@ -72398,6 +72476,9 @@
   name:"Swamp Green"
   hex:"#748500"
 -
+  name:"Swamp Mausoleum"
+  hex:"#094c49"
+-
   name:"Swamp Monster"
   hex:"#005511"
 -
@@ -74666,6 +74747,9 @@
   name:"Timeless Ruby"
   hex:"#9a4149"
 -
+  name:"Timeless Seafoam"
+  hex:"#afe4e2"
+-
   name:"Timeless Taupe"
   hex:"#908379"
 -
@@ -75563,6 +75647,15 @@
   name:"Treasure Seeker"
   hex:"#3f363d"
 -
+  name:"Treasured Love"
+  hex:"#bb2277"
+-
+  name:"Treasured Teal"
+  hex:"#52c1b3"
+-
+  name:"Treasured Wilderness"
+  hex:"#006633"
+-
   name:"Treasures"
   hex:"#ba8b36"
 -
@@ -75814,6 +75907,9 @@
 -
   name:"Tropical Fruit"
   hex:"#fdd3a7"
+-
+  name:"Tropical Funk"
+  hex:"#55dd00"
 -
   name:"Tropical Green"
   hex:"#17806d"

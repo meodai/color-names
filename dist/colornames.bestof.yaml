@@ -551,6 +551,9 @@
   name:"Bitter Lemon"
   hex:"#d2db32"
 -
+  name:"Bitter Liquorice"
+  hex:"#262926"
+-
   name:"Bittersweet"
   hex:"#fea051"
 -
@@ -1163,6 +1166,9 @@
   name:"Caramel Crumb"
   hex:"#c39355"
 -
+  name:"Caramel Dream"
+  hex:"#b8623b"
+-
   name:"Caramel Finish"
   hex:"#ffd59a"
 -
@@ -1213,6 +1219,9 @@
 -
   name:"Cashmere"
   hex:"#d1b399"
+-
+  name:"Cashmere Clay"
+  hex:"#cda291"
 -
   name:"Casino Lights"
   hex:"#f9f2b3"
@@ -1337,6 +1346,9 @@
   name:"Cheeky Chestnut"
   hex:"#7b4d3a"
 -
+  name:"Cheerly Kiwi"
+  hex:"#bccb08"
+-
   name:"Cheese"
   hex:"#ffa600"
 -
@@ -1432,6 +1444,9 @@
 -
   name:"Chocolate Explosion"
   hex:"#8e473b"
+-
+  name:"Chocolate Fantasies"
+  hex:"#5c3612"
 -
   name:"Chocolate Kiss"
   hex:"#3c1421"
@@ -1648,6 +1663,9 @@
 -
   name:"Copper Coin"
   hex:"#da8a67"
+-
+  name:"Copper Patina"
+  hex:"#9db4a0"
 -
   name:"Coquelicot"
   hex:"#ff3800"
@@ -2006,6 +2024,9 @@
   name:"Deep Forest"
   hex:"#37413a"
 -
+  name:"Deep Forestial Escapade"
+  hex:"#335500"
+-
   name:"Deep Green"
   hex:"#02590f"
 -
@@ -2299,6 +2320,9 @@
 -
   name:"Dwindling Dandelion"
   hex:"#f9e9d7"
+-
+  name:"Dying Storm Blue"
+  hex:"#111166"
 -
   name:"Dynamite"
   hex:"#ff4422"
@@ -2648,6 +2672,9 @@
   name:"Feta"
   hex:"#dbe0d0"
 -
+  name:"Fever Dream"
+  hex:"#dd5577"
+-
   name:"Feverish"
   hex:"#dd6677"
 -
@@ -2876,6 +2903,12 @@
   name:"Forester"
   hex:"#9aa77c"
 -
+  name:"Forestial"
+  hex:"#007733"
+-
+  name:"Forestial Outpost"
+  hex:"#556611"
+-
   name:"Forget-Me-Not"
   hex:"#0087bd"
 -
@@ -2995,6 +3028,9 @@
 -
   name:"Frozen Mammoth"
   hex:"#dfd9da"
+-
+  name:"Frozen Periwinkle"
+  hex:"#c9d1ef"
 -
   name:"Frozen Salmon"
   hex:"#fea993"
@@ -3154,6 +3190,9 @@
 -
   name:"German Hop"
   hex:"#89ac27"
+-
+  name:"Getting Wet"
+  hex:"#c3dae3"
 -
   name:"Ghost"
   hex:"#c0bfc7"
@@ -4274,7 +4313,7 @@
   name:"Jack and Coke"
   hex:"#920f0e"
 -
-  name:"Jack-o"
+  name:"Jack-O"
   hex:"#fb9902"
 -
   name:"Jackpot"
@@ -4574,6 +4613,9 @@
   name:"Lagoon"
   hex:"#4d9e9a"
 -
+  name:"Laguna"
+  hex:"#36a5c9"
+-
   name:"Lake Lucerne"
   hex:"#689db7"
 -
@@ -4729,6 +4771,12 @@
 -
   name:"Light Brown"
   hex:"#b5651d"
+-
+  name:"Light Green"
+  hex:"#76ff7b"
+-
+  name:"Light Grey"
+  hex:"#d8dcd6"
 -
   name:"Light Lilac"
   hex:"#dcc6d2"
@@ -5221,6 +5269,9 @@
 -
   name:"Maritime"
   hex:"#bdcfea"
+-
+  name:"Maritime Outpost"
+  hex:"#1e4581"
 -
   name:"Maroon"
   hex:"#800000"
@@ -6308,6 +6359,9 @@
   name:"Overgrown Citadel"
   hex:"#888844"
 -
+  name:"Overgrown Mausoleum"
+  hex:"#448833"
+-
   name:"Overgrown Temple"
   hex:"#116611"
 -
@@ -6404,6 +6458,9 @@
   name:"Paris Paving"
   hex:"#737274"
 -
+  name:"Parisian Patina"
+  hex:"#7d9b89"
+-
   name:"Parmesan"
   hex:"#ffffdd"
 -
@@ -6485,6 +6542,9 @@
   name:"Pastry"
   hex:"#f8deb8"
 -
+  name:"Patina"
+  hex:"#639283"
+-
   name:"PCB Green"
   hex:"#002d04"
 -
@@ -6559,6 +6619,9 @@
 -
   name:"Pearl White"
   hex:"#f3f2ed"
+-
+  name:"Pearly Pink"
+  hex:"#ee99cc"
 -
   name:"Peas Please"
   hex:"#8c7f3c"
@@ -7121,6 +7184,9 @@
   name:"Promenade"
   hex:"#f8f6df"
 -
+  name:"Promiscuous Pink"
+  hex:"#bb11ee"
+-
   name:"Prosciutto"
   hex:"#e0b4a4"
 -
@@ -7267,6 +7333,9 @@
 -
   name:"Rainforest"
   hex:"#009a70"
+-
+  name:"Rainy Mood"
+  hex:"#4499aa"
 -
   name:"Rajah"
   hex:"#fbab60"
@@ -7808,6 +7877,9 @@
   name:"Slice of Heaven"
   hex:"#0022ee"
 -
+  name:"Slightly in Love"
+  hex:"#fce6db"
+-
   name:"Slime Girl"
   hex:"#00bb88"
 -
@@ -7918,6 +7990,9 @@
 -
   name:"Sombrero"
   hex:"#b39c8c"
+-
+  name:"Somewhere in a Fairytale"
+  hex:"#cc99dd"
 -
   name:"Sooty"
   hex:"#141414"
@@ -8375,6 +8450,12 @@
   name:"Treasure Map Waters"
   hex:"#658faa"
 -
+  name:"Treasured Teal"
+  hex:"#52c1b3"
+-
+  name:"Treasured Wilderness"
+  hex:"#006633"
+-
   name:"Treasures"
   hex:"#ba8b36"
 -
@@ -8395,6 +8476,9 @@
 -
   name:"Tropical Freeze"
   hex:"#99ddcc"
+-
+  name:"Tropical Funk"
+  hex:"#55dd00"
 -
   name:"Tropical Rain"
   hex:"#447777"
