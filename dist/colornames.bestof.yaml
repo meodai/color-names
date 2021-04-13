@@ -98,6 +98,9 @@
   name:"Ambrosia"
   hex:"#d2e7ca"
 -
+  name:"Amnesiac White"
+  hex:"#f8fbeb"
+-
   name:"Amor"
   hex:"#ee3377"
 -
@@ -187,6 +190,9 @@
 -
   name:"Ariel"
   hex:"#aed7ea"
+-
+  name:"Aristocratic Velvet"
+  hex:"#980b4a"
 -
   name:"Armadillo"
   hex:"#484a46"
@@ -341,6 +347,15 @@
   name:"Banana Brick"
   hex:"#e8d82c"
 -
+  name:"Banana Cream"
+  hex:"#fff49c"
+-
+  name:"Banana King"
+  hex:"#fffb08"
+-
+  name:"Banana Milk"
+  hex:"#fff7ad"
+-
   name:"Banana Pepper"
   hex:"#fdd630"
 -
@@ -458,6 +473,9 @@
   name:"Bellini"
   hex:"#f4c9b1"
 -
+  name:"Beloved Sunflower"
+  hex:"#ffba24"
+-
   name:"Below Zero"
   hex:"#87cded"
 -
@@ -553,6 +571,9 @@
 -
   name:"Bitter Liquorice"
   hex:"#262926"
+-
+  name:"Bitter Melon"
+  hex:"#cfd1b2"
 -
   name:"Bittersweet"
   hex:"#fea051"
@@ -676,6 +697,9 @@
 -
   name:"Blossom"
   hex:"#fee9d8"
+-
+  name:"Blossoming Dynasty"
+  hex:"#de5346"
 -
   name:"Blue"
   hex:"#0000ff"
@@ -985,6 +1009,9 @@
 -
   name:"Butter Up"
   hex:"#f4e0bb"
+-
+  name:"Buttermelon"
+  hex:"#fff7db"
 -
   name:"Buttermilk"
   hex:"#fffee4"
@@ -1781,6 +1808,9 @@
   name:"Creamy Apricot"
   hex:"#ffe8bd"
 -
+  name:"Creamy Cloud Dreams"
+  hex:"#fff5e0"
+-
   name:"Creamy Ivory"
   hex:"#eeddaa"
 -
@@ -1822,6 +1852,9 @@
 -
   name:"Crumbling Statue"
   hex:"#cabfb4"
+-
+  name:"Crunchy Carrot"
+  hex:"#ea5013"
 -
   name:"Crusade King"
   hex:"#dbc364"
@@ -2242,6 +2275,9 @@
 -
   name:"Dreamless Sleep"
   hex:"#111111"
+-
+  name:"Dreamy Candy Forest"
+  hex:"#b195e4"
 -
   name:"Dried Tomatoes"
   hex:"#ab6057"
@@ -2801,6 +2837,9 @@
   name:"Flattered Flamingo"
   hex:"#ee6655"
 -
+  name:"Fleur de Sel Caramel"
+  hex:"#da8704"
+-
   name:"Fleur-De-Lis"
   hex:"#b090c7"
 -
@@ -3164,6 +3203,9 @@
   name:"Gecko"
   hex:"#9d913c"
 -
+  name:"Gecko's Dream"
+  hex:"#669900"
+-
   name:"Gédéon Brown"
   hex:"#7f5f00"
 -
@@ -3416,6 +3458,9 @@
   name:"Grain of Salt"
   hex:"#d8dbe1"
 -
+  name:"Gramps Shoehorn"
+  hex:"#a3896c"
+-
   name:"Grand Bleu"
   hex:"#015482"
 -
@@ -3424,6 +3469,9 @@
 -
   name:"Grandma's Cameo"
   hex:"#f7e7dd"
+-
+  name:"Grandma's Pink Tiles"
+  hex:"#e0b8c0"
 -
   name:"Granite"
   hex:"#746a5e"
@@ -3688,6 +3736,9 @@
 -
   name:"Hatoba Pigeon"
   hex:"#95859c"
+-
+  name:"Haunted Candelabra"
+  hex:"#57446a"
 -
   name:"Haunted Hills"
   hex:"#003311"
@@ -4097,6 +4148,9 @@
   name:"Hyper Light Drifter"
   hex:"#eddbda"
 -
+  name:"I Love You Pink"
+  hex:"#d97d8f"
+-
   name:"Ibis"
   hex:"#f4b3c2"
 -
@@ -4231,6 +4285,9 @@
 -
   name:"Inkjet"
   hex:"#44556b"
+-
+  name:"Innocent Snowdrop"
+  hex:"#d0c7ff"
 -
   name:"Instant Noodles"
   hex:"#f4d493"
@@ -4543,6 +4600,12 @@
 -
   name:"Kissed by Mist"
   hex:"#fcccf5"
+-
+  name:"Kisses"
+  hex:"#ff66bb"
+-
+  name:"Kisses and Hugs"
+  hex:"#ff6677"
 -
   name:"Kitten's Paw"
   hex:"#daa89b"
@@ -6683,6 +6746,9 @@
   name:"Perrywinkle"
   hex:"#8f8ce7"
 -
+  name:"Persian Luxury Purple"
+  hex:"#990077"
+-
   name:"Persian Red"
   hex:"#cc3333"
 -
@@ -6694,6 +6760,9 @@
 -
   name:"Peru"
   hex:"#cd853f"
+-
+  name:"Pestering Pesto"
+  hex:"#119922"
 -
   name:"Pesto"
   hex:"#c1b23e"
@@ -7205,6 +7274,9 @@
   name:"Puma"
   hex:"#96711c"
 -
+  name:"Pumping Spice"
+  hex:"#f7504a"
+-
   name:"Pumpkin"
   hex:"#ff7518"
 -
@@ -7688,6 +7760,9 @@
   name:"Sea Paint"
   hex:"#00507a"
 -
+  name:"Sea Salt Rivers"
+  hex:"#5087bd"
+-
   name:"Sea Serpent"
   hex:"#4bc7cf"
 -
@@ -7978,6 +8053,9 @@
 -
   name:"Soft Cashmere"
   hex:"#efb6d8"
+-
+  name:"Soft Pillow"
+  hex:"#fff5e7"
 -
   name:"Solar"
   hex:"#fbeab8"
@@ -8387,6 +8465,9 @@
   name:"Toast and Butter"
   hex:"#d2ad84"
 -
+  name:"Toasted Marshmallow Fluff"
+  hex:"#fff9eb"
+-
   name:"Tobacco Leaf"
   hex:"#8c724f"
 -
@@ -8599,6 +8680,9 @@
 -
   name:"Vanilla Blush"
   hex:"#fcede4"
+-
+  name:"Vanilla Drop"
+  hex:"#ffffeb"
 -
   name:"Vanilla Ice"
   hex:"#fdf2d1"

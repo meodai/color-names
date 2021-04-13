@@ -32,6 +32,7 @@ Amaretto Sour,#c09856
 Amazon,#387b54
 Amber,#ffbf00
 Ambrosia,#d2e7ca
+Amnesiac White,#f8fbeb
 Amor,#ee3377
 Amora Purple,#bb22aa
 Amore,#ae2f48
@@ -62,6 +63,7 @@ Arctic Water,#00fcfc
 Argan Oil,#8b593e
 Argent,#888888
 Ariel,#aed7ea
+Aristocratic Velvet,#980b4a
 Armadillo,#484a46
 Armor,#74857f
 Arrowwood,#bc8d1f
@@ -113,6 +115,9 @@ Banana,#fffc79
 Banana Bandanna,#f8f739
 Banana Bread,#ffcf73
 Banana Brick,#e8d82c
+Banana Cream,#fff49c
+Banana King,#fffb08
+Banana Milk,#fff7ad
 Banana Pepper,#fdd630
 Banana Propaganda,#f3db00
 Bangalore,#bbaa88
@@ -152,6 +157,7 @@ Belgian Waffle,#f3dfb6
 Belladonna,#220011
 Bellflower,#5d66aa
 Bellini,#f4c9b1
+Beloved Sunflower,#ffba24
 Below Zero,#87cded
 Beluga,#eff2f1
 Benevolent Pink,#dd1188
@@ -184,6 +190,7 @@ Bison,#6e4f3a
 Bisque,#ffe4c4
 Bitter Lemon,#d2db32
 Bitter Liquorice,#262926
+Bitter Melon,#cfd1b2
 Bittersweet,#fea051
 Black,#000000
 Black Chocolate,#441100
@@ -225,6 +232,7 @@ Bloodthirsty,#880011
 Bloodthirsty Beige,#f8d7d0
 Bloody Salmon,#cc4433
 Blossom,#fee9d8
+Blossoming Dynasty,#de5346
 Blue,#0000ff
 Blue Bay,#619ad6
 Blue Bell,#93b4d7
@@ -328,6 +336,7 @@ Burrito,#eed7c1
 Busty Blue,#3300cc
 Butter,#ffff81
 Butter Up,#f4e0bb
+Buttermelon,#fff7db
 Buttermilk,#fffee4
 Butternut,#ffa177
 Butternut Squash,#fc7604
@@ -593,6 +602,7 @@ Cream Puff,#ffbb99
 Creamed Caramel,#b79c94
 Creamy,#efe8db
 Creamy Apricot,#ffe8bd
+Creamy Cloud Dreams,#fff5e0
 Creamy Ivory,#eeddaa
 Creamy Mint,#aaffaa
 Creamy Peach,#f4a384
@@ -607,6 +617,7 @@ Crown Jewel,#482d54
 Crown of Thorns,#763c33
 Crude Banana,#21c40e
 Crumbling Statue,#cabfb4
+Crunchy Carrot,#ea5013
 Crusade King,#dbc364
 Crushed Ice,#c4fff7
 Cryo Freeze,#ddece0
@@ -747,6 +758,7 @@ Drama Queen,#a37298
 Dream Setting,#ff77bb
 Dream Vapor,#cc99ee
 Dreamless Sleep,#111111
+Dreamy Candy Forest,#b195e4
 Dried Tomatoes,#ab6057
 Driftwood,#a67a45
 Dripping Wisteria,#bb99bb
@@ -933,6 +945,7 @@ Flan,#f6e3b4
 Flash in the Pan,#ff9977
 Flashlight,#f9eed6
 Flattered Flamingo,#ee6655
+Fleur de Sel Caramel,#da8704
 Fleur-De-Lis,#b090c7
 Flickering Firefly,#f8f6e6
 Flickering Light,#fff1dc
@@ -1054,6 +1067,7 @@ Garlic Toast,#dddd88
 Gatsby Glitter,#eed683
 Gazelle,#947e68
 Gecko,#9d913c
+Gecko's Dream,#669900
 Gédéon Brown,#7f5f00
 Genie,#3e4364
 Gentian Blue,#312297
@@ -1138,9 +1152,11 @@ Gothic,#698890
 Gothic Gold,#bb852f
 Gourmet Honey,#e3cba8
 Grain of Salt,#d8dbe1
+Gramps Shoehorn,#a3896c
 Grand Bleu,#015482
 Grand Sunset,#c38d87
 Grandma's Cameo,#f7e7dd
+Grandma's Pink Tiles,#e0b8c0
 Granite,#746a5e
 Granola,#f5ce9f
 Grape,#6c3461
@@ -1229,6 +1245,7 @@ Harvest at Dusk,#cb862c
 Harvest Gold,#eab76a
 Harvest Time,#cf875f
 Hatoba Pigeon,#95859c
+Haunted Candelabra,#57446a
 Haunted Hills,#003311
 Haute Couture,#a0252a
 Havana,#3b2b2c
@@ -1365,6 +1382,7 @@ Hurricane,#8b7e77
 Hydra,#006995
 Hydro,#426972
 Hyper Light Drifter,#eddbda
+I Love You Pink,#d97d8f
 Ibis,#f4b3c2
 Ice,#d6fffa
 Ice Climber,#25e2cd
@@ -1410,6 +1428,7 @@ Infra Red,#fe486c
 Infusion,#c8d0ca
 Ink Black,#252024
 Inkjet,#44556b
+Innocent Snowdrop,#d0c7ff
 Instant Noodles,#f4d493
 Intense Passion,#df3163
 Intergalactic,#4d516c
@@ -1514,6 +1533,8 @@ Kiss,#d28ca7
 Kiss A Frog,#bec187
 Kissable,#fd8f79
 Kissed by Mist,#fcccf5
+Kisses,#ff66bb
+Kisses and Hugs,#ff6677
 Kitten's Paw,#daa89b
 Kiwi,#7aab55
 Kiwi Kiss,#eef9c1
@@ -2227,10 +2248,12 @@ Peri Peri,#c62d2c
 Periwinkle,#8e82fe
 Permafrost,#98eff9
 Perrywinkle,#8f8ce7
+Persian Luxury Purple,#990077
 Persian Red,#cc3333
 Persicus,#ffb49b
 Persimmon,#e59b34
 Peru,#cd853f
+Pestering Pesto,#119922
 Pesto,#c1b23e
 Pesto Alla Genovese,#558800
 Pesto di Pistacchio,#a7c437
@@ -2401,6 +2424,7 @@ Prune,#701c11
 Pucker Up,#ff1177
 Pulp,#e18289
 Puma,#96711c
+Pumping Spice,#f7504a
 Pumpkin,#ff7518
 Pumpkin Cat,#eb7b07
 Pumpkin Pie,#e99e56
@@ -2562,6 +2586,7 @@ Sea Glass Teal,#a0e5d9
 Sea Goddess,#216987
 Sea Lion,#7f8793
 Sea Paint,#00507a
+Sea Salt Rivers,#5087bd
 Sea Serpent,#4bc7cf
 Sea Serpent's Tears,#5511cc
 Seashell,#fff5ee
@@ -2659,6 +2684,7 @@ Soda Pop,#c3c67e
 Soft Blush,#e3bcbc
 Soft Boiled,#ffb737
 Soft Cashmere,#efb6d8
+Soft Pillow,#fff5e7
 Solar,#fbeab8
 Solar Ash,#cc6622
 Solar Power,#f4bf3a
@@ -2795,6 +2821,7 @@ Toad,#748d70
 Toad King,#3d6c54
 Toadstool,#b8282f
 Toast and Butter,#d2ad84
+Toasted Marshmallow Fluff,#fff9eb
 Tobacco Leaf,#8c724f
 Toffee,#755139
 Tofu,#e8e3d9
@@ -2866,6 +2893,7 @@ Vampire State Building,#cc1100
 Vampiric Bloodlust,#cc0066
 Vanilla,#f3e5ab
 Vanilla Blush,#fcede4
+Vanilla Drop,#ffffeb
 Vanilla Ice,#fdf2d1
 Vanishing Point,#ddeedd
 Vapor,#f0ffff
