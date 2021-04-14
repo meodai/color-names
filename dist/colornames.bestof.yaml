@@ -362,6 +362,9 @@
   name:"Banana Propaganda"
   hex:"#f3db00"
 -
+  name:"Banana Split"
+  hex:"#f7eec8"
+-
   name:"Bangalore"
   hex:"#bbaa88"
 -
@@ -809,6 +812,9 @@
   name:"Bonfire"
   hex:"#f78058"
 -
+  name:"Bonne Nuit"
+  hex:"#3a4866"
+-
   name:"Bonsai Garden"
   hex:"#9e9e7c"
 -
@@ -941,6 +947,9 @@
   name:"Brutal Pink"
   hex:"#ff00bb"
 -
+  name:"Bubbelgum Heart"
+  hex:"#ffbadf"
+-
   name:"Bubble Gum"
   hex:"#ff85ff"
 -
@@ -988,6 +997,9 @@
 -
   name:"Burning Flame"
   hex:"#ffb162"
+-
+  name:"Burning Raspberry"
+  hex:"#ff0599"
 -
   name:"Burning Trail"
   hex:"#ee9922"
@@ -1550,6 +1562,9 @@
   name:"Cloak and Dagger"
   hex:"#550055"
 -
+  name:"Cloak Grey"
+  hex:"#605e63"
+-
   name:"Clotted Cream"
   hex:"#f3efcd"
 -
@@ -1961,6 +1976,9 @@
   name:"Dark Blue"
   hex:"#305679"
 -
+  name:"Dark Charcoal"
+  hex:"#333232"
+-
   name:"Dark Crypt"
   hex:"#3f4551"
 -
@@ -2047,6 +2065,9 @@
 -
   name:"Deadly Depths"
   hex:"#111144"
+-
+  name:"Deadly Yellow"
+  hex:"#dead00"
 -
   name:"Death of a Star"
   hex:"#e760d2"
@@ -2522,6 +2543,9 @@
   name:"Epink"
   hex:"#dd33ff"
 -
+  name:"Equanimity"
+  hex:"#83a9b3"
+-
   name:"Errigal White"
   hex:"#f2f2f4"
 -
@@ -2716,6 +2740,9 @@
 -
   name:"Feverish"
   hex:"#dd6677"
+-
+  name:"Fibonacci Blue"
+  hex:"#112358"
 -
   name:"Ficus"
   hex:"#3b593a"
@@ -2960,6 +2987,9 @@
   name:"Forgotten Mosque"
   hex:"#e2d9db"
 -
+  name:"Forgotten Sandstone"
+  hex:"#afa696"
+-
   name:"Fortune Cookie"
   hex:"#e0c5a1"
 -
@@ -3197,8 +3227,14 @@
   name:"Garlic Toast"
   hex:"#dddd88"
 -
+  name:"Gateway Grey"
+  hex:"#a0a09c"
+-
   name:"Gatsby Glitter"
   hex:"#eed683"
+-
+  name:"Gauntlet Grey"
+  hex:"#78736e"
 -
   name:"Gazelle"
   hex:"#947e68"
@@ -3604,6 +3640,12 @@
 -
   name:"Grey Marble"
   hex:"#b9b4b1"
+-
+  name:"Grey Sheep"
+  hex:"#baaaaa"
+-
+  name:"Grey Web"
+  hex:"#616669"
 -
   name:"Greystone"
   hex:"#b7b9b5"
@@ -4271,6 +4313,9 @@
   name:"Indochine"
   hex:"#9c5b34"
 -
+  name:"Inferno Orange"
+  hex:"#ff4400"
+-
   name:"Infinity"
   hex:"#222831"
 -
@@ -4580,6 +4625,9 @@
   name:"King Triton"
   hex:"#3c85be"
 -
+  name:"Kingly Cloud"
+  hex:"#dedede"
+-
   name:"Kings Yellow"
   hex:"#ead665"
 -
@@ -4795,6 +4843,9 @@
 -
   name:"Lemon Grass"
   hex:"#999a86"
+-
+  name:"Lemon Meringue"
+  hex:"#f6e199"
 -
   name:"Lemon Tart"
   hex:"#ffdd66"
@@ -5201,6 +5252,9 @@
   name:"Magnet"
   hex:"#4d4b4f"
 -
+  name:"Magnetic"
+  hex:"#b2b5af"
+-
   name:"Magnetos"
   hex:"#bf3cff"
 -
@@ -5291,6 +5345,9 @@
   name:"Mango Cheesecake"
   hex:"#fbedda"
 -
+  name:"Mango Latte"
+  hex:"#ffbb4d"
+-
   name:"Mango Madness"
   hex:"#fd8c23"
 -
@@ -5371,6 +5428,9 @@
 -
   name:"Master Key"
   hex:"#ddcc88"
+-
+  name:"Master Nacho"
+  hex:"#ffb81b"
 -
   name:"Master Sword Blue"
   hex:"#00ffee"
@@ -6644,6 +6704,9 @@
   name:"Peach Puff"
   hex:"#ffdab9"
 -
+  name:"Peach Scone"
+  hex:"#ffbcbc"
+-
   name:"Peach's Daydream"
   hex:"#fd9b88"
 -
@@ -7091,6 +7154,9 @@
   name:"Polar Bear"
   hex:"#eae9e0"
 -
+  name:"Polar Bear In A Blizzard"
+  hex:"#fcffff"
+-
   name:"Polar Expedition"
   hex:"#c9e7e3"
 -
@@ -7300,6 +7366,9 @@
 -
   name:"Pure Passion"
   hex:"#b40039"
+-
+  name:"Pure Sunshine"
+  hex:"#ffee15"
 -
   name:"Purple"
   hex:"#800080"
@@ -7799,6 +7868,9 @@
   name:"Sereni Teal"
   hex:"#76baa8"
 -
+  name:"Serious Cloud"
+  hex:"#7d848b"
+-
   name:"Serrano Pepper"
   hex:"#556600"
 -
@@ -8117,6 +8189,9 @@
   name:"Sparkling Cider"
   hex:"#fffdeb"
 -
+  name:"Sparky Blue"
+  hex:"#22eeff"
+-
   name:"Spearmint"
   hex:"#64bfa4"
 -
@@ -8183,8 +8258,14 @@
   name:"Steamy Dumpling"
   hex:"#eae9b4"
 -
+  name:"Steely Grey"
+  hex:"#90979b"
+-
   name:"Stellar"
   hex:"#46647e"
+-
+  name:"Stereotypical Duck"
+  hex:"#fff5cf"
 -
   name:"Still Water"
   hex:"#4a5d5f"
@@ -8222,6 +8303,9 @@
   name:"Strawberry Blonde"
   hex:"#ffdadc"
 -
+  name:"Strawberry Bonbon"
+  hex:"#ffebfa"
+-
   name:"Strawberry Dreams"
   hex:"#ff88aa"
 -
@@ -8242,6 +8326,9 @@
 -
   name:"Sugar Chic"
   hex:"#ffccff"
+-
+  name:"Sugar Coated"
+  hex:"#ffedf1"
 -
   name:"Sugar Cookie"
   hex:"#f2e2a4"
@@ -8287,6 +8374,9 @@
 -
   name:"Sunflower"
   hex:"#ffc512"
+-
+  name:"Sunflower Island"
+  hex:"#ffcd01"
 -
   name:"Sunken Gold"
   hex:"#b29700"
@@ -8399,6 +8489,9 @@
   name:"Teal"
   hex:"#008080"
 -
+  name:"Techno Taupe"
+  hex:"#bfb9aa"
+-
   name:"Telemagenta"
   hex:"#aa22cc"
 -
@@ -8419,6 +8512,9 @@
 -
   name:"Thai Hot"
   hex:"#fe1c06"
+-
+  name:"The Devil's Grass"
+  hex:"#666420"
 -
   name:"The End"
   hex:"#2a2a2a"
@@ -8525,6 +8621,9 @@
   name:"Transfusion"
   hex:"#ea1833"
 -
+  name:"Translucent Unicorn"
+  hex:"#ffedef"
+-
   name:"Trapped Darkness"
   hex:"#0e1d32"
 -
@@ -8618,7 +8717,7 @@
   name:"Twinkly Pinkily"
   hex:"#cf4796"
 -
-  name:"Ultimate Gray"
+  name:"Ultimate Grey"
   hex:"#a9a8a9"
 -
   name:"Ultra Green"
@@ -8653,6 +8752,9 @@
 -
   name:"Valkyrie"
   hex:"#eecc22"
+-
+  name:"Valley of Tears"
+  hex:"#d1e1e4"
 -
   name:"Vampire Bite"
   hex:"#c40233"

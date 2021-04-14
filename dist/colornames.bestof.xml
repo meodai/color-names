@@ -485,6 +485,10 @@
 <hex>#f3db00</hex>
 </color>
 <color>
+<name>Banana Split</name>
+<hex>#f7eec8</hex>
+</color>
+<color>
 <name>Bangalore</name>
 <hex>#bbaa88</hex>
 </color>
@@ -1081,6 +1085,10 @@
 <hex>#f78058</hex>
 </color>
 <color>
+<name>Bonne Nuit</name>
+<hex>#3a4866</hex>
+</color>
+<color>
 <name>Bonsai Garden</name>
 <hex>#9e9e7c</hex>
 </color>
@@ -1257,6 +1265,10 @@
 <hex>#ff00bb</hex>
 </color>
 <color>
+<name>Bubbelgum Heart</name>
+<hex>#ffbadf</hex>
+</color>
+<color>
 <name>Bubble Gum</name>
 <hex>#ff85ff</hex>
 </color>
@@ -1319,6 +1331,10 @@
 <color>
 <name>Burning Flame</name>
 <hex>#ffb162</hex>
+</color>
+<color>
+<name>Burning Raspberry</name>
+<hex>#ff0599</hex>
 </color>
 <color>
 <name>Burning Trail</name>
@@ -2069,6 +2085,10 @@
 <hex>#550055</hex>
 </color>
 <color>
+<name>Cloak Grey</name>
+<hex>#605e63</hex>
+</color>
+<color>
 <name>Clotted Cream</name>
 <hex>#f3efcd</hex>
 </color>
@@ -2617,6 +2637,10 @@
 <hex>#305679</hex>
 </color>
 <color>
+<name>Dark Charcoal</name>
+<hex>#333232</hex>
+</color>
+<color>
 <name>Dark Crypt</name>
 <hex>#3f4551</hex>
 </color>
@@ -2731,6 +2755,10 @@
 <color>
 <name>Deadly Depths</name>
 <hex>#111144</hex>
+</color>
+<color>
+<name>Deadly Yellow</name>
+<hex>#dead00</hex>
 </color>
 <color>
 <name>Death of a Star</name>
@@ -3365,6 +3393,10 @@
 <hex>#dd33ff</hex>
 </color>
 <color>
+<name>Equanimity</name>
+<hex>#83a9b3</hex>
+</color>
+<color>
 <name>Errigal White</name>
 <hex>#f2f2f4</hex>
 </color>
@@ -3623,6 +3655,10 @@
 <color>
 <name>Feverish</name>
 <hex>#dd6677</hex>
+</color>
+<color>
+<name>Fibonacci Blue</name>
+<hex>#112358</hex>
 </color>
 <color>
 <name>Ficus</name>
@@ -3949,6 +3985,10 @@
 <hex>#e2d9db</hex>
 </color>
 <color>
+<name>Forgotten Sandstone</name>
+<hex>#afa696</hex>
+</color>
+<color>
 <name>Fortune Cookie</name>
 <hex>#e0c5a1</hex>
 </color>
@@ -4265,8 +4305,16 @@
 <hex>#dddd88</hex>
 </color>
 <color>
+<name>Gateway Grey</name>
+<hex>#a0a09c</hex>
+</color>
+<color>
 <name>Gatsby Glitter</name>
 <hex>#eed683</hex>
+</color>
+<color>
+<name>Gauntlet Grey</name>
+<hex>#78736e</hex>
 </color>
 <color>
 <name>Gazelle</name>
@@ -4807,6 +4855,14 @@
 <color>
 <name>Grey Marble</name>
 <hex>#b9b4b1</hex>
+</color>
+<color>
+<name>Grey Sheep</name>
+<hex>#baaaaa</hex>
+</color>
+<color>
+<name>Grey Web</name>
+<hex>#616669</hex>
 </color>
 <color>
 <name>Greystone</name>
@@ -5697,6 +5753,10 @@
 <hex>#9c5b34</hex>
 </color>
 <color>
+<name>Inferno Orange</name>
+<hex>#ff4400</hex>
+</color>
+<color>
 <name>Infinity</name>
 <hex>#222831</hex>
 </color>
@@ -6109,6 +6169,10 @@
 <hex>#3c85be</hex>
 </color>
 <color>
+<name>Kingly Cloud</name>
+<hex>#dedede</hex>
+</color>
+<color>
 <name>Kings Yellow</name>
 <hex>#ead665</hex>
 </color>
@@ -6395,6 +6459,10 @@
 <color>
 <name>Lemon Grass</name>
 <hex>#999a86</hex>
+</color>
+<color>
+<name>Lemon Meringue</name>
+<hex>#f6e199</hex>
 </color>
 <color>
 <name>Lemon Tart</name>
@@ -6937,6 +7005,10 @@
 <hex>#4d4b4f</hex>
 </color>
 <color>
+<name>Magnetic</name>
+<hex>#b2b5af</hex>
+</color>
+<color>
 <name>Magnetos</name>
 <hex>#bf3cff</hex>
 </color>
@@ -7057,6 +7129,10 @@
 <hex>#fbedda</hex>
 </color>
 <color>
+<name>Mango Latte</name>
+<hex>#ffbb4d</hex>
+</color>
+<color>
 <name>Mango Madness</name>
 <hex>#fd8c23</hex>
 </color>
@@ -7163,6 +7239,10 @@
 <color>
 <name>Master Key</name>
 <hex>#ddcc88</hex>
+</color>
+<color>
+<name>Master Nacho</name>
+<hex>#ffb81b</hex>
 </color>
 <color>
 <name>Master Sword Blue</name>
@@ -8861,6 +8941,10 @@
 <hex>#ffdab9</hex>
 </color>
 <color>
+<name>Peach Scone</name>
+<hex>#ffbcbc</hex>
+</color>
+<color>
 <name>Peach's Daydream</name>
 <hex>#fd9b88</hex>
 </color>
@@ -9457,6 +9541,10 @@
 <hex>#eae9e0</hex>
 </color>
 <color>
+<name>Polar Bear In A Blizzard</name>
+<hex>#fcffff</hex>
+</color>
+<color>
 <name>Polar Expedition</name>
 <hex>#c9e7e3</hex>
 </color>
@@ -9735,6 +9823,10 @@
 <color>
 <name>Pure Passion</name>
 <hex>#b40039</hex>
+</color>
+<color>
+<name>Pure Sunshine</name>
+<hex>#ffee15</hex>
 </color>
 <color>
 <name>Purple</name>
@@ -10401,6 +10493,10 @@
 <hex>#76baa8</hex>
 </color>
 <color>
+<name>Serious Cloud</name>
+<hex>#7d848b</hex>
+</color>
+<color>
 <name>Serrano Pepper</name>
 <hex>#556600</hex>
 </color>
@@ -10825,6 +10921,10 @@
 <hex>#fffdeb</hex>
 </color>
 <color>
+<name>Sparky Blue</name>
+<hex>#22eeff</hex>
+</color>
+<color>
 <name>Spearmint</name>
 <hex>#64bfa4</hex>
 </color>
@@ -10913,8 +11013,16 @@
 <hex>#eae9b4</hex>
 </color>
 <color>
+<name>Steely Grey</name>
+<hex>#90979b</hex>
+</color>
+<color>
 <name>Stellar</name>
 <hex>#46647e</hex>
+</color>
+<color>
+<name>Stereotypical Duck</name>
+<hex>#fff5cf</hex>
 </color>
 <color>
 <name>Still Water</name>
@@ -10965,6 +11073,10 @@
 <hex>#ffdadc</hex>
 </color>
 <color>
+<name>Strawberry Bonbon</name>
+<hex>#ffebfa</hex>
+</color>
+<color>
 <name>Strawberry Dreams</name>
 <hex>#ff88aa</hex>
 </color>
@@ -10991,6 +11103,10 @@
 <color>
 <name>Sugar Chic</name>
 <hex>#ffccff</hex>
+</color>
+<color>
+<name>Sugar Coated</name>
+<hex>#ffedf1</hex>
 </color>
 <color>
 <name>Sugar Cookie</name>
@@ -11051,6 +11167,10 @@
 <color>
 <name>Sunflower</name>
 <hex>#ffc512</hex>
+</color>
+<color>
+<name>Sunflower Island</name>
+<hex>#ffcd01</hex>
 </color>
 <color>
 <name>Sunken Gold</name>
@@ -11201,6 +11321,10 @@
 <hex>#008080</hex>
 </color>
 <color>
+<name>Techno Taupe</name>
+<hex>#bfb9aa</hex>
+</color>
+<color>
 <name>Telemagenta</name>
 <hex>#aa22cc</hex>
 </color>
@@ -11227,6 +11351,10 @@
 <color>
 <name>Thai Hot</name>
 <hex>#fe1c06</hex>
+</color>
+<color>
+<name>The Devil's Grass</name>
+<hex>#666420</hex>
 </color>
 <color>
 <name>The End</name>
@@ -11369,6 +11497,10 @@
 <hex>#ea1833</hex>
 </color>
 <color>
+<name>Translucent Unicorn</name>
+<hex>#ffedef</hex>
+</color>
+<color>
 <name>Trapped Darkness</name>
 <hex>#0e1d32</hex>
 </color>
@@ -11493,7 +11625,7 @@
 <hex>#cf4796</hex>
 </color>
 <color>
-<name>Ultimate Gray</name>
+<name>Ultimate Grey</name>
 <hex>#a9a8a9</hex>
 </color>
 <color>
@@ -11539,6 +11671,10 @@
 <color>
 <name>Valkyrie</name>
 <hex>#eecc22</hex>
+</color>
+<color>
+<name>Valley of Tears</name>
+<hex>#d1e1e4</hex>
 </color>
 <color>
 <name>Vampire Bite</name>
