@@ -77,6 +77,10 @@
 <hex>#0cff0c</hex>
 </color>
 <color>
+<name>Alienated</name>
+<hex>#00cc55</hex>
+</color>
+<color>
 <name>Alley Cat</name>
 <hex>#656874</hex>
 </color>
@@ -489,6 +493,10 @@
 <hex>#fffb08</hex>
 </color>
 <color>
+<name>Banana Mania</name>
+<hex>#fbe7b2</hex>
+</color>
+<color>
 <name>Banana Milk</name>
 <hex>#fff7ad</hex>
 </color>
@@ -899,6 +907,10 @@
 <color>
 <name>Bleached Sunflower</name>
 <hex>#fbe8a8</hex>
+</color>
+<color>
+<name>Bleeding Crimson</name>
+<hex>#9b1414</hex>
 </color>
 <color>
 <name>Bleeding Heart</name>
@@ -1315,6 +1327,10 @@
 <color>
 <name>Bubblegum Baby Girl</name>
 <hex>#cc55ee</hex>
+</color>
+<color>
+<name>Bubblegum Crisis</name>
+<hex>#eeccee</hex>
 </color>
 <color>
 <name>Bubblegum Kisses</name>
@@ -2117,6 +2133,10 @@
 <hex>#d26911</hex>
 </color>
 <color>
+<name>Cinnapink</name>
+<hex>#a6646f</hex>
+</color>
+<color>
 <name>Citadel</name>
 <hex>#748995</hex>
 </color>
@@ -2669,6 +2689,10 @@
 <hex>#0ff0fe</hex>
 </color>
 <color>
+<name>Cyber Neon Green</name>
+<hex>#00ff26</hex>
+</color>
+<color>
 <name>Cyber Yellow</name>
 <hex>#ffd400</hex>
 </color>
@@ -2819,6 +2843,10 @@
 <color>
 <name>Darkest Dungeon</name>
 <hex>#660011</hex>
+</color>
+<color>
+<name>Darkest Forest</name>
+<hex>#223311</hex>
 </color>
 <color>
 <name>Darth Vader</name>
@@ -3401,6 +3429,10 @@
 <hex>#fffc00</hex>
 </color>
 <color>
+<name>Elegant Purple Gown</name>
+<hex>#552367</hex>
+</color>
+<color>
 <name>Elephant in the Room</name>
 <hex>#a8a9a8</hex>
 </color>
@@ -3609,6 +3641,10 @@
 <hex>#cc11bb</hex>
 </color>
 <color>
+<name>Extra Fuchsia</name>
+<hex>#ef347c</hex>
+</color>
+<color>
 <name>Extra Life</name>
 <hex>#6ab417</hex>
 </color>
@@ -3661,6 +3697,10 @@
 <hex>#f2c1d1</hex>
 </color>
 <color>
+<name>Fairy Tale Green</name>
+<hex>#88cc55</hex>
+</color>
+<color>
 <name>Fake Jade</name>
 <hex>#13eac9</hex>
 </color>
@@ -3683,6 +3723,10 @@
 <color>
 <name>Fancy Fuchsia</name>
 <hex>#ff0088</hex>
+</color>
+<color>
+<name>Fancy Red Wine</name>
+<hex>#b40441</hex>
 </color>
 <color>
 <name>Fandango</name>
@@ -4965,6 +5009,10 @@
 <hex>#22ff00</hex>
 </color>
 <color>
+<name>Green Symphony</name>
+<hex>#66aa22</hex>
+</color>
+<color>
 <name>Green Tea</name>
 <hex>#b5b68f</hex>
 </color>
@@ -5163,6 +5211,10 @@
 <color>
 <name>Happy Piglets</name>
 <hex>#f6cbca</hex>
+</color>
+<color>
+<name>Happy Skeleton</name>
+<hex>#faeed7</hex>
 </color>
 <color>
 <name>Harbor Mist</name>
@@ -6889,6 +6941,10 @@
 <hex>#bb240c</hex>
 </color>
 <color>
+<name>Local Curry</name>
+<hex>#cb9e34</hex>
+</color>
+<color>
 <name>Loch Ness</name>
 <hex>#5f6db0</hex>
 </color>
@@ -6899,6 +6955,10 @@
 <color>
 <name>Lollipop</name>
 <hex>#cc1c3b</hex>
+</color>
+<color>
+<name>Lone Hunter</name>
+<hex>#94c84c</hex>
 </color>
 <color>
 <name>Lonely Chocolate</name>
@@ -6975,6 +7035,10 @@
 <color>
 <name>Love Priestess</name>
 <hex>#bb55cc</hex>
+</color>
+<color>
+<name>Lovely Little Rosy</name>
+<hex>#e35f66</hex>
 </color>
 <color>
 <name>Lucius Lilac</name>
@@ -7161,6 +7225,10 @@
 <hex>#aa11aa</hex>
 </color>
 <color>
+<name>Magentos</name>
+<hex>#bf3cff</hex>
+</color>
+<color>
 <name>Magic Carpet</name>
 <hex>#9488be</hex>
 </color>
@@ -7179,6 +7247,10 @@
 <color>
 <name>Magical Merlin</name>
 <hex>#3d8ed0</hex>
+</color>
+<color>
+<name>Magical Moonlight</name>
+<hex>#f0eeeb</hex>
 </color>
 <color>
 <name>Magical Stardust</name>
@@ -7203,10 +7275,6 @@
 <color>
 <name>Magnetic</name>
 <hex>#b2b5af</hex>
-</color>
-<color>
-<name>Magnetos</name>
-<hex>#bf3cff</hex>
 </color>
 <color>
 <name>Magnificent Magenta</name>
@@ -8037,6 +8105,10 @@
 <hex>#bde1c4</hex>
 </color>
 <color>
+<name>Mother's Milk</name>
+<hex>#f7edca</hex>
+</color>
+<color>
 <name>Motherland</name>
 <hex>#bcb667</hex>
 </color>
@@ -8861,6 +8933,10 @@
 <hex>#ee2222</hex>
 </color>
 <color>
+<name>Out of the Blue</name>
+<hex>#1199ee</hex>
+</color>
+<color>
 <name>Outback</name>
 <hex>#c9a375</hex>
 </color>
@@ -8909,6 +8985,10 @@
 <hex>#1f595c</hex>
 </color>
 <color>
+<name>Pacific Blue</name>
+<hex>#1ca9c9</hex>
+</color>
+<color>
 <name>Pacific Depths</name>
 <hex>#004488</hex>
 </color>
@@ -8921,8 +9001,20 @@
 <hex>#dcc61f</hex>
 </color>
 <color>
+<name>Paid in Full</name>
+<hex>#8c8e65</hex>
+</color>
+<color>
+<name>Painter's Canvas</name>
+<hex>#f9f2de</hex>
+</color>
+<color>
 <name>Pale Sky</name>
 <hex>#bdf6fe</hex>
+</color>
+<color>
+<name>Pale Whale</name>
+<hex>#b6d3df</hex>
 </color>
 <color>
 <name>Palm</name>
@@ -10337,6 +10429,10 @@
 <hex>#ef7d16</hex>
 </color>
 <color>
+<name>Retro Pink Pop</name>
+<hex>#ff0073</hex>
+</color>
+<color>
 <name>Retro Vibe</name>
 <hex>#cb9711</hex>
 </color>
@@ -10455,6 +10551,10 @@
 <color>
 <name>Rum</name>
 <hex>#716675</hex>
+</color>
+<color>
+<name>Run Lola Run</name>
+<hex>#da2811</hex>
 </color>
 <color>
 <name>Rust</name>
@@ -10937,6 +11037,10 @@
 <hex>#7e7d88</hex>
 </color>
 <color>
+<name>Silverback</name>
+<hex>#cbcbcb</hex>
+</color>
+<color>
 <name>Silverfish</name>
 <hex>#8d95aa</hex>
 </color>
@@ -11409,6 +11513,18 @@
 <hex>#4a7d82</hex>
 </color>
 <color>
+<name>Succubus</name>
+<hex>#990022</hex>
+</color>
+<color>
+<name>Succulent</name>
+<hex>#8ba477</hex>
+</color>
+<color>
+<name>Succulent Lime</name>
+<hex>#dcdd65</hex>
+</color>
+<color>
 <name>Succulents</name>
 <hex>#007744</hex>
 </color>
@@ -11491,6 +11607,10 @@
 <color>
 <name>Sunflower Mango</name>
 <hex>#ffb700</hex>
+</color>
+<color>
+<name>Sunflower Valley</name>
+<hex>#fdbd27</hex>
 </color>
 <color>
 <name>Sunken Gold</name>
@@ -11681,6 +11801,10 @@
 <hex>#fe1c06</hex>
 </color>
 <color>
+<name>Thalassophile</name>
+<hex>#44aadd</hex>
+</color>
+<color>
 <name>The Devil's Grass</name>
 <hex>#666420</hex>
 </color>
@@ -11703,6 +11827,10 @@
 <color>
 <name>Thor's Thunder</name>
 <hex>#44ccff</hex>
+</color>
+<color>
+<name>Threatening Red</name>
+<hex>#c30305</hex>
 </color>
 <color>
 <name>Thunder &amp; Lightning</name>
@@ -11859,6 +11987,10 @@
 <color>
 <name>Treasures</name>
 <hex>#ba8b36</hex>
+</color>
+<color>
+<name>Tree Hugger</name>
+<hex>#79774a</hex>
 </color>
 <color>
 <name>Treetop</name>
@@ -12399,6 +12531,10 @@
 <color>
 <name>Voodoo</name>
 <hex>#443240</hex>
+</color>
+<color>
+<name>Voracious White</name>
+<hex>#feeeed</hex>
 </color>
 <color>
 <name>Vulcan</name>

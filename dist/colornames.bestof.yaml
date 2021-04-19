@@ -56,6 +56,9 @@
   name:"Alien Abduction"
   hex:"#0cff0c"
 -
+  name:"Alienated"
+  hex:"#00cc55"
+-
   name:"Alley Cat"
   hex:"#656874"
 -
@@ -365,6 +368,9 @@
   name:"Banana King"
   hex:"#fffb08"
 -
+  name:"Banana Mania"
+  hex:"#fbe7b2"
+-
   name:"Banana Milk"
   hex:"#fff7ad"
 -
@@ -673,6 +679,9 @@
 -
   name:"Bleached Sunflower"
   hex:"#fbe8a8"
+-
+  name:"Bleeding Crimson"
+  hex:"#9b1414"
 -
   name:"Bleeding Heart"
   hex:"#c02e4c"
@@ -985,6 +994,9 @@
 -
   name:"Bubblegum Baby Girl"
   hex:"#cc55ee"
+-
+  name:"Bubblegum Crisis"
+  hex:"#eeccee"
 -
   name:"Bubblegum Kisses"
   hex:"#f092d6"
@@ -1586,6 +1598,9 @@
   name:"Cinnamon"
   hex:"#d26911"
 -
+  name:"Cinnapink"
+  hex:"#a6646f"
+-
   name:"Citadel"
   hex:"#748995"
 -
@@ -2000,6 +2015,9 @@
   name:"Cyan"
   hex:"#0ff0fe"
 -
+  name:"Cyber Neon Green"
+  hex:"#00ff26"
+-
   name:"Cyber Yellow"
   hex:"#ffd400"
 -
@@ -2113,6 +2131,9 @@
 -
   name:"Darkest Dungeon"
   hex:"#660011"
+-
+  name:"Darkest Forest"
+  hex:"#223311"
 -
   name:"Darth Vader"
   hex:"#0b0b0b"
@@ -2549,6 +2570,9 @@
   name:"Electric Yellow"
   hex:"#fffc00"
 -
+  name:"Elegant Purple Gown"
+  hex:"#552367"
+-
   name:"Elephant in the Room"
   hex:"#a8a9a8"
 -
@@ -2705,6 +2729,9 @@
   name:"Explosive Purple"
   hex:"#cc11bb"
 -
+  name:"Extra Fuchsia"
+  hex:"#ef347c"
+-
   name:"Extra Life"
   hex:"#6ab417"
 -
@@ -2744,6 +2771,9 @@
   name:"Fairy Tale"
   hex:"#f2c1d1"
 -
+  name:"Fairy Tale Green"
+  hex:"#88cc55"
+-
   name:"Fake Jade"
   hex:"#13eac9"
 -
@@ -2761,6 +2791,9 @@
 -
   name:"Fancy Fuchsia"
   hex:"#ff0088"
+-
+  name:"Fancy Red Wine"
+  hex:"#b40441"
 -
   name:"Fandango"
   hex:"#b53389"
@@ -3722,6 +3755,9 @@
   name:"Green Screen"
   hex:"#22ff00"
 -
+  name:"Green Symphony"
+  hex:"#66aa22"
+-
   name:"Green Tea"
   hex:"#b5b68f"
 -
@@ -3871,6 +3907,9 @@
 -
   name:"Happy Piglets"
   hex:"#f6cbca"
+-
+  name:"Happy Skeleton"
+  hex:"#faeed7"
 -
   name:"Harbor Mist"
   hex:"#88aaaa"
@@ -5165,6 +5204,9 @@
   name:"Lobster"
   hex:"#bb240c"
 -
+  name:"Local Curry"
+  hex:"#cb9e34"
+-
   name:"Loch Ness"
   hex:"#5f6db0"
 -
@@ -5173,6 +5215,9 @@
 -
   name:"Lollipop"
   hex:"#cc1c3b"
+-
+  name:"Lone Hunter"
+  hex:"#94c84c"
 -
   name:"Lonely Chocolate"
   hex:"#4a0a00"
@@ -5230,6 +5275,9 @@
 -
   name:"Love Priestess"
   hex:"#bb55cc"
+-
+  name:"Lovely Little Rosy"
+  hex:"#e35f66"
 -
   name:"Lucius Lilac"
   hex:"#baa2ce"
@@ -5369,6 +5417,9 @@
   name:"Magentle"
   hex:"#aa11aa"
 -
+  name:"Magentos"
+  hex:"#bf3cff"
+-
   name:"Magic Carpet"
   hex:"#9488be"
 -
@@ -5383,6 +5434,9 @@
 -
   name:"Magical Merlin"
   hex:"#3d8ed0"
+-
+  name:"Magical Moonlight"
+  hex:"#f0eeeb"
 -
   name:"Magical Stardust"
   hex:"#eaeadb"
@@ -5401,9 +5455,6 @@
 -
   name:"Magnetic"
   hex:"#b2b5af"
--
-  name:"Magnetos"
-  hex:"#bf3cff"
 -
   name:"Magnificent Magenta"
   hex:"#ee22aa"
@@ -6026,6 +6077,9 @@
   name:"Mother Nature"
   hex:"#bde1c4"
 -
+  name:"Mother's Milk"
+  hex:"#f7edca"
+-
   name:"Motherland"
   hex:"#bcb667"
 -
@@ -6644,6 +6698,9 @@
   name:"Ottoman Red"
   hex:"#ee2222"
 -
+  name:"Out of the Blue"
+  hex:"#1199ee"
+-
   name:"Outback"
   hex:"#c9a375"
 -
@@ -6680,6 +6737,9 @@
   name:"Pacific"
   hex:"#1f595c"
 -
+  name:"Pacific Blue"
+  hex:"#1ca9c9"
+-
   name:"Pacific Depths"
   hex:"#004488"
 -
@@ -6689,8 +6749,17 @@
   name:"Paella"
   hex:"#dcc61f"
 -
+  name:"Paid in Full"
+  hex:"#8c8e65"
+-
+  name:"Painter's Canvas"
+  hex:"#f9f2de"
+-
   name:"Pale Sky"
   hex:"#bdf6fe"
+-
+  name:"Pale Whale"
+  hex:"#b6d3df"
 -
   name:"Palm"
   hex:"#afaf5e"
@@ -7751,6 +7820,9 @@
   name:"Retro Nectarine"
   hex:"#ef7d16"
 -
+  name:"Retro Pink Pop"
+  hex:"#ff0073"
+-
   name:"Retro Vibe"
   hex:"#cb9711"
 -
@@ -7840,6 +7912,9 @@
 -
   name:"Rum"
   hex:"#716675"
+-
+  name:"Run Lola Run"
+  hex:"#da2811"
 -
   name:"Rust"
   hex:"#a83c09"
@@ -8201,6 +8276,9 @@
   name:"Silver Surfer"
   hex:"#7e7d88"
 -
+  name:"Silverback"
+  hex:"#cbcbcb"
+-
   name:"Silverfish"
   hex:"#8d95aa"
 -
@@ -8555,6 +8633,15 @@
   name:"Submerged"
   hex:"#4a7d82"
 -
+  name:"Succubus"
+  hex:"#990022"
+-
+  name:"Succulent"
+  hex:"#8ba477"
+-
+  name:"Succulent Lime"
+  hex:"#dcdd65"
+-
   name:"Succulents"
   hex:"#007744"
 -
@@ -8617,6 +8704,9 @@
 -
   name:"Sunflower Mango"
   hex:"#ffb700"
+-
+  name:"Sunflower Valley"
+  hex:"#fdbd27"
 -
   name:"Sunken Gold"
   hex:"#b29700"
@@ -8759,6 +8849,9 @@
   name:"Thai Hot"
   hex:"#fe1c06"
 -
+  name:"Thalassophile"
+  hex:"#44aadd"
+-
   name:"The Devil's Grass"
   hex:"#666420"
 -
@@ -8776,6 +8869,9 @@
 -
   name:"Thor's Thunder"
   hex:"#44ccff"
+-
+  name:"Threatening Red"
+  hex:"#c30305"
 -
   name:"Thunder & Lightning"
   hex:"#f9f5db"
@@ -8893,6 +8989,9 @@
 -
   name:"Treasures"
   hex:"#ba8b36"
+-
+  name:"Tree Hugger"
+  hex:"#79774a"
 -
   name:"Treetop"
   hex:"#91b6ac"
@@ -9298,6 +9397,9 @@
 -
   name:"Voodoo"
   hex:"#443240"
+-
+  name:"Voracious White"
+  hex:"#feeeed"
 -
   name:"Vulcan"
   hex:"#36383c"
