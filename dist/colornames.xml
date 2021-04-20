@@ -2793,6 +2793,10 @@
 <hex>#f3f1e6</hex>
 </color>
 <color>
+<name>Angel's Trumpet</name>
+<hex>#f6dd34</hex>
+</color>
+<color>
 <name>Angel's Whisper</name>
 <hex>#dbdfd4</hex>
 </color>
@@ -13034,7 +13038,7 @@
 </color>
 <color>
 <name>Brass Trumpet</name>
-<hex>#ecae58</hex>
+<hex>#d3b280</hex>
 </color>
 <color>
 <name>Brass Yellow</name>
@@ -14971,6 +14975,10 @@
 <color>
 <name>Burlwood</name>
 <hex>#9b716b</hex>
+</color>
+<color>
+<name>Burlywood</name>
+<hex>#deb887</hex>
 </color>
 <color>
 <name>Burma Jade</name>
@@ -19545,6 +19553,10 @@
 <hex>#c92435</hex>
 </color>
 <color>
+<name>Cherry Soda</name>
+<hex>#ff0044</hex>
+</color>
+<color>
 <name>Cherry Tart</name>
 <hex>#933d3e</hex>
 </color>
@@ -21499,6 +21511,10 @@
 <color>
 <name>Clear Skies</name>
 <hex>#e8f7fd</hex>
+</color>
+<color>
+<name>Clear Sky</name>
+<hex>#8eccfe</hex>
 </color>
 <color>
 <name>Clear Turquoise</name>
@@ -28351,6 +28367,10 @@
 <color>
 <name>Dense Shrub</name>
 <hex>#636d65</hex>
+</color>
+<color>
+<name>Densetsu Green</name>
+<hex>#889911</hex>
 </color>
 <color>
 <name>Dent Corn</name>
@@ -50982,7 +51002,7 @@
 </color>
 <color>
 <name>Jerboa</name>
-<hex>#deb887</hex>
+<hex>#dfb886</hex>
 </color>
 <color>
 <name>Jericho Jade</name>
@@ -57627,6 +57647,10 @@
 <color>
 <name>Loulou</name>
 <hex>#4c3347</hex>
+</color>
+<color>
+<name>Loulou's Purple</name>
+<hex>#bb2288</hex>
 </color>
 <color>
 <name>Lounge Green</name>
@@ -71429,6 +71453,10 @@
 <hex>#f5eaeb</hex>
 </color>
 <color>
+<name>Pan Purple</name>
+<hex>#657aef</hex>
+</color>
+<color>
 <name>Pan Tostado</name>
 <hex>#e8be99</hex>
 </color>
@@ -81913,10 +81941,6 @@
 <hex>#a24d47</hex>
 </color>
 <color>
-<name>Redrum</name>
-<hex>#ff2200</hex>
-</color>
-<color>
 <name>Redstone</name>
 <hex>#e46b71</hex>
 </color>
@@ -81978,7 +82002,7 @@
 </color>
 <color>
 <name>RedЯum</name>
-<hex>#ff0044</hex>
+<hex>#ff2200</hex>
 </color>
 <color>
 <name>Reed</name>
@@ -84034,7 +84058,7 @@
 </color>
 <color>
 <name>Rose Brown</name>
-<hex>#bc8f8f</hex>
+<hex>#bc8e8f</hex>
 </color>
 <color>
 <name>Rose Bud</name>
@@ -84427,6 +84451,10 @@
 <color>
 <name>Rosy</name>
 <hex>#be89a8</hex>
+</color>
+<color>
+<name>Rosy Brown</name>
+<hex>#bc8f8f</hex>
 </color>
 <color>
 <name>Rosy Cheeks</name>
@@ -86487,6 +86515,10 @@
 <color>
 <name>Sandy Bluff</name>
 <hex>#aca088</hex>
+</color>
+<color>
+<name>Sandy Brown</name>
+<hex>#f4a460</hex>
 </color>
 <color>
 <name>Sandy Clay</name>
@@ -89393,6 +89425,10 @@
 <hex>#f7ecca</hex>
 </color>
 <color>
+<name>Shiny Trumpet</name>
+<hex>#ecae58</hex>
+</color>
+<color>
 <name>Ship Cove</name>
 <hex>#7988ab</hex>
 </color>
@@ -89606,7 +89642,7 @@
 </color>
 <color>
 <name>Shrimp Cocktail</name>
-<hex>#f4a460</hex>
+<hex>#f4a461</hex>
 </color>
 <color>
 <name>Shrimp Toast</name>
@@ -93729,6 +93765,10 @@
 <hex>#d88d56</hex>
 </color>
 <color>
+<name>Spiced Purple</name>
+<hex>#bb1166</hex>
+</color>
+<color>
 <name>Spiced Red</name>
 <hex>#8b4c3d</hex>
 </color>
@@ -93743,6 +93783,10 @@
 <color>
 <name>Spiced Up</name>
 <hex>#b14b38</hex>
+</color>
+<color>
+<name>Spiced Up Orange</name>
+<hex>#e67a37</hex>
 </color>
 <color>
 <name>Spiced Vinegar</name>
@@ -93787,6 +93831,10 @@
 <color>
 <name>Spicy Pink</name>
 <hex>#ff1cae</hex>
+</color>
+<color>
+<name>Spicy Purple</name>
+<hex>#b9396e</hex>
 </color>
 <color>
 <name>Spicy Red</name>
@@ -99933,6 +99981,10 @@
 <hex>#b0bf1a</hex>
 </color>
 <color>
+<name>The Legend of Green</name>
+<hex>#558844</hex>
+</color>
+<color>
 <name>The New Black</name>
 <hex>#ff8400</hex>
 </color>
@@ -102414,7 +102466,7 @@
 </color>
 <color>
 <name>Trumpet</name>
-<hex>#867e85</hex>
+<hex>#d1b669</hex>
 </color>
 <color>
 <name>Trumpet Flower</name>

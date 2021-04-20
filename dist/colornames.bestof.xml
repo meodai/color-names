@@ -173,6 +173,10 @@
 <hex>#f3dfd7</hex>
 </color>
 <color>
+<name>Angel's Trumpet</name>
+<hex>#f6dd34</hex>
+</color>
+<color>
 <name>Angelic White</name>
 <hex>#f4ede4</hex>
 </color>
@@ -2145,6 +2149,10 @@
 <hex>#9fb70a</hex>
 </color>
 <color>
+<name>Citrus Splash</name>
+<hex>#ffc400</hex>
+</color>
+<color>
 <name>City Dweller</name>
 <hex>#c0b9ac</hex>
 </color>
@@ -2159,6 +2167,10 @@
 <color>
 <name>Clay</name>
 <hex>#b66a50</hex>
+</color>
+<color>
+<name>Clear Sky</name>
+<hex>#8eccfe</hex>
 </color>
 <color>
 <name>Clear Water</name>
@@ -2979,6 +2991,10 @@
 <color>
 <name>Denim</name>
 <hex>#2243b6</hex>
+</color>
+<color>
+<name>Densetsu Green</name>
+<hex>#889911</hex>
 </color>
 <color>
 <name>Desert</name>
@@ -9025,6 +9041,10 @@
 <hex>#36482f</hex>
 </color>
 <color>
+<name>Pan Purple</name>
+<hex>#657aef</hex>
+</color>
+<color>
 <name>Pancake</name>
 <hex>#f7d788</hex>
 </color>
@@ -10385,6 +10405,10 @@
 <hex>#fade79</hex>
 </color>
 <color>
+<name>Razzle Dazzle</name>
+<hex>#ba417b</hex>
+</color>
+<color>
 <name>Reading Tea Leaves</name>
 <hex>#7d5d5e</hex>
 </color>
@@ -10393,8 +10417,40 @@
 <hex>#114411</hex>
 </color>
 <color>
+<name>Rebellion Red</name>
+<hex>#cc0404</hex>
+</color>
+<color>
+<name>Red</name>
+<hex>#ff0000</hex>
+</color>
+<color>
+<name>Red Alert</name>
+<hex>#ff0f0f</hex>
+</color>
+<color>
+<name>Red Baron</name>
+<hex>#bb0011</hex>
+</color>
+<color>
+<name>Red Carpet</name>
+<hex>#bc2026</hex>
+</color>
+<color>
+<name>Red Devil</name>
+<hex>#860111</hex>
+</color>
+<color>
 <name>Red Elegance</name>
 <hex>#85464b</hex>
+</color>
+<color>
+<name>Red Flag</name>
+<hex>#ff2244</hex>
+</color>
+<color>
+<name>Red Hot Chili Pepper</name>
+<hex>#db1d27</hex>
 </color>
 <color>
 <name>Red Mana</name>
@@ -10405,6 +10461,10 @@
 <hex>#aa2121</hex>
 </color>
 <color>
+<name>Red My Mind</name>
+<hex>#994341</hex>
+</color>
+<color>
 <name>Red Octopus</name>
 <hex>#773243</hex>
 </color>
@@ -10413,7 +10473,35 @@
 <hex>#c34b1b</hex>
 </color>
 <color>
-<name>Redrum</name>
+<name>Red Pegasus</name>
+<hex>#dd0000</hex>
+</color>
+<color>
+<name>Red Radish</name>
+<hex>#ee3344</hex>
+</color>
+<color>
+<name>Red Ribbon</name>
+<hex>#ed0a3f</hex>
+</color>
+<color>
+<name>Red Riding Hood</name>
+<hex>#fe2713</hex>
+</color>
+<color>
+<name>Red Robin</name>
+<hex>#7d4138</hex>
+</color>
+<color>
+<name>Red Stop</name>
+<hex>#ff2222</hex>
+</color>
+<color>
+<name>Redstone</name>
+<hex>#e46b71</hex>
+</color>
+<color>
+<name>RedЯum</name>
 <hex>#ff2200</hex>
 </color>
 <color>
@@ -10495,6 +10583,10 @@
 <color>
 <name>Rosewood</name>
 <hex>#65000b</hex>
+</color>
+<color>
+<name>Rosy Brown</name>
+<hex>#bc8f8f</hex>
 </color>
 <color>
 <name>Rouge</name>
@@ -10929,6 +11021,10 @@
 <hex>#9a373f</hex>
 </color>
 <color>
+<name>Shiny Trumpet</name>
+<hex>#ecae58</hex>
+</color>
+<color>
 <name>Shipyard</name>
 <hex>#4f6f85</hex>
 </color>
@@ -10947,6 +11043,10 @@
 <color>
 <name>Shrimp</name>
 <hex>#e29a86</hex>
+</color>
+<color>
+<name>Shrimp Cocktail</name>
+<hex>#f4a461</hex>
 </color>
 <color>
 <name>Shrimp Toast</name>
@@ -11349,8 +11449,16 @@
 <hex>#f72305</hex>
 </color>
 <color>
+<name>Spiced Up Orange</name>
+<hex>#e67a37</hex>
+</color>
+<color>
 <name>Spicy Berry</name>
 <hex>#cc3366</hex>
+</color>
+<color>
+<name>Spicy Purple</name>
+<hex>#b9396e</hex>
 </color>
 <color>
 <name>Spicy Sweetcorn</name>
@@ -11815,6 +11923,10 @@
 <color>
 <name>The Grape War of 97'</name>
 <hex>#bb00ff</hex>
+</color>
+<color>
+<name>The Legend of Green</name>
+<hex>#558844</hex>
 </color>
 <color>
 <name>The Vast of Night</name>

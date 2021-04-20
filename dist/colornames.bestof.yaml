@@ -128,6 +128,9 @@
   name:"Angel Wing"
   hex:"#f3dfd7"
 -
+  name:"Angel's Trumpet"
+  hex:"#f6dd34"
+-
   name:"Angelic White"
   hex:"#f4ede4"
 -
@@ -1607,6 +1610,9 @@
   name:"Citrus"
   hex:"#9fb70a"
 -
+  name:"Citrus Splash"
+  hex:"#ffc400"
+-
   name:"City Dweller"
   hex:"#c0b9ac"
 -
@@ -1618,6 +1624,9 @@
 -
   name:"Clay"
   hex:"#b66a50"
+-
+  name:"Clear Sky"
+  hex:"#8eccfe"
 -
   name:"Clear Water"
   hex:"#aad5db"
@@ -2233,6 +2242,9 @@
 -
   name:"Denim"
   hex:"#2243b6"
+-
+  name:"Densetsu Green"
+  hex:"#889911"
 -
   name:"Desert"
   hex:"#ccad60"
@@ -6767,6 +6779,9 @@
   name:"Palm Leaf"
   hex:"#36482f"
 -
+  name:"Pan Purple"
+  hex:"#657aef"
+-
   name:"Pancake"
   hex:"#f7d788"
 -
@@ -7787,14 +7802,41 @@
   name:"Ravioli al Limone"
   hex:"#fade79"
 -
+  name:"Razzle Dazzle"
+  hex:"#ba417b"
+-
   name:"Reading Tea Leaves"
   hex:"#7d5d5e"
 -
   name:"Realm of the Underworld"
   hex:"#114411"
 -
+  name:"Rebellion Red"
+  hex:"#cc0404"
+-
+  name:"Red"
+  hex:"#ff0000"
+-
+  name:"Red Alert"
+  hex:"#ff0f0f"
+-
+  name:"Red Baron"
+  hex:"#bb0011"
+-
+  name:"Red Carpet"
+  hex:"#bc2026"
+-
+  name:"Red Devil"
+  hex:"#860111"
+-
   name:"Red Elegance"
   hex:"#85464b"
+-
+  name:"Red Flag"
+  hex:"#ff2244"
+-
+  name:"Red Hot Chili Pepper"
+  hex:"#db1d27"
 -
   name:"Red Mana"
   hex:"#f95554"
@@ -7802,13 +7844,37 @@
   name:"Red Menace"
   hex:"#aa2121"
 -
+  name:"Red My Mind"
+  hex:"#994341"
+-
   name:"Red Octopus"
   hex:"#773243"
 -
   name:"Red Panda"
   hex:"#c34b1b"
 -
-  name:"Redrum"
+  name:"Red Pegasus"
+  hex:"#dd0000"
+-
+  name:"Red Radish"
+  hex:"#ee3344"
+-
+  name:"Red Ribbon"
+  hex:"#ed0a3f"
+-
+  name:"Red Riding Hood"
+  hex:"#fe2713"
+-
+  name:"Red Robin"
+  hex:"#7d4138"
+-
+  name:"Red Stop"
+  hex:"#ff2222"
+-
+  name:"Redstone"
+  hex:"#e46b71"
+-
+  name:"RedЯum"
   hex:"#ff2200"
 -
   name:"Reign of Tomatoes"
@@ -7870,6 +7936,9 @@
 -
   name:"Rosewood"
   hex:"#65000b"
+-
+  name:"Rosy Brown"
+  hex:"#bc8f8f"
 -
   name:"Rouge"
   hex:"#ab1239"
@@ -8195,6 +8264,9 @@
   name:"Shin Godzilla"
   hex:"#9a373f"
 -
+  name:"Shiny Trumpet"
+  hex:"#ecae58"
+-
   name:"Shipyard"
   hex:"#4f6f85"
 -
@@ -8209,6 +8281,9 @@
 -
   name:"Shrimp"
   hex:"#e29a86"
+-
+  name:"Shrimp Cocktail"
+  hex:"#f4a461"
 -
   name:"Shrimp Toast"
   hex:"#f7c5a0"
@@ -8510,8 +8585,14 @@
   name:"Spectacular Scarlet"
   hex:"#f72305"
 -
+  name:"Spiced Up Orange"
+  hex:"#e67a37"
+-
   name:"Spicy Berry"
   hex:"#cc3366"
+-
+  name:"Spicy Purple"
+  hex:"#b9396e"
 -
   name:"Spicy Sweetcorn"
   hex:"#f6ac00"
@@ -8860,6 +8941,9 @@
 -
   name:"The Grape War of 97'"
   hex:"#bb00ff"
+-
+  name:"The Legend of Green"
+  hex:"#558844"
 -
   name:"The Vast of Night"
   hex:"#110066"

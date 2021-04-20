@@ -2093,6 +2093,9 @@
   name:"Angel's Feather"
   hex:"#f3f1e6"
 -
+  name:"Angel's Trumpet"
+  hex:"#f6dd34"
+-
   name:"Angel's Whisper"
   hex:"#dbdfd4"
 -
@@ -9774,7 +9777,7 @@
   hex:"#773b2e"
 -
   name:"Brass Trumpet"
-  hex:"#ecae58"
+  hex:"#d3b280"
 -
   name:"Brass Yellow"
   hex:"#b58735"
@@ -11227,6 +11230,9 @@
 -
   name:"Burlwood"
   hex:"#9b716b"
+-
+  name:"Burlywood"
+  hex:"#deb887"
 -
   name:"Burma Jade"
   hex:"#94b1a0"
@@ -14657,6 +14663,9 @@
   name:"Cherry Sangria"
   hex:"#c92435"
 -
+  name:"Cherry Soda"
+  hex:"#ff0044"
+-
   name:"Cherry Tart"
   hex:"#933d3e"
 -
@@ -16123,6 +16132,9 @@
 -
   name:"Clear Skies"
   hex:"#e8f7fd"
+-
+  name:"Clear Sky"
+  hex:"#8eccfe"
 -
   name:"Clear Turquoise"
   hex:"#008a81"
@@ -21262,6 +21274,9 @@
 -
   name:"Dense Shrub"
   hex:"#636d65"
+-
+  name:"Densetsu Green"
+  hex:"#889911"
 -
   name:"Dent Corn"
   hex:"#f2b717"
@@ -38235,7 +38250,7 @@
   hex:"#f6d67f"
 -
   name:"Jerboa"
-  hex:"#deb887"
+  hex:"#dfb886"
 -
   name:"Jericho Jade"
   hex:"#4d8681"
@@ -43219,6 +43234,9 @@
 -
   name:"Loulou"
   hex:"#4c3347"
+-
+  name:"Loulou's Purple"
+  hex:"#bb2288"
 -
   name:"Lounge Green"
   hex:"#8ba97f"
@@ -53570,6 +53588,9 @@
   name:"Pampered Princess"
   hex:"#f5eaeb"
 -
+  name:"Pan Purple"
+  hex:"#657aef"
+-
   name:"Pan Tostado"
   hex:"#e8be99"
 -
@@ -61433,9 +61454,6 @@
   name:"Redrock Canyon"
   hex:"#a24d47"
 -
-  name:"Redrum"
-  hex:"#ff2200"
--
   name:"Redstone"
   hex:"#e46b71"
 -
@@ -61482,7 +61500,7 @@
   hex:"#916f5e"
 -
   name:"RedЯum"
-  hex:"#ff0044"
+  hex:"#ff2200"
 -
   name:"Reed"
   hex:"#c3d3a8"
@@ -63024,7 +63042,7 @@
   hex:"#996c6e"
 -
   name:"Rose Brown"
-  hex:"#bc8f8f"
+  hex:"#bc8e8f"
 -
   name:"Rose Bud"
   hex:"#b65f9a"
@@ -63319,6 +63337,9 @@
 -
   name:"Rosy"
   hex:"#be89a8"
+-
+  name:"Rosy Brown"
+  hex:"#bc8f8f"
 -
   name:"Rosy Cheeks"
   hex:"#dc506e"
@@ -64864,6 +64885,9 @@
 -
   name:"Sandy Bluff"
   hex:"#aca088"
+-
+  name:"Sandy Brown"
+  hex:"#f4a460"
 -
   name:"Sandy Clay"
   hex:"#dbd0bd"
@@ -67043,6 +67067,9 @@
   name:"Shiny Silk"
   hex:"#f7ecca"
 -
+  name:"Shiny Trumpet"
+  hex:"#ecae58"
+-
   name:"Ship Cove"
   hex:"#7988ab"
 -
@@ -67203,7 +67230,7 @@
   hex:"#dbbfa3"
 -
   name:"Shrimp Cocktail"
-  hex:"#f4a460"
+  hex:"#f4a461"
 -
   name:"Shrimp Toast"
   hex:"#f7c5a0"
@@ -70295,6 +70322,9 @@
   name:"Spiced Pumpkin"
   hex:"#d88d56"
 -
+  name:"Spiced Purple"
+  hex:"#bb1166"
+-
   name:"Spiced Red"
   hex:"#8b4c3d"
 -
@@ -70306,6 +70336,9 @@
 -
   name:"Spiced Up"
   hex:"#b14b38"
+-
+  name:"Spiced Up Orange"
+  hex:"#e67a37"
 -
   name:"Spiced Vinegar"
   hex:"#cdba99"
@@ -70339,6 +70372,9 @@
 -
   name:"Spicy Pink"
   hex:"#ff1cae"
+-
+  name:"Spicy Purple"
+  hex:"#b9396e"
 -
   name:"Spicy Red"
   hex:"#97413e"
@@ -74948,6 +74984,9 @@
   name:"The Killing Joke"
   hex:"#b0bf1a"
 -
+  name:"The Legend of Green"
+  hex:"#558844"
+-
   name:"The New Black"
   hex:"#ff8400"
 -
@@ -76809,7 +76848,7 @@
   hex:"#faa76c"
 -
   name:"Trumpet"
-  hex:"#867e85"
+  hex:"#d1b669"
 -
   name:"Trumpet Flower"
   hex:"#e49977"
