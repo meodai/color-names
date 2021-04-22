@@ -5,6 +5,9 @@
   name:"20000 Leagues Under the Sea"
   hex:"#191970"
 -
+  name:"24 Carrot"
+  hex:"#e56e24"
+-
   name:"3AM in Shibuya"
   hex:"#225577"
 -
@@ -149,6 +152,9 @@
   name:"Another One Bites the Dust"
   hex:"#c7bba4"
 -
+  name:"Antarctic Love"
+  hex:"#eddee6"
+-
   name:"Anthracite"
   hex:"#28282d"
 -
@@ -193,6 +199,9 @@
 -
   name:"Arctic"
   hex:"#648589"
+-
+  name:"Arctic Ice"
+  hex:"#bfc7d6"
 -
   name:"Arctic Water"
   hex:"#00fcfc"
@@ -649,6 +658,9 @@
 -
   name:"Black Truffle"
   hex:"#463d3e"
+-
+  name:"Black Turmeric"
+  hex:"#2c4364"
 -
   name:"Black Wash"
   hex:"#0c0c0c"
@@ -1466,6 +1478,9 @@
   name:"Cheesy Frittata"
   hex:"#f0e093"
 -
+  name:"Chef's Hat"
+  hex:"#f3f4f5"
+-
   name:"Cherry"
   hex:"#cf0234"
 -
@@ -1546,6 +1561,9 @@
 -
   name:"Chocolate Castle"
   hex:"#452207"
+-
+  name:"Chocolate Covered"
+  hex:"#8b4121"
 -
   name:"Chocolate Escape"
   hex:"#623d2e"
@@ -1909,6 +1927,9 @@
 -
   name:"Creamy Apricot"
   hex:"#ffe8bd"
+-
+  name:"Creamy Avocado"
+  hex:"#d8f19c"
 -
   name:"Creamy Cloud Dreams"
   hex:"#fff5e0"
@@ -2306,11 +2327,17 @@
   name:"Dinosaur Egg"
   hex:"#cabaa9"
 -
+  name:"Dipped in Cream"
+  hex:"#fcf6eb"
+-
   name:"Dire Wolf"
   hex:"#282828"
 -
   name:"Disappearing Memories"
   hex:"#eae3e0"
+-
+  name:"Disco Ball"
+  hex:"#d4d4d4"
 -
   name:"Discreet Orange"
   hex:"#ffad98"
@@ -2828,6 +2855,9 @@
   name:"Fatty Fuchsia"
   hex:"#ee0077"
 -
+  name:"Fatty Sashimi"
+  hex:"#eec4b4"
+-
   name:"Fawn"
   hex:"#cfaf7b"
 -
@@ -3218,6 +3248,9 @@
   name:"Fricassée"
   hex:"#ffe6c2"
 -
+  name:"Friendly Frost"
+  hex:"#bffbff"
+-
   name:"Frog"
   hex:"#58bc08"
 -
@@ -3470,6 +3503,9 @@
   name:"Ginger Dough"
   hex:"#b06d3b"
 -
+  name:"Ginger Lemon Tea"
+  hex:"#ffffaa"
+-
   name:"Gingerbread"
   hex:"#8c4a2f"
 -
@@ -3608,14 +3644,26 @@
   name:"Golden Sprinkles"
   hex:"#f6d263"
 -
+  name:"Golden Talisman"
+  hex:"#e9c89b"
+-
+  name:"Goldfinch"
+  hex:"#f8dc6c"
+-
   name:"Goldfinger"
   hex:"#eebb11"
 -
   name:"Goldfish"
   hex:"#f2ad62"
 -
+  name:"Goldie"
+  hex:"#c89d3f"
+-
   name:"Goldilocks"
   hex:"#fff39a"
+-
+  name:"Golem"
+  hex:"#836e59"
 -
   name:"Golf Course"
   hex:"#5a9e4b"
@@ -3722,6 +3770,9 @@
   name:"Gravlax"
   hex:"#ec834f"
 -
+  name:"Greasy Greens"
+  hex:"#117755"
+-
   name:"Great Void"
   hex:"#3b5760"
 -
@@ -3818,6 +3869,9 @@
   name:"Grilled"
   hex:"#633f2e"
 -
+  name:"Grilled Tomato"
+  hex:"#af3519"
+-
   name:"Grim Grey"
   hex:"#e3dcd6"
 -
@@ -3829,6 +3883,9 @@
 -
   name:"Groovy Giraffe"
   hex:"#eeaa11"
+-
+  name:"Groovy Lemon Pie"
+  hex:"#d6be01"
 -
   name:"Grotesque Green"
   hex:"#64e986"
@@ -3953,8 +4010,14 @@
   name:"Haunted Candelabra"
   hex:"#57446a"
 -
+  name:"Haunted Forest"
+  hex:"#032e0e"
+-
   name:"Haunted Hills"
   hex:"#003311"
+-
+  name:"Haunted Purple"
+  hex:"#991177"
 -
   name:"Haute Couture"
   hex:"#a0252a"
@@ -4442,6 +4505,9 @@
   name:"Imperial Ivory"
   hex:"#f1e8d2"
 -
+  name:"Imperial Purple"
+  hex:"#542c5d"
+-
   name:"Imperial Red"
   hex:"#ec2938"
 -
@@ -4601,6 +4667,9 @@
   name:"Ivy"
   hex:"#226c63"
 -
+  name:"Ivy Topiary"
+  hex:"#67614f"
+-
   name:"Jack and Coke"
   hex:"#920f0e"
 -
@@ -4720,6 +4789,9 @@
 -
   name:"Jungle Civilization"
   hex:"#69673a"
+-
+  name:"Jungle Jam"
+  hex:"#115511"
 -
   name:"Jungle King"
   hex:"#4f4d32"
@@ -4846,6 +4918,9 @@
 -
   name:"Kisses and Hugs"
   hex:"#ff6677"
+-
+  name:"Kitten's Eye"
+  hex:"#8aadf7"
 -
   name:"Kitten's Paw"
   hex:"#daa89b"
@@ -5003,8 +5078,14 @@
   name:"Leafy"
   hex:"#679b6a"
 -
+  name:"Leafy Canopy"
+  hex:"#aacc11"
+-
   name:"Leafy Lemon"
   hex:"#c0f000"
+-
+  name:"Leafy Woodland"
+  hex:"#aabb11"
 -
   name:"Leapfrog"
   hex:"#41a94f"
@@ -5131,6 +5212,9 @@
 -
   name:"Lily"
   hex:"#c19fb3"
+-
+  name:"Lily Pads"
+  hex:"#6db083"
 -
   name:"Lima"
   hex:"#a9f971"
@@ -5288,8 +5372,14 @@
   name:"Love Priestess"
   hex:"#bb55cc"
 -
+  name:"Love Vessel"
+  hex:"#ee0099"
+-
   name:"Lovely Little Rosy"
   hex:"#e35f66"
+-
+  name:"Lucid Dreams"
+  hex:"#cceeff"
 -
   name:"Lucius Lilac"
   hex:"#baa2ce"
@@ -5906,6 +5996,9 @@
   name:"Mimosa"
   hex:"#f5e9d5"
 -
+  name:"Mindaro"
+  hex:"#daea6f"
+-
   name:"Minestrone"
   hex:"#c72616"
 -
@@ -5923,6 +6016,12 @@
 -
   name:"Mint"
   hex:"#3eb489"
+-
+  name:"Mint Chip"
+  hex:"#cfebea"
+-
+  name:"Mint Coffee"
+  hex:"#ccffee"
 -
   name:"Mint Twist"
   hex:"#98cbba"
@@ -6602,6 +6701,9 @@
   name:"Olympian Blue"
   hex:"#1a4c8b"
 -
+  name:"Olympus White"
+  hex:"#d4d8d7"
+-
   name:"On Cloud Nine"
   hex:"#c2e7e8"
 -
@@ -6643,6 +6745,9 @@
 -
   name:"Opulent Lime"
   hex:"#88dd11"
+-
+  name:"Opulent Orange"
+  hex:"#f16640"
 -
   name:"Opulent Purple"
   hex:"#673362"
@@ -6715,6 +6820,9 @@
 -
   name:"Outback"
   hex:"#c9a375"
+-
+  name:"Overbaked"
+  hex:"#61311c"
 -
   name:"Overdue Blue"
   hex:"#4400ff"
@@ -7024,6 +7132,9 @@
 -
   name:"Pebble Beach"
   hex:"#7f8285"
+-
+  name:"Pedigrey"
+  hex:"#8f8e8c"
 -
   name:"Peekaboo"
   hex:"#e6dee6"
@@ -7565,6 +7676,12 @@
   name:"Pretty Pastry"
   hex:"#dfcdb2"
 -
+  name:"Prickly Pink"
+  hex:"#f42c93"
+-
+  name:"Prickly Purple"
+  hex:"#a264ba"
+-
   name:"Primal Green"
   hex:"#11875d"
 -
@@ -8063,6 +8180,9 @@
   name:"Salmon Sashimi"
   hex:"#ff7e79"
 -
+  name:"Salsa Picante"
+  hex:"#ab250b"
+-
   name:"Salsa Verde"
   hex:"#cec754"
 -
@@ -8450,6 +8570,9 @@
   name:"Smoking Mirror"
   hex:"#a29587"
 -
+  name:"Smoky Studio"
+  hex:"#7e8590"
+-
   name:"Snake Fruit"
   hex:"#db2217"
 -
@@ -8482,6 +8605,9 @@
 -
   name:"So Sour"
   hex:"#00ff11"
+-
+  name:"Soaked in Sun"
+  hex:"#f7d163"
 -
   name:"Soba"
   hex:"#d1b49f"
@@ -8843,6 +8969,9 @@
   name:"Sweet Lilac"
   hex:"#e8b5ce"
 -
+  name:"Sweet Lucid Dreams"
+  hex:"#ccbbdd"
+-
   name:"Sweet Mint Pesto"
   hex:"#bbee99"
 -
@@ -9025,6 +9154,9 @@
 -
   name:"Too Dark Tonight"
   hex:"#0011bb"
+-
+  name:"Topiary Green"
+  hex:"#667700"
 -
   name:"Touch of Glamor"
   hex:"#dd8844"
@@ -9502,6 +9634,9 @@
 -
   name:"Walk in the Park"
   hex:"#88bb11"
+-
+  name:"Walkie Chalkie"
+  hex:"#faf5fa"
 -
   name:"Walled Garden"
   hex:"#11cc44"

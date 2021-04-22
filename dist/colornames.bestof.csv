@@ -1,6 +1,7 @@
 name,hex
 100 Mph,#c93f38
 20000 Leagues Under the Sea,#191970
+24 Carrot,#e56e24
 3AM in Shibuya,#225577
 3am Latte,#c0a98e
 8 Bit Eggplant,#990066
@@ -49,6 +50,7 @@ Angry Pasta,#ffcc55
 Anime Blush,#ff7a83
 Anise Biscotti,#c0baaf
 Another One Bites the Dust,#c7bba4
+Antarctic Love,#eddee6
 Anthracite,#28282d
 Antique,#8b846d
 Aphrodite Aqua,#45e9c1
@@ -64,6 +66,7 @@ Arabica Mint,#c0ffee
 Arcade Fire,#ee3311
 Archeology,#6e6a5e
 Arctic,#648589
+Arctic Ice,#bfc7d6
 Arctic Water,#00fcfc
 Argan Oil,#8b593e
 Argent,#888888
@@ -216,6 +219,7 @@ Black Power,#654b37
 Black Sabbath,#220022
 Black Sheep,#0f0d0d
 Black Truffle,#463d3e
+Black Turmeric,#2c4364
 Black Wash,#0c0c0c
 Blackberry,#43182f
 Blackberry Yogurt,#e5bddf
@@ -488,6 +492,7 @@ Cheese Please,#ff9613
 Cheesecake,#fffcda
 Cheesus,#ffcc77
 Cheesy Frittata,#f0e093
+Chef's Hat,#f3f4f5
 Cherry,#cf0234
 Cherry Berry,#9f4d65
 Cherry Blossom,#f7cee0
@@ -515,6 +520,7 @@ Chocoholic,#993300
 Chocolate,#d2691e
 Chocolate Bells,#775130
 Chocolate Castle,#452207
+Chocolate Covered,#8b4121
 Chocolate Escape,#623d2e
 Chocolate Explosion,#8e473b
 Chocolate Fantasies,#5c3612
@@ -636,6 +642,7 @@ Cream Puff,#ffbb99
 Creamed Caramel,#b79c94
 Creamy,#efe8db
 Creamy Apricot,#ffe8bd
+Creamy Avocado,#d8f19c
 Creamy Cloud Dreams,#fff5e0
 Creamy Ivory,#eeddaa
 Creamy Mint,#aaffaa
@@ -768,8 +775,10 @@ Dijon Mustard,#e2ca73
 Dill,#6f7755
 Dim,#c8c2be
 Dinosaur Egg,#cabaa9
+Dipped in Cream,#fcf6eb
 Dire Wolf,#282828
 Disappearing Memories,#eae3e0
+Disco Ball,#d4d4d4
 Discreet Orange,#ffad98
 Discrete Pink,#ebdbdd
 Distant Cloud,#e5eae6
@@ -942,6 +951,7 @@ Fat Gold,#e6bc00
 Fatal Fury,#da321c
 Fatback,#fff7ed
 Fatty Fuchsia,#ee0077
+Fatty Sashimi,#eec4b4
 Fawn,#cfaf7b
 Feasty Fuchsia,#ee0088
 Featherbed,#afcbe5
@@ -1072,6 +1082,7 @@ Fresh Cut Grass,#91cb7d
 Fresh Gum,#ffaadd
 Fresh Snow,#f6efe1
 Fricassée,#ffe6c2
+Friendly Frost,#bffbff
 Frog,#58bc08
 Frog Prince,#bbd75a
 Frogger,#8cd612
@@ -1156,6 +1167,7 @@ Ginger,#b06500
 Ginger Ale,#c9a86a
 Ginger Beer,#c27f38
 Ginger Dough,#b06d3b
+Ginger Lemon Tea,#ffffaa
 Gingerbread,#8c4a2f
 Gingerbread Crumble,#9c5e33
 Gingerbread House,#ca994e
@@ -1202,9 +1214,13 @@ Golden Period,#fedb2d
 Golden Relic,#e8ce49
 Golden Retriever,#eedec7
 Golden Sprinkles,#f6d263
+Golden Talisman,#e9c89b
+Goldfinch,#f8dc6c
 Goldfinger,#eebb11
 Goldfish,#f2ad62
+Goldie,#c89d3f
 Goldilocks,#fff39a
+Golem,#836e59
 Golf Course,#5a9e4b
 Good Karma,#333c76
 Good Luck,#86c994
@@ -1240,6 +1256,7 @@ Grasshopper,#77824a
 Gratin Dauphinois,#e0d2a9
 Grauzone,#85a3b2
 Gravlax,#ec834f
+Greasy Greens,#117755
 Great Void,#3b5760
 Greedy Gecko,#aa9922
 Green,#00ff00
@@ -1272,10 +1289,12 @@ Grey Web,#616669
 Greystone,#b7b9b5
 Griffin,#8d8f8f
 Grilled,#633f2e
+Grilled Tomato,#af3519
 Grim Grey,#e3dcd6
 Grim White,#f6f1f4
 Grizzly,#885818
 Groovy Giraffe,#eeaa11
+Groovy Lemon Pie,#d6be01
 Grotesque Green,#64e986
 Gruyère Cheese,#f5deb3
 Guacamole,#95986b
@@ -1317,7 +1336,9 @@ Harvest Gold,#eab76a
 Harvest Time,#cf875f
 Hatoba Pigeon,#95859c
 Haunted Candelabra,#57446a
+Haunted Forest,#032e0e
 Haunted Hills,#003311
+Haunted Purple,#991177
 Haute Couture,#a0252a
 Havana,#3b2b2c
 Hawaii Morning,#00bbff
@@ -1480,6 +1501,7 @@ Illuminati Green,#419168
 Illuminating,#eeee77
 Imperial,#602f6b
 Imperial Ivory,#f1e8d2
+Imperial Purple,#542c5d
 Imperial Red,#ec2938
 In A Pickle,#978c59
 In for a Penny,#ee8877
@@ -1533,6 +1555,7 @@ Italian Roast,#221111
 Ivory,#fffff0
 Ivory Tower,#fbf3f1
 Ivy,#226c63
+Ivy Topiary,#67614f
 Jack and Coke,#920f0e
 Jack-O,#fb9902
 Jackpot,#d19431
@@ -1573,6 +1596,7 @@ Jumbo,#878785
 June Bud,#bdda57
 Jungle,#00a466
 Jungle Civilization,#69673a
+Jungle Jam,#115511
 Jungle King,#4f4d32
 Jupiter,#e1e1e2
 Jurassic Park,#3c663e
@@ -1615,6 +1639,7 @@ Kissable,#fd8f79
 Kissed by Mist,#fcccf5
 Kisses,#ff66bb
 Kisses and Hugs,#ff6677
+Kitten's Eye,#8aadf7
 Kitten's Paw,#daa89b
 Kiwi,#7aab55
 Kiwi Kiss,#eef9c1
@@ -1667,7 +1692,9 @@ Lazy Lizard,#9c9c4b
 Lead,#212121
 Leaf,#71aa34
 Leafy,#679b6a
+Leafy Canopy,#aacc11
 Leafy Lemon,#c0f000
+Leafy Woodland,#aabb11
 Leapfrog,#41a94f
 Leather,#906a54
 LeChuck's Beard,#3c351f
@@ -1710,6 +1737,7 @@ Lilac,#cea2fd
 Lilac Lotion,#ff3388
 Lilac Spring,#8822cc
 Lily,#c19fb3
+Lily Pads,#6db083
 Lima,#a9f971
 Lime,#aaff32
 Lime Fizz,#cfe838
@@ -1762,7 +1790,9 @@ Love Juice,#cc1155
 Love Letter,#e4658e
 Love Potion,#c01352
 Love Priestess,#bb55cc
+Love Vessel,#ee0099
 Lovely Little Rosy,#e35f66
+Lucid Dreams,#cceeff
 Lucius Lilac,#baa2ce
 Lucky,#ab9a1c
 Lucky Clover,#008400
@@ -1968,12 +1998,15 @@ Milk Tooth,#faebd7
 Mille-Feuille,#efc87d
 Mimi Pink,#ffdae9
 Mimosa,#f5e9d5
+Mindaro,#daea6f
 Minestrone,#c72616
 Ming,#407577
 Minion Yellow,#fed55d
 Mink,#8a7561
 Minotaurus Brown,#882211
 Mint,#3eb489
+Mint Chip,#cfebea
+Mint Coffee,#ccffee
 Mint Twist,#98cbba
 Mint-o-licious,#b6e9c8
 Mintastic,#afffd5
@@ -2200,6 +2233,7 @@ Olive Leaf,#4e4b35
 Olive Tree,#aba77c
 Olivia,#996622
 Olympian Blue,#1a4c8b
+Olympus White,#d4d8d7
 On Cloud Nine,#c2e7e8
 Once in a Blue Moon,#0044bb
 One Minute to Midnight,#003388
@@ -2214,6 +2248,7 @@ Opera,#816575
 Opium,#987e7e
 Opulent Blue,#0055ee
 Opulent Lime,#88dd11
+Opulent Orange,#f16640
 Opulent Purple,#673362
 Opulent Turquoise,#88ddcc
 Orange,#ffa500
@@ -2238,6 +2273,7 @@ Oriental Spice,#8b5131
 Ottoman Red,#ee2222
 Out of the Blue,#1199ee
 Outback,#c9a375
+Overbaked,#61311c
 Overdue Blue,#4400ff
 Overgrown,#88dd00
 Overgrown Citadel,#888844
@@ -2341,6 +2377,7 @@ Pearly Pink,#ee99cc
 Peas Please,#8c7f3c
 Pebble,#9d9880
 Pebble Beach,#7f8285
+Pedigrey,#8f8e8c
 Peekaboo,#e6dee6
 Pegasus,#e8e9e4
 Pelati,#ff3333
@@ -2521,6 +2558,8 @@ Pressing my Luck,#00cc11
 Pretty in Pink,#fabfe4
 Pretty in Prune,#6b295a
 Pretty Pastry,#dfcdb2
+Prickly Pink,#f42c93
+Prickly Purple,#a264ba
 Primal Green,#11875d
 Primrose,#d6859f
 Prince Charming,#cc2277
@@ -2687,6 +2726,7 @@ Salmon,#ff796c
 Salmon Nigiri,#f9906f
 Salmon Poké Bowl,#ee7777
 Salmon Sashimi,#ff7e79
+Salsa Picante,#ab250b
 Salsa Verde,#cec754
 Salt,#efede6
 Salt Mountain,#d7fefe
@@ -2816,6 +2856,7 @@ Smoked Oyster,#d9d2cd
 Smoked Salmon,#fa8072
 Smokescreen,#5e5755
 Smoking Mirror,#a29587
+Smoky Studio,#7e8590
 Snake Fruit,#db2217
 Snakes in the Grass,#889717
 Snarky Mint,#9ae37d
@@ -2827,6 +2868,7 @@ Snowman,#fefafb
 Snowy Mint,#d6f0cd
 Snowy Summit,#c5d8e9
 So Sour,#00ff11
+Soaked in Sun,#f7d163
 Soba,#d1b49f
 Socialist,#921a1c
 Soda Pop,#c3c67e
@@ -2947,6 +2989,7 @@ Swamp Monster,#005511
 Sweet Butter,#fffcd7
 Sweet Desire,#aa33ee
 Sweet Lilac,#e8b5ce
+Sweet Lucid Dreams,#ccbbdd
 Sweet Mint Pesto,#bbee99
 Sweet Potato,#d87c3b
 Sweet Venom,#b6ff1a
@@ -3008,6 +3051,7 @@ Tomato Queen,#dd4422
 Tonkatsu,#edac36
 Too Blue to be True,#0088ff
 Too Dark Tonight,#0011bb
+Topiary Green,#667700
 Touch of Glamor,#dd8844
 Toxic Frog,#98fb98
 Toxic Sludge,#00bb33
@@ -3167,6 +3211,7 @@ Waffle Cone,#e2c779
 Waikiki,#218ba0
 Wakame Green,#00656e
 Walk in the Park,#88bb11
+Walkie Chalkie,#faf5fa
 Walled Garden,#11cc44
 Walnut,#773f1a
 Walnut Milkies,#fff0cf
