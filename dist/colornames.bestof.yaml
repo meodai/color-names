@@ -2306,6 +2306,9 @@
   name:"Diamond"
   hex:"#faf7e2"
 -
+  name:"Diamond Cut"
+  hex:"#e9e9f0"
+-
   name:"Diamond White"
   hex:"#e2eff3"
 -
@@ -2942,6 +2945,9 @@
   name:"Film Noir"
   hex:"#473933"
 -
+  name:"Final Departure"
+  hex:"#f1f5db"
+-
   name:"Fine Pine"
   hex:"#008800"
 -
@@ -3203,6 +3209,9 @@
   name:"Freefall"
   hex:"#565266"
 -
+  name:"Freeze Up"
+  hex:"#dee9f4"
+-
   name:"Freezing Vapor"
   hex:"#d4e9f5"
 -
@@ -3382,6 +3391,9 @@
 -
   name:"Galaxy Blue"
   hex:"#2a4b7c"
+-
+  name:"Galaxy Express"
+  hex:"#444499"
 -
   name:"Gale of the Wind"
   hex:"#007844"
@@ -4565,6 +4577,9 @@
   name:"Indochine"
   hex:"#9c5b34"
 -
+  name:"Infectious Love"
+  hex:"#bb1177"
+-
   name:"Inferno Orange"
   hex:"#ff4400"
 -
@@ -4612,6 +4627,9 @@
 -
   name:"Intoxicate"
   hex:"#11bb55"
+-
+  name:"Intrigue Red"
+  hex:"#b24648"
 -
   name:"Inuit Blue"
   hex:"#d8e4e7"
@@ -7685,6 +7703,9 @@
   name:"Primal Green"
   hex:"#11875d"
 -
+  name:"Primal Rage"
+  hex:"#f4301c"
+-
   name:"Primrose"
   hex:"#d6859f"
 -
@@ -8066,6 +8087,9 @@
   name:"Royal"
   hex:"#0c1793"
 -
+  name:"Royal Decree"
+  hex:"#403547"
+-
   name:"Royal Lavender"
   hex:"#7851a9"
 -
@@ -8423,6 +8447,12 @@
   name:"Silence"
   hex:"#eaede5"
 -
+  name:"Silent Film"
+  hex:"#9fa5a5"
+-
+  name:"Silent Night"
+  hex:"#526771"
+-
   name:"Silent Sea"
   hex:"#3a4a63"
 -
@@ -8651,6 +8681,9 @@
   name:"Soufflé"
   hex:"#edd1a8"
 -
+  name:"Sour Apple Candy"
+  hex:"#aaee22"
+-
   name:"Sour Apple Rings"
   hex:"#33bb00"
 -
@@ -8833,6 +8866,9 @@
 -
   name:"Strawberry Milkshake"
   hex:"#d47186"
+-
+  name:"Strawberry Moon"
+  hex:"#cf5570"
 -
   name:"Stroopwafel"
   hex:"#a86f48"
@@ -9319,6 +9355,9 @@
 -
   name:"Unicorn Dust"
   hex:"#ff2f92"
+-
+  name:"Va Va Voom"
+  hex:"#e3b34c"
 -
   name:"Valentine Lava"
   hex:"#ba0728"
@@ -9835,6 +9874,9 @@
 -
   name:"White Elephant"
   hex:"#dedee5"
+-
+  name:"White Frost"
+  hex:"#dee6ec"
 -
   name:"White Mecca"
   hex:"#ecf3e1"

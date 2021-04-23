@@ -768,6 +768,7 @@
 --color-devilish:#dd3322;
 --color-devilish-diva:#ce7790;
 --color-diamond:#faf7e2;
+--color-diamond-cut:#e9e9f0;
 --color-diamond-white:#e2eff3;
 --color-diesel:#322c2b;
 --color-diggers-gold:#a37336;
@@ -980,6 +981,7 @@
 --color-fiesta:#edd8d2;
 --color-fiji-sands:#d8caa9;
 --color-film-noir:#473933;
+--color-final-departure:#f1f5db;
 --color-fine-pine:#008800;
 --color-finger-banana:#e1c12f;
 --color-finnish-fiord:#5db0be;
@@ -1067,6 +1069,7 @@
 --color-frankenstein:#7ba05b;
 --color-free-spirit:#deeeed;
 --color-freefall:#565266;
+--color-freeze-up:#dee9f4;
 --color-freezing-vapor:#d4e9f5;
 --color-freezy-breezy:#99eeee;
 --color-french-blue:#0072bb;
@@ -1127,6 +1130,7 @@
 --color-galactic-federation:#330077;
 --color-galactic-highway:#3311bb;
 --color-galaxy-blue:#2a4b7c;
+--color-galaxy-express:#444499;
 --color-gale-of-the-wind:#007844;
 --color-gallant-green:#99aa66;
 --color-gameboy-screen:#8bac0f;
@@ -1521,6 +1525,7 @@
 --color-indica:#588c3a;
 --color-indigo:#4b0082;
 --color-indochine:#9c5b34;
+--color-infectious-love:#bb1177;
 --color-inferno-orange:#ff4400;
 --color-infinity:#222831;
 --color-infinity-and-beyond:#6e7e99;
@@ -1537,6 +1542,7 @@
 --color-intimate-journal:#ccbb99;
 --color-into-the-stratosphere:#425267;
 --color-intoxicate:#11bb55;
+--color-intrigue-red:#b24648;
 --color-inuit-blue:#d8e4e7;
 --color-iridescent:#3a5b52;
 --color-irish-clover:#53734c;
@@ -2561,6 +2567,7 @@
 --color-prickly-pink:#f42c93;
 --color-prickly-purple:#a264ba;
 --color-primal-green:#11875d;
+--color-primal-rage:#f4301c;
 --color-primrose:#d6859f;
 --color-prince-charming:#cc2277;
 --color-princess-blue-feather:#cceeee;
@@ -2688,6 +2695,7 @@
 --color-rouge:#ab1239;
 --color-rough-asphalt:#bdbebf;
 --color-royal:#0c1793;
+--color-royal-decree:#403547;
 --color-royal-lavender:#7851a9;
 --color-royal-milk-tea:#f7cfb4;
 --color-royal-night:#2b3191;
@@ -2807,6 +2815,8 @@
 --color-sienna:#a9561e;
 --color-signal-green:#33ff00;
 --color-silence:#eaede5;
+--color-silent-film:#9fa5a5;
+--color-silent-night:#526771;
 --color-silent-sea:#3a4a63;
 --color-silk-dessou:#eee9dc;
 --color-silk-lining:#fcefe0;
@@ -2883,6 +2893,7 @@
 --color-somewhere-in-a-fairytale:#cc99dd;
 --color-sooty:#141414;
 --color-soufflé:#edd1a8;
+--color-sour-apple-candy:#aaee22;
 --color-sour-apple-rings:#33bb00;
 --color-sour-cherry:#e24736;
 --color-sour-green:#c1e613;
@@ -2944,6 +2955,7 @@
 --color-strawberry-field:#fa8383;
 --color-strawberry-milk:#ffd9e7;
 --color-strawberry-milkshake:#d47186;
+--color-strawberry-moon:#cf5570;
 --color-stroopwafel:#a86f48;
 --color-submerged:#4a7d82;
 --color-succubus:#990022;
@@ -3106,6 +3118,7 @@
 --color-underwater-moonlight:#4488aa;
 --color-underworld:#1e231c;
 --color-unicorn-dust:#ff2f92;
+--color-va-va-voom:#e3b34c;
 --color-valentine-lava:#ba0728;
 --color-valkyrie:#eecc22;
 --color-valley-of-tears:#d1e1e4;
@@ -3278,6 +3291,7 @@
 --color-white-chalk:#f6f4f1;
 --color-white-chocolate:#f0e3c7;
 --color-white-elephant:#dedee5;
+--color-white-frost:#dee6ec;
 --color-white-mecca:#ecf3e1;
 --color-white-pearl:#ede1d1;
 --color-white-porcelain:#f8fbf8;
