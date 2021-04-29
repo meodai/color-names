@@ -380,6 +380,9 @@
   name:"Adobe White"
   hex:"#e6dbc4"
 -
+  name:"Adolescent Rodent"
+  hex:"#a99681"
+-
   name:"Adonis"
   hex:"#64b5bf"
 -
@@ -2883,7 +2886,7 @@
   hex:"#038e85"
 -
   name:"Aqua Fiesta"
-  hex:"#8cc3c3"
+  hex:"#96e2e1"
 -
   name:"Aqua Foam"
   hex:"#adc3b4"
@@ -10820,6 +10823,9 @@
   name:"Bruised Burgundy"
   hex:"#5b4148"
 -
+  name:"Bruised Plum"
+  hex:"#3b1921"
+-
   name:"Brume"
   hex:"#c6c6c2"
 -
@@ -12086,6 +12092,9 @@
   name:"Calm Interlude"
   hex:"#a7b0d5"
 -
+  name:"Calm Iridescence"
+  hex:"#dee2eb"
+-
   name:"Calm Thoughts"
   hex:"#e5ede2"
 -
@@ -12709,6 +12718,9 @@
 -
   name:"Cappuccino Bombe"
   hex:"#b4897d"
+-
+  name:"Cappuccino Cosmico"
+  hex:"#e1ddcd"
 -
   name:"Cappuccino Froth"
   hex:"#c8b089"
@@ -17563,6 +17575,9 @@
 -
   name:"Copper Harbor"
   hex:"#d57e52"
+-
+  name:"Copper Hopper"
+  hex:"#bf4000"
 -
   name:"Copper Lake"
   hex:"#c09078"
@@ -25109,6 +25124,9 @@
   name:"Ethereal White"
   hex:"#e6f1f1"
 -
+  name:"Ethereal Woods"
+  hex:"#3e5e4e"
+-
   name:"Etherium Blue"
   hex:"#b9c4de"
 -
@@ -27040,6 +27058,9 @@
 -
   name:"Flamboyant Plum"
   hex:"#694e52"
+-
+  name:"Flambrosia"
+  hex:"#e7a500"
 -
   name:"Flame"
   hex:"#e25822"
@@ -29384,6 +29405,9 @@
   name:"Galactic Civilization"
   hex:"#442288"
 -
+  name:"Galactic Cruise"
+  hex:"#111188"
+-
   name:"Galactic Emerald"
   hex:"#0afa1e"
 -
@@ -29959,6 +29983,9 @@
 -
   name:"Gentleman's Suit"
   hex:"#c1becd"
+-
+  name:"Gentleman's Whiskey"
+  hex:"#ca882c"
 -
   name:"Geode"
   hex:"#4b3f69"
@@ -31295,6 +31322,9 @@
   name:"Golden Weave"
   hex:"#eadcc0"
 -
+  name:"Golden Week"
+  hex:"#ecd251"
+-
   name:"Golden West"
   hex:"#e9ca94"
 -
@@ -31708,6 +31738,9 @@
 -
   name:"Granite Peak"
   hex:"#606b75"
+-
+  name:"Granivorous"
+  hex:"#d0b690"
 -
   name:"Granny Apple"
   hex:"#c5e7cd"
@@ -32852,6 +32885,9 @@
   name:"Greenish Yellow"
   hex:"#cdfd02"
 -
+  name:"Greenivorous"
+  hex:"#cae03b"
+-
   name:"Greenlake"
   hex:"#007d69"
 -
@@ -33133,6 +33169,9 @@
 -
   name:"Grey Web"
   hex:"#616669"
+-
+  name:"Grey Werewolf"
+  hex:"#625f5c"
 -
   name:"Grey Whisper"
   hex:"#e6e4e4"
@@ -34300,6 +34339,9 @@
 -
   name:"Heart of Ice"
   hex:"#f7fcff"
+-
+  name:"Heart Potion"
+  hex:"#a97fb1"
 -
   name:"Heart Stone"
   hex:"#ede3df"
@@ -36269,10 +36311,7 @@
   name:"Hyssop"
   hex:"#6d4976"
 -
-  name:"I Heart Potion"
-  hex:"#a97fb1"
--
-  name:"I Love To Boogie"
+  name:"I Love to Boogie"
   hex:"#ffa917"
 -
   name:"I Love You Pink"
@@ -37297,6 +37336,12 @@
 -
   name:"Insignia White"
   hex:"#ecf3f9"
+-
+  name:"Insomnia"
+  hex:"#06012c"
+-
+  name:"Insomniac Blue"
+  hex:"#110077"
 -
   name:"Inspiration Peak"
   hex:"#4fa183"
@@ -40231,6 +40276,9 @@
 -
   name:"Latte Froth"
   hex:"#f3f0e8"
+-
+  name:"Latteo"
+  hex:"#e8e7e6"
 -
   name:"Lattice"
   hex:"#cecec6"
@@ -44153,7 +44201,7 @@
   name:"Magentle"
   hex:"#aa11aa"
 -
-  name:"Magentos"
+  name:"Magento"
   hex:"#bf3cff"
 -
   name:"Maggie's Magic"
@@ -49849,6 +49897,12 @@
 -
   name:"Naval"
   hex:"#41729f"
+-
+  name:"Naval Blue"
+  hex:"#384b6b"
+-
+  name:"Naval Night"
+  hex:"#011c39"
 -
   name:"Naval Passage"
   hex:"#386782"
@@ -58055,6 +58109,9 @@
   name:"Pop Shop"
   hex:"#93d4c0"
 -
+  name:"Pop That Gum"
+  hex:"#f771b3"
+-
   name:"Popcorn"
   hex:"#f8de8d"
 -
@@ -60728,11 +60785,11 @@
   name:"Rapakivi Granite"
   hex:"#d28239"
 -
-  name:"Rape Blossoms"
-  hex:"#ffec47"
--
   name:"Rapeseed"
   hex:"#c19a13"
+-
+  name:"Rapeseed Blossom"
+  hex:"#ffec47"
 -
   name:"Rapeseed Oil"
   hex:"#a69425"
@@ -63227,6 +63284,9 @@
   name:"Rose Bud"
   hex:"#b65f9a"
 -
+  name:"Rose Cheeks"
+  hex:"#f0738a"
+-
   name:"Rose Chintz"
   hex:"#c77579"
 -
@@ -63301,6 +63361,9 @@
 -
   name:"Rose Hip Tonic"
   hex:"#dbb9b6"
+-
+  name:"Rose Laffy Taffy"
+  hex:"#a6465b"
 -
   name:"Rose Linen"
   hex:"#e8aea2"
@@ -64427,6 +64490,9 @@
   name:"Sage Leaves"
   hex:"#7b8b5d"
 -
+  name:"Sage Salt"
+  hex:"#dbebde"
+-
   name:"Sage Splash"
   hex:"#e4e5d2"
 -
@@ -64867,6 +64933,9 @@
 -
   name:"San Francisco Mauve"
   hex:"#936a6d"
+-
+  name:"San Francisco Pink"
+  hex:"#bb33aa"
 -
   name:"San Gabriel Blue"
   hex:"#2f6679"
@@ -68270,6 +68339,9 @@
   name:"Siren"
   hex:"#69293b"
 -
+  name:"Siren of Nature"
+  hex:"#68a43c"
+-
   name:"Sirocco"
   hex:"#68766e"
 -
@@ -68497,6 +68569,9 @@
 -
   name:"Skyscraper"
   hex:"#d3dbe2"
+-
+  name:"Skyvory"
+  hex:"#dcd7cd"
 -
   name:"Skywalker"
   hex:"#c1deea"
@@ -68743,6 +68818,9 @@
 -
   name:"Smell of Lavender"
   hex:"#dce0ea"
+-
+  name:"Smell the Mint"
+  hex:"#bef7cf"
 -
   name:"Smell the Roses"
   hex:"#bb7283"
@@ -71005,6 +71083,9 @@
 -
   name:"Springtide Green"
   hex:"#c8cb8e"
+-
+  name:"Springtide Melodies"
+  hex:"#9aa955"
 -
   name:"Springtime"
   hex:"#e9e5b3"
@@ -76297,6 +76378,9 @@
 -
   name:"Toucan"
   hex:"#f09650"
+-
+  name:"Toucan Gentleman"
+  hex:"#fbc90d"
 -
   name:"Touch of Blue"
   hex:"#c2d7e9"

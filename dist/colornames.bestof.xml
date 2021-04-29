@@ -245,6 +245,10 @@
 <hex>#00ffff</hex>
 </color>
 <color>
+<name>Aqua Fiesta</name>
+<hex>#96e2e1</hex>
+</color>
+<color>
 <name>Aquamarine</name>
 <hex>#2ee8bb</hex>
 </color>
@@ -711,6 +715,10 @@
 <color>
 <name>Bermuda Grass</name>
 <hex>#a19f79</hex>
+</color>
+<color>
+<name>Bermuda Onion</name>
+<hex>#9d5a8f</hex>
 </color>
 <color>
 <name>Berries n Cream</name>
@@ -1325,6 +1333,10 @@
 <hex>#7e4071</hex>
 </color>
 <color>
+<name>Bruised Plum</name>
+<hex>#3b1921</hex>
+</color>
+<color>
 <name>Brume</name>
 <hex>#c6c6c2</hex>
 </color>
@@ -1677,6 +1689,10 @@
 <hex>#633f33</hex>
 </color>
 <color>
+<name>Cappuccino Cosmico</name>
+<hex>#e1ddcd</hex>
+</color>
+<color>
 <name>Capri</name>
 <hex>#00bfff</hex>
 </color>
@@ -1707,6 +1723,10 @@
 <color>
 <name>Caramel Macchiato</name>
 <hex>#c58d4b</hex>
+</color>
+<color>
+<name>Caramelized Pecan</name>
+<hex>#a17b4d</hex>
 </color>
 <color>
 <name>Carbon</name>
@@ -2407,6 +2427,10 @@
 <color>
 <name>Copper Coin</name>
 <hex>#da8a67</hex>
+</color>
+<color>
+<name>Copper Hopper</name>
+<hex>#bf4000</hex>
 </color>
 <color>
 <name>Copper Patina</name>
@@ -3641,6 +3665,10 @@
 <hex>#9eb6b8</hex>
 </color>
 <color>
+<name>Ethereal Woods</name>
+<hex>#3e5e4e</hex>
+</color>
+<color>
 <name>Eucalyptus</name>
 <hex>#329760</hex>
 </color>
@@ -4513,6 +4541,10 @@
 <hex>#442288</hex>
 </color>
 <color>
+<name>Galactic Cruise</name>
+<hex>#111188</hex>
+</color>
+<color>
 <name>Galactic Federation</name>
 <hex>#330077</hex>
 </color>
@@ -5141,6 +5173,10 @@
 <hex>#3e6334</hex>
 </color>
 <color>
+<name>Greenivorous</name>
+<hex>#cae03b</hex>
+</color>
+<color>
 <name>Gremlin</name>
 <hex>#a79954</hex>
 </color>
@@ -5423,6 +5459,10 @@
 <color>
 <name>Heart of Ice</name>
 <hex>#f7fcff</hex>
+</color>
+<color>
+<name>Heart Potion</name>
+<hex>#a97fb1</hex>
 </color>
 <color>
 <name>Heartbeat</name>
@@ -6141,6 +6181,10 @@
 <hex>#d0c7ff</hex>
 </color>
 <color>
+<name>Insomniac Blue</name>
+<hex>#110077</hex>
+</color>
+<color>
 <name>Instant Noodles</name>
 <hex>#f4d493</hex>
 </color>
@@ -6355,6 +6399,10 @@
 <color>
 <name>Jewel</name>
 <hex>#136843</hex>
+</color>
+<color>
+<name>Jewel Weed</name>
+<hex>#46a795</hex>
 </color>
 <color>
 <name>Jigglypuff</name>
@@ -7385,7 +7433,7 @@
 <hex>#aa11aa</hex>
 </color>
 <color>
-<name>Magentos</name>
+<name>Magento</name>
 <hex>#bf3cff</hex>
 </color>
 <color>
@@ -8521,6 +8569,14 @@
 <hex>#41729f</hex>
 </color>
 <color>
+<name>Naval Blue</name>
+<hex>#384b6b</hex>
+</color>
+<color>
+<name>Naval Night</name>
+<hex>#011c39</hex>
+</color>
+<color>
 <name>Near Moon</name>
 <hex>#5ee7df</hex>
 </color>
@@ -9569,6 +9625,10 @@
 <hex>#aa4400</hex>
 </color>
 <color>
+<name>Peppy Peacock</name>
+<hex>#55ccbb</hex>
+</color>
+<color>
 <name>Peppy Pineapple</name>
 <hex>#ffff44</hex>
 </color>
@@ -10021,6 +10081,10 @@
 <hex>#aa1155</hex>
 </color>
 <color>
+<name>Plummy</name>
+<hex>#675a75</hex>
+</color>
+<color>
 <name>Plunge</name>
 <hex>#035568</hex>
 </color>
@@ -10155,6 +10219,10 @@
 <color>
 <name>Pool Water</name>
 <hex>#2188ff</hex>
+</color>
+<color>
+<name>Pop That Gum</name>
+<hex>#f771b3</hex>
 </color>
 <color>
 <name>Popcorn</name>
@@ -10757,6 +10825,10 @@
 <hex>#f7746b</hex>
 </color>
 <color>
+<name>Rose Laffy Taffy</name>
+<hex>#a6465b</hex>
+</color>
+<color>
 <name>Rosecco</name>
 <hex>#eebbdd</hex>
 </color>
@@ -11009,6 +11081,10 @@
 <hex>#0033cc</hex>
 </color>
 <color>
+<name>Sapphire Siren</name>
+<hex>#662288</hex>
+</color>
+<color>
 <name>Sapphire Splendour</name>
 <hex>#2425b9</hex>
 </color>
@@ -11139,6 +11215,10 @@
 <color>
 <name>Secret Path</name>
 <hex>#737054</hex>
+</color>
+<color>
+<name>Seedling</name>
+<hex>#c0cba1</hex>
 </color>
 <color>
 <name>Serene</name>
@@ -11357,6 +11437,10 @@
 <hex>#dedfc9</hex>
 </color>
 <color>
+<name>Siren</name>
+<hex>#69293b</hex>
+</color>
+<color>
 <name>Sizzling Watermelon</name>
 <hex>#fa005c</hex>
 </color>
@@ -11387,6 +11471,10 @@
 <color>
 <name>Skyscraper</name>
 <hex>#d3dbe2</hex>
+</color>
+<color>
+<name>Skyvory</name>
+<hex>#dcd7cd</hex>
 </color>
 <color>
 <name>Sleepless Blue</name>
@@ -11435,6 +11523,10 @@
 <color>
 <name>Smell of Garlic</name>
 <hex>#d9ddcb</hex>
+</color>
+<color>
+<name>Smell the Mint</name>
+<hex>#bef7cf</hex>
 </color>
 <color>
 <name>Smiley Face</name>
@@ -11691,6 +11783,10 @@
 <color>
 <name>Spring Forth</name>
 <hex>#11bb22</hex>
+</color>
+<color>
+<name>Springtide Melodies</name>
+<hex>#9aa955</hex>
 </color>
 <color>
 <name>Sprinkled With Pink</name>

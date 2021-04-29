@@ -509,6 +509,10 @@
 <hex>#e6dbc4</hex>
 </color>
 <color>
+<name>Adolescent Rodent</name>
+<hex>#a99681</hex>
+</color>
+<color>
 <name>Adonis</name>
 <hex>#64b5bf</hex>
 </color>
@@ -3846,7 +3850,7 @@
 </color>
 <color>
 <name>Aqua Fiesta</name>
-<hex>#8cc3c3</hex>
+<hex>#96e2e1</hex>
 </color>
 <color>
 <name>Aqua Foam</name>
@@ -14429,6 +14433,10 @@
 <hex>#5b4148</hex>
 </color>
 <color>
+<name>Bruised Plum</name>
+<hex>#3b1921</hex>
+</color>
+<color>
 <name>Brume</name>
 <hex>#c6c6c2</hex>
 </color>
@@ -16117,6 +16125,10 @@
 <hex>#a7b0d5</hex>
 </color>
 <color>
+<name>Calm Iridescence</name>
+<hex>#dee2eb</hex>
+</color>
+<color>
 <name>Calm Thoughts</name>
 <hex>#e5ede2</hex>
 </color>
@@ -16947,6 +16959,10 @@
 <color>
 <name>Cappuccino Bombe</name>
 <hex>#b4897d</hex>
+</color>
+<color>
+<name>Cappuccino Cosmico</name>
+<hex>#e1ddcd</hex>
 </color>
 <color>
 <name>Cappuccino Froth</name>
@@ -23419,6 +23435,10 @@
 <color>
 <name>Copper Harbor</name>
 <hex>#d57e52</hex>
+</color>
+<color>
+<name>Copper Hopper</name>
+<hex>#bf4000</hex>
 </color>
 <color>
 <name>Copper Lake</name>
@@ -33481,6 +33501,10 @@
 <hex>#e6f1f1</hex>
 </color>
 <color>
+<name>Ethereal Woods</name>
+<hex>#3e5e4e</hex>
+</color>
+<color>
 <name>Etherium Blue</name>
 <hex>#b9c4de</hex>
 </color>
@@ -36055,6 +36079,10 @@
 <color>
 <name>Flamboyant Plum</name>
 <hex>#694e52</hex>
+</color>
+<color>
+<name>Flambrosia</name>
+<hex>#e7a500</hex>
 </color>
 <color>
 <name>Flame</name>
@@ -39181,6 +39209,10 @@
 <hex>#442288</hex>
 </color>
 <color>
+<name>Galactic Cruise</name>
+<hex>#111188</hex>
+</color>
+<color>
 <name>Galactic Emerald</name>
 <hex>#0afa1e</hex>
 </color>
@@ -39947,6 +39979,10 @@
 <color>
 <name>Gentleman's Suit</name>
 <hex>#c1becd</hex>
+</color>
+<color>
+<name>Gentleman's Whiskey</name>
+<hex>#ca882c</hex>
 </color>
 <color>
 <name>Geode</name>
@@ -41729,6 +41765,10 @@
 <hex>#eadcc0</hex>
 </color>
 <color>
+<name>Golden Week</name>
+<hex>#ecd251</hex>
+</color>
+<color>
 <name>Golden West</name>
 <hex>#e9ca94</hex>
 </color>
@@ -42279,6 +42319,10 @@
 <color>
 <name>Granite Peak</name>
 <hex>#606b75</hex>
+</color>
+<color>
+<name>Granivorous</name>
+<hex>#d0b690</hex>
 </color>
 <color>
 <name>Granny Apple</name>
@@ -43805,6 +43849,10 @@
 <hex>#cdfd02</hex>
 </color>
 <color>
+<name>Greenivorous</name>
+<hex>#cae03b</hex>
+</color>
+<color>
 <name>Greenlake</name>
 <hex>#007d69</hex>
 </color>
@@ -44179,6 +44227,10 @@
 <color>
 <name>Grey Web</name>
 <hex>#616669</hex>
+</color>
+<color>
+<name>Grey Werewolf</name>
+<hex>#625f5c</hex>
 </color>
 <color>
 <name>Grey Whisper</name>
@@ -45735,6 +45787,10 @@
 <color>
 <name>Heart of Ice</name>
 <hex>#f7fcff</hex>
+</color>
+<color>
+<name>Heart Potion</name>
+<hex>#a97fb1</hex>
 </color>
 <color>
 <name>Heart Stone</name>
@@ -48361,11 +48417,7 @@
 <hex>#6d4976</hex>
 </color>
 <color>
-<name>I Heart Potion</name>
-<hex>#a97fb1</hex>
-</color>
-<color>
-<name>I Love To Boogie</name>
+<name>I Love to Boogie</name>
 <hex>#ffa917</hex>
 </color>
 <color>
@@ -49731,6 +49783,14 @@
 <color>
 <name>Insignia White</name>
 <hex>#ecf3f9</hex>
+</color>
+<color>
+<name>Insomnia</name>
+<hex>#06012c</hex>
+</color>
+<color>
+<name>Insomniac Blue</name>
+<hex>#110077</hex>
 </color>
 <color>
 <name>Inspiration Peak</name>
@@ -53643,6 +53703,10 @@
 <color>
 <name>Latte Froth</name>
 <hex>#f3f0e8</hex>
+</color>
+<color>
+<name>Latteo</name>
+<hex>#e8e7e6</hex>
 </color>
 <color>
 <name>Lattice</name>
@@ -58873,7 +58937,7 @@
 <hex>#aa11aa</hex>
 </color>
 <color>
-<name>Magentos</name>
+<name>Magento</name>
 <hex>#bf3cff</hex>
 </color>
 <color>
@@ -66467,6 +66531,14 @@
 <color>
 <name>Naval</name>
 <hex>#41729f</hex>
+</color>
+<color>
+<name>Naval Blue</name>
+<hex>#384b6b</hex>
+</color>
+<color>
+<name>Naval Night</name>
+<hex>#011c39</hex>
 </color>
 <color>
 <name>Naval Passage</name>
@@ -77409,6 +77481,10 @@
 <hex>#93d4c0</hex>
 </color>
 <color>
+<name>Pop That Gum</name>
+<hex>#f771b3</hex>
+</color>
+<color>
 <name>Popcorn</name>
 <hex>#f8de8d</hex>
 </color>
@@ -80973,12 +81049,12 @@
 <hex>#d28239</hex>
 </color>
 <color>
-<name>Rape Blossoms</name>
-<hex>#ffec47</hex>
-</color>
-<color>
 <name>Rapeseed</name>
 <hex>#c19a13</hex>
+</color>
+<color>
+<name>Rapeseed Blossom</name>
+<hex>#ffec47</hex>
 </color>
 <color>
 <name>Rapeseed Oil</name>
@@ -84305,6 +84381,10 @@
 <hex>#b65f9a</hex>
 </color>
 <color>
+<name>Rose Cheeks</name>
+<hex>#f0738a</hex>
+</color>
+<color>
 <name>Rose Chintz</name>
 <hex>#c77579</hex>
 </color>
@@ -84403,6 +84483,10 @@
 <color>
 <name>Rose Hip Tonic</name>
 <hex>#dbb9b6</hex>
+</color>
+<color>
+<name>Rose Laffy Taffy</name>
+<hex>#a6465b</hex>
 </color>
 <color>
 <name>Rose Linen</name>
@@ -85905,6 +85989,10 @@
 <hex>#7b8b5d</hex>
 </color>
 <color>
+<name>Sage Salt</name>
+<hex>#dbebde</hex>
+</color>
+<color>
 <name>Sage Splash</name>
 <hex>#e4e5d2</hex>
 </color>
@@ -86491,6 +86579,10 @@
 <color>
 <name>San Francisco Mauve</name>
 <hex>#936a6d</hex>
+</color>
+<color>
+<name>San Francisco Pink</name>
+<hex>#bb33aa</hex>
 </color>
 <color>
 <name>San Gabriel Blue</name>
@@ -91029,6 +91121,10 @@
 <hex>#69293b</hex>
 </color>
 <color>
+<name>Siren of Nature</name>
+<hex>#68a43c</hex>
+</color>
+<color>
 <name>Sirocco</name>
 <hex>#68766e</hex>
 </color>
@@ -91331,6 +91427,10 @@
 <color>
 <name>Skyscraper</name>
 <hex>#d3dbe2</hex>
+</color>
+<color>
+<name>Skyvory</name>
+<hex>#dcd7cd</hex>
 </color>
 <color>
 <name>Skywalker</name>
@@ -91659,6 +91759,10 @@
 <color>
 <name>Smell of Lavender</name>
 <hex>#dce0ea</hex>
+</color>
+<color>
+<name>Smell the Mint</name>
+<hex>#bef7cf</hex>
 </color>
 <color>
 <name>Smell the Roses</name>
@@ -94675,6 +94779,10 @@
 <color>
 <name>Springtide Green</name>
 <hex>#c8cb8e</hex>
+</color>
+<color>
+<name>Springtide Melodies</name>
+<hex>#9aa955</hex>
 </color>
 <color>
 <name>Springtime</name>
@@ -101731,6 +101839,10 @@
 <color>
 <name>Toucan</name>
 <hex>#f09650</hex>
+</color>
+<color>
+<name>Toucan Gentleman</name>
+<hex>#fbc90d</hex>
 </color>
 <color>
 <name>Touch of Blue</name>

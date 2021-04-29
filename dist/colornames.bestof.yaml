@@ -182,6 +182,9 @@
   name:"Aqua"
   hex:"#00ffff"
 -
+  name:"Aqua Fiesta"
+  hex:"#96e2e1"
+-
   name:"Aquamarine"
   hex:"#2ee8bb"
 -
@@ -532,6 +535,9 @@
 -
   name:"Bermuda Grass"
   hex:"#a19f79"
+-
+  name:"Bermuda Onion"
+  hex:"#9d5a8f"
 -
   name:"Berries n Cream"
   hex:"#f2b8ca"
@@ -992,6 +998,9 @@
   name:"Bruise"
   hex:"#7e4071"
 -
+  name:"Bruised Plum"
+  hex:"#3b1921"
+-
   name:"Brume"
   hex:"#c6c6c2"
 -
@@ -1256,6 +1265,9 @@
   name:"Cappuccino"
   hex:"#633f33"
 -
+  name:"Cappuccino Cosmico"
+  hex:"#e1ddcd"
+-
   name:"Capri"
   hex:"#00bfff"
 -
@@ -1279,6 +1291,9 @@
 -
   name:"Caramel Macchiato"
   hex:"#c58d4b"
+-
+  name:"Caramelized Pecan"
+  hex:"#a17b4d"
 -
   name:"Carbon"
   hex:"#333333"
@@ -1804,6 +1819,9 @@
 -
   name:"Copper Coin"
   hex:"#da8a67"
+-
+  name:"Copper Hopper"
+  hex:"#bf4000"
 -
   name:"Copper Patina"
   hex:"#9db4a0"
@@ -2729,6 +2747,9 @@
   name:"Ether"
   hex:"#9eb6b8"
 -
+  name:"Ethereal Woods"
+  hex:"#3e5e4e"
+-
   name:"Eucalyptus"
   hex:"#329760"
 -
@@ -3383,6 +3404,9 @@
   name:"Galactic Civilization"
   hex:"#442288"
 -
+  name:"Galactic Cruise"
+  hex:"#111188"
+-
   name:"Galactic Federation"
   hex:"#330077"
 -
@@ -3854,6 +3878,9 @@
   name:"Greenhouse"
   hex:"#3e6334"
 -
+  name:"Greenivorous"
+  hex:"#cae03b"
+-
   name:"Gremlin"
   hex:"#a79954"
 -
@@ -4066,6 +4093,9 @@
 -
   name:"Heart of Ice"
   hex:"#f7fcff"
+-
+  name:"Heart Potion"
+  hex:"#a97fb1"
 -
   name:"Heartbeat"
   hex:"#aa0000"
@@ -4604,6 +4634,9 @@
   name:"Innocent Snowdrop"
   hex:"#d0c7ff"
 -
+  name:"Insomniac Blue"
+  hex:"#110077"
+-
   name:"Instant Noodles"
   hex:"#f4d493"
 -
@@ -4765,6 +4798,9 @@
 -
   name:"Jewel"
   hex:"#136843"
+-
+  name:"Jewel Weed"
+  hex:"#46a795"
 -
   name:"Jigglypuff"
   hex:"#ffaaff"
@@ -5537,7 +5573,7 @@
   name:"Magentle"
   hex:"#aa11aa"
 -
-  name:"Magentos"
+  name:"Magento"
   hex:"#bf3cff"
 -
   name:"Magic Carpet"
@@ -6389,6 +6425,12 @@
   name:"Naval"
   hex:"#41729f"
 -
+  name:"Naval Blue"
+  hex:"#384b6b"
+-
+  name:"Naval Night"
+  hex:"#011c39"
+-
   name:"Near Moon"
   hex:"#5ee7df"
 -
@@ -7175,6 +7217,9 @@
   name:"Pepperoni"
   hex:"#aa4400"
 -
+  name:"Peppy Peacock"
+  hex:"#55ccbb"
+-
   name:"Peppy Pineapple"
   hex:"#ffff44"
 -
@@ -7514,6 +7559,9 @@
   name:"Plum Perfect"
   hex:"#aa1155"
 -
+  name:"Plummy"
+  hex:"#675a75"
+-
   name:"Plunge"
   hex:"#035568"
 -
@@ -7615,6 +7663,9 @@
 -
   name:"Pool Water"
   hex:"#2188ff"
+-
+  name:"Pop That Gum"
+  hex:"#f771b3"
 -
   name:"Popcorn"
   hex:"#f8de8d"
@@ -8066,6 +8117,9 @@
   name:"Rosé"
   hex:"#f7746b"
 -
+  name:"Rose Laffy Taffy"
+  hex:"#a6465b"
+-
   name:"Rosecco"
   hex:"#eebbdd"
 -
@@ -8255,6 +8309,9 @@
   name:"Sapphire Glitter"
   hex:"#0033cc"
 -
+  name:"Sapphire Siren"
+  hex:"#662288"
+-
   name:"Sapphire Splendour"
   hex:"#2425b9"
 -
@@ -8353,6 +8410,9 @@
 -
   name:"Secret Path"
   hex:"#737054"
+-
+  name:"Seedling"
+  hex:"#c0cba1"
 -
   name:"Serene"
   hex:"#dce3e4"
@@ -8516,6 +8576,9 @@
   name:"Sip of Mint"
   hex:"#dedfc9"
 -
+  name:"Siren"
+  hex:"#69293b"
+-
   name:"Sizzling Watermelon"
   hex:"#fa005c"
 -
@@ -8539,6 +8602,9 @@
 -
   name:"Skyscraper"
   hex:"#d3dbe2"
+-
+  name:"Skyvory"
+  hex:"#dcd7cd"
 -
   name:"Sleepless Blue"
   hex:"#badbed"
@@ -8575,6 +8641,9 @@
 -
   name:"Smell of Garlic"
   hex:"#d9ddcb"
+-
+  name:"Smell the Mint"
+  hex:"#bef7cf"
 -
   name:"Smiley Face"
   hex:"#ffc962"
@@ -8767,6 +8836,9 @@
 -
   name:"Spring Forth"
   hex:"#11bb22"
+-
+  name:"Springtide Melodies"
+  hex:"#9aa955"
 -
   name:"Sprinkled With Pink"
   hex:"#e7a2ae"
