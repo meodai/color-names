@@ -425,6 +425,10 @@
 <hex>#a7a6a3</hex>
 </color>
 <color>
+<name>Adamantine Blue</name>
+<hex>#46adf9</hex>
+</color>
+<color>
 <name>Adamite Green</name>
 <hex>#3b845e</hex>
 </color>
@@ -559,6 +563,10 @@
 <color>
 <name>Adventure Isle</name>
 <hex>#6f9fb9</hex>
+</color>
+<color>
+<name>Adventure of the Seas</name>
+<hex>#3063af</hex>
 </color>
 <color>
 <name>Adventure Orange</name>
@@ -11133,6 +11141,10 @@
 <hex>#cdd7df</hex>
 </color>
 <color>
+<name>Blue Gourami</name>
+<hex>#69a2d5</hex>
+</color>
+<color>
 <name>Blue Granite</name>
 <hex>#717388</hex>
 </color>
@@ -16075,6 +16087,10 @@
 <color>
 <name>California Wine</name>
 <hex>#ca4b65</hex>
+</color>
+<color>
+<name>Call It a Night</name>
+<hex>#42364c</hex>
 </color>
 <color>
 <name>Calla</name>
@@ -28981,6 +28997,10 @@
 <hex>#3e474b</hex>
 </color>
 <color>
+<name>Diamond League</name>
+<hex>#d0eff3</hex>
+</color>
+<color>
 <name>Diamond Light</name>
 <hex>#dfe7ec</hex>
 </color>
@@ -32541,6 +32561,10 @@
 <hex>#009185</hex>
 </color>
 <color>
+<name>Emerald Cory</name>
+<hex>#52c170</hex>
+</color>
+<color>
 <name>Emerald Dream</name>
 <hex>#007a5e</hex>
 </color>
@@ -36074,11 +36098,15 @@
 </color>
 <color>
 <name>Flamboyant</name>
-<hex>#129c8b</hex>
+<hex>#f73d37</hex>
 </color>
 <color>
 <name>Flamboyant Plum</name>
 <hex>#694e52</hex>
+</color>
+<color>
+<name>Flamboyant Teal</name>
+<hex>#129c8b</hex>
 </color>
 <color>
 <name>Flambrosia</name>
@@ -36087,6 +36115,10 @@
 <color>
 <name>Flame</name>
 <hex>#e25822</hex>
+</color>
+<color>
+<name>Flame Angelfish</name>
+<hex>#fd4c29</hex>
 </color>
 <color>
 <name>Flame Hawkfish</name>
@@ -36723,6 +36755,10 @@
 <color>
 <name>Flowerbed</name>
 <hex>#ffebda</hex>
+</color>
+<color>
+<name>Flowerhorn Cichlid Red</name>
+<hex>#f62e52</hex>
 </color>
 <color>
 <name>Flowering Cactus</name>
@@ -46309,6 +46345,10 @@
 <hex>#ff9911</hex>
 </color>
 <color>
+<name>Her Fierceness</name>
+<hex>#6f123c</hex>
+</color>
+<color>
 <name>Hera Blue</name>
 <hex>#7777ee</hex>
 </color>
@@ -46371,6 +46411,10 @@
 <color>
 <name>Herbalist</name>
 <hex>#969e86</hex>
+</color>
+<color>
+<name>Herbalist's Garden</name>
+<hex>#119900</hex>
 </color>
 <color>
 <name>Herbery Honey</name>
@@ -52201,6 +52245,10 @@
 <hex>#9a382d</hex>
 </color>
 <color>
+<name>Ketchup Later</name>
+<hex>#a91c1c</hex>
+</color>
+<color>
 <name>Kettle Black</name>
 <hex>#141314</hex>
 </color>
@@ -53667,6 +53715,10 @@
 <color>
 <name>Last Straw</name>
 <hex>#e3dbcd</hex>
+</color>
+<color>
+<name>Last Sunlight</name>
+<hex>#e5b73b</hex>
 </color>
 <color>
 <name>Last Warning</name>
@@ -60237,6 +60289,10 @@
 <hex>#faf3de</hex>
 </color>
 <color>
+<name>Marshmallow Heart</name>
+<hex>#f9dce3</hex>
+</color>
+<color>
 <name>Marshmallow Magic</name>
 <hex>#efd2d0</hex>
 </color>
@@ -60979,10 +61035,6 @@
 <color>
 <name>Meat</name>
 <hex>#f08080</hex>
-</color>
-<color>
-<name>Meat Brown</name>
-<hex>#e5b73b</hex>
 </color>
 <color>
 <name>Meatbun</name>
@@ -66473,6 +66525,10 @@
 <hex>#99a399</hex>
 </color>
 <color>
+<name>Nature's Masterpiece</name>
+<hex>#006611</hex>
+</color>
+<color>
 <name>Nature's Reflection</name>
 <hex>#c5d4cd</hex>
 </color>
@@ -66531,6 +66587,10 @@
 <color>
 <name>Naval</name>
 <hex>#41729f</hex>
+</color>
+<color>
+<name>Naval Adventures</name>
+<hex>#072688</hex>
 </color>
 <color>
 <name>Naval Blue</name>
@@ -69507,6 +69567,10 @@
 <color>
 <name>Onahau</name>
 <hex>#c2e6ec</hex>
+</color>
+<color>
+<name>Once Bitten</name>
+<hex>#bd2f10</hex>
 </color>
 <color>
 <name>Once in a Blue Moon</name>
@@ -74341,6 +74405,10 @@
 <hex>#8d7960</hex>
 </color>
 <color>
+<name>Petrified Purple</name>
+<hex>#9c87c1</hex>
+</color>
+<color>
 <name>Petro Blue</name>
 <hex>#2f5961</hex>
 </color>
@@ -76119,6 +76187,10 @@
 <color>
 <name>Pirate Silver</name>
 <hex>#818988</hex>
+</color>
+<color>
+<name>Pirate Treasure</name>
+<hex>#ddca69</hex>
 </color>
 <color>
 <name>Pirate's Haven</name>
@@ -82157,6 +82229,10 @@
 <hex>#ee1155</hex>
 </color>
 <color>
+<name>Red Wrath of Zeus</name>
+<hex>#e0180c</hex>
+</color>
+<color>
 <name>Red-Eye</name>
 <hex>#dd1155</hex>
 </color>
@@ -84941,6 +85017,10 @@
 <hex>#4169e1</hex>
 </color>
 <color>
+<name>Royal Blue Tang</name>
+<hex>#1600fc</hex>
+</color>
+<color>
 <name>Royal Breeze</name>
 <hex>#275779</hex>
 </color>
@@ -84979,6 +85059,10 @@
 <color>
 <name>Royal Gold</name>
 <hex>#e1bc8a</hex>
+</color>
+<color>
+<name>Royal Gramma Purple</name>
+<hex>#a152bd</hex>
 </color>
 <color>
 <name>Royal Heath</name>
@@ -91925,8 +92009,12 @@
 <hex>#e9dfd5</hex>
 </color>
 <color>
+<name>Smokey Denim</name>
+<hex>#747b92</hex>
+</color>
+<color>
 <name>Smokey Lilac</name>
-<hex>#9a9da2</hex>
+<hex>#928996</hex>
 </color>
 <color>
 <name>Smokey Pink</name>
@@ -91935,6 +92023,10 @@
 <color>
 <name>Smokey Slate</name>
 <hex>#a5b5ac</hex>
+</color>
+<color>
+<name>Smokey Stone</name>
+<hex>#9a9da2</hex>
 </color>
 <color>
 <name>Smokey Tan</name>
@@ -92299,6 +92391,10 @@
 <color>
 <name>Snowbound</name>
 <hex>#ddebe3</hex>
+</color>
+<color>
+<name>Snowcap</name>
+<hex>#dce5eb</hex>
 </color>
 <color>
 <name>Snowdrop</name>
@@ -98773,6 +98869,10 @@
 <hex>#b8e9e4</hex>
 </color>
 <color>
+<name>Tahitian Pearl</name>
+<hex>#263644</hex>
+</color>
+<color>
 <name>Tahitian Sand</name>
 <hex>#f5dcb4</hex>
 </color>
@@ -99889,6 +99989,10 @@
 <hex>#79839b</hex>
 </color>
 <color>
+<name>Templar's Gold</name>
+<hex>#f2e688</hex>
+</color>
+<color>
 <name>Template</name>
 <hex>#a6c9e3</hex>
 </color>
@@ -100419,6 +100523,10 @@
 <color>
 <name>The White in my Eye</name>
 <hex>#f1eee5</hex>
+</color>
+<color>
+<name>The Wild Apothecary</name>
+<hex>#118844</hex>
 </color>
 <color>
 <name>Theatre Blue</name>

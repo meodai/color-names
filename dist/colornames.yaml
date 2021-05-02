@@ -317,6 +317,9 @@
   name:"Actor's Star"
   hex:"#a7a6a3"
 -
+  name:"Adamantine Blue"
+  hex:"#46adf9"
+-
   name:"Adamite Green"
   hex:"#3b845e"
 -
@@ -418,6 +421,9 @@
 -
   name:"Adventure Isle"
   hex:"#6f9fb9"
+-
+  name:"Adventure of the Seas"
+  hex:"#3063af"
 -
   name:"Adventure Orange"
   hex:"#eda367"
@@ -8348,6 +8354,9 @@
   name:"Blue Gossamer"
   hex:"#cdd7df"
 -
+  name:"Blue Gourami"
+  hex:"#69a2d5"
+-
   name:"Blue Granite"
   hex:"#717388"
 -
@@ -12055,6 +12064,9 @@
 -
   name:"California Wine"
   hex:"#ca4b65"
+-
+  name:"Call It a Night"
+  hex:"#42364c"
 -
   name:"Calla"
   hex:"#f2dfb5"
@@ -21734,6 +21746,9 @@
   name:"Diamond Grey"
   hex:"#3e474b"
 -
+  name:"Diamond League"
+  hex:"#d0eff3"
+-
   name:"Diamond Light"
   hex:"#dfe7ec"
 -
@@ -24404,6 +24419,9 @@
   name:"Emerald Coast"
   hex:"#009185"
 -
+  name:"Emerald Cory"
+  hex:"#52c170"
+-
   name:"Emerald Dream"
   hex:"#007a5e"
 -
@@ -27054,16 +27072,22 @@
   hex:"#9a9e88"
 -
   name:"Flamboyant"
-  hex:"#129c8b"
+  hex:"#f73d37"
 -
   name:"Flamboyant Plum"
   hex:"#694e52"
+-
+  name:"Flamboyant Teal"
+  hex:"#129c8b"
 -
   name:"Flambrosia"
   hex:"#e7a500"
 -
   name:"Flame"
   hex:"#e25822"
+-
+  name:"Flame Angelfish"
+  hex:"#fd4c29"
 -
   name:"Flame Hawkfish"
   hex:"#960018"
@@ -27541,6 +27565,9 @@
 -
   name:"Flowerbed"
   hex:"#ffebda"
+-
+  name:"Flowerhorn Cichlid Red"
+  hex:"#f62e52"
 -
   name:"Flowering Cactus"
   hex:"#a2d4bd"
@@ -34730,6 +34757,9 @@
   name:"Hephaestus Gold"
   hex:"#ff9911"
 -
+  name:"Her Fierceness"
+  hex:"#6f123c"
+-
   name:"Hera Blue"
   hex:"#7777ee"
 -
@@ -34777,6 +34807,9 @@
 -
   name:"Herbalist"
   hex:"#969e86"
+-
+  name:"Herbalist's Garden"
+  hex:"#119900"
 -
   name:"Herbery Honey"
   hex:"#eeee22"
@@ -39149,6 +39182,9 @@
   name:"Ketchup"
   hex:"#9a382d"
 -
+  name:"Ketchup Later"
+  hex:"#a91c1c"
+-
   name:"Kettle Black"
   hex:"#141314"
 -
@@ -40249,6 +40285,9 @@
 -
   name:"Last Straw"
   hex:"#e3dbcd"
+-
+  name:"Last Sunlight"
+  hex:"#e5b73b"
 -
   name:"Last Warning"
   hex:"#d30f3f"
@@ -45176,6 +45215,9 @@
   name:"Marshmallow Fluff"
   hex:"#faf3de"
 -
+  name:"Marshmallow Heart"
+  hex:"#f9dce3"
+-
   name:"Marshmallow Magic"
   hex:"#efd2d0"
 -
@@ -45733,9 +45775,6 @@
 -
   name:"Meat"
   hex:"#f08080"
--
-  name:"Meat Brown"
-  hex:"#e5b73b"
 -
   name:"Meatbun"
   hex:"#f8eed3"
@@ -49853,6 +49892,9 @@
   name:"Nature's Gift"
   hex:"#99a399"
 -
+  name:"Nature's Masterpiece"
+  hex:"#006611"
+-
   name:"Nature's Reflection"
   hex:"#c5d4cd"
 -
@@ -49897,6 +49939,9 @@
 -
   name:"Naval"
   hex:"#41729f"
+-
+  name:"Naval Adventures"
+  hex:"#072688"
 -
   name:"Naval Blue"
   hex:"#384b6b"
@@ -52129,6 +52174,9 @@
 -
   name:"Onahau"
   hex:"#c2e6ec"
+-
+  name:"Once Bitten"
+  hex:"#bd2f10"
 -
   name:"Once in a Blue Moon"
   hex:"#0044bb"
@@ -55754,6 +55802,9 @@
   name:"Petrified Oak"
   hex:"#8d7960"
 -
+  name:"Petrified Purple"
+  hex:"#9c87c1"
+-
   name:"Petro Blue"
   hex:"#2f5961"
 -
@@ -57088,6 +57139,9 @@
 -
   name:"Pirate Silver"
   hex:"#818988"
+-
+  name:"Pirate Treasure"
+  hex:"#ddca69"
 -
   name:"Pirate's Haven"
   hex:"#005176"
@@ -61616,6 +61670,9 @@
   name:"Red Wrath"
   hex:"#ee1155"
 -
+  name:"Red Wrath of Zeus"
+  hex:"#e0180c"
+-
   name:"Red-Eye"
   hex:"#dd1155"
 -
@@ -63704,6 +63761,9 @@
   name:"Royal Blue"
   hex:"#4169e1"
 -
+  name:"Royal Blue Tang"
+  hex:"#1600fc"
+-
   name:"Royal Breeze"
   hex:"#275779"
 -
@@ -63733,6 +63793,9 @@
 -
   name:"Royal Gold"
   hex:"#e1bc8a"
+-
+  name:"Royal Gramma Purple"
+  hex:"#a152bd"
 -
   name:"Royal Heath"
   hex:"#b54b73"
@@ -68942,14 +69005,20 @@
   name:"Smokey Cream"
   hex:"#e9dfd5"
 -
+  name:"Smokey Denim"
+  hex:"#747b92"
+-
   name:"Smokey Lilac"
-  hex:"#9a9da2"
+  hex:"#928996"
 -
   name:"Smokey Pink"
   hex:"#cebdb4"
 -
   name:"Smokey Slate"
   hex:"#a5b5ac"
+-
+  name:"Smokey Stone"
+  hex:"#9a9da2"
 -
   name:"Smokey Tan"
   hex:"#9f8c7c"
@@ -69223,6 +69292,9 @@
 -
   name:"Snowbound"
   hex:"#ddebe3"
+-
+  name:"Snowcap"
+  hex:"#dce5eb"
 -
   name:"Snowdrop"
   hex:"#eeffcc"
@@ -74078,6 +74150,9 @@
   name:"Tahitian Breeze"
   hex:"#b8e9e4"
 -
+  name:"Tahitian Pearl"
+  hex:"#263644"
+-
   name:"Tahitian Sand"
   hex:"#f5dcb4"
 -
@@ -74915,6 +74990,9 @@
   name:"Tempest"
   hex:"#79839b"
 -
+  name:"Templar's Gold"
+  hex:"#f2e688"
+-
   name:"Template"
   hex:"#a6c9e3"
 -
@@ -75313,6 +75391,9 @@
 -
   name:"The White in my Eye"
   hex:"#f1eee5"
+-
+  name:"The Wild Apothecary"
+  hex:"#118844"
 -
   name:"Theatre Blue"
   hex:"#21467a"
