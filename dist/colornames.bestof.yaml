@@ -26,6 +26,9 @@
   name:"A State of Mint"
   hex:"#88ffcc"
 -
+  name:"Abyssal"
+  hex:"#404c57"
+-
   name:"Abyssal Waters"
   hex:"#005765"
 -
@@ -149,6 +152,9 @@
   name:"Anise Biscotti"
   hex:"#c0baaf"
 -
+  name:"Annatto"
+  hex:"#8c5341"
+-
   name:"Another One Bites the Dust"
   hex:"#c7bba4"
 -
@@ -178,6 +184,9 @@
 -
   name:"Apricot"
   hex:"#ffb16d"
+-
+  name:"April Showers"
+  hex:"#dadeb5"
 -
   name:"Aqua"
   hex:"#00ffff"
@@ -344,6 +353,9 @@
   name:"Badass Grass"
   hex:"#b4da55"
 -
+  name:"Baker’s Bread"
+  hex:"#d0b393"
+-
   name:"Bakery Brown"
   hex:"#ab9078"
 -
@@ -419,6 +431,9 @@
   name:"Bark"
   hex:"#5f5854"
 -
+  name:"Barrel Aged"
+  hex:"#8b6945"
+-
   name:"Basil"
   hex:"#879f84"
 -
@@ -472,6 +487,9 @@
 -
   name:"Beat Around the Bush"
   hex:"#6e6a44"
+-
+  name:"Beau Monde"
+  hex:"#7db39e"
 -
   name:"Beautiful Darkness"
   hex:"#686d70"
@@ -1298,6 +1316,9 @@
   name:"Caramel Macchiato"
   hex:"#c58d4b"
 -
+  name:"Caramelize"
+  hex:"#d58a37"
+-
   name:"Caramelized Pecan"
   hex:"#a17b4d"
 -
@@ -1339,6 +1360,9 @@
 -
   name:"Carrot"
   hex:"#fd6f3b"
+-
+  name:"Cartoon Violence"
+  hex:"#d01722"
 -
   name:"Cascara"
   hex:"#ee4433"
@@ -1974,7 +1998,7 @@
   hex:"#f3e7b4"
 -
   name:"Crème Fraîche"
-  hex:"#f7f0e2"
+  hex:"#eceee6"
 -
   name:"Creole"
   hex:"#393227"
@@ -2309,6 +2333,9 @@
   name:"Deserted Beach"
   hex:"#e7dbbf"
 -
+  name:"Desirable"
+  hex:"#a93435"
+-
   name:"Desire"
   hex:"#ea3c53"
 -
@@ -2450,11 +2477,17 @@
   name:"Dragon's Breath"
   hex:"#d41003"
 -
+  name:"Dragon's Gold"
+  hex:"#e7e04e"
+-
   name:"Dragonfly"
   hex:"#314a76"
 -
   name:"Drama Queen"
   hex:"#a37298"
+-
+  name:"Dream of Spring"
+  hex:"#f7cf26"
 -
   name:"Dream Setting"
   hex:"#ff77bb"
@@ -2728,6 +2761,9 @@
 -
   name:"Equanimity"
   hex:"#83a9b3"
+-
+  name:"Equestrienne"
+  hex:"#a07569"
 -
   name:"Errigal White"
   hex:"#f2f2f4"
@@ -3479,9 +3515,6 @@
   name:"Gecko's Dream"
   hex:"#669900"
 -
-  name:"Gédéon Brown"
-  hex:"#7f5f00"
--
   name:"Genie"
   hex:"#3e4364"
 -
@@ -3550,6 +3583,9 @@
 -
   name:"Ginger Lemon Tea"
   hex:"#ffffaa"
+-
+  name:"Ginger Scent"
+  hex:"#cb8f7b"
 -
   name:"Gingerbread"
   hex:"#8c4a2f"
@@ -3664,6 +3700,9 @@
 -
   name:"Golden Ginkgo"
   hex:"#f9f525"
+-
+  name:"Golden Glitter Storm"
+  hex:"#ead771"
 -
   name:"Golden Harvest"
   hex:"#cccc11"
@@ -4019,6 +4058,9 @@
   name:"Hanging Gardens of Babylon"
   hex:"#11aa44"
 -
+  name:"Happy Hearts"
+  hex:"#d46362"
+-
   name:"Happy Hippo"
   hex:"#818581"
 -
@@ -4364,6 +4406,9 @@
   name:"Honey Bunny"
   hex:"#dbb881"
 -
+  name:"Honey Crisp"
+  hex:"#e9c160"
+-
   name:"Honey Do"
   hex:"#ededc7"
 -
@@ -4648,6 +4693,9 @@
 -
   name:"Inkjet"
   hex:"#44556b"
+-
+  name:"Inland Waters"
+  hex:"#7c939d"
 -
   name:"Innocent Snowdrop"
   hex:"#d0c7ff"
@@ -6650,6 +6698,9 @@
   name:"Northern Star"
   hex:"#ffffea"
 -
+  name:"Northwind"
+  hex:"#cee5e9"
+-
   name:"Norway"
   hex:"#a4b88f"
 -
@@ -6914,9 +6965,6 @@
   name:"Outback"
   hex:"#c9a375"
 -
-  name:"Overbaked"
-  hex:"#61311c"
--
   name:"Overdue Blue"
   hex:"#4400ff"
 -
@@ -6973,6 +7021,9 @@
 -
   name:"Pale Whale"
   hex:"#b6d3df"
+-
+  name:"Palladian"
+  hex:"#eee9df"
 -
   name:"Palm"
   hex:"#afaf5e"
@@ -7130,11 +7181,17 @@
   name:"Patina"
   hex:"#639283"
 -
+  name:"Patisserie"
+  hex:"#eddbc8"
+-
   name:"PCB Green"
   hex:"#002d04"
 -
   name:"Pea"
   hex:"#a4bf20"
+-
+  name:"Peace & Quiet"
+  hex:"#e0dac8"
 -
   name:"Peach"
   hex:"#ffb07c"
@@ -7288,6 +7345,9 @@
 -
   name:"Persian Luxury Purple"
   hex:"#990077"
+-
+  name:"Persian Mosaic"
+  hex:"#206874"
 -
   name:"Persian Red"
   hex:"#cc3333"
@@ -7468,6 +7528,9 @@
 -
   name:"Pink Orchid"
   hex:"#da70d6"
+-
+  name:"Pink Palazzo"
+  hex:"#df9f8f"
 -
   name:"Pink Panther"
   hex:"#ff0090"
@@ -7841,6 +7904,9 @@
   name:"Prune"
   hex:"#701c11"
 -
+  name:"Prunella"
+  hex:"#864788"
+-
   name:"Psychedelic Purple"
   hex:"#dd00ff"
 -
@@ -7951,6 +8017,9 @@
 -
   name:"Quiche Lorraine"
   hex:"#fed56f"
+-
+  name:"Quick-Freeze"
+  hex:"#bddbe1"
 -
   name:"Quicksand"
   hex:"#ac9884"
@@ -8435,6 +8504,12 @@
   name:"Sea Serpent's Tears"
   hex:"#5511cc"
 -
+  name:"Seaborn"
+  hex:"#85c2b2"
+-
+  name:"Seafarer"
+  hex:"#204d68"
+-
   name:"Seafoam Splashes"
   hex:"#b0efce"
 -
@@ -8483,6 +8558,9 @@
   name:"Seven Seas"
   hex:"#4a5c6a"
 -
+  name:"Shadow of Night"
+  hex:"#2a4f61"
+-
   name:"Shadow Purple"
   hex:"#4e334e"
 -
@@ -8518,6 +8596,9 @@
 -
   name:"Shiny Trumpet"
   hex:"#ecae58"
+-
+  name:"Shipmate"
+  hex:"#7aa3cc"
 -
   name:"Shipyard"
   hex:"#4f6f85"
@@ -8570,8 +8651,14 @@
   name:"Silk Lining"
   hex:"#fcefe0"
 -
+  name:"Silk Satin"
+  hex:"#8b4248"
+-
   name:"Silk Star"
   hex:"#f5eec6"
+-
+  name:"Silken Chocolate"
+  hex:"#b77d5f"
 -
   name:"Silken Gold"
   hex:"#fce17c"
@@ -8618,6 +8705,9 @@
   name:"Silverplate"
   hex:"#c2c0ba"
 -
+  name:"Single Origin"
+  hex:"#713e39"
+-
   name:"Sinister"
   hex:"#12110e"
 -
@@ -8638,6 +8728,9 @@
 -
   name:"Sky Dancer"
   hex:"#4499ff"
+-
+  name:"Sky Dive"
+  hex:"#60bfd3"
 -
   name:"Sky Fall"
   hex:"#89c6df"
@@ -8831,6 +8924,9 @@
   name:"Space Exploration"
   hex:"#001199"
 -
+  name:"Space Missions"
+  hex:"#324471"
+-
   name:"Space Opera"
   hex:"#5511dd"
 -
@@ -8861,6 +8957,9 @@
   name:"Spectacular Scarlet"
   hex:"#f72305"
 -
+  name:"Spice Market"
+  hex:"#b84823"
+-
   name:"Spiced Up Orange"
   hex:"#e67a37"
 -
@@ -8890,6 +8989,9 @@
 -
   name:"Sprinkled With Pink"
   hex:"#e7a2ae"
+-
+  name:"Sprouted"
+  hex:"#f3d48b"
 -
   name:"Stainless Steel"
   hex:"#b4bdc7"
@@ -8956,6 +9058,9 @@
 -
   name:"Stormy Horizon"
   hex:"#777799"
+-
+  name:"Stormy Night"
+  hex:"#372354"
 -
   name:"Stormy Oceans"
   hex:"#70818e"
@@ -9038,6 +9143,9 @@
   name:"Sulphur"
   hex:"#ddb614"
 -
+  name:"Sultan Gold"
+  hex:"#f6ac17"
+-
   name:"Summer Crush"
   hex:"#f2d6da"
 -
@@ -9073,6 +9181,9 @@
 -
   name:"Sunken Gold"
   hex:"#b29700"
+-
+  name:"Sunkissed Beach"
+  hex:"#deab9b"
 -
   name:"Sunlight"
   hex:"#edd59e"
@@ -9130,6 +9241,9 @@
 -
   name:"Sweet Mint Pesto"
   hex:"#bbee99"
+-
+  name:"Sweet Perfume"
+  hex:"#d49ab9"
 -
   name:"Sweet Potato"
   hex:"#d87c3b"
@@ -9208,6 +9322,9 @@
 -
   name:"Tender Shoot"
   hex:"#e8eace"
+-
+  name:"Tender Taupe"
+  hex:"#c4b198"
 -
   name:"Tennis Ball"
   hex:"#dfff4f"
@@ -9785,6 +9902,9 @@
   name:"Vulcan Fire"
   hex:"#e6390d"
 -
+  name:"Vulcanized"
+  hex:"#424443"
+-
   name:"Waffle Cone"
   hex:"#e2c779"
 -
@@ -10079,6 +10199,9 @@
   name:"Windy Meadow"
   hex:"#b0a676"
 -
+  name:"Wine & Roses"
+  hex:"#a33540"
+-
   name:"Wine Barrel"
   hex:"#aa5522"
 -
@@ -10105,6 +10228,9 @@
 -
   name:"Winter Duvet"
   hex:"#ffffe0"
+-
+  name:"Winter Scene"
+  hex:"#becedb"
 -
   name:"Winter Storm"
   hex:"#4b7079"
@@ -10136,6 +10262,9 @@
   name:"Wizard's Brew"
   hex:"#a090b8"
 -
+  name:"Wolf Pack"
+  hex:"#78776f"
+-
   name:"Wolfram"
   hex:"#b5b6b7"
 -
@@ -10150,6 +10279,9 @@
 -
   name:"Woodland Grass"
   hex:"#004400"
+-
+  name:"Woodland Soul"
+  hex:"#127a49"
 -
   name:"Worcestershire Sauce"
   hex:"#572b26"
