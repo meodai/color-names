@@ -331,12 +331,13 @@ function diffSVG() {
     const changes = diffTxt.match(/(?<=^[\+])[^\+].*/gm).filter(i => i);
     const svgTxtStr = changes.reduce((str, change, i) => {
       const changeParts = change.split(',');
-      return `${str}<text x="40" y="${20 + (i + 1) * 70}" fill="${changeParts[1]}">${changeParts[0]}</text>`;
+      return `${str}<text x="40" y="${20 + (i + 1) * 70}" fill="${changeParts[1]}">${changeParts[0].replace(/&/g, '&amp;')}</text>`;
     }, '');
 
     fs.writeFileSync(
       path.normalize(`${baseFolder}changes.svg`),
-      svgTpl.replace(/{height}/g, changes.length * 70 + 80).replace(/{items}/g, svgTxtStr)
+      svgTpl.replace(/{height}/g, changes.length * 70 + 80)
+        .replace(/{items}/g, svgTxtStr)
     );
   });
 };
