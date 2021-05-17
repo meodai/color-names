@@ -212,7 +212,7 @@ See [package.json](package.json#L6) for more.
 - [Metafizzy] Logo 💖
 
 ## Sponsors
-- [Dmitry Iv.] 10USD a Month
+- [Dmitry Iv.]
 
 ### Color Namers
 
