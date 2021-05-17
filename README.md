@@ -209,7 +209,10 @@ See [package.json](package.json#L6) for more.
 - [meodai] Initiator, maintainer, name creator &, tooling
 - [Nirazul] Name creator & tooling
 - [Bathos] Tooling
-- [Metafizzy] Logo Sponsor 💖
+- [Metafizzy] Logo 💖
+
+## Sponsors
+- [Dmitry Iv.] 10USD a Month
 
 ### Color Namers
 
@@ -269,6 +272,7 @@ As some of the color names come from other lists, some bad ones might slip in. [
 [DarthTorus]: https://github.com/DarthTorus
 [Carrion]: https://twitter.com/Cutlaska
 [BlueChaos]: https://www.instagram.com/bluechaos1811/
+[Dmitry Iv.]: https://github.com/dy
 
 <!-- Sources: Names -->
 
