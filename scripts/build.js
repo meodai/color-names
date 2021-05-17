@@ -189,14 +189,6 @@ const outputFormats = {
     itemDelimitor: ':',
     rowDelimitor: ',',
   },
-  'css': {
-    insertBefore: ':root{\r\n--color-',
-    beforeValue: '',
-    afterValue: '',
-    insertAfter: '}',
-    itemDelimitor: ':',
-    rowDelimitor: ';\r\n--color-',
-  },
   'html': {
     insertBefore: `<table><thead><tr><th>${csvKeys.join('</th><th>')}</th></tr><thead><tbody><tr><td>`,
     itemDelimitor: '</td><td>',
@@ -221,13 +213,6 @@ for (const outputFormat in outputFormats) {
     if (outputFormat === 'html' || outputFormat === 'xml') {
       outputString = outputString.replace(/&/g, '&amp;');
     }
-    if (outputFormat === 'css') {
-      outputString = outputString.toLowerCase();
-      outputString = outputString.replace(/'/g, '');
-      outputString = outputString.replace(/ /g, '-');
-      outputString = outputString.replace(/&/g, 'and');
-      outputString = outputString.replace(/%/g, 'percent');
-    }
     fs.writeFileSync(
         path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.${outputFormat}`),
         outputString
@@ -245,13 +230,6 @@ for (const outputFormat in outputFormats) {
     );
     if (outputFormat === 'html' || outputFormat === 'xml') {
       outputString = outputString.replace(/&/g, '&amp;');
-    }
-    if (outputFormat === 'css') {
-      outputString = outputString.toLowerCase();
-      outputString = outputString.replace(/'/g, '');
-      outputString = outputString.replace(/ /g, '-');
-      outputString = outputString.replace(/&/g, 'and');
-      outputString = outputString.replace(/%/g, 'percent');
     }
     fs.writeFileSync(
       path.normalize(`${baseFolder}${folderDist}${fileNameSrc}${fileNameBestOfPostfix}.${outputFormat}`),

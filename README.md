@@ -13,6 +13,10 @@ A handpicked list of __28803__ unique color names from [various sources](#source
 
 > The names of color function like a thread attached to a frightfully slender needle, capable of stitching together our most delicate emotions and memories. When the needle hits the target, we feel either pleasure or empathy. **Kenya Hara – White**
 
+<p>
+  <a href="#explore-">Explore / Find Names</a> | <a href="#color-distribution-">Name distribution in different models</a> | <a href="#usage-">Usage</a> | <a href="#cdn-">CDN</a> | <a href="#api-">Public Rest API</a> | <a href="##usage-js-">Usage JS</a> | <a href="#sources-">Name Sources</a> | <a href="#latest-color-names-">Latest Color Names</a>
+</p>
+
 ## About 📋
 
 The aim of this project is to create as large a list of color names as possible while maintining a good name quality. We've merged various [lists](#sources-), modified the names when there were duplicates with different hex values, and shifted the colors a bit when there were identical colors with different names.
@@ -51,7 +55,7 @@ or `yarn add color-name-list`
 
 ### CDN 🌍
 #### All Names 📚
-[JSON](https://unpkg.com/color-name-list/dist/colornames.json) / [JSON.min](https://unpkg.com/color-name-list/dist/colornames.min.json) / [CSV](https://unpkg.com/color-name-list/dist/colornames.csv) / [YML](https://unpkg.com/color-name-list/dist/colornames.yaml) / [JS](https://unpkg.com/color-name-list/dist/colornames.umd.js) / [XML](https://unpkg.com/color-name-list/dist/colornames.xml) / [HTML](https://unpkg.com/color-name-list/dist/colornames.html) / [SCSS](https://unpkg.com/color-name-list/dist/colornames.scss) / [CSS](https://unpkg.com/color-name-list/dist/colornames.css)
+[JSON](https://unpkg.com/color-name-list/dist/colornames.json) / [JSON.min](https://unpkg.com/color-name-list/dist/colornames.min.json) / [CSV](https://unpkg.com/color-name-list/dist/colornames.csv) / [YML](https://unpkg.com/color-name-list/dist/colornames.yaml) / [JS](https://unpkg.com/color-name-list/dist/colornames.umd.js) / [XML](https://unpkg.com/color-name-list/dist/colornames.xml) / [HTML](https://unpkg.com/color-name-list/dist/colornames.html) / [SCSS](https://unpkg.com/color-name-list/dist/colornames.scss)
 
 #### Best of Names subset 🏆
 [JSON](https://unpkg.com/color-name-list/dist/colornames.bestof.json) / [JSON.min](https://unpkg.com/color-name-list/dist/colornames.bestof.min.json) / [CSV](https://unpkg.com/color-name-list/dist/colornames.bestof.csv) / [YML](https://unpkg.com/color-name-list/dist/colornames.bestof.yaml) / [JS](https://unpkg.com/color-name-list/dist/colornames.bestof.umd.js) / [XML](https://unpkg.com/color-name-list/dist/colornames.bestof.xml) / [HTML](https://unpkg.com/color-name-list/dist/colornames.bestof.html) / [SCSS](https://unpkg.com/color-name-list/dist/colornames.bestof.scss) / [CSS](https://unpkg.com/color-name-list/dist/colornames.bestof.css)
