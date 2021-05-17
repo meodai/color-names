@@ -20,11 +20,17 @@
   name:"A Dime a Dozen"
   hex:"#d3dde4"
 -
+  name:"À L'Orange"
+  hex:"#f2850d"
+-
   name:"A Smell of Bakery"
   hex:"#f3e9d9"
 -
   name:"A State of Mint"
   hex:"#88ffcc"
+-
+  name:"Abloom"
+  hex:"#f1cbcd"
 -
   name:"Abyssal"
   hex:"#404c57"
@@ -76,6 +82,9 @@
 -
   name:"Almond Milk"
   hex:"#d6cebe"
+-
+  name:"Aloe Tip"
+  hex:"#8a9480"
 -
   name:"Aloe Vera"
   hex:"#678779"
@@ -223,6 +232,9 @@
 -
   name:"Argent"
   hex:"#888888"
+-
+  name:"Argento"
+  hex:"#cecac3"
 -
   name:"Ariel"
   hex:"#aed7ea"
@@ -851,6 +863,9 @@
   name:"Blush d'Amour"
   hex:"#de5d83"
 -
+  name:"Blush Kiss"
+  hex:"#eabcc0"
+-
   name:"Blush Rush"
   hex:"#f0bcbe"
 -
@@ -1117,6 +1132,9 @@
 -
   name:"Butter"
   hex:"#ffff81"
+-
+  name:"Butter Bronze"
+  hex:"#c88849"
 -
   name:"Butter Up"
   hex:"#f4e0bb"
@@ -1489,6 +1507,9 @@
 -
   name:"Charm"
   hex:"#d0748b"
+-
+  name:"Charming Peach"
+  hex:"#f5ad75"
 -
   name:"Chartreuse"
   hex:"#c1f80a"
@@ -2111,6 +2132,9 @@
   name:"Daffodil"
   hex:"#ffff31"
 -
+  name:"Dainty Peach"
+  hex:"#ffcdb9"
+-
   name:"Daisy Desi"
   hex:"#fcdf8a"
 -
@@ -2428,6 +2452,9 @@
 -
   name:"Dogwood"
   hex:"#faeae2"
+-
+  name:"Dolce Pink"
+  hex:"#f0d9e0"
 -
   name:"Dollar Bill"
   hex:"#85bb65"
@@ -4061,6 +4088,9 @@
   name:"Hanami Pink"
   hex:"#f2abe1"
 -
+  name:"Handmade"
+  hex:"#7f735f"
+-
   name:"Hanging Gardens of Babylon"
   hex:"#11aa44"
 -
@@ -4421,6 +4451,9 @@
   name:"Honey Glow"
   hex:"#e8b447"
 -
+  name:"Honey Gold"
+  hex:"#e1b67c"
+-
   name:"Honey Teriyaki"
   hex:"#ee6611"
 -
@@ -4700,6 +4733,9 @@
   name:"Ink Black"
   hex:"#252024"
 -
+  name:"Inkblot"
+  hex:"#393f4b"
+-
   name:"Inkjet"
   hex:"#44556b"
 -
@@ -4729,6 +4765,9 @@
 -
   name:"Intimate Journal"
   hex:"#ccbb99"
+-
+  name:"Into the Blue"
+  hex:"#4f7ba7"
 -
   name:"Into the Stratosphere"
   hex:"#425267"
@@ -5179,6 +5218,9 @@
 -
   name:"Lava Pit"
   hex:"#e46f34"
+-
+  name:"Lava Rock"
+  hex:"#535e64"
 -
   name:"Lava Stone"
   hex:"#3c4151"
@@ -6182,6 +6224,9 @@
   name:"Misty Morning"
   hex:"#b2c8bd"
 -
+  name:"Misty Mountains"
+  hex:"#c0d0e6"
+-
   name:"Mithril"
   hex:"#878787"
 -
@@ -6529,6 +6574,9 @@
 -
   name:"Necklace Pearl"
   hex:"#f6eeed"
+-
+  name:"Nectar"
+  hex:"#ecdacd"
 -
   name:"Nectarine"
   hex:"#ff8656"
@@ -7256,6 +7304,9 @@
   name:"Peachy Pinky"
   hex:"#ff775e"
 -
+  name:"Peachy-Kini"
+  hex:"#f1bf92"
+-
   name:"Peacock Pride"
   hex:"#006663"
 -
@@ -7361,6 +7412,9 @@
   name:"Persian Luxury Purple"
   hex:"#990077"
 -
+  name:"Persian Melon"
+  hex:"#ffdcbf"
+-
   name:"Persian Mosaic"
   hex:"#206874"
 -
@@ -7438,6 +7492,9 @@
 -
   name:"Picante"
   hex:"#8d3f2d"
+-
+  name:"Piccadilly Purple"
+  hex:"#51588e"
 -
   name:"Pickled"
   hex:"#b3a74b"
@@ -7540,6 +7597,9 @@
 -
   name:"Pink Lemonade"
   hex:"#ffeaeb"
+-
+  name:"Pink Macaroon"
+  hex:"#eaacc6"
 -
   name:"Pink Orchid"
   hex:"#da70d6"
@@ -8378,6 +8438,12 @@
   name:"Salmon"
   hex:"#ff796c"
 -
+  name:"Salmon Flush"
+  hex:"#f1c9cc"
+-
+  name:"Salmon Glow"
+  hex:"#ebb9af"
+-
   name:"Salmon Nigiri"
   hex:"#f9906f"
 -
@@ -8395,6 +8461,9 @@
 -
   name:"Salt"
   hex:"#efede6"
+-
+  name:"Salt Caramel"
+  hex:"#d3934d"
 -
   name:"Salt Mountain"
   hex:"#d7fefe"
@@ -8443,6 +8512,9 @@
 -
   name:"Sapphire Splendour"
   hex:"#2425b9"
+-
+  name:"Sassy Salmon"
+  hex:"#ee7c54"
 -
   name:"Satin Chocolate"
   hex:"#773344"
@@ -8884,6 +8956,9 @@
 -
   name:"Soft Pillow"
   hex:"#fff5e7"
+-
+  name:"Soft Pumpkin"
+  hex:"#dc8e31"
 -
   name:"Solar"
   hex:"#fbeab8"
@@ -9389,6 +9464,9 @@
   name:"Thunder & Lightning"
   hex:"#f9f5db"
 -
+  name:"Thunderbird"
+  hex:"#923830"
+-
   name:"Thunderbolt"
   hex:"#fdefad"
 -
@@ -9584,8 +9662,14 @@
   name:"Tutu"
   hex:"#f8e4e3"
 -
+  name:"Tuxedo"
+  hex:"#3f3c43"
+-
   name:"Twilight"
   hex:"#4e518b"
+-
+  name:"Twinkle Pink"
+  hex:"#fbd8cc"
 -
   name:"Twinkly Pinkily"
   hex:"#cf4796"
@@ -9944,6 +10028,9 @@
   name:"Walkie Chalkie"
   hex:"#faf5fa"
 -
+  name:"Walkway"
+  hex:"#a3999c"
+-
   name:"Walled Garden"
   hex:"#11cc44"
 -
@@ -10300,6 +10387,9 @@
 -
   name:"Woodgrain"
   hex:"#996633"
+-
+  name:"Woodhaven"
+  hex:"#9e7b6c"
 -
   name:"Woodland Grass"
   hex:"#004400"
