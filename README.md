@@ -211,8 +211,26 @@ See [package.json](package.json#L6) for more.
 - [Bathos] Tooling
 - [Metafizzy] Logo 💖
 
-## Sponsors
-- [Dmitry Iv.]
+## Costs & Sponsors
+
+### Sponsors
+
+- [Dmitry Iv.] 10USD/month
+
+### Project Costs USD
+
+#### One-Time
+
+| Item                    | Expenditure   |
+| ----------------------- | ------------- |
+| Logo by Metafizzy       | 800           |
+#### Periodic
+
+| Item                    | Expenditure   |
+| ----------------------- | ------------- |
+| Color Name API Server   | 264.60/year   |
+| color.pizza domain name | 36.16/year    |
+| Cloudflare PRO Plan     | 240/year      |
 
 ### Color Namers
 
