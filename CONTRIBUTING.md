@@ -10,6 +10,8 @@ Please note we have a code of conduct, please follow it in all your interactions
 4. Make sure that neither name nor hex value of your added colors are already in use. `npm run test` will test that for you.
 5. Update the `README.md` with the source of your colors, unless you invented that color, in this case add yourself to the contributors in the `README.md`
 
+**We use automated semantic versioning** make sure to use git cz (or npm run commit).
+
 ## Rules for new color names
 
 - No duplicate names or hex values.
