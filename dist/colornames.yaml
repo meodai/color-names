@@ -296,6 +296,9 @@
   name:"Acini di Pepe"
   hex:"#ffd8b1"
 -
+  name:"Aconite Purple"
+  hex:"#7249d6"
+-
   name:"Acorn"
   hex:"#7e5e52"
 -
@@ -6763,6 +6766,9 @@
 -
   name:"Best of the Bunch"
   hex:"#bd5442"
+-
+  name:"Bestial Blood"
+  hex:"#cd343d"
 -
   name:"Bestial Brown"
   hex:"#6b3900"
@@ -19307,19 +19313,16 @@
   name:"Crème Brûlée"
   hex:"#ffe39b"
 -
-  name:"Crème De Caramel"
+  name:"Crème de Caramel"
   hex:"#d4b38f"
 -
   name:"Crème de la Crème"
   hex:"#f3e7b4"
 -
-  name:"Crème De La Crème"
-  hex:"#e2ded7"
--
   name:"Crème de Menthe"
   hex:"#f1fde9"
 -
-  name:"Creme De Peche"
+  name:"Creme de Peche"
   hex:"#f5d6c6"
 -
   name:"Crème Fraîche"
@@ -25001,6 +25004,9 @@
   name:"Elven Flesh"
   hex:"#f7cf8a"
 -
+  name:"Elven Olympics"
+  hex:"#6ca024"
+-
   name:"Elwynn Forest Olive"
   hex:"#7a8716"
 -
@@ -28699,6 +28705,9 @@
 -
   name:"Forest Ridge"
   hex:"#555d46"
+-
+  name:"Forest Sand"
+  hex:"#c8caa4"
 -
   name:"Forest Shade"
   hex:"#91ac80"
@@ -59961,7 +59970,7 @@
   hex:"#f4f09b"
 -
   name:"Portrait Pink"
-  hex:"#c6b4a9"
+  hex:"#f0d3df"
 -
   name:"Portrait Tone"
   hex:"#c4957a"
@@ -64438,6 +64447,9 @@
 -
   name:"River Mud"
   hex:"#a08b71"
+-
+  name:"River of Gold"
+  hex:"#e4b55d"
 -
   name:"River Pebble"
   hex:"#a39c92"
@@ -76078,6 +76090,9 @@
 -
   name:"Swimmer"
   hex:"#0a91bf"
+-
+  name:"Swimmers Pool"
+  hex:"#2dc5bb"
 -
   name:"Swimming"
   hex:"#c2e5e5"
