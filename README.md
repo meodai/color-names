@@ -18,8 +18,8 @@ A handpicked list of __28808__ unique color names from [various sources](#source
 </p>
 
 ## About 📋
-
 The aim of this project is to create a list of color names as large as possible, while keeping a good name quality. We've merged various [lists](#sources-), modified the names when there were duplicates with different hex values, and shifted the colors a bit when there were identical colors with different names.
+
 
 ## Explore 🌍
 
