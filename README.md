@@ -14,7 +14,7 @@ A handpicked list of __28808__ unique color names from [various sources](#source
 > The names of color function like a thread attached to a frightfully slender needle, capable of stitching together our most delicate emotions and memories. When the needle hits the target, we feel either pleasure or empathy. **Kenya Hara – White**
 
 <p>
-  <a href="#explore-">Explore / Find Names</a> | <a href="#color-distribution-">Name distribution in different models</a> | <a href="#usage-">Usage</a> | <a href="#cdn-">CDN</a> | <a href="#api-">Public Rest API</a> | <a href="##usage-js-⌨">Usage JS</a> | <a href="#sources-">Name Sources</a> | <a href="#latest-color-names-">Latest Color Names</a>
+  <a href="#explore-">Explore / Find Names</a> | <a href="#color-distribution-">Name distribution in different models</a> | <a href="#usage-">Usage</a> | <a href="#cdn-">CDN</a> | <a href="#api-">Public Rest API</a> | <a href="##usage-js->Usage JS</a> | <a href="#sources-">Name Sources</a> | <a href="#latest-color-names-">Latest Color Names</a>
 </p>
 
 ## About 📋
