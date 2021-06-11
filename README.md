@@ -14,12 +14,12 @@ A handpicked list of __28808__ unique color names from [various sources](#source
 > The names of color function like a thread attached to a frightfully slender needle, capable of stitching together our most delicate emotions and memories. When the needle hits the target, we feel either pleasure or empathy. **Kenya Hara – White**
 
 <p>
-  <a href="#explore-">Explore / Find Names</a> | <a href="#color-distribution-">Name distribution in different models</a> | <a href="#usage-">Usage</a> | <a href="#cdn-">CDN</a> | <a href="#api-">Public Rest API</a> | <a href="##usage-js-">Usage JS</a> | <a href="#sources-">Name Sources</a> | <a href="#latest-color-names-">Latest Color Names</a>
+  <a href="#explore-">Explore / Find Names</a> | <a href="#color-distribution-">Name distribution in different models</a> | <a href="#usage-">Usage</a> | <a href="#cdn-">CDN</a> | <a href="#api-">Public Rest API</a> | <a href="#usage-js-">Usage JS</a> | <a href="#sources-">Name Sources</a> | <a href="#latest-color-names-">Latest Color Names</a>
 </p>
 
 ## About 📋
+The aim of this project is to create a list of color names as large as possible, while keeping a good name quality. We've merged various [lists](#sources-), modified the names when there were duplicates with different hex values, and shifted the colors a bit when there were identical colors with different names.
 
-The aim of this project is to create a list of color names as large as possible, while maintining a good name quality. We've merged various [lists](#sources-), modified the names when there were duplicates with different hex values, and shifted the colors a bit when there were identical colors with different names.
 
 ## Explore 🌍
 
@@ -47,7 +47,7 @@ Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute!
 When coming up with new color names, it is vital to know what spots in a certain color-space are crowded and where there is still room for new colors. For example: Our API returns the closest `RGB` color to a given `HEX` value. To avoid too many colors snapping to the same name, we aim to distribute the colors evenly in the color space: [Visualization](https://codepen.io/meodai/full/zdgXJj/)
 
 ## Usage 📖
-### Installation Node.js 📦
+### Node.js Installation 📦
 ```shell
 npm install color-name-list --save
 ```
@@ -239,9 +239,7 @@ See [package.json](package.json#L6) for more.
 ## Disclaimer 👮🏾‍
 
 In the process we try to remove all names that are offensive or racist, as well as protected brand names.
-As some of the color names come from other lists, some bad ones might slip in. [Please report them], they will be removed as quickly as possible.
-
-[Please report them]: https://github.com/meodai/color-names/issues/new?title=Bad%20color%20name
+As some of the color names come from other lists, some bad ones might slip in. [Please report them](https://github.com/meodai/color-names/issues/new?title=Bad%20color%20name), they will be removed as quickly as possible.
 
 ## Latest Color Names 🔖
 
@@ -270,7 +268,7 @@ As some of the color names come from other lists, some bad ones might slip in. [
 [Ichatdelune]: https://www.reddit.com/user/Ichatdelune
 [Inês João]: https://www.inesjoao.me/
 [Jason Wilson]: https://github.com/SgiobairOg
-[Jess the name wizzard]: https://twitter.com/_nutbird_
+[Jess the name wizard]: https://twitter.com/_nutbird_
 [meodai]: https://github.com/meodai
 [Bathos]: https://github.com/bathos
 [Metafizzy]: https://metafizzy.co/
@@ -280,7 +278,7 @@ As some of the color names come from other lists, some bad ones might slip in. [
 [Simbiasamba]: https://www.instagram.com/simbisamba/
 [Stephanie Stutz]: https://www.behance.net/stephaniestutzart
 [Syl]: https://twitter.com/MMOsyl
-[Verena the naming overloard]: https://github.com/yxklyx/
+[Verena the naming overlord]: https://github.com/yxklyx/
 [basgys]: https://github.com/basgys
 [cheesits456]: https://cheesits456.dev
 [Sandhya Subram]: https://sandhyasubram.github.io/
