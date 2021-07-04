@@ -8,22 +8,38 @@
 [![npm](https://img.shields.io/npm/dt/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
 [![name count](https://img.shields.io/badge/__28808__-names-orange.svg)](https://github.com/meodai/color-names/blob/master/src/colornames.csv)
 
-A handpicked list of __28808__ unique color names from [various sources](#sources-) and thousands of curated user submissions.
+A handpicked list of __28808__ unique color names from
+[various sources](#sources-) and thousands of curated user submissions.
 
-> The names of color function like a thread attached to a frightfully slender needle, capable of stitching together our most delicate emotions and memories. When the needle hits the target, we feel either pleasure or empathy. **Kenya Hara – White**
+> The names of color function like a thread attached to a frightfully slender
+> needle, capable of stitching together our most delicate emotions and memories.
+> When the needle hits the target, we feel either pleasure or empathy.
+> **Kenya Hara – White**
 
 <p>
-  <a href="#explore-">Explore / Find Names</a> | <a href="#color-distribution-">Name distribution in different models</a> | <a href="#usage-">Usage</a> | <a href="#cdn-">CDN</a> | <a href="#api-">Public Rest API</a> | <a href="#usage-js-">Usage JS</a> | <a href="#sources-">Name Sources</a> | <a href="#latest-color-names-">Latest Color Names</a>
+  <a href="#explore-">Explore / Find Names</a>
+  | <a href="#color-distribution-">Name distribution in different models</a>
+  | <a href="#usage-">Usage</a>
+  | <a href="#cdn-">CDN</a>
+  | <a href="#api-">Public Rest API</a>
+  | <a href="#usage-js-">Usage JS</a>
+  | <a href="#sources-">Name Sources</a>
+  | <a href="#latest-color-names-">Latest Color Names</a>
 </p>
 
 ## About 📋
 
-The aim of this project is to create a list of color names as large as possible, while keeping a good name quality. We've merged various [lists](#sources-), modified the names when there were duplicates with different hex values, and shifted the colors a bit when there were identical colors with different names.
+The aim of this project is to create a list of color names as large as possible,
+while keeping a good name quality. We've merged various [lists](#sources-),
+modified the names when there were duplicates with different hex values, and
+shifted the colors a bit when there were identical colors with different names.
 
 ## Explore 🌍
 
-- [Color Picker & Name Search] Click the wheel to get name for a color, or just use the full text search.
-- [Color Picker]: Click the colored surface to change the color or type in a hex value below the name.
+- [Color Picker & Name Search] Click the wheel to get name for a color, or just
+  use the full text search.
+- [Color Picker]: Click the colored surface to change the color or type in a
+  hex value below the name.
 - [Color Picker II]: Move your mouse and scroll to choose a color.
 - [Name Search]: full text search on the color list.
 - [Color Distribution] 3D view of all color names in different color spaces.
@@ -43,7 +59,11 @@ Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute!
 
 ![3d representation of color distribution in RGB Space (Preview image of link above)](https://raw.githubusercontent.com/meodai/color-names/gh-pages/color-spaces.gif)
 
-When coming up with new color names, it is vital to know what spots in a certain color-space are crowded and where there is still room for new colors. For example: Our API returns the closest `RGB` color to a given `HEX` value. To avoid too many colors snapping to the same name, we aim to distribute the colors evenly in the color space: [Visualization](https://codepen.io/meodai/full/zdgXJj/)
+When coming up with new color names, it is vital to know what spots in a
+certain color-space are crowded and where there is still room for new colors.
+For example: Our API returns the closest `RGB` color to a given `HEX` value.
+To avoid too many colors snapping to the same name, we aim to distribute the
+colors evenly in the color space: [Visualization](https://codepen.io/meodai/full/zdgXJj/)
 
 ## Usage 📖
 
@@ -59,11 +79,26 @@ or `yarn add color-name-list`
 
 #### All Names 📚
 
-[JSON](https://unpkg.com/color-name-list/dist/colornames.json) / [JSON.min](https://unpkg.com/color-name-list/dist/colornames.min.json) / [CSV](https://unpkg.com/color-name-list/dist/colornames.csv) / [YML](https://unpkg.com/color-name-list/dist/colornames.yaml) / [JS](https://unpkg.com/color-name-list/dist/colornames.umd.js) / [XML](https://unpkg.com/color-name-list/dist/colornames.xml) / [HTML](https://unpkg.com/color-name-list/dist/colornames.html) / [SCSS](https://unpkg.com/color-name-list/dist/colornames.scss)
+[JSON](https://unpkg.com/color-name-list/dist/colornames.json)
+/ [JSON.min](https://unpkg.com/color-name-list/dist/colornames.min.json)
+/ [CSV](https://unpkg.com/color-name-list/dist/colornames.csv)
+/ [YML](https://unpkg.com/color-name-list/dist/colornames.yaml)
+/ [JS](https://unpkg.com/color-name-list/dist/colornames.umd.js)
+/ [XML](https://unpkg.com/color-name-list/dist/colornames.xml)
+/ [HTML](https://unpkg.com/color-name-list/dist/colornames.html)
+/ [SCSS](https://unpkg.com/color-name-list/dist/colornames.scss)
 
 #### Best of Names subset 🏆
 
-[JSON](https://unpkg.com/color-name-list/dist/colornames.bestof.json) / [JSON.min](https://unpkg.com/color-name-list/dist/colornames.bestof.min.json) / [CSV](https://unpkg.com/color-name-list/dist/colornames.bestof.csv) / [YML](https://unpkg.com/color-name-list/dist/colornames.bestof.yaml) / [JS](https://unpkg.com/color-name-list/dist/colornames.bestof.umd.js) / [XML](https://unpkg.com/color-name-list/dist/colornames.bestof.xml) / [HTML](https://unpkg.com/color-name-list/dist/colornames.bestof.html) / [SCSS](https://unpkg.com/color-name-list/dist/colornames.bestof.scss) / [CSS](https://unpkg.com/color-name-list/dist/colornames.bestof.css)
+[JSON](https://unpkg.com/color-name-list/dist/colornames.bestof.json)
+/ [JSON.min](https://unpkg.com/color-name-list/dist/colornames.bestof.min.json)
+/ [CSV](https://unpkg.com/color-name-list/dist/colornames.bestof.csv)
+/ [YML](https://unpkg.com/color-name-list/dist/colornames.bestof.yaml)
+/ [JS](https://unpkg.com/color-name-list/dist/colornames.bestof.umd.js)
+/ [XML](https://unpkg.com/color-name-list/dist/colornames.bestof.xml)
+/ [HTML](https://unpkg.com/color-name-list/dist/colornames.bestof.html)
+/ [SCSS](https://unpkg.com/color-name-list/dist/colornames.bestof.scss)
+/ [CSS](https://unpkg.com/color-name-list/dist/colornames.bestof.css)
 
 ### API 🃏
 
@@ -108,7 +143,8 @@ In this case colors is not an `object` but an `array` of `objects` sorted by col
 
 #### Unique Color-Names
 
-by adding `?noduplicates=true` every returned name will be unique. The closest color, that was not returned previously will be returned:
+by adding `?noduplicates=true` every returned name will be unique.
+The closest color, that was not returned previously will be returned:
 `curl` [https://api.color.pizza/v1/?values=212121,212121&noduplicates=true](https://api.color.pizza/v1/?values=212121,212121&noduplicates=true)
 
 ```javascript
@@ -144,7 +180,10 @@ Returns an `array` of color `objects` which match the given query, sorted by col
 
 #### Good Color-Names
 
-Not all color-names are created equal; add [`?goodnamesonly=true`](https://api.color.pizza/v1/?values=212121,060606,ff0012,550055,123456&goodnamesonly=true) to your request URL to get a handpicked subset of names that were rated as good by humans. (Colors that are liked a lot on [twitter](https://twitter.com/color_parrot) and some of the team favourites).
+Not all color-names are created equal; add [`?goodnamesonly=true`](https://api.color.pizza/v1/?values=212121,060606,ff0012,550055,123456&goodnamesonly=true)
+to your request URL to get a handpicked subset of names that were rated as good
+by humans. (Colors that are liked a lot on [twitter](https://twitter.com/color_parrot)
+and some of the team favourites).
 
 ### Usage JS ⌨
 
@@ -162,7 +201,8 @@ console.log(someColor.hex); // => #16161d
 
 #### Closest Named Color
 
-Since there are 16777216 possible RGB colors, you might use a library such as [nearest-color] or [ClosestVector] to help you find the the closest named color.
+Since there are 16777216 possible RGB colors, you might use a library such as
+[nearest-color] or [ClosestVector] to help you find the the closest named color.
 
 ```js
 import nearestColor from 'nearest-color';
@@ -179,7 +219,9 @@ nearest('#f1c1d1'); // => Fairy Tale
 
 Alternative package: [ktree](https://github.com/caub/ktree)
 
-**Note**: If you are looking for something visually more accurate, you could: use [DeltaE], or use the above snippet, combined with a transform from rgb to [ciecam02] scaled to 0-255.
+**Note**: If you are looking for something visually more accurate, you could:
+use [DeltaE], or use the above snippet, combined with a transform from rgb to
+[ciecam02] scaled to 0-255.
 
 [DeltaE]: https://github.com/zschuessler/DeltaE
 [ciecam02]: https://github.com/baskerville/ciecam02
@@ -212,7 +254,13 @@ See [package.json](package.json#L6) for more.
 - [Olympian god colors]
 - Model Color Paints: [Vallejo](http://www.danbecker.info/minis/miniother/PaintCharts/VallejoModelColor.html)
 - [Fictional Colors] (2018-05-09)
-- Non English Transliterations: [Japanese](https://en.wikipedia.org/wiki/Traditional_colors_of_Japan), [Mandarin](http://www.fluentu.com/blog/chinese/2016/07/25/chinese-colors/), [Hindi](https://en.wikibooks.org/wiki/Hindi/Colors), [Persian](https://en.wikibooks.org/wiki/Persian/Phrasebook/Colors), [Russian](//github.com/AleksejDix), [Māori](https://www.maorilanguage.net/maori-words-phrases/colours-nga-tae/)
+- Non English Transliterations:
+  [Japanese](https://en.wikipedia.org/wiki/Traditional_colors_of_Japan)
+  , [Mandarin](http://www.fluentu.com/blog/chinese/2016/07/25/chinese-colors/)
+  , [Hindi](https://en.wikibooks.org/wiki/Hindi/Colors)
+  , [Persian](https://en.wikibooks.org/wiki/Persian/Phrasebook/Colors)
+  , [Russian](//github.com/AleksejDix)
+  , [Māori](https://www.maorilanguage.net/maori-words-phrases/colours-nga-tae/)
 - Multiple paint, print, nail polish, model paint color lists
 - Curated Machine Learning names from [Matt DesLauriers](https://twitter.com/mattdesl/status/1234829613907501057) and [Nathan Kjer](https://nathankjer.com/text-generation/)
 
@@ -253,12 +301,35 @@ See [package.json](package.json#L6) for more.
 
 ### Color Namers
 
-[Verena the naming overloard], [Jess the name wizzard], [Syl], [Stephanie Stutz], [Simbiasamba], [Jason Wilson], [Inês João], [Nick Niles], [Qwhex], [Ichatdelune], [basgys], Shelina S., Trevor Elia, [cheesits456], [Sandhya Subram], [BerylBucket], [Jimmy Fitzback], [TLZ], [DarthTorus], [Carrion], [BlueChaos]
+[Verena the naming overlord]
+, [Jess the name wizard]
+, [Syl]
+, [Stephanie Stutz]
+, [Simbiasamba]
+, [Jason Wilson]
+, [Inês João]
+, [Nick Niles]
+, [Qwhex]
+, [Ichatdelune]
+, [basgys]
+, Shelina S.
+, Trevor Elia
+, [cheesits456]
+, [Sandhya Subram]
+, [BerylBucket]
+, [Jimmy Fitzback]
+, [TLZ]
+, [DarthTorus]
+, [Carrion]
+, [BlueChaos]
 
 ## Disclaimer 👮🏾‍
 
-In the process we try to remove all names that are offensive or racist, as well as protected brand names.
-As some of the color names come from other lists, some bad ones might slip in. [Please report them](https://github.com/meodai/color-names/issues/new?title=Bad%20color%20name), they will be removed as quickly as possible.
+In the process we try to remove all names that are offensive or racist,
+as well as protected brand names.
+As some of the color names come from other lists, some bad ones might slip in.
+[Please report them](https://github.com/meodai/color-names/issues/new?title=Bad%20color%20name),
+they will be removed as quickly as possible.
 
 ## Latest Color Names 🔖
 
