@@ -5378,6 +5378,9 @@
   name:"Bancroft Village"
   hex:"#816e54"
 -
+  name:"Band-Aid"
+  hex:"#d7a97c"
+-
   name:"Banded Tulip"
   hex:"#e0d3bd"
 -
@@ -7964,6 +7967,9 @@
   name:"Blister Pearl"
   hex:"#aaffee"
 -
+  name:"Blistering Mars"
+  hex:"#ff6c51"
+-
   name:"Blithe"
   hex:"#0084bd"
 -
@@ -8335,6 +8341,9 @@
 -
   name:"Blue Calypso"
   hex:"#55a7b6"
+-
+  name:"Blue Cardinal Flower"
+  hex:"#2f36ba"
 -
   name:"Blue Carpenter Bee"
   hex:"#9cd0e4"
@@ -10955,6 +10964,9 @@
   name:"Brown Derby"
   hex:"#594537"
 -
+  name:"Brown Eyed Girl"
+  hex:"#89491a"
+-
   name:"Brown Eyes"
   hex:"#9e6b4a"
 -
@@ -13573,6 +13585,9 @@
 -
   name:"Carrot Flower"
   hex:"#cbd3c1"
+-
+  name:"Carrot Lava"
+  hex:"#fc5a1f"
 -
   name:"Carrot Orange"
   hex:"#ed9121"
@@ -19697,6 +19712,9 @@
   name:"Cry Baby Blue"
   hex:"#c3d4e7"
 -
+  name:"Cry Me a River"
+  hex:"#427898"
+-
   name:"Cryo Freeze"
   hex:"#ddece0"
 -
@@ -25279,6 +25297,9 @@
 -
   name:"Enchanted Evening"
   hex:"#d3e9ec"
+-
+  name:"Enchanted Lavender"
+  hex:"#bfa3d9"
 -
   name:"Enchanted Meadow"
   hex:"#b1d4b7"
@@ -32939,6 +32960,9 @@
   name:"Grassy Meadow"
   hex:"#76a55b"
 -
+  name:"Grassy Ochre"
+  hex:"#b8a336"
+-
   name:"Grassy Savannah"
   hex:"#9b9279"
 -
@@ -33711,7 +33735,7 @@
   hex:"#679591"
 -
   name:"Green Valley"
-  hex:"#3f4948"
+  hex:"#51755b"
 -
   name:"Green Veil"
   hex:"#e0f1c4"
@@ -52649,7 +52673,7 @@
   name:"Nymphaeaceae"
   hex:"#cee0e3"
 -
-  name:"Nypd"
+  name:"NYPD"
   hex:"#5f6e77"
 -
   name:"O Fortuna"
@@ -53761,6 +53785,9 @@
 -
   name:"Optimum Blue"
   hex:"#465a7f"
+-
+  name:"Optophobia"
+  hex:"#130d0d"
 -
   name:"Opulent"
   hex:"#d5892f"
@@ -83716,6 +83743,9 @@
 -
   name:"White Chocolate"
   hex:"#f0e3c7"
+-
+  name:"White Christmas"
+  hex:"#f4e8e8"
 -
   name:"White City"
   hex:"#d6d0cc"
