@@ -35,7 +35,8 @@
     "eslint": "^5.15.1",
     "eslint-config-google": "^0.10.0",
     "ghooks": "^2.0.4",
-    "semantic-release": "^17.4.2"
+    "semantic-release": "^17.4.2",
+    "spellchecker": "^3.7.1"
   },
   "engines": {
     "node": ">=8",
@@ -48,6 +49,5 @@
     "commitizen": {
       "path": "cz-conventional-changelog"
     }
-  },
-  "dependencies": {}
+  }
 }
