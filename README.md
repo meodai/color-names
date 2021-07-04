@@ -139,7 +139,7 @@ let someColor = namedColors.find(color => color.hex === '#ffffff');
 console.log(someColor.name); // => white
 
 let someNamedColor = namedColors.find(color => color.name === 'Eigengrau')
-console.log(someColor.hex); // => #16161d
+console.log(someNamedColor.hex); // => #16161d
 ```
 
 #### Closest Named Color
@@ -161,10 +161,7 @@ nearest('#f1c1d1'); // => Fairy Tale
 
 Alternative package: [ktree](https://github.com/caub/ktree)
 
-**Note**: If you are looking for something visually more accurate, you could: use [DeltaE], or use the above snippet, combined with a transform from rgb to [ciecam02] scaled to 0-255.
-
-[DeltaE]: https://github.com/zschuessler/DeltaE
-[ciecam02]: https://github.com/baskerville/ciecam02
+**Note**: If you are looking for something visually more accurate, you could: use [DeltaE](https://github.com/zschuessler/DeltaE), or use the above snippet, combined with a transform from rgb to [ciecam02](https://github.com/baskerville/ciecam02) scaled to 0-255.
 
 ### Building 🔨
 
