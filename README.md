@@ -47,7 +47,8 @@ shifted the colors a bit when there were identical colors with different names.
 
 ## Color Name Submission 💌
 
-**[via form 🌈](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform) / or [twitter 🐦](https://twitter.com/color_parrot)**
+**[via form 🌈](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform)
+/ or [twitter 🐦](https://twitter.com/color_parrot)**
 
 Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute!
 
@@ -238,7 +239,9 @@ See [package.json](package.json#L6) for more.
 
 ### Sources: Names 📇
 
-- Thousands of user submissions [Twitter](https://codepen.io/meodai/full/ZXQzLb/)/[Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform)/[Github](#contributors-)
+- Thousands of user submissions [Twitter](https://codepen.io/meodai/full/ZXQzLb/)
+  / [Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform)
+  / [Github](#contributors-)
 - [Wikipedia list of named colors] (2018-02-23)
 - [CSS/HTML color names]
 - [Werner’s Nomenclature of Colours]
@@ -262,7 +265,8 @@ See [package.json](package.json#L6) for more.
   , [Russian](//github.com/AleksejDix)
   , [Māori](https://www.maorilanguage.net/maori-words-phrases/colours-nga-tae/)
 - Multiple paint, print, nail polish, model paint color lists
-- Curated Machine Learning names from [Matt DesLauriers](https://twitter.com/mattdesl/status/1234829613907501057) and [Nathan Kjer](https://nathankjer.com/text-generation/)
+- Curated Machine Learning names from [Matt DesLauriers](https://twitter.com/mattdesl/status/1234829613907501057)
+  and [Nathan Kjer](https://nathankjer.com/text-generation/)
 
 ### Sources: Color 🎨
 
