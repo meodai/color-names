@@ -10,7 +10,6 @@
 
 A handpicked list of __28808__ unique color names from [various sources](#sources-) and thousands of curated user submissions.
 
-
 > The names of color function like a thread attached to a frightfully slender needle, capable of stitching together our most delicate emotions and memories. When the needle hits the target, we feel either pleasure or empathy. **Kenya Hara – White**
 
 <p>
@@ -18,8 +17,8 @@ A handpicked list of __28808__ unique color names from [various sources](#source
 </p>
 
 ## About 📋
-The aim of this project is to create a list of color names as large as possible, while keeping a good name quality. We've merged various [lists](#sources-), modified the names when there were duplicates with different hex values, and shifted the colors a bit when there were identical colors with different names.
 
+The aim of this project is to create a list of color names as large as possible, while keeping a good name quality. We've merged various [lists](#sources-), modified the names when there were duplicates with different hex values, and shifted the colors a bit when there were identical colors with different names.
 
 ## Explore 🌍
 
@@ -47,30 +46,39 @@ Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute!
 When coming up with new color names, it is vital to know what spots in a certain color-space are crowded and where there is still room for new colors. For example: Our API returns the closest `RGB` color to a given `HEX` value. To avoid too many colors snapping to the same name, we aim to distribute the colors evenly in the color space: [Visualization](https://codepen.io/meodai/full/zdgXJj/)
 
 ## Usage 📖
+
 ### Node.js Installation 📦
+
 ```shell
 npm install color-name-list --save
 ```
+
 or `yarn add color-name-list`
 
 ### CDN 🌍
+
 #### All Names 📚
+
 [JSON](https://unpkg.com/color-name-list/dist/colornames.json) / [JSON.min](https://unpkg.com/color-name-list/dist/colornames.min.json) / [CSV](https://unpkg.com/color-name-list/dist/colornames.csv) / [YML](https://unpkg.com/color-name-list/dist/colornames.yaml) / [JS](https://unpkg.com/color-name-list/dist/colornames.umd.js) / [XML](https://unpkg.com/color-name-list/dist/colornames.xml) / [HTML](https://unpkg.com/color-name-list/dist/colornames.html) / [SCSS](https://unpkg.com/color-name-list/dist/colornames.scss)
 
 #### Best of Names subset 🏆
+
 [JSON](https://unpkg.com/color-name-list/dist/colornames.bestof.json) / [JSON.min](https://unpkg.com/color-name-list/dist/colornames.bestof.min.json) / [CSV](https://unpkg.com/color-name-list/dist/colornames.bestof.csv) / [YML](https://unpkg.com/color-name-list/dist/colornames.bestof.yaml) / [JS](https://unpkg.com/color-name-list/dist/colornames.bestof.umd.js) / [XML](https://unpkg.com/color-name-list/dist/colornames.bestof.xml) / [HTML](https://unpkg.com/color-name-list/dist/colornames.bestof.html) / [SCSS](https://unpkg.com/color-name-list/dist/colornames.bestof.scss) / [CSS](https://unpkg.com/color-name-list/dist/colornames.bestof.css)
 
 ### API 🃏
+
 ```url
 https://api.color.pizza/v1/{{hexvalue without the #}},{{more comma separated values}}
 ```
+
 or
+
 ```url
 https://api.color.pizza/v1/?values={{hexvalue without the #}},{{more comma separated values}}
 ```
 
-
 #### Single Color
+
 `curl` [https://api.color.pizza/v1/212121](https://api.color.pizza/v1/212121)
 
 ```javascript
@@ -85,16 +93,21 @@ https://api.color.pizza/v1/?values={{hexvalue without the #}},{{more comma separ
   }]
 }
 ```
+
 #### Multiple Colors
+
 `curl` [https://api.color.pizza/v1/212121,060606,ff0012,550055,123456](https://api.color.pizza/v1/212121,060606,ff0012,550055,123456)
 or
 `curl` [https://api.color.pizza/v1/?values=212121,060606,ff0012,550055,123456](https://api.color.pizza/v1/?values=212121,060606,ff0012,550055,123456)
+
 #### All Named Colors
+
 `curl` [https://api.color.pizza/v1/](https://api.color.pizza/v1/)
 
 In this case colors is not an `object` but an `array` of `objects` sorted by color-name
 
 #### Unique Color-Names
+
 by adding `?noduplicates=true` every returned name will be unique. The closest color, that was not returned previously will be returned:
 `curl` [https://api.color.pizza/v1/?values=212121,212121&noduplicates=true](https://api.color.pizza/v1/?values=212121,212121&noduplicates=true)
 
@@ -115,17 +128,22 @@ by adding `?noduplicates=true` every returned name will be unique. The closest c
 ```
 
 #### Search for colors by name
+
 ```url
 https://api.color.pizza/v1/names/{{query}}
 ```
+
 or
+
 ```url
 https://api.color.pizza/v1/names/?name={{query}}
 ```
+
 Returns an `array` of color `objects` which match the given query, sorted by color-name:
 `curl` [https://api.color.pizza/v1/names/red](https://api.color.pizza/v1/names/red)
 
 #### Good Color-Names
+
 Not all color-names are created equal; add [`?goodnamesonly=true`](https://api.color.pizza/v1/?values=212121,060606,ff0012,550055,123456&goodnamesonly=true) to your request URL to get a handpicked subset of names that were rated as good by humans. (Colors that are liked a lot on [twitter](https://twitter.com/color_parrot) and some of the team favourites).
 
 ### Usage JS ⌨
@@ -224,6 +242,7 @@ See [package.json](package.json#L6) for more.
 | Item                    | Expenditure   |
 | ----------------------- | ------------- |
 | Logo by Metafizzy       | 800           |
+
 #### Periodic
 
 | Item                    | Expenditure   |
