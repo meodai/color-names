@@ -267,6 +267,7 @@ See [package.json](package.json#L6) for more.
 - Multiple paint, print, nail polish, model paint color lists
 - Curated Machine Learning names from [Matt DesLauriers](https://twitter.com/mattdesl/status/1234829613907501057)
   and [Nathan Kjer](https://nathankjer.com/text-generation/)
+- [Team Fortress 2 paint colors](https://wiki.teamfortress.com/wiki/Paint_Can#Colors)
 
 ### Sources: Color 🎨
 
