@@ -65,14 +65,6 @@
 <hex>#d1edee</hex>
 </color>
 <color>
-<name>A Cool Air of Debonair</name>
-<hex>#28394d</hex>
-</color>
-<color>
-<name>A Deep Commitment to Purple</name>
-<hex>#7d4071</hex>
-</color>
-<color>
 <name>A Dime a Dozen</name>
 <hex>#d3dde4</hex>
 </color>
@@ -107,10 +99,6 @@
 <color>
 <name>A State of Mint</name>
 <hex>#88ffcc</hex>
-</color>
-<color>
-<name>A Warm Air of Debonair</name>
-<hex>#654740</hex>
 </color>
 <color>
 <name>Aare River</name>
@@ -2579,10 +2567,6 @@
 <color>
 <name>Amygdala Purple</name>
 <hex>#69045f</hex>
-</color>
-<color>
-<name>An Extraordinary Abundance of Tinge</name>
-<hex>#e6e6e6</hex>
 </color>
 <color>
 <name>Àn Zǐ Purple</name>
@@ -20525,6 +20509,10 @@
 <hex>#d1d5e7</hex>
 </color>
 <color>
+<name>Chill of Teamwork</name>
+<hex>#256d8d</hex>
+</color>
+<color>
 <name>Chilled Cucumber</name>
 <hex>#cbcdb2</hex>
 </color>
@@ -23879,6 +23867,10 @@
 <color>
 <name>Cool</name>
 <hex>#96b3b3</hex>
+</color>
+<color>
+<name>Cool Air of Debonair</name>
+<hex>#28394d</hex>
 </color>
 <color>
 <name>Cool Aloe</name>
@@ -28439,6 +28431,10 @@
 <color>
 <name>Deep Cobalt</name>
 <hex>#404466</hex>
+</color>
+<color>
+<name>Deep Commitment to Purple</name>
+<hex>#7d4071</hex>
 </color>
 <color>
 <name>Deep Coral</name>
@@ -35091,6 +35087,10 @@
 <color>
 <name>Extraordinaire</name>
 <hex>#bda6c5</hex>
+</color>
+<color>
+<name>Extraordinary Abundance of Tinge</name>
+<hex>#e6e6e6</hex>
 </color>
 <color>
 <name>Extravagance</name>
@@ -103521,10 +103521,6 @@
 <hex>#145775</hex>
 </color>
 <color>
-<name>The Chill of Teamwork</name>
-<hex>#256d8d</hex>
-</color>
-<color>
 <name>The Devil's Grass</name>
 <hex>#666420</hex>
 </color>
@@ -103599,10 +103595,6 @@
 <color>
 <name>The Vast of Night</name>
 <hex>#110066</hex>
-</color>
-<color>
-<name>The Warmth of Teamwork</name>
-<hex>#803020</hex>
 </color>
 <color>
 <name>The White in my Eye</name>
@@ -110109,6 +110101,10 @@
 <hex>#ba0033</hex>
 </color>
 <color>
+<name>Warm Air of Debonair</name>
+<hex>#654740</hex>
+</color>
+<color>
 <name>Warm and Toasty</name>
 <hex>#cbb68f</hex>
 </color>
@@ -110367,6 +110363,10 @@
 <color>
 <name>Warmth</name>
 <hex>#9f552d</hex>
+</color>
+<color>
+<name>Warmth of Teamwork</name>
+<hex>#803020</hex>
 </color>
 <color>
 <name>Warp &amp; Weft</name>

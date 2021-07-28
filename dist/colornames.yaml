@@ -47,12 +47,6 @@
   name:"A Certain Shade Of Green"
   hex:"#d1edee"
 -
-  name:"A Cool Air of Debonair"
-  hex:"#28394d"
--
-  name:"A Deep Commitment to Purple"
-  hex:"#7d4071"
--
   name:"A Dime a Dozen"
   hex:"#d3dde4"
 -
@@ -79,9 +73,6 @@
 -
   name:"A State of Mint"
   hex:"#88ffcc"
--
-  name:"A Warm Air of Debonair"
-  hex:"#654740"
 -
   name:"Aare River"
   hex:"#00b89f"
@@ -1933,9 +1924,6 @@
 -
   name:"Amygdala Purple"
   hex:"#69045f"
--
-  name:"An Extraordinary Abundance of Tinge"
-  hex:"#e6e6e6"
 -
   name:"Àn Zǐ Purple"
   hex:"#94568c"
@@ -15392,6 +15380,9 @@
   name:"Chill in the Air"
   hex:"#d1d5e7"
 -
+  name:"Chill of Teamwork"
+  hex:"#256d8d"
+-
   name:"Chilled Cucumber"
   hex:"#cbcdb2"
 -
@@ -17908,6 +17899,9 @@
 -
   name:"Cool"
   hex:"#96b3b3"
+-
+  name:"Cool Air of Debonair"
+  hex:"#28394d"
 -
   name:"Cool Aloe"
   hex:"#a9d99c"
@@ -21328,6 +21322,9 @@
 -
   name:"Deep Cobalt"
   hex:"#404466"
+-
+  name:"Deep Commitment to Purple"
+  hex:"#7d4071"
 -
   name:"Deep Coral"
   hex:"#da7c55"
@@ -26317,6 +26314,9 @@
 -
   name:"Extraordinaire"
   hex:"#bda6c5"
+-
+  name:"Extraordinary Abundance of Tinge"
+  hex:"#e6e6e6"
 -
   name:"Extravagance"
   hex:"#4e4850"
@@ -77639,9 +77639,6 @@
   name:"The Broadway"
   hex:"#145775"
 -
-  name:"The Chill of Teamwork"
-  hex:"#256d8d"
--
   name:"The Devil's Grass"
   hex:"#666420"
 -
@@ -77698,9 +77695,6 @@
 -
   name:"The Vast of Night"
   hex:"#110066"
--
-  name:"The Warmth of Teamwork"
-  hex:"#803020"
 -
   name:"The White in my Eye"
   hex:"#f1eee5"
@@ -82580,6 +82574,9 @@
   name:"Warlord"
   hex:"#ba0033"
 -
+  name:"Warm Air of Debonair"
+  hex:"#654740"
+-
   name:"Warm and Toasty"
   hex:"#cbb68f"
 -
@@ -82774,6 +82771,9 @@
 -
   name:"Warmth"
   hex:"#9f552d"
+-
+  name:"Warmth of Teamwork"
+  hex:"#803020"
 -
   name:"Warp & Weft"
   hex:"#e5d5c9"
