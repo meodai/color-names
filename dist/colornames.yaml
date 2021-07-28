@@ -47,6 +47,12 @@
   name:"A Certain Shade Of Green"
   hex:"#d1edee"
 -
+  name:"A Cool Air of Debonair"
+  hex:"#28394d"
+-
+  name:"A Deep Commitment to Purple"
+  hex:"#7d4071"
+-
   name:"A Dime a Dozen"
   hex:"#d3dde4"
 -
@@ -62,6 +68,9 @@
   name:"A Lot of Love"
   hex:"#ffbcc5"
 -
+  name:"A Mann's Mint"
+  hex:"#bcddb3"
+-
   name:"A Pair of Brown Eyes"
   hex:"#bfaf92"
 -
@@ -70,6 +79,9 @@
 -
   name:"A State of Mint"
   hex:"#88ffcc"
+-
+  name:"A Warm Air of Debonair"
+  hex:"#654740"
 -
   name:"Aare River"
   hex:"#00b89f"
@@ -664,6 +676,9 @@
 -
   name:"Aged Merlot"
   hex:"#73343a"
+-
+  name:"Aged Moustache Grey"
+  hex:"#7e7e7e"
 -
   name:"Aged Mustard Green"
   hex:"#6e6e30"
@@ -1918,6 +1933,9 @@
 -
   name:"Amygdala Purple"
   hex:"#69045f"
+-
+  name:"An Extraordinary Abundance of Tinge"
+  hex:"#e6e6e6"
 -
   name:"Àn Zǐ Purple"
   hex:"#94568c"
@@ -4315,6 +4333,9 @@
 -
   name:"Australien"
   hex:"#cc9911"
+-
+  name:"Australium Gold"
+  hex:"#e7b53b"
 -
   name:"Austrian Ice"
   hex:"#dee6e7"
@@ -9082,6 +9103,9 @@
 -
   name:"Blue Tapestry"
   hex:"#475c62"
+-
+  name:"Blue Team Spirit"
+  hex:"#5885a2"
 -
   name:"Blue Thistle"
   hex:"#adc0d6"
@@ -17432,6 +17456,9 @@
   name:"Cold Water"
   hex:"#d9dfe0"
 -
+  name:"Cold Waterlogged Lab Coat"
+  hex:"#839fa3"
+-
   name:"Cold Wave"
   hex:"#c2e2e3"
 -
@@ -17891,6 +17918,9 @@
   name:"Cool Avocado"
   hex:"#c4b47d"
 -
+  name:"Cool Balaclavas Are Forever"
+  hex:"#18233d"
+-
   name:"Cool Beige"
   hex:"#c6b5a7"
 -
@@ -17926,6 +17956,9 @@
 -
   name:"Cool Cream"
   hex:"#fbe5d9"
+-
+  name:"Cool Cream Spirit"
+  hex:"#b88035"
 -
   name:"Cool Current"
   hex:"#283c44"
@@ -17968,6 +18001,9 @@
 -
   name:"Cool Melon"
   hex:"#ebd1cd"
+-
+  name:"Cool Operator's Overalls"
+  hex:"#384248"
 -
   name:"Cool Pink"
   hex:"#e5ccd1"
@@ -38246,6 +38282,9 @@
   name:"Indonesian Rattan"
   hex:"#d1b272"
 -
+  name:"Indubitably Green"
+  hex:"#729e42"
+-
   name:"Indulgence"
   hex:"#533d47"
 -
@@ -46121,6 +46160,9 @@
   name:"Manitou Blue"
   hex:"#5b92a2"
 -
+  name:"Mann Orange"
+  hex:"#cf7336"
+-
   name:"Mannequin"
   hex:"#eedfdd"
 -
@@ -50666,6 +50708,9 @@
   name:"Musk Memory"
   hex:"#774548"
 -
+  name:"Muskelmannbraun"
+  hex:"#a57545"
+-
   name:"Musket"
   hex:"#7d6d39"
 -
@@ -52147,6 +52192,9 @@
 -
   name:"Noble Grey"
   hex:"#c1beb9"
+-
+  name:"Noble Hatter's Violet"
+  hex:"#51384a"
 -
   name:"Noble Honor"
   hex:"#69354f"
@@ -56707,6 +56755,9 @@
 -
   name:"Pecos Spice"
   hex:"#e1a080"
+-
+  name:"Peculiarly Drab Tincture"
+  hex:"#c5af91"
 -
   name:"Pedestrian Green"
   hex:"#00bb22"
@@ -62195,6 +62246,9 @@
   name:"Radicchio"
   hex:"#745166"
 -
+  name:"Radigan Conagher Brown"
+  hex:"#694d3a"
+-
   name:"Radioactive"
   hex:"#89fe05"
 -
@@ -63343,6 +63397,9 @@
 -
   name:"Red Tape"
   hex:"#cc1133"
+-
+  name:"Red Team Spirit"
+  hex:"#b8383b"
 -
   name:"Red Terra"
   hex:"#ae4930"
@@ -77582,6 +77639,9 @@
   name:"The Broadway"
   hex:"#145775"
 -
+  name:"The Chill of Teamwork"
+  hex:"#256d8d"
+-
   name:"The Devil's Grass"
   hex:"#666420"
 -
@@ -77638,6 +77698,9 @@
 -
   name:"The Vast of Night"
   hex:"#110066"
+-
+  name:"The Warmth of Teamwork"
+  hex:"#803020"
 -
   name:"The White in my Eye"
   hex:"#f1eee5"
@@ -82529,6 +82592,9 @@
   name:"Warm Asphalt"
   hex:"#9c9395"
 -
+  name:"Warm Balaclavas Are Forever"
+  hex:"#3b1f23"
+-
   name:"Warm Biscuits"
   hex:"#e3cdac"
 -
@@ -82564,6 +82630,9 @@
 -
   name:"Warm Comfort"
   hex:"#b38a82"
+-
+  name:"Warm Cream Spirit"
+  hex:"#c36c2d"
 -
   name:"Warm Croissant"
   hex:"#e4ceb5"
@@ -82622,6 +82691,9 @@
   name:"Warm Onyx"
   hex:"#4c4845"
 -
+  name:"Warm Operator's Overalls"
+  hex:"#483838"
+-
   name:"Warm Pewter"
   hex:"#b4ada6"
 -
@@ -82669,6 +82741,9 @@
 -
   name:"Warm Wassail"
   hex:"#a66e68"
+-
+  name:"Warm Waterlogged Lab Coat"
+  hex:"#a89a8c"
 -
   name:"Warm Waters"
   hex:"#7ebbc2"
@@ -85688,6 +85763,9 @@
   name:"Yawl"
   hex:"#547497"
 -
+  name:"Ye Olde Rustic Colour"
+  hex:"#7c6c57"
+-
   name:"Yearling"
   hex:"#ad896a"
 -
@@ -86284,6 +86362,9 @@
 -
   name:"Zenith Heights"
   hex:"#a6c8c7"
+-
+  name:"Zepheniah's Greed"
+  hex:"#424f3b"
 -
   name:"Zephyr"
   hex:"#c89fa5"
