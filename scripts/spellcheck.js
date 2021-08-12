@@ -24,6 +24,13 @@ const words = [
   'Aarhusian', // City of Århus
   'Abaddon', // Greek equivalent "Apollyon"
   'Acai', // Açaí Fruit
+  'Ashwood', // Wood of an Ashtree
+  'Arrowwood', // Cornus Florida
+  'Apricotta', // Apricot
+  'Chiffonade', // slicing technique
+  'Battletoad', // Videogame character
+  'Babyccino', // Milk Only Cappuccino
+  'Baba Ganoush', // Libanese Dish
 ];
 
 words.forEach((word) => checker.add(word));
