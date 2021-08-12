@@ -569,6 +569,9 @@
   name:"After Dinner Mint"
   hex:"#e3f5e5"
 -
+  name:"After Eight"
+  hex:"#3d2e24"
+-
   name:"After Eight Filling"
   hex:"#d6eae8"
 -
@@ -5297,7 +5300,7 @@
   name:"Banana Brick"
   hex:"#e8d82c"
 -
-  name:"Banana Brulee"
+  name:"Banana Brûlée"
   hex:"#f7eab9"
 -
   name:"Banana Chalk"
@@ -7273,6 +7276,9 @@
 -
   name:"Bitter Lime"
   hex:"#cfff00"
+-
+  name:"Bitter Lime and Defeat"
+  hex:"#31cd31"
 -
   name:"Bitter Liquorice"
   hex:"#262926"
@@ -19352,9 +19358,6 @@
   name:"Creme Angels"
   hex:"#f8ede2"
 -
-  name:"Creme Brulee"
-  hex:"#f5e9ce"
--
   name:"Crème Brûlée"
   hex:"#ffe39b"
 -
@@ -20776,6 +20779,9 @@
 -
   name:"Dark Salmon"
   hex:"#c85a53"
+-
+  name:"Dark Salmon Injustice"
+  hex:"#e8957a"
 -
   name:"Dark Sanctuary"
   hex:"#3f012c"
@@ -22781,6 +22787,9 @@
   name:"Distinct Purple"
   hex:"#a294c9"
 -
+  name:"Distinctive Lack of Hue"
+  hex:"#141513"
+-
   name:"Distressed White"
   hex:"#f1e6cb"
 -
@@ -23179,6 +23188,9 @@
 -
   name:"Drab Green"
   hex:"#749551"
+-
+  name:"Drably Olive"
+  hex:"#808101"
 -
   name:"Dracula Orchid"
   hex:"#2c3539"
@@ -30892,6 +30904,9 @@
 -
   name:"Gentleman's Whiskey"
   hex:"#ca882c"
+-
+  name:"Gentlemann's Business Pants"
+  hex:"#f1e68c"
 -
   name:"Geode"
   hex:"#4b3f69"
@@ -58130,6 +58145,9 @@
   name:"Pink Apatite"
   hex:"#d7b8ab"
 -
+  name:"Pink as Hell"
+  hex:"#fe69b5"
+-
   name:"Pink Ballad"
   hex:"#a6427c"
 -
@@ -70315,6 +70333,9 @@
 -
   name:"Silvery Streak"
   hex:"#d5dbd5"
+-
+  name:"Similar to Slate"
+  hex:"#2f4e4e"
 -
   name:"Simmered Seaweed"
   hex:"#4c3d30"
@@ -86083,6 +86104,9 @@
 -
   name:"Yoga Daze"
   hex:"#e3e4d2"
+-
+  name:"Yoghurt Brûlée"
+  hex:"#f5e9ce"
 -
   name:"Yogi"
   hex:"#8a8c66"
