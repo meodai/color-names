@@ -845,6 +845,9 @@
   name:"Akakō Red"
   hex:"#f07f5e"
 -
+  name:"Akari Red"
+  hex:"#c90b42"
+-
   name:"Akaroa"
   hex:"#beb29a"
 -
@@ -2000,6 +2003,9 @@
   name:"Ancient Earth"
   hex:"#746550"
 -
+  name:"Ancient Fuchsia"
+  hex:"#a44769"
+-
   name:"Ancient Ice"
   hex:"#73fdff"
 -
@@ -2603,7 +2609,7 @@
   name:"Aphrodite's Pearls"
   hex:"#eeffff"
 -
-  name:"Aphroditean Fuschia"
+  name:"Aphroditean Fuchsia"
   hex:"#dd14ab"
 -
   name:"Apium"
@@ -8725,6 +8731,9 @@
 -
   name:"Blue Lechery"
   hex:"#779ecb"
+-
+  name:"Blue Leviathan"
+  hex:"#032a62"
 -
   name:"Blue Light"
   hex:"#acdfdd"
@@ -16207,6 +16216,9 @@
 -
   name:"Citadel Blue"
   hex:"#9eabad"
+-
+  name:"Citra"
+  hex:"#f6b906"
 -
   name:"Citrine"
   hex:"#e4d00a"
@@ -30185,9 +30197,6 @@
   name:"Fury"
   hex:"#ff0011"
 -
-  name:"Fuschia Flair"
-  hex:"#a44769"
--
   name:"Fuscia Fizz"
   hex:"#b56e91"
 -
@@ -40964,6 +40973,9 @@
   name:"Krypton"
   hex:"#b8c0c3"
 -
+  name:"Krypton Green"
+  hex:"#83890e"
+-
   name:"KSU Purple"
   hex:"#512888"
 -
@@ -42452,7 +42464,7 @@
   name:"Leverkaas"
   hex:"#edcdc2"
 -
-  name:"Leviathan Purple Wash"
+  name:"Leviathan Purple"
   hex:"#8b2a98"
 -
   name:"Lewisham"
@@ -46066,6 +46078,9 @@
 -
   name:"Mandys Pink"
   hex:"#f5b799"
+-
+  name:"Manga Pink"
+  hex:"#f5b9d8"
 -
   name:"Mangala Pink"
   hex:"#e781a6"
@@ -60896,6 +60911,9 @@
   name:"Promenade"
   hex:"#f8f6df"
 -
+  name:"Prometheus Orange"
+  hex:"#f4581e"
+-
   name:"Prominent Blue"
   hex:"#2b7da6"
 -
@@ -60925,6 +60943,9 @@
 -
   name:"Property"
   hex:"#4b5667"
+-
+  name:"Prophet Violet"
+  hex:"#6f58a6"
 -
   name:"Prophetess"
   hex:"#be8b8f"
@@ -61648,6 +61669,9 @@
 -
   name:"Purple Stone"
   hex:"#605467"
+-
+  name:"Purple Sultan"
+  hex:"#853682"
 -
   name:"Purple Surf"
   hex:"#9b95a9"
@@ -71657,11 +71681,11 @@
   name:"Soft Froth"
   hex:"#bdccb3"
 -
+  name:"Soft Fuchsia"
+  hex:"#d496bd"
+-
   name:"Soft Fur"
   hex:"#7e7574"
--
-  name:"Soft Fuschia"
-  hex:"#d496bd"
 -
   name:"Soft Gossamer"
   hex:"#fbeede"
@@ -74921,6 +74945,9 @@
   name:"Sultan Gold"
   hex:"#f6ac17"
 -
+  name:"Sultan of Pink"
+  hex:"#e89bc7"
+-
   name:"Sultan Sand"
   hex:"#e3c9be"
 -
@@ -75742,6 +75769,9 @@
 -
   name:"Surgeon Green"
   hex:"#009f6b"
+-
+  name:"Surgical Green"
+  hex:"#59a4c1"
 -
   name:"Surprise"
   hex:"#c9936f"
@@ -82471,6 +82501,9 @@
 -
   name:"Wailing Woods"
   hex:"#004411"
+-
+  name:"Waimea Blue"
+  hex:"#4ca2d9"
 -
   name:"Wainscot Green"
   hex:"#9c9d85"

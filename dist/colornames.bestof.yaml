@@ -62,6 +62,9 @@
   name:"Airborne"
   hex:"#a2c2d0"
 -
+  name:"Akari Red"
+  hex:"#c90b42"
+-
   name:"Alarm"
   hex:"#ec0003"
 -
@@ -140,6 +143,9 @@
   name:"Ancient Scroll"
   hex:"#f5e6de"
 -
+  name:"Andromeda Blue"
+  hex:"#abcdee"
+-
   name:"Angel Wing"
   hex:"#f3dfd7"
 -
@@ -179,7 +185,7 @@
   name:"Aphrodite Aqua"
   hex:"#45e9c1"
 -
-  name:"Aphroditean Fuschia"
+  name:"Aphroditean Fuchsia"
   hex:"#dd14ab"
 -
   name:"Apocalyptic Orange"
@@ -1954,6 +1960,9 @@
 -
   name:"Couscous"
   hex:"#ffe29b"
+-
+  name:"Cousteau"
+  hex:"#55a9d6"
 -
   name:"Cover of Night"
   hex:"#494e4f"
@@ -5828,6 +5837,9 @@
   name:"Mandarin"
   hex:"#f37a48"
 -
+  name:"Manga Pink"
+  hex:"#f5b9d8"
+-
   name:"Mangala Pink"
   hex:"#e781a6"
 -
@@ -7982,8 +7994,14 @@
   name:"Promenade"
   hex:"#f8f6df"
 -
+  name:"Prometheus Orange"
+  hex:"#f4581e"
+-
   name:"Promiscuous Pink"
   hex:"#bb11ee"
+-
+  name:"Prophet Violet"
+  hex:"#6f58a6"
 -
   name:"Prosciutto"
   hex:"#e0b4a4"
@@ -8077,6 +8095,9 @@
 -
   name:"Purple Rain"
   hex:"#7442c8"
+-
+  name:"Purple Sultan"
+  hex:"#853682"
 -
   name:"Purple Void"
   hex:"#442244"
@@ -9263,6 +9284,9 @@
   name:"Sultan Gold"
   hex:"#f6ac17"
 -
+  name:"Sultan of Pink"
+  hex:"#e89bc7"
+-
   name:"Summer Crush"
   hex:"#f2d6da"
 -
@@ -9340,6 +9364,9 @@
 -
   name:"Super Saiyan"
   hex:"#ffdd00"
+-
+  name:"Surgical Green"
+  hex:"#59a4c1"
 -
   name:"Swamp Monster"
   hex:"#005511"

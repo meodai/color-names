@@ -1129,6 +1129,10 @@
 <hex>#f07f5e</hex>
 </color>
 <color>
+<name>Akari Red</name>
+<hex>#c90b42</hex>
+</color>
+<color>
 <name>Akaroa</name>
 <hex>#beb29a</hex>
 </color>
@@ -2669,6 +2673,10 @@
 <hex>#746550</hex>
 </color>
 <color>
+<name>Ancient Fuchsia</name>
+<hex>#a44769</hex>
+</color>
+<color>
 <name>Ancient Ice</name>
 <hex>#73fdff</hex>
 </color>
@@ -3473,7 +3481,7 @@
 <hex>#eeffff</hex>
 </color>
 <color>
-<name>Aphroditean Fuschia</name>
+<name>Aphroditean Fuchsia</name>
 <hex>#dd14ab</hex>
 </color>
 <color>
@@ -11635,6 +11643,10 @@
 <color>
 <name>Blue Lechery</name>
 <hex>#779ecb</hex>
+</color>
+<color>
+<name>Blue Leviathan</name>
+<hex>#032a62</hex>
 </color>
 <color>
 <name>Blue Light</name>
@@ -21611,6 +21623,10 @@
 <color>
 <name>Citadel Blue</name>
 <hex>#9eabad</hex>
+</color>
+<color>
+<name>Citra</name>
+<hex>#f6b906</hex>
 </color>
 <color>
 <name>Citrine</name>
@@ -40249,10 +40265,6 @@
 <hex>#ff0011</hex>
 </color>
 <color>
-<name>Fuschia Flair</name>
-<hex>#a44769</hex>
-</color>
-<color>
 <name>Fuscia Fizz</name>
 <hex>#b56e91</hex>
 </color>
@@ -54621,6 +54633,10 @@
 <hex>#b8c0c3</hex>
 </color>
 <color>
+<name>Krypton Green</name>
+<hex>#83890e</hex>
+</color>
+<color>
 <name>KSU Purple</name>
 <hex>#512888</hex>
 </color>
@@ -56605,7 +56621,7 @@
 <hex>#edcdc2</hex>
 </color>
 <color>
-<name>Leviathan Purple Wash</name>
+<name>Leviathan Purple</name>
 <hex>#8b2a98</hex>
 </color>
 <color>
@@ -61423,6 +61439,10 @@
 <color>
 <name>Mandys Pink</name>
 <hex>#f5b799</hex>
+</color>
+<color>
+<name>Manga Pink</name>
+<hex>#f5b9d8</hex>
 </color>
 <color>
 <name>Mangala Pink</name>
@@ -81197,6 +81217,10 @@
 <hex>#f8f6df</hex>
 </color>
 <color>
+<name>Prometheus Orange</name>
+<hex>#f4581e</hex>
+</color>
+<color>
 <name>Prominent Blue</name>
 <hex>#2b7da6</hex>
 </color>
@@ -81235,6 +81259,10 @@
 <color>
 <name>Property</name>
 <hex>#4b5667</hex>
+</color>
+<color>
+<name>Prophet Violet</name>
+<hex>#6f58a6</hex>
 </color>
 <color>
 <name>Prophetess</name>
@@ -82199,6 +82227,10 @@
 <color>
 <name>Purple Stone</name>
 <hex>#605467</hex>
+</color>
+<color>
+<name>Purple Sultan</name>
+<hex>#853682</hex>
 </color>
 <color>
 <name>Purple Surf</name>
@@ -95545,12 +95577,12 @@
 <hex>#bdccb3</hex>
 </color>
 <color>
-<name>Soft Fur</name>
-<hex>#7e7574</hex>
+<name>Soft Fuchsia</name>
+<hex>#d496bd</hex>
 </color>
 <color>
-<name>Soft Fuschia</name>
-<hex>#d496bd</hex>
+<name>Soft Fur</name>
+<hex>#7e7574</hex>
 </color>
 <color>
 <name>Soft Gossamer</name>
@@ -99897,6 +99929,10 @@
 <hex>#f6ac17</hex>
 </color>
 <color>
+<name>Sultan of Pink</name>
+<hex>#e89bc7</hex>
+</color>
+<color>
 <name>Sultan Sand</name>
 <hex>#e3c9be</hex>
 </color>
@@ -100991,6 +101027,10 @@
 <color>
 <name>Surgeon Green</name>
 <hex>#009f6b</hex>
+</color>
+<color>
+<name>Surgical Green</name>
+<hex>#59a4c1</hex>
 </color>
 <color>
 <name>Surprise</name>
@@ -109963,6 +110003,10 @@
 <color>
 <name>Wailing Woods</name>
 <hex>#004411</hex>
+</color>
+<color>
+<name>Waimea Blue</name>
+<hex>#4ca2d9</hex>
 </color>
 <color>
 <name>Wainscot Green</name>
