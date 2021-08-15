@@ -10265,6 +10265,9 @@
   name:"Breeze in June"
   hex:"#c4dfe8"
 -
+  name:"Breeze of Chilli"
+  hex:"#f4706e"
+-
   name:"Breeze of Green"
   hex:"#cffdbc"
 -
@@ -20548,6 +20551,9 @@
 -
   name:"Dark Burgundy Wine"
   hex:"#4b4146"
+-
+  name:"Dark Catacombs"
+  hex:"#513116"
 -
   name:"Dark Cavern"
   hex:"#55504d"
@@ -32129,6 +32135,9 @@
   name:"Golden Key"
   hex:"#dd9911"
 -
+  name:"Golden Kingdom"
+  hex:"#e0c84b"
+-
   name:"Golden Kiwi"
   hex:"#f3dd3e"
 -
@@ -40630,6 +40639,9 @@
 -
   name:"Kingly Cloud"
   hex:"#dedede"
+-
+  name:"Kings of Sea"
+  hex:"#2d8297"
 -
   name:"Kings Yellow"
   hex:"#ead665"
@@ -49511,6 +49523,9 @@
   name:"Monterey Chestnut"
   hex:"#7d4235"
 -
+  name:"Monterey Mist"
+  hex:"#e0dfea"
+-
   name:"Montezuma"
   hex:"#d2cdb6"
 -
@@ -51382,6 +51397,9 @@
 -
   name:"Nautical Blue"
   hex:"#1a5091"
+-
+  name:"Nautical Creatures"
+  hex:"#295c7a"
 -
   name:"Nautical Star"
   hex:"#aab5b7"
@@ -55585,6 +55603,9 @@
 -
   name:"Paprika"
   hex:"#7c2d37"
+-
+  name:"Paprika Kisses"
+  hex:"#c24325"
 -
   name:"Papyrus"
   hex:"#999911"
@@ -61069,6 +61090,9 @@
 -
   name:"Pueblo White"
   hex:"#e5dfcd"
+-
+  name:"Puerto Princesa"
+  hex:"#54927e"
 -
   name:"Puerto Rico"
   hex:"#59baa3"
@@ -74687,8 +74711,14 @@
   name:"Submersible"
   hex:"#00576e"
 -
+  name:"Subnautical"
+  hex:"#012253"
+-
   name:"Subpoena"
   hex:"#d8ccc6"
+-
+  name:"Subterranean"
+  hex:"#452c1f"
 -
   name:"Subterranean River"
   hex:"#1f3b4d"
@@ -80441,6 +80471,9 @@
   name:"Underground Gardens"
   hex:"#87968b"
 -
+  name:"Underground Stream"
+  hex:"#120a65"
+-
   name:"Underhive Ash"
   hex:"#b2ac88"
 -
@@ -80473,6 +80506,9 @@
 -
   name:"Underwater Moonlight"
   hex:"#4488aa"
+-
+  name:"Underwater Realm"
+  hex:"#243062"
 -
   name:"Underworld"
   hex:"#1e231c"
