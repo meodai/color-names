@@ -2924,6 +2924,9 @@
   name:"April Green"
   hex:"#a9b062"
 -
+  name:"April Hills"
+  hex:"#909245"
+-
   name:"April Love"
   hex:"#8b3d2f"
 -
@@ -19481,6 +19484,9 @@
   name:"Crimson"
   hex:"#8c000f"
 -
+  name:"Crimson Boy"
+  hex:"#b44933"
+-
   name:"Crimson Glory"
   hex:"#be0032"
 -
@@ -19492,6 +19498,15 @@
 -
   name:"Crimson Strawberry"
   hex:"#9f2d47"
+-
+  name:"Crimson Sunset"
+  hex:"#c01b0c"
+-
+  name:"Crimson Sword"
+  hex:"#b53111"
+-
+  name:"Crimson Warrior"
+  hex:"#b35138"
 -
   name:"Crisis Red"
   hex:"#bb2222"
@@ -20824,6 +20839,9 @@
 -
   name:"Dark Secret"
   hex:"#3e5361"
+-
+  name:"Dark Serpent"
+  hex:"#113311"
 -
   name:"Dark Shadow"
   hex:"#4a4b4d"
@@ -27313,6 +27331,9 @@
 -
   name:"Feverish"
   hex:"#dd6677"
+-
+  name:"Feverish Passion"
+  hex:"#de4d7b"
 -
   name:"Feverish Pink"
   hex:"#cb3e50"
@@ -35849,6 +35870,9 @@
   name:"Her Fierceness"
   hex:"#6f123c"
 -
+  name:"Her Highness"
+  hex:"#432e6f"
+-
   name:"Hera Blue"
   hex:"#7777ee"
 -
@@ -40574,6 +40598,9 @@
   name:"King Creek Falls"
   hex:"#5f686f"
 -
+  name:"King Crimson"
+  hex:"#c64a4a"
+-
   name:"King Ghidorah"
   hex:"#aa9977"
 -
@@ -44803,6 +44830,9 @@
 -
   name:"Love Bird"
   hex:"#ba5b6a"
+-
+  name:"Love for All"
+  hex:"#cd0106"
 -
   name:"Love In A Mist"
   hex:"#e1b9c2"
@@ -49631,6 +49661,9 @@
   name:"Moon Jellyfish"
   hex:"#8eb8ce"
 -
+  name:"Moon Landing"
+  hex:"#a7a7a7"
+-
   name:"Moon Lily"
   hex:"#e6e6e7"
 -
@@ -52247,6 +52280,9 @@
   name:"Noble Blush"
   hex:"#e8b9b2"
 -
+  name:"Noble Cause"
+  hex:"#990c0d"
+-
   name:"Noble Cause Purple"
   hex:"#7e1e9c"
 -
@@ -52276,6 +52312,9 @@
 -
   name:"Noble Purple"
   hex:"#afb1c5"
+-
+  name:"Noble Red"
+  hex:"#92181d"
 -
   name:"Noble Robe"
   hex:"#807070"
@@ -58216,6 +58255,9 @@
 -
   name:"Pink Bite"
   hex:"#e936a7"
+-
+  name:"Pink Blessing"
+  hex:"#f2a9ba"
 -
   name:"Pink Bliss"
   hex:"#e3abce"
@@ -65869,6 +65911,12 @@
 -
   name:"Royal Yellow"
   hex:"#fada50"
+-
+  name:"Royalty"
+  hex:"#5930a9"
+-
+  name:"Royalty Loyalty"
+  hex:"#ae58ab"
 -
   name:"Roycroft Adobe"
   hex:"#a76251"
@@ -81646,6 +81694,9 @@
 -
   name:"Vetiver"
   hex:"#807d6f"
+-
+  name:"Vevet Outbreak"
+  hex:"#6b1b2a"
 -
   name:"Viaduct"
   hex:"#c1bbb0"

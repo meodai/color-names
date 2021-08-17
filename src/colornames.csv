@@ -974,6 +974,7 @@ Apricotta,#d8a48f,
 April Blush,#f6d0d8,
 April Fool's Red,#1fb57a,
 April Green,#a9b062,
+April Hills,#909245,
 April Love,#8b3d2f,
 April Mist,#ccd9c9,
 April Showers,#dadeb5,x
@@ -6493,10 +6494,14 @@ Cricket Green,#6a7b6b,
 Cricket's Cross,#908a78,
 Crimini Mushroom,#e2cdb1,
 Crimson,#8c000f,
+Crimson Boy,#b44933,x
 Crimson Glory,#be0032,
 Crimson Red,#980001,
 Crimson Silk,#b5413b,
 Crimson Strawberry,#9f2d47,
+Crimson Sunset,#c01b0c,
+Crimson Sword,#b53111,
+Crimson Warrior,#b35138,
 Crisis Red,#bb2222,
 Crisp,#eaebaf,
 Crisp Candlelight,#f4ebd0,
@@ -6941,6 +6946,7 @@ Dark Sea,#4c5560,
 Dark Seagreen,#666655,
 Dark Seashore Night,#113691,
 Dark Secret,#3e5361,x
+Dark Serpent,#113311,x
 Dark Shadow,#4a4b4d,
 Dark Shadows,#5b595d,
 Dark Shamrock,#33cc99,
@@ -9104,6 +9110,7 @@ Feta,#dbe0d0,x
 Fetched Stick,#86725f,
 Fever Dream,#dd5577,x
 Feverish,#dd6677,x
+Feverish Passion,#de4d7b,x
 Feverish Pink,#cb3e50,
 Fibonacci Blue,#112358,x
 Fibre Moss,#bec0af,
@@ -11949,6 +11956,7 @@ Hepatica,#fbe5ea,
 Hephaestus,#e1d4b6,
 Hephaestus Gold,#ff9911,
 Her Fierceness,#6f123c,x
+Her Highness,#432e6f,x
 Hera Blue,#7777ee,
 Herald of Spring,#a46366,
 Herald's Trumpet,#ce9f2f,
@@ -13524,6 +13532,7 @@ Kindred,#71a2d4,
 Kinetic Blue,#254d6a,
 Kinetic Teal,#64cdbe,
 King Creek Falls,#5f686f,
+King Crimson,#c64a4a,
 King Ghidorah,#aa9977,
 King Kong,#161410,x
 King Lime,#add900,x
@@ -14934,6 +14943,7 @@ Lovage Green,#98b1a6,
 Love Affair,#ffbec8,x
 Love at First Sight,#e5a5b1,
 Love Bird,#ba5b6a,
+Love for All,#cd0106,
 Love In A Mist,#e1b9c2,
 Love Juice,#cc1155,x
 Love Letter,#e4658e,x
@@ -15033,7 +15043,7 @@ Lunar Green,#4e5541,
 Lunar Lander,#dece9e,
 Lunar Landing,#d2cfc1,x
 Lunar Launch Site,#938673,
-Lunar Light,#9b959c,
+Lunar Light,#9b959c,x
 Lunar Lite,#e0ddd8,
 Lunar Outpost,#828287,x
 Lunar Rays,#caced2,
@@ -16543,6 +16553,7 @@ Moon Glass,#bcd1c7,
 Moon Glow,#f5f3ce,x
 Moon Goddess,#cfc7d5,
 Moon Jellyfish,#8eb8ce,
+Moon Landing,#a7a7a7,x
 Moon Lily,#e6e6e7,
 Moon Mist,#cecdb8,
 Moon Rise,#f4f4e8,
@@ -17415,6 +17426,7 @@ Nobility,#ecdec5,
 Nobility Blue,#414969,
 Noble Blue,#697991,
 Noble Blush,#e8b9b2,
+Noble Cause,#990c0d,
 Noble Cause Purple,#7e1e9c,
 Noble Crown,#8d755d,
 Noble Fir,#5a736d,
@@ -17425,6 +17437,7 @@ Noble Knight,#394d78,x
 Noble Lilac,#b28392,
 Noble Plum,#871f78,x
 Noble Purple,#afb1c5,
+Noble Red,#92181d,x
 Noble Robe,#807070,
 Noble Silver,#73777f,
 Noble Tone,#884967,
@@ -19405,7 +19418,8 @@ Pink Beach,#f6c3a6,
 Pink Beauty,#dca7c2,
 Pink Begonia,#dd9cbd,
 Pink Bite,#e936a7,
-Pink Bliss,#e3abce,
+Pink Blessing,#f2a9ba,
+Pink Bliss,#e3abce,x
 Pink Blossom,#fbe9dd,
 Pink Blush,#f4acb6,x
 Pink Bonnet,#dd77ee,
@@ -21956,6 +21970,8 @@ Royal Velvet,#513e4d,
 Royal Vessel,#4433ee,
 Royal Wedding,#fbe3e3,
 Royal Yellow,#fada50,
+Royalty,#5930a9,x
+Royalty Loyalty,#ae58ab,
 Roycroft Adobe,#a76251,
 Roycroft Bottle Green,#324038,
 Roycroft Brass,#7a6a51,
@@ -27215,6 +27231,7 @@ Vesuvian Green,#879860,
 Vesuvian Violet,#a28a9f,
 Vesuvius,#a85533,
 Vetiver,#807d6f,
+Vevet Outbreak,#6b1b2a,
 Viaduct,#c1bbb0,
 Viameter,#d9d140,
 Vibrant,#ffd44d,
