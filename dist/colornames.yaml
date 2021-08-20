@@ -3524,6 +3524,9 @@
   name:"Army Canvas"
   hex:"#5b6f61"
 -
+  name:"Army Golf"
+  hex:"#6c7735"
+-
   name:"Army Green"
   hex:"#4b5320"
 -
@@ -4111,6 +4114,9 @@
 -
   name:"Atlantic Mystique"
   hex:"#00629a"
+-
+  name:"Atlantic Navy"
+  hex:"#13336f"
 -
   name:"Atlantic Ocean"
   hex:"#a7d8e4"
@@ -5287,6 +5293,9 @@
 -
   name:"Banana"
   hex:"#fffc79"
+-
+  name:"Banana Ball"
+  hex:"#efe073"
 -
   name:"Banana Bandanna"
   hex:"#f8f739"
@@ -13853,6 +13862,9 @@
   name:"Casual Khaki"
   hex:"#d3c5af"
 -
+  name:"Casual Water"
+  hex:"#8fabd6"
+-
   name:"Cat Person"
   hex:"#636d70"
 -
@@ -15385,6 +15397,9 @@
 -
   name:"Chili Con Carne"
   hex:"#985e2b"
+-
+  name:"Chili Dip"
+  hex:"#f0b692"
 -
   name:"Chili Green"
   hex:"#8d7040"
@@ -21158,6 +21173,9 @@
   name:"Deadwind Pass"
   hex:"#596d7f"
 -
+  name:"Dear Darling"
+  hex:"#a30112"
+-
   name:"Death by Chocolate"
   hex:"#60443f"
 -
@@ -21535,6 +21553,9 @@
 -
   name:"Deep Pine"
   hex:"#557138"
+-
+  name:"Deep Plum"
+  hex:"#4a2a59"
 -
   name:"Deep Pond"
   hex:"#014420"
@@ -24975,7 +24996,10 @@
   hex:"#cab79c"
 -
   name:"Elephant"
-  hex:"#243640"
+  hex:"#817162"
+-
+  name:"Elephant Cub"
+  hex:"#9e958d"
 -
   name:"Elephant Ear"
   hex:"#988f85"
@@ -28544,6 +28568,9 @@
   name:"Fly by Night"
   hex:"#1c1e4d"
 -
+  name:"Fly the Green"
+  hex:"#218d4b"
+-
   name:"Flying Carpet"
   hex:"#787489"
 -
@@ -28632,7 +28659,7 @@
   hex:"#cad0ce"
 -
   name:"Foggy Night"
-  hex:"#a79c8e"
+  hex:"#40494e"
 -
   name:"Foggy Pith"
   hex:"#fbf6ef"
@@ -30098,6 +30125,9 @@
   name:"Fuel Yellow"
   hex:"#d19033"
 -
+  name:"Fuggy Sunrise"
+  hex:"#a79c8e"
+-
   name:"Fugitive Flamingo"
   hex:"#ee66aa"
 -
@@ -30139,6 +30169,9 @@
 -
   name:"Full Of Life"
   hex:"#de5f2f"
+-
+  name:"Full Swing Indigo"
+  hex:"#320094"
 -
   name:"Full Yellow"
   hex:"#f9bc4f"
@@ -31850,6 +31883,9 @@
   name:"Gold Gleam"
   hex:"#cfb352"
 -
+  name:"Gold Grillz"
+  hex:"#ece086"
+-
   name:"Gold Hearted"
   hex:"#e6c28c"
 -
@@ -31939,6 +31975,9 @@
 -
   name:"Gold Wash"
   hex:"#d4c19e"
+-
+  name:"Gold Winged"
+  hex:"#e6d682"
 -
   name:"Gold's Great Touch"
   hex:"#ffc265"
@@ -38926,6 +38965,9 @@
 -
   name:"Iron River"
   hex:"#4d504b"
+-
+  name:"Iron Teal"
+  hex:"#114e56"
 -
   name:"Iron Wood"
   hex:"#a0a6a8"
@@ -51056,6 +51098,9 @@
   name:"Mystical Shade"
   hex:"#4c5364"
 -
+  name:"Mystical Shadow"
+  hex:"#352b30"
+-
   name:"Mystical Trip"
   hex:"#7a6a75"
 -
@@ -52274,6 +52319,9 @@
   name:"Nobility Blue"
   hex:"#414969"
 -
+  name:"Noble Black"
+  hex:"#202124"
+-
   name:"Noble Blue"
   hex:"#697991"
 -
@@ -52579,6 +52627,9 @@
 -
   name:"Not So Innocent"
   hex:"#6a6968"
+-
+  name:"Not Tonight"
+  hex:"#090615"
 -
   name:"Not Yo Cheese"
   hex:"#ffc12c"
@@ -54856,6 +54907,9 @@
 -
   name:"Pacific Mist"
   hex:"#cdd5d3"
+-
+  name:"Pacific Navy"
+  hex:"#25488a"
 -
   name:"Pacific Ocean"
   hex:"#92cbf1"
@@ -57511,6 +57565,12 @@
 -
   name:"Petrol Green"
   hex:"#549b8c"
+-
+  name:"Petrol Slumber"
+  hex:"#243640"
+-
+  name:"Petroleum"
+  hex:"#21211d"
 -
   name:"Petticoat"
   hex:"#fecdac"
@@ -61672,6 +61732,9 @@
 -
   name:"Purple Prose"
   hex:"#554348"
+-
+  name:"Purple Protégé"
+  hex:"#593569"
 -
   name:"Purple Protest"
   hex:"#8822dd"
@@ -82327,6 +82390,9 @@
 -
   name:"Virtual Forest"
   hex:"#8aa56e"
+-
+  name:"Virtual Golf"
+  hex:"#c1ee13"
 -
   name:"Virtual Pink"
   hex:"#c6174e"

@@ -4701,6 +4701,10 @@
 <hex>#5b6f61</hex>
 </color>
 <color>
+<name>Army Golf</name>
+<hex>#6c7735</hex>
+</color>
+<color>
 <name>Army Green</name>
 <hex>#4b5320</hex>
 </color>
@@ -5483,6 +5487,10 @@
 <color>
 <name>Atlantic Mystique</name>
 <hex>#00629a</hex>
+</color>
+<color>
+<name>Atlantic Navy</name>
+<hex>#13336f</hex>
 </color>
 <color>
 <name>Atlantic Ocean</name>
@@ -7051,6 +7059,10 @@
 <color>
 <name>Banana</name>
 <hex>#fffc79</hex>
+</color>
+<color>
+<name>Banana Ball</name>
+<hex>#efe073</hex>
 </color>
 <color>
 <name>Banana Bandanna</name>
@@ -18473,6 +18485,10 @@
 <hex>#d3c5af</hex>
 </color>
 <color>
+<name>Casual Water</name>
+<hex>#8fabd6</hex>
+</color>
+<color>
 <name>Cat Person</name>
 <hex>#636d70</hex>
 </color>
@@ -20515,6 +20531,10 @@
 <color>
 <name>Chili Con Carne</name>
 <hex>#985e2b</hex>
+</color>
+<color>
+<name>Chili Dip</name>
+<hex>#f0b692</hex>
 </color>
 <color>
 <name>Chili Green</name>
@@ -28213,6 +28233,10 @@
 <hex>#596d7f</hex>
 </color>
 <color>
+<name>Dear Darling</name>
+<hex>#a30112</hex>
+</color>
+<color>
 <name>Death by Chocolate</name>
 <hex>#60443f</hex>
 </color>
@@ -28715,6 +28739,10 @@
 <color>
 <name>Deep Pine</name>
 <hex>#557138</hex>
+</color>
+<color>
+<name>Deep Plum</name>
+<hex>#4a2a59</hex>
 </color>
 <color>
 <name>Deep Pond</name>
@@ -33302,7 +33330,11 @@
 </color>
 <color>
 <name>Elephant</name>
-<hex>#243640</hex>
+<hex>#817162</hex>
+</color>
+<color>
+<name>Elephant Cub</name>
+<hex>#9e958d</hex>
 </color>
 <color>
 <name>Elephant Ear</name>
@@ -38061,6 +38093,10 @@
 <hex>#1c1e4d</hex>
 </color>
 <color>
+<name>Fly the Green</name>
+<hex>#218d4b</hex>
+</color>
+<color>
 <name>Flying Carpet</name>
 <hex>#787489</hex>
 </color>
@@ -38178,7 +38214,7 @@
 </color>
 <color>
 <name>Foggy Night</name>
-<hex>#a79c8e</hex>
+<hex>#40494e</hex>
 </color>
 <color>
 <name>Foggy Pith</name>
@@ -40133,6 +40169,10 @@
 <hex>#d19033</hex>
 </color>
 <color>
+<name>Fuggy Sunrise</name>
+<hex>#a79c8e</hex>
+</color>
+<color>
 <name>Fugitive Flamingo</name>
 <hex>#ee66aa</hex>
 </color>
@@ -40187,6 +40227,10 @@
 <color>
 <name>Full Of Life</name>
 <hex>#de5f2f</hex>
+</color>
+<color>
+<name>Full Swing Indigo</name>
+<hex>#320094</hex>
 </color>
 <color>
 <name>Full Yellow</name>
@@ -42469,6 +42513,10 @@
 <hex>#cfb352</hex>
 </color>
 <color>
+<name>Gold Grillz</name>
+<hex>#ece086</hex>
+</color>
+<color>
 <name>Gold Hearted</name>
 <hex>#e6c28c</hex>
 </color>
@@ -42587,6 +42635,10 @@
 <color>
 <name>Gold Wash</name>
 <hex>#d4c19e</hex>
+</color>
+<color>
+<name>Gold Winged</name>
+<hex>#e6d682</hex>
 </color>
 <color>
 <name>Gold's Great Touch</name>
@@ -51903,6 +51955,10 @@
 <color>
 <name>Iron River</name>
 <hex>#4d504b</hex>
+</color>
+<color>
+<name>Iron Teal</name>
+<hex>#114e56</hex>
 </color>
 <color>
 <name>Iron Wood</name>
@@ -68077,6 +68133,10 @@
 <hex>#4c5364</hex>
 </color>
 <color>
+<name>Mystical Shadow</name>
+<hex>#352b30</hex>
+</color>
+<color>
 <name>Mystical Trip</name>
 <hex>#7a6a75</hex>
 </color>
@@ -69701,6 +69761,10 @@
 <hex>#414969</hex>
 </color>
 <color>
+<name>Noble Black</name>
+<hex>#202124</hex>
+</color>
+<color>
 <name>Noble Blue</name>
 <hex>#697991</hex>
 </color>
@@ -70107,6 +70171,10 @@
 <color>
 <name>Not So Innocent</name>
 <hex>#6a6968</hex>
+</color>
+<color>
+<name>Not Tonight</name>
+<hex>#090615</hex>
 </color>
 <color>
 <name>Not Yo Cheese</name>
@@ -73143,6 +73211,10 @@
 <color>
 <name>Pacific Mist</name>
 <hex>#cdd5d3</hex>
+</color>
+<color>
+<name>Pacific Navy</name>
+<hex>#25488a</hex>
 </color>
 <color>
 <name>Pacific Ocean</name>
@@ -76683,6 +76755,14 @@
 <color>
 <name>Petrol Green</name>
 <hex>#549b8c</hex>
+</color>
+<color>
+<name>Petrol Slumber</name>
+<hex>#243640</hex>
+</color>
+<color>
+<name>Petroleum</name>
+<hex>#21211d</hex>
 </color>
 <color>
 <name>Petticoat</name>
@@ -82231,6 +82311,10 @@
 <color>
 <name>Purple Prose</name>
 <hex>#554348</hex>
+</color>
+<color>
+<name>Purple Protégé</name>
+<hex>#593569</hex>
 </color>
 <color>
 <name>Purple Protest</name>
@@ -109771,6 +109855,10 @@
 <color>
 <name>Virtual Forest</name>
 <hex>#8aa56e</hex>
+</color>
+<color>
+<name>Virtual Golf</name>
+<hex>#c1ee13</hex>
 </color>
 <color>
 <name>Virtual Pink</name>
