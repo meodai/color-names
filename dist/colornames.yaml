@@ -24965,6 +24965,9 @@
   name:"Electrify"
   hex:"#5665a0"
 -
+  name:"Electrifying Kiss"
+  hex:"#d41c4e"
+-
   name:"Electromagnetic"
   hex:"#2e3840"
 -
@@ -47741,9 +47744,6 @@
   name:"Memphis Green"
   hex:"#5e9d7b"
 -
-  name:"Men Brown"
-  hex:"#5e5239"
--
   name:"Menacing Clouds"
   hex:"#69788a"
 -
@@ -51044,6 +51044,9 @@
   name:"Mysterious Blue"
   hex:"#3e7a85"
 -
+  name:"Mysterious Depths"
+  hex:"#060929"
+-
   name:"Mysterious Mauve"
   hex:"#a6a3a9"
 -
@@ -51052,6 +51055,9 @@
 -
   name:"Mysterious Night"
   hex:"#5c6070"
+-
+  name:"Mysterious Waters"
+  hex:"#27454a"
 -
   name:"Mystery"
   hex:"#a4cdcc"
@@ -51136,6 +51142,9 @@
 -
   name:"Mystified"
   hex:"#c9dbc7"
+-
+  name:"Mystifying Magenta"
+  hex:"#c920b0"
 -
   name:"Mystique"
   hex:"#a598a0"
@@ -60734,8 +60743,14 @@
   name:"Prehistoric Meteor"
   hex:"#ee2211"
 -
+  name:"Prehistoric Pink"
+  hex:"#c3738d"
+-
   name:"Prehistoric Stone"
   hex:"#9aa0a3"
+-
+  name:"Prehistoric Wood"
+  hex:"#5e5239"
 -
   name:"Prehnite Yellow"
   hex:"#d0a700"
@@ -62933,6 +62948,9 @@
   name:"Raspberry Lemonade"
   hex:"#e1aaaf"
 -
+  name:"Raspberry Magenta"
+  hex:"#9a1a60"
+-
   name:"Raspberry Milk"
   hex:"#ebd2d1"
 -
@@ -63439,6 +63457,9 @@
 -
   name:"Red Lilac Purple"
   hex:"#bfbac0"
+-
+  name:"Red Lust"
+  hex:"#b4090d"
 -
   name:"Red Mahogany"
   hex:"#60373d"
@@ -64616,7 +64637,7 @@
   name:"Rinse"
   hex:"#d5d9dd"
 -
-  name:"Rinsed-Out red"
+  name:"Rinsed-Out Red"
   hex:"#ff7952"
 -
   name:"Rio Grande"
