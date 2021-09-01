@@ -41,6 +41,10 @@
 <hex>#88ffcc</hex>
 </color>
 <color>
+<name>Abandoned Spaceship</name>
+<hex>#747a8a</hex>
+</color>
+<color>
 <name>Abloom</name>
 <hex>#f1cbcd</hex>
 </color>
@@ -863,6 +867,10 @@
 <color>
 <name>Bisque</name>
 <hex>#ffe4c4</hex>
+</color>
+<color>
+<name>Bite My Tongue</name>
+<hex>#d47d72</hex>
 </color>
 <color>
 <name>Bitter Lemon</name>
@@ -1981,6 +1989,10 @@
 <hex>#006380</hex>
 </color>
 <color>
+<name>Celestial Cathedral</name>
+<hex>#daeaf6</hex>
+</color>
+<color>
 <name>Celestial Horizon</name>
 <hex>#7c94b3</hex>
 </color>
@@ -2187,6 +2199,14 @@
 <color>
 <name>Chipmunk</name>
 <hex>#cfa14a</hex>
+</color>
+<color>
+<name>Chivalrous Fox</name>
+<hex>#c7662a</hex>
+</color>
+<color>
+<name>Chivalrous Walrus</name>
+<hex>#816558</hex>
 </color>
 <color>
 <name>Choco Chic</name>
@@ -2805,6 +2825,10 @@
 <hex>#88b5c4</hex>
 </color>
 <color>
+<name>Crystal Palace</name>
+<hex>#d3cfab</hex>
+</color>
+<color>
 <name>Cuba Libre</name>
 <hex>#73383c</hex>
 </color>
@@ -3069,6 +3093,14 @@
 <hex>#a30112</hex>
 </color>
 <color>
+<name>Dear Reader</name>
+<hex>#f5f3e6</hex>
+</color>
+<color>
+<name>Death by Chocolate</name>
+<hex>#60443f</hex>
+</color>
+<color>
 <name>Death of a Star</name>
 <hex>#e760d2</hex>
 </color>
@@ -3099,6 +3131,10 @@
 <color>
 <name>Deep Night</name>
 <hex>#494c55</hex>
+</color>
+<color>
+<name>Deep Pond</name>
+<hex>#014420</hex>
 </color>
 <color>
 <name>Deep Saffron</name>
@@ -3921,6 +3957,10 @@
 <hex>#ee1188</hex>
 </color>
 <color>
+<name>Faded Letter</name>
+<hex>#bfac86</hex>
+</color>
+<color>
 <name>Fading Horizon</name>
 <hex>#442266</hex>
 </color>
@@ -3967,6 +4007,10 @@
 <color>
 <name>Fallen Blossoms</name>
 <hex>#edb2c4</hex>
+</color>
+<color>
+<name>Fallen Petals</name>
+<hex>#f2e0da</hex>
 </color>
 <color>
 <name>Fanatic Fuchsia</name>
@@ -4861,6 +4905,10 @@
 <hex>#f8f8ff</hex>
 </color>
 <color>
+<name>Ghosted</name>
+<hex>#e2e0dc</hex>
+</color>
+<color>
 <name>Ghoul</name>
 <hex>#667744</hex>
 </color>
@@ -5073,8 +5121,16 @@
 <hex>#cccc11</hex>
 </color>
 <color>
+<name>Golden Hour</name>
+<hex>#f1b457</hex>
+</color>
+<color>
 <name>Golden Kingdom</name>
 <hex>#e0c84b</hex>
+</color>
+<color>
+<name>Golden Lion</name>
+<hex>#f3ca6c</hex>
 </color>
 <color>
 <name>Golden Mist</name>
@@ -6325,6 +6381,10 @@
 <hex>#cbc4c0</hex>
 </color>
 <color>
+<name>In the Vines</name>
+<hex>#5c457b</hex>
+</color>
+<color>
 <name>Inca Gold</name>
 <hex>#bb7a2c</hex>
 </color>
@@ -7457,8 +7517,16 @@
 <hex>#002489</hex>
 </color>
 <color>
+<name>Lost in Space</name>
+<hex>#03386a</hex>
+</color>
+<color>
 <name>Lost in the Woods</name>
 <hex>#014426</hex>
+</color>
+<color>
+<name>Lost in Time</name>
+<hex>#9fafbd</hex>
 </color>
 <color>
 <name>Lotion</name>
@@ -7503,6 +7571,10 @@
 <color>
 <name>Lovely Little Rosy</name>
 <hex>#e35f66</hex>
+</color>
+<color>
+<name>Lucid Dream</name>
+<hex>#632f92</hex>
 </color>
 <color>
 <name>Lucid Dreams</name>
@@ -9317,6 +9389,10 @@
 <hex>#ddaa55</hex>
 </color>
 <color>
+<name>Old World</name>
+<hex>#91a8cf</hex>
+</color>
+<color>
 <name>Olive</name>
 <hex>#808010</hex>
 </color>
@@ -9391,6 +9467,10 @@
 <color>
 <name>Opal Green</name>
 <hex>#157954</hex>
+</color>
+<color>
+<name>Open Book</name>
+<hex>#f5f1e5</hex>
 </color>
 <color>
 <name>Open Seas</name>
@@ -9505,12 +9585,20 @@
 <hex>#ee2222</hex>
 </color>
 <color>
+<name>Our Little Secret</name>
+<hex>#a84b7a</hex>
+</color>
+<color>
 <name>Out of the Blue</name>
 <hex>#1199ee</hex>
 </color>
 <color>
 <name>Outback</name>
 <hex>#c9a375</hex>
+</color>
+<color>
+<name>Over the Hills</name>
+<hex>#4d6d08</hex>
 </color>
 <color>
 <name>Overdue Blue</name>
@@ -11677,6 +11765,10 @@
 <hex>#4166f5</hex>
 </color>
 <color>
+<name>Secret Passage</name>
+<hex>#372a05</hex>
+</color>
+<color>
 <name>Secret Path</name>
 <hex>#737054</hex>
 </color>
@@ -11771,6 +11863,10 @@
 <color>
 <name>Shipmate</name>
 <hex>#7aa3cc</hex>
+</color>
+<color>
+<name>Shipwreck</name>
+<hex>#968772</hex>
 </color>
 <color>
 <name>Shipyard</name>
@@ -12145,6 +12241,10 @@
 <hex>#cc6622</hex>
 </color>
 <color>
+<name>Solar Flare</name>
+<hex>#e67c41</hex>
+</color>
+<color>
 <name>Solar Power</name>
 <hex>#f4bf3a</hex>
 </color>
@@ -12319,6 +12419,10 @@
 <color>
 <name>Star of Life</name>
 <hex>#057bc1</hex>
+</color>
+<color>
+<name>Stardust Evening</name>
+<hex>#b8bfdc</hex>
 </color>
 <color>
 <name>Stargazing</name>
@@ -12641,6 +12745,14 @@
 <hex>#005511</hex>
 </color>
 <color>
+<name>Swan Dive</name>
+<hex>#e5e4dd</hex>
+</color>
+<color>
+<name>Swan Lake</name>
+<hex>#c5e5e2</hex>
+</color>
+<color>
 <name>Sweet Butter</name>
 <hex>#fffcd7</hex>
 </color>
@@ -12705,6 +12817,14 @@
 <hex>#3b3f40</hex>
 </color>
 <color>
+<name>Tamed Beast</name>
+<hex>#9c2626</hex>
+</color>
+<color>
+<name>Tamed Beauty</name>
+<hex>#cfbccf</hex>
+</color>
+<color>
 <name>Tandoori</name>
 <hex>#bb5c4d</hex>
 </color>
@@ -12715,6 +12835,10 @@
 <color>
 <name>Tangerine Tango</name>
 <hex>#ff9e4b</hex>
+</color>
+<color>
+<name>Tangled Web</name>
+<hex>#b2b2b2</hex>
 </color>
 <color>
 <name>Tardis Blue</name>
@@ -13007,6 +13131,10 @@
 <color>
 <name>Treetop</name>
 <hex>#91b6ac</hex>
+</color>
+<color>
+<name>Treetop Cathedral</name>
+<hex>#2f4a15</hex>
 </color>
 <color>
 <name>Trippy Velvet</name>

@@ -133,6 +133,14 @@
 <hex>#94877e</hex>
 </color>
 <color>
+<name>Abandoned Playground</name>
+<hex>#746e6a</hex>
+</color>
+<color>
+<name>Abandoned Spaceship</name>
+<hex>#747a8a</hex>
+</color>
+<color>
 <name>Abbey</name>
 <hex>#4c4f56</hex>
 </color>
@@ -9701,6 +9709,10 @@
 <hex>#ffbb11</hex>
 </color>
 <color>
+<name>Bite My Tongue</name>
+<hex>#d47d72</hex>
+</color>
+<color>
 <name>Bite the Bullet</name>
 <hex>#ecebce</hex>
 </color>
@@ -18961,6 +18973,10 @@
 <hex>#2c4d69</hex>
 </color>
 <color>
+<name>Celestial Cathedral</name>
+<hex>#daeaf6</hex>
+</color>
+<color>
 <name>Celestial Coral</name>
 <hex>#dd4455</hex>
 </color>
@@ -20915,6 +20931,14 @@
 <color>
 <name>Chivalrous</name>
 <hex>#aeb2c0</hex>
+</color>
+<color>
+<name>Chivalrous Fox</name>
+<hex>#c7662a</hex>
+</color>
+<color>
+<name>Chivalrous Walrus</name>
+<hex>#816558</hex>
 </color>
 <color>
 <name>Chivalry Copper</name>
@@ -28257,6 +28281,10 @@
 <hex>#a30112</hex>
 </color>
 <color>
+<name>Dear Reader</name>
+<hex>#f5f3e6</hex>
+</color>
+<color>
 <name>Death by Chocolate</name>
 <hex>#60443f</hex>
 </color>
@@ -35409,6 +35437,10 @@
 <hex>#a5975b</hex>
 </color>
 <color>
+<name>Faded Letter</name>
+<hex>#bfac86</hex>
+</color>
+<color>
 <name>Faded Light</name>
 <hex>#f5e4de</hex>
 </color>
@@ -35779,6 +35811,10 @@
 <color>
 <name>Fallen Leaves</name>
 <hex>#917347</hex>
+</color>
+<color>
+<name>Fallen Petals</name>
+<hex>#f2e0da</hex>
 </color>
 <color>
 <name>Fallen Rock</name>
@@ -42961,6 +42997,10 @@
 <hex>#cfdd7b</hex>
 </color>
 <color>
+<name>Golden Hour</name>
+<hex>#f1b457</hex>
+</color>
+<color>
 <name>Golden Impression</name>
 <hex>#ffefcb</hex>
 </color>
@@ -42991,6 +43031,10 @@
 <color>
 <name>Golden Lime</name>
 <hex>#9a9738</hex>
+</color>
+<color>
+<name>Golden Lion</name>
+<hex>#f3ca6c</hex>
 </color>
 <color>
 <name>Golden Lion Tamarin</name>
@@ -48205,6 +48249,10 @@
 <hex>#5e8b3d</hex>
 </color>
 <color>
+<name>Hidden Passage</name>
+<hex>#3c3005</hex>
+</color>
+<color>
 <name>Hidden Peak</name>
 <hex>#727d7f</hex>
 </color>
@@ -49837,6 +49885,10 @@
 <hex>#b7a793</hex>
 </color>
 <color>
+<name>Hundred Waters</name>
+<hex>#b2b7d1</hex>
+</color>
+<color>
 <name>Hungry Red</name>
 <hex>#f0000d</hex>
 </color>
@@ -50895,6 +50947,10 @@
 <color>
 <name>In the Tropics</name>
 <hex>#a3bc3a</hex>
+</color>
+<color>
+<name>In the Vines</name>
+<hex>#5c457b</hex>
 </color>
 <color>
 <name>In the Woods</name>
@@ -59741,8 +59797,16 @@
 <hex>#dee8e1</hex>
 </color>
 <color>
+<name>Lost in Space</name>
+<hex>#03386a</hex>
+</color>
+<color>
 <name>Lost in the Woods</name>
 <hex>#014426</hex>
+</color>
+<color>
+<name>Lost in Time</name>
+<hex>#9fafbd</hex>
 </color>
 <color>
 <name>Lost Lace</name>
@@ -60067,6 +60131,10 @@
 <color>
 <name>Lucid Blue</name>
 <hex>#7e8d9f</hex>
+</color>
+<color>
+<name>Lucid Dream</name>
+<hex>#632f92</hex>
 </color>
 <color>
 <name>Lucid Dreams</name>
@@ -71546,7 +71614,7 @@
 </color>
 <color>
 <name>Old World</name>
-<hex>#b2b7d1</hex>
+<hex>#91a8cf</hex>
 </color>
 <color>
 <name>Old Yella</name>
@@ -71975,6 +72043,10 @@
 <color>
 <name>Open Air</name>
 <hex>#c7dfe0</hex>
+</color>
+<color>
+<name>Open Book</name>
+<hex>#f5f1e5</hex>
 </color>
 <color>
 <name>Open Canyon</name>
@@ -72885,6 +72957,10 @@
 <hex>#ee7948</hex>
 </color>
 <color>
+<name>Our Little Secret</name>
+<hex>#a84b7a</hex>
+</color>
+<color>
 <name>Out of Blue</name>
 <hex>#c0f7db</hex>
 </color>
@@ -72971,6 +73047,10 @@
 <color>
 <name>Ovation</name>
 <hex>#9eb2b9</hex>
+</color>
+<color>
+<name>Over the Hills</name>
+<hex>#4d6d08</hex>
 </color>
 <color>
 <name>Over the Taupe</name>
@@ -91509,6 +91589,10 @@
 <hex>#4166f5</hex>
 </color>
 <color>
+<name>Secret Passage</name>
+<hex>#372a05</hex>
+</color>
+<color>
 <name>Secret Passageway</name>
 <hex>#6d695e</hex>
 </color>
@@ -102453,6 +102537,14 @@
 <hex>#c5c5ac</hex>
 </color>
 <color>
+<name>Tamed Beast</name>
+<hex>#9c2626</hex>
+</color>
+<color>
+<name>Tamed Beauty</name>
+<hex>#cfbccf</hex>
+</color>
+<color>
 <name>Tan</name>
 <hex>#d1b26f</hex>
 </color>
@@ -102627,6 +102719,10 @@
 <color>
 <name>Tangled Vines</name>
 <hex>#cac19a</hex>
+</color>
+<color>
+<name>Tangled Web</name>
+<hex>#b2b2b2</hex>
 </color>
 <color>
 <name>Tanglewood</name>
@@ -103891,6 +103987,10 @@
 <color>
 <name>The Broadway</name>
 <hex>#145775</hex>
+</color>
+<color>
+<name>The Cottage</name>
+<hex>#837663</hex>
 </color>
 <color>
 <name>The Devil's Grass</name>
@@ -106047,6 +106147,10 @@
 <color>
 <name>Treetop</name>
 <hex>#91b6ac</hex>
+</color>
+<color>
+<name>Treetop Cathedral</name>
+<hex>#2f4a15</hex>
 </color>
 <color>
 <name>Trefoil</name>

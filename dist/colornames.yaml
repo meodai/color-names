@@ -98,6 +98,12 @@
   name:"Abandoned Mansion"
   hex:"#94877e"
 -
+  name:"Abandoned Playground"
+  hex:"#746e6a"
+-
+  name:"Abandoned Spaceship"
+  hex:"#747a8a"
+-
   name:"Abbey"
   hex:"#4c4f56"
 -
@@ -7274,6 +7280,9 @@
   name:"Bitcoin"
   hex:"#ffbb11"
 -
+  name:"Bite My Tongue"
+  hex:"#d47d72"
+-
   name:"Bite the Bullet"
   hex:"#ecebce"
 -
@@ -14219,6 +14228,9 @@
   name:"Celestial Blue"
   hex:"#2c4d69"
 -
+  name:"Celestial Cathedral"
+  hex:"#daeaf6"
+-
   name:"Celestial Coral"
   hex:"#dd4455"
 -
@@ -15685,6 +15697,12 @@
 -
   name:"Chivalrous"
   hex:"#aeb2c0"
+-
+  name:"Chivalrous Fox"
+  hex:"#c7662a"
+-
+  name:"Chivalrous Walrus"
+  hex:"#816558"
 -
   name:"Chivalry Copper"
   hex:"#bf784e"
@@ -21191,6 +21209,9 @@
   name:"Dear Darling"
   hex:"#a30112"
 -
+  name:"Dear Reader"
+  hex:"#f5f3e6"
+-
   name:"Death by Chocolate"
   hex:"#60443f"
 -
@@ -26555,6 +26576,9 @@
   name:"Faded Khaki"
   hex:"#a5975b"
 -
+  name:"Faded Letter"
+  hex:"#bfac86"
+-
   name:"Faded Light"
   hex:"#f5e4de"
 -
@@ -26833,6 +26857,9 @@
 -
   name:"Fallen Leaves"
   hex:"#917347"
+-
+  name:"Fallen Petals"
+  hex:"#f2e0da"
 -
   name:"Fallen Rock"
   hex:"#807669"
@@ -32219,6 +32246,9 @@
   name:"Golden Hop"
   hex:"#cfdd7b"
 -
+  name:"Golden Hour"
+  hex:"#f1b457"
+-
   name:"Golden Impression"
   hex:"#ffefcb"
 -
@@ -32242,6 +32272,9 @@
 -
   name:"Golden Lime"
   hex:"#9a9738"
+-
+  name:"Golden Lion"
+  hex:"#f3ca6c"
 -
   name:"Golden Lion Tamarin"
   hex:"#ca602a"
@@ -36152,6 +36185,9 @@
   name:"Hidden Paradise"
   hex:"#5e8b3d"
 -
+  name:"Hidden Passage"
+  hex:"#3c3005"
+-
   name:"Hidden Peak"
   hex:"#727d7f"
 -
@@ -37376,6 +37412,9 @@
   name:"Humus"
   hex:"#b7a793"
 -
+  name:"Hundred Waters"
+  hex:"#b2b7d1"
+-
   name:"Hungry Red"
   hex:"#f0000d"
 -
@@ -38170,6 +38209,9 @@
 -
   name:"In the Tropics"
   hex:"#a3bc3a"
+-
+  name:"In the Vines"
+  hex:"#5c457b"
 -
   name:"In the Woods"
   hex:"#72786f"
@@ -44804,8 +44846,14 @@
   name:"Lost in Istanbul"
   hex:"#dee8e1"
 -
+  name:"Lost in Space"
+  hex:"#03386a"
+-
   name:"Lost in the Woods"
   hex:"#014426"
+-
+  name:"Lost in Time"
+  hex:"#9fafbd"
 -
   name:"Lost Lace"
   hex:"#c2ebd1"
@@ -45049,6 +45097,9 @@
 -
   name:"Lucid Blue"
   hex:"#7e8d9f"
+-
+  name:"Lucid Dream"
+  hex:"#632f92"
 -
   name:"Lucid Dreams"
   hex:"#cceeff"
@@ -53658,7 +53709,7 @@
   hex:"#90091f"
 -
   name:"Old World"
-  hex:"#b2b7d1"
+  hex:"#91a8cf"
 -
   name:"Old Yella"
   hex:"#feed9a"
@@ -53980,6 +54031,9 @@
 -
   name:"Open Air"
   hex:"#c7dfe0"
+-
+  name:"Open Book"
+  hex:"#f5f1e5"
 -
   name:"Open Canyon"
   hex:"#bba990"
@@ -54662,6 +54716,9 @@
   name:"Ouni Red"
   hex:"#ee7948"
 -
+  name:"Our Little Secret"
+  hex:"#a84b7a"
+-
   name:"Out of Blue"
   hex:"#c0f7db"
 -
@@ -54727,6 +54784,9 @@
 -
   name:"Ovation"
   hex:"#9eb2b9"
+-
+  name:"Over the Hills"
+  hex:"#4d6d08"
 -
   name:"Over the Taupe"
   hex:"#b09d8a"
@@ -68630,6 +68690,9 @@
   name:"Secret of Mana"
   hex:"#4166f5"
 -
+  name:"Secret Passage"
+  hex:"#372a05"
+-
   name:"Secret Passageway"
   hex:"#6d695e"
 -
@@ -76838,6 +76901,12 @@
   name:"Tame Thyme"
   hex:"#c5c5ac"
 -
+  name:"Tamed Beast"
+  hex:"#9c2626"
+-
+  name:"Tamed Beauty"
+  hex:"#cfbccf"
+-
   name:"Tan"
   hex:"#d1b26f"
 -
@@ -76969,6 +77038,9 @@
 -
   name:"Tangled Vines"
   hex:"#cac19a"
+-
+  name:"Tangled Web"
+  hex:"#b2b2b2"
 -
   name:"Tanglewood"
   hex:"#a58f85"
@@ -77917,6 +77989,9 @@
 -
   name:"The Broadway"
   hex:"#145775"
+-
+  name:"The Cottage"
+  hex:"#837663"
 -
   name:"The Devil's Grass"
   hex:"#666420"
@@ -79534,6 +79609,9 @@
 -
   name:"Treetop"
   hex:"#91b6ac"
+-
+  name:"Treetop Cathedral"
+  hex:"#2f4a15"
 -
   name:"Trefoil"
   hex:"#47562f"

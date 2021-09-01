@@ -29,6 +29,9 @@
   name:"A State of Mint"
   hex:"#88ffcc"
 -
+  name:"Abandoned Spaceship"
+  hex:"#747a8a"
+-
   name:"Abloom"
   hex:"#f1cbcd"
 -
@@ -646,6 +649,9 @@
 -
   name:"Bisque"
   hex:"#ffe4c4"
+-
+  name:"Bite My Tongue"
+  hex:"#d47d72"
 -
   name:"Bitter Lemon"
   hex:"#d2db32"
@@ -1484,6 +1490,9 @@
   name:"Celestial"
   hex:"#006380"
 -
+  name:"Celestial Cathedral"
+  hex:"#daeaf6"
+-
   name:"Celestial Horizon"
   hex:"#7c94b3"
 -
@@ -1639,6 +1648,12 @@
 -
   name:"Chipmunk"
   hex:"#cfa14a"
+-
+  name:"Chivalrous Fox"
+  hex:"#c7662a"
+-
+  name:"Chivalrous Walrus"
+  hex:"#816558"
 -
   name:"Choco Chic"
   hex:"#993311"
@@ -2102,6 +2117,9 @@
   name:"Crystal Lake"
   hex:"#88b5c4"
 -
+  name:"Crystal Palace"
+  hex:"#d3cfab"
+-
   name:"Cuba Libre"
   hex:"#73383c"
 -
@@ -2300,6 +2318,12 @@
   name:"Dear Darling"
   hex:"#a30112"
 -
+  name:"Dear Reader"
+  hex:"#f5f3e6"
+-
+  name:"Death by Chocolate"
+  hex:"#60443f"
+-
   name:"Death of a Star"
   hex:"#e760d2"
 -
@@ -2323,6 +2347,9 @@
 -
   name:"Deep Night"
   hex:"#494c55"
+-
+  name:"Deep Pond"
+  hex:"#014420"
 -
   name:"Deep Saffron"
   hex:"#ff9932"
@@ -2939,6 +2966,9 @@
   name:"Fabulous Fuchsia"
   hex:"#ee1188"
 -
+  name:"Faded Letter"
+  hex:"#bfac86"
+-
   name:"Fading Horizon"
   hex:"#442266"
 -
@@ -2974,6 +3004,9 @@
 -
   name:"Fallen Blossoms"
   hex:"#edb2c4"
+-
+  name:"Fallen Petals"
+  hex:"#f2e0da"
 -
   name:"Fanatic Fuchsia"
   hex:"#ee1199"
@@ -3644,6 +3677,9 @@
   name:"Ghost White"
   hex:"#f8f8ff"
 -
+  name:"Ghosted"
+  hex:"#e2e0dc"
+-
   name:"Ghoul"
   hex:"#667744"
 -
@@ -3803,8 +3839,14 @@
   name:"Golden Harvest"
   hex:"#cccc11"
 -
+  name:"Golden Hour"
+  hex:"#f1b457"
+-
   name:"Golden Kingdom"
   hex:"#e0c84b"
+-
+  name:"Golden Lion"
+  hex:"#f3ca6c"
 -
   name:"Golden Mist"
   hex:"#d5cd94"
@@ -4742,6 +4784,9 @@
   name:"In the Shadows"
   hex:"#cbc4c0"
 -
+  name:"In the Vines"
+  hex:"#5c457b"
+-
   name:"Inca Gold"
   hex:"#bb7a2c"
 -
@@ -5591,8 +5636,14 @@
   name:"Lost in Heaven"
   hex:"#002489"
 -
+  name:"Lost in Space"
+  hex:"#03386a"
+-
   name:"Lost in the Woods"
   hex:"#014426"
+-
+  name:"Lost in Time"
+  hex:"#9fafbd"
 -
   name:"Lotion"
   hex:"#fefdfa"
@@ -5626,6 +5677,9 @@
 -
   name:"Lovely Little Rosy"
   hex:"#e35f66"
+-
+  name:"Lucid Dream"
+  hex:"#632f92"
 -
   name:"Lucid Dreams"
   hex:"#cceeff"
@@ -6986,6 +7040,9 @@
   name:"Old Whiskey"
   hex:"#ddaa55"
 -
+  name:"Old World"
+  hex:"#91a8cf"
+-
   name:"Olive"
   hex:"#808010"
 -
@@ -7042,6 +7099,9 @@
 -
   name:"Opal Green"
   hex:"#157954"
+-
+  name:"Open Book"
+  hex:"#f5f1e5"
 -
   name:"Open Seas"
   hex:"#83afbc"
@@ -7127,11 +7187,17 @@
   name:"Ottoman Red"
   hex:"#ee2222"
 -
+  name:"Our Little Secret"
+  hex:"#a84b7a"
+-
   name:"Out of the Blue"
   hex:"#1199ee"
 -
   name:"Outback"
   hex:"#c9a375"
+-
+  name:"Over the Hills"
+  hex:"#4d6d08"
 -
   name:"Overdue Blue"
   hex:"#4400ff"
@@ -8756,6 +8822,9 @@
   name:"Secret of Mana"
   hex:"#4166f5"
 -
+  name:"Secret Passage"
+  hex:"#372a05"
+-
   name:"Secret Path"
   hex:"#737054"
 -
@@ -8827,6 +8896,9 @@
 -
   name:"Shipmate"
   hex:"#7aa3cc"
+-
+  name:"Shipwreck"
+  hex:"#968772"
 -
   name:"Shipyard"
   hex:"#4f6f85"
@@ -9107,6 +9179,9 @@
   name:"Solar Ash"
   hex:"#cc6622"
 -
+  name:"Solar Flare"
+  hex:"#e67c41"
+-
   name:"Solar Power"
   hex:"#f4bf3a"
 -
@@ -9238,6 +9313,9 @@
 -
   name:"Star of Life"
   hex:"#057bc1"
+-
+  name:"Stardust Evening"
+  hex:"#b8bfdc"
 -
   name:"Stargazing"
   hex:"#414549"
@@ -9479,6 +9557,12 @@
   name:"Swamp Monster"
   hex:"#005511"
 -
+  name:"Swan Dive"
+  hex:"#e5e4dd"
+-
+  name:"Swan Lake"
+  hex:"#c5e5e2"
+-
   name:"Sweet Butter"
   hex:"#fffcd7"
 -
@@ -9527,6 +9611,12 @@
   name:"Tamahagane"
   hex:"#3b3f40"
 -
+  name:"Tamed Beast"
+  hex:"#9c2626"
+-
+  name:"Tamed Beauty"
+  hex:"#cfbccf"
+-
   name:"Tandoori"
   hex:"#bb5c4d"
 -
@@ -9535,6 +9625,9 @@
 -
   name:"Tangerine Tango"
   hex:"#ff9e4b"
+-
+  name:"Tangled Web"
+  hex:"#b2b2b2"
 -
   name:"Tardis Blue"
   hex:"#003b6f"
@@ -9754,6 +9847,9 @@
 -
   name:"Treetop"
   hex:"#91b6ac"
+-
+  name:"Treetop Cathedral"
+  hex:"#2f4a15"
 -
   name:"Trippy Velvet"
   hex:"#cc00ee"
