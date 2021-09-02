@@ -2609,6 +2609,9 @@
   name:"Driftwood"
   hex:"#a67a45"
 -
+  name:"Drip Coffee"
+  hex:"#7a280a"
+-
   name:"Dripping Wisteria"
   hex:"#bb99bb"
 -
@@ -2885,6 +2888,9 @@
   name:"Espresso"
   hex:"#4e312d"
 -
+  name:"Espresso Bar"
+  hex:"#5b3f34"
+-
   name:"Espresso Macchiato"
   hex:"#4f4744"
 -
@@ -3080,8 +3086,14 @@
   name:"Ferntastic"
   hex:"#71ab62"
 -
+  name:"Ferocious"
+  hex:"#e2261f"
+-
   name:"Ferocious Flamingo"
   hex:"#ee00cc"
+-
+  name:"Ferocious Fox"
+  hex:"#e25d1b"
 -
   name:"Ferocious Fuchsia"
   hex:"#aa00cc"
@@ -3439,6 +3451,9 @@
 -
   name:"Fresh Snow"
   hex:"#f6efe1"
+-
+  name:"Freshly Roasted Coffee"
+  hex:"#663322"
 -
   name:"Fricassée"
   hex:"#ffe6c2"
@@ -8486,6 +8501,9 @@
   name:"Roasted Pepper"
   hex:"#890a01"
 -
+  name:"Roastery"
+  hex:"#692302"
+-
   name:"Rock Lobster"
   hex:"#f00b52"
 -
@@ -8830,6 +8848,9 @@
 -
   name:"Seedling"
   hex:"#c0cba1"
+-
+  name:"Self-Love"
+  hex:"#d22b6d"
 -
   name:"Serene"
   hex:"#dce3e4"

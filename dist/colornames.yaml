@@ -15443,6 +15443,9 @@
   name:"Chill of Teamwork"
   hex:"#256d8d"
 -
+  name:"Chilled Chilly"
+  hex:"#ec4236"
+-
   name:"Chilled Cucumber"
   hex:"#cbcdb2"
 -
@@ -19838,6 +19841,9 @@
   name:"Cryptic Light"
   hex:"#6d434e"
 -
+  name:"Crypto Gold"
+  hex:"#ffe314"
+-
   name:"Crystal"
   hex:"#a7d8de"
 -
@@ -23573,6 +23579,9 @@
   name:"Drip"
   hex:"#a6ccd6"
 -
+  name:"Drip Coffee"
+  hex:"#7a280a"
+-
   name:"Dripping Ice"
   hex:"#d2dfed"
 -
@@ -25880,6 +25889,9 @@
   name:"Espresso"
   hex:"#4e312d"
 -
+  name:"Espresso Bar"
+  hex:"#5b3f34"
+-
   name:"Espresso Beans"
   hex:"#4c443e"
 -
@@ -27320,8 +27332,14 @@
   name:"Ferntastic"
   hex:"#71ab62"
 -
+  name:"Ferocious"
+  hex:"#e2261f"
+-
   name:"Ferocious Flamingo"
   hex:"#ee00cc"
+-
+  name:"Ferocious Fox"
+  hex:"#e25d1b"
 -
   name:"Ferocious Fuchsia"
   hex:"#aa00cc"
@@ -65015,6 +65033,9 @@
   name:"Roasted Squash"
   hex:"#e6a255"
 -
+  name:"Roastery"
+  hex:"#692302"
+-
   name:"Rob Roy"
   hex:"#ddad56"
 -
@@ -68812,6 +68833,9 @@
 -
   name:"Self-Destruct"
   hex:"#c2b398"
+-
+  name:"Self-Love"
+  hex:"#d22b6d"
 -
   name:"Seljuk Blue"
   hex:"#4488ee"
