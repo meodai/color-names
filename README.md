@@ -286,6 +286,7 @@ See [package.json](package.json#L6) for more.
 
 ### Sponsors
 
+- [neverything] 25USD/month
 - [Dmitry Iv.] 10USD/month
 
 ### Project Costs USD
@@ -384,6 +385,7 @@ they will be removed as quickly as possible.
 [Carrion]: https://twitter.com/Cutlaska
 [BlueChaos]: https://www.instagram.com/bluechaos1811/
 [Dmitry Iv.]: https://github.com/dy
+[neverything]: https://neverything.me/
 
 <!-- Sources: Names -->
 
