@@ -1004,6 +1004,9 @@
   name:"Alfalfa"
   hex:"#b7b59f"
 -
+  name:"Alfalfa Bug"
+  hex:"#78ad6d"
+-
   name:"Alfalfa Extract"
   hex:"#546940"
 -
@@ -4436,6 +4439,9 @@
   name:"Autumn Hills"
   hex:"#784f50"
 -
+  name:"Autumn Landscape"
+  hex:"#e47227"
+-
   name:"Autumn Laurel"
   hex:"#9d8d66"
 -
@@ -5527,6 +5533,9 @@
 -
   name:"Barcelona Brown"
   hex:"#926a46"
+-
+  name:"Barcelona Orange"
+  hex:"#ff9500"
 -
   name:"Bare"
   hex:"#817e6d"
@@ -8470,6 +8479,9 @@
 -
   name:"Blue Dam"
   hex:"#a2c6d3"
+-
+  name:"Blue Damselfly"
+  hex:"#2fa1da"
 -
   name:"Blue Danube"
   hex:"#0087b6"
@@ -20801,6 +20813,9 @@
   name:"Dark Orange"
   hex:"#c65102"
 -
+  name:"Dark Orchestra"
+  hex:"#251b19"
+-
   name:"Dark Pansy"
   hex:"#653d7c"
 -
@@ -28058,6 +28073,9 @@
   name:"Flamenco"
   hex:"#ea8645"
 -
+  name:"Flaming Cauldron"
+  hex:"#f6a374"
+-
   name:"Flaming Flamingo"
   hex:"#dd55ff"
 -
@@ -35099,6 +35117,9 @@
   name:"Happy Camper"
   hex:"#6b8350"
 -
+  name:"Happy Cricket"
+  hex:"#72a86a"
+-
   name:"Happy Days"
   hex:"#506e82"
 -
@@ -37603,6 +37624,9 @@
 -
   name:"Hypnotic"
   hex:"#687783"
+-
+  name:"Hypnotic Green"
+  hex:"#73e608"
 -
   name:"Hypnotic Sea"
   hex:"#00787f"
@@ -44612,6 +44636,9 @@
   name:"Llama Wool"
   hex:"#917864"
 -
+  name:"Llilacquered"
+  hex:"#c35b99"
+-
   name:"Loafer"
   hex:"#dbd9c2"
 -
@@ -45217,6 +45244,9 @@
 -
   name:"Luminescent Sky"
   hex:"#cafffb"
+-
+  name:"Luminous Apricot"
+  hex:"#ecbf55"
 -
   name:"Luminous Light"
   hex:"#bbaeb9"
@@ -47374,6 +47404,9 @@
 -
   name:"Medieval Gold"
   hex:"#ac7f48"
+-
+  name:"Medieval Sulfur"
+  hex:"#a79f5c"
 -
   name:"Medieval Wine"
   hex:"#8c7d88"
@@ -51359,6 +51392,9 @@
   name:"Napoleon"
   hex:"#404149"
 -
+  name:"Napoleonic Blue"
+  hex:"#2c4170"
+-
   name:"Nārangī Orange"
   hex:"#ff8050"
 -
@@ -51928,6 +51964,9 @@
 -
   name:"Nevermind Nirvana"
   hex:"#7bc8f6"
+-
+  name:"Neverything"
+  hex:"#13181b"
 -
   name:"New Age Blue"
   hex:"#496ead"
@@ -54319,6 +54358,9 @@
 -
   name:"Orange Squash"
   hex:"#c27635"
+-
+  name:"Orange Sulphur"
+  hex:"#e8a320"
 -
   name:"Orange Tea Rose"
   hex:"#ff8379"
@@ -63703,6 +63745,9 @@
 -
   name:"Red Savina Pepper"
   hex:"#ee0128"
+-
+  name:"Red Sentinel"
+  hex:"#b9090f"
 -
   name:"Red Shade Wash"
   hex:"#862808"
@@ -75233,8 +75278,8 @@
   name:"Sulfur Yellow"
   hex:"#dbc058"
 -
-  name:"Sulfuric Yellow"
-  hex:"#a79f5c"
+  name:"Sulfuric"
+  hex:"#eeed56"
 -
   name:"Sullen Gold"
   hex:"#a58b34"
@@ -80204,6 +80249,9 @@
   name:"Turkish Coffee"
   hex:"#483f39"
 -
+  name:"Turkish Ginger"
+  hex:"#f7f3bd"
+-
   name:"Turkish Jade"
   hex:"#2b888d"
 -
@@ -81238,6 +81286,9 @@
 -
   name:"Vampiric Bloodlust"
   hex:"#cc0066"
+-
+  name:"Vampiric Council"
+  hex:"#5c0c0c"
 -
   name:"Vampiric Shadow"
   hex:"#bfb6aa"
@@ -84286,6 +84337,9 @@
 -
   name:"White Fur"
   hex:"#f1efe7"
+-
+  name:"White Gauze"
+  hex:"#c9c2bd"
 -
   name:"White Geranium"
   hex:"#f1f1e1"
