@@ -25,6 +25,7 @@ A handpicked list of __29000__ unique color names from
   | <a href="#usage-js-">Usage JS</a>
   | <a href="#sources-">Name Sources</a>
   | <a href="#latest-color-names-">Latest Color Names</a>
+  | <a href="#costs--sponsors">Sponsors</a>
 </p>
 
 ## About 📋
