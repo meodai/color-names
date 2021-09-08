@@ -288,10 +288,12 @@ See [package.json](package.json#L6) for more.
 ### Sponsors
 
 #### Silver
+
 - [neverything] 25USD/month
 - [Dmitry Iv.] 10USD/month
 
 #### Bronze
+
 - [Myriam Aerne] 20CHF
 
 ### Project Costs USD
