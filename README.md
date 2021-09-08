@@ -286,8 +286,12 @@ See [package.json](package.json#L6) for more.
 
 ### Sponsors
 
+#### Silver
 - [neverything] 25USD/month
 - [Dmitry Iv.] 10USD/month
+
+#### Bronze
+- [Myriam Aerne] 20CHF
 
 ### Project Costs USD
 
@@ -386,6 +390,7 @@ they will be removed as quickly as possible.
 [BlueChaos]: https://www.instagram.com/bluechaos1811/
 [Dmitry Iv.]: https://github.com/dy
 [neverything]: https://neverything.me/
+[Myriam Aerne]: https://fynoeggeli.ch/
 
 <!-- Sources: Names -->
 
