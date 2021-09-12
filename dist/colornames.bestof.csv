@@ -62,6 +62,7 @@ Another One Bites the Dust,#c7bba4
 Antarctic Love,#eddee6
 Anthracite,#28282d
 Antique,#8b846d
+Antique Brass,#6c461f
 Aphrodite Aqua,#45e9c1
 Aphroditean Fuchsia,#dd14ab
 Apocalyptic Orange,#f4711e
@@ -181,6 +182,7 @@ Beetroot Purple,#cf2d71
 Begonia,#fa6e79
 Beige,#e6daa6
 Belgian Waffle,#f3dfb6
+Bell Tower,#dad0bb
 Belladonna,#220011
 Bellflower,#5d66aa
 Bellini,#f4c9b1
@@ -231,6 +233,7 @@ Black Mana,#858585
 Black Metal,#060606
 Black Olive,#3b3c36
 Black Orchid,#525463
+Black Out,#222222
 Black Panther,#424242
 Black Pearl,#1e272c
 Black Power,#654b37
@@ -259,6 +262,7 @@ Blond,#faf0be
 Blood Brother,#770011
 Blood Burst,#ff474c
 Blood Donor,#ea1822
+Blood Kiss,#c30b0a
 Blood Orange,#d1001c
 Blood Rush,#aa2222
 Bloodhound,#bb5511
@@ -323,6 +327,7 @@ Brain Freeze,#00eeff
 Brandy,#dcb68a
 Brandy Bear,#aa5412
 Brandywine Spritz,#e69dad
+Brass,#b5a642
 Brass Buttons,#dfac4c
 Bread and Butter,#faedd2
 Bread Crumb,#e4d4be
@@ -409,6 +414,7 @@ Cafe Creme,#c79685
 Cafe Latte,#d6c6b4
 Café Noir,#4b3621
 Cafe Royale,#6a4928
+Cajeta,#c46d29
 Cakepop Sorbet,#f8c649
 Calabrese,#f4a6a3
 Calcium Rock,#eee9d9
@@ -562,6 +568,7 @@ Chocolate Explosion,#8e473b
 Chocolate Fantasies,#5c3612
 Chocolate Kiss,#3c1421
 Chocolate Lust,#993322
+Chocolate Magma,#7a463a
 Chocolate Rain,#714f29
 Chocolate Temptation,#956e5f
 Chocolate Truffle,#612e35
@@ -946,6 +953,7 @@ Enchanting Ivy,#315955
 End of Summer,#cc8f15
 Endive,#cee1c8
 Endless Galaxy,#000044
+Endless River,#567aad
 Endo,#5da464
 English Breakfast,#441111
 English Manor,#7181a4
@@ -1018,6 +1026,7 @@ Fatty Sashimi,#eec4b4
 Fawn,#cfaf7b
 Feasty Fuchsia,#ee0088
 Featherbed,#afcbe5
+Federation of Love,#b71010
 Fedora,#625665
 Feijoa,#a5d785
 Feminism,#9d5783
@@ -1079,6 +1088,7 @@ Flamenco,#ea8645
 Flaming Cauldron,#f6a374
 Flaming Flamingo,#dd55ff
 Flaming Hot Flamingoes,#ff005d
+Flaming June,#eebb66
 Flamingo Queen,#cc33ff
 Flan,#f6e3b4
 Flash in the Pan,#ff9977
@@ -1121,6 +1131,7 @@ Forest,#0b5509
 Forester,#9aa77c
 Forestial,#007733
 Forestial Outpost,#556611
+Forestry,#2f441f
 Forget-Me-Not,#0087bd
 Forgiven Sin,#ff1199
 Forgotten Mosque,#e2d9db
@@ -1253,6 +1264,7 @@ Glacial Ice,#eae9e7
 Glacier,#78b1bf
 Glamour Pink,#ff1dcd
 Glamour White,#fffcec
+Glazed Chestnut,#967217
 Glazed Sugar,#ffdccc
 Glimpse into Space,#121210
 Glimpse of Void,#335588
@@ -1280,6 +1292,7 @@ Gold Vein,#d6b956
 Gold Winged,#e6d682
 Golden Blood,#ff1155
 Golden Boy,#ffdd44
+Golden Churro,#f4ce74
 Golden Coin,#fcd975
 Golden Frame,#e2b31b
 Golden Ginkgo,#f9f525
@@ -1461,6 +1474,7 @@ Helvetia Red,#f00000
 Hemp,#987d73
 Her Fierceness,#6f123c
 Her Highness,#432e6f
+Her Velour,#bb5f62
 Herbal,#29ab87
 Herbal Vapors,#ddffcc
 Herbalist,#969e86
@@ -1814,6 +1828,7 @@ Lemon Meringue,#f6e199
 Lemon Tart,#ffdd66
 Lemon Zest,#f9d857
 Lemonade,#f0e79d
+Les Demoiselles d'Avignon,#e59d7b
 Let it Snow,#d8f1f4
 Lethal Lime,#88ff11
 Liaison,#8c3f52
@@ -1861,6 +1876,9 @@ Lion King,#dd9933
 Lionheart,#cc2222
 Lip Gloss,#dfcdc7
 Lipstick,#c95b83
+Liquid Gold,#fdc675
+Liquid Lava,#f77511
+Liquid Lime,#cdf80c
 Liquid Neon,#c8ff00
 Liquorice,#0a0502
 Liquorice Red,#740900
@@ -2098,6 +2116,7 @@ Midnight in Tokyo,#000088
 Midnight Melancholia,#002266
 Midnight Pines,#17240b
 Midnight Serenade,#41434e
+Midnight Sky,#424753
 Midori,#2a603b
 Midsummer Nights,#0011ee
 Mighty Mauve,#8f7f85
@@ -2401,9 +2420,12 @@ Orchid,#7a81ff
 Organic,#747261
 Oriental Blush,#d7c6e1
 Oriental Herbs,#118822
+Oriental Nights,#4b2c74
 Oriental Olive,#445533
 Oriental Pink,#c28e88
 Oriental Ruby,#ce536b
+Oriental Scent,#e2bfa8
+Oriental Silk,#efe5d6
 Oriental Spice,#8b5131
 Ottoman Red,#ee2222
 Our Little Secret,#a84b7a
@@ -2499,6 +2521,7 @@ Peach Fury,#f88435
 Peach Fuzz,#ffc7b9
 Peach Puff,#ffdab9
 Peach Scone,#ffbcbc
+Peach Velour,#f7b28b
 Peach's Daydream,#fd9b88
 Peaches of Immortality,#d98586
 Peachy Feeling,#ed8666
@@ -2691,6 +2714,7 @@ Pool Water,#2188ff
 Pop That Gum,#f771b3
 Popcorn,#f8de8d
 Poppy Flower,#ec5800
+Poppy Red,#dc343b
 Porcelain,#dddcdb
 Porcelain Mint,#dbe7e1
 Porcelain Skin,#ffe7eb
@@ -2702,6 +2726,7 @@ Poseidon Jr.,#66eeee
 Possessed Purple,#881166
 Possessed Red,#c2264d
 Potato Chip,#fddc57
+Powder Blush,#d8948b
 Powder Puff,#ffeff3
 Powdered,#f9f2e7
 Prairie Land,#e2cc9c
@@ -2720,6 +2745,7 @@ Prickly Pink,#f42c93
 Prickly Purple,#a264ba
 Primal Green,#11875d
 Primal Rage,#f4301c
+Primavera,#6fa77a
 Primrose,#d6859f
 Prince Charming,#cc2277
 Princess Blue Feather,#cceeee
@@ -2739,6 +2765,8 @@ Prune,#701c11
 Prunella,#864788
 Psychedelic Purple,#dd00ff
 Pucker Up,#ff1177
+Puffy Cloud,#d2def2
+Puffy Pillow,#e8e5de
 Pulp,#e18289
 Puma,#96711c
 Pumping Spice,#f7504a
@@ -2828,6 +2856,7 @@ Red Riding Hood,#fe2713
 Red Robin,#7d4138
 Red Stop,#ff2222
 Red Wrath of Zeus,#e0180c
+Redolency,#ea8a7a
 Redstone,#e46b71
 RedЯum,#ff2200
 Reign of Tomatoes,#f7250b
@@ -2867,6 +2896,7 @@ Royalty,#5930a9
 Rubber Ducky,#facf58
 Ruby,#ca0147
 Rubylicious,#db1459
+Ruined Smores,#0f1012
 Ruins of Civilization,#cadece
 Rum,#716675
 Run Lola Run,#da2811
@@ -2940,6 +2970,7 @@ Sea Foam Mist,#cbdce2
 Sea Glass Teal,#a0e5d9
 Sea Goddess,#216987
 Sea Lion,#7f8793
+Sea of Galilee,#466590
 Sea Paint,#00507a
 Sea Salt Rivers,#5087bd
 Sea Serpent,#4bc7cf
@@ -2995,6 +3026,7 @@ Silent Film,#9fa5a5
 Silent Night,#526771
 Silent Sea,#3a4a63
 Silk Dessou,#eee9dc
+Silk for the Gods,#ecddc9
 Silk Lining,#fcefe0
 Silk Satin,#8b4248
 Silk Star,#f5eec6
@@ -3003,6 +3035,9 @@ Silken Gold,#fce17c
 Silken Jade,#11a39e
 Silken Pebble,#d0d0c9
 Silken Ruby,#e81320
+Silkworm,#eeeecc
+Silky Green,#bdc2bb
+Silky Mint,#d7ecd9
 Silver,#c0c0c0
 Silver Birch,#d2cfc4
 Silver Bird,#fbf5f0
@@ -3460,7 +3495,9 @@ Warm Light,#fff9d8
 Warm Oats,#d8cfba
 Warm Pink,#fb5581
 Warm Purple,#952e8f
+Warm Spring,#4286bc
 Warm Welcome,#ea9073
+Warm White,#efebd8
 Warp Drive,#eaf2f1
 Warrior,#7d685b
 Wasabi,#afd77f
@@ -3522,6 +3559,7 @@ White Russian,#f0e0dc
 White Sand,#f5ebd8
 White Smoke,#f5f5f5
 White Truffle,#efdbcd
+White Warm Wool,#efe6d1
 Wicked Green,#9bca47
 Widowmaker,#99aaff
 Wild Berry,#7e3a3c
