@@ -1013,6 +1013,9 @@
   name:"Alfalfa Extract"
   hex:"#546940"
 -
+  name:"Alfonso Olive"
+  hex:"#80365a"
+-
   name:"Alga Moss"
   hex:"#8da98d"
 -
@@ -1876,6 +1879,9 @@
 -
   name:"Ametrine Quartz"
   hex:"#ded1e0"
+-
+  name:"Amfissa Olive"
+  hex:"#783e48"
 -
   name:"Amiable Orange"
   hex:"#df965b"
@@ -11945,6 +11951,9 @@
   name:"Butterball"
   hex:"#fff4c4"
 -
+  name:"Butterbeer"
+  hex:"#af7934"
+-
   name:"Butterblond"
   hex:"#f1c766"
 -
@@ -12016,6 +12025,9 @@
 -
   name:"Butterscotch Bliss"
   hex:"#d7ad62"
+-
+  name:"Butterscotch Cake"
+  hex:"#f1c882"
 -
   name:"Butterscotch Glaze"
   hex:"#c48446"
@@ -13131,7 +13143,7 @@
   hex:"#78728c"
 -
   name:"Capers"
-  hex:"#695e4b"
+  hex:"#897a3e"
 -
   name:"Capetown Cream"
   hex:"#fcebce"
@@ -13838,6 +13850,9 @@
   name:"Castellina"
   hex:"#a27040"
 -
+  name:"Castelvetrano Olive"
+  hex:"#677727"
+-
   name:"Caster Sugar"
   hex:"#ffffe8"
 -
@@ -14449,6 +14464,9 @@
 -
   name:"Ceremonial Purple"
   hex:"#2a2756"
+-
+  name:"Cerignola Olive"
+  hex:"#997b00"
 -
   name:"Cerise"
   hex:"#a41247"
@@ -22442,6 +22460,9 @@
   name:"Deviled Egg"
   hex:"#fdd77a"
 -
+  name:"Deviled Eggs"
+  hex:"#fecd82"
+-
   name:"Devilish"
   hex:"#dd3322"
 -
@@ -25588,6 +25609,9 @@
 -
   name:"Endless Slumber"
   hex:"#b1aab3"
+-
+  name:"Endless Summer"
+  hex:"#f7cf00"
 -
   name:"Endo"
   hex:"#5da464"
@@ -29663,6 +29687,9 @@
   name:"Fresh Peaches"
   hex:"#f6b98a"
 -
+  name:"Fresh Pesto"
+  hex:"#a0bd14"
+-
   name:"Fresh Piglet"
   hex:"#fddde6"
 -
@@ -32663,6 +32690,9 @@
   name:"Gorā White"
   hex:"#f0f0e0"
 -
+  name:"Gordal Olive"
+  hex:"#bf852b"
+-
   name:"Gordons Green"
   hex:"#29332b"
 -
@@ -33292,6 +33322,9 @@
 -
   name:"Grayve-Yard"
   hex:"#a1a19f"
+-
+  name:"Greasy Green Beans"
+  hex:"#a2b35a"
 -
   name:"Greasy Greens"
   hex:"#117755"
@@ -37244,6 +37277,9 @@
   name:"Hot Bolognese"
   hex:"#cc5511"
 -
+  name:"Hot Brown"
+  hex:"#984218"
+-
   name:"Hot Butter"
   hex:"#e69d00"
 -
@@ -37294,6 +37330,9 @@
 -
   name:"Hot Flamingo"
   hex:"#b35966"
+-
+  name:"Hot Fudge"
+  hex:"#5e2912"
 -
   name:"Hot Ginger"
   hex:"#a36736"
@@ -38617,6 +38656,9 @@
 -
   name:"Infinite Deep Sea"
   hex:"#435a6f"
+-
+  name:"Infinite Night"
+  hex:"#071037"
 -
   name:"Infinitesimal Blue"
   hex:"#bddde1"
@@ -42056,6 +42098,9 @@
   name:"Lavender Pearl"
   hex:"#ede5e8"
 -
+  name:"Lavender Perceptions"
+  hex:"#cb82e3"
+-
   name:"Lavender Phlox"
   hex:"#a6badf"
 -
@@ -44887,9 +44932,6 @@
 -
   name:"Loofah"
   hex:"#e3d3b5"
--
-  name:"Look At Me!"
-  hex:"#a67e4b"
 -
   name:"Look at the Bright Side"
   hex:"#febf01"
@@ -49739,6 +49781,9 @@
   name:"Monkey Island"
   hex:"#553b39"
 -
+  name:"Monkey King"
+  hex:"#bf6414"
+-
   name:"Monkey Madness"
   hex:"#63584c"
 -
@@ -53920,6 +53965,9 @@
 -
   name:"Olive Martini"
   hex:"#ced2ab"
+-
+  name:"Olive Niçoise"
+  hex:"#88432e"
 -
   name:"Olive Night"
   hex:"#535040"
@@ -58124,6 +58172,9 @@
   name:"Pickled Bluewood"
   hex:"#314459"
 -
+  name:"Pickled Capers"
+  hex:"#695e4b"
+-
   name:"Pickled Cucumber"
   hex:"#94a135"
 -
@@ -61633,6 +61684,9 @@
 -
   name:"Puppy Love"
   hex:"#e2babf"
+-
+  name:"Purception"
+  hex:"#c687d6"
 -
   name:"Pure Apple"
   hex:"#6ab54b"
@@ -66410,6 +66464,9 @@
   name:"Ruins of Civilization"
   hex:"#cadece"
 -
+  name:"Ruins of Metal"
+  hex:"#9b8b84"
+-
   name:"Rule Breaker"
   hex:"#774e55"
 -
@@ -67291,6 +67348,12 @@
 -
   name:"Saltbox Blue"
   hex:"#65758a"
+-
+  name:"Salted"
+  hex:"#ebeadc"
+-
+  name:"Salted Capers"
+  hex:"#a69151"
 -
   name:"Salted Caramel"
   hex:"#ebb367"
@@ -79306,6 +79369,9 @@
 -
   name:"Tostada"
   hex:"#e3c19c"
+-
+  name:"Tosty Crust"
+  hex:"#a67e4b"
 -
   name:"Total Eclipse"
   hex:"#2c313d"

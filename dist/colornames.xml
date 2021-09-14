@@ -1353,6 +1353,10 @@
 <hex>#546940</hex>
 </color>
 <color>
+<name>Alfonso Olive</name>
+<hex>#80365a</hex>
+</color>
+<color>
 <name>Alga Moss</name>
 <hex>#8da98d</hex>
 </color>
@@ -2503,6 +2507,10 @@
 <color>
 <name>Ametrine Quartz</name>
 <hex>#ded1e0</hex>
+</color>
+<color>
+<name>Amfissa Olive</name>
+<hex>#783e48</hex>
 </color>
 <color>
 <name>Amiable Orange</name>
@@ -15929,6 +15937,10 @@
 <hex>#fff4c4</hex>
 </color>
 <color>
+<name>Butterbeer</name>
+<hex>#af7934</hex>
+</color>
+<color>
 <name>Butterblond</name>
 <hex>#f1c766</hex>
 </color>
@@ -16023,6 +16035,10 @@
 <color>
 <name>Butterscotch Bliss</name>
 <hex>#d7ad62</hex>
+</color>
+<color>
+<name>Butterscotch Cake</name>
+<hex>#f1c882</hex>
 </color>
 <color>
 <name>Butterscotch Glaze</name>
@@ -17510,7 +17526,7 @@
 </color>
 <color>
 <name>Capers</name>
-<hex>#695e4b</hex>
+<hex>#897a3e</hex>
 </color>
 <color>
 <name>Capetown Cream</name>
@@ -18453,6 +18469,10 @@
 <hex>#a27040</hex>
 </color>
 <color>
+<name>Castelvetrano Olive</name>
+<hex>#677727</hex>
+</color>
+<color>
 <name>Caster Sugar</name>
 <hex>#ffffe8</hex>
 </color>
@@ -19267,6 +19287,10 @@
 <color>
 <name>Ceremonial Purple</name>
 <hex>#2a2756</hex>
+</color>
+<color>
+<name>Cerignola Olive</name>
+<hex>#997b00</hex>
 </color>
 <color>
 <name>Cerise</name>
@@ -29925,6 +29949,10 @@
 <hex>#fdd77a</hex>
 </color>
 <color>
+<name>Deviled Eggs</name>
+<hex>#fecd82</hex>
+</color>
+<color>
 <name>Devilish</name>
 <hex>#dd3322</hex>
 </color>
@@ -34119,6 +34147,10 @@
 <color>
 <name>Endless Slumber</name>
 <hex>#b1aab3</hex>
+</color>
+<color>
+<name>Endless Summer</name>
+<hex>#f7cf00</hex>
 </color>
 <color>
 <name>Endo</name>
@@ -39553,6 +39585,10 @@
 <hex>#f6b98a</hex>
 </color>
 <color>
+<name>Fresh Pesto</name>
+<hex>#a0bd14</hex>
+</color>
+<color>
 <name>Fresh Piglet</name>
 <hex>#fddde6</hex>
 </color>
@@ -43553,6 +43589,10 @@
 <hex>#f0f0e0</hex>
 </color>
 <color>
+<name>Gordal Olive</name>
+<hex>#bf852b</hex>
+</color>
+<color>
 <name>Gordons Green</name>
 <hex>#29332b</hex>
 </color>
@@ -44391,6 +44431,10 @@
 <color>
 <name>Grayve-Yard</name>
 <hex>#a1a19f</hex>
+</color>
+<color>
+<name>Greasy Green Beans</name>
+<hex>#a2b35a</hex>
 </color>
 <color>
 <name>Greasy Greens</name>
@@ -49661,6 +49705,10 @@
 <hex>#cc5511</hex>
 </color>
 <color>
+<name>Hot Brown</name>
+<hex>#984218</hex>
+</color>
+<color>
 <name>Hot Butter</name>
 <hex>#e69d00</hex>
 </color>
@@ -49727,6 +49775,10 @@
 <color>
 <name>Hot Flamingo</name>
 <hex>#b35966</hex>
+</color>
+<color>
+<name>Hot Fudge</name>
+<hex>#5e2912</hex>
 </color>
 <color>
 <name>Hot Ginger</name>
@@ -51491,6 +51543,10 @@
 <color>
 <name>Infinite Deep Sea</name>
 <hex>#435a6f</hex>
+</color>
+<color>
+<name>Infinite Night</name>
+<hex>#071037</hex>
 </color>
 <color>
 <name>Infinitesimal Blue</name>
@@ -56077,6 +56133,10 @@
 <hex>#ede5e8</hex>
 </color>
 <color>
+<name>Lavender Perceptions</name>
+<hex>#cb82e3</hex>
+</color>
+<color>
 <name>Lavender Phlox</name>
 <hex>#a6badf</hex>
 </color>
@@ -59851,10 +59911,6 @@
 <color>
 <name>Loofah</name>
 <hex>#e3d3b5</hex>
-</color>
-<color>
-<name>Look At Me!</name>
-<hex>#a67e4b</hex>
 </color>
 <color>
 <name>Look at the Bright Side</name>
@@ -66321,6 +66377,10 @@
 <hex>#553b39</hex>
 </color>
 <color>
+<name>Monkey King</name>
+<hex>#bf6414</hex>
+</color>
+<color>
 <name>Monkey Madness</name>
 <hex>#63584c</hex>
 </color>
@@ -71895,6 +71955,10 @@
 <color>
 <name>Olive Martini</name>
 <hex>#ced2ab</hex>
+</color>
+<color>
+<name>Olive Niçoise</name>
+<hex>#88432e</hex>
 </color>
 <color>
 <name>Olive Night</name>
@@ -77501,6 +77565,10 @@
 <hex>#314459</hex>
 </color>
 <color>
+<name>Pickled Capers</name>
+<hex>#695e4b</hex>
+</color>
+<color>
 <name>Pickled Cucumber</name>
 <hex>#94a135</hex>
 </color>
@@ -82179,6 +82247,10 @@
 <color>
 <name>Puppy Love</name>
 <hex>#e2babf</hex>
+</color>
+<color>
+<name>Purception</name>
+<hex>#c687d6</hex>
 </color>
 <color>
 <name>Pure Apple</name>
@@ -88549,6 +88621,10 @@
 <hex>#cadece</hex>
 </color>
 <color>
+<name>Ruins of Metal</name>
+<hex>#9b8b84</hex>
+</color>
+<color>
 <name>Rule Breaker</name>
 <hex>#774e55</hex>
 </color>
@@ -89723,6 +89799,14 @@
 <color>
 <name>Saltbox Blue</name>
 <hex>#65758a</hex>
+</color>
+<color>
+<name>Salted</name>
+<hex>#ebeadc</hex>
+</color>
+<color>
+<name>Salted Capers</name>
+<hex>#a69151</hex>
 </color>
 <color>
 <name>Salted Caramel</name>
@@ -105743,6 +105827,10 @@
 <color>
 <name>Tostada</name>
 <hex>#e3c19c</hex>
+</color>
+<color>
+<name>Tosty Crust</name>
+<hex>#a67e4b</hex>
 </color>
 <color>
 <name>Total Eclipse</name>
