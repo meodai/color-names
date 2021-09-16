@@ -15897,6 +15897,10 @@
 <hex>#aa6600</hex>
 </color>
 <color>
+<name>Butter Honey</name>
+<hex>#f5e5ab</hex>
+</color>
+<color>
 <name>Butter Icing</name>
 <hex>#f5e5da</hex>
 </color>
@@ -23413,6 +23417,10 @@
 <hex>#262335</hex>
 </color>
 <color>
+<name>Cold Trade Winds</name>
+<hex>#7e8692</hex>
+</color>
+<color>
 <name>Cold Turbulence</name>
 <hex>#cfe1ef</hex>
 </color>
@@ -25845,6 +25853,10 @@
 <hex>#fde1c5</hex>
 </color>
 <color>
+<name>Creamy Berry</name>
+<hex>#debccd</hex>
+</color>
+<color>
 <name>Creamy Cameo</name>
 <hex>#f9eedc</hex>
 </color>
@@ -25879,6 +25891,10 @@
 <color>
 <name>Creamy Freesia</name>
 <hex>#ebd0db</hex>
+</color>
+<color>
+<name>Creamy Garlic</name>
+<hex>#ecefe3</hex>
 </color>
 <color>
 <name>Creamy Gelato</name>
@@ -35639,6 +35655,10 @@
 <color>
 <name>Fading Sunset</name>
 <hex>#b3b3c2</hex>
+</color>
+<color>
+<name>Fading Torch</name>
+<hex>#f69a54</hex>
 </color>
 <color>
 <name>Fahrenheit</name>
@@ -47649,6 +47669,10 @@
 <hex>#a82e33</hex>
 </color>
 <color>
+<name>Heartwarming</name>
+<hex>#bf1818</hex>
+</color>
+<color>
 <name>Heartwood</name>
 <hex>#6f4232</hex>
 </color>
@@ -49231,6 +49255,10 @@
 <color>
 <name>Honey</name>
 <hex>#ba9238</hex>
+</color>
+<color>
+<name>Honey and Cream</name>
+<hex>#f1ddad</hex>
 </color>
 <color>
 <name>Honey and Thyme</name>
@@ -66505,6 +66533,10 @@
 <hex>#7a807a</hex>
 </color>
 <color>
+<name>Monument Valley</name>
+<hex>#ad5c34</hex>
+</color>
+<color>
 <name>Monza</name>
 <hex>#c7031e</hex>
 </color>
@@ -82867,6 +82899,10 @@
 <color>
 <name>Purple Tone Ink</name>
 <hex>#a22da4</hex>
+</color>
+<color>
+<name>Purple Toolbox</name>
+<hex>#746cc0</hex>
 </color>
 <color>
 <name>Purple Trinket</name>
@@ -99629,6 +99665,10 @@
 <hex>#c33a36</hex>
 </color>
 <color>
+<name>Stoplight</name>
+<hex>#dd1111</hex>
+</color>
+<color>
 <name>Storksbill</name>
 <hex>#e5e1dd</hex>
 </color>
@@ -105673,10 +105713,6 @@
 <hex>#7f7711</hex>
 </color>
 <color>
-<name>Toolbox</name>
-<hex>#746cc0</hex>
-</color>
-<color>
 <name>Tootie Fruity</name>
 <hex>#f9dbe2</hex>
 </color>
@@ -105721,6 +105757,10 @@
 <hex>#667700</hex>
 </color>
 <color>
+<name>Topiary Sculpture</name>
+<hex>#618a4d</hex>
+</color>
+<color>
 <name>Topiary Tint</name>
 <hex>#bbc9b2</hex>
 </color>
@@ -105735,10 +105775,6 @@
 <color>
 <name>Toque White</name>
 <hex>#e7e2da</hex>
-</color>
-<color>
-<name>Torch Light</name>
-<hex>#f69a54</hex>
 </color>
 <color>
 <name>Torch Red</name>
@@ -105845,7 +105881,7 @@
 <hex>#3f4041</hex>
 </color>
 <color>
-<name>Totally Cool</name>
+<name>Totally Broccoli</name>
 <hex>#909853</hex>
 </color>
 <color>
@@ -105921,11 +105957,7 @@
 <hex>#a1d4cf</hex>
 </color>
 <color>
-<name>Touch Of White Green</name>
-<hex>#ecefe3</hex>
-</color>
-<color>
-<name>Touchable</name>
+<name>Touchable Pink</name>
 <hex>#ecdfd8</hex>
 </color>
 <color>
@@ -106042,7 +106074,7 @@
 </color>
 <color>
 <name>Track and Field</name>
-<hex>#dd1111</hex>
+<hex>#d66352</hex>
 </color>
 <color>
 <name>Track Green</name>
@@ -106067,14 +106099,6 @@
 <color>
 <name>Trade Winds</name>
 <hex>#e6e3d6</hex>
-</color>
-<color>
-<name>Tradewind</name>
-<hex>#6dafa7</hex>
-</color>
-<color>
-<name>Tradewinds</name>
-<hex>#7e8692</hex>
 </color>
 <color>
 <name>Trading Post</name>
@@ -107347,6 +107371,10 @@
 <color>
 <name>Turquoise Cyan</name>
 <hex>#0e7c61</hex>
+</color>
+<color>
+<name>Turquoise Fantasies</name>
+<hex>#6dafa7</hex>
 </color>
 <color>
 <name>Turquoise Green</name>

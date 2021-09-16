@@ -1178,6 +1178,9 @@
   name:"Butter Bronze"
   hex:"#c88849"
 -
+  name:"Butter Honey"
+  hex:"#f5e5ab"
+-
   name:"Butter Up"
   hex:"#f4e0bb"
 -
@@ -2075,8 +2078,14 @@
   name:"Creamy Avocado"
   hex:"#d8f19c"
 -
+  name:"Creamy Berry"
+  hex:"#debccd"
+-
   name:"Creamy Cloud Dreams"
   hex:"#fff5e0"
+-
+  name:"Creamy Garlic"
+  hex:"#ecefe3"
 -
   name:"Creamy Ivory"
   hex:"#eeddaa"
@@ -2086,6 +2095,9 @@
 -
   name:"Creamy Peach"
   hex:"#f4a384"
+-
+  name:"Creamy Strawberry"
+  hex:"#fcd2df"
 -
   name:"Crème Brûlée"
   hex:"#ffe39b"
@@ -4373,6 +4385,9 @@
   name:"Heartless"
   hex:"#623b70"
 -
+  name:"Heartwarming"
+  hex:"#bf1818"
+-
   name:"Heat Signature"
   hex:"#e3000e"
 -
@@ -6488,6 +6503,9 @@
   name:"Mochito"
   hex:"#8efa00"
 -
+  name:"Modern Monument"
+  hex:"#d6d6d1"
+-
   name:"Moelleux Au Chocolat"
   hex:"#553311"
 -
@@ -6538,6 +6556,12 @@
 -
   name:"Montreux Blue"
   hex:"#5879a2"
+-
+  name:"Monument"
+  hex:"#84898c"
+-
+  name:"Monument Valley"
+  hex:"#ad5c34"
 -
   name:"Monza"
   hex:"#c7031e"
@@ -8111,6 +8135,9 @@
   name:"Polar Expedition"
   hex:"#c9e7e3"
 -
+  name:"Polar Wind"
+  hex:"#b4dfed"
+-
   name:"Polenta"
   hex:"#efc47f"
 -
@@ -9554,6 +9581,9 @@
   name:"Stop"
   hex:"#c33a36"
 -
+  name:"Stoplight"
+  hex:"#dd1111"
+-
   name:"Storm Is Coming"
   hex:"#3d3d63"
 -
@@ -9983,17 +10013,47 @@
   name:"Topiary Green"
   hex:"#667700"
 -
+  name:"Torchlight"
+  hex:"#ffc985"
+-
+  name:"Toreador"
+  hex:"#b61032"
+-
+  name:"Tortilla"
+  hex:"#efdba7"
+-
   name:"Tosty Crust"
   hex:"#a67e4b"
+-
+  name:"Total Eclipse"
+  hex:"#2c313d"
+-
+  name:"Totally Broccoli"
+  hex:"#909853"
 -
   name:"Touch of Glamor"
   hex:"#dd8844"
 -
+  name:"Toupe"
+  hex:"#c7ac7d"
+-
+  name:"Toxic Boyfriend"
+  hex:"#ccff11"
+-
   name:"Toxic Frog"
   hex:"#98fb98"
 -
+  name:"Toxic Latte"
+  hex:"#e1f8e7"
+-
   name:"Toxic Sludge"
   hex:"#00bb33"
+-
+  name:"Track and Field"
+  hex:"#d66352"
+-
+  name:"Tractor Beam"
+  hex:"#00bffe"
 -
   name:"Traffic Green"
   hex:"#55ff22"
@@ -10003,6 +10063,9 @@
 -
   name:"Traffic Yellow"
   hex:"#fedc39"
+-
+  name:"Trail Dust"
+  hex:"#d0c4ac"
 -
   name:"Tranquili Teal"
   hex:"#6c9da9"
@@ -10019,6 +10082,9 @@
   name:"Trapped Darkness"
   hex:"#0e1d32"
 -
+  name:"Treasure Chest"
+  hex:"#726854"
+-
   name:"Treasure Map"
   hex:"#d0bb9d"
 -
@@ -10027,9 +10093,6 @@
 -
   name:"Treasured Teal"
   hex:"#52c1b3"
--
-  name:"Treasured Wilderness"
-  hex:"#006633"
 -
   name:"Treasures"
   hex:"#ba8b36"
@@ -10099,6 +10162,9 @@
 -
   name:"Turquoise"
   hex:"#06c2ac"
+-
+  name:"Turquoise Fantasies"
+  hex:"#6dafa7"
 -
   name:"Turquoise Pearl"
   hex:"#89f5e3"
@@ -10754,6 +10820,9 @@
   name:"Wild Wheat"
   hex:"#e0e1d1"
 -
+  name:"Wilderness"
+  hex:"#8f886c"
+-
   name:"Wildfire"
   hex:"#ff8833"
 -
@@ -10940,6 +11009,9 @@
   name:"Yoshi"
   hex:"#55aa00"
 -
+  name:"Young Apricot"
+  hex:"#fcd8b5"
+-
   name:"Young Crab"
   hex:"#f6a09d"
 -
@@ -10948,6 +11020,9 @@
 -
   name:"Young Salmon"
   hex:"#ffb6b4"
+-
+  name:"Your Majesty"
+  hex:"#61496e"
 -
   name:"Your Shadow"
   hex:"#787e93"

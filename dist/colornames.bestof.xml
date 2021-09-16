@@ -1573,6 +1573,10 @@
 <hex>#c88849</hex>
 </color>
 <color>
+<name>Butter Honey</name>
+<hex>#f5e5ab</hex>
+</color>
+<color>
 <name>Butter Up</name>
 <hex>#f4e0bb</hex>
 </color>
@@ -2769,8 +2773,16 @@
 <hex>#d8f19c</hex>
 </color>
 <color>
+<name>Creamy Berry</name>
+<hex>#debccd</hex>
+</color>
+<color>
 <name>Creamy Cloud Dreams</name>
 <hex>#fff5e0</hex>
+</color>
+<color>
+<name>Creamy Garlic</name>
+<hex>#ecefe3</hex>
 </color>
 <color>
 <name>Creamy Ivory</name>
@@ -2783,6 +2795,10 @@
 <color>
 <name>Creamy Peach</name>
 <hex>#f4a384</hex>
+</color>
+<color>
+<name>Creamy Strawberry</name>
+<hex>#fcd2df</hex>
 </color>
 <color>
 <name>Crème Brûlée</name>
@@ -5833,6 +5849,10 @@
 <hex>#623b70</hex>
 </color>
 <color>
+<name>Heartwarming</name>
+<hex>#bf1818</hex>
+</color>
+<color>
 <name>Heat Signature</name>
 <hex>#e3000e</hex>
 </color>
@@ -8653,6 +8673,10 @@
 <hex>#8efa00</hex>
 </color>
 <color>
+<name>Modern Monument</name>
+<hex>#d6d6d1</hex>
+</color>
+<color>
 <name>Moelleux Au Chocolat</name>
 <hex>#553311</hex>
 </color>
@@ -8719,6 +8743,14 @@
 <color>
 <name>Montreux Blue</name>
 <hex>#5879a2</hex>
+</color>
+<color>
+<name>Monument</name>
+<hex>#84898c</hex>
+</color>
+<color>
+<name>Monument Valley</name>
+<hex>#ad5c34</hex>
 </color>
 <color>
 <name>Monza</name>
@@ -10817,6 +10849,10 @@
 <hex>#c9e7e3</hex>
 </color>
 <color>
+<name>Polar Wind</name>
+<hex>#b4dfed</hex>
+</color>
+<color>
 <name>Polenta</name>
 <hex>#efc47f</hex>
 </color>
@@ -12741,6 +12777,10 @@
 <hex>#c33a36</hex>
 </color>
 <color>
+<name>Stoplight</name>
+<hex>#dd1111</hex>
+</color>
+<color>
 <name>Storm Is Coming</name>
 <hex>#3d3d63</hex>
 </color>
@@ -13313,20 +13353,60 @@
 <hex>#667700</hex>
 </color>
 <color>
+<name>Torchlight</name>
+<hex>#ffc985</hex>
+</color>
+<color>
+<name>Toreador</name>
+<hex>#b61032</hex>
+</color>
+<color>
+<name>Tortilla</name>
+<hex>#efdba7</hex>
+</color>
+<color>
 <name>Tosty Crust</name>
 <hex>#a67e4b</hex>
+</color>
+<color>
+<name>Total Eclipse</name>
+<hex>#2c313d</hex>
+</color>
+<color>
+<name>Totally Broccoli</name>
+<hex>#909853</hex>
 </color>
 <color>
 <name>Touch of Glamor</name>
 <hex>#dd8844</hex>
 </color>
 <color>
+<name>Toupe</name>
+<hex>#c7ac7d</hex>
+</color>
+<color>
+<name>Toxic Boyfriend</name>
+<hex>#ccff11</hex>
+</color>
+<color>
 <name>Toxic Frog</name>
 <hex>#98fb98</hex>
 </color>
 <color>
+<name>Toxic Latte</name>
+<hex>#e1f8e7</hex>
+</color>
+<color>
 <name>Toxic Sludge</name>
 <hex>#00bb33</hex>
+</color>
+<color>
+<name>Track and Field</name>
+<hex>#d66352</hex>
+</color>
+<color>
+<name>Tractor Beam</name>
+<hex>#00bffe</hex>
 </color>
 <color>
 <name>Traffic Green</name>
@@ -13339,6 +13419,10 @@
 <color>
 <name>Traffic Yellow</name>
 <hex>#fedc39</hex>
+</color>
+<color>
+<name>Trail Dust</name>
+<hex>#d0c4ac</hex>
 </color>
 <color>
 <name>Tranquili Teal</name>
@@ -13361,6 +13445,10 @@
 <hex>#0e1d32</hex>
 </color>
 <color>
+<name>Treasure Chest</name>
+<hex>#726854</hex>
+</color>
+<color>
 <name>Treasure Map</name>
 <hex>#d0bb9d</hex>
 </color>
@@ -13371,10 +13459,6 @@
 <color>
 <name>Treasured Teal</name>
 <hex>#52c1b3</hex>
-</color>
-<color>
-<name>Treasured Wilderness</name>
-<hex>#006633</hex>
 </color>
 <color>
 <name>Treasures</name>
@@ -13467,6 +13551,10 @@
 <color>
 <name>Turquoise</name>
 <hex>#06c2ac</hex>
+</color>
+<color>
+<name>Turquoise Fantasies</name>
+<hex>#6dafa7</hex>
 </color>
 <color>
 <name>Turquoise Pearl</name>
@@ -14341,6 +14429,10 @@
 <hex>#e0e1d1</hex>
 </color>
 <color>
+<name>Wilderness</name>
+<hex>#8f886c</hex>
+</color>
+<color>
 <name>Wildfire</name>
 <hex>#ff8833</hex>
 </color>
@@ -14589,6 +14681,10 @@
 <hex>#55aa00</hex>
 </color>
 <color>
+<name>Young Apricot</name>
+<hex>#fcd8b5</hex>
+</color>
+<color>
 <name>Young Crab</name>
 <hex>#f6a09d</hex>
 </color>
@@ -14599,6 +14695,10 @@
 <color>
 <name>Young Salmon</name>
 <hex>#ffb6b4</hex>
+</color>
+<color>
+<name>Your Majesty</name>
+<hex>#61496e</hex>
 </color>
 <color>
 <name>Your Shadow</name>

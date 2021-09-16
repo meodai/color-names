@@ -11921,6 +11921,9 @@
   name:"Butter Fudge"
   hex:"#aa6600"
 -
+  name:"Butter Honey"
+  hex:"#f5e5ab"
+-
   name:"Butter Icing"
   hex:"#f5e5da"
 -
@@ -17558,6 +17561,9 @@
   name:"Cold Steel"
   hex:"#262335"
 -
+  name:"Cold Trade Winds"
+  hex:"#7e8692"
+-
   name:"Cold Turbulence"
   hex:"#cfe1ef"
 -
@@ -19382,6 +19388,9 @@
   name:"Creamy Beige"
   hex:"#fde1c5"
 -
+  name:"Creamy Berry"
+  hex:"#debccd"
+-
   name:"Creamy Cameo"
   hex:"#f9eedc"
 -
@@ -19408,6 +19417,9 @@
 -
   name:"Creamy Freesia"
   hex:"#ebd0db"
+-
+  name:"Creamy Garlic"
+  hex:"#ecefe3"
 -
   name:"Creamy Gelato"
   hex:"#f0e2c5"
@@ -26728,6 +26740,9 @@
 -
   name:"Fading Sunset"
   hex:"#b3b3c2"
+-
+  name:"Fading Torch"
+  hex:"#f69a54"
 -
   name:"Fahrenheit"
   hex:"#fbd2bb"
@@ -35735,6 +35750,9 @@
   name:"Heartthrob"
   hex:"#a82e33"
 -
+  name:"Heartwarming"
+  hex:"#bf1818"
+-
   name:"Heartwood"
   hex:"#6f4232"
 -
@@ -36922,6 +36940,9 @@
 -
   name:"Honey"
   hex:"#ba9238"
+-
+  name:"Honey and Cream"
+  hex:"#f1ddad"
 -
   name:"Honey and Thyme"
   hex:"#aaaa00"
@@ -49877,6 +49898,9 @@
   name:"Monument Grey"
   hex:"#7a807a"
 -
+  name:"Monument Valley"
+  hex:"#ad5c34"
+-
   name:"Monza"
   hex:"#c7031e"
 -
@@ -62149,6 +62173,9 @@
 -
   name:"Purple Tone Ink"
   hex:"#a22da4"
+-
+  name:"Purple Toolbox"
+  hex:"#746cc0"
 -
   name:"Purple Trinket"
   hex:"#665261"
@@ -74720,6 +74747,9 @@
   name:"Stop"
   hex:"#c33a36"
 -
+  name:"Stoplight"
+  hex:"#dd1111"
+-
   name:"Storksbill"
   hex:"#e5e1dd"
 -
@@ -79253,9 +79283,6 @@
   name:"Tool Green"
   hex:"#7f7711"
 -
-  name:"Toolbox"
-  hex:"#746cc0"
--
   name:"Tootie Fruity"
   hex:"#f9dbe2"
 -
@@ -79289,6 +79316,9 @@
   name:"Topiary Green"
   hex:"#667700"
 -
+  name:"Topiary Sculpture"
+  hex:"#618a4d"
+-
   name:"Topiary Tint"
   hex:"#bbc9b2"
 -
@@ -79300,9 +79330,6 @@
 -
   name:"Toque White"
   hex:"#e7e2da"
--
-  name:"Torch Light"
-  hex:"#f69a54"
 -
   name:"Torch Red"
   hex:"#fd0d35"
@@ -79382,7 +79409,7 @@
   name:"Totally Black"
   hex:"#3f4041"
 -
-  name:"Totally Cool"
+  name:"Totally Broccoli"
   hex:"#909853"
 -
   name:"Totally Tan"
@@ -79439,10 +79466,7 @@
   name:"Touch of Turquoise"
   hex:"#a1d4cf"
 -
-  name:"Touch Of White Green"
-  hex:"#ecefe3"
--
-  name:"Touchable"
+  name:"Touchable Pink"
   hex:"#ecdfd8"
 -
   name:"Touched by the Sea"
@@ -79530,7 +79554,7 @@
   hex:"#dbb9a0"
 -
   name:"Track and Field"
-  hex:"#dd1111"
+  hex:"#d66352"
 -
   name:"Track Green"
   hex:"#849e88"
@@ -79549,12 +79573,6 @@
 -
   name:"Trade Winds"
   hex:"#e6e3d6"
--
-  name:"Tradewind"
-  hex:"#6dafa7"
--
-  name:"Tradewinds"
-  hex:"#7e8692"
 -
   name:"Trading Post"
   hex:"#bb8d3b"
@@ -80509,6 +80527,9 @@
 -
   name:"Turquoise Cyan"
   hex:"#0e7c61"
+-
+  name:"Turquoise Fantasies"
+  hex:"#6dafa7"
 -
   name:"Turquoise Green"
   hex:"#04f489"
