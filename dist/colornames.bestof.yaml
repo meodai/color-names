@@ -1082,6 +1082,9 @@
   name:"Brume"
   hex:"#c6c6c2"
 -
+  name:"Brunette"
+  hex:"#664238"
+-
   name:"Bruschetta"
   hex:"#a75949"
 -
@@ -1742,6 +1745,9 @@
   name:"Chrome White"
   hex:"#cac7b7"
 -
+  name:"Chubby Kiss"
+  hex:"#b43548"
+-
   name:"Chutney"
   hex:"#98594b"
 -
@@ -2291,6 +2297,9 @@
   name:"Dark Orange"
   hex:"#c65102"
 -
+  name:"Dark Orchestra"
+  hex:"#251b19"
+-
   name:"Dark Pink"
   hex:"#cb416b"
 -
@@ -2344,6 +2353,9 @@
 -
   name:"Day On Mercury"
   hex:"#d5d2d1"
+-
+  name:"Dazzling Red"
+  hex:"#d82c0d"
 -
   name:"Dead Forest"
   hex:"#434b4f"
@@ -2632,6 +2644,9 @@
 -
   name:"Drama Queen"
   hex:"#a37298"
+-
+  name:"Dramatic Blue"
+  hex:"#240093"
 -
   name:"Dream of Spring"
   hex:"#f7cf26"
@@ -3593,6 +3608,9 @@
   name:"Fuchsia Nebula"
   hex:"#7722aa"
 -
+  name:"Fuchsia Pheromone"
+  hex:"#9f4cb7"
+-
   name:"Fuego"
   hex:"#ee5533"
 -
@@ -3832,6 +3850,9 @@
 -
   name:"Glimpse of Void"
   hex:"#335588"
+-
+  name:"Glistening Dawn"
+  hex:"#f6ba25"
 -
   name:"Glitter is not Gold"
   hex:"#fedc57"
@@ -6797,6 +6818,9 @@
   name:"Mystic Magenta"
   hex:"#e02e82"
 -
+  name:"Mystic White"
+  hex:"#ebebe9"
+-
   name:"Mystical Shadow"
   hex:"#352b30"
 -
@@ -7000,6 +7024,9 @@
 -
   name:"Nimbus Cloud"
   hex:"#d5d5d8"
+-
+  name:"Ninja Princess"
+  hex:"#75528b"
 -
   name:"Ninja Turtle"
   hex:"#94b1a9"
@@ -8669,6 +8696,9 @@
   name:"Roastery"
   hex:"#692302"
 -
+  name:"Robotic Gods"
+  hex:"#94a2b1"
+-
   name:"Rock Lobster"
   hex:"#f00b52"
 -
@@ -9338,6 +9368,9 @@
   name:"Snarky Mint"
   hex:"#9ae37d"
 -
+  name:"Sneaky Devil"
+  hex:"#840014"
+-
   name:"Sneaky Sesame"
   hex:"#896a46"
 -
@@ -9709,6 +9742,12 @@
 -
   name:"Summit"
   hex:"#8bb6b8"
+-
+  name:"Sun Flooded Woods"
+  hex:"#d0d418"
+-
+  name:"Sunbathed"
+  hex:"#f5dd98"
 -
   name:"Sunbeam"
   hex:"#f5edb2"
@@ -10612,6 +10651,9 @@
 -
   name:"Warrior"
   hex:"#7d685b"
+-
+  name:"Warrior Queen"
+  hex:"#a32d48"
 -
   name:"Wasabi"
   hex:"#afd77f"
