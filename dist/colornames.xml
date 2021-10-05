@@ -13933,6 +13933,10 @@
 <hex>#e7e1de</hex>
 </color>
 <color>
+<name>Bride</name>
+<hex>#efe7eb</hex>
+</color>
+<color>
 <name>Bride's Blush</name>
 <hex>#f9e2e1</hex>
 </color>
@@ -17763,6 +17767,10 @@
 <color>
 <name>Caramel Milk</name>
 <hex>#ddc283</hex>
+</color>
+<color>
+<name>Caramel Mousse</name>
+<hex>#e5caa4</hex>
 </color>
 <color>
 <name>Caramel Powder</name>
@@ -50341,6 +50349,10 @@
 <hex>#eddbda</hex>
 </color>
 <color>
+<name>Hyper Pink</name>
+<hex>#ec006c</hex>
+</color>
+<color>
 <name>Hyperpop Green</name>
 <hex>#17f9a6</hex>
 </color>
@@ -51897,10 +51909,6 @@
 <hex>#e19c35</hex>
 </color>
 <color>
-<name>Inter-Galactic Blue</name>
-<hex>#afe0ef</hex>
-</color>
-<color>
 <name>Interactive Cream</name>
 <hex>#e4caad</hex>
 </color>
@@ -51933,8 +51941,16 @@
 <hex>#4d516c</hex>
 </color>
 <color>
+<name>Intergalactic Blue</name>
+<hex>#afe0ef</hex>
+</color>
+<color>
 <name>Intergalactic Cowboy</name>
 <hex>#222266</hex>
+</color>
+<color>
+<name>Intergalactic Highway</name>
+<hex>#273287</hex>
 </color>
 <color>
 <name>Intergalactic Ray</name>
@@ -61551,6 +61567,10 @@
 <color>
 <name>Majestic Blue</name>
 <hex>#3f425c</hex>
+</color>
+<color>
+<name>Majestic Dune</name>
+<hex>#f3bc80</hex>
 </color>
 <color>
 <name>Majestic Eggplant</name>
@@ -111671,6 +111691,10 @@
 <color>
 <name>Watermelon Milk</name>
 <hex>#dfcfca</hex>
+</color>
+<color>
+<name>Watermelon Mousse</name>
+<hex>#fbe0e8</hex>
 </color>
 <color>
 <name>Watermelon Pink</name>

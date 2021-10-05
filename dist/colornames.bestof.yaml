@@ -1013,6 +1013,9 @@
   name:"Bricky Brick"
   hex:"#b33a22"
 -
+  name:"Bride"
+  hex:"#efe7eb"
+-
   name:"Bride's Blush"
   hex:"#f9e2e1"
 -
@@ -1396,6 +1399,9 @@
 -
   name:"Caramel Macchiato"
   hex:"#c58d4b"
+-
+  name:"Caramel Mousse"
+  hex:"#e5caa4"
 -
   name:"Caramelize"
   hex:"#d58a37"
@@ -4808,8 +4814,14 @@
   name:"Hydro"
   hex:"#426972"
 -
+  name:"Hyper Blue"
+  hex:"#015f97"
+-
   name:"Hyper Light Drifter"
   hex:"#eddbda"
+-
+  name:"Hyper Pink"
+  hex:"#ec006c"
 -
   name:"Hypnotic Green"
   hex:"#73e608"
@@ -5002,6 +5014,9 @@
 -
   name:"Intergalactic Cowboy"
   hex:"#222266"
+-
+  name:"Intergalactic Highway"
+  hex:"#273287"
 -
   name:"Interstellar Blue"
   hex:"#001155"
@@ -6037,6 +6052,9 @@
 -
   name:"Maizena"
   hex:"#fbec5e"
+-
+  name:"Majestic Dune"
+  hex:"#f3bc80"
 -
   name:"Majestic Eggplant"
   hex:"#443388"
@@ -8576,6 +8594,9 @@
   name:"Raspberry"
   hex:"#b00149"
 -
+  name:"Raspberry Mousse"
+  hex:"#e06f8b"
+-
   name:"Raspberry Romantic"
   hex:"#972b51"
 -
@@ -10687,6 +10708,9 @@
 -
   name:"Watermelon Milk"
   hex:"#dfcfca"
+-
+  name:"Watermelon Mousse"
+  hex:"#fbe0e8"
 -
   name:"Watermelon Sugar"
   hex:"#e42b73"

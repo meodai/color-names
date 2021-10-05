@@ -10448,6 +10448,9 @@
   name:"Bridal Veil"
   hex:"#e7e1de"
 -
+  name:"Bride"
+  hex:"#efe7eb"
+-
   name:"Bride's Blush"
   hex:"#f9e2e1"
 -
@@ -13321,6 +13324,9 @@
 -
   name:"Caramel Milk"
   hex:"#ddc283"
+-
+  name:"Caramel Mousse"
+  hex:"#e5caa4"
 -
   name:"Caramel Powder"
   hex:"#eebb99"
@@ -37754,6 +37760,9 @@
   name:"Hyper Light Drifter"
   hex:"#eddbda"
 -
+  name:"Hyper Pink"
+  hex:"#ec006c"
+-
   name:"Hyperpop Green"
   hex:"#17f9a6"
 -
@@ -38921,9 +38930,6 @@
   name:"Intense Yellow"
   hex:"#e19c35"
 -
-  name:"Inter-Galactic Blue"
-  hex:"#afe0ef"
--
   name:"Interactive Cream"
   hex:"#e4caad"
 -
@@ -38948,8 +38954,14 @@
   name:"Intergalactic"
   hex:"#4d516c"
 -
+  name:"Intergalactic Blue"
+  hex:"#afe0ef"
+-
   name:"Intergalactic Cowboy"
   hex:"#222266"
+-
+  name:"Intergalactic Highway"
+  hex:"#273287"
 -
   name:"Intergalactic Ray"
   hex:"#573935"
@@ -46162,6 +46174,9 @@
 -
   name:"Majestic Blue"
   hex:"#3f425c"
+-
+  name:"Majestic Dune"
+  hex:"#f3bc80"
 -
   name:"Majestic Eggplant"
   hex:"#443388"
@@ -83752,6 +83767,9 @@
 -
   name:"Watermelon Milk"
   hex:"#dfcfca"
+-
+  name:"Watermelon Mousse"
+  hex:"#fbe0e8"
 -
   name:"Watermelon Pink"
   hex:"#c77690"

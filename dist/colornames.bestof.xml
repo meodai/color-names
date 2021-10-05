@@ -1353,6 +1353,10 @@
 <hex>#b33a22</hex>
 </color>
 <color>
+<name>Bride</name>
+<hex>#efe7eb</hex>
+</color>
+<color>
 <name>Bride's Blush</name>
 <hex>#f9e2e1</hex>
 </color>
@@ -1863,6 +1867,10 @@
 <color>
 <name>Caramel Macchiato</name>
 <hex>#c58d4b</hex>
+</color>
+<color>
+<name>Caramel Mousse</name>
+<hex>#e5caa4</hex>
 </color>
 <color>
 <name>Caramelize</name>
@@ -6413,8 +6421,16 @@
 <hex>#426972</hex>
 </color>
 <color>
+<name>Hyper Blue</name>
+<hex>#015f97</hex>
+</color>
+<color>
 <name>Hyper Light Drifter</name>
 <hex>#eddbda</hex>
+</color>
+<color>
+<name>Hyper Pink</name>
+<hex>#ec006c</hex>
 </color>
 <color>
 <name>Hypnotic Green</name>
@@ -6671,6 +6687,10 @@
 <color>
 <name>Intergalactic Cowboy</name>
 <hex>#222266</hex>
+</color>
+<color>
+<name>Intergalactic Highway</name>
+<hex>#273287</hex>
 </color>
 <color>
 <name>Interstellar Blue</name>
@@ -8051,6 +8071,10 @@
 <color>
 <name>Maizena</name>
 <hex>#fbec5e</hex>
+</color>
+<color>
+<name>Majestic Dune</name>
+<hex>#f3bc80</hex>
 </color>
 <color>
 <name>Majestic Eggplant</name>
@@ -11437,6 +11461,10 @@
 <hex>#b00149</hex>
 </color>
 <color>
+<name>Raspberry Mousse</name>
+<hex>#e06f8b</hex>
+</color>
+<color>
 <name>Raspberry Romantic</name>
 <hex>#972b51</hex>
 </color>
@@ -14251,6 +14279,10 @@
 <color>
 <name>Watermelon Milk</name>
 <hex>#dfcfca</hex>
+</color>
+<color>
+<name>Watermelon Mousse</name>
+<hex>#fbe0e8</hex>
 </color>
 <color>
 <name>Watermelon Sugar</name>
