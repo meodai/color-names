@@ -1,5 +1,7 @@
 # Contributing
 
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+
 Please note we have a code of conduct, please follow it in all your
 interactions with the project.
 
