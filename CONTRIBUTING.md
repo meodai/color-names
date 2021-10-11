@@ -29,16 +29,17 @@ interactions with the project.
 - Capitalize colors: `Kind of Orange`
 - Prefer common names, especially when adding colors of flora and fauna
   (plants and animals ;) ) ex. `Venus Slipper Orchid` instead of `Paphiopedilum`.
-  
+
 ## Git
 
-- We use automated sematnic versioning using conventional changelog rules. You can run 
-  `npx cz` or `npm run commit` instead of `git commit -m`, or make sure to follow 
-  [conventional changelog naming rules]. 
-- Write your commit messages in imperative form: 
-  **feat(colors): Adds fantastic new colors names.** rather then feat(colors): Added new names.
-- Make sure to run `npm run build` before commiting. (No need to `npm ci` the dependecies are 
-  only needed if you need to run the API)
+- We use automated sematnic versioning using conventional changelog rules. You
+  can run `npx cz` or `npm run commit` instead of `git commit -m`, or make sure
+  to follow [conventional changelog naming rules].
+- Write your commit messages in imperative form:
+  **feat(colors): Adds fantastic new colors names.** rather then
+  feat(colors): Added new names.
+- Make sure to run `npm run build` before commiting. (No need to `npm ci` the
+  dependecies are only needed if you need to run the API)
 
 ### Attribution
 
