@@ -6,9 +6,9 @@
 [![GitHub release](https://img.shields.io/github/release/meodai/color-names.svg)](https://github.com/meodai/color-names/)
 [![npm version](https://img.shields.io/npm/v/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
 [![npm](https://img.shields.io/npm/dt/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
-[![name count](https://img.shields.io/badge/__29092__-names-orange.svg)](https://github.com/meodai/color-names/blob/master/src/colornames.csv)
+[![name count](https://img.shields.io/badge/__29111__-names-orange.svg)](https://github.com/meodai/color-names/blob/master/src/colornames.csv)
 
-A handpicked list of __29092__ unique color names from
+A handpicked list of __29111__ unique color names from
 [various sources](#sources-) and thousands of curated user submissions.
 
 > The names of color function like a thread attached to a frightfully slender
@@ -53,7 +53,7 @@ shifted the colors a bit when there were identical colors with different names.
 
 Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute!
 
-## Color Count: __29092__ 🎉
+## Color Count: __29111__ 🎉
 
 ~__0.17%__ of the RGB color space
 
@@ -335,6 +335,7 @@ See [package.json](package.json#L6) for more.
 , [DarthTorus]
 , [Carrion]
 , [BlueChaos]
+, [nachtfunke]
 
 ## Disclaimer 👮🏾‍
 
@@ -394,6 +395,7 @@ they will be removed as quickly as possible.
 [Dmitry Iv.]: https://github.com/dy
 [neverything]: https://neverything.me/
 [Myriam Aerne]: https://fynoeggeli.ch/
+[nachtfunke]: https://helloyes.dev
 
 <!-- Sources: Names -->
 
