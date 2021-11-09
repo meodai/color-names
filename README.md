@@ -295,6 +295,7 @@ See [package.json](package.json#L6) for more.
 #### Bronze
 
 - [Myriam Aerne] 20CHF
+- [Amin] 15USD
 
 ### Project Costs USD
 
@@ -396,6 +397,7 @@ they will be removed as quickly as possible.
 [neverything]: https://neverything.me/
 [Myriam Aerne]: https://fynoeggeli.ch/
 [nachtfunke]: https://helloyes.dev
+[amin]: http://www.slashui.com
 
 <!-- Sources: Names -->
 
