@@ -4773,12 +4773,20 @@
 <hex>#a1c4a8</hex>
 </color>
 <color>
+<name>Aromango</name>
+<hex>#f9970c</hex>
+</color>
+<color>
 <name>Aromatic</name>
 <hex>#706986</hex>
 </color>
 <color>
 <name>Aromatic Breeze</name>
 <hex>#ffcecb</hex>
+</color>
+<color>
+<name>Aromatic Herbs</name>
+<hex>#98c945</hex>
 </color>
 <color>
 <name>Arona</name>
@@ -5563,6 +5571,10 @@
 <color>
 <name>Atlantis Myth</name>
 <hex>#006477</hex>
+</color>
+<color>
+<name>Atlas Cedar</name>
+<hex>#5ca0a7</hex>
 </color>
 <color>
 <name>Atlas Cedar Green</name>
@@ -22717,6 +22729,10 @@
 <hex>#a6a096</hex>
 </color>
 <color>
+<name>Cloudy Valley</name>
+<hex>#b1c6d6</hex>
+</color>
+<color>
 <name>Cloudy Viridian</name>
 <hex>#4b5f56</hex>
 </color>
@@ -32271,6 +32287,10 @@
 <color>
 <name>Dusty Blue</name>
 <hex>#8c9dad</hex>
+</color>
+<color>
+<name>Dusty Boots</name>
+<hex>#f3c090</hex>
 </color>
 <color>
 <name>Dusty Canyon</name>
@@ -45311,6 +45331,10 @@
 <color>
 <name>Green Priestess</name>
 <hex>#11dd55</hex>
+</color>
+<color>
+<name>Green Relict</name>
+<hex>#7b8762</hex>
 </color>
 <color>
 <name>Green Revolution</name>
@@ -61963,6 +61987,10 @@
 <color>
 <name>Mandarin Red</name>
 <hex>#e74a33</hex>
+</color>
+<color>
+<name>Mandarin Rind</name>
+<hex>#f1903d</hex>
 </color>
 <color>
 <name>Mandarin Sorbet</name>
@@ -85577,6 +85605,10 @@
 <hex>#e46b71</hex>
 </color>
 <color>
+<name>Redsurrection</name>
+<hex>#d90b0b</hex>
+</color>
+<color>
 <name>Redtail</name>
 <hex>#af4544</hex>
 </color>
@@ -88123,6 +88155,10 @@
 <color>
 <name>Roselle</name>
 <hex>#f0dee4</hex>
+</color>
+<color>
+<name>Rosemarried</name>
+<hex>#819b4f</hex>
 </color>
 <color>
 <name>Rosemary</name>
@@ -111615,6 +111651,10 @@
 <color>
 <name>Water Music</name>
 <hex>#6fb0be</hex>
+</color>
+<color>
+<name>Water Nymph</name>
+<hex>#81d0df</hex>
 </color>
 <color>
 <name>Water Ouzel</name>

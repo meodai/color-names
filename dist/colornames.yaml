@@ -3578,11 +3578,17 @@
   name:"Aroma Garden"
   hex:"#a1c4a8"
 -
+  name:"Aromango"
+  hex:"#f9970c"
+-
   name:"Aromatic"
   hex:"#706986"
 -
   name:"Aromatic Breeze"
   hex:"#ffcecb"
+-
+  name:"Aromatic Herbs"
+  hex:"#98c945"
 -
   name:"Arona"
   hex:"#879ba3"
@@ -4171,6 +4177,9 @@
 -
   name:"Atlantis Myth"
   hex:"#006477"
+-
+  name:"Atlas Cedar"
+  hex:"#5ca0a7"
 -
   name:"Atlas Cedar Green"
   hex:"#667a6e"
@@ -17036,6 +17045,9 @@
   name:"Cloudy Today"
   hex:"#a6a096"
 -
+  name:"Cloudy Valley"
+  hex:"#b1c6d6"
+-
   name:"Cloudy Viridian"
   hex:"#4b5f56"
 -
@@ -24202,6 +24214,9 @@
 -
   name:"Dusty Blue"
   hex:"#8c9dad"
+-
+  name:"Dusty Boots"
+  hex:"#f3c090"
 -
   name:"Dusty Canyon"
   hex:"#9a7e68"
@@ -33982,6 +33997,9 @@
 -
   name:"Green Priestess"
   hex:"#11dd55"
+-
+  name:"Green Relict"
+  hex:"#7b8762"
 -
   name:"Green Revolution"
   hex:"#009944"
@@ -46471,6 +46489,9 @@
 -
   name:"Mandarin Red"
   hex:"#e74a33"
+-
+  name:"Mandarin Rind"
+  hex:"#f1903d"
 -
   name:"Mandarin Sorbet"
   hex:"#ffae42"
@@ -64181,6 +64202,9 @@
   name:"Redstone"
   hex:"#e46b71"
 -
+  name:"Redsurrection"
+  hex:"#d90b0b"
+-
   name:"Redtail"
   hex:"#af4544"
 -
@@ -66091,6 +66115,9 @@
 -
   name:"Roselle"
   hex:"#f0dee4"
+-
+  name:"Rosemarried"
+  hex:"#819b4f"
 -
   name:"Rosemary"
   hex:"#405e5c"
@@ -83710,6 +83737,9 @@
 -
   name:"Water Music"
   hex:"#6fb0be"
+-
+  name:"Water Nymph"
+  hex:"#81d0df"
 -
   name:"Water Ouzel"
   hex:"#4f5156"

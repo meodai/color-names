@@ -1192,8 +1192,10 @@ Arnica Yellow,#e59b00,
 Aroma,#d3c1c5,
 Aroma Blue,#96d2d6,
 Aroma Garden,#a1c4a8,
+Aromango,#f9970c,
 Aromatic,#706986,
 Aromatic Breeze,#ffcecb,
+Aromatic Herbs,#98c945,x
 Arona,#879ba3,
 Arousing Alligator,#776600,
 Arraign,#5c546e,
@@ -1390,6 +1392,7 @@ Atlantic Wave,#3d797c,
 Atlantic Waves,#264243,
 Atlantis,#336172,x
 Atlantis Myth,#006477,
+Atlas Cedar,#5ca0a7,x
 Atlas Cedar Green,#667a6e,
 Atlas Red,#82193a,
 Atlas White,#ede5cf,
@@ -5678,6 +5681,7 @@ Cloudy Plum,#9d7aac,
 Cloudy Sea,#6699aa,
 Cloudy Sky,#c2d5da,
 Cloudy Today,#a6a096,
+Cloudy Valley,#b1c6d6,x
 Cloudy Viridian,#4b5f56,
 Clove,#876155,
 Clove Brown,#766051,
@@ -8067,6 +8071,7 @@ Dustwallow Marsh,#685243,
 Dusty Aqua,#c0dccd,
 Dusty Attic,#bfb6a3,
 Dusty Blue,#8c9dad,
+Dusty Boots,#f3c090,x
 Dusty Canyon,#9a7e68,
 Dusty Cedar,#dd9592,
 Dusty Chestnut,#847163,
@@ -11327,6 +11332,7 @@ Green Pigment,#00a550,
 Green Plaza,#98a76e,
 Green Power,#e2e1c6,
 Green Priestess,#11dd55,x
+Green Relict,#7b8762,x
 Green Revolution,#009944,x
 Green Room,#80aea4,
 Green Savage,#888866,
@@ -11974,8 +11980,8 @@ Heavenly White,#ebe8e6,
 Heavy Black Green,#3a514d,
 Heavy Blue Grey,#9fabaf,
 Heavy Brown,#73624a,x
-Heavy Charcoal,#565350,
-Heavy Cream,#e8ddc6,
+Heavy Charcoal,#565350,x
+Heavy Cream,#e8ddc6,x
 Heavy Gluten,#ddccaa,
 Heavy Goldbrown,#baab74,
 Heavy Green,#49583e,x
@@ -15490,6 +15496,7 @@ Mandarin Jelly,#ff8800,
 Mandarin Orange,#ec6a37,
 Mandarin Peel,#ff9f00,
 Mandarin Red,#e74a33,
+Mandarin Rind,#f1903d,x
 Mandarin Sorbet,#ffae42,
 Mandarin Sugar,#f6e7e1,
 Mandarin Tusk,#d8d4d3,
@@ -21393,6 +21400,7 @@ Redolency,#ea8a7a,x
 Redridge Brown,#9d4e34,
 Redrock Canyon,#a24d47,
 Redstone,#e46b71,x
+Redsurrection,#d90b0b,x
 Redtail,#af4544,
 Reduced Blue,#d6dfec,
 Reduced Green,#e7e9d8,
@@ -22030,6 +22038,7 @@ Rosedust,#cc8d84,
 Roseine Plum,#7b7fa9,
 Roseland,#926566,
 Roselle,#f0dee4,
+Rosemarried,#819b4f,x
 Rosemary,#405e5c,x
 Rosemary Green,#699b72,
 Rosemary Sprig,#626a52,
@@ -22322,7 +22331,7 @@ Sacro Bosco,#229911,x
 Saddle,#5d4e46,
 Saddle Brown,#8b4513,
 Saddle Soap,#9f906e,
-Saddle Up,#ab927a,
+Saddle Up,#ab927a,x
 Saddlebag,#8a534e,
 Safari,#baaa91,
 Safari Brown,#976c60,
@@ -27903,6 +27912,7 @@ Water Lily,#dde3d5,x
 Water Lily White,#e6d6c4,
 Water Mist,#c7d8e3,
 Water Music,#6fb0be,
+Water Nymph,#81d0df,x
 Water Ouzel,#4f5156,
 Water Park,#54af9c,x
 Water Persimmon,#b56c60,
