@@ -59,6 +59,9 @@
   name:"After Midnight"
   hex:"#38393f"
 -
+  name:"Aged Antics"
+  hex:"#886b2e"
+-
   name:"Agent Orange"
   hex:"#ee6633"
 -
@@ -349,6 +352,9 @@
 -
   name:"Avocado"
   hex:"#568203"
+-
+  name:"Avocado Stone"
+  hex:"#4e3e1f"
 -
   name:"Award Winning White"
   hex:"#fef0de"
@@ -1652,6 +1658,9 @@
   name:"Cherry Paddle Pop"
   hex:"#fe314b"
 -
+  name:"Cherry Picking"
+  hex:"#620b15"
+-
   name:"Cherry Sangria"
   hex:"#c92435"
 -
@@ -2021,6 +2030,9 @@
   name:"Corona"
   hex:"#ffb437"
 -
+  name:"Corrosive Green"
+  hex:"#54d905"
+-
   name:"Cortex"
   hex:"#a99592"
 -
@@ -2050,6 +2062,9 @@
 -
   name:"Cotton Field"
   hex:"#f2f0e8"
+-
+  name:"Countryside"
+  hex:"#a4a404"
 -
   name:"Court-Bouillon"
   hex:"#cecb97"
@@ -2338,6 +2353,9 @@
 -
   name:"Dark Red"
   hex:"#840000"
+-
+  name:"Dark Rift"
+  hex:"#060b14"
 -
   name:"Dark Rum"
   hex:"#45362b"
@@ -3185,6 +3203,9 @@
   name:"Fennel Flower"
   hex:"#77aaff"
 -
+  name:"Fennelly"
+  hex:"#9a9e80"
+-
   name:"Fern"
   hex:"#548d44"
 -
@@ -3425,6 +3446,9 @@
   name:"Fly a Kite"
   hex:"#c8daf5"
 -
+  name:"Fly Away"
+  hex:"#85b3f3"
+-
   name:"Fly by Night"
   hex:"#1c1e4d"
 -
@@ -3556,6 +3580,9 @@
 -
   name:"Fresh Blue of Bel Air"
   hex:"#069af3"
+-
+  name:"Fresh Breeze"
+  hex:"#beeddc"
 -
   name:"Fresh Cut Grass"
   hex:"#91cb7d"
@@ -3745,6 +3772,9 @@
 -
   name:"Gargoyle"
   hex:"#abb39e"
+-
+  name:"Garlic Butter"
+  hex:"#eddf5e"
 -
   name:"Garlic Clove"
   hex:"#e2d7c1"
@@ -5360,6 +5390,9 @@
   name:"Kingly Cloud"
   hex:"#dedede"
 -
+  name:"Kingpin Gold"
+  hex:"#de9930"
+-
   name:"Kings Yellow"
   hex:"#ead665"
 -
@@ -5747,6 +5780,9 @@
   name:"Lipstick"
   hex:"#c95b83"
 -
+  name:"Lipstick Illusion"
+  hex:"#d4696d"
+-
   name:"Liquid Gold"
   hex:"#fdc675"
 -
@@ -6110,6 +6146,9 @@
   name:"Major Brown"
   hex:"#5b5149"
 -
+  name:"Major Magenta"
+  hex:"#f246a7"
+-
   name:"Majorelle Gardens"
   hex:"#337766"
 -
@@ -6385,6 +6424,9 @@
 -
   name:"Mental Floss"
   hex:"#deb4c5"
+-
+  name:"Menthol Kiss"
+  hex:"#a0e2d4"
 -
   name:"Mercurial"
   hex:"#b6b0a9"
@@ -7154,6 +7196,9 @@
   name:"Norway"
   hex:"#a4b88f"
 -
+  name:"Not Yet Caramel"
+  hex:"#b1714c"
+-
   name:"Not Yo Cheese"
   hex:"#ffc12c"
 -
@@ -7583,6 +7628,9 @@
   name:"Parmesan"
   hex:"#ffffdd"
 -
+  name:"Parsley Sprig"
+  hex:"#3d7049"
+-
   name:"Partial Pink"
   hex:"#ffedf8"
 -
@@ -7603,6 +7651,9 @@
 -
   name:"Pasta"
   hex:"#f7dfaf"
+-
+  name:"Pasta Luego"
+  hex:"#fae17f"
 -
   name:"Pasta Rasta"
   hex:"#eec474"
@@ -7741,6 +7792,9 @@
 -
   name:"Peanut Butter"
   hex:"#be893f"
+-
+  name:"Peanut Butter Biscuit"
+  hex:"#f7b565"
 -
   name:"Peanut Butter Chicken"
   hex:"#ffb75f"
@@ -8498,6 +8552,9 @@
   name:"Purple Emperor"
   hex:"#6633bb"
 -
+  name:"Purple Excellency"
+  hex:"#943589"
+-
   name:"Purple Haze"
   hex:"#807396"
 -
@@ -8837,6 +8894,9 @@
   name:"Royal Milk Tea"
   hex:"#f7cfb4"
 -
+  name:"Royal Neptune"
+  hex:"#1c3b42"
+-
   name:"Royal Night"
   hex:"#2b3191"
 -
@@ -8875,6 +8935,12 @@
 -
   name:"Run Lola Run"
   hex:"#da2811"
+-
+  name:"Rural Green"
+  hex:"#8d844d"
+-
+  name:"Rural Red"
+  hex:"#bb1144"
 -
   name:"Rust"
   hex:"#a83c09"
@@ -9674,6 +9740,9 @@
   name:"Statuary"
   hex:"#9ea4a5"
 -
+  name:"Stay the Night"
+  hex:"#314662"
+-
   name:"Steam"
   hex:"#dddddd"
 -
@@ -9682,6 +9751,9 @@
 -
   name:"Steam Engine"
   hex:"#b2b2ad"
+-
+  name:"Steampunk Gold"
+  hex:"#c39c55"
 -
   name:"Steamy Dumpling"
   hex:"#eae9b4"
@@ -9859,6 +9931,9 @@
 -
   name:"Sunken Gold"
   hex:"#b29700"
+-
+  name:"Sunken Harbor"
+  hex:"#1c3d44"
 -
   name:"Sunkissed Beach"
   hex:"#deab9b"
@@ -10181,6 +10256,9 @@
   name:"Toxic Sludge"
   hex:"#00bb33"
 -
+  name:"Toxic Steam"
+  hex:"#c1fdc9"
+-
   name:"Track and Field"
   hex:"#d66352"
 -
@@ -10360,6 +10438,9 @@
 -
   name:"Unicorn Dust"
   hex:"#ff2f92"
+-
+  name:"Urban Snowfall"
+  hex:"#dbd8da"
 -
   name:"Va Va Voom"
   hex:"#e3b34c"
