@@ -653,6 +653,9 @@
   name:"Agave Plant"
   hex:"#879c67"
 -
+  name:"Aged Antics"
+  hex:"#886b2e"
+-
   name:"Aged Beech"
   hex:"#846262"
 -
@@ -4594,6 +4597,9 @@
 -
   name:"Avocado Peel"
   hex:"#39373b"
+-
+  name:"Avocado Stone"
+  hex:"#4e3e1f"
 -
   name:"Avocado Toast"
   hex:"#90b134"
@@ -15239,6 +15245,9 @@
   name:"Cherry Pearl"
   hex:"#f9e7f4"
 -
+  name:"Cherry Picking"
+  hex:"#620b15"
+-
   name:"Cherry Pie"
   hex:"#372d52"
 -
@@ -18017,6 +18026,9 @@
   name:"Construction Zone"
   hex:"#ee8442"
 -
+  name:"Consumed by Fire"
+  hex:"#f5811a"
+-
   name:"Conte Crayon"
   hex:"#bb4745"
 -
@@ -18689,8 +18701,14 @@
   name:"Corralize"
   hex:"#f18a76"
 -
+  name:"Corrosion Green"
+  hex:"#4da48b"
+-
   name:"Corrosion Red"
   hex:"#772f21"
+-
+  name:"Corrosive Green"
+  hex:"#54d905"
 -
   name:"Corsair"
   hex:"#18576c"
@@ -19012,6 +19030,9 @@
 -
   name:"Country Weekend"
   hex:"#88c096"
+-
+  name:"Countryside"
+  hex:"#a4a404"
 -
   name:"County Green"
   hex:"#1b4b35"
@@ -20956,6 +20977,9 @@
 -
   name:"Dark Red Brown"
   hex:"#4a2125"
+-
+  name:"Dark Rift"
+  hex:"#060b14"
 -
   name:"Dark River"
   hex:"#3e4445"
@@ -24032,6 +24056,9 @@
   name:"Dune Grass"
   hex:"#cbc5b1"
 -
+  name:"Dune King"
+  hex:"#e9aa71"
+-
   name:"Dune Shadow"
   hex:"#867665"
 -
@@ -26405,6 +26432,9 @@
   name:"Excalibur"
   hex:"#676168"
 -
+  name:"Excellence"
+  hex:"#22606e"
+-
   name:"Excelsior"
   hex:"#908b85"
 -
@@ -28775,6 +28805,9 @@
   name:"Fly Agaric"
   hex:"#ff2052"
 -
+  name:"Fly Away"
+  hex:"#85b3f3"
+-
   name:"Fly by Night"
   hex:"#1c1e4d"
 -
@@ -29746,6 +29779,9 @@
 -
   name:"Fresh Olive"
   hex:"#a69e73"
+-
+  name:"Fresh on the Market"
+  hex:"#faa9bb"
 -
   name:"Fresh Onion"
   hex:"#5b8930"
@@ -30952,6 +30988,9 @@
 -
   name:"Garlic Beige"
   hex:"#b0aaa1"
+-
+  name:"Garlic Butter"
+  hex:"#eddf5e"
 -
   name:"Garlic Clove"
   hex:"#e2d7c1"
@@ -35252,6 +35291,9 @@
   name:"Hanging Gardens of Babylon"
   hex:"#11aa44"
 -
+  name:"Hanging Moss"
+  hex:"#5c7f76"
+-
   name:"Hannover Hills"
   hex:"#685d4a"
 -
@@ -38144,6 +38186,9 @@
   name:"Icy Bay"
   hex:"#e0e5e2"
 -
+  name:"Icy Breeze"
+  hex:"#c4ecf0"
+-
   name:"Icy Brook"
   hex:"#c1cad9"
 -
@@ -39076,6 +39121,9 @@
 -
   name:"Inuit White"
   hex:"#d1cdd0"
+-
+  name:"Invasive Indigo"
+  hex:"#49017e"
 -
   name:"Inventive Orange"
   hex:"#e89d6f"
@@ -41014,6 +41062,9 @@
 -
   name:"Kingly Cloud"
   hex:"#dedede"
+-
+  name:"Kingpin Gold"
+  hex:"#de9930"
 -
   name:"Kings of Sea"
   hex:"#2d8297"
@@ -44570,6 +44621,9 @@
   name:"Lipstick"
   hex:"#c95b83"
 -
+  name:"Lipstick Illusion"
+  hex:"#d4696d"
+-
   name:"Lipstick Pink"
   hex:"#bd7f8a"
 -
@@ -46277,6 +46331,9 @@
   name:"Major Brown"
   hex:"#5b5149"
 -
+  name:"Major Magenta"
+  hex:"#f246a7"
+-
   name:"Major Tom"
   hex:"#001177"
 -
@@ -47216,6 +47273,9 @@
   name:"Mature Grape"
   hex:"#5f3f54"
 -
+  name:"Maturity"
+  hex:"#38796c"
+-
   name:"Maud"
   hex:"#988286"
 -
@@ -48076,6 +48136,9 @@
 -
   name:"Menthol Green"
   hex:"#9cd2b4"
+-
+  name:"Menthol Kiss"
+  hex:"#a0e2d4"
 -
   name:"Mephiston Red"
   hex:"#9a1115"
@@ -50831,6 +50894,9 @@
   name:"Moussaka"
   hex:"#6d2a13"
 -
+  name:"Mousse aux Pruneaux"
+  hex:"#e8cef6"
+-
   name:"Mousy Brown"
   hex:"#5c4939"
 -
@@ -52847,6 +52913,9 @@
   name:"Nordland Light Blue"
   hex:"#96aec5"
 -
+  name:"Nordmann Fir"
+  hex:"#2e7073"
+-
   name:"Norfolk Green"
   hex:"#2e4b3c"
 -
@@ -52982,6 +53051,9 @@
   name:"Nostalgia"
   hex:"#d6b8bd"
 -
+  name:"Nostalgia Perfume"
+  hex:"#dbdbf7"
+-
   name:"Nostalgia Rose"
   hex:"#a4777e"
 -
@@ -53002,6 +53074,9 @@
 -
   name:"Not Tonight"
   hex:"#090615"
+-
+  name:"Not Yet Caramel"
+  hex:"#b1714c"
 -
   name:"Not Yo Cheese"
   hex:"#ffc12c"
@@ -55022,6 +55097,9 @@
   name:"Out of Blue"
   hex:"#c0f7db"
 -
+  name:"Out of Fashion"
+  hex:"#f26d8f"
+-
   name:"Out of Plumb"
   hex:"#9c909c"
 -
@@ -56462,6 +56540,9 @@
   name:"Pasta"
   hex:"#f7dfaf"
 -
+  name:"Pasta Luego"
+  hex:"#fae17f"
+-
   name:"Pasta Rasta"
   hex:"#eec474"
 -
@@ -57109,6 +57190,9 @@
 -
   name:"Peanut Butter"
   hex:"#be893f"
+-
+  name:"Peanut Butter Biscuit"
+  hex:"#f7b565"
 -
   name:"Peanut Butter Chicken"
   hex:"#ffb75f"
@@ -62012,6 +62096,9 @@
   name:"Purple Essence"
   hex:"#c2b1c8"
 -
+  name:"Purple Excellency"
+  hex:"#943589"
+-
   name:"Purple Feather"
   hex:"#594670"
 -
@@ -66397,6 +66484,9 @@
 -
   name:"Royal Navy Blue"
   hex:"#0066cc"
+-
+  name:"Royal Neptune"
+  hex:"#1c3b42"
 -
   name:"Royal Night"
   hex:"#2b3191"
@@ -74480,6 +74570,9 @@
   name:"Stay in Lime"
   hex:"#9fac5c"
 -
+  name:"Stay the Night"
+  hex:"#314662"
+-
   name:"Steadfast"
   hex:"#4a5777"
 -
@@ -74518,6 +74611,12 @@
 -
   name:"Steamed Salmon"
   hex:"#ee8888"
+-
+  name:"Steampunk Gold"
+  hex:"#c39c55"
+-
+  name:"Steampunk Leather"
+  hex:"#6f3b34"
 -
   name:"Steamy Dumpling"
   hex:"#eae9b4"
@@ -76114,6 +76213,9 @@
 -
   name:"Sunken Gold"
   hex:"#b29700"
+-
+  name:"Sunken Harbor"
+  hex:"#1c3d44"
 -
   name:"Sunken Pool"
   hex:"#c8ddda"
@@ -78569,6 +78671,9 @@
   name:"Thin Ice"
   hex:"#d9dcdb"
 -
+  name:"Think Leaf"
+  hex:"#4d8871"
+-
   name:"Think Pink"
   hex:"#e5a5c1"
 -
@@ -79678,6 +79783,9 @@
 -
   name:"Toxic Sludge"
   hex:"#00bb33"
+-
+  name:"Toxic Steam"
+  hex:"#c1fdc9"
 -
   name:"Toy Blue"
   hex:"#00889f"
@@ -81412,6 +81520,9 @@
 -
   name:"Urban Safari"
   hex:"#978b6e"
+-
+  name:"Urban Snowfall"
+  hex:"#dbd8da"
 -
   name:"Urban Taupe"
   hex:"#c9bdb6"
