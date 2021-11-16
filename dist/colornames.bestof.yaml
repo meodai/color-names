@@ -150,7 +150,7 @@
   hex:"#756f6b"
 -
   name:"Ancient Scroll"
-  hex:"#f5e6de"
+  hex:"#f0e4d1"
 -
   name:"Andromeda Blue"
   hex:"#abcdee"
@@ -197,6 +197,9 @@
   name:"Antique Brass"
   hex:"#6c461f"
 -
+  name:"Aphrodisiac"
+  hex:"#e35a63"
+-
   name:"Aphrodite Aqua"
   hex:"#45e9c1"
 -
@@ -241,6 +244,9 @@
 -
   name:"Arcade Fire"
   hex:"#ee3311"
+-
+  name:"Arcane Red"
+  hex:"#6a2f2f"
 -
   name:"Archeology"
   hex:"#6e6a5e"
@@ -547,6 +553,9 @@
 -
   name:"Beautiful Darkness"
   hex:"#686d70"
+-
+  name:"Béchamel"
+  hex:"#f4eee0"
 -
   name:"Becquerel"
   hex:"#4bec13"
@@ -2168,6 +2177,9 @@
   name:"Crimson Boy"
   hex:"#b44933"
 -
+  name:"Crisps"
+  hex:"#e2bd67"
+-
   name:"Croissant"
   hex:"#c4ab86"
 -
@@ -2440,6 +2452,12 @@
 -
   name:"Deep Forestial Escapade"
   hex:"#335500"
+-
+  name:"Deep Fried"
+  hex:"#f0b054"
+-
+  name:"Deep Fried Sun Rays"
+  hex:"#f6c75e"
 -
   name:"Deep Green"
   hex:"#02590f"
@@ -2808,7 +2826,7 @@
   hex:"#008e80"
 -
   name:"Eagle"
-  hex:"#b0ac94"
+  hex:"#a26c36"
 -
   name:"Earl Grey"
   hex:"#a6978a"
@@ -2978,6 +2996,9 @@
   name:"Enraged"
   hex:"#ee0044"
 -
+  name:"Envy"
+  hex:"#8ba58f"
+-
   name:"Ephemeral Blue"
   hex:"#cbd4df"
 -
@@ -3019,6 +3040,12 @@
 -
   name:"Eternal Flame"
   hex:"#a13f49"
+-
+  name:"Eternal Summer"
+  hex:"#f7e504"
+-
+  name:"Eternal Winter"
+  hex:"#9cfaff"
 -
   name:"Ether"
   hex:"#9eb6b8"
@@ -3118,6 +3145,9 @@
 -
   name:"Fairy Tale Green"
   hex:"#88cc55"
+-
+  name:"Fake Blonde"
+  hex:"#efe6c1"
 -
   name:"Fake Jade"
   hex:"#13eac9"
@@ -3944,6 +3974,12 @@
   name:"Glow Worm"
   hex:"#bed565"
 -
+  name:"Glowing Lantern"
+  hex:"#fbb736"
+-
+  name:"Glowing Meteor"
+  hex:"#ee4400"
+-
   name:"Glowlight"
   hex:"#fff6b9"
 -
@@ -4202,6 +4238,9 @@
   name:"Green Goblin"
   hex:"#11bb33"
 -
+  name:"Green Goddess"
+  hex:"#76ad83"
+-
   name:"Green Mana"
   hex:"#26b467"
 -
@@ -4267,6 +4306,9 @@
 -
   name:"Grey Web"
   hex:"#616669"
+-
+  name:"Greybeard"
+  hex:"#d4d0c5"
 -
   name:"Greystone"
   hex:"#b7b9b5"
@@ -4462,6 +4504,9 @@
 -
   name:"Hazelwood"
   hex:"#fff3d5"
+-
+  name:"Hazy Moon"
+  hex:"#f1dca1"
 -
   name:"Head in the Clouds"
   hex:"#d1dde1"
@@ -4940,6 +4985,9 @@
   name:"Iced Coffee"
   hex:"#b18f6a"
 -
+  name:"Icelandic Winter"
+  hex:"#d9e7e3"
+-
   name:"Icy Plains"
   hex:"#cfdafb"
 -
@@ -5098,6 +5146,9 @@
 -
   name:"Into the Blue"
   hex:"#4f7ba7"
+-
+  name:"Into the Night"
+  hex:"#1e3642"
 -
   name:"Into the Stratosphere"
   hex:"#425267"
@@ -5603,9 +5654,6 @@
   name:"Leather"
   hex:"#906a54"
 -
-  name:"LeChuck's Beard"
-  hex:"#3c351f"
--
   name:"Leek"
   hex:"#98d98e"
 -
@@ -5894,6 +5942,12 @@
   name:"Love Affair"
   hex:"#ffbec8"
 -
+  name:"Love Dust"
+  hex:"#eb94da"
+-
+  name:"Love Goddess"
+  hex:"#cd0d0d"
+-
   name:"Love Juice"
   hex:"#cc1155"
 -
@@ -5906,8 +5960,14 @@
   name:"Love Priestess"
   hex:"#bb55cc"
 -
+  name:"Love Spell"
+  hex:"#f8b4c4"
+-
   name:"Love Vessel"
   hex:"#ee0099"
+-
+  name:"Lovely Breeze"
+  hex:"#f9d8e4"
 -
   name:"Lovely Little Rosy"
   hex:"#e35f66"
@@ -7175,7 +7235,13 @@
   name:"Nocturnal"
   hex:"#767d86"
 -
+  name:"Nocturnal Expedition"
+  hex:"#114c5a"
+-
   name:"Nocturne"
+  hex:"#344d58"
+-
+  name:"Nocturne Red"
   hex:"#7a4b56"
 -
   name:"Noir Fiction"
@@ -7744,6 +7810,9 @@
 -
   name:"Peach"
   hex:"#ffb07c"
+-
+  name:"Peach Beach"
+  hex:"#fdcfa1"
 -
   name:"Peach Beauty"
   hex:"#e7c3ab"
@@ -8353,6 +8422,9 @@
 -
   name:"Poodle Skirt"
   hex:"#ffaebb"
+-
+  name:"Pool Table"
+  hex:"#039578"
 -
   name:"Pool Water"
   hex:"#2188ff"

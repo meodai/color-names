@@ -2091,7 +2091,7 @@
   hex:"#e0cac0"
 -
   name:"Ancient Scroll"
-  hex:"#f5e6de"
+  hex:"#f0e4d1"
 -
   name:"Ancient Shelter"
   hex:"#83696e"
@@ -2632,6 +2632,9 @@
 -
   name:"Apeland"
   hex:"#8a843b"
+-
+  name:"Aphrodisiac"
+  hex:"#e35a63"
 -
   name:"Aphrodite Aqua"
   hex:"#45e9c1"
@@ -3340,6 +3343,9 @@
 -
   name:"Arcane"
   hex:"#98687e"
+-
+  name:"Arcane Red"
+  hex:"#6a2f2f"
 -
   name:"Arcavia Red"
   hex:"#6a0002"
@@ -6296,7 +6302,7 @@
   name:"Beaver Pelt"
   hex:"#60564c"
 -
-  name:"Bechamel"
+  name:"Béchamel"
   hex:"#f4eee0"
 -
   name:"Becker Blue"
@@ -7066,6 +7072,9 @@
 -
   name:"Billiard Table"
   hex:"#155843"
+-
+  name:"Billiards Cloth"
+  hex:"#01b44c"
 -
   name:"Billowing Clouds"
   hex:"#d8dee3"
@@ -19718,6 +19727,9 @@
   name:"Crispa"
   hex:"#e7dfc1"
 -
+  name:"Crisps"
+  hex:"#e2bd67"
+-
   name:"Crispy Chicken Skin"
   hex:"#ddaa44"
 -
@@ -21637,6 +21649,12 @@
 -
   name:"Deep Forestial Escapade"
   hex:"#335500"
+-
+  name:"Deep Fried"
+  hex:"#f0b054"
+-
+  name:"Deep Fried Sun Rays"
+  hex:"#f6c75e"
 -
   name:"Deep Galaxy"
   hex:"#414048"
@@ -24441,7 +24459,7 @@
   hex:"#f8d77f"
 -
   name:"Eagle"
-  hex:"#b0ac94"
+  hex:"#a26c36"
 -
   name:"Eagle Eye"
   hex:"#736665"
@@ -26129,8 +26147,14 @@
   name:"Eternal Flame"
   hex:"#a13f49"
 -
+  name:"Eternal Summer"
+  hex:"#f7e504"
+-
   name:"Eternal White"
   hex:"#faf3dc"
+-
+  name:"Eternal Winter"
+  hex:"#9cfaff"
 -
   name:"Eternity"
   hex:"#2d2f28"
@@ -26968,6 +26992,9 @@
 -
   name:"Faith"
   hex:"#d5ebac"
+-
+  name:"Fake Blonde"
+  hex:"#efe6c1"
 -
   name:"Fake Crush"
   hex:"#c88088"
@@ -32078,11 +32105,8 @@
   name:"Goddess"
   hex:"#d0e1e8"
 -
-  name:"Goddess Green"
-  hex:"#76ad83"
--
   name:"Goddess of Dawn"
-  hex:"#a8d4b0"
+  hex:"#904c6f"
 -
   name:"Godzilla"
   hex:"#3c4d03"
@@ -33818,6 +33842,9 @@
   name:"Green Goblin"
   hex:"#11bb33"
 -
+  name:"Green Goddess"
+  hex:"#76ad83"
+-
   name:"Green Gold"
   hex:"#c5b088"
 -
@@ -35119,9 +35146,6 @@
 -
   name:"Haint Blue"
   hex:"#c1d8d9"
--
-  name:"Hair Blonde"
-  hex:"#fdcfa1"
 -
   name:"Hair Brown"
   hex:"#8b7859"
@@ -39091,6 +39115,9 @@
 -
   name:"Into the Blue"
   hex:"#4f7ba7"
+-
+  name:"Into the Night"
+  hex:"#1e3642"
 -
   name:"Into the Stratosphere"
   hex:"#425267"
@@ -45254,8 +45281,14 @@
   name:"Love Bird"
   hex:"#ba5b6a"
 -
+  name:"Love Dust"
+  hex:"#eb94da"
+-
   name:"Love for All"
   hex:"#cd0106"
+-
+  name:"Love Goddess"
+  hex:"#cd0d0d"
 -
   name:"Love In A Mist"
   hex:"#e1b9c2"
@@ -45304,6 +45337,9 @@
 -
   name:"Lovelight"
   hex:"#f7d6d8"
+-
+  name:"Lovely Breeze"
+  hex:"#f9d8e4"
 -
   name:"Lovely Euphoric Delight"
   hex:"#ffeeff"
@@ -52838,6 +52874,9 @@
   name:"Nocturnal"
   hex:"#767d86"
 -
+  name:"Nocturnal Expedition"
+  hex:"#114c5a"
+-
   name:"Nocturnal Flight"
   hex:"#675754"
 -
@@ -52848,10 +52887,10 @@
   hex:"#0e6071"
 -
   name:"Nocturne"
-  hex:"#7a4b56"
--
-  name:"Nocturne Blue"
   hex:"#344d58"
+-
+  name:"Nocturne Red"
+  hex:"#7a4b56"
 -
   name:"Nocturne Shade"
   hex:"#356fad"
@@ -56888,6 +56927,9 @@
   name:"Peach Ash"
   hex:"#efc4bb"
 -
+  name:"Peach Beach"
+  hex:"#fdcfa1"
+-
   name:"Peach Beauty"
   hex:"#e7c3ab"
 -
@@ -60524,6 +60566,9 @@
   name:"Pool Side"
   hex:"#aad5d9"
 -
+  name:"Pool Table"
+  hex:"#039578"
+-
   name:"Pool Tide"
   hex:"#70928e"
 -
@@ -61170,7 +61215,7 @@
   hex:"#c58380"
 -
   name:"Praxeti White"
-  hex:"#01b44c"
+  hex:"#f6f7ed"
 -
   name:"Prayer Flag"
   hex:"#d59c6a"
@@ -74134,6 +74179,9 @@
 -
   name:"Spring Valley"
   hex:"#ced7c5"
+-
+  name:"Spring Vegetables"
+  hex:"#82a320"
 -
   name:"Spring Walk"
   hex:"#acb193"

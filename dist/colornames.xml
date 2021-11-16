@@ -2790,7 +2790,7 @@
 </color>
 <color>
 <name>Ancient Scroll</name>
-<hex>#f5e6de</hex>
+<hex>#f0e4d1</hex>
 </color>
 <color>
 <name>Ancient Shelter</name>
@@ -3511,6 +3511,10 @@
 <color>
 <name>Apeland</name>
 <hex>#8a843b</hex>
+</color>
+<color>
+<name>Aphrodisiac</name>
+<hex>#e35a63</hex>
 </color>
 <color>
 <name>Aphrodite Aqua</name>
@@ -4455,6 +4459,10 @@
 <color>
 <name>Arcane</name>
 <hex>#98687e</hex>
+</color>
+<color>
+<name>Arcane Red</name>
+<hex>#6a2f2f</hex>
 </color>
 <color>
 <name>Arcavia Red</name>
@@ -8397,7 +8405,7 @@
 <hex>#60564c</hex>
 </color>
 <color>
-<name>Bechamel</name>
+<name>Béchamel</name>
 <hex>#f4eee0</hex>
 </color>
 <color>
@@ -9423,6 +9431,10 @@
 <color>
 <name>Billiard Table</name>
 <hex>#155843</hex>
+</color>
+<color>
+<name>Billiards Cloth</name>
+<hex>#01b44c</hex>
 </color>
 <color>
 <name>Billowing Clouds</name>
@@ -26293,6 +26305,10 @@
 <hex>#e7dfc1</hex>
 </color>
 <color>
+<name>Crisps</name>
+<hex>#e2bd67</hex>
+</color>
+<color>
 <name>Crispy Chicken Skin</name>
 <hex>#ddaa44</hex>
 </color>
@@ -28851,6 +28867,14 @@
 <color>
 <name>Deep Forestial Escapade</name>
 <hex>#335500</hex>
+</color>
+<color>
+<name>Deep Fried</name>
+<hex>#f0b054</hex>
+</color>
+<color>
+<name>Deep Fried Sun Rays</name>
+<hex>#f6c75e</hex>
 </color>
 <color>
 <name>Deep Galaxy</name>
@@ -32590,7 +32614,7 @@
 </color>
 <color>
 <name>Eagle</name>
-<hex>#b0ac94</hex>
+<hex>#a26c36</hex>
 </color>
 <color>
 <name>Eagle Eye</name>
@@ -34841,8 +34865,16 @@
 <hex>#a13f49</hex>
 </color>
 <color>
+<name>Eternal Summer</name>
+<hex>#f7e504</hex>
+</color>
+<color>
 <name>Eternal White</name>
 <hex>#faf3dc</hex>
+</color>
+<color>
+<name>Eternal Winter</name>
+<hex>#9cfaff</hex>
 </color>
 <color>
 <name>Eternity</name>
@@ -35959,6 +35991,10 @@
 <color>
 <name>Faith</name>
 <hex>#d5ebac</hex>
+</color>
+<color>
+<name>Fake Blonde</name>
+<hex>#efe6c1</hex>
 </color>
 <color>
 <name>Fake Crush</name>
@@ -42773,12 +42809,8 @@
 <hex>#d0e1e8</hex>
 </color>
 <color>
-<name>Goddess Green</name>
-<hex>#76ad83</hex>
-</color>
-<color>
 <name>Goddess of Dawn</name>
-<hex>#a8d4b0</hex>
+<hex>#904c6f</hex>
 </color>
 <color>
 <name>Godzilla</name>
@@ -45093,6 +45125,10 @@
 <hex>#11bb33</hex>
 </color>
 <color>
+<name>Green Goddess</name>
+<hex>#76ad83</hex>
+</color>
+<color>
 <name>Green Gold</name>
 <hex>#c5b088</hex>
 </color>
@@ -46827,10 +46863,6 @@
 <color>
 <name>Haint Blue</name>
 <hex>#c1d8d9</hex>
-</color>
-<color>
-<name>Hair Blonde</name>
-<hex>#fdcfa1</hex>
 </color>
 <color>
 <name>Hair Brown</name>
@@ -52123,6 +52155,10 @@
 <color>
 <name>Into the Blue</name>
 <hex>#4f7ba7</hex>
+</color>
+<color>
+<name>Into the Night</name>
+<hex>#1e3642</hex>
 </color>
 <color>
 <name>Into the Stratosphere</name>
@@ -60341,8 +60377,16 @@
 <hex>#ba5b6a</hex>
 </color>
 <color>
+<name>Love Dust</name>
+<hex>#eb94da</hex>
+</color>
+<color>
 <name>Love for All</name>
 <hex>#cd0106</hex>
+</color>
+<color>
+<name>Love Goddess</name>
+<hex>#cd0d0d</hex>
 </color>
 <color>
 <name>Love In A Mist</name>
@@ -60407,6 +60451,10 @@
 <color>
 <name>Lovelight</name>
 <hex>#f7d6d8</hex>
+</color>
+<color>
+<name>Lovely Breeze</name>
+<hex>#f9d8e4</hex>
 </color>
 <color>
 <name>Lovely Euphoric Delight</name>
@@ -70453,6 +70501,10 @@
 <hex>#767d86</hex>
 </color>
 <color>
+<name>Nocturnal Expedition</name>
+<hex>#114c5a</hex>
+</color>
+<color>
 <name>Nocturnal Flight</name>
 <hex>#675754</hex>
 </color>
@@ -70466,11 +70518,11 @@
 </color>
 <color>
 <name>Nocturne</name>
-<hex>#7a4b56</hex>
+<hex>#344d58</hex>
 </color>
 <color>
-<name>Nocturne Blue</name>
-<hex>#344d58</hex>
+<name>Nocturne Red</name>
+<hex>#7a4b56</hex>
 </color>
 <color>
 <name>Nocturne Shade</name>
@@ -75853,6 +75905,10 @@
 <hex>#efc4bb</hex>
 </color>
 <color>
+<name>Peach Beach</name>
+<hex>#fdcfa1</hex>
+</color>
+<color>
 <name>Peach Beauty</name>
 <hex>#e7c3ab</hex>
 </color>
@@ -80701,6 +80757,10 @@
 <hex>#aad5d9</hex>
 </color>
 <color>
+<name>Pool Table</name>
+<hex>#039578</hex>
+</color>
+<color>
 <name>Pool Tide</name>
 <hex>#70928e</hex>
 </color>
@@ -81562,7 +81622,7 @@
 </color>
 <color>
 <name>Praxeti White</name>
-<hex>#01b44c</hex>
+<hex>#f6f7ed</hex>
 </color>
 <color>
 <name>Prayer Flag</name>
@@ -98847,6 +98907,10 @@
 <color>
 <name>Spring Valley</name>
 <hex>#ced7c5</hex>
+</color>
+<color>
+<name>Spring Vegetables</name>
+<hex>#82a320</hex>
 </color>
 <color>
 <name>Spring Walk</name>

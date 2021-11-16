@@ -202,7 +202,7 @@
 </color>
 <color>
 <name>Ancient Scroll</name>
-<hex>#f5e6de</hex>
+<hex>#f0e4d1</hex>
 </color>
 <color>
 <name>Andromeda Blue</name>
@@ -265,6 +265,10 @@
 <hex>#6c461f</hex>
 </color>
 <color>
+<name>Aphrodisiac</name>
+<hex>#e35a63</hex>
+</color>
+<color>
 <name>Aphrodite Aqua</name>
 <hex>#45e9c1</hex>
 </color>
@@ -323,6 +327,10 @@
 <color>
 <name>Arcade Fire</name>
 <hex>#ee3311</hex>
+</color>
+<color>
+<name>Arcane Red</name>
+<hex>#6a2f2f</hex>
 </color>
 <color>
 <name>Archeology</name>
@@ -731,6 +739,10 @@
 <color>
 <name>Beautiful Darkness</name>
 <hex>#686d70</hex>
+</color>
+<color>
+<name>Béchamel</name>
+<hex>#f4eee0</hex>
 </color>
 <color>
 <name>Becquerel</name>
@@ -2893,6 +2905,10 @@
 <hex>#b44933</hex>
 </color>
 <color>
+<name>Crisps</name>
+<hex>#e2bd67</hex>
+</color>
+<color>
 <name>Croissant</name>
 <hex>#c4ab86</hex>
 </color>
@@ -3255,6 +3271,14 @@
 <color>
 <name>Deep Forestial Escapade</name>
 <hex>#335500</hex>
+</color>
+<color>
+<name>Deep Fried</name>
+<hex>#f0b054</hex>
+</color>
+<color>
+<name>Deep Fried Sun Rays</name>
+<hex>#f6c75e</hex>
 </color>
 <color>
 <name>Deep Green</name>
@@ -3746,7 +3770,7 @@
 </color>
 <color>
 <name>Eagle</name>
-<hex>#b0ac94</hex>
+<hex>#a26c36</hex>
 </color>
 <color>
 <name>Earl Grey</name>
@@ -3973,6 +3997,10 @@
 <hex>#ee0044</hex>
 </color>
 <color>
+<name>Envy</name>
+<hex>#8ba58f</hex>
+</color>
+<color>
 <name>Ephemeral Blue</name>
 <hex>#cbd4df</hex>
 </color>
@@ -4027,6 +4055,14 @@
 <color>
 <name>Eternal Flame</name>
 <hex>#a13f49</hex>
+</color>
+<color>
+<name>Eternal Summer</name>
+<hex>#f7e504</hex>
+</color>
+<color>
+<name>Eternal Winter</name>
+<hex>#9cfaff</hex>
 </color>
 <color>
 <name>Ether</name>
@@ -4159,6 +4195,10 @@
 <color>
 <name>Fairy Tale Green</name>
 <hex>#88cc55</hex>
+</color>
+<color>
+<name>Fake Blonde</name>
+<hex>#efe6c1</hex>
 </color>
 <color>
 <name>Fake Jade</name>
@@ -5261,6 +5301,14 @@
 <hex>#bed565</hex>
 </color>
 <color>
+<name>Glowing Lantern</name>
+<hex>#fbb736</hex>
+</color>
+<color>
+<name>Glowing Meteor</name>
+<hex>#ee4400</hex>
+</color>
+<color>
 <name>Glowlight</name>
 <hex>#fff6b9</hex>
 </color>
@@ -5605,6 +5653,10 @@
 <hex>#11bb33</hex>
 </color>
 <color>
+<name>Green Goddess</name>
+<hex>#76ad83</hex>
+</color>
+<color>
 <name>Green Mana</name>
 <hex>#26b467</hex>
 </color>
@@ -5691,6 +5743,10 @@
 <color>
 <name>Grey Web</name>
 <hex>#616669</hex>
+</color>
+<color>
+<name>Greybeard</name>
+<hex>#d4d0c5</hex>
 </color>
 <color>
 <name>Greystone</name>
@@ -5951,6 +6007,10 @@
 <color>
 <name>Hazelwood</name>
 <hex>#fff3d5</hex>
+</color>
+<color>
+<name>Hazy Moon</name>
+<hex>#f1dca1</hex>
 </color>
 <color>
 <name>Head in the Clouds</name>
@@ -6589,6 +6649,10 @@
 <hex>#b18f6a</hex>
 </color>
 <color>
+<name>Icelandic Winter</name>
+<hex>#d9e7e3</hex>
+</color>
+<color>
 <name>Icy Plains</name>
 <hex>#cfdafb</hex>
 </color>
@@ -6799,6 +6863,10 @@
 <color>
 <name>Into the Blue</name>
 <hex>#4f7ba7</hex>
+</color>
+<color>
+<name>Into the Night</name>
+<hex>#1e3642</hex>
 </color>
 <color>
 <name>Into the Stratosphere</name>
@@ -7473,10 +7541,6 @@
 <hex>#906a54</hex>
 </color>
 <color>
-<name>LeChuck's Beard</name>
-<hex>#3c351f</hex>
-</color>
-<color>
 <name>Leek</name>
 <hex>#98d98e</hex>
 </color>
@@ -7861,6 +7925,14 @@
 <hex>#ffbec8</hex>
 </color>
 <color>
+<name>Love Dust</name>
+<hex>#eb94da</hex>
+</color>
+<color>
+<name>Love Goddess</name>
+<hex>#cd0d0d</hex>
+</color>
+<color>
 <name>Love Juice</name>
 <hex>#cc1155</hex>
 </color>
@@ -7877,8 +7949,16 @@
 <hex>#bb55cc</hex>
 </color>
 <color>
+<name>Love Spell</name>
+<hex>#f8b4c4</hex>
+</color>
+<color>
 <name>Love Vessel</name>
 <hex>#ee0099</hex>
+</color>
+<color>
+<name>Lovely Breeze</name>
+<hex>#f9d8e4</hex>
 </color>
 <color>
 <name>Lovely Little Rosy</name>
@@ -9569,7 +9649,15 @@
 <hex>#767d86</hex>
 </color>
 <color>
+<name>Nocturnal Expedition</name>
+<hex>#114c5a</hex>
+</color>
+<color>
 <name>Nocturne</name>
+<hex>#344d58</hex>
+</color>
+<color>
+<name>Nocturne Red</name>
 <hex>#7a4b56</hex>
 </color>
 <color>
@@ -10327,6 +10415,10 @@
 <color>
 <name>Peach</name>
 <hex>#ffb07c</hex>
+</color>
+<color>
+<name>Peach Beach</name>
+<hex>#fdcfa1</hex>
 </color>
 <color>
 <name>Peach Beauty</name>
@@ -11139,6 +11231,10 @@
 <color>
 <name>Poodle Skirt</name>
 <hex>#ffaebb</hex>
+</color>
+<color>
+<name>Pool Table</name>
+<hex>#039578</hex>
 </color>
 <color>
 <name>Pool Water</name>
