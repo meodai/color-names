@@ -8245,6 +8245,10 @@
 <hex>#fff8df</hex>
 </color>
 <color>
+<name>Bean</name>
+<hex>#4a1207</hex>
+</color>
+<color>
 <name>Bean Counter</name>
 <hex>#68755d</hex>
 </color>
@@ -13275,6 +13279,14 @@
 <color>
 <name>Bottlebrush Blossom</name>
 <hex>#e8edb0</hex>
+</color>
+<color>
+<name>Bottled Sea</name>
+<hex>#095baf</hex>
+</color>
+<color>
+<name>Bottled Ship</name>
+<hex>#9b6944</hex>
 </color>
 <color>
 <name>Bottom of my Heart</name>
@@ -22625,6 +22637,10 @@
 <hex>#991115</hex>
 </color>
 <color>
+<name>Cloud</name>
+<hex>#e4f0ef</hex>
+</color>
+<color>
 <name>Cloud Abyss</name>
 <hex>#dfe7eb</hex>
 </color>
@@ -26905,6 +26921,10 @@
 <hex>#b0c6df</hex>
 </color>
 <color>
+<name>Cup Noodles</name>
+<hex>#fedd7d</hex>
+</color>
+<color>
 <name>Cup of Cocoa</name>
 <hex>#baa087</hex>
 </color>
@@ -27745,6 +27765,10 @@
 <hex>#884455</hex>
 </color>
 <color>
+<name>Dark Ebony</name>
+<hex>#3d2004</hex>
+</color>
+<color>
 <name>Dark Eclipse</name>
 <hex>#112244</hex>
 </color>
@@ -27953,6 +27977,10 @@
 <hex>#603e53</hex>
 </color>
 <color>
+<name>Dark Prince</name>
+<hex>#6b6c89</hex>
+</color>
+<color>
 <name>Dark Princess Pink</name>
 <hex>#d9308a</hex>
 </color>
@@ -28115,6 +28143,10 @@
 <color>
 <name>Dark Souls</name>
 <hex>#a3a3a2</hex>
+</color>
+<color>
+<name>Dark Space</name>
+<hex>#414a4c</hex>
 </color>
 <color>
 <name>Dark Spell</name>
@@ -29051,6 +29083,10 @@
 <color>
 <name>Deep Sanction</name>
 <hex>#195155</hex>
+</color>
+<color>
+<name>Deep Sapphire</name>
+<hex>#082466</hex>
 </color>
 <color>
 <name>Deep Sea</name>
@@ -30027,6 +30063,10 @@
 <color>
 <name>Detective Coat</name>
 <hex>#8b8685</hex>
+</color>
+<color>
+<name>Detective Thriller</name>
+<hex>#393c40</hex>
 </color>
 <color>
 <name>Determined Orange</name>
@@ -38101,6 +38141,10 @@
 <hex>#9e88b1</hex>
 </color>
 <color>
+<name>Flirty Rose</name>
+<hex>#d65e93</hex>
+</color>
+<color>
 <name>Flirty Salmon</name>
 <hex>#fa7069</hex>
 </color>
@@ -40743,6 +40787,10 @@
 <color>
 <name>Fuscia Fizz</name>
 <hex>#b56e91</hex>
+</color>
+<color>
+<name>Fuscous Gray</name>
+<hex>#4f4e4a</hex>
 </color>
 <color>
 <name>Fuscous Grey</name>
@@ -46150,7 +46198,7 @@
 </color>
 <color>
 <name>Grey Suit</name>
-<hex>#9391a0</hex>
+<hex>#807a77</hex>
 </color>
 <color>
 <name>Grey Summit</name>
@@ -52699,6 +52747,10 @@
 <color>
 <name>Italian Lace</name>
 <hex>#ede9d4</hex>
+</color>
+<color>
+<name>Italian Mocha</name>
+<hex>#93685a</hex>
 </color>
 <color>
 <name>Italian Olive</name>
@@ -66241,6 +66293,10 @@
 <hex>#6b565e</hex>
 </color>
 <color>
+<name>Mocha Cake</name>
+<hex>#beaf93</hex>
+</color>
+<color>
 <name>Mocha Dandelion</name>
 <hex>#f1d96e</hex>
 </color>
@@ -66283,10 +66339,6 @@
 <color>
 <name>Mochaccino</name>
 <hex>#945200</hex>
-</color>
-<color>
-<name>Mochachino</name>
-<hex>#beaf93</hex>
 </color>
 <color>
 <name>Mochito</name>
@@ -73594,15 +73646,11 @@
 </color>
 <color>
 <name>Outer Space</name>
-<hex>#414a4c</hex>
+<hex>#314e64</hex>
 </color>
 <color>
 <name>Outerbanks</name>
 <hex>#b7a48b</hex>
-</color>
-<color>
-<name>Outerspace</name>
-<hex>#314e64</hex>
 </color>
 <color>
 <name>Outgoing Orange</name>
@@ -74215,6 +74263,10 @@
 <color>
 <name>Pale Bud</name>
 <hex>#eeebe8</hex>
+</color>
+<color>
+<name>Pale Canary</name>
+<hex>#f1efa6</hex>
 </color>
 <color>
 <name>Pale Cashmere</name>
@@ -81258,7 +81310,7 @@
 </color>
 <color>
 <name>Potpourri</name>
-<hex>#f1e0db</hex>
+<hex>#f5e7e2</hex>
 </color>
 <color>
 <name>Potted Plant</name>
@@ -87206,7 +87258,7 @@
 </color>
 <color>
 <name>Riverbed</name>
-<hex>#556061</hex>
+<hex>#86bebe</hex>
 </color>
 <color>
 <name>Riverdale</name>
@@ -100477,6 +100529,10 @@
 <hex>#495e7b</hex>
 </color>
 <color>
+<name>Stream Bed</name>
+<hex>#556061</hex>
+</color>
+<color>
 <name>Streetwise</name>
 <hex>#d8e2df</hex>
 </color>
@@ -101583,6 +101639,10 @@
 <color>
 <name>Sunbathed</name>
 <hex>#f5dd98</hex>
+</color>
+<color>
+<name>Sunbathing Beauty</name>
+<hex>#7e4730</hex>
 </color>
 <color>
 <name>Sunbeam</name>
@@ -107367,6 +107427,10 @@
 <color>
 <name>Trout</name>
 <hex>#4c5356</hex>
+</color>
+<color>
+<name>Trout Caviar</name>
+<hex>#f75300</hex>
 </color>
 <color>
 <name>True Blonde</name>
@@ -115367,6 +115431,10 @@
 <color>
 <name>Woodward Park</name>
 <hex>#755f4a</hex>
+</color>
+<color>
+<name>Woody Brown</name>
+<hex>#6e2d2b</hex>
 </color>
 <color>
 <name>Wooed</name>

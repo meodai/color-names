@@ -2315,6 +2315,12 @@
   name:"Dark & Stormy"
   hex:"#353f51"
 -
+  name:"Dark Ages"
+  hex:"#9698a3"
+-
+  name:"Dark as Night"
+  hex:"#495252"
+-
   name:"Dark Blue"
   hex:"#305679"
 -
@@ -2360,6 +2366,9 @@
   name:"Dark Pink"
   hex:"#cb416b"
 -
+  name:"Dark Prince"
+  hex:"#6b6c89"
+-
   name:"Dark Purple"
   hex:"#35063e"
 -
@@ -2392,6 +2401,9 @@
 -
   name:"Dark Souls"
   hex:"#a3a3a2"
+-
+  name:"Dark Space"
+  hex:"#414a4c"
 -
   name:"Dark Veil"
   hex:"#141311"
@@ -3445,6 +3457,9 @@
 -
   name:"Flirtatious Flamingo"
   hex:"#cc22ff"
+-
+  name:"Flirty Rose"
+  hex:"#d65e93"
 -
   name:"Flirty Salmon"
   hex:"#fa7069"
@@ -6692,6 +6707,12 @@
   name:"Mocha"
   hex:"#9d7651"
 -
+  name:"Mocha Ice"
+  hex:"#dfd2ca"
+-
+  name:"Mochaccino"
+  hex:"#945200"
+-
   name:"Mochito"
   hex:"#8efa00"
 -
@@ -7562,6 +7583,9 @@
   name:"Outback"
   hex:"#c9a375"
 -
+  name:"Outer Space"
+  hex:"#314e64"
+-
   name:"Over the Hills"
   hex:"#4d6d08"
 -
@@ -7618,6 +7642,9 @@
 -
   name:"Painter's Canvas"
   hex:"#f9f2de"
+-
+  name:"Pale Canary"
+  hex:"#f1efa6"
 -
   name:"Pale Sky"
   hex:"#bdf6fe"
@@ -8726,6 +8753,9 @@
   name:"Quiet Abyss"
   hex:"#160435"
 -
+  name:"Quill Grey"
+  hex:"#cbc9c0"
+-
   name:"Quince"
   hex:"#d4cb60"
 -
@@ -8914,6 +8944,9 @@
 -
   name:"Ripe Malinka"
   hex:"#f5576c"
+-
+  name:"Riverbed"
+  hex:"#86bebe"
 -
   name:"Roasted Pepper"
   hex:"#890a01"
@@ -10007,6 +10040,9 @@
   name:"Sunbathed"
   hex:"#f5dd98"
 -
+  name:"Sunbathing Beauty"
+  hex:"#7e4730"
+-
   name:"Sunbeam"
   hex:"#f5edb2"
 -
@@ -10444,6 +10480,9 @@
 -
   name:"Trout"
   hex:"#4c5356"
+-
+  name:"Trout Caviar"
+  hex:"#f75300"
 -
   name:"Trumpet Gold"
   hex:"#e9b413"

@@ -6182,6 +6182,9 @@
   name:"Beaming Sun"
   hex:"#fff8df"
 -
+  name:"Bean"
+  hex:"#4a1207"
+-
   name:"Bean Counter"
   hex:"#68755d"
 -
@@ -9955,6 +9958,12 @@
 -
   name:"Bottlebrush Blossom"
   hex:"#e8edb0"
+-
+  name:"Bottled Sea"
+  hex:"#095baf"
+-
+  name:"Bottled Ship"
+  hex:"#9b6944"
 -
   name:"Bottom of my Heart"
   hex:"#cc0077"
@@ -16967,6 +16976,9 @@
   name:"Clotted Red"
   hex:"#991115"
 -
+  name:"Cloud"
+  hex:"#e4f0ef"
+-
   name:"Cloud Abyss"
   hex:"#dfe7eb"
 -
@@ -20177,6 +20189,9 @@
   name:"Cumulus Cloud"
   hex:"#b0c6df"
 -
+  name:"Cup Noodles"
+  hex:"#fedd7d"
+-
   name:"Cup of Cocoa"
   hex:"#baa087"
 -
@@ -20807,6 +20822,9 @@
   name:"Dark Earth"
   hex:"#884455"
 -
+  name:"Dark Ebony"
+  hex:"#3d2004"
+-
   name:"Dark Eclipse"
   hex:"#112244"
 -
@@ -20963,6 +20981,9 @@
   name:"Dark Potion"
   hex:"#603e53"
 -
+  name:"Dark Prince"
+  hex:"#6b6c89"
+-
   name:"Dark Princess Pink"
   hex:"#d9308a"
 -
@@ -21085,6 +21106,9 @@
 -
   name:"Dark Souls"
   hex:"#a3a3a2"
+-
+  name:"Dark Space"
+  hex:"#414a4c"
 -
   name:"Dark Spell"
   hex:"#303b4c"
@@ -21787,6 +21811,9 @@
 -
   name:"Deep Sanction"
   hex:"#195155"
+-
+  name:"Deep Sapphire"
+  hex:"#082466"
 -
   name:"Deep Sea"
   hex:"#167e65"
@@ -22519,6 +22546,9 @@
 -
   name:"Detective Coat"
   hex:"#8b8685"
+-
+  name:"Detective Thriller"
+  hex:"#393c40"
 -
   name:"Determined Orange"
   hex:"#c56639"
@@ -28574,6 +28604,9 @@
   name:"Flirty Pink"
   hex:"#9e88b1"
 -
+  name:"Flirty Rose"
+  hex:"#d65e93"
+-
   name:"Flirty Salmon"
   hex:"#fa7069"
 -
@@ -30556,6 +30589,9 @@
 -
   name:"Fuscia Fizz"
   hex:"#b56e91"
+-
+  name:"Fuscous Gray"
+  hex:"#4f4e4a"
 -
   name:"Fuscous Grey"
   hex:"#54534d"
@@ -34611,7 +34647,7 @@
   hex:"#989081"
 -
   name:"Grey Suit"
-  hex:"#9391a0"
+  hex:"#807a77"
 -
   name:"Grey Summit"
   hex:"#959491"
@@ -39523,6 +39559,9 @@
 -
   name:"Italian Lace"
   hex:"#ede9d4"
+-
+  name:"Italian Mocha"
+  hex:"#93685a"
 -
   name:"Italian Olive"
   hex:"#807243"
@@ -49679,6 +49718,9 @@
   name:"Mocha Brown"
   hex:"#6b565e"
 -
+  name:"Mocha Cake"
+  hex:"#beaf93"
+-
   name:"Mocha Dandelion"
   hex:"#f1d96e"
 -
@@ -49711,9 +49753,6 @@
 -
   name:"Mochaccino"
   hex:"#945200"
--
-  name:"Mochachino"
-  hex:"#beaf93"
 -
   name:"Mochito"
   hex:"#8efa00"
@@ -55194,13 +55233,10 @@
   hex:"#221177"
 -
   name:"Outer Space"
-  hex:"#414a4c"
+  hex:"#314e64"
 -
   name:"Outerbanks"
   hex:"#b7a48b"
--
-  name:"Outerspace"
-  hex:"#314e64"
 -
   name:"Outgoing Orange"
   hex:"#e6955f"
@@ -55660,6 +55696,9 @@
 -
   name:"Pale Bud"
   hex:"#eeebe8"
+-
+  name:"Pale Canary"
+  hex:"#f1efa6"
 -
   name:"Pale Cashmere"
   hex:"#e8dfd5"
@@ -60942,7 +60981,7 @@
   hex:"#d5cde3"
 -
   name:"Potpourri"
-  hex:"#f1e0db"
+  hex:"#f5e7e2"
 -
   name:"Potted Plant"
   hex:"#9ecca7"
@@ -65403,7 +65442,7 @@
   hex:"#ae9e87"
 -
   name:"Riverbed"
-  hex:"#556061"
+  hex:"#86bebe"
 -
   name:"Riverdale"
   hex:"#bec5ba"
@@ -75356,6 +75395,9 @@
   name:"Stream"
   hex:"#495e7b"
 -
+  name:"Stream Bed"
+  hex:"#556061"
+-
   name:"Streetwise"
   hex:"#d8e2df"
 -
@@ -76186,6 +76228,9 @@
 -
   name:"Sunbathed"
   hex:"#f5dd98"
+-
+  name:"Sunbathing Beauty"
+  hex:"#7e4730"
 -
   name:"Sunbeam"
   hex:"#f5edb2"
@@ -80524,6 +80569,9 @@
 -
   name:"Trout"
   hex:"#4c5356"
+-
+  name:"Trout Caviar"
+  hex:"#f75300"
 -
   name:"True Blonde"
   hex:"#dcc49b"
@@ -86524,6 +86572,9 @@
 -
   name:"Woodward Park"
   hex:"#755f4a"
+-
+  name:"Woody Brown"
+  hex:"#6e2d2b"
 -
   name:"Wooed"
   hex:"#40446c"
