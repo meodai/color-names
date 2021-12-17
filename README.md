@@ -208,7 +208,7 @@ Since there are 16777216 possible RGB colors, you might use a library such as
 
 ```js
 import nearestColor from 'nearest-color';
-import namedColors from 'color-name-list';
+import colorNameList from 'color-name-list';
 
 // nearestColor need objects {name => hex} as input
 const colors = colorNameList.reduce((o, { name, hex }) => Object.assign(o, { [name]: hex }), {});
