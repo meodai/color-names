@@ -2303,9 +2303,6 @@
   name:"Animated Coral"
   hex:"#ed9080"
 -
-  name:"Animation"
-  hex:"#1d5c83"
--
   name:"Anime"
   hex:"#ccc14d"
 -
@@ -9767,6 +9764,9 @@
   name:"Bonjour"
   hex:"#dfd7d2"
 -
+  name:"Bonker Pink"
+  hex:"#f54d79"
+-
   name:"Bonne Nuit"
   hex:"#3a4866"
 -
@@ -12949,6 +12949,9 @@
 -
   name:"Candy Corn"
   hex:"#fcfc5d"
+-
+  name:"Candy Dreams"
+  hex:"#e9aef2"
 -
   name:"Candy Drop"
   hex:"#c25d6a"
@@ -17930,6 +17933,9 @@
   name:"Concrete Jungle"
   hex:"#999988"
 -
+  name:"Concrete Landscape"
+  hex:"#5c606e"
+-
   name:"Concrete Sidewalk"
   hex:"#8d8a81"
 -
@@ -20288,7 +20294,7 @@
   name:"Curry Brown"
   hex:"#845038"
 -
-  name:"Curry Bubbels"
+  name:"Curry Bubbles"
   hex:"#f5b700"
 -
   name:"Curry Powder"
@@ -26074,12 +26080,6 @@
 -
   name:"Eshin Grey"
   hex:"#4a4f52"
--
-  name:"Eskimo"
-  hex:"#55a0b7"
--
-  name:"Eskimo White"
-  hex:"#c2bdc2"
 -
   name:"Esmeralda"
   hex:"#45be76"
@@ -35381,6 +35381,9 @@
   name:"Happy Camper"
   hex:"#6b8350"
 -
+  name:"Happy Cement"
+  hex:"#979ea1"
+-
   name:"Happy Cricket"
   hex:"#72a86a"
 -
@@ -36756,7 +36759,7 @@
   hex:"#bdc9e3"
 -
   name:"Hindu Lotus"
-  hex:"#8e8062"
+  hex:"#ee4d83"
 -
   name:"Hinoki"
   hex:"#f8ddb7"
@@ -36946,6 +36949,9 @@
 -
   name:"Holiday Turquoise"
   hex:"#8ac6bd"
+-
+  name:"Holiday Waffle"
+  hex:"#b78846"
 -
   name:"Holland Red"
   hex:"#cb4543"
@@ -39152,6 +39158,9 @@
   name:"Into the Blue"
   hex:"#4f7ba7"
 -
+  name:"Into the Green"
+  hex:"#0d6c49"
+-
   name:"Into the Night"
   hex:"#1e3642"
 -
@@ -39182,8 +39191,14 @@
   name:"Intuitive"
   hex:"#cfc6bc"
 -
+  name:"Inuit"
+  hex:"#55a0b7"
+-
   name:"Inuit Blue"
   hex:"#d8e4e7"
+-
+  name:"Inuit Ice"
+  hex:"#c2bdc2"
 -
   name:"Inuit White"
   hex:"#d1cdd0"
@@ -46862,6 +46877,9 @@
   name:"Marble Garden"
   hex:"#646255"
 -
+  name:"Marble Grape"
+  hex:"#dee2c7"
+-
   name:"Marble Green"
   hex:"#8f9f97"
 -
@@ -48481,6 +48499,9 @@
 -
   name:"Metropolis Mood"
   hex:"#99a1a5"
+-
+  name:"Metropolitan Silhouette"
+  hex:"#3e4244"
 -
   name:"Metropolitan White"
   hex:"#eeece7"
@@ -51320,6 +51341,9 @@
   name:"Mushroom Cap"
   hex:"#d3beac"
 -
+  name:"Mushroom Forest"
+  hex:"#8e8062"
+-
   name:"Mushroom Risotto"
   hex:"#dbd0ca"
 -
@@ -53722,6 +53746,9 @@
 -
   name:"Oceanic Climate"
   hex:"#bbc8c9"
+-
+  name:"Oceanic Motion"
+  hex:"#1d5c83"
 -
   name:"Oceano"
   hex:"#9ad6e5"
@@ -70130,6 +70157,9 @@
   name:"Sheffield Grey"
   hex:"#6b7680"
 -
+  name:"Sheikh White"
+  hex:"#efecee"
+-
   name:"Sheikh Zayed White"
   hex:"#e6efef"
 -
@@ -71371,6 +71401,9 @@
 -
   name:"Sinopia"
   hex:"#cb410b"
+-
+  name:"Sinsemilla"
+  hex:"#b6bd4a"
 -
   name:"Sip of Mint"
   hex:"#dedfc9"
@@ -74771,6 +74804,9 @@
   name:"Steel Me"
   hex:"#ddd5ce"
 -
+  name:"Steel Mist"
+  hex:"#c6ceda"
+-
   name:"Steel Pan Mallet"
   hex:"#71a6a1"
 -
@@ -75754,6 +75790,9 @@
 -
   name:"Sugar Grape"
   hex:"#9437ff"
+-
+  name:"Sugar High"
+  hex:"#efc9ec"
 -
   name:"Sugar Honey Cashew"
   hex:"#ddaa66"
@@ -84758,6 +84797,9 @@
   name:"Whisper of Rose"
   hex:"#cda2ac"
 -
+  name:"Whisper of Smoke"
+  hex:"#cbcecf"
+-
   name:"Whisper Pink"
   hex:"#dacbbe"
 -
@@ -84957,13 +84999,10 @@
   hex:"#c8d1c4"
 -
   name:"White Grape"
-  hex:"#c6ceda"
+  hex:"#bbcc99"
 -
   name:"White Grapefruit"
   hex:"#fcf0de"
--
-  name:"White Grapes"
-  hex:"#bbcc99"
 -
   name:"White Green"
   hex:"#d6e9ca"
@@ -86623,6 +86662,9 @@
 -
   name:"Work Blue"
   hex:"#004d67"
+-
+  name:"Workbench"
+  hex:"#cda366"
 -
   name:"Workout Green"
   hex:"#bfe6d2"

@@ -3073,10 +3073,6 @@
 <hex>#ed9080</hex>
 </color>
 <color>
-<name>Animation</name>
-<hex>#1d5c83</hex>
-</color>
-<color>
 <name>Anime</name>
 <hex>#ccc14d</hex>
 </color>
@@ -13025,6 +13021,10 @@
 <hex>#dfd7d2</hex>
 </color>
 <color>
+<name>Bonker Pink</name>
+<hex>#f54d79</hex>
+</color>
+<color>
 <name>Bonne Nuit</name>
 <hex>#3a4866</hex>
 </color>
@@ -17267,6 +17267,10 @@
 <color>
 <name>Candy Corn</name>
 <hex>#fcfc5d</hex>
+</color>
+<color>
+<name>Candy Dreams</name>
+<hex>#e9aef2</hex>
 </color>
 <color>
 <name>Candy Drop</name>
@@ -23909,6 +23913,10 @@
 <hex>#999988</hex>
 </color>
 <color>
+<name>Concrete Landscape</name>
+<hex>#5c606e</hex>
+</color>
+<color>
 <name>Concrete Sidewalk</name>
 <hex>#8d8a81</hex>
 </color>
@@ -27053,7 +27061,7 @@
 <hex>#845038</hex>
 </color>
 <color>
-<name>Curry Bubbels</name>
+<name>Curry Bubbles</name>
 <hex>#f5b700</hex>
 </color>
 <color>
@@ -34767,14 +34775,6 @@
 <color>
 <name>Eshin Grey</name>
 <hex>#4a4f52</hex>
-</color>
-<color>
-<name>Eskimo</name>
-<hex>#55a0b7</hex>
-</color>
-<color>
-<name>Eskimo White</name>
-<hex>#c2bdc2</hex>
 </color>
 <color>
 <name>Esmeralda</name>
@@ -47177,6 +47177,10 @@
 <hex>#6b8350</hex>
 </color>
 <color>
+<name>Happy Cement</name>
+<hex>#979ea1</hex>
+</color>
+<color>
 <name>Happy Cricket</name>
 <hex>#72a86a</hex>
 </color>
@@ -49010,7 +49014,7 @@
 </color>
 <color>
 <name>Hindu Lotus</name>
-<hex>#8e8062</hex>
+<hex>#ee4d83</hex>
 </color>
 <color>
 <name>Hinoki</name>
@@ -49263,6 +49267,10 @@
 <color>
 <name>Holiday Turquoise</name>
 <hex>#8ac6bd</hex>
+</color>
+<color>
+<name>Holiday Waffle</name>
+<hex>#b78846</hex>
 </color>
 <color>
 <name>Holland Red</name>
@@ -52205,6 +52213,10 @@
 <hex>#4f7ba7</hex>
 </color>
 <color>
+<name>Into the Green</name>
+<hex>#0d6c49</hex>
+</color>
+<color>
 <name>Into the Night</name>
 <hex>#1e3642</hex>
 </color>
@@ -52245,8 +52257,16 @@
 <hex>#cfc6bc</hex>
 </color>
 <color>
+<name>Inuit</name>
+<hex>#55a0b7</hex>
+</color>
+<color>
 <name>Inuit Blue</name>
 <hex>#d8e4e7</hex>
+</color>
+<color>
+<name>Inuit Ice</name>
+<hex>#c2bdc2</hex>
 </color>
 <color>
 <name>Inuit White</name>
@@ -62485,6 +62505,10 @@
 <hex>#646255</hex>
 </color>
 <color>
+<name>Marble Grape</name>
+<hex>#dee2c7</hex>
+</color>
+<color>
 <name>Marble Green</name>
 <hex>#8f9f97</hex>
 </color>
@@ -64643,6 +64667,10 @@
 <color>
 <name>Metropolis Mood</name>
 <hex>#99a1a5</hex>
+</color>
+<color>
+<name>Metropolitan Silhouette</name>
+<hex>#3e4244</hex>
 </color>
 <color>
 <name>Metropolitan White</name>
@@ -68429,6 +68457,10 @@
 <hex>#d3beac</hex>
 </color>
 <color>
+<name>Mushroom Forest</name>
+<hex>#8e8062</hex>
+</color>
+<color>
 <name>Mushroom Risotto</name>
 <hex>#dbd0ca</hex>
 </color>
@@ -71631,6 +71663,10 @@
 <color>
 <name>Oceanic Climate</name>
 <hex>#bbc8c9</hex>
+</color>
+<color>
+<name>Oceanic Motion</name>
+<hex>#1d5c83</hex>
 </color>
 <color>
 <name>Oceano</name>
@@ -93509,6 +93545,10 @@
 <hex>#6b7680</hex>
 </color>
 <color>
+<name>Sheikh White</name>
+<hex>#efecee</hex>
+</color>
+<color>
 <name>Sheikh Zayed White</name>
 <hex>#e6efef</hex>
 </color>
@@ -95163,6 +95203,10 @@
 <color>
 <name>Sinopia</name>
 <hex>#cb410b</hex>
+</color>
+<color>
+<name>Sinsemilla</name>
+<hex>#b6bd4a</hex>
 </color>
 <color>
 <name>Sip of Mint</name>
@@ -99697,6 +99741,10 @@
 <hex>#ddd5ce</hex>
 </color>
 <color>
+<name>Steel Mist</name>
+<hex>#c6ceda</hex>
+</color>
+<color>
 <name>Steel Pan Mallet</name>
 <hex>#71a6a1</hex>
 </color>
@@ -101007,6 +101055,10 @@
 <color>
 <name>Sugar Grape</name>
 <hex>#9437ff</hex>
+</color>
+<color>
+<name>Sugar High</name>
+<hex>#efc9ec</hex>
 </color>
 <color>
 <name>Sugar Honey Cashew</name>
@@ -113013,6 +113065,10 @@
 <hex>#cda2ac</hex>
 </color>
 <color>
+<name>Whisper of Smoke</name>
+<hex>#cbcecf</hex>
+</color>
+<color>
 <name>Whisper Pink</name>
 <hex>#dacbbe</hex>
 </color>
@@ -113278,15 +113334,11 @@
 </color>
 <color>
 <name>White Grape</name>
-<hex>#c6ceda</hex>
+<hex>#bbcc99</hex>
 </color>
 <color>
 <name>White Grapefruit</name>
 <hex>#fcf0de</hex>
-</color>
-<color>
-<name>White Grapes</name>
-<hex>#bbcc99</hex>
 </color>
 <color>
 <name>White Green</name>
@@ -115499,6 +115551,10 @@
 <color>
 <name>Work Blue</name>
 <hex>#004d67</hex>
+</color>
+<color>
+<name>Workbench</name>
+<hex>#cda366</hex>
 </color>
 <color>
 <name>Workout Green</name>
