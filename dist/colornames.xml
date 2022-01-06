@@ -721,10 +721,6 @@
 <hex>#78a3c2</hex>
 </color>
 <color>
-<name>African Ambush</name>
-<hex>#8e603c</hex>
-</color>
-<color>
 <name>African Bubinga</name>
 <hex>#c7927a</hex>
 </color>
@@ -975,10 +971,6 @@
 <color>
 <name>Ageless Beauty</name>
 <hex>#e7a995</hex>
-</color>
-<color>
-<name>Agent Orange</name>
-<hex>#ee6633</hex>
 </color>
 <color>
 <name>Aggressive Baby Blue</name>
@@ -9845,6 +9837,10 @@
 <hex>#fea051</hex>
 </color>
 <color>
+<name>Bittersweet Chocolate</name>
+<hex>#4f2b17</hex>
+</color>
+<color>
 <name>Bittersweet Shimmer</name>
 <hex>#bf4f51</hex>
 </color>
@@ -12835,6 +12831,10 @@
 <color>
 <name>Boho</name>
 <hex>#7b684d</hex>
+</color>
+<color>
+<name>Boho Copper</name>
+<hex>#b96033</hex>
 </color>
 <color>
 <name>Boiling Acid</name>
@@ -21017,10 +21017,6 @@
 <hex>#e2e5de</hex>
 </color>
 <color>
-<name>Chinese Yellow</name>
-<hex>#ffb200</hex>
-</color>
-<color>
 <name>Chino</name>
 <hex>#b8ad8a</hex>
 </color>
@@ -21327,6 +21323,10 @@
 <color>
 <name>Chocolate Ripple</name>
 <hex>#76604e</hex>
+</color>
+<color>
+<name>Chocolate Rush</name>
+<hex>#4e1b0b</hex>
 </color>
 <color>
 <name>Chocolate Soul</name>
@@ -36797,6 +36797,10 @@
 <hex>#8b8757</hex>
 </color>
 <color>
+<name>Fertile Soil</name>
+<hex>#8e603c</hex>
+</color>
+<color>
 <name>Fertility Green</name>
 <hex>#66fc00</hex>
 </color>
@@ -36837,6 +36841,10 @@
 <hex>#de5e3f</hex>
 </color>
 <color>
+<name>Festive Bordeaux</name>
+<hex>#6e0f12</hex>
+</color>
+<color>
 <name>Festive Fennec</name>
 <hex>#ff5566</hex>
 </color>
@@ -36875,6 +36883,10 @@
 <color>
 <name>Feverish Pink</name>
 <hex>#cb3e50</hex>
+</color>
+<color>
+<name>Ffiery Topaz</name>
+<hex>#b74537</hex>
 </color>
 <color>
 <name>Fibonacci Blue</name>
@@ -37739,6 +37751,10 @@
 <color>
 <name>Flaming June</name>
 <hex>#eebb66</hex>
+</color>
+<color>
+<name>Flaming Orange</name>
+<hex>#ee6633</hex>
 </color>
 <color>
 <name>Flaming Torch</name>
@@ -50561,6 +50577,10 @@
 <hex>#73e608</hex>
 </color>
 <color>
+<name>Hypnotic Red</name>
+<hex>#cf0d14</hex>
+</color>
+<color>
 <name>Hypnotic Sea</name>
 <hex>#00787f</hex>
 </color>
@@ -51101,6 +51121,10 @@
 <hex>#c9e5eb</hex>
 </color>
 <color>
+<name>Igniting</name>
+<hex>#f4d69a</hex>
+</color>
+<color>
 <name>Iguaçuense Waterfall</name>
 <hex>#2e776d</hex>
 </color>
@@ -51299,6 +51323,10 @@
 <color>
 <name>Imperial Red</name>
 <hex>#ec2938</hex>
+</color>
+<color>
+<name>Imperial Yellow</name>
+<hex>#ffb200</hex>
 </color>
 <color>
 <name>Impetuous</name>
@@ -51709,7 +51737,7 @@
 <hex>#9c5b34</hex>
 </color>
 <color>
-<name>Indocile Indochine</name>
+<name>Indocile Tiger</name>
 <hex>#b96b00</hex>
 </color>
 <color>
@@ -93065,6 +93093,10 @@
 <hex>#be2bdf</hex>
 </color>
 <color>
+<name>Shades of Ruby</name>
+<hex>#9c0009</hex>
+</color>
+<color>
 <name>Shades On</name>
 <hex>#605f5f</hex>
 </color>
@@ -94961,6 +94993,10 @@
 <hex>#67be90</hex>
 </color>
 <color>
+<name>Silver Whiskers</name>
+<hex>#bbc5c4</hex>
+</color>
+<color>
 <name>Silver Willow Green</name>
 <hex>#637c5b</hex>
 </color>
@@ -96231,6 +96267,10 @@
 <color>
 <name>Smoothie Green</name>
 <hex>#988e01</hex>
+</color>
+<color>
+<name>Smouldering Red</name>
+<hex>#ca3434</hex>
 </color>
 <color>
 <name>Smudged Lips</name>
@@ -100433,7 +100473,7 @@
 <hex>#ffebfa</hex>
 </color>
 <color>
-<name>Strawberry Buttercream Frosting</name>
+<name>Strawberry Buttercream</name>
 <hex>#f8b3ff</hex>
 </color>
 <color>
@@ -114003,6 +114043,10 @@
 <color>
 <name>Wild Truffle</name>
 <hex>#463f3c</hex>
+</color>
+<color>
+<name>Wild Violet</name>
+<hex>#63209b</hex>
 </color>
 <color>
 <name>Wild Watermelon</name>

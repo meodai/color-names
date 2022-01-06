@@ -179,7 +179,6 @@ Afghan Carpet,#905e26
 Afghan Hound,#e2d7b5
 Afghan Sand,#d3a95c
 Afloat,#78a3c2
-African Ambush,#8e603c
 African Bubinga,#c7927a
 African Grey,#939899
 African Mahogany,#cd4a4a
@@ -243,7 +242,6 @@ Aged White,#e8decd
 Aged Wine,#895460
 Ageless,#ececdf
 Ageless Beauty,#e7a995
-Agent Orange,#ee6633
 Aggressive Baby Blue,#6fffff
 Aggressive Salmon,#ff7799
 Aging Barrel,#6a5b4e
@@ -2460,6 +2458,7 @@ Bitter Orange,#d5762b
 Bitter Sage,#97a18d
 Bitter Violet,#856d9e
 Bittersweet,#fea051
+Bittersweet Chocolate,#4f2b17
 Bittersweet Shimmer,#bf4f51
 Bittersweet Stem,#cbb49a
 Bizarre,#e7d2c8
@@ -3208,6 +3207,7 @@ Bohemian Blue,#0000aa
 Bohemian Jazz,#9d777c
 Bohemianism,#b8b3c8
 Boho,#7b684d
+Boho Copper,#b96033
 Boiling Acid,#00ee11
 Boiling Magma,#ff3300
 Boiling Mud,#a59c9b
@@ -5253,7 +5253,6 @@ Chinese Tea Green,#acad98
 Chinese Tzu,#8fbfbd
 Chinese Violet,#835e81
 Chinese White,#e2e5de
-Chinese Yellow,#ffb200
 Chino,#b8ad8a
 Chino Green,#d9caa5
 Chino’s,#dbd2bb
@@ -5331,6 +5330,7 @@ Chocolate Pudding,#6f6665
 Chocolate Rain,#714f29
 Chocolate Red,#4d3635
 Chocolate Ripple,#76604e
+Chocolate Rush,#4e1b0b
 Chocolate Soul,#5c4945
 Chocolate Sparkle,#8c6c6f
 Chocolate Sprinkle,#6f4e43
@@ -9198,6 +9198,7 @@ Ferris Wheel,#ad7d76
 Ferrous,#cc926c
 Ferry,#383e44
 Fertile Green,#8b8757
+Fertile Soil,#8e603c
 Fertility Green,#66fc00
 Fervent Brass,#bc9042
 Fervent Green,#469f4e
@@ -9208,6 +9209,7 @@ Festival De Verano,#b5e1db
 Festival Fuchsia,#9e2c6a
 Festival Green,#6ea43c
 Festival Orange,#de5e3f
+Festive Bordeaux,#6e0f12
 Festive Fennec,#ff5566
 Festive Ferret,#dfdfe5
 Festive Green,#008c6c
@@ -9218,6 +9220,7 @@ Fever Dream,#dd5577
 Feverish,#dd6677
 Feverish Passion,#de4d7b
 Feverish Pink,#cb3e50
+Ffiery Topaz,#b74537
 Fibonacci Blue,#112358
 Fibre Moss,#bec0af
 Ficus,#3b593a
@@ -9434,6 +9437,7 @@ Flaming Cauldron,#f6a374
 Flaming Flamingo,#dd55ff
 Flaming Hot Flamingoes,#ff005d
 Flaming June,#eebb66
+Flaming Orange,#ee6633
 Flaming Torch,#d2864e
 Flamingo,#e1634f
 Flamingo Diva,#ff44dd
@@ -12639,6 +12643,7 @@ Hyper Pink,#ec006c
 Hyperpop Green,#17f9a6
 Hypnotic,#687783
 Hypnotic Green,#73e608
+Hypnotic Red,#cf0d14
 Hypnotic Sea,#00787f
 Hypnotism,#32584c
 Hypothalamus Grey,#415d66
@@ -12774,6 +12779,7 @@ Idyllic Pink,#c89eb7
 If I Could Fly,#6d68ed
 Igloo,#fdfcfa
 Igloo Blue,#c9e5eb
+Igniting,#f4d69a
 Iguaçuense Waterfall,#2e776d
 Iguana,#818455
 Iguana Green,#71bc77
@@ -12824,6 +12830,7 @@ Imperial Palm,#596458
 Imperial Primer,#21303e
 Imperial Purple,#542c5d
 Imperial Red,#ec2938
+Imperial Yellow,#ffb200
 Impetuous,#e4d68c
 Impression of Obscurity,#1a2578
 Impressionist Blue,#a7cac9
@@ -12926,7 +12933,7 @@ Indiscreet,#ac3b3b
 Individual White,#d4cdca
 Indiviolet Sunset,#6611aa
 Indochine,#9c5b34
-Indocile Indochine,#b96b00
+Indocile Tiger,#b96b00
 Indolence,#a29dad
 Indonesian Jungle,#008c69
 Indonesian Rattan,#d1b272
@@ -23265,6 +23272,7 @@ Shaded Spruce,#00585e
 Shaded Sun,#f3eba5
 Shaded Willow,#8ab18a
 Shades of Rhodonite,#be2bdf
+Shades of Ruby,#9c0009
 Shades On,#605f5f
 Shadow,#837050
 Shadow Azalea Pink,#e96a97
@@ -23739,6 +23747,7 @@ Silver Tinsel,#b6b3a9
 Silver Tipped Sage,#bfc2bf
 Silver Tradition,#d9d9d3
 Silver Tree,#67be90
+Silver Whiskers,#bbc5c4
 Silver Willow Green,#637c5b
 Silverado,#6a6472
 Silverado Ranch,#a7a89b
@@ -24057,6 +24066,7 @@ Smooth Silk,#f6ead2
 Smooth Stone,#bcb6b3
 Smooth-Hound Shark,#97b2b1
 Smoothie Green,#988e01
+Smouldering Red,#ca3434
 Smudged Lips,#ee4466
 Snail Trail Silver,#e9eeeb
 Snake Eyes,#e9cb4c
@@ -25107,7 +25117,7 @@ Straw Yellow,#f0d696
 Strawberry,#fb2943
 Strawberry Blonde,#ffdadc
 Strawberry Bonbon,#ffebfa
-Strawberry Buttercream Frosting,#f8b3ff
+Strawberry Buttercream,#f8b3ff
 Strawberry Confection,#f4bfc6
 Strawberry Cough,#990011
 Strawberry Cream,#f4c3c4
@@ -28500,6 +28510,7 @@ Wild Thing,#654243
 Wild Thistle,#9e9fb6
 Wild Thyme,#7e9c6f
 Wild Truffle,#463f3c
+Wild Violet,#63209b
 Wild Watermelon,#fc6d84
 Wild West,#7e5c52
 Wild Wheat,#e0e1d1

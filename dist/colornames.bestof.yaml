@@ -62,9 +62,6 @@
   name:"Aged Antics"
   hex:"#886b2e"
 -
-  name:"Agent Orange"
-  hex:"#ee6633"
--
   name:"Agressive Aqua"
   hex:"#00fbff"
 -
@@ -947,6 +944,9 @@
   name:"Bohemian Blue"
   hex:"#0000aa"
 -
+  name:"Boho Copper"
+  hex:"#b96033"
+-
   name:"Boiling Magma"
   hex:"#ff3300"
 -
@@ -1187,6 +1187,9 @@
   name:"Burning Flame"
   hex:"#ffb162"
 -
+  name:"Burning Orange"
+  hex:"#ff7124"
+-
   name:"Burning Raspberry"
   hex:"#ff0599"
 -
@@ -1225,6 +1228,9 @@
 -
   name:"Butterbeer"
   hex:"#af7934"
+-
+  name:"Buttercream"
+  hex:"#efe0cd"
 -
   name:"Buttermelon"
   hex:"#fff7db"
@@ -1771,6 +1777,9 @@
 -
   name:"Chocolate Rain"
   hex:"#714f29"
+-
+  name:"Chocolate Rush"
+  hex:"#4e1b0b"
 -
   name:"Chocolate Temptation"
   hex:"#956e5f"
@@ -3278,6 +3287,9 @@
   name:"Fertility Green"
   hex:"#66fc00"
 -
+  name:"Festive Bordeaux"
+  hex:"#6e0f12"
+-
   name:"Festive Ferret"
   hex:"#dfdfe5"
 -
@@ -3418,6 +3430,9 @@
 -
   name:"Flaming June"
   hex:"#eebb66"
+-
+  name:"Flaming Orange"
+  hex:"#ee6633"
 -
   name:"Flamingo Queen"
   hex:"#cc33ff"
@@ -3712,6 +3727,9 @@
 -
   name:"Frozen Wave"
   hex:"#56acca"
+-
+  name:"Fruit Of Passion"
+  hex:"#946985"
 -
   name:"Fruity Licious"
   hex:"#f69092"
@@ -4970,6 +4988,9 @@
   name:"Hypnotic Green"
   hex:"#73e608"
 -
+  name:"Hypnotic Red"
+  hex:"#cf0d14"
+-
   name:"I Love You Pink"
   hex:"#d97d8f"
 -
@@ -5018,6 +5039,9 @@
   name:"Icy Plains"
   hex:"#cfdafb"
 -
+  name:"Igniting"
+  hex:"#f4d69a"
+-
   name:"Iguana"
   hex:"#818455"
 -
@@ -5050,6 +5074,9 @@
 -
   name:"Imperial Red"
   hex:"#ec2938"
+-
+  name:"Imperial Yellow"
+  hex:"#ffb200"
 -
   name:"In A Pickle"
   hex:"#978c59"
@@ -5111,6 +5138,9 @@
   name:"Indochine"
   hex:"#9c5b34"
 -
+  name:"Indocile Tiger"
+  hex:"#b96b00"
+-
   name:"Infectious Love"
   hex:"#bb1177"
 -
@@ -5164,6 +5194,9 @@
 -
   name:"Intergalactic Highway"
   hex:"#273287"
+-
+  name:"International Klein Blue"
+  hex:"#002fa6"
 -
   name:"Interstellar Blue"
   hex:"#001155"
@@ -9395,6 +9428,9 @@
   name:"Seven Seas"
   hex:"#4a5c6a"
 -
+  name:"Shades of Ruby"
+  hex:"#9c0009"
+-
   name:"Shadow of Night"
   hex:"#2a4f61"
 -
@@ -9679,6 +9715,9 @@
 -
   name:"Smooch Rouge"
   hex:"#d13d4b"
+-
+  name:"Smouldering Red"
+  hex:"#ca3434"
 -
   name:"Snake Fruit"
   hex:"#db2217"
@@ -9982,6 +10021,9 @@
 -
   name:"Strawberry Bonbon"
   hex:"#ffebfa"
+-
+  name:"Strawberry Buttercream"
+  hex:"#f8b3ff"
 -
   name:"Strawberry Dreams"
   hex:"#ff88aa"
@@ -10868,6 +10910,9 @@
   name:"Violet Velvet"
   hex:"#b19cd9"
 -
+  name:"Violet Vision"
+  hex:"#b7bdd1"
+-
   name:"Violet Vixen"
   hex:"#883377"
 -
@@ -11221,6 +11266,9 @@
 -
   name:"Wild Rice"
   hex:"#d5bfb4"
+-
+  name:"Wild Violet"
+  hex:"#63209b"
 -
   name:"Wild West"
   hex:"#7e5c52"

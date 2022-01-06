@@ -85,10 +85,6 @@
 <hex>#886b2e</hex>
 </color>
 <color>
-<name>Agent Orange</name>
-<hex>#ee6633</hex>
-</color>
-<color>
 <name>Agressive Aqua</name>
 <hex>#00fbff</hex>
 </color>
@@ -1265,6 +1261,10 @@
 <hex>#0000aa</hex>
 </color>
 <color>
+<name>Boho Copper</name>
+<hex>#b96033</hex>
+</color>
+<color>
 <name>Boiling Magma</name>
 <hex>#ff3300</hex>
 </color>
@@ -1585,6 +1585,10 @@
 <hex>#ffb162</hex>
 </color>
 <color>
+<name>Burning Orange</name>
+<hex>#ff7124</hex>
+</color>
+<color>
 <name>Burning Raspberry</name>
 <hex>#ff0599</hex>
 </color>
@@ -1635,6 +1639,10 @@
 <color>
 <name>Butterbeer</name>
 <hex>#af7934</hex>
+</color>
+<color>
+<name>Buttercream</name>
+<hex>#efe0cd</hex>
 </color>
 <color>
 <name>Buttermelon</name>
@@ -2363,6 +2371,10 @@
 <color>
 <name>Chocolate Rain</name>
 <hex>#714f29</hex>
+</color>
+<color>
+<name>Chocolate Rush</name>
+<hex>#4e1b0b</hex>
 </color>
 <color>
 <name>Chocolate Temptation</name>
@@ -4373,6 +4385,10 @@
 <hex>#66fc00</hex>
 </color>
 <color>
+<name>Festive Bordeaux</name>
+<hex>#6e0f12</hex>
+</color>
+<color>
 <name>Festive Ferret</name>
 <hex>#dfdfe5</hex>
 </color>
@@ -4559,6 +4575,10 @@
 <color>
 <name>Flaming June</name>
 <hex>#eebb66</hex>
+</color>
+<color>
+<name>Flaming Orange</name>
+<hex>#ee6633</hex>
 </color>
 <color>
 <name>Flamingo Queen</name>
@@ -4951,6 +4971,10 @@
 <color>
 <name>Frozen Wave</name>
 <hex>#56acca</hex>
+</color>
+<color>
+<name>Fruit Of Passion</name>
+<hex>#946985</hex>
 </color>
 <color>
 <name>Fruity Licious</name>
@@ -6629,6 +6653,10 @@
 <hex>#73e608</hex>
 </color>
 <color>
+<name>Hypnotic Red</name>
+<hex>#cf0d14</hex>
+</color>
+<color>
 <name>I Love You Pink</name>
 <hex>#d97d8f</hex>
 </color>
@@ -6693,6 +6721,10 @@
 <hex>#cfdafb</hex>
 </color>
 <color>
+<name>Igniting</name>
+<hex>#f4d69a</hex>
+</color>
+<color>
 <name>Iguana</name>
 <hex>#818455</hex>
 </color>
@@ -6735,6 +6767,10 @@
 <color>
 <name>Imperial Red</name>
 <hex>#ec2938</hex>
+</color>
+<color>
+<name>Imperial Yellow</name>
+<hex>#ffb200</hex>
 </color>
 <color>
 <name>In A Pickle</name>
@@ -6817,6 +6853,10 @@
 <hex>#9c5b34</hex>
 </color>
 <color>
+<name>Indocile Tiger</name>
+<hex>#b96b00</hex>
+</color>
+<color>
 <name>Infectious Love</name>
 <hex>#bb1177</hex>
 </color>
@@ -6887,6 +6927,10 @@
 <color>
 <name>Intergalactic Highway</name>
 <hex>#273287</hex>
+</color>
+<color>
+<name>International Klein Blue</name>
+<hex>#002fa6</hex>
 </color>
 <color>
 <name>Interstellar Blue</name>
@@ -12529,6 +12573,10 @@
 <hex>#4a5c6a</hex>
 </color>
 <color>
+<name>Shades of Ruby</name>
+<hex>#9c0009</hex>
+</color>
+<color>
 <name>Shadow of Night</name>
 <hex>#2a4f61</hex>
 </color>
@@ -12907,6 +12955,10 @@
 <color>
 <name>Smooch Rouge</name>
 <hex>#d13d4b</hex>
+</color>
+<color>
+<name>Smouldering Red</name>
+<hex>#ca3434</hex>
 </color>
 <color>
 <name>Snake Fruit</name>
@@ -13311,6 +13363,10 @@
 <color>
 <name>Strawberry Bonbon</name>
 <hex>#ffebfa</hex>
+</color>
+<color>
+<name>Strawberry Buttercream</name>
+<hex>#f8b3ff</hex>
 </color>
 <color>
 <name>Strawberry Dreams</name>
@@ -14493,6 +14549,10 @@
 <hex>#b19cd9</hex>
 </color>
 <color>
+<name>Violet Vision</name>
+<hex>#b7bdd1</hex>
+</color>
+<color>
 <name>Violet Vixen</name>
 <hex>#883377</hex>
 </color>
@@ -14963,6 +15023,10 @@
 <color>
 <name>Wild Rice</name>
 <hex>#d5bfb4</hex>
+</color>
+<color>
+<name>Wild Violet</name>
+<hex>#63209b</hex>
 </color>
 <color>
 <name>Wild West</name>

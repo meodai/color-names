@@ -539,9 +539,6 @@
   name:"Afloat"
   hex:"#78a3c2"
 -
-  name:"African Ambush"
-  hex:"#8e603c"
--
   name:"African Bubinga"
   hex:"#c7927a"
 -
@@ -730,9 +727,6 @@
 -
   name:"Ageless Beauty"
   hex:"#e7a995"
--
-  name:"Agent Orange"
-  hex:"#ee6633"
 -
   name:"Aggressive Baby Blue"
   hex:"#6fffff"
@@ -7382,6 +7376,9 @@
   name:"Bittersweet"
   hex:"#fea051"
 -
+  name:"Bittersweet Chocolate"
+  hex:"#4f2b17"
+-
   name:"Bittersweet Shimmer"
   hex:"#bf4f51"
 -
@@ -9625,6 +9622,9 @@
 -
   name:"Boho"
   hex:"#7b684d"
+-
+  name:"Boho Copper"
+  hex:"#b96033"
 -
   name:"Boiling Acid"
   hex:"#00ee11"
@@ -15761,9 +15761,6 @@
   name:"Chinese White"
   hex:"#e2e5de"
 -
-  name:"Chinese Yellow"
-  hex:"#ffb200"
--
   name:"Chino"
   hex:"#b8ad8a"
 -
@@ -15994,6 +15991,9 @@
 -
   name:"Chocolate Ripple"
   hex:"#76604e"
+-
+  name:"Chocolate Rush"
+  hex:"#4e1b0b"
 -
   name:"Chocolate Soul"
   hex:"#5c4945"
@@ -27596,6 +27596,9 @@
   name:"Fertile Green"
   hex:"#8b8757"
 -
+  name:"Fertile Soil"
+  hex:"#8e603c"
+-
   name:"Fertility Green"
   hex:"#66fc00"
 -
@@ -27626,6 +27629,9 @@
   name:"Festival Orange"
   hex:"#de5e3f"
 -
+  name:"Festive Bordeaux"
+  hex:"#6e0f12"
+-
   name:"Festive Fennec"
   hex:"#ff5566"
 -
@@ -27655,6 +27661,9 @@
 -
   name:"Feverish Pink"
   hex:"#cb3e50"
+-
+  name:"Ffiery Topaz"
+  hex:"#b74537"
 -
   name:"Fibonacci Blue"
   hex:"#112358"
@@ -28303,6 +28312,9 @@
 -
   name:"Flaming June"
   hex:"#eebb66"
+-
+  name:"Flaming Orange"
+  hex:"#ee6633"
 -
   name:"Flaming Torch"
   hex:"#d2864e"
@@ -37919,6 +37931,9 @@
   name:"Hypnotic Green"
   hex:"#73e608"
 -
+  name:"Hypnotic Red"
+  hex:"#cf0d14"
+-
   name:"Hypnotic Sea"
   hex:"#00787f"
 -
@@ -38324,6 +38339,9 @@
   name:"Igloo Blue"
   hex:"#c9e5eb"
 -
+  name:"Igniting"
+  hex:"#f4d69a"
+-
   name:"Iguaçuense Waterfall"
   hex:"#2e776d"
 -
@@ -38473,6 +38491,9 @@
 -
   name:"Imperial Red"
   hex:"#ec2938"
+-
+  name:"Imperial Yellow"
+  hex:"#ffb200"
 -
   name:"Impetuous"
   hex:"#e4d68c"
@@ -38780,7 +38801,7 @@
   name:"Indochine"
   hex:"#9c5b34"
 -
-  name:"Indocile Indochine"
+  name:"Indocile Tiger"
   hex:"#b96b00"
 -
   name:"Indolence"
@@ -69797,6 +69818,9 @@
   name:"Shades of Rhodonite"
   hex:"#be2bdf"
 -
+  name:"Shades of Ruby"
+  hex:"#9c0009"
+-
   name:"Shades On"
   hex:"#605f5f"
 -
@@ -71219,6 +71243,9 @@
   name:"Silver Tree"
   hex:"#67be90"
 -
+  name:"Silver Whiskers"
+  hex:"#bbc5c4"
+-
   name:"Silver Willow Green"
   hex:"#637c5b"
 -
@@ -72172,6 +72199,9 @@
 -
   name:"Smoothie Green"
   hex:"#988e01"
+-
+  name:"Smouldering Red"
+  hex:"#ca3434"
 -
   name:"Smudged Lips"
   hex:"#ee4466"
@@ -75323,7 +75353,7 @@
   name:"Strawberry Bonbon"
   hex:"#ffebfa"
 -
-  name:"Strawberry Buttercream Frosting"
+  name:"Strawberry Buttercream"
   hex:"#f8b3ff"
 -
   name:"Strawberry Confection"
@@ -85501,6 +85531,9 @@
 -
   name:"Wild Truffle"
   hex:"#463f3c"
+-
+  name:"Wild Violet"
+  hex:"#63209b"
 -
   name:"Wild Watermelon"
   hex:"#fc6d84"
