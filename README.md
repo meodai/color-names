@@ -187,6 +187,12 @@ to your request URL to get a handpicked subset of names that were rated as good
 by humans. (Colors that are liked a lot on [twitter](https://twitter.com/color_parrot)
 and some of the team favourites).
 
+#### API Disclamer
+
+The API is free to use and has no limitations. But if your app/site is commercial and causes excessive of traffic, 
+I might contact you to become a sponsor. Feel free to deploy it your-self, its very easy to host/deploy on heroku and has no dependencies: 
+https://github.com/meodai/color-names/blob/master/scripts/server.js 
+
 ### Usage JS ⌨
 
 #### Exact Color
