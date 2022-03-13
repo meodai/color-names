@@ -6,9 +6,9 @@
 [![GitHub release](https://img.shields.io/github/release/meodai/color-names.svg)](https://github.com/meodai/color-names/)
 [![npm version](https://img.shields.io/npm/v/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
 [![npm](https://img.shields.io/npm/dt/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
-[![name count](https://img.shields.io/badge/__29231__-names-orange.svg)](https://github.com/meodai/color-names/blob/master/src/colornames.csv)
+[![name count](https://img.shields.io/badge/__29340__-names-orange.svg)](https://github.com/meodai/color-names/blob/master/src/colornames.csv)
 
-A handpicked list of __29231__ unique color names from
+A handpicked list of __29340__ unique color names from
 [various sources](#sources-) and thousands of curated user submissions.
 
 > The names of color function like a thread attached to a frightfully slender
@@ -53,7 +53,7 @@ __[via form 🌈](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qh
 
 Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute!
 
-## Color Count: __29231__ 🎉
+## Color Count: __29340__ 🎉
 
 ~__0.17%__ of the RGB color space
 
@@ -252,6 +252,7 @@ See [package.json](package.json#L6) for more.
   / [Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform)
   / [Github](#contributors-)
 - [Wikipedia list of named colors] (2018-02-23)
+- [Wada Sanzo's list of named colors]
 - [CSS/HTML color names]
 - [Werner’s Nomenclature of Colours]
 - [ntc.js]
@@ -422,6 +423,7 @@ they will be removed as quickly as possible.
 [OSX Crayons]: http://www.randomactsofsentience.com/2013/06/os-x-crayon-color-hex-table.html
 [Thailand weekday colors]: https://en.wikipedia.org/wiki/Colors_of_the_day_in_Thailand
 [Wikipedia list of named colors]: https://en.wikipedia.org/wiki/List_of_colors:_A%E2%80%93F
+[Wada Sanzo's list of named colors]: https://sanzo-wada.dmbk.io/
 [xkcd color survey list]: https://blog.xkcd.com/2010/05/03/color-survey-results/
 
 <!-- Sources: Color -->
