@@ -37049,10 +37049,6 @@
 <hex>#006131</hex>
 </color>
 <color>
-<name>Fiddle Leaf</name>
-<hex>#5f674b</hex>
-</color>
-<color>
 <name>Fiddle-Leaf Fig</name>
 <hex>#a6c875</hex>
 </color>
@@ -40969,10 +40965,6 @@
 <hex>#b56e91</hex>
 </color>
 <color>
-<name>Fuscous Gray</name>
-<hex>#4f4e4a</hex>
-</color>
-<color>
 <name>Fuscous Grey</name>
 <hex>#54534d</hex>
 </color>
@@ -44845,18 +44837,6 @@
 <hex>#ec834f</hex>
 </color>
 <color>
-<name>Gray Agate</name>
-<hex>#a8b1c0</hex>
-</color>
-<color>
-<name>Gray Ashlar</name>
-<hex>#c4c5ba</hex>
-</color>
-<color>
-<name>Gray Tweed</name>
-<hex>#b0bab5</hex>
-</color>
-<color>
 <name>Grayve-Yard</name>
 <hex>#a1a19f</hex>
 </color>
@@ -46125,6 +46105,10 @@
 <hex>#808080</hex>
 </color>
 <color>
+<name>Grey Agate</name>
+<hex>#a8b1c0</hex>
+</color>
+<color>
 <name>Grey Aqua</name>
 <hex>#88b69f</hex>
 </color>
@@ -46134,7 +46118,7 @@
 </color>
 <color>
 <name>Grey Ashlar</name>
-<hex>#cabab1</hex>
+<hex>#c4c5ba</hex>
 </color>
 <color>
 <name>Grey Asparagus</name>
@@ -46407,6 +46391,10 @@
 <color>
 <name>Grey Tote</name>
 <hex>#81807d</hex>
+</color>
+<color>
+<name>Grey Tweed</name>
+<hex>#b0bab5</hex>
 </color>
 <color>
 <name>Grey Violet</name>
@@ -67049,6 +67037,10 @@
 <hex>#7a7679</hex>
 </color>
 <color>
+<name>Monstera</name>
+<hex>#5f674b</hex>
+</color>
+<color>
 <name>Monstera Deliciosa</name>
 <hex>#75bf0a</hex>
 </color>
@@ -69235,6 +69227,10 @@
 <color>
 <name>Naked Light</name>
 <hex>#e9b6c1</hex>
+</color>
+<color>
+<name>Naked Noodle</name>
+<hex>#f7cb6e</hex>
 </color>
 <color>
 <name>Naked Pink</name>
@@ -96605,6 +96601,10 @@
 <hex>#5d4e4c</hex>
 </color>
 <color>
+<name>Smooth Pebbles</name>
+<hex>#cabab1</hex>
+</color>
+<color>
 <name>Smooth Satin</name>
 <hex>#a2d5d3</hex>
 </color>
@@ -100413,7 +100413,7 @@
 <hex>#888c90</hex>
 </color>
 <color>
-<name>Stone Cold Gray</name>
+<name>Stone Cold</name>
 <hex>#555555</hex>
 </color>
 <color>
@@ -101275,6 +101275,10 @@
 <color>
 <name>Subpoena</name>
 <hex>#d8ccc6</hex>
+</color>
+<color>
+<name>Subterrain Kingdom</name>
+<hex>#4f4e4a</hex>
 </color>
 <color>
 <name>Subterranean</name>

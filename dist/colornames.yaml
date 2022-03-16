@@ -27785,9 +27785,6 @@
   name:"Ficus Elastica"
   hex:"#006131"
 -
-  name:"Fiddle Leaf"
-  hex:"#5f674b"
--
   name:"Fiddle-Leaf Fig"
   hex:"#a6c875"
 -
@@ -30725,9 +30722,6 @@
   name:"Fuscia Fizz"
   hex:"#b56e91"
 -
-  name:"Fuscous Gray"
-  hex:"#4f4e4a"
--
   name:"Fuscous Grey"
   hex:"#54534d"
 -
@@ -33632,15 +33626,6 @@
   name:"Gravlax"
   hex:"#ec834f"
 -
-  name:"Gray Agate"
-  hex:"#a8b1c0"
--
-  name:"Gray Ashlar"
-  hex:"#c4c5ba"
--
-  name:"Gray Tweed"
-  hex:"#b0bab5"
--
   name:"Grayve-Yard"
   hex:"#a1a19f"
 -
@@ -34592,6 +34577,9 @@
   name:"Grey"
   hex:"#808080"
 -
+  name:"Grey Agate"
+  hex:"#a8b1c0"
+-
   name:"Grey Aqua"
   hex:"#88b69f"
 -
@@ -34599,7 +34587,7 @@
   hex:"#8f9394"
 -
   name:"Grey Ashlar"
-  hex:"#cabab1"
+  hex:"#c4c5ba"
 -
   name:"Grey Asparagus"
   hex:"#465945"
@@ -34804,6 +34792,9 @@
 -
   name:"Grey Tote"
   hex:"#81807d"
+-
+  name:"Grey Tweed"
+  hex:"#b0bab5"
 -
   name:"Grey Violet"
   hex:"#9b8e8e"
@@ -50285,6 +50276,9 @@
   name:"Monsoon"
   hex:"#7a7679"
 -
+  name:"Monstera"
+  hex:"#5f674b"
+-
   name:"Monstera Deliciosa"
   hex:"#75bf0a"
 -
@@ -51925,6 +51919,9 @@
 -
   name:"Naked Light"
   hex:"#e9b6c1"
+-
+  name:"Naked Noodle"
+  hex:"#f7cb6e"
 -
   name:"Naked Pink"
   hex:"#d8c6d6"
@@ -72452,6 +72449,9 @@
   name:"Smooth Coffee"
   hex:"#5d4e4c"
 -
+  name:"Smooth Pebbles"
+  hex:"#cabab1"
+-
   name:"Smooth Satin"
   hex:"#a2d5d3"
 -
@@ -75308,7 +75308,7 @@
   name:"Stone Cairn"
   hex:"#888c90"
 -
-  name:"Stone Cold Gray"
+  name:"Stone Cold"
   hex:"#555555"
 -
   name:"Stone Craft"
@@ -75955,6 +75955,9 @@
 -
   name:"Subpoena"
   hex:"#d8ccc6"
+-
+  name:"Subterrain Kingdom"
+  hex:"#4f4e4a"
 -
   name:"Subterranean"
   hex:"#452c1f"
