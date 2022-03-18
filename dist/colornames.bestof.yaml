@@ -284,6 +284,9 @@
   name:"Aromatic Herbs"
   hex:"#98c945"
 -
+  name:"Around the Gills"
+  hex:"#a1b670"
+-
   name:"Arrowwood"
   hex:"#bc8d1f"
 -
@@ -877,6 +880,9 @@
 -
   name:"Blue Bobbin"
   hex:"#52b4ca"
+-
+  name:"Blue Chip"
+  hex:"#1d5699"
 -
   name:"Blue Haze"
   hex:"#bdbace"
@@ -5183,6 +5189,9 @@
   name:"In Good Taste"
   hex:"#b6d4a0"
 -
+  name:"In the Pink"
+  hex:"#f4c4d0"
+-
   name:"In the Red"
   hex:"#ff2233"
 -
@@ -6797,6 +6806,9 @@
   name:"Mille-Feuille"
   hex:"#efc87d"
 -
+  name:"Millennial Pink"
+  hex:"#f6c8c1"
+-
   name:"Mimi Pink"
   hex:"#ffdae9"
 -
@@ -8018,6 +8030,9 @@
   name:"Patisserie"
   hex:"#eddbc8"
 -
+  name:"Paved With Gold"
+  hex:"#e8d284"
+-
   name:"PCB Green"
   hex:"#002d04"
 -
@@ -8366,6 +8381,9 @@
   name:"Pink Elephants"
   hex:"#ff99ee"
 -
+  name:"Pink Fit"
+  hex:"#f5a8b2"
+-
   name:"Pink Flamingo"
   hex:"#ff66ff"
 -
@@ -8699,6 +8717,9 @@
   name:"Possessed Red"
   hex:"#c2264d"
 -
+  name:"Pot of Gold"
+  hex:"#f6cd23"
+-
   name:"Potato Chip"
   hex:"#fddc57"
 -
@@ -8906,6 +8927,9 @@
   name:"Purple Pristine"
   hex:"#7733aa"
 -
+  name:"Purple Prose"
+  hex:"#543254"
+-
   name:"Purple Protégé"
   hex:"#593569"
 -
@@ -9071,6 +9095,9 @@
   name:"Red Carpet"
   hex:"#bc2026"
 -
+  name:"Red Cent"
+  hex:"#ad654c"
+-
   name:"Red Devil"
   hex:"#860111"
 -
@@ -9079,6 +9106,9 @@
 -
   name:"Red Flag"
   hex:"#ff2244"
+-
+  name:"Red Herring"
+  hex:"#dd1144"
 -
   name:"Red Hot Chili Pepper"
   hex:"#db1d27"
@@ -9118,6 +9148,9 @@
 -
   name:"Red Stop"
   hex:"#ff2222"
+-
+  name:"Red Tape"
+  hex:"#cc1133"
 -
   name:"Red Wrath of Zeus"
   hex:"#e0180c"
@@ -9743,11 +9776,17 @@
   name:"Silver Lake"
   hex:"#dedddd"
 -
+  name:"Silver Lining"
+  hex:"#bdb6ab"
+-
   name:"Silver Phoenix"
   hex:"#ebecf5"
 -
   name:"Silver Surfer"
   hex:"#7e7d88"
+-
+  name:"Silver-Tongued"
+  hex:"#cdc7c7"
 -
   name:"Silverback"
   hex:"#cbcbcb"
@@ -10762,6 +10801,9 @@
 -
   name:"Trout Caviar"
   hex:"#f75300"
+-
+  name:"True Blue"
+  hex:"#010fcc"
 -
   name:"Trumpet Gold"
   hex:"#e9b413"

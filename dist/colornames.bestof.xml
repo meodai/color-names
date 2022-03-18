@@ -381,6 +381,10 @@
 <hex>#98c945</hex>
 </color>
 <color>
+<name>Around the Gills</name>
+<hex>#a1b670</hex>
+</color>
+<color>
 <name>Arrowwood</name>
 <hex>#bc8d1f</hex>
 </color>
@@ -1171,6 +1175,10 @@
 <color>
 <name>Blue Bobbin</name>
 <hex>#52b4ca</hex>
+</color>
+<color>
+<name>Blue Chip</name>
+<hex>#1d5699</hex>
 </color>
 <color>
 <name>Blue Haze</name>
@@ -6913,6 +6921,10 @@
 <hex>#b6d4a0</hex>
 </color>
 <color>
+<name>In the Pink</name>
+<hex>#f4c4d0</hex>
+</color>
+<color>
 <name>In the Red</name>
 <hex>#ff2233</hex>
 </color>
@@ -9065,6 +9077,10 @@
 <hex>#efc87d</hex>
 </color>
 <color>
+<name>Millennial Pink</name>
+<hex>#f6c8c1</hex>
+</color>
+<color>
 <name>Mimi Pink</name>
 <hex>#ffdae9</hex>
 </color>
@@ -10693,6 +10709,10 @@
 <hex>#eddbc8</hex>
 </color>
 <color>
+<name>Paved With Gold</name>
+<hex>#e8d284</hex>
+</color>
+<color>
 <name>PCB Green</name>
 <hex>#002d04</hex>
 </color>
@@ -11157,6 +11177,10 @@
 <hex>#ff99ee</hex>
 </color>
 <color>
+<name>Pink Fit</name>
+<hex>#f5a8b2</hex>
+</color>
+<color>
 <name>Pink Flamingo</name>
 <hex>#ff66ff</hex>
 </color>
@@ -11601,6 +11625,10 @@
 <hex>#c2264d</hex>
 </color>
 <color>
+<name>Pot of Gold</name>
+<hex>#f6cd23</hex>
+</color>
+<color>
 <name>Potato Chip</name>
 <hex>#fddc57</hex>
 </color>
@@ -11877,6 +11905,10 @@
 <hex>#7733aa</hex>
 </color>
 <color>
+<name>Purple Prose</name>
+<hex>#543254</hex>
+</color>
+<color>
 <name>Purple Protégé</name>
 <hex>#593569</hex>
 </color>
@@ -12097,6 +12129,10 @@
 <hex>#bc2026</hex>
 </color>
 <color>
+<name>Red Cent</name>
+<hex>#ad654c</hex>
+</color>
+<color>
 <name>Red Devil</name>
 <hex>#860111</hex>
 </color>
@@ -12107,6 +12143,10 @@
 <color>
 <name>Red Flag</name>
 <hex>#ff2244</hex>
+</color>
+<color>
+<name>Red Herring</name>
+<hex>#dd1144</hex>
 </color>
 <color>
 <name>Red Hot Chili Pepper</name>
@@ -12159,6 +12199,10 @@
 <color>
 <name>Red Stop</name>
 <hex>#ff2222</hex>
+</color>
+<color>
+<name>Red Tape</name>
+<hex>#cc1133</hex>
 </color>
 <color>
 <name>Red Wrath of Zeus</name>
@@ -12993,12 +13037,20 @@
 <hex>#dedddd</hex>
 </color>
 <color>
+<name>Silver Lining</name>
+<hex>#bdb6ab</hex>
+</color>
+<color>
 <name>Silver Phoenix</name>
 <hex>#ebecf5</hex>
 </color>
 <color>
 <name>Silver Surfer</name>
 <hex>#7e7d88</hex>
+</color>
+<color>
+<name>Silver-Tongued</name>
+<hex>#cdc7c7</hex>
 </color>
 <color>
 <name>Silverback</name>
@@ -14351,6 +14403,10 @@
 <color>
 <name>Trout Caviar</name>
 <hex>#f75300</hex>
+</color>
+<color>
+<name>True Blue</name>
+<hex>#010fcc</hex>
 </color>
 <color>
 <name>Trumpet Gold</name>
