@@ -344,6 +344,9 @@
   name:"Aubergine"
   hex:"#372528"
 -
+  name:"Augustus Asparagus"
+  hex:"#90aa0b"
+-
   name:"Aurora"
   hex:"#eddd59"
 -
@@ -451,6 +454,9 @@
 -
   name:"Banana Cream"
   hex:"#fff49c"
+-
+  name:"Banana Frappé"
+  hex:"#ddd5b6"
 -
   name:"Banana King"
   hex:"#fffb08"
@@ -2051,6 +2057,9 @@
   name:"Copacabana"
   hex:"#006c8d"
 -
+  name:"Copious Caramel"
+  hex:"#d0851d"
+-
   name:"Copper"
   hex:"#b87333"
 -
@@ -2894,6 +2903,9 @@
   name:"Dusty Chimney"
   hex:"#888899"
 -
+  name:"Dusty Duchess"
+  hex:"#b18377"
+-
   name:"Dwarf Fortress"
   hex:"#1d0200"
 -
@@ -3692,6 +3704,12 @@
   name:"Frankenstein"
   hex:"#7ba05b"
 -
+  name:"Frappé"
+  hex:"#d1b7a0"
+-
+  name:"Frappé au Chocolat"
+  hex:"#9a6840"
+-
   name:"Free Spirit"
   hex:"#deeeed"
 -
@@ -3757,6 +3775,9 @@
 -
   name:"Frog"
   hex:"#58bc08"
+-
+  name:"Frog on a Log"
+  hex:"#8fb943"
 -
   name:"Frog Pond"
   hex:"#73b683"
@@ -5530,6 +5551,9 @@
 -
   name:"Kabul"
   hex:"#6c5e53"
+-
+  name:"Kaiser Cheese"
+  hex:"#eed484"
 -
   name:"Kale"
   hex:"#5a7247"
@@ -8435,6 +8459,9 @@
   name:"Pink Punk"
   hex:"#d983bd"
 -
+  name:"Pink Supremecy"
+  hex:"#ffd9e6"
+-
   name:"Pinkalicious"
   hex:"#ff99ff"
 -
@@ -10025,6 +10052,9 @@
   name:"Sour Yellow"
   hex:"#eeff04"
 -
+  name:"Sovereign Red"
+  hex:"#ce243f"
+-
   name:"Soviet Gold"
   hex:"#ffd900"
 -
@@ -10246,6 +10276,9 @@
 -
   name:"Strawberry Field"
   hex:"#fa8383"
+-
+  name:"Strawberry Frappé"
+  hex:"#ffa2aa"
 -
   name:"Strawberry Milk"
   hex:"#ffd9e7"
@@ -11772,7 +11805,7 @@
   hex:"#ee8844"
 -
   name:"Zombie"
-  hex:"#595a5c"
+  hex:"#6a755a"
 -
   name:"Zucchini"
   hex:"#17462e"

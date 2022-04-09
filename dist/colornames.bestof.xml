@@ -461,6 +461,10 @@
 <hex>#372528</hex>
 </color>
 <color>
+<name>Augustus Asparagus</name>
+<hex>#90aa0b</hex>
+</color>
+<color>
 <name>Aurora</name>
 <hex>#eddd59</hex>
 </color>
@@ -603,6 +607,10 @@
 <color>
 <name>Banana Cream</name>
 <hex>#fff49c</hex>
+</color>
+<color>
+<name>Banana Frappé</name>
+<hex>#ddd5b6</hex>
 </color>
 <color>
 <name>Banana King</name>
@@ -2737,6 +2745,10 @@
 <hex>#006c8d</hex>
 </color>
 <color>
+<name>Copious Caramel</name>
+<hex>#d0851d</hex>
+</color>
+<color>
 <name>Copper</name>
 <hex>#b87333</hex>
 </color>
@@ -3861,6 +3873,10 @@
 <hex>#888899</hex>
 </color>
 <color>
+<name>Dusty Duchess</name>
+<hex>#b18377</hex>
+</color>
+<color>
 <name>Dwarf Fortress</name>
 <hex>#1d0200</hex>
 </color>
@@ -4925,6 +4941,14 @@
 <hex>#7ba05b</hex>
 </color>
 <color>
+<name>Frappé</name>
+<hex>#d1b7a0</hex>
+</color>
+<color>
+<name>Frappé au Chocolat</name>
+<hex>#9a6840</hex>
+</color>
+<color>
 <name>Free Spirit</name>
 <hex>#deeeed</hex>
 </color>
@@ -5011,6 +5035,10 @@
 <color>
 <name>Frog</name>
 <hex>#58bc08</hex>
+</color>
+<color>
+<name>Frog on a Log</name>
+<hex>#8fb943</hex>
 </color>
 <color>
 <name>Frog Pond</name>
@@ -7375,6 +7403,10 @@
 <color>
 <name>Kabul</name>
 <hex>#6c5e53</hex>
+</color>
+<color>
+<name>Kaiser Cheese</name>
+<hex>#eed484</hex>
 </color>
 <color>
 <name>Kale</name>
@@ -11249,6 +11281,10 @@
 <hex>#d983bd</hex>
 </color>
 <color>
+<name>Pink Supremecy</name>
+<hex>#ffd9e6</hex>
+</color>
+<color>
 <name>Pinkalicious</name>
 <hex>#ff99ff</hex>
 </color>
@@ -13369,6 +13405,10 @@
 <hex>#eeff04</hex>
 </color>
 <color>
+<name>Sovereign Red</name>
+<hex>#ce243f</hex>
+</color>
+<color>
 <name>Soviet Gold</name>
 <hex>#ffd900</hex>
 </color>
@@ -13663,6 +13703,10 @@
 <color>
 <name>Strawberry Field</name>
 <hex>#fa8383</hex>
+</color>
+<color>
+<name>Strawberry Frappé</name>
+<hex>#ffa2aa</hex>
 </color>
 <color>
 <name>Strawberry Milk</name>
@@ -15698,7 +15742,7 @@
 </color>
 <color>
 <name>Zombie</name>
-<hex>#595a5c</hex>
+<hex>#6a755a</hex>
 </color>
 <color>
 <name>Zucchini</name>

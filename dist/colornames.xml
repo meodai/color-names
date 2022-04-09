@@ -5757,6 +5757,10 @@
 <hex>#ffd79d</hex>
 </color>
 <color>
+<name>Augustus Asparagus</name>
+<hex>#90aa0b</hex>
+</color>
+<color>
 <name>Aumbry</name>
 <hex>#7c7469</hex>
 </color>
@@ -7199,6 +7203,10 @@
 <color>
 <name>Banana Flash</name>
 <hex>#eeff00</hex>
+</color>
+<color>
+<name>Banana Frappé</name>
+<hex>#ddd5b6</hex>
 </color>
 <color>
 <name>Banana Ice Cream</name>
@@ -11483,6 +11491,10 @@
 <color>
 <name>Blue Effervescence</name>
 <hex>#97d5ea</hex>
+</color>
+<color>
+<name>Blue Electress</name>
+<hex>#6d9fd1</hex>
 </color>
 <color>
 <name>Blue Elemental</name>
@@ -24449,6 +24461,10 @@
 <hex>#21638b</hex>
 </color>
 <color>
+<name>Copious Caramel</name>
+<hex>#d0851d</hex>
+</color>
+<color>
 <name>Copper</name>
 <hex>#b87333</hex>
 </color>
@@ -26579,6 +26595,10 @@
 <color>
 <name>Crown Jewels</name>
 <hex>#946dad</hex>
+</color>
+<color>
+<name>Crown of Liechtenstein</name>
+<hex>#d8b411</hex>
 </color>
 <color>
 <name>Crown of Thorns</name>
@@ -32555,6 +32575,10 @@
 <color>
 <name>Dusty Dream</name>
 <hex>#97a2a0</hex>
+</color>
+<color>
+<name>Dusty Duchess</name>
+<hex>#b18377</hex>
 </color>
 <color>
 <name>Dusty Gold</name>
@@ -39465,8 +39489,12 @@
 <hex>#e2dbca</hex>
 </color>
 <color>
-<name>Frappe</name>
+<name>Frappé</name>
 <hex>#d1b7a0</hex>
+</color>
+<color>
+<name>Frappé au Chocolat</name>
+<hex>#9a6840</hex>
 </color>
 <color>
 <name>Freckles</name>
@@ -39889,7 +39917,7 @@
 <hex>#adbcb4</hex>
 </color>
 <color>
-<name>Fresh Frappe</name>
+<name>Fresh Frappé</name>
 <hex>#dbe69d</hex>
 </color>
 <color>
@@ -40241,6 +40269,10 @@
 <hex>#7da270</hex>
 </color>
 <color>
+<name>Frog on a Log</name>
+<hex>#8fb943</hex>
+</color>
+<color>
 <name>Frog Pond</name>
 <hex>#73b683</hex>
 </color>
@@ -40537,7 +40569,7 @@
 <hex>#cfe8b6</hex>
 </color>
 <color>
-<name>Frozen Frappe</name>
+<name>Frozen Frappé</name>
 <hex>#ddc5d2</hex>
 </color>
 <color>
@@ -54425,6 +54457,10 @@
 <hex>#0093d6</hex>
 </color>
 <color>
+<name>Kaiser Cheese</name>
+<hex>#eed484</hex>
+</color>
+<color>
 <name>Kaitoke Green</name>
 <hex>#245336</hex>
 </color>
@@ -57717,10 +57753,6 @@
 <hex>#697056</hex>
 </color>
 <color>
-<name>Lichtenstein Yellow</name>
-<hex>#fdff38</hex>
-</color>
-<color>
 <name>Lick and Kiss</name>
 <hex>#ee5577</hex>
 </color>
@@ -57747,6 +57779,10 @@
 <color>
 <name>Liebermann Green</name>
 <hex>#92b498</hex>
+</color>
+<color>
+<name>Liechtenstein Yellow</name>
+<hex>#fdff38</hex>
 </color>
 <color>
 <name>Life Aquatic</name>
@@ -58131,10 +58167,6 @@
 <color>
 <name>Light Frosty Dawn</name>
 <hex>#d7efd5</hex>
-</color>
-<color>
-<name>Light Frozen Frappe</name>
-<hex>#e6d2dc</hex>
 </color>
 <color>
 <name>Light Gentle Calm</name>
@@ -66009,7 +66041,7 @@
 <hex>#dcf4e6</hex>
 </color>
 <color>
-<name>Mint Frappe</name>
+<name>Mint Frappé</name>
 <hex>#d0ebc8</hex>
 </color>
 <color>
@@ -67211,6 +67243,10 @@
 <color>
 <name>Moody Mist</name>
 <hex>#cae2d9</hex>
+</color>
+<color>
+<name>Moody Whitby</name>
+<hex>#8f9294</hex>
 </color>
 <color>
 <name>Mooloolaba</name>
@@ -79157,6 +79193,10 @@
 <hex>#fbd3d9</hex>
 </color>
 <color>
+<name>Pink Frappé</name>
+<hex>#e6d2dc</hex>
+</color>
+<color>
 <name>Pink Frosting</name>
 <hex>#f7d7e2</hex>
 </color>
@@ -79599,6 +79639,10 @@
 <color>
 <name>Pink Sugar</name>
 <hex>#eeaaff</hex>
+</color>
+<color>
+<name>Pink Supremecy</name>
+<hex>#ffd9e6</hex>
 </color>
 <color>
 <name>Pink Swan</name>
@@ -98105,6 +98149,10 @@
 <hex>#4b4356</hex>
 </color>
 <color>
+<name>Sovereign Red</name>
+<hex>#ce243f</hex>
+</color>
+<color>
 <name>Sovereignty</name>
 <hex>#304e63</hex>
 </color>
@@ -100949,7 +100997,7 @@
 <hex>#fa8383</hex>
 </color>
 <color>
-<name>Strawberry Frappe</name>
+<name>Strawberry Frappé</name>
 <hex>#ffa2aa</hex>
 </color>
 <color>
@@ -102743,6 +102791,10 @@
 <color>
 <name>Supreme Grey</name>
 <hex>#86949f</hex>
+</color>
+<color>
+<name>Supreme Pontiff</name>
+<hex>#d4d8db</hex>
 </color>
 <color>
 <name>Surati Pink</name>
@@ -110217,6 +110269,10 @@
 <hex>#794143</hex>
 </color>
 <color>
+<name>Venerable Verde</name>
+<hex>#abc88c</hex>
+</color>
+<color>
 <name>Venetian</name>
 <hex>#928083</hex>
 </color>
@@ -117378,7 +117434,7 @@
 </color>
 <color>
 <name>Zombie</name>
-<hex>#595a5c</hex>
+<hex>#6a755a</hex>
 </color>
 <color>
 <name>Zomp</name>

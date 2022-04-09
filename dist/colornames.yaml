@@ -4316,6 +4316,9 @@
   name:"August Morning"
   hex:"#ffd79d"
 -
+  name:"Augustus Asparagus"
+  hex:"#90aa0b"
+-
   name:"Aumbry"
   hex:"#7c7469"
 -
@@ -5398,6 +5401,9 @@
 -
   name:"Banana Flash"
   hex:"#eeff00"
+-
+  name:"Banana Frappé"
+  hex:"#ddd5b6"
 -
   name:"Banana Ice Cream"
   hex:"#f1d3b2"
@@ -8611,6 +8617,9 @@
 -
   name:"Blue Effervescence"
   hex:"#97d5ea"
+-
+  name:"Blue Electress"
+  hex:"#6d9fd1"
 -
   name:"Blue Elemental"
   hex:"#5588ee"
@@ -18335,6 +18344,9 @@
   name:"Copenhagen Blue"
   hex:"#21638b"
 -
+  name:"Copious Caramel"
+  hex:"#d0851d"
+-
   name:"Copper"
   hex:"#b87333"
 -
@@ -19933,6 +19945,9 @@
 -
   name:"Crown Jewels"
   hex:"#946dad"
+-
+  name:"Crown of Liechtenstein"
+  hex:"#d8b411"
 -
   name:"Crown of Thorns"
   hex:"#763c33"
@@ -24415,6 +24430,9 @@
 -
   name:"Dusty Dream"
   hex:"#97a2a0"
+-
+  name:"Dusty Duchess"
+  hex:"#b18377"
 -
   name:"Dusty Gold"
   hex:"#d7b999"
@@ -29597,8 +29615,11 @@
   name:"Frankly Earnest"
   hex:"#e2dbca"
 -
-  name:"Frappe"
+  name:"Frappé"
   hex:"#d1b7a0"
+-
+  name:"Frappé au Chocolat"
+  hex:"#9a6840"
 -
   name:"Freckles"
   hex:"#d78775"
@@ -29915,7 +29936,7 @@
   name:"Fresh Eucalyptus"
   hex:"#adbcb4"
 -
-  name:"Fresh Frappe"
+  name:"Fresh Frappé"
   hex:"#dbe69d"
 -
   name:"Fresh Gingerbread"
@@ -30179,6 +30200,9 @@
   name:"Frog Hollow"
   hex:"#7da270"
 -
+  name:"Frog on a Log"
+  hex:"#8fb943"
+-
   name:"Frog Pond"
   hex:"#73b683"
 -
@@ -30401,7 +30425,7 @@
   name:"Frozen Forest"
   hex:"#cfe8b6"
 -
-  name:"Frozen Frappe"
+  name:"Frozen Frappé"
   hex:"#ddc5d2"
 -
   name:"Frozen Fruit"
@@ -40817,6 +40841,9 @@
   name:"Kahu Blue"
   hex:"#0093d6"
 -
+  name:"Kaiser Cheese"
+  hex:"#eed484"
+-
   name:"Kaitoke Green"
   hex:"#245336"
 -
@@ -43286,9 +43313,6 @@
   name:"Lichen Moss"
   hex:"#697056"
 -
-  name:"Lichtenstein Yellow"
-  hex:"#fdff38"
--
   name:"Lick and Kiss"
   hex:"#ee5577"
 -
@@ -43309,6 +43333,9 @@
 -
   name:"Liebermann Green"
   hex:"#92b498"
+-
+  name:"Liechtenstein Yellow"
+  hex:"#fdff38"
 -
   name:"Life Aquatic"
   hex:"#a2b0a8"
@@ -43597,9 +43624,6 @@
 -
   name:"Light Frosty Dawn"
   hex:"#d7efd5"
--
-  name:"Light Frozen Frappe"
-  hex:"#e6d2dc"
 -
   name:"Light Gentle Calm"
   hex:"#d2d9cd"
@@ -49505,7 +49529,7 @@
   name:"Mint Flash"
   hex:"#dcf4e6"
 -
-  name:"Mint Frappe"
+  name:"Mint Frappé"
   hex:"#d0ebc8"
 -
   name:"Mint Gloss"
@@ -50407,6 +50431,9 @@
 -
   name:"Moody Mist"
   hex:"#cae2d9"
+-
+  name:"Moody Whitby"
+  hex:"#8f9294"
 -
   name:"Mooloolaba"
   hex:"#c7b8a9"
@@ -59366,6 +59393,9 @@
   name:"Pink Fluorite"
   hex:"#fbd3d9"
 -
+  name:"Pink Frappé"
+  hex:"#e6d2dc"
+-
   name:"Pink Frosting"
   hex:"#f7d7e2"
 -
@@ -59698,6 +59728,9 @@
 -
   name:"Pink Sugar"
   hex:"#eeaaff"
+-
+  name:"Pink Supremecy"
+  hex:"#ffd9e6"
 -
   name:"Pink Swan"
   hex:"#bfb3b2"
@@ -73577,6 +73610,9 @@
   name:"Sovereign"
   hex:"#4b4356"
 -
+  name:"Sovereign Red"
+  hex:"#ce243f"
+-
   name:"Sovereignty"
   hex:"#304e63"
 -
@@ -75710,7 +75746,7 @@
   name:"Strawberry Field"
   hex:"#fa8383"
 -
-  name:"Strawberry Frappe"
+  name:"Strawberry Frappé"
   hex:"#ffa2aa"
 -
   name:"Strawberry Freeze"
@@ -77056,6 +77092,9 @@
 -
   name:"Supreme Grey"
   hex:"#86949f"
+-
+  name:"Supreme Pontiff"
+  hex:"#d4d8db"
 -
   name:"Surati Pink"
   hex:"#fc53fc"
@@ -82661,6 +82700,9 @@
   name:"Velvety Merlot"
   hex:"#794143"
 -
+  name:"Venerable Verde"
+  hex:"#abc88c"
+-
   name:"Venetian"
   hex:"#928083"
 -
@@ -88032,7 +88074,7 @@
   hex:"#ee8844"
 -
   name:"Zombie"
-  hex:"#595a5c"
+  hex:"#6a755a"
 -
   name:"Zomp"
   hex:"#39a78e"
