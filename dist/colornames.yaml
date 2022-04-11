@@ -7916,6 +7916,9 @@
   name:"Blarney Stone"
   hex:"#027944"
 -
+  name:"Blasphemous Blue"
+  hex:"#3356aa"
+-
   name:"Blast-Off Bronze"
   hex:"#a57164"
 -
@@ -8543,6 +8546,9 @@
   name:"Blue Cruise"
   hex:"#6591a8"
 -
+  name:"Blue Crystal Landscape"
+  hex:"#6febe3"
+-
   name:"Blue Cuddle"
   hex:"#7eb4d1"
 -
@@ -8589,7 +8595,7 @@
   hex:"#263056"
 -
   name:"Blue Diamond"
-  hex:"#4b2d72"
+  hex:"#0b67be"
 -
   name:"Blue Dianne"
   hex:"#35514f"
@@ -12148,6 +12154,9 @@
 -
   name:"Buttery"
   hex:"#ffc283"
+-
+  name:"Buttery Croissant"
+  hex:"#f6e19c"
 -
   name:"Buttery Leather"
   hex:"#d4b185"
@@ -28439,6 +28448,9 @@
   name:"Flame Scarlet"
   hex:"#cd212a"
 -
+  name:"Flame Seal"
+  hex:"#f4e25a"
+-
   name:"Flame Stitch"
   hex:"#d65d45"
 -
@@ -32849,6 +32861,9 @@
   name:"Golden Sand"
   hex:"#eace6a"
 -
+  name:"Golden Scarab"
+  hex:"#eddb8e"
+-
   name:"Golden Schnitzel"
   hex:"#ddbb11"
 -
@@ -34297,9 +34312,6 @@
 -
   name:"Green Serpent"
   hex:"#77bb00"
--
-  name:"Green Serpent Scepter"
-  hex:"#bbcc00"
 -
   name:"Green Serum"
   hex:"#99dd22"
@@ -45383,6 +45395,9 @@
   name:"Longfellow"
   hex:"#90b1a3"
 -
+  name:"Longing for Nature"
+  hex:"#4b9f5d"
+-
   name:"Longitude"
   hex:"#add5e4"
 -
@@ -50495,6 +50510,9 @@
   name:"Moon Valley"
   hex:"#fcf1de"
 -
+  name:"Moon Veil"
+  hex:"#8d99b1"
+-
   name:"Moon White"
   hex:"#eaf4fc"
 -
@@ -52183,6 +52201,9 @@
 -
   name:"Natural Orchestra"
   hex:"#4c9c77"
+-
+  name:"Natural Order"
+  hex:"#77b033"
 -
   name:"Natural Pumice"
   hex:"#4a4a43"
@@ -67550,6 +67571,9 @@
   name:"Sacred Sapling"
   hex:"#7c8635"
 -
+  name:"Sacred Scarlet"
+  hex:"#950c1b"
+-
   name:"Sacred Spring"
   hex:"#c7cbce"
 -
@@ -69686,6 +69710,9 @@
   name:"Secret Safari"
   hex:"#c6bb68"
 -
+  name:"Secret Scarlet"
+  hex:"#7a0e0e"
+-
   name:"Secret Scent"
   hex:"#e3d7dc"
 -
@@ -70063,6 +70090,9 @@
 -
   name:"Serpent"
   hex:"#817f6d"
+-
+  name:"Serpent Scepter"
+  hex:"#bbcc00"
 -
   name:"Serpentine"
   hex:"#9b8e54"
@@ -87343,6 +87373,9 @@
 -
   name:"Yearning"
   hex:"#061088"
+-
+  name:"Yearning Desire"
+  hex:"#ca135e"
 -
   name:"Yell Yellow"
   hex:"#ffffbf"
