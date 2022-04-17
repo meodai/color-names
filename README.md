@@ -296,6 +296,10 @@ See [package.json](package.json#L6) for more.
 
 ### Sponsors
 
+#### Gold
+
+- [Colorful Dots] 500USD/year
+
 #### Silver
 
 - [neverything] 25USD/month
@@ -407,6 +411,7 @@ they will be removed as quickly as possible.
 [Myriam Aerne]: https://fynoeggeli.ch/
 [nachtfunke]: https://helloyes.dev
 [amin]: http://www.slashui.com
+[Colorful Dots]: https://colorfuldots.com/
 
 <!-- Sources: Names -->
 
