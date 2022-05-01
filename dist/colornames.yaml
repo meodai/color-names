@@ -7559,7 +7559,7 @@
   name:"Black Leather Jacket"
   hex:"#253529"
 -
-  name:"Black Licorice"
+  name:"Black Liquorice"
   hex:"#3a3b3b"
 -
   name:"Black Locust"
@@ -10856,7 +10856,7 @@
   name:"Brilliant Lavender"
   hex:"#f4bbff"
 -
-  name:"Brilliant Licorice"
+  name:"Brilliant Liquorice"
   hex:"#545454"
 -
   name:"Brilliant Rose"
@@ -41909,7 +41909,7 @@
   name:"Lacquer Mauve"
   hex:"#f0cfe1"
 -
-  name:"Lacquered Licorice"
+  name:"Lacquered Liquorice"
   hex:"#383838"
 -
   name:"Lacrosse"
@@ -43348,12 +43348,6 @@
 -
   name:"Lickety Split"
   hex:"#c3d997"
--
-  name:"Licorice"
-  hex:"#1a1110"
--
-  name:"Licorice Stick"
-  hex:"#b53e3d"
 -
   name:"Liddell"
   hex:"#c99c59"
@@ -45013,6 +45007,9 @@
 -
   name:"Liquorice Root"
   hex:"#222200"
+-
+  name:"Liquorice Stick"
+  hex:"#b53e3d"
 -
   name:"Lira"
   hex:"#e2c28d"
@@ -64448,9 +64445,6 @@
   name:"Red Leever"
   hex:"#881400"
 -
-  name:"Red Licorice"
-  hex:"#a83e4c"
--
   name:"Red Light Neon"
   hex:"#ff0055"
 -
@@ -64459,6 +64453,9 @@
 -
   name:"Red Lilac Purple"
   hex:"#bfbac0"
+-
+  name:"Red Liquorice"
+  hex:"#a83e4c"
 -
   name:"Red Lust"
   hex:"#b4090d"
@@ -68923,6 +68920,9 @@
 -
   name:"Scandalous Rose"
   hex:"#dfbdd0"
+-
+  name:"Scandinavian Liquorice"
+  hex:"#1a1110"
 -
   name:"Scandinavian Sky"
   hex:"#c2d3d6"
