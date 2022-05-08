@@ -2285,6 +2285,9 @@
   name:"Angry Pasta"
   hex:"#ffcc55"
 -
+  name:"Angry Tomato"
+  hex:"#d82029"
+-
   name:"Aniline Mauve"
   hex:"#b9abad"
 -
@@ -7903,6 +7906,9 @@
 -
   name:"Blank Canvas"
   hex:"#ffefd6"
+-
+  name:"Blank Stare"
+  hex:"#8b9cac"
 -
   name:"Blanka Green"
   hex:"#9cd33c"
@@ -22346,6 +22352,9 @@
   name:"Demonic"
   hex:"#bb2233"
 -
+  name:"Demonic Kiss"
+  hex:"#d02b48"
+-
   name:"Demonic Presence"
   hex:"#7c0a02"
 -
@@ -27808,6 +27817,9 @@
 -
   name:"Fetched Stick"
   hex:"#86725f"
+-
+  name:"Fever"
+  hex:"#ea4c4c"
 -
   name:"Fever Dream"
   hex:"#dd5577"
@@ -36401,6 +36413,9 @@
   name:"Helium"
   hex:"#eae5d8"
 -
+  name:"Hell Rider"
+  hex:"#c40700"
+-
   name:"Hellebore"
   hex:"#646944"
 -
@@ -39356,6 +39371,9 @@
   name:"Intergalactic Ray"
   hex:"#573935"
 -
+  name:"Intergalactic Settlement"
+  hex:"#5b1e8b"
+-
   name:"Interior Green"
   hex:"#536437"
 -
@@ -41470,6 +41488,9 @@
 -
   name:"Kiss Me More"
   hex:"#de6b86"
+-
+  name:"Kiss of the Scorpion"
+  hex:"#dc331a"
 -
   name:"Kissable"
   hex:"#fd8f79"
@@ -62069,6 +62090,9 @@
   name:"Prom Corsage"
   hex:"#e7c3e7"
 -
+  name:"Prom Queen"
+  hex:"#9b1dcd"
+-
   name:"Promenade"
   hex:"#f8f6df"
 -
@@ -62446,6 +62470,9 @@
 -
   name:"Pure Passion"
   hex:"#b40039"
+-
+  name:"Pure Pleasure"
+  hex:"#f51360"
 -
   name:"Pure Purple"
   hex:"#751973"
@@ -69149,6 +69176,12 @@
   name:"Scouring Rush"
   hex:"#3b7960"
 -
+  name:"Scoville High"
+  hex:"#e34b26"
+-
+  name:"Scoville Highness"
+  hex:"#900405"
+-
   name:"Screamer Pink"
   hex:"#ab0040"
 -
@@ -70156,9 +70189,6 @@
 -
   name:"Settlement"
   hex:"#7e7970"
--
-  name:"Settler"
-  hex:"#8b9cac"
 -
   name:"Seven Days of Rain"
   hex:"#d3dae1"
@@ -73727,6 +73757,9 @@
   name:"Space Cadet"
   hex:"#1d2951"
 -
+  name:"Space Colonization"
+  hex:"#150f5b"
+-
   name:"Space Convoy"
   hex:"#667788"
 -
@@ -76528,6 +76561,9 @@
 -
   name:"Summer Night"
   hex:"#36576a"
+-
+  name:"Summer of '82"
+  hex:"#74cdd8"
 -
   name:"Summer Orange"
   hex:"#ffb653"

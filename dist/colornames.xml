@@ -3049,6 +3049,10 @@
 <hex>#ffcc55</hex>
 </color>
 <color>
+<name>Angry Tomato</name>
+<hex>#d82029</hex>
+</color>
+<color>
 <name>Aniline Mauve</name>
 <hex>#b9abad</hex>
 </color>
@@ -10539,6 +10543,10 @@
 <color>
 <name>Blank Canvas</name>
 <hex>#ffefd6</hex>
+</color>
+<color>
+<name>Blank Stare</name>
+<hex>#8b9cac</hex>
 </color>
 <color>
 <name>Blanka Green</name>
@@ -29797,6 +29805,10 @@
 <hex>#bb2233</hex>
 </color>
 <color>
+<name>Demonic Kiss</name>
+<hex>#d02b48</hex>
+</color>
+<color>
 <name>Demonic Presence</name>
 <hex>#7c0a02</hex>
 </color>
@@ -37079,6 +37091,10 @@
 <color>
 <name>Fetched Stick</name>
 <hex>#86725f</hex>
+</color>
+<color>
+<name>Fever</name>
+<hex>#ea4c4c</hex>
 </color>
 <color>
 <name>Fever Dream</name>
@@ -48537,6 +48553,10 @@
 <hex>#eae5d8</hex>
 </color>
 <color>
+<name>Hell Rider</name>
+<hex>#c40700</hex>
+</color>
+<color>
 <name>Hellebore</name>
 <hex>#646944</hex>
 </color>
@@ -52477,6 +52497,10 @@
 <hex>#573935</hex>
 </color>
 <color>
+<name>Intergalactic Settlement</name>
+<hex>#5b1e8b</hex>
+</color>
+<color>
 <name>Interior Green</name>
 <hex>#536437</hex>
 </color>
@@ -55295,6 +55319,10 @@
 <color>
 <name>Kiss Me More</name>
 <hex>#de6b86</hex>
+</color>
+<color>
+<name>Kiss of the Scorpion</name>
+<hex>#dc331a</hex>
 </color>
 <color>
 <name>Kissable</name>
@@ -82761,6 +82789,10 @@
 <hex>#e7c3e7</hex>
 </color>
 <color>
+<name>Prom Queen</name>
+<hex>#9b1dcd</hex>
+</color>
+<color>
 <name>Promenade</name>
 <hex>#f8f6df</hex>
 </color>
@@ -83263,6 +83295,10 @@
 <color>
 <name>Pure Passion</name>
 <hex>#b40039</hex>
+</color>
+<color>
+<name>Pure Pleasure</name>
+<hex>#f51360</hex>
 </color>
 <color>
 <name>Pure Purple</name>
@@ -92201,6 +92237,14 @@
 <hex>#3b7960</hex>
 </color>
 <color>
+<name>Scoville High</name>
+<hex>#e34b26</hex>
+</color>
+<color>
+<name>Scoville Highness</name>
+<hex>#900405</hex>
+</color>
+<color>
 <name>Screamer Pink</name>
 <hex>#ab0040</hex>
 </color>
@@ -93543,10 +93587,6 @@
 <color>
 <name>Settlement</name>
 <hex>#7e7970</hex>
-</color>
-<color>
-<name>Settler</name>
-<hex>#8b9cac</hex>
 </color>
 <color>
 <name>Seven Days of Rain</name>
@@ -98305,6 +98345,10 @@
 <hex>#1d2951</hex>
 </color>
 <color>
+<name>Space Colonization</name>
+<hex>#150f5b</hex>
+</color>
+<color>
 <name>Space Convoy</name>
 <hex>#667788</hex>
 </color>
@@ -102039,6 +102083,10 @@
 <color>
 <name>Summer Night</name>
 <hex>#36576a</hex>
+</color>
+<color>
+<name>Summer of '82</name>
+<hex>#74cdd8</hex>
 </color>
 <color>
 <name>Summer Orange</name>

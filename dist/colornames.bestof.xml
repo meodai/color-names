@@ -221,8 +221,20 @@
 <hex>#dd0055</hex>
 </color>
 <color>
+<name>Angry Flamingo</name>
+<hex>#f04e45</hex>
+</color>
+<color>
+<name>Angry Ghost</name>
+<hex>#eebbbb</hex>
+</color>
+<color>
 <name>Angry Pasta</name>
 <hex>#ffcc55</hex>
+</color>
+<color>
+<name>Angry Tomato</name>
+<hex>#d82029</hex>
 </color>
 <color>
 <name>Animal Kingdom</name>
@@ -1067,6 +1079,10 @@
 <color>
 <name>Blank Canvas</name>
 <hex>#ffefd6</hex>
+</color>
+<color>
+<name>Blank Stare</name>
+<hex>#8b9cac</hex>
 </color>
 <color>
 <name>Blasphemous Blue</name>
@@ -3525,6 +3541,10 @@
 <hex>#bb2233</hex>
 </color>
 <color>
+<name>Demonic Kiss</name>
+<hex>#d02b48</hex>
+</color>
+<color>
 <name>Denim</name>
 <hex>#2243b6</hex>
 </color>
@@ -5171,6 +5191,10 @@
 <color>
 <name>Fuchsia Felicity</name>
 <hex>#f44772</hex>
+</color>
+<color>
+<name>Fuchsia Fever</name>
+<hex>#ff5599</hex>
 </color>
 <color>
 <name>Fuchsia Nebula</name>
@@ -7145,6 +7169,10 @@
 <hex>#273287</hex>
 </color>
 <color>
+<name>Intergalactic Settlement</name>
+<hex>#5b1e8b</hex>
+</color>
+<color>
 <name>International Klein Blue</name>
 <hex>#002fa6</hex>
 </color>
@@ -7599,6 +7627,10 @@
 <color>
 <name>Kiss Me More</name>
 <hex>#de6b86</hex>
+</color>
+<color>
+<name>Kiss of the Scorpion</name>
+<hex>#dc331a</hex>
 </color>
 <color>
 <name>Kissable</name>
@@ -11853,6 +11885,10 @@
 <hex>#e7c3e7</hex>
 </color>
 <color>
+<name>Prom Queen</name>
+<hex>#9b1dcd</hex>
+</color>
+<color>
 <name>Promenade</name>
 <hex>#f8f6df</hex>
 </color>
@@ -11939,6 +11975,10 @@
 <color>
 <name>Pure Passion</name>
 <hex>#b40039</hex>
+</color>
+<color>
+<name>Pure Pleasure</name>
+<hex>#f51360</hex>
 </color>
 <color>
 <name>Pure Sunshine</name>
@@ -12805,6 +12845,10 @@
 <hex>#ffd800</hex>
 </color>
 <color>
+<name>Scoville Highness</name>
+<hex>#900405</hex>
+</color>
+<color>
 <name>Screamin' Green</name>
 <hex>#66ff66</hex>
 </color>
@@ -12911,6 +12955,10 @@
 <color>
 <name>Self-Love</name>
 <hex>#d22b6d</hex>
+</color>
+<color>
+<name>Semolina</name>
+<hex>#ceb899</hex>
 </color>
 <color>
 <name>Serene</name>
@@ -13517,6 +13565,10 @@
 <hex>#440099</hex>
 </color>
 <color>
+<name>Space Colonization</name>
+<hex>#150f5b</hex>
+</color>
+<color>
 <name>Space Dust</name>
 <hex>#002299</hex>
 </color>
@@ -13915,6 +13967,10 @@
 <color>
 <name>Summer Mist</name>
 <hex>#cbeaee</hex>
+</color>
+<color>
+<name>Summer of '82</name>
+<hex>#74cdd8</hex>
 </color>
 <color>
 <name>Summer's End</name>
