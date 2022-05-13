@@ -64,6 +64,18 @@ colorsSrc.values['name'].forEach((name) => {
   }
 });
 
+// loop good name markers
+colorsSrc.values['good name'].forEach((str) => {
+  // check for spaces
+  if (spacesValidation.test(str)) {
+    log('"good name" marker', str, `${str} found either a leading or trailing space (or both)`);
+  }
+
+  if (!(str == 'x' || str == '')) {
+    log('"good name" marker', str, `${str} must be a lowercase "x" character or empty`);
+  }
+});
+
 showLog();
 
 if (isTestRun) {
