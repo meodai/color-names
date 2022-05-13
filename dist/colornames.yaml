@@ -7445,6 +7445,9 @@
   name:"Black Cat"
   hex:"#2e2f31"
 -
+  name:"Black Cherry"
+  hex:"#2c1620"
+-
   name:"Black Chestnut Oak"
   hex:"#252321"
 -
@@ -20096,6 +20099,9 @@
   name:"Cry Me a River"
   hex:"#427898"
 -
+  name:"Cry of a Rose"
+  hex:"#b23c5d"
+-
   name:"Cryo Freeze"
   hex:"#ddece0"
 -
@@ -25081,6 +25087,9 @@
 -
   name:"Eerie Black"
   hex:"#1b1b1b"
+-
+  name:"Eerie Glow"
+  hex:"#a9d6ba"
 -
   name:"Effervescent"
   hex:"#fbf4d1"
@@ -33286,6 +33295,9 @@
 -
   name:"Grand Canal"
   hex:"#3c797d"
+-
+  name:"Grand Casino Gold"
+  hex:"#edcd62"
 -
   name:"Grand Grape"
   hex:"#645764"
@@ -52487,6 +52499,9 @@
   name:"Nectar"
   hex:"#ecdacd"
 -
+  name:"Nectar Jackpot"
+  hex:"#f0d38f"
+-
   name:"Nectar of the Gods"
   hex:"#513439"
 -
@@ -57209,10 +57224,10 @@
   name:"Pattypan"
   hex:"#edb80f"
 -
-  name:"Paua"
+  name:"Pāua"
   hex:"#2a2551"
 -
-  name:"Paua Shell"
+  name:"Pāua Shell"
   hex:"#245056"
 -
   name:"Pauley"
@@ -80470,6 +80485,9 @@
 -
   name:"Toxic Orange"
   hex:"#ff6037"
+-
+  name:"Toxic Slime"
+  hex:"#43e85f"
 -
   name:"Toxic Sludge"
   hex:"#00bb33"
