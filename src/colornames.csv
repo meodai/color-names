@@ -1411,6 +1411,7 @@ Atoll Sand,#ffcf9e,
 Atom Blue,#8f9cac,
 Atomic,#3d4b52,
 Atomic Lime,#b9ff03,x
+Atomic Orange,#f88605,x
 Atomic Pink,#fb7efd,x
 Atomic Tangerine,#ff9966,x
 Atrium White,#f1eee4,
@@ -1800,7 +1801,7 @@ Banana Cream,#fff49c,x
 Banana Crepe,#e7d3ad,
 Banana Custard,#fcf3c5,
 Banana Farm,#ffdf38,
-Banana Flash,#eeff00,
+Banana Flash,#eefe02,x
 Banana Frappé,#ddd5b6,x
 Banana Ice Cream,#f1d3b2,
 Banana King,#fffb08,x
@@ -1925,7 +1926,7 @@ Barricade,#84623e,
 Barrier Reef,#0084a1,
 Barro Verde,#9f8e71,
 Basalt Black,#4d423e,
-Basalt Grey,#999999,
+Basalt Grey,#989998,
 Base Camp,#575c3a,
 Base Sand,#bb9955,
 Baseball Base,#f4eadc,
@@ -2645,6 +2646,7 @@ Blasphemous Blue,#3356aa,x
 Blast-Off Bronze,#a57164,
 Blasted Lands Rocks,#6c3550,
 Blaze,#fa8c4f,
+Blaze It Dark Magenta,#420420,
 Blaze Orange,#fe6700,
 Blazing Autumn,#f3ad63,
 Blazing Bonfire,#ffa035,
@@ -2964,6 +2966,7 @@ Blue Linen,#5a5e6a,
 Blue Lips,#a6bce2,x
 Blue Lobelia,#28314d,
 Blue Lobster,#0055aa,
+Blue Loneliness,#486d83,
 Blue Lullaby,#c8d7d2,
 Blue Lust,#012389,
 Blue Luxury,#007593,
@@ -5121,7 +5124,7 @@ Cherry Race,#a64137,
 Cherry Red,#f7022a,
 Cherry Sangria,#c92435,x
 Cherry Shine,#d81d26,
-Cherry Soda,#ff0044,
+Cherry Soda,#ff0044,x
 Cherry Tart,#933d3e,
 Cherry Tomato,#f2013f,x
 Cherry Tree,#dfb7b4,
@@ -5353,7 +5356,7 @@ Chocolate Pancakes,#884400,
 Chocolate Plum,#3c2d2e,
 Chocolate Powder,#a58c7b,
 Chocolate Praline,#66424d,
-Chocolate Pretzel,#60504b,
+Chocolate Pretzel,#60504b,x
 Chocolate Pudding,#6f6665,
 Chocolate Rain,#714f29,x
 Chocolate Red,#4d3635,
@@ -5544,7 +5547,7 @@ Clairvoyant,#480656,x
 Clam,#dad1c0,
 Clam Chowder,#f4d9af,
 Clam Shell,#d2b3a9,
-Clam Up,#ebdbc1,
+Clam Up,#ebdbc1,x
 Clambake,#e0d1bb,
 Clamshell,#edd0b6,
 Claret,#680018,
@@ -7220,7 +7223,7 @@ Decorator White,#f6f4ec,
 Decore Splash,#00829e,
 Decorous Amber,#ac7559,
 Decorum,#b39aa0,
-Decreasing Brown,#987654,
+Decreasing Brown,#987654,x
 Dedication,#fee2c8,
 Deduction,#d4cb83,
 Deep Amethyst,#5b3082,
@@ -8409,7 +8412,7 @@ Eiderdown,#e6dbc6,
 Eiffel Tower,#998e83,x
 Eigengrau,#16161d,x
 Eiger Nordwand,#7799bb,
-Eight Ball,#103020,x
+Eight Ball,#03050a,x
 Eine kleine Nachtmusik,#552299,
 Eire,#d2be9d,
 El Capitan,#b7a696,
@@ -8430,6 +8433,7 @@ Elderflower,#fbf9e8,
 Eleanor Ann,#40373e,
 Election Night,#110320,
 Electra,#55b492,x
+Electric Banana,#fbff00,x
 Electric Blue,#7df9ff,
 Electric Brown,#b56257,
 Electric Crimson,#ff003f,
@@ -8445,6 +8449,7 @@ Electric Lavender,#f4bfff,
 Electric Leaf,#89dd01,
 Electric Lime,#ccff00,
 Electric Orange,#ff3503,
+Electric Pickle,#00ff04,
 Electric Pink,#ff0490,
 Electric Purple,#bf00ff,
 Electric Red,#e60000,
@@ -8930,6 +8935,7 @@ Explorer Blue,#57a3b3,
 Explorer Khaki,#b6ac95,
 Explorer of the Galaxies,#3a1f76,x
 Exploring Khaki,#aa9a79,
+Explosive Grey,#c4c4c4,x
 Explosive Purple,#cc11bb,x
 Express Blue,#395a73,
 Expressionism,#39497b,
@@ -12589,6 +12595,7 @@ Hot Desert,#eae4da,
 Hot Dog Relish,#717c3e,
 Hot Embers,#f55931,
 Hot Fever,#d40301,
+Hot Flamin Chilli,#dd180e,x
 Hot Flamingo,#b35966,x
 Hot Fudge,#5e2912,x
 Hot Ginger,#a36736,
@@ -12719,7 +12726,7 @@ Hyper Green,#55ff00,
 Hyper Light Drifter,#eddbda,x
 Hyper Pink,#ec006c,x
 Hyperlink Blue,#0000ee,x
-Hyperpop Green,#17f9a6,
+Hyperpop Green,#17f9a6,x
 Hypnotic,#687783,
 Hypnotic Green,#73e608,x
 Hypnotic Red,#cf0d14,x
@@ -13201,6 +13208,7 @@ Irish Jig,#66cc11,
 Irish Linen,#eee4e0,
 Irish Mist,#e7e5db,
 Irish Moor,#b5c0b3,x
+Irish Spring,#90cca3,x
 Irogon Blue,#9dacb5,
 Iroko,#433120,
 Iron,#5e5e5e,x
@@ -13310,6 +13318,7 @@ Ivory Steam,#f0eada,
 Ivory Stone,#eee1cc,
 Ivory Tassel,#f8ead8,
 Ivory Tower,#fbf3f1,x
+Ivory Wedding,#edede4,x
 Ivy,#226c63,x
 Ivy Enchantment,#93a272,
 Ivy Garden,#818068,
@@ -13833,6 +13842,7 @@ Kiss Candy,#aa854a,
 Kiss Good Night,#e5c8d9,
 Kiss Me Kate,#e7eeec,
 Kiss Me More,#de6b86,x
+Kiss of a Vampire,#8a0009,x
 Kiss of the Scorpion,#dc331a,x
 Kissable,#fd8f79,x
 Kissed by a Zombies,#b15363,
@@ -15275,6 +15285,7 @@ Lucky Day,#929a7d,
 Lucky Dog,#d3c8ba,
 Lucky Duck,#f4ecd7,
 Lucky Green,#238652,
+Lucky Grey,#777777,x
 Lucky Lime,#9acd32,
 Lucky Lobster,#cc3322,x
 Lucky Orange,#ff7700,
@@ -15747,6 +15758,7 @@ Marilyn Monroe,#e7c3ac,
 Marilyn MonRouge,#c9001e,x
 Marina,#4f84c4,x
 Marina Isle,#b1c8bf,
+Marinara Red,#ff0008,x
 Marine,#042e60,x
 Marine Blue,#01386a,
 Marine Green,#40a48e,
@@ -16439,6 +16451,7 @@ Millbrook,#595648,
 Mille-Feuille,#efc87d,x
 Millennial Pink,#f6c8c1,x
 Millennium Silver,#8c9595,
+Million Grey,#999999,x
 Millionaire,#b6843c,
 Millstream,#b9d4de,
 Milly Green,#99bd91,
@@ -16566,6 +16579,7 @@ Minted Blueberry Lemonade,#b32651,x
 Minted Ice,#d8f3eb,
 Minted Lemon,#c1c6a8,
 Mintie,#abf4d2,
+Mintnight,#7cbbae,x
 Mintos,#80d9cc,
 Minty Fresh,#d2f2e7,
 Minty Frosting,#dbe8cf,
@@ -16636,6 +16650,7 @@ Misty Bead,#d2d59b,
 Misty Blue,#bfcdcc,
 Misty Blush,#ddc9c6,
 Misty Coast,#d5d9d3,
+Misty Cold Sea,#83bbc1,x
 Misty Dawn,#e4e5e0,
 Misty Glen,#cde7db,
 Misty Grape,#65434d,
@@ -17613,6 +17628,7 @@ New Wheat,#d7b57f,
 New Wool,#d6c3b9,
 New Yellow,#e8c247,
 New York Pink,#dd8374,
+New York Sunset,#ff0059,
 New Youth,#f0e1df,
 Newbury Moss,#616550,
 Newburyport,#445a79,
@@ -20220,6 +20236,7 @@ Poised Taupe,#8c7e78,
 Poison Green,#40fd14,
 Poison Ivy,#00ad43,x
 Poison Purple,#7f01fe,x
+Poison Purple Paradise,#b300ff,x
 Poisonberry,#73403e,
 Poisoning Green,#66ff11,
 Poisonous,#55ff11,x
@@ -22952,7 +22969,7 @@ Sauvignon,#f4eae4,
 Sauvignon Blanc,#b18276,
 Savanna,#874c44,
 Savannah,#d1bd92,
-Savannah Grass,#babc72,
+Savannah Grass,#babc72,x
 Savannah Moss,#47533f,
 Savannah Sun,#ffb989,
 Saveloy,#aa2200,
@@ -23001,6 +23018,7 @@ Scarlet,#ff2400,x
 Scarlet Apple,#922e4a,
 Scarlet Cattleya Orchid,#c70752,
 Scarlet Flame,#993366,
+Scarlet Glow,#cb0103,x
 Scarlet Gum,#4a2d57,
 Scarlet Ibis,#f45520,
 Scarlet Past,#a53b3d,
@@ -24154,6 +24172,7 @@ Smoked Amethyst,#5a4351,
 Smoked Black Coffee,#3b2f2f,x
 Smoked Claret,#583a39,
 Smoked Flamingo,#674244,
+Smoked Ham,#f2b381,
 Smoked Lavender,#ceb5b3,
 Smoked Mauve,#a89c97,
 Smoked Mulberry,#725f6c,
@@ -25109,7 +25128,7 @@ Steel Pan Mallet,#71a6a1,
 Steel Pink,#cc33cc,
 Steel Teal,#5f8a8b,
 Steel Toe,#929894,
-Steel Wool,#777777,
+Steel Wool,#767574,
 Steely Grey,#90979b,x
 Steeple Grey,#827e7c,
 Stegadon Scale Green,#074863,
@@ -26403,9 +26422,11 @@ The Bluff,#ffc8c2,
 The Boulevard,#d0a492,
 The Broadway,#145775,
 The Cottage,#837663,
+The Count's Black,#102030,x
 The Devil's Grass,#666420,x
 The Ego Has Landed,#a75455,
 The End,#2a2a2a,x
+The End Is Beer,#eed508,
 The Fang,#585673,
 The Fang Grey,#436174,
 The Fifth Sun,#f0e22c,
@@ -28308,7 +28329,7 @@ Weathered Plastic,#f9f4d9,
 Weathered Saddle,#b5745c,
 Weathered Sandstone,#dfc0a6,
 Weathered Shingle,#937f68,
-Weathered Stone,#c4c4c4,x
+Weathered Stone,#c4c5c6,x
 Weathered White,#e6e3d9,
 Weathered Wicker,#97774d,
 Weathered Wood,#b19c86,x
@@ -29367,6 +29388,7 @@ Zeus,#3b3c38,
 Zeus Palace,#3c343d,
 Zeus Purple,#660077,
 Zeus Temple,#6c94cd,
+Zeus's Bolt,#eeff00,x
 Zheleznogorsk Yellow,#fef200,
 Zhēn Zhū Bái Pearl,#f8f8f9,
 Zhohltyi Yellow,#e4c500,

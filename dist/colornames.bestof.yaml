@@ -344,6 +344,9 @@
   name:"Atomic Lime"
   hex:"#b9ff03"
 -
+  name:"Atomic Orange"
+  hex:"#f88605"
+-
   name:"Atomic Pink"
   hex:"#fb7efd"
 -
@@ -463,6 +466,9 @@
 -
   name:"Banana Cream"
   hex:"#fff49c"
+-
+  name:"Banana Flash"
+  hex:"#eefe02"
 -
   name:"Banana Frappé"
   hex:"#ddd5b6"
@@ -1760,6 +1766,9 @@
   name:"Cherry Sangria"
   hex:"#c92435"
 -
+  name:"Cherry Soda"
+  hex:"#ff0044"
+-
   name:"Cherry Tomato"
   hex:"#f2013f"
 -
@@ -1859,6 +1868,9 @@
   name:"Chocolate Magma"
   hex:"#7a463a"
 -
+  name:"Chocolate Pretzel"
+  hex:"#60504b"
+-
   name:"Chocolate Rain"
   hex:"#714f29"
 -
@@ -1924,6 +1936,9 @@
 -
   name:"Clairvoyant"
   hex:"#480656"
+-
+  name:"Clam Up"
+  hex:"#ebdbc1"
 -
   name:"Classy Mauve"
   hex:"#bb99aa"
@@ -2582,6 +2597,9 @@
   name:"Decadial Pink"
   hex:"#decade"
 -
+  name:"Decreasing Brown"
+  hex:"#987654"
+-
   name:"Deep Forest"
   hex:"#37413a"
 -
@@ -3036,7 +3054,7 @@
   hex:"#16161d"
 -
   name:"Eight Ball"
-  hex:"#103020"
+  hex:"#03050a"
 -
   name:"Elastic Pink"
   hex:"#eca6ca"
@@ -3046,6 +3064,9 @@
 -
   name:"Electra"
   hex:"#55b492"
+-
+  name:"Electric Banana"
+  hex:"#fbff00"
 -
   name:"Electric Eel"
   hex:"#88bbee"
@@ -3256,6 +3277,9 @@
 -
   name:"Explorer of the Galaxies"
   hex:"#3a1f76"
+-
+  name:"Explosive Grey"
+  hex:"#c4c4c4"
 -
   name:"Explosive Purple"
   hex:"#cc11bb"
@@ -5102,6 +5126,9 @@
   name:"Hot Curry"
   hex:"#815b28"
 -
+  name:"Hot Flamin Chilli"
+  hex:"#dd180e"
+-
   name:"Hot Flamingo"
   hex:"#b35966"
 -
@@ -5176,6 +5203,9 @@
 -
   name:"Hyperlink Blue"
   hex:"#0000ee"
+-
+  name:"Hyperpop Green"
+  hex:"#17f9a6"
 -
   name:"Hypnotic Green"
   hex:"#73e608"
@@ -5435,6 +5465,9 @@
   name:"Irish Moor"
   hex:"#b5c0b3"
 -
+  name:"Irish Spring"
+  hex:"#90cca3"
+-
   name:"Iron"
   hex:"#5e5e5e"
 -
@@ -5476,6 +5509,9 @@
 -
   name:"Ivory Tower"
   hex:"#fbf3f1"
+-
+  name:"Ivory Wedding"
+  hex:"#edede4"
 -
   name:"Ivy"
   hex:"#226c63"
@@ -5734,6 +5770,9 @@
 -
   name:"Kiss Me More"
   hex:"#de6b86"
+-
+  name:"Kiss of a Vampire"
+  hex:"#8a0009"
 -
   name:"Kiss of the Scorpion"
   hex:"#dc331a"
@@ -6263,6 +6302,9 @@
   name:"Lucky Clover"
   hex:"#008400"
 -
+  name:"Lucky Grey"
+  hex:"#777777"
+-
   name:"Lucky Lobster"
   hex:"#cc3322"
 -
@@ -6580,6 +6622,9 @@
 -
   name:"Marina"
   hex:"#4f84c4"
+-
+  name:"Marinara Red"
+  hex:"#ff0008"
 -
   name:"Marine"
   hex:"#042e60"
@@ -6911,6 +6956,9 @@
   name:"Millennial Pink"
   hex:"#f6c8c1"
 -
+  name:"Million Grey"
+  hex:"#999999"
+-
   name:"Mimi Pink"
   hex:"#ffdae9"
 -
@@ -6956,11 +7004,17 @@
   name:"Minted Blueberry Lemonade"
   hex:"#b32651"
 -
+  name:"Mintnight"
+  hex:"#7cbbae"
+-
   name:"Minty Paradise"
   hex:"#00ffbb"
 -
   name:"Mississippi River"
   hex:"#3b638c"
+-
+  name:"Misty Cold Sea"
+  hex:"#83bbc1"
 -
   name:"Misty Morning"
   hex:"#b2c8bd"
@@ -8708,6 +8762,9 @@
   name:"Poison Purple"
   hex:"#7f01fe"
 -
+  name:"Poison Purple Paradise"
+  hex:"#b300ff"
+-
   name:"Poisonous"
   hex:"#55ff11"
 -
@@ -9629,6 +9686,9 @@
   name:"Sauna Steam"
   hex:"#edebe1"
 -
+  name:"Savannah Grass"
+  hex:"#babc72"
+-
   name:"Savory Salmon"
   hex:"#d19c97"
 -
@@ -9643,6 +9703,9 @@
 -
   name:"Scarlet"
   hex:"#ff2400"
+-
+  name:"Scarlet Glow"
+  hex:"#cb0103"
 -
   name:"Scarlet Splendour"
   hex:"#cc0c1b"
@@ -10736,6 +10799,9 @@
   name:"Thalassophile"
   hex:"#44aadd"
 -
+  name:"The Count's Black"
+  hex:"#102030"
+-
   name:"The Devil's Grass"
   hex:"#666420"
 -
@@ -11550,7 +11616,7 @@
   hex:"#90614a"
 -
   name:"Weathered Stone"
-  hex:"#c4c4c4"
+  hex:"#c4c5c6"
 -
   name:"Weathered Wood"
   hex:"#b19c86"
@@ -11938,6 +12004,9 @@
 -
   name:"Zenith"
   hex:"#497a9f"
+-
+  name:"Zeus's Bolt"
+  hex:"#eeff00"
 -
   name:"Zinc"
   hex:"#92898a"

@@ -4235,6 +4235,9 @@
   name:"Atomic Lime"
   hex:"#b9ff03"
 -
+  name:"Atomic Orange"
+  hex:"#f88605"
+-
   name:"Atomic Pink"
   hex:"#fb7efd"
 -
@@ -5403,7 +5406,7 @@
   hex:"#ffdf38"
 -
   name:"Banana Flash"
-  hex:"#eeff00"
+  hex:"#eefe02"
 -
   name:"Banana Frappé"
   hex:"#ddd5b6"
@@ -5778,7 +5781,7 @@
   hex:"#4d423e"
 -
   name:"Basalt Grey"
-  hex:"#999999"
+  hex:"#989998"
 -
   name:"Base Camp"
   hex:"#575c3a"
@@ -7937,6 +7940,9 @@
   name:"Blaze"
   hex:"#fa8c4f"
 -
+  name:"Blaze It Dark Magenta"
+  hex:"#420420"
+-
   name:"Blaze Orange"
   hex:"#fe6700"
 -
@@ -8893,6 +8899,9 @@
 -
   name:"Blue Lobster"
   hex:"#0055aa"
+-
+  name:"Blue Loneliness"
+  hex:"#486d83"
 -
   name:"Blue Lullaby"
   hex:"#c8d7d2"
@@ -25230,7 +25239,7 @@
   hex:"#7799bb"
 -
   name:"Eight Ball"
-  hex:"#103020"
+  hex:"#03050a"
 -
   name:"Eine kleine Nachtmusik"
   hex:"#552299"
@@ -25292,6 +25301,9 @@
   name:"Electra"
   hex:"#55b492"
 -
+  name:"Electric Banana"
+  hex:"#fbff00"
+-
   name:"Electric Blue"
   hex:"#7df9ff"
 -
@@ -25336,6 +25348,9 @@
 -
   name:"Electric Orange"
   hex:"#ff3503"
+-
+  name:"Electric Pickle"
+  hex:"#00ff04"
 -
   name:"Electric Pink"
   hex:"#ff0490"
@@ -26791,6 +26806,9 @@
 -
   name:"Exploring Khaki"
   hex:"#aa9a79"
+-
+  name:"Explosive Grey"
+  hex:"#c4c4c4"
 -
   name:"Explosive Purple"
   hex:"#cc11bb"
@@ -37769,6 +37787,9 @@
   name:"Hot Fever"
   hex:"#d40301"
 -
+  name:"Hot Flamin Chilli"
+  hex:"#dd180e"
+-
   name:"Hot Flamingo"
   hex:"#b35966"
 -
@@ -39605,6 +39626,9 @@
   name:"Irish Moor"
   hex:"#b5c0b3"
 -
+  name:"Irish Spring"
+  hex:"#90cca3"
+-
   name:"Irogon Blue"
   hex:"#9dacb5"
 -
@@ -39931,6 +39955,9 @@
 -
   name:"Ivory Tower"
   hex:"#fbf3f1"
+-
+  name:"Ivory Wedding"
+  hex:"#edede4"
 -
   name:"Ivy"
   hex:"#226c63"
@@ -41500,6 +41527,9 @@
 -
   name:"Kiss Me More"
   hex:"#de6b86"
+-
+  name:"Kiss of a Vampire"
+  hex:"#8a0009"
 -
   name:"Kiss of the Scorpion"
   hex:"#dc331a"
@@ -45827,6 +45857,9 @@
   name:"Lucky Green"
   hex:"#238652"
 -
+  name:"Lucky Grey"
+  hex:"#777777"
+-
   name:"Lucky Lime"
   hex:"#9acd32"
 -
@@ -47242,6 +47275,9 @@
 -
   name:"Marina Isle"
   hex:"#b1c8bf"
+-
+  name:"Marinara Red"
+  hex:"#ff0008"
 -
   name:"Marine"
   hex:"#042e60"
@@ -49319,6 +49355,9 @@
   name:"Millennium Silver"
   hex:"#8c9595"
 -
+  name:"Million Grey"
+  hex:"#999999"
+-
   name:"Millionaire"
   hex:"#b6843c"
 -
@@ -49700,6 +49739,9 @@
   name:"Mintie"
   hex:"#abf4d2"
 -
+  name:"Mintnight"
+  hex:"#7cbbae"
+-
   name:"Mintos"
   hex:"#80d9cc"
 -
@@ -49909,6 +49951,9 @@
 -
   name:"Misty Coast"
   hex:"#d5d9d3"
+-
+  name:"Misty Cold Sea"
+  hex:"#83bbc1"
 -
   name:"Misty Dawn"
   hex:"#e4e5e0"
@@ -52840,6 +52885,9 @@
 -
   name:"New York Pink"
   hex:"#dd8374"
+-
+  name:"New York Sunset"
+  hex:"#ff0059"
 -
   name:"New Youth"
   hex:"#f0e1df"
@@ -60661,6 +60709,9 @@
 -
   name:"Poison Purple"
   hex:"#7f01fe"
+-
+  name:"Poison Purple Paradise"
+  hex:"#b300ff"
 -
   name:"Poisonberry"
   hex:"#73403e"
@@ -69005,6 +69056,9 @@
   name:"Scarlet Flame"
   hex:"#993366"
 -
+  name:"Scarlet Glow"
+  hex:"#cb0103"
+-
   name:"Scarlet Gum"
   hex:"#4a2d57"
 -
@@ -72464,6 +72518,9 @@
   name:"Smoked Flamingo"
   hex:"#674244"
 -
+  name:"Smoked Ham"
+  hex:"#f2b381"
+-
   name:"Smoked Lavender"
   hex:"#ceb5b3"
 -
@@ -75330,7 +75387,7 @@
   hex:"#929894"
 -
   name:"Steel Wool"
-  hex:"#777777"
+  hex:"#767574"
 -
   name:"Steely Grey"
   hex:"#90979b"
@@ -79211,6 +79268,9 @@
   name:"The Cottage"
   hex:"#837663"
 -
+  name:"The Count's Black"
+  hex:"#102030"
+-
   name:"The Devil's Grass"
   hex:"#666420"
 -
@@ -79219,6 +79279,9 @@
 -
   name:"The End"
   hex:"#2a2a2a"
+-
+  name:"The End Is Beer"
+  hex:"#eed508"
 -
   name:"The Fang"
   hex:"#585673"
@@ -84927,7 +84990,7 @@
   hex:"#937f68"
 -
   name:"Weathered Stone"
-  hex:"#c4c4c4"
+  hex:"#c4c5c6"
 -
   name:"Weathered White"
   hex:"#e6e3d9"
@@ -88102,6 +88165,9 @@
 -
   name:"Zeus Temple"
   hex:"#6c94cd"
+-
+  name:"Zeus's Bolt"
+  hex:"#eeff00"
 -
   name:"Zheleznogorsk Yellow"
   hex:"#fef200"
