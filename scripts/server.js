@@ -9,6 +9,7 @@ const colorsBestOf = JSON.parse(
     fs.readFileSync(__dirname + '/../dist/colornames.bestof.json', 'utf8')
 );
 const FindColors = require('./findColors.js');
+const getPaletteTitle = require('./generatePaletteName.js');
 const port = process.env.PORT || 8080;
 const currentVersion = 'v1';
 const urlNameSubpath = 'names';
@@ -116,10 +117,35 @@ const respondValueSearch = (
     }}, 404);
   }
 
+  let paletteTitle;
+  let colorsResponse;
+
+  if (urlColorList[0]) {
+    colorsResponse = findColors.getNamesForValues(
+        urlColorList, uniqueMode, goodNamesMode
+    );
+  } else {
+    colorsResponse = goodNamesMode ? colorsBestOf : colors;
+  }
+
+  if (urlColorList.length === 1) {
+    // if there is only one color, just return its name as palette title
+    paletteTitle = colorsResponse[0].name;
+  } else if (urlColorList.length > 1) {
+    // get a palette title for the returned colors
+    paletteTitle = getPaletteTitle(colorsResponse.map((color) => color.name));
+  } else {
+    // return all colors if no colors were given
+    paletteTitle = (goodNamesMode ?
+      'All the best color names' :
+      'All color names'
+    );
+  }
+
+  // actual http response
   return httpRespond(response, {
-    colors: urlColorList[0] ?
-    findColors.getNamesForValues(urlColorList, uniqueMode, goodNamesMode):
-    (goodNamesMode ? colorsBestOf : colors),
+    paletteTitle,
+    colors: colorsResponse,
   }, 200);
 };
 
