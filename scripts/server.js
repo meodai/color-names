@@ -2,6 +2,7 @@ const http = require('http');
 const url = require('url');
 const fs = require('fs');
 const zlib = require('zlib');
+const colorNameLists = require('color-name-lists');
 const colors = JSON.parse(
     fs.readFileSync(__dirname + '/../dist/colornames.json', 'utf8')
 );
@@ -27,7 +28,18 @@ const responseHeaderObj = {
   'Content-Type': 'application/json; charset=utf-8',
 };
 
-const findColors = new FindColors(colors, colorsBestOf);
+// [{name: 'red', value: '#f00'}, ...]
+const colorsLists = {
+  default: colors,
+  colors: colors,
+  bestOf: colorsBestOf,
+};
+
+Object.assign(colorsLists, colorNameLists);
+
+const avalibleColorNameLists = Object.keys(colorsLists);
+
+const findColors = new FindColors(colorsLists);
 
 /**
  * validates a hex color
@@ -54,7 +66,7 @@ const httpRespond = (response, responseObj = {}, statusCode = 200) => {
 
 const respondNameSearch = (
     searchParams = new URLSearchParams(''),
-    goodNamesMode = false,
+    listKey = 'default',
     requestUrl,
     request,
     response
@@ -78,13 +90,13 @@ const respondNameSearch = (
   }
 
   return httpRespond(response, {
-    colors: findColors.searchNames(searchString, goodNamesMode),
+    colors: findColors.searchNames(searchString, listKey),
   }, 200);
 };
 
 const respondValueSearch = (
     searchParams = new URLSearchParams(''),
-    goodNamesMode = false,
+    listKey = 'default',
     requestUrl,
     request,
     response
@@ -122,10 +134,10 @@ const respondValueSearch = (
 
   if (urlColorList[0]) {
     colorsResponse = findColors.getNamesForValues(
-        urlColorList, uniqueMode, goodNamesMode
+        urlColorList, uniqueMode, listKey
     );
   } else {
-    colorsResponse = goodNamesMode ? colorsBestOf : colors;
+    colorsResponse = colorsLists[listKey];
   }
 
   if (urlColorList.length === 1) {
@@ -136,10 +148,7 @@ const respondValueSearch = (
     paletteTitle = getPaletteTitle(colorsResponse.map((color) => color.name));
   } else {
     // return all colors if no colors were given
-    paletteTitle = (goodNamesMode ?
-      'All the best color names' :
-      'All color names'
-    );
+    paletteTitle = `All the ${listKey} names`;
   }
 
   // actual http response
@@ -185,10 +194,25 @@ const requestHandler = (request, response) => {
   const goodNamesMode = searchParams.has('goodnamesonly')
                         && searchParams.get('goodnamesonly') === 'true';
 
+  let listKey = searchParams.has('list')
+                && searchParams.get('list');
+
+  listKey = goodNamesMode ? 'bestOf' : listKey;
+  listKey = listKey || 'default';
+
+  const isValidListKey = listKey && avalibleColorNameLists.includes(listKey);
+
+  if (!isValidListKey) {
+    return httpRespond(response, {error: {
+      status: 404,
+      message: `invalid list key: '${listKey}, available keys are: ${avalibleColorNameLists.join(', ')}`,
+    }}, 404);
+  }
+
   if (!isNamesAPI) {
     return respondValueSearch(
         searchParams,
-        goodNamesMode,
+        listKey,
         requestUrl,
         request,
         response
@@ -196,7 +220,7 @@ const requestHandler = (request, response) => {
   } else {
     return respondNameSearch(
         searchParams,
-        goodNamesMode,
+        listKey,
         requestUrl,
         request,
         response

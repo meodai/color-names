@@ -24,24 +24,34 @@ const enrichColorObj = (colorObj, rgbColorArrRef) => {
 };
 
 module.exports = class FindColors {
-  constructor(colors, colorsBestOf) {
-
-    this.colors = colors;
-    this.colorsBestOf = colorsBestOf;
+  constructor(colorsListsObj) {
+    this.colorLists = colorsListsObj;
 
     // object containing the name:hex pairs for nearestColor()
-    this.rgbColorsArr = [];
-    this.rgbColorsArrBestOf = [];
+    this.colorListsRGBArrays = {};
+    this.closestInstances = {};
 
     // prepare color array
-    this.colors.forEach((c) => enrichColorObj(c, this.rgbColorsArr));
-    this.colorsBestOf.forEach((c) => enrichColorObj(c, this.rgbColorsArrBestOf));
+    Object.keys(this.colorLists).forEach((listName) => {
+      this.colorListsRGBArrays[listName] = [];
 
-    Object.freeze(this.colors);
-    Object.freeze(this.colorsBestOf);
+      this.colorLists[listName].forEach(c => {
+        enrichColorObj(c, this.colorListsRGBArrays[listName]);
+      });
 
-    this.closest = new ClosestVector(this.rgbColorsArr);
-    this.closestBestOf = new ClosestVector(this.rgbColorsArrBestOf);
+      Object.freeze(this.colorLists[listName]);
+      this.closestInstances[listName] = new ClosestVector(
+        this.colorListsRGBArrays[listName]
+      );
+    });
+  }
+
+  _validateListKey (listKey) {
+    if (!this.colorLists[listKey]) {
+      throw new Error(`List key "${listKey}" is not valid.`);
+    } else {
+      return true;
+    }
   }
 
   /**
@@ -49,9 +59,11 @@ module.exports = class FindColors {
    * @param {string} searchStr search term
    * @param {boolen} bestOf    if set only returns good names
    */
-  searchNames (searchStr, bestOf = false) {
-    const colors = bestOf ? this.colorsBestOf : this.colors;
-    return colors.filter(color => color.name.toLowerCase().includes(searchStr.toLowerCase()));
+  searchNames (searchStr, listKey = 'default') {
+    this._validateListKey(listKey);
+    return this.colorLists[listKey].filter(
+      color => color.name.toLowerCase().includes(searchStr.toLowerCase())
+    );
   }
 
   /**
@@ -61,24 +73,30 @@ module.exports = class FindColors {
    * @param   {boolean} bestOf if set only returns good names
    * @return  {object}         object containing all nearest colors
    */
-  getNamesForValues (colorArr, unique = false, bestOf = false) {
-    let localClosest = bestOf ? this.closestBestOf : this.closest;
+  getNamesForValues(colorArr, unique = false, listKey = 'default') {
+    let localClosest = this.closestInstances[listKey];
 
     if (unique) {
       localClosest = new ClosestVector(
-        bestOf ? this.rgbColorsArrBestOf : this.rgbColorsArr,
+        this.colorListsRGBArrays[listKey],
         true
       );
     }
+
+    let lastResult = null;
 
     const colorResp = colorArr.map((hex) => {
       // calculate RGB values for passed color
       const rgb = lib.hexToRgb(hex);
 
       // get the closest named colors
-      const closestColor = localClosest.get([rgb.r, rgb.g, rgb.b]);
-      const color = bestOf ? this.colorsBestOf[closestColor.index] :
-        this.colors[closestColor.index];
+      let closestColor = localClosest.get([rgb.r, rgb.g, rgb.b]);
+      if (closestColor && unique) {
+        lastResult = closestColor;
+      } else if (unique) {
+        closestColor = lastResult;
+      }
+      const color = this.colorLists[listKey][closestColor.index];
 
       return {
         ...color,
