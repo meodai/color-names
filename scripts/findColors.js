@@ -2,7 +2,7 @@ const lib = require('./lib.js');
 const ClosestVector = require('closestvector');
 
 /**
- * entriches color object and fills RGB color arrays
+ * enriches color object and fills RGB color arrays
  * Warning: Not a pure function at all :D
  * @param   {object} colorObj hex representation of color
  * @param   {array} rgbColorArrRef reference to RGB color array
