@@ -36,7 +36,7 @@ const colorsLists = {
   bestOf: colorsBestOf,
 };
 
-Object.assign(colorsLists, colorNameLists);
+Object.assign(colorsLists, colorNameLists.lists);
 
 const avalibleColorNameLists = Object.keys(colorsLists);
 
