@@ -24,9 +24,10 @@ const responseHeaderObj = {
   'Access-Control-Allow-Credentials': false,
   'Access-Control-Max-Age': '86400',
   'Access-Control-Allow-Headers': 'X-Requested-With, X-HTTP-Method-Override, Content-Type, Accept',
-  'Content-Encoding': 'gzip',
   'Content-Type': 'application/json; charset=utf-8',
 };
+
+// accepts encoding
 
 // [{name: 'red', value: '#f00'}, ...]
 const colorsLists = {
@@ -56,12 +57,23 @@ const validateColor = (color) => (
  * @param {object} responseObj   the actual response object
  * @param {*} statusCode         HTTP status code
  */
-const httpRespond = (response, responseObj = {}, statusCode = 200) => {
-  response.writeHead(statusCode, responseHeaderObj);
-  // ends the response with the gziped API answer
-  zlib.gzip(JSON.stringify(responseObj), (_, result) => {
-    response.end(result);
-  });
+const httpRespond = (
+    response,
+    responseObj = {},
+    statusCode = 200,
+    responseHeader = responseHeaderObj
+) => {
+  response.writeHead(statusCode, responseHeader);
+  const stringifiedResponse = JSON.stringify(responseObj);
+
+  if (responseHeader['Content-Encoding'] === 'gzip') {
+    // ends the response with the gziped API answer
+    zlib.gzip(stringifiedResponse, (_, result) => {
+      response.end(result);
+    });
+  } else {
+    response.end(stringifiedResponse);
+  }
 };
 
 const respondNameSearch = (
@@ -69,7 +81,8 @@ const respondNameSearch = (
     listKey = 'default',
     requestUrl,
     request,
-    response
+    response,
+    responseHeader,
 ) => {
   const nameQuery = request.url.replace(requestUrl.search, '')
   // splits the base url from everything
@@ -83,15 +96,20 @@ const respondNameSearch = (
   const searchString = decodeURI(nameString || nameQuery);
 
   if (searchString.length < 3) {
-    return httpRespond(response, {error: {
-      status: 404,
-      message: `the color name your are looking for must be at least 3 characters long.`,
-    }}, 404);
+    return httpRespond(
+        response,
+        {error: {
+          status: 404,
+          message: `the color name your are looking for must be at least 3 characters long.`,
+        }},
+        404,
+        responseHeader
+    );
   }
 
   return httpRespond(response, {
     colors: findColors.searchNames(searchString, listKey),
-  }, 200);
+  }, 200, responseHeader);
 };
 
 const respondValueSearch = (
@@ -99,7 +117,8 @@ const respondValueSearch = (
     listKey = 'default',
     requestUrl,
     request,
-    response
+    response,
+    responseHeader
 ) => {
   const uniqueMode = searchParams.has('noduplicates')
                     && searchParams.get('noduplicates') === 'true';
@@ -123,10 +142,17 @@ const respondValueSearch = (
   ));
 
   if (invalidColors.length) {
-    return httpRespond(response, {error: {
-      status: 404,
-      message: `'${invalidColors.join(', ')}' is not a valid HEX color`,
-    }}, 404);
+    return httpRespond(
+      response,
+      {
+        error: {
+          status: 404,
+          message: `'${invalidColors.join(', ')}' is not a valid HEX color`,
+        }
+      },
+      404,
+      responseHeader
+    );
   }
 
   let paletteTitle;
@@ -155,7 +181,7 @@ const respondValueSearch = (
   return httpRespond(response, {
     paletteTitle,
     colors: colorsResponse,
-  }, 200);
+  }, 200, responseHeader);
 };
 
 /**
@@ -173,6 +199,7 @@ const requestHandler = (request, response) => {
   const requestUrl = url.parse(request.url);
   const isAPI = requestUrl.pathname.includes(baseUrl);
   const isNamesAPI = requestUrl.pathname.includes(urlNameSubpath + '/');
+  const responseHeader = {...responseHeaderObj};
 
   // understanding where requests come from
   console.info(
@@ -180,12 +207,28 @@ const requestHandler = (request, response) => {
       request.headers.origin
   );
 
+  if (request.headers['accept-encoding']) {
+    const accepts = request.headers['accept-encoding'];
+    if (accepts.toLowerCase().includes("gzip")) {
+      responseHeader['Content-Encoding'] = 'gzip';
+    }
+  }
+
+  let accpets = request.headers['accept-encoding'];
+
   // makes sure the API is beeing requested
   if (!isAPI) {
-    return httpRespond(response, {error: {
-      status: 404,
-      message: 'invalid URL: make sure to provide the API version',
-    }}, 404);
+    return httpRespond(
+      response,
+      {
+        error: {
+          status: 404,
+          message: 'invalid URL: make sure to provide the API version',
+        }
+      },
+      404,
+      responseHeader
+    );
   }
 
   // const search = requestUrl.search || '';
@@ -203,10 +246,16 @@ const requestHandler = (request, response) => {
   const isValidListKey = listKey && avalibleColorNameLists.includes(listKey);
 
   if (!isValidListKey) {
-    return httpRespond(response, {error: {
-      status: 404,
-      message: `invalid list key: '${listKey}, available keys are: ${avalibleColorNameLists.join(', ')}`,
-    }}, 404);
+    return httpRespond(
+      response,
+      {
+        error: {
+          status: 404,
+          message: `invalid list key: '${listKey}, available keys are: ${avalibleColorNameLists.join(', ')}`,
+        }
+      },
+      404
+    );
   }
 
   if (!isNamesAPI) {
@@ -215,7 +264,8 @@ const requestHandler = (request, response) => {
         listKey,
         requestUrl,
         request,
-        response
+        response,
+        responseHeader,
     );
   } else {
     return respondNameSearch(
@@ -223,7 +273,8 @@ const requestHandler = (request, response) => {
         listKey,
         requestUrl,
         request,
-        response
+        response,
+        responseHeader,
     );
   }
 };
