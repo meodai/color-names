@@ -8,6 +8,9 @@
   name:"24 Carrot"
   hex:"#e56e24"
 -
+  name:"24 Karat"
+  hex:"#dfc685"
+-
   name:"3AM in Shibuya"
   hex:"#225577"
 -
@@ -65,6 +68,9 @@
   name:"Agressive Aqua"
   hex:"#00fbff"
 -
+  name:"Air-Kiss"
+  hex:"#f6dcd2"
+-
   name:"Airborne"
   hex:"#a2c2d0"
 -
@@ -73,6 +79,9 @@
 -
   name:"Alarm"
   hex:"#ec0003"
+-
+  name:"Alaska"
+  hex:"#dadad1"
 -
   name:"Alien Abduction"
   hex:"#0cff0c"
@@ -127,6 +136,9 @@
 -
   name:"Ambrosia"
   hex:"#d2e7ca"
+-
+  name:"Ambrosial Oceanside"
+  hex:"#47ae9c"
 -
   name:"Amnesiac White"
   hex:"#f8fbeb"
@@ -248,8 +260,14 @@
   name:"Aquarius"
   hex:"#3cadd4"
 -
+  name:"Aquatic Edge"
+  hex:"#bfd6d1"
+-
   name:"Arabica Mint"
   hex:"#c0ffee"
+-
+  name:"Arancio"
+  hex:"#ff7013"
 -
   name:"Arcade Fire"
   hex:"#ee3311"
@@ -398,6 +416,9 @@
   name:"Aztec Warrior"
   hex:"#bb0066"
 -
+  name:"Azulado"
+  hex:"#211d49"
+-
   name:"Azure"
   hex:"#007fff"
 -
@@ -439,6 +460,9 @@
 -
   name:"Ballerina"
   hex:"#f2cfdc"
+-
+  name:"Balsamico"
+  hex:"#130d07"
 -
   name:"Baltic"
   hex:"#279d9f"
@@ -2464,6 +2488,9 @@
 -
   name:"Dark Charcoal"
   hex:"#333232"
+-
+  name:"Dark Chocolate"
+  hex:"#624a49"
 -
   name:"Dark Crypt"
   hex:"#3f4551"
@@ -4916,6 +4943,9 @@
   name:"Highlander"
   hex:"#3a533d"
 -
+  name:"Highlands"
+  hex:"#449084"
+-
   name:"Highway to Hell"
   hex:"#cd1102"
 -
@@ -5308,6 +5338,9 @@
 -
   name:"In Good Taste"
   hex:"#b6d4a0"
+-
+  name:"In the Dark"
+  hex:"#3b3c41"
 -
   name:"In the Pink"
   hex:"#f4c4d0"
@@ -6125,6 +6158,9 @@
   name:"Linen"
   hex:"#faf0e6"
 -
+  name:"Lingering Storm"
+  hex:"#858381"
+-
   name:"Link to the Past"
   hex:"#d2b48c"
 -
@@ -6913,6 +6949,9 @@
 -
   name:"Midnight Serenade"
   hex:"#41434e"
+-
+  name:"Midnight Shadow"
+  hex:"#566373"
 -
   name:"Midnight Sky"
   hex:"#424753"
@@ -9260,6 +9299,9 @@
   name:"Razzle Dazzle"
   hex:"#ba417b"
 -
+  name:"Re-Entry Red"
+  hex:"#cd0317"
+-
   name:"Reading Tea Leaves"
   hex:"#7d5d5e"
 -
@@ -10574,6 +10616,9 @@
   name:"Sunbathed"
   hex:"#f5dd98"
 -
+  name:"Sunbathed Beach"
+  hex:"#fad28f"
+-
   name:"Sunbathing Beauty"
   hex:"#7e4730"
 -
@@ -10867,6 +10912,9 @@
 -
   name:"Toasted Marshmallow Fluff"
   hex:"#fff9eb"
+-
+  name:"Toasted Paprika"
+  hex:"#a34631"
 -
   name:"Tobacco"
   hex:"#684f3c"
@@ -11651,6 +11699,9 @@
   name:"Wheat"
   hex:"#fbdd7e"
 -
+  name:"Where There Is Smoke"
+  hex:"#c7ccce"
+-
   name:"Whipped Cream"
   hex:"#f2f0e7"
 -
@@ -11777,6 +11828,9 @@
   name:"Wind Blown"
   hex:"#dde3e7"
 -
+  name:"Wind Chime"
+  hex:"#dfe0e2"
+-
   name:"Wind Chimes"
   hex:"#cac5c2"
 -
@@ -11794,6 +11848,12 @@
 -
   name:"Windstorm"
   hex:"#6d98c4"
+-
+  name:"Windsurfing"
+  hex:"#3a7099"
+-
+  name:"Windy"
+  hex:"#bdd1d2"
 -
   name:"Windy Meadow"
   hex:"#b0a676"
@@ -11852,6 +11912,9 @@
   name:"Wisteria Blue"
   hex:"#84a2d4"
 -
+  name:"Witch Brew"
+  hex:"#888738"
+-
   name:"Witch Hazel"
   hex:"#fbf073"
 -
@@ -11888,6 +11951,9 @@
   name:"Woodland Grass"
   hex:"#004400"
 -
+  name:"Woodland Night"
+  hex:"#475c5d"
+-
   name:"Woodland Soul"
   hex:"#127a49"
 -
@@ -11896,6 +11962,9 @@
 -
   name:"Worn Silver"
   hex:"#c9c0bb"
+-
+  name:"Wrapped in Twilight"
+  hex:"#5f6d6e"
 -
   name:"Wreath"
   hex:"#76856a"
@@ -11941,6 +12010,9 @@
 -
   name:"Yellow Mana"
   hex:"#fdfcbf"
+-
+  name:"Yellow Mellow"
+  hex:"#f0d31e"
 -
   name:"Yellow Submarine"
   hex:"#ffff14"

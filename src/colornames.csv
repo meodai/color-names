@@ -5,7 +5,7 @@ name,hex,good name
 1989 Miami Hotline,#dd3366,
 20000 Leagues Under the Sea,#191970,x
 24 Carrot,#e56e24,x
-24 Karat,#ab7f46,
+24 Karat,#dfc685,x
 3AM in Shibuya,#225577,x
 3am Latte,#c0a98e,x
 400XT Film,#d2d2c0,
@@ -79,6 +79,7 @@ Acajou,#4c2f27,
 Acanthus,#9899a7,
 Acanthus Leaf,#90977a,
 Acapulco,#75aa94,
+Acapulco Aqua,#7fa8a7,
 Acapulco Cliffs,#4e9aa8,
 Acapulco Dive,#65a7dd,x
 Acapulco Sun,#eb8a44,
@@ -267,6 +268,7 @@ Air Castle,#d7d1e9,
 Air Force Blue,#5d8aa8,
 Air of Mint,#d8f2ee,
 Air Superiority Blue,#72a0c1,
+Air-Kiss,#f6dcd2,x
 Airborne,#a2c2d0,x
 Airbrushed Copper,#aa6c51,
 Aircraft Blue,#354f58,
@@ -276,6 +278,7 @@ Aircraft White,#edf2f8,
 Airflow,#d9e5e4,
 Airforce,#364d70,
 Airline Green,#8c9632,
+Airway,#aec1d4,
 Airy,#dae6e9,
 Airy Blue,#88ccee,
 Airy Green,#dbe0c4,
@@ -306,6 +309,7 @@ Alameda Ochre,#ca9234,
 Alamosa Green,#939b71,
 Alarm,#ec0003,x
 Alarming Slime,#2ce335,
+Alaska,#dadad1,x
 Alaskan Blue,#6da9d2,
 Alaskan Cruise,#34466c,
 Alaskan Grey,#bcbebc,
@@ -584,6 +588,7 @@ Ambrosia,#d2e7ca,x
 Ambrosia Coffee Cake,#eee9d3,
 Ambrosia Ivory,#fff4eb,
 Ambrosia Salad,#f4ded3,
+Ambrosial Oceanside,#47ae9c,x
 Ameixa,#6a5acd,
 Amelia,#beccc2,
 Amélie's Tutu,#fea7bd,
@@ -1070,6 +1075,7 @@ Aquarius Reef Base,#559999,
 Aquastone,#89c6b7,
 Aquatic,#99c1cc,
 Aquatic Cool,#41a0b4,
+Aquatic Edge,#bfd6d1,x
 Aquatic Green,#49999a,
 Aquatint,#b8e7de,
 Aquatone,#a6b5a9,
@@ -1098,6 +1104,7 @@ Aragonite Grey,#948e96,
 Aragonite White,#f3f1f3,
 Araigaki Orange,#ec8254,
 Arame Seaweed Green,#3f4635,
+Arancio,#ff7013,x
 Arapawa,#274a5d,
 Arathi Highlands,#93a344,
 Araucana Egg,#add8e1,
@@ -1240,6 +1247,7 @@ Artful Red,#b30103,
 Artichoke,#8f9779,x
 Artichoke Dip,#a19676,
 Artichoke Green,#4b6d41,
+Artichoke Heart,#e4d588,
 Artichoke Mauve,#c19aa5,
 Artifact,#ca9d8d,
 Artifice,#e6e2d3,
@@ -1542,6 +1550,7 @@ Avocado Peel,#39373b,
 Avocado Stone,#4e3e1f,x
 Avocado Toast,#90b134,
 Avocado Whip,#cdd6b1,
+Avorio,#ccbdb4,
 Awaken,#a7a3bb,
 Awakened,#e3dae9,
 Awakening,#bb9e9b,
@@ -1565,12 +1574,14 @@ Azalea Flower,#efc0cb,
 Azalea Leaf,#4a6871,
 Azalea Pink,#f9c0c4,
 Azeitona,#a5b546,
+Azores,#7c968b,
 Azores Blue,#0085a7,
 Azraq Blue,#4c6cb3,
 Azshara Vein,#b13916,
 Aztec,#293432,x
 Aztec Aura,#ffefbc,
 Aztec Brick,#9e8352,
+Aztec Copper,#c46943,
 Aztec Glimmer,#e7b347,
 Aztec Gold,#c39953,
 Aztec Jade,#33bb88,
@@ -1588,6 +1599,7 @@ Azul Petróleo,#36454f,
 Azul Primavera,#e2eff2,
 Azul Tequila,#c0cfc7,
 Azul Turquesa,#6abac4,
+Azulado,#211d49,x
 Azure,#007fff,x
 Azure Blue,#4d91c6,
 Azure Dragon,#053976,
@@ -1761,6 +1773,7 @@ Balsam Fir,#909e91,
 Balsam Green,#576664,
 Balsam Pear,#b19338,
 Balsamic Reduction,#434340,
+Balsamico,#130d07,x
 Balthasar Gold,#a47552,
 Baltic,#279d9f,x
 Baltic Blue,#6c969a,
@@ -2711,6 +2724,7 @@ Blithe Blue,#90bdbd,
 Blithe Mood,#c0c1b9,
 Blizzard,#e5ebed,
 Blizzard Blue,#a3e3ed,x
+Blizzy Blueberry,#1151b4,
 Blobfish,#ffc1cc,
 Blockchain Gold,#e8bc50,
 Bloedworst,#560319,
@@ -4372,6 +4386,7 @@ Cannon Grey,#646c64,
 Cannon Pink,#8e5164,
 Canoe,#ddc49e,
 Canoe Blue,#1d5671,
+Canola Oil,#f7eb7a,
 Canopy,#728f02,
 Cantaloupe,#ffd479,x
 Cantaloupe Slice,#feb079,
@@ -6974,6 +6989,7 @@ Dark Catacombs,#513116,
 Dark Cavern,#55504d,
 Dark Charcoal,#333232,x
 Dark Cherry Mocha,#774d41,
+Dark Chocolate,#624a49,x
 Dark Citron,#aabb00,
 Dark Clove,#4c3d31,
 Dark Cobalt Blue,#33578a,
@@ -6983,6 +6999,7 @@ Dark Cyan,#008b8b,x
 Dark Danger,#2f1212,
 Dark Denim,#005588,x
 Dark Denim Blue,#00334f,
+Dark Drama,#5a3939,
 Dark Dreams,#332266,x
 Dark Earth,#884455,
 Dark Ebony,#3d2004,
@@ -12297,6 +12314,7 @@ Highland Green,#305144,
 Highland Ridge,#8f714b,
 Highland Thistle,#b9a1ae,
 Highlander,#3a533d,x
+Highlands,#449084,x
 Highlands Moss,#445500,
 Highlands Twilight,#484a80,
 Highlight,#eef0de,
@@ -12315,6 +12333,7 @@ Highway,#bdb388,
 Highway to Hell,#cd1102,x
 Hihada Brown,#752e23,
 Hiker's Delight,#d2b395,
+Hiking,#9d9866,
 Hiking Boots,#5e5440,
 Hiking Trail,#a99170,
 Hill Giant,#e0eedf,
@@ -12481,6 +12500,7 @@ Honey Flower,#5c3c6d,
 Honey Fungus,#d18e54,
 Honey Garlic Beef,#884422,
 Honey Ginger,#a86217,
+Honey Glaze,#ffd775,
 Honey Glow,#e8b447,x
 Honey Gold,#e1b67c,x
 Honey Graham,#bc886a,
@@ -12934,6 +12954,7 @@ In for a Penny,#ee8877,x
 In Good Taste,#b6d4a0,x
 In the Blue,#9eb0bb,
 In the Buff,#d6cbbf,
+In the Dark,#3b3c41,x
 In the Hills,#aea69b,
 In the Moment,#859893,
 In the Navy,#283849,
@@ -13369,6 +13390,7 @@ Jade Lime,#a1ca7b,
 Jade Mist,#d6e9d7,
 Jade Mountain,#34c2a7,
 Jade Mussel Green,#166a45,
+Jade of Emeralds,#318f33,
 Jade Orchid,#00aaaa,
 Jade Powder,#2baf6a,
 Jade Shard,#017b92,
@@ -14974,6 +14996,7 @@ Linen Grey,#466163,
 Linen Ruffle,#efebe3,
 Linen White,#e9dcd1,
 Lingering Lilac,#e6def0,
+Lingering Storm,#858381,x
 Lingonberry,#ff255c,
 Lingonberry Punch,#a95657,
 Lingonberry Red,#ce4458,
@@ -16373,6 +16396,7 @@ Midnight Pines,#17240b,x
 Midnight Purple,#280137,
 Midnight Sea,#565b8d,
 Midnight Serenade,#41434e,x
+Midnight Shadow,#566373,x
 Midnight Show,#546473,
 Midnight Sky,#424753,x
 Midnight Spruce,#555b53,
@@ -21415,6 +21439,7 @@ Razzmatazz,#e30b5c,
 Razzmatazz Lips,#e3256b,
 Razzmic Berry,#8d4e85,
 Rè Dài Chéng Orange,#f08101,
+Re-Entry Red,#cd0317,x
 Reading Tea Leaves,#7d5d5e,x
 Ready Lawn,#7ba570,
 Real Brown,#563d2d,
@@ -25615,6 +25640,7 @@ Sun's Rage,#a94e37,
 Suna White,#dcd3b2,
 Sunbaked Adobe,#ab9a6e,
 Sunbathed,#f5dd98,x
+Sunbathed Beach,#fad28f,x
 Sunbathing Beauty,#7e4730,x
 Sunbeam,#f5edb2,x
 Sunbeam Yellow,#f0d39d,
@@ -26698,6 +26724,7 @@ Toasted Marshmallow Fluff,#fff9eb,x
 Toasted Nut,#c08768,
 Toasted Nutmeg,#a47365,
 Toasted Oatmeal,#efdecc,
+Toasted Paprika,#a34631,x
 Toasted Pecan,#765143,
 Toasted Pine Nut,#dcc6a6,
 Toasted Sesame,#af9a73,
@@ -28438,6 +28465,7 @@ Wheel of Dharma,#ffcd00,
 When Blue Met Red,#584165,
 When Red Met Blue,#564375,
 Where Buffalo Roam,#c19851,
+Where There Is Smoke,#c7ccce,x
 Whero Red,#dd262b,
 Whetstone,#d8d6c5,
 Whetstone Brown,#9f6f55,
@@ -28763,6 +28791,7 @@ Wind Blown,#dde3e7,x
 Wind Blue,#b1c9df,
 Wind Cave,#686c7b,
 Wind Chill,#eff3f0,
+Wind Chime,#dfe0e2,x
 Wind Chimes,#cac5c2,x
 Wind Force,#d5e2ee,
 Wind Fresh White,#d0d8cf,
@@ -28808,11 +28837,13 @@ Windstorm,#6d98c4,x
 Windsurf,#91aab8,
 Windsurf Blue,#718bae,
 Windsurfer,#d7e2de,
+Windsurfing,#3a7099,x
 Windswept,#d1f1f5,
 Windswept Beach,#e3e4e5,
 Windswept Canyon,#dba480,
 Windswept Leaves,#b7926b,
 Windwood Spring,#c2e5e0,
+Windy,#bdd1d2,x
 Windy Blue,#aabac6,
 Windy City,#88a3c2,
 Windy Day,#8cb0cb,
@@ -28993,6 +29024,7 @@ Wistful Beige,#eaddd7,
 Wistful Longing,#e33928,
 Wistful Mauve,#946c74,
 Wistman's Wood,#aa9966,
+Witch Brew,#888738,x
 Witch Hazel,#fbf073,x
 Witch Hazel Leaf,#8e8976,
 Witch Soup,#692746,
@@ -29014,10 +29046,12 @@ Wizard White,#dff1fd,
 Wizard's Brew,#a090b8,x
 Wizard's Potion,#5d6098,
 Wizard's Spell,#584b4e,
+Wizards Orb,#007c76,
 Woad Blue,#597fb9,
 Woad Indigo,#6c9898,
 Woad Purple,#584769,
 Wobbegong Brown,#c19a6b,
+Wolf,#788389,
 Wolf Lichen,#a8ff04,
 Wolf Pack,#78776f,x
 Wolf's Bane,#3d343f,
@@ -29070,6 +29104,7 @@ Woodland,#626746,
 Woodland Brown,#5f4737,
 Woodland Grass,#004400,x
 Woodland Moss,#5c645c,
+Woodland Night,#475c5d,x
 Woodland Nymph,#69804b,
 Woodland Sage,#a4a393,
 Woodland Soul,#127a49,x
@@ -29080,6 +29115,7 @@ Woodrose,#ae8c8e,
 Woodruff Green,#8b9916,
 Woodrush,#45402b,
 Woodsmoke,#2b3230,
+Woodstock,#9b8a5f,
 Woodstock Rose,#e9cab6,
 Woodsy Brown,#3d271d,
 Woodward Park,#755f4a,
@@ -29123,6 +29159,7 @@ Woven Reed,#dddcbf,
 Woven Straw,#c1ac8b,
 Woven Wicker,#b99974,
 Wrack White,#ecead0,
+Wrapped in Twilight,#5f6d6e,x
 Wreath,#76856a,x
 Wren,#4a4139,
 Wright Brown,#71635e,
@@ -29219,6 +29256,7 @@ Yellow Maize,#c0a85a,
 Yellow Mana,#fdfcbf,x
 Yellow Mandarin,#d28034,
 Yellow Mask,#f6d255,
+Yellow Mellow,#f0d31e,x
 Yellow Metal,#73633e,
 Yellow Nile,#95804a,
 Yellow Ocher,#c39143,
@@ -29271,6 +29309,8 @@ Yellowstone Park,#e4d6ba,
 Yellowy Green,#bff128,
 Yerba Mate,#c8c48f,
 Yeti Footprint,#c7d7e0,x
+Yew,#abbc01,
+Yew Hedge,#656952,
 Yín Bái Silver,#e0e1e2,
 Yin Hūi Silver,#848999,
 Yin Mist,#3b3c3c,

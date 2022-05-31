@@ -2,6 +2,7 @@ name,hex
 100 Mph,#c93f38
 20000 Leagues Under the Sea,#191970
 24 Carrot,#e56e24
+24 Karat,#dfc685
 3AM in Shibuya,#225577
 3am Latte,#c0a98e
 8 Bit Eggplant,#990066
@@ -21,9 +22,11 @@ Active Volcano,#bb1133
 After Midnight,#38393f
 Aged Antics,#886b2e
 Agressive Aqua,#00fbff
+Air-Kiss,#f6dcd2
 Airborne,#a2c2d0
 Akari Red,#c90b42
 Alarm,#ec0003
+Alaska,#dadad1
 Alien Abduction,#0cff0c
 Alienated,#00cc55
 Alley Cat,#656874
@@ -42,6 +45,7 @@ Amaretto Sour,#c09856
 Amazon,#387b54
 Amber,#ffbf00
 Ambrosia,#d2e7ca
+Ambrosial Oceanside,#47ae9c
 Amnesiac White,#f8fbeb
 Amor,#ee3377
 Amora Purple,#bb22aa
@@ -82,7 +86,9 @@ Aqua,#00ffff
 Aqua Fiesta,#96e2e1
 Aquamarine,#2ee8bb
 Aquarius,#3cadd4
+Aquatic Edge,#bfd6d1
 Arabica Mint,#c0ffee
+Arancio,#ff7013
 Arcade Fire,#ee3311
 Arcane Red,#6a2f2f
 Archeology,#6e6a5e
@@ -132,6 +138,7 @@ Ayahuasca Vine,#665500
 Aztec,#293432
 Aztec Temple,#84705b
 Aztec Warrior,#bb0066
+Azulado,#211d49
 Azure,#007fff
 Baba Ganoush,#eebb88
 Babe,#dc7b7c
@@ -146,6 +153,7 @@ Baker’s Bread,#d0b393
 Bakery Brown,#ab9078
 Baklava,#efb435
 Ballerina,#f2cfdc
+Balsamico,#130d07
 Baltic,#279d9f
 Bambino,#8edacc
 Bamboo Forest,#b1a979
@@ -821,6 +829,7 @@ Dark Ages,#9698a3
 Dark as Night,#495252
 Dark Blue,#305679
 Dark Charcoal,#333232
+Dark Chocolate,#624a49
 Dark Crypt,#3f4551
 Dark Cyan,#008b8b
 Dark Denim,#005588
@@ -1638,6 +1647,7 @@ High Sierra,#cedee2
 High Voltage,#eeff11
 Highland,#7a9461
 Highlander,#3a533d
+Highlands,#449084
 Highway to Hell,#cd1102
 Himalaya,#736330
 Himalayan Salt,#c07765
@@ -1769,6 +1779,7 @@ Imperial Yellow,#ffb200
 In A Pickle,#978c59
 In for a Penny,#ee8877
 In Good Taste,#b6d4a0
+In the Dark,#3b3c41
 In the Pink,#f4c4d0
 In the Red,#ff2233
 In the Shadows,#cbc4c0
@@ -2041,6 +2052,7 @@ Limoncello,#bfff00
 Lincoln Green,#195905
 Lindworm Green,#172808
 Linen,#faf0e6
+Lingering Storm,#858381
 Link to the Past,#d2b48c
 Lion,#c19a62
 Lion King,#dd9933
@@ -2304,6 +2316,7 @@ Midnight in Tokyo,#000088
 Midnight Melancholia,#002266
 Midnight Pines,#17240b
 Midnight Serenade,#41434e
+Midnight Shadow,#566373
 Midnight Sky,#424753
 Midori,#2a603b
 Midsummer Nights,#0011ee
@@ -3086,6 +3099,7 @@ Raven's Coat,#030205
 Ravenclaw,#0a0555
 Ravioli al Limone,#fade79
 Razzle Dazzle,#ba417b
+Re-Entry Red,#cd0317
 Reading Tea Leaves,#7d5d5e
 Realm of the Underworld,#114411
 Rebellion Red,#cc0404
@@ -3524,6 +3538,7 @@ Summer's End,#dc9367
 Summit,#8bb6b8
 Sun Flooded Woods,#d0d418
 Sunbathed,#f5dd98
+Sunbathed Beach,#fad28f
 Sunbathing Beauty,#7e4730
 Sunbeam,#f5edb2
 Sunburst,#f6c289
@@ -3622,6 +3637,7 @@ Toad King,#3d6c54
 Toadstool,#b8282f
 Toast and Butter,#d2ad84
 Toasted Marshmallow Fluff,#fff9eb
+Toasted Paprika,#a34631
 Tobacco,#684f3c
 Tobacco Leaf,#8c724f
 Toffee,#755139
@@ -3883,6 +3899,7 @@ Whale Shark,#607c8e
 Whale's Tale,#115a82
 What We Do in the Shadows,#441122
 Wheat,#fbdd7e
+Where There Is Smoke,#c7ccce
 Whipped Cream,#f2f0e7
 Whirlpool,#a5d8cd
 Whiskers,#f6f1e2
@@ -3925,12 +3942,15 @@ Wilderness,#8f886c
 Wildfire,#ff8833
 Willow Leaf,#a1a46d
 Wind Blown,#dde3e7
+Wind Chime,#dfe0e2
 Wind Chimes,#cac5c2
 Windfall,#84a7ce
 Windjammer,#62a5df
 Windows 95 Desktop,#018281
 Windsor Toffee,#ccb490
 Windstorm,#6d98c4
+Windsurfing,#3a7099
+Windy,#bdd1d2
 Windy Meadow,#b0a676
 Wine & Roses,#a33540
 Wine Barrel,#aa5522
@@ -3950,6 +3970,7 @@ Wintermint,#94d2bf
 Wishing Well,#d0d1c1
 Wisteria,#a87dc2
 Wisteria Blue,#84a2d4
+Witch Brew,#888738
 Witch Hazel,#fbf073
 Witchcraft,#474c50
 Wizard,#4d5b88
@@ -3962,9 +3983,11 @@ Wood Bark,#302621
 Woodgrain,#996633
 Woodhaven,#9e7b6c
 Woodland Grass,#004400
+Woodland Night,#475c5d
 Woodland Soul,#127a49
 Worcestershire Sauce,#572b26
 Worn Silver,#c9c0bb
+Wrapped in Twilight,#5f6d6e
 Wreath,#76856a
 Wu-Tang Gold,#f8d106
 X Marks the Spot,#e6474a
@@ -3980,6 +4003,7 @@ Yellow,#ffff00
 Yellow Buzzing,#eedd11
 Yellow Chalk,#f5f9ad
 Yellow Mana,#fdfcbf
+Yellow Mellow,#f0d31e
 Yellow Submarine,#ffff14
 Yellowish,#faee66
 Yeti Footprint,#c7d7e0
