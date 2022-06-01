@@ -517,6 +517,10 @@
 <hex>#447744</hex>
 </color>
 <color>
+<name>Autumn Fire</name>
+<hex>#c44e4f</hex>
+</color>
+<color>
 <name>Autumn Gold</name>
 <hex>#7d623c</hex>
 </color>
@@ -605,6 +609,10 @@
 <hex>#b4da55</hex>
 </color>
 <color>
+<name>Baker's Dream</name>
+<hex>#c98f70</hex>
+</color>
+<color>
 <name>Baker’s Bread</name>
 <hex>#d0b393</hex>
 </color>
@@ -621,6 +629,10 @@
 <hex>#f2cfdc</hex>
 </color>
 <color>
+<name>Ballet</name>
+<hex>#f7d5d4</hex>
+</color>
+<color>
 <name>Balsamico</name>
 <hex>#130d07</hex>
 </color>
@@ -635,6 +647,10 @@
 <color>
 <name>Bamboo Forest</name>
 <hex>#b1a979</hex>
+</color>
+<color>
+<name>Banan-appeal</name>
+<hex>#faf3a6</hex>
 </color>
 <color>
 <name>Banana</name>
@@ -797,6 +813,10 @@
 <hex>#96dfce</hex>
 </color>
 <color>
+<name>Beach View</name>
+<hex>#4f7694</hex>
+</color>
+<color>
 <name>Bear Hug</name>
 <hex>#796359</hex>
 </color>
@@ -809,8 +829,16 @@
 <hex>#7db39e</hex>
 </color>
 <color>
+<name>Beau Vert</name>
+<hex>#0c6064</hex>
+</color>
+<color>
 <name>Beautiful Darkness</name>
 <hex>#686d70</hex>
+</color>
+<color>
+<name>Beauty and the Beach</name>
+<hex>#c99680</hex>
 </color>
 <color>
 <name>Béchamel</name>
@@ -843,6 +871,10 @@
 <color>
 <name>Beige</name>
 <hex>#e6daa6</hex>
+</color>
+<color>
+<name>Bejewelled</name>
+<hex>#25a26f</hex>
 </color>
 <color>
 <name>Belgian Waffle</name>
@@ -893,6 +925,10 @@
 <hex>#cc363c</hex>
 </color>
 <color>
+<name>Berber</name>
+<hex>#d8cfb6</hex>
+</color>
+<color>
 <name>Bergamot</name>
 <hex>#95c703</hex>
 </color>
@@ -919,6 +955,10 @@
 <color>
 <name>Berry Jam</name>
 <hex>#655883</hex>
+</color>
+<color>
+<name>Berrylicious</name>
+<hex>#d75e6c</hex>
 </color>
 <color>
 <name>Bethlehem Superstar</name>
@@ -985,6 +1025,10 @@
 <hex>#f6eedf</hex>
 </color>
 <color>
+<name>Bird Bath Blue</name>
+<hex>#cddfe7</hex>
+</color>
+<color>
 <name>Biscuit</name>
 <hex>#feedca</hex>
 </color>
@@ -1027,6 +1071,10 @@
 <color>
 <name>Black</name>
 <hex>#000000</hex>
+</color>
+<color>
+<name>Black Box</name>
+<hex>#0f282f</hex>
 </color>
 <color>
 <name>Black Cherry</name>
@@ -1509,6 +1557,10 @@
 <hex>#ee0011</hex>
 </color>
 <color>
+<name>Breath of Fresh Air</name>
+<hex>#c7dbe4</hex>
+</color>
+<color>
 <name>Breeze</name>
 <hex>#c2dde6</hex>
 </color>
@@ -1547,6 +1599,10 @@
 <color>
 <name>Brilliant Blue</name>
 <hex>#0075b3</hex>
+</color>
+<color>
+<name>Brilliant Gold</name>
+<hex>#f0dbaa</hex>
 </color>
 <color>
 <name>Brink Pink</name>
@@ -1783,6 +1839,10 @@
 <color>
 <name>Buttered Popcorn</name>
 <hex>#fff0a4</hex>
+</color>
+<color>
+<name>Buttered Up</name>
+<hex>#f7f0d2</hex>
 </color>
 <color>
 <name>Buttermelon</name>
@@ -2065,6 +2125,10 @@
 <hex>#ffd59a</hex>
 </color>
 <color>
+<name>Caramel Gold</name>
+<hex>#b1936d</hex>
+</color>
+<color>
 <name>Caramel Macchiato</name>
 <hex>#c58d4b</hex>
 </color>
@@ -2099,6 +2163,10 @@
 <color>
 <name>Cardinal</name>
 <hex>#c41e3a</hex>
+</color>
+<color>
+<name>Caribbean</name>
+<hex>#caf0e5</hex>
 </color>
 <color>
 <name>Caribbean Blue</name>
@@ -6533,6 +6601,10 @@
 <hex>#432e6f</hex>
 </color>
 <color>
+<name>Her Majesty</name>
+<hex>#f9a4a4</hex>
+</color>
+<color>
 <name>Her Velour</name>
 <hex>#bb5f62</hex>
 </color>
@@ -6603,6 +6675,10 @@
 <color>
 <name>High Grass</name>
 <hex>#bbdd00</hex>
+</color>
+<color>
+<name>High Seas</name>
+<hex>#7dabd8</hex>
 </color>
 <color>
 <name>High Sierra</name>
@@ -6739,6 +6815,10 @@
 <color>
 <name>Home Brew</name>
 <hex>#897b66</hex>
+</color>
+<color>
+<name>Homegrown</name>
+<hex>#63884a</hex>
 </color>
 <color>
 <name>Homeopathic Blue</name>
@@ -6945,6 +7025,10 @@
 <hex>#ab4f41</hex>
 </color>
 <color>
+<name>Hot Shot</name>
+<hex>#ec4f28</hex>
+</color>
+<color>
 <name>Hotspot</name>
 <hex>#ff4433</hex>
 </color>
@@ -6979,6 +7063,10 @@
 <color>
 <name>Hummus</name>
 <hex>#eecc99</hex>
+</color>
+<color>
+<name>Hunter</name>
+<hex>#33534b</hex>
 </color>
 <color>
 <name>Hurricane</name>
@@ -7253,7 +7341,11 @@
 <hex>#6e7e99</hex>
 </color>
 <color>
-<name>Infra Red</name>
+<name>Infinity Pool</name>
+<hex>#94d4e4</hex>
+</color>
+<color>
+<name>Infrared</name>
 <hex>#fe486c</hex>
 </color>
 <color>
@@ -7585,6 +7677,10 @@
 <hex>#b1cf5d</hex>
 </color>
 <color>
+<name>Juicy Peach</name>
+<hex>#d99290</hex>
+</color>
+<color>
 <name>Jumbo</name>
 <hex>#878785</hex>
 </color>
@@ -7619,6 +7715,10 @@
 <color>
 <name>Just Pink Enough</name>
 <hex>#ffebee</hex>
+</color>
+<color>
+<name>Kabuki</name>
+<hex>#a73a3e</hex>
 </color>
 <color>
 <name>Kabul</name>
@@ -7805,6 +7905,10 @@
 <hex>#daa89b</hex>
 </color>
 <color>
+<name>Kitty Kitty</name>
+<hex>#c7bdb3</hex>
+</color>
+<color>
 <name>Kiwi</name>
 <hex>#7aab55</hex>
 </color>
@@ -7935,6 +8039,10 @@
 <color>
 <name>Laser Lemon</name>
 <hex>#ffff66</hex>
+</color>
+<color>
+<name>Laser Trap</name>
+<hex>#ff3f6a</hex>
 </color>
 <color>
 <name>Last of Lettuce</name>

@@ -386,6 +386,9 @@
   name:"Autumn Crocodile"
   hex:"#447744"
 -
+  name:"Autumn Fire"
+  hex:"#c44e4f"
+-
   name:"Autumn Gold"
   hex:"#7d623c"
 -
@@ -452,6 +455,9 @@
   name:"Badass Grass"
   hex:"#b4da55"
 -
+  name:"Baker's Dream"
+  hex:"#c98f70"
+-
   name:"Baker’s Bread"
   hex:"#d0b393"
 -
@@ -464,6 +470,9 @@
   name:"Ballerina"
   hex:"#f2cfdc"
 -
+  name:"Ballet"
+  hex:"#f7d5d4"
+-
   name:"Balsamico"
   hex:"#130d07"
 -
@@ -475,6 +484,9 @@
 -
   name:"Bamboo Forest"
   hex:"#b1a979"
+-
+  name:"Banan-appeal"
+  hex:"#faf3a6"
 -
   name:"Banana"
   hex:"#fffc79"
@@ -596,6 +608,9 @@
   name:"Beach Glass"
   hex:"#96dfce"
 -
+  name:"Beach View"
+  hex:"#4f7694"
+-
   name:"Bear Hug"
   hex:"#796359"
 -
@@ -605,8 +620,14 @@
   name:"Beau Monde"
   hex:"#7db39e"
 -
+  name:"Beau Vert"
+  hex:"#0c6064"
+-
   name:"Beautiful Darkness"
   hex:"#686d70"
+-
+  name:"Beauty and the Beach"
+  hex:"#c99680"
 -
   name:"Béchamel"
   hex:"#f4eee0"
@@ -631,6 +652,9 @@
 -
   name:"Beige"
   hex:"#e6daa6"
+-
+  name:"Bejewelled"
+  hex:"#25a26f"
 -
   name:"Belgian Waffle"
   hex:"#f3dfb6"
@@ -668,6 +692,9 @@
   name:"Bento Box"
   hex:"#cc363c"
 -
+  name:"Berber"
+  hex:"#d8cfb6"
+-
   name:"Bergamot"
   hex:"#95c703"
 -
@@ -688,6 +715,9 @@
 -
   name:"Berry Jam"
   hex:"#655883"
+-
+  name:"Berrylicious"
+  hex:"#d75e6c"
 -
   name:"Bethlehem Superstar"
   hex:"#eaeeda"
@@ -737,6 +767,9 @@
   name:"Birch White"
   hex:"#f6eedf"
 -
+  name:"Bird Bath Blue"
+  hex:"#cddfe7"
+-
   name:"Biscuit"
   hex:"#feedca"
 -
@@ -769,6 +802,9 @@
 -
   name:"Black"
   hex:"#000000"
+-
+  name:"Black Box"
+  hex:"#0f282f"
 -
   name:"Black Cherry"
   hex:"#2c1620"
@@ -1130,6 +1166,9 @@
   name:"Breath of Fire"
   hex:"#ee0011"
 -
+  name:"Breath of Fresh Air"
+  hex:"#c7dbe4"
+-
   name:"Breeze"
   hex:"#c2dde6"
 -
@@ -1159,6 +1198,9 @@
 -
   name:"Brilliant Blue"
   hex:"#0075b3"
+-
+  name:"Brilliant Gold"
+  hex:"#f0dbaa"
 -
   name:"Brink Pink"
   hex:"#fb607f"
@@ -1336,6 +1378,9 @@
 -
   name:"Buttered Popcorn"
   hex:"#fff0a4"
+-
+  name:"Buttered Up"
+  hex:"#f7f0d2"
 -
   name:"Buttermelon"
   hex:"#fff7db"
@@ -1547,6 +1592,9 @@
   name:"Caramel Finish"
   hex:"#ffd59a"
 -
+  name:"Caramel Gold"
+  hex:"#b1936d"
+-
   name:"Caramel Macchiato"
   hex:"#c58d4b"
 -
@@ -1573,6 +1621,9 @@
 -
   name:"Cardinal"
   hex:"#c41e3a"
+-
+  name:"Caribbean"
+  hex:"#caf0e5"
 -
   name:"Caribbean Blue"
   hex:"#1ac1dd"
@@ -4898,6 +4949,9 @@
   name:"Her Highness"
   hex:"#432e6f"
 -
+  name:"Her Majesty"
+  hex:"#f9a4a4"
+-
   name:"Her Velour"
   hex:"#bb5f62"
 -
@@ -4951,6 +5005,9 @@
 -
   name:"High Grass"
   hex:"#bbdd00"
+-
+  name:"High Seas"
+  hex:"#7dabd8"
 -
   name:"High Sierra"
   hex:"#cedee2"
@@ -5053,6 +5110,9 @@
 -
   name:"Home Brew"
   hex:"#897b66"
+-
+  name:"Homegrown"
+  hex:"#63884a"
 -
   name:"Homeopathic Blue"
   hex:"#dbe7e3"
@@ -5207,6 +5267,9 @@
   name:"Hot Sauce"
   hex:"#ab4f41"
 -
+  name:"Hot Shot"
+  hex:"#ec4f28"
+-
   name:"Hotspot"
   hex:"#ff4433"
 -
@@ -5233,6 +5296,9 @@
 -
   name:"Hummus"
   hex:"#eecc99"
+-
+  name:"Hunter"
+  hex:"#33534b"
 -
   name:"Hurricane"
   hex:"#8b7e77"
@@ -5438,7 +5504,10 @@
   name:"Infinity and Beyond"
   hex:"#6e7e99"
 -
-  name:"Infra Red"
+  name:"Infinity Pool"
+  hex:"#94d4e4"
+-
+  name:"Infrared"
   hex:"#fe486c"
 -
   name:"Infusion"
@@ -5687,6 +5756,9 @@
   name:"Juicy Lime"
   hex:"#b1cf5d"
 -
+  name:"Juicy Peach"
+  hex:"#d99290"
+-
   name:"Jumbo"
   hex:"#878785"
 -
@@ -5713,6 +5785,9 @@
 -
   name:"Just Pink Enough"
   hex:"#ffebee"
+-
+  name:"Kabuki"
+  hex:"#a73a3e"
 -
   name:"Kabul"
   hex:"#6c5e53"
@@ -5852,6 +5927,9 @@
   name:"Kitten's Paw"
   hex:"#daa89b"
 -
+  name:"Kitty Kitty"
+  hex:"#c7bdb3"
+-
   name:"Kiwi"
   hex:"#7aab55"
 -
@@ -5950,6 +6028,9 @@
 -
   name:"Laser Lemon"
   hex:"#ffff66"
+-
+  name:"Laser Trap"
+  hex:"#ff3f6a"
 -
   name:"Last of Lettuce"
   hex:"#aadd66"
