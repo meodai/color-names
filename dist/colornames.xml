@@ -11089,6 +11089,10 @@
 <hex>#703f00</hex>
 </color>
 <color>
+<name>Bloody Mary</name>
+<hex>#ba0105</hex>
+</color>
+<color>
 <name>Bloody Periphylla</name>
 <hex>#aa1144</hex>
 </color>
@@ -12459,6 +12463,10 @@
 <color>
 <name>Blue Tribute</name>
 <hex>#a9b8c8</hex>
+</color>
+<color>
+<name>Blue Triumph</name>
+<hex>#4376ab</hex>
 </color>
 <color>
 <name>Blue Trust</name>
@@ -25311,6 +25319,10 @@
 <color>
 <name>Cosmic Explorer</name>
 <hex>#551155</hex>
+</color>
+<color>
+<name>Cosmic Heart</name>
+<hex>#9601f4</hex>
 </color>
 <color>
 <name>Cosmic Latte</name>
@@ -39009,6 +39021,10 @@
 <hex>#fbf6ef</hex>
 </color>
 <color>
+<name>Foggy Plateau</name>
+<hex>#cfcbe5</hex>
+</color>
+<color>
 <name>Foggy Quartz</name>
 <hex>#bfa2a1</hex>
 </color>
@@ -52281,6 +52297,10 @@
 <hex>#cc99cc</hex>
 </color>
 <color>
+<name>Inescapable Lover</name>
+<hex>#820e3b</hex>
+</color>
+<color>
 <name>Infamous</name>
 <hex>#777985</hex>
 </color>
@@ -54559,6 +54579,10 @@
 <color>
 <name>Jurassic Gold</name>
 <hex>#e7aa56</hex>
+</color>
+<color>
+<name>Jurassic Moss</name>
+<hex>#0d601c</hex>
 </color>
 <color>
 <name>Jurassic Park</name>
@@ -61011,6 +61035,10 @@
 <color>
 <name>Love for All</name>
 <hex>#cd0106</hex>
+</color>
+<color>
+<name>Love Fumes</name>
+<hex>#fdd0d5</hex>
 </color>
 <color>
 <name>Love Goddess</name>
@@ -79181,6 +79209,10 @@
 <hex>#f9f0d6</hex>
 </color>
 <color>
+<name>Pineapple High</name>
+<hex>#ebeb57</hex>
+</color>
+<color>
 <name>Pineapple Juice</name>
 <hex>#f8e87b</hex>
 </color>
@@ -84117,6 +84149,10 @@
 <hex>#d3d5e0</hex>
 </color>
 <color>
+<name>Purple Velour</name>
+<hex>#581a57</hex>
+</color>
+<color>
 <name>Purple Velvet</name>
 <hex>#41354d</hex>
 </color>
@@ -88673,6 +88709,10 @@
 <hex>#e7e0ee</hex>
 </color>
 <color>
+<name>Romantic Embers</name>
+<hex>#b23e4f</hex>
+</color>
+<color>
 <name>Romantic Isle</name>
 <hex>#007c75</hex>
 </color>
@@ -89375,6 +89415,10 @@
 <color>
 <name>Rosy Maple Moth</name>
 <hex>#fec9ed</hex>
+</color>
+<color>
+<name>Rosy Nectar</name>
+<hex>#f2c2e1</hex>
 </color>
 <color>
 <name>Rosy Outlook</name>
@@ -91215,6 +91259,10 @@
 <color>
 <name>Saltwater</name>
 <hex>#c2d0de</hex>
+</color>
+<color>
+<name>Saltwater Depth</name>
+<hex>#52896b</hex>
 </color>
 <color>
 <name>Salty Breeze</name>
@@ -107933,6 +107981,10 @@
 <hex>#de9832</hex>
 </color>
 <color>
+<name>Treasure</name>
+<hex>#e7d082</hex>
+</color>
+<color>
 <name>Treasure Casket</name>
 <hex>#9b7856</hex>
 </color>
@@ -108121,6 +108173,10 @@
 <hex>#9aa097</hex>
 </color>
 <color>
+<name>Trench</name>
+<hex>#af9770</hex>
+</color>
+<color>
 <name>Trendy Green</name>
 <hex>#7e8424</hex>
 </color>
@@ -108285,6 +108341,10 @@
 <hex>#73b7c2</hex>
 </color>
 <color>
+<name>Tropic</name>
+<hex>#4889ac</hex>
+</color>
+<color>
 <name>Tropic Canary</name>
 <hex>#bcc23c</hex>
 </color>
@@ -108295,6 +108355,18 @@
 <color>
 <name>Tropic Tide</name>
 <hex>#6cc1bb</hex>
+</color>
+<color>
+<name>Tropic Turquoise</name>
+<hex>#6ab5a4</hex>
+</color>
+<color>
+<name>Tropical</name>
+<hex>#a8e8cb</hex>
+</color>
+<color>
+<name>Tropical Bay</name>
+<hex>#9db7af</hex>
 </color>
 <color>
 <name>Tropical Blooms</name>
@@ -108325,8 +108397,16 @@
 <hex>#33ff22</hex>
 </color>
 <color>
+<name>Tropical Escape</name>
+<hex>#4dbbaf</hex>
+</color>
+<color>
 <name>Tropical Fog</name>
 <hex>#cbcab6</hex>
+</color>
+<color>
+<name>Tropical Foliage</name>
+<hex>#3e6252</hex>
 </color>
 <color>
 <name>Tropical Forest</name>
@@ -108361,6 +108441,10 @@
 <hex>#9c6071</hex>
 </color>
 <color>
+<name>Tropical Hideaway</name>
+<hex>#17a99e</hex>
+</color>
+<color>
 <name>Tropical Holiday</name>
 <hex>#8fcdc7</hex>
 </color>
@@ -108375,6 +108459,10 @@
 <color>
 <name>Tropical Light</name>
 <hex>#9cd572</hex>
+</color>
+<color>
+<name>Tropical Mist</name>
+<hex>#cae8e8</hex>
 </color>
 <color>
 <name>Tropical Moss</name>
@@ -108583,6 +108671,14 @@
 <color>
 <name>Truesky Gloxym</name>
 <hex>#99bbff</hex>
+</color>
+<color>
+<name>Truffle</name>
+<hex>#c2a78e</hex>
+</color>
+<color>
+<name>Truffle Trouble</name>
+<hex>#a35139</hex>
 </color>
 <color>
 <name>Truly Olive</name>
@@ -109337,6 +109433,10 @@
 <hex>#bed3e1</hex>
 </color>
 <color>
+<name>Typewriter Ink</name>
+<hex>#4c5053</hex>
+</color>
+<color>
 <name>Typhus Corrosion</name>
 <hex>#463d2b</hex>
 </color>
@@ -109679,6 +109779,10 @@
 <color>
 <name>Underwater Realm</name>
 <hex>#243062</hex>
+</color>
+<color>
+<name>Underwater World</name>
+<hex>#657f7a</hex>
 </color>
 <color>
 <name>Underworld</name>

@@ -8315,6 +8315,9 @@
   name:"Bloodtracker Brown"
   hex:"#703f00"
 -
+  name:"Bloody Mary"
+  hex:"#ba0105"
+-
   name:"Bloody Periphylla"
   hex:"#aa1144"
 -
@@ -9343,6 +9346,9 @@
 -
   name:"Blue Tribute"
   hex:"#a9b8c8"
+-
+  name:"Blue Triumph"
+  hex:"#4376ab"
 -
   name:"Blue Trust"
   hex:"#120a8f"
@@ -18982,6 +18988,9 @@
 -
   name:"Cosmic Explorer"
   hex:"#551155"
+-
+  name:"Cosmic Heart"
+  hex:"#9601f4"
 -
   name:"Cosmic Latte"
   hex:"#fff8e7"
@@ -29255,6 +29264,9 @@
   name:"Foggy Pith"
   hex:"#fbf6ef"
 -
+  name:"Foggy Plateau"
+  hex:"#cfcbe5"
+-
   name:"Foggy Quartz"
   hex:"#bfa2a1"
 -
@@ -39209,6 +39221,9 @@
   name:"Ineffable Magenta"
   hex:"#cc99cc"
 -
+  name:"Inescapable Lover"
+  hex:"#820e3b"
+-
   name:"Infamous"
   hex:"#777985"
 -
@@ -40918,6 +40933,9 @@
 -
   name:"Jurassic Gold"
   hex:"#e7aa56"
+-
+  name:"Jurassic Moss"
+  hex:"#0d601c"
 -
   name:"Jurassic Park"
   hex:"#3c663e"
@@ -45757,6 +45775,9 @@
 -
   name:"Love for All"
   hex:"#cd0106"
+-
+  name:"Love Fumes"
+  hex:"#fdd0d5"
 -
   name:"Love Goddess"
   hex:"#cd0d0d"
@@ -59384,6 +59405,9 @@
   name:"Pineapple Fizz"
   hex:"#f9f0d6"
 -
+  name:"Pineapple High"
+  hex:"#ebeb57"
+-
   name:"Pineapple Juice"
   hex:"#f8e87b"
 -
@@ -63086,6 +63110,9 @@
   name:"Purple Veil"
   hex:"#d3d5e0"
 -
+  name:"Purple Velour"
+  hex:"#581a57"
+-
   name:"Purple Velvet"
   hex:"#41354d"
 -
@@ -66503,6 +66530,9 @@
   name:"Romantic Cruise"
   hex:"#e7e0ee"
 -
+  name:"Romantic Embers"
+  hex:"#b23e4f"
+-
   name:"Romantic Isle"
   hex:"#007c75"
 -
@@ -67030,6 +67060,9 @@
 -
   name:"Rosy Maple Moth"
   hex:"#fec9ed"
+-
+  name:"Rosy Nectar"
+  hex:"#f2c2e1"
 -
   name:"Rosy Outlook"
   hex:"#f5ab9e"
@@ -68410,6 +68443,9 @@
 -
   name:"Saltwater"
   hex:"#c2d0de"
+-
+  name:"Saltwater Depth"
+  hex:"#52896b"
 -
   name:"Salty Breeze"
   hex:"#dde2d7"
@@ -80948,6 +80984,9 @@
   name:"Treacle Fudge"
   hex:"#de9832"
 -
+  name:"Treasure"
+  hex:"#e7d082"
+-
   name:"Treasure Casket"
   hex:"#9b7856"
 -
@@ -81089,6 +81128,9 @@
   name:"Trellised Ivy"
   hex:"#9aa097"
 -
+  name:"Trench"
+  hex:"#af9770"
+-
   name:"Trendy Green"
   hex:"#7e8424"
 -
@@ -81212,6 +81254,9 @@
   name:"Tropez Blue"
   hex:"#73b7c2"
 -
+  name:"Tropic"
+  hex:"#4889ac"
+-
   name:"Tropic Canary"
   hex:"#bcc23c"
 -
@@ -81220,6 +81265,15 @@
 -
   name:"Tropic Tide"
   hex:"#6cc1bb"
+-
+  name:"Tropic Turquoise"
+  hex:"#6ab5a4"
+-
+  name:"Tropical"
+  hex:"#a8e8cb"
+-
+  name:"Tropical Bay"
+  hex:"#9db7af"
 -
   name:"Tropical Blooms"
   hex:"#d7967e"
@@ -81242,8 +81296,14 @@
   name:"Tropical Elements"
   hex:"#33ff22"
 -
+  name:"Tropical Escape"
+  hex:"#4dbbaf"
+-
   name:"Tropical Fog"
   hex:"#cbcab6"
+-
+  name:"Tropical Foliage"
+  hex:"#3e6252"
 -
   name:"Tropical Forest"
   hex:"#024a43"
@@ -81269,6 +81329,9 @@
   name:"Tropical Hibiscus"
   hex:"#9c6071"
 -
+  name:"Tropical Hideaway"
+  hex:"#17a99e"
+-
   name:"Tropical Holiday"
   hex:"#8fcdc7"
 -
@@ -81280,6 +81343,9 @@
 -
   name:"Tropical Light"
   hex:"#9cd572"
+-
+  name:"Tropical Mist"
+  hex:"#cae8e8"
 -
   name:"Tropical Moss"
   hex:"#d2c478"
@@ -81436,6 +81502,12 @@
 -
   name:"Truesky Gloxym"
   hex:"#99bbff"
+-
+  name:"Truffle"
+  hex:"#c2a78e"
+-
+  name:"Truffle Trouble"
+  hex:"#a35139"
 -
   name:"Truly Olive"
   hex:"#777250"
@@ -82001,6 +82073,9 @@
   name:"Two Harbours"
   hex:"#bed3e1"
 -
+  name:"Typewriter Ink"
+  hex:"#4c5053"
+-
   name:"Typhus Corrosion"
   hex:"#463d2b"
 -
@@ -82258,6 +82333,9 @@
 -
   name:"Underwater Realm"
   hex:"#243062"
+-
+  name:"Underwater World"
+  hex:"#657f7a"
 -
   name:"Underworld"
   hex:"#1e231c"
