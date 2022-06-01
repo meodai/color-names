@@ -1033,6 +1033,10 @@
 <hex>#2a3149</hex>
 </color>
 <color>
+<name>Ahoy! Blue</name>
+<hex>#0082a1</hex>
+</color>
+<color>
 <name>Ahriman Blue</name>
 <hex>#199ebd</hex>
 </color>
@@ -2701,6 +2705,10 @@
 <hex>#756f6b</hex>
 </color>
 <color>
+<name>Ancient</name>
+<hex>#efeedc</hex>
+</color>
+<color>
 <name>Ancient Bamboo</name>
 <hex>#da6304</hex>
 </color>
@@ -2711,6 +2719,10 @@
 <color>
 <name>Ancient Bronze</name>
 <hex>#9c5221</hex>
+</color>
+<color>
+<name>Ancient Burgundy</name>
+<hex>#624147</hex>
 </color>
 <color>
 <name>Ancient Chest</name>
@@ -2735,6 +2747,10 @@
 <color>
 <name>Ancient Ice</name>
 <hex>#73fdff</hex>
+</color>
+<color>
+<name>Ancient Inca</name>
+<hex>#e3af8e</hex>
 </color>
 <color>
 <name>Ancient Ivory</name>
@@ -2811,6 +2827,10 @@
 <color>
 <name>Ancient Shelter</name>
 <hex>#83696e</hex>
+</color>
+<color>
+<name>Ancient Spice</name>
+<hex>#765640</hex>
 </color>
 <color>
 <name>Ancient Stone</name>
@@ -18593,6 +18613,10 @@
 <hex>#697f8e</hex>
 </color>
 <color>
+<name>Cascade Twilight</name>
+<hex>#234893</hex>
+</color>
+<color>
 <name>Cascade White</name>
 <hex>#ecf2ec</hex>
 </color>
@@ -23507,10 +23531,6 @@
 <color>
 <name>Coffee Bean</name>
 <hex>#362d26</hex>
-</color>
-<color>
-<name>Coffee Bean Brown</name>
-<hex>#765640</hex>
 </color>
 <color>
 <name>Coffee Beans</name>
@@ -55957,6 +55977,10 @@
 <hex>#fc2647</hex>
 </color>
 <color>
+<name>La La Love</name>
+<hex>#bf90bb</hex>
+</color>
+<color>
 <name>La Luna</name>
 <hex>#ffffe5</hex>
 </color>
@@ -56209,12 +56233,20 @@
 <hex>#79853c</hex>
 </color>
 <color>
+<name>Lake</name>
+<hex>#92cdcc</hex>
+</color>
+<color>
 <name>Lake Baikal</name>
 <hex>#155084</hex>
 </color>
 <color>
 <name>Lake Blue</name>
 <hex>#008c96</hex>
+</color>
+<color>
+<name>Lake Breeze</name>
+<hex>#aed4d2</hex>
 </color>
 <color>
 <name>Lake Forest</name>
@@ -58615,6 +58647,10 @@
 <color>
 <name>Light Mulberry</name>
 <hex>#d1cae1</hex>
+</color>
+<color>
+<name>Light My Fire</name>
+<hex>#f8611a</hex>
 </color>
 <color>
 <name>Light Mystified</name>
@@ -61526,7 +61562,7 @@
 </color>
 <color>
 <name>Lush Grass</name>
-<hex>#445243</hex>
+<hex>#468d45</hex>
 </color>
 <color>
 <name>Lush Green</name>
@@ -74359,6 +74395,10 @@
 <color>
 <name>Over the Hills</name>
 <hex>#4d6d08</hex>
+</color>
+<color>
+<name>Over the Moon</name>
+<hex>#abb8d5</hex>
 </color>
 <color>
 <name>Over the Sky</name>
@@ -89233,6 +89273,10 @@
 <hex>#aa3646</hex>
 </color>
 <color>
+<name>Roses in the Snow</name>
+<hex>#e7aecd</hex>
+</color>
+<color>
 <name>Rosetta</name>
 <hex>#ba8f7f</hex>
 </color>
@@ -89243,6 +89287,10 @@
 <color>
 <name>Rosettee</name>
 <hex>#d7a491</hex>
+</color>
+<color>
+<name>Rosetti</name>
+<hex>#cf929a</hex>
 </color>
 <color>
 <name>Roseville</name>
@@ -89473,6 +89521,10 @@
 <hex>#4169e1</hex>
 </color>
 <color>
+<name>Royal Blue Metallic</name>
+<hex>#082d4f</hex>
+</color>
+<color>
 <name>Royal Blue Tang</name>
 <hex>#1600fc</hex>
 </color>
@@ -89485,12 +89537,20 @@
 <hex>#523b35</hex>
 </color>
 <color>
+<name>Royal Cloak</name>
+<hex>#16a5a3</hex>
+</color>
+<color>
 <name>Royal Consort</name>
 <hex>#2e5686</hex>
 </color>
 <color>
 <name>Royal Coronation</name>
 <hex>#3e3542</hex>
+</color>
+<color>
+<name>Royal Crown</name>
+<hex>#94714c</hex>
 </color>
 <color>
 <name>Royal Curtsy</name>
@@ -89513,12 +89573,28 @@
 <hex>#ca2c92</hex>
 </color>
 <color>
+<name>Royal Garnet</name>
+<hex>#653a3d</hex>
+</color>
+<color>
+<name>Royal Glimmer</name>
+<hex>#9791bc</hex>
+</color>
+<color>
 <name>Royal Gold</name>
 <hex>#e1bc8a</hex>
 </color>
 <color>
+<name>Royal Gold Pearl</name>
+<hex>#d0a54e</hex>
+</color>
+<color>
 <name>Royal Gramma Purple</name>
 <hex>#a152bd</hex>
+</color>
+<color>
+<name>Royal Grey</name>
+<hex>#698396</hex>
 </color>
 <color>
 <name>Royal Heath</name>
@@ -89543,6 +89619,10 @@
 <color>
 <name>Royal Intrigue</name>
 <hex>#687094</hex>
+</color>
+<color>
+<name>Royal Ivy</name>
+<hex>#787866</hex>
 </color>
 <color>
 <name>Royal Lavender</name>
@@ -89581,6 +89661,10 @@
 <hex>#f7cfb4</hex>
 </color>
 <color>
+<name>Royal Navy</name>
+<hex>#45505b</hex>
+</color>
+<color>
 <name>Royal Navy Blue</name>
 <hex>#0066cc</hex>
 </color>
@@ -89609,6 +89693,14 @@
 <hex>#418d84</hex>
 </color>
 <color>
+<name>Royal Peacock</name>
+<hex>#27ace0</hex>
+</color>
+<color>
+<name>Royal Pine</name>
+<hex>#355e5a</hex>
+</color>
+<color>
 <name>Royal Plum</name>
 <hex>#654161</hex>
 </color>
@@ -89633,8 +89725,20 @@
 <hex>#806f72</hex>
 </color>
 <color>
+<name>Royal Rajah</name>
+<hex>#60456d</hex>
+</color>
+<color>
+<name>Royal Raul</name>
+<hex>#8f7bb7</hex>
+</color>
+<color>
 <name>Royal Red Flush</name>
 <hex>#8e3c3f</hex>
+</color>
+<color>
+<name>Royal Regatta</name>
+<hex>#678bc9</hex>
 </color>
 <color>
 <name>Royal Robe</name>
@@ -89657,12 +89761,20 @@
 <hex>#fede4f</hex>
 </color>
 <color>
+<name>Royal Treatment</name>
+<hex>#494256</hex>
+</color>
+<color>
 <name>Royal Velvet</name>
 <hex>#513e4d</hex>
 </color>
 <color>
 <name>Royal Vessel</name>
 <hex>#4433ee</hex>
+</color>
+<color>
+<name>Royal Wave</name>
+<hex>#3e4967</hex>
 </color>
 <color>
 <name>Royal Wedding</name>
@@ -91586,7 +91698,7 @@
 </color>
 <color>
 <name>Sanguine</name>
-<hex>#bb622e</hex>
+<hex>#6c110e</hex>
 </color>
 <color>
 <name>Sanguine Brown</name>
@@ -107153,6 +107265,10 @@
 <hex>#e79e88</hex>
 </color>
 <color>
+<name>Too Big to Whale</name>
+<hex>#9596a4</hex>
+</color>
+<color>
 <name>Too Blue</name>
 <hex>#3d6695</hex>
 </color>
@@ -108665,6 +108781,10 @@
 <hex>#585452</hex>
 </color>
 <color>
+<name>Tundra</name>
+<hex>#d6d9d7</hex>
+</color>
+<color>
 <name>Tundra Frost</name>
 <hex>#e1e1db</hex>
 </color>
@@ -109105,6 +109225,10 @@
 <hex>#8b6f70</hex>
 </color>
 <color>
+<name>Twilight Meadow</name>
+<hex>#51a5a4</hex>
+</color>
+<color>
 <name>Twilight Pearl</name>
 <hex>#bfbcd2</hex>
 </color>
@@ -109479,6 +109603,10 @@
 <color>
 <name>Uncharted</name>
 <hex>#19565e</hex>
+</color>
+<color>
+<name>Under the Sea</name>
+<hex>#395d68</hex>
 </color>
 <color>
 <name>Underbrush</name>
@@ -111873,6 +112001,10 @@
 <hex>#674403</hex>
 </color>
 <color>
+<name>Viper Green</name>
+<hex>#008f3c</hex>
+</color>
+<color>
 <name>Virgin Olive Oil</name>
 <hex>#e2dcab</hex>
 </color>
@@ -111991,6 +112123,10 @@
 <color>
 <name>Vital Yellow</name>
 <hex>#ede0c5</hex>
+</color>
+<color>
+<name>Vitality</name>
+<hex>#8f9b5b</hex>
 </color>
 <color>
 <name>Vitalize</name>
@@ -112417,6 +112553,14 @@
 <hex>#773f1a</hex>
 </color>
 <color>
+<name>Walnut Brown</name>
+<hex>#4c0400</hex>
+</color>
+<color>
+<name>Walnut Cream</name>
+<hex>#f5d8b2</hex>
+</color>
+<color>
 <name>Walnut Grove</name>
 <hex>#5c5644</hex>
 </color>
@@ -112459,6 +112603,10 @@
 <color>
 <name>Wanderer</name>
 <hex>#5e5648</hex>
+</color>
+<color>
+<name>Wandering</name>
+<hex>#cdb573</hex>
 </color>
 <color>
 <name>Wandering River</name>
@@ -113117,6 +113265,14 @@
 <hex>#fd5b78</hex>
 </color>
 <color>
+<name>Watermelon Crush</name>
+<hex>#bf6c6e</hex>
+</color>
+<color>
+<name>Watermelon Gelato</name>
+<hex>#c0686e</hex>
+</color>
+<color>
 <name>Watermelon Juice</name>
 <hex>#f05c85</hex>
 </color>
@@ -113525,6 +113681,10 @@
 <hex>#5a06ef</hex>
 </color>
 <color>
+<name>Weimaraner</name>
+<hex>#9c8d7d</hex>
+</color>
+<color>
 <name>Weird Green</name>
 <hex>#3ae57f</hex>
 </color>
@@ -113621,6 +113781,22 @@
 <hex>#797978</hex>
 </color>
 <color>
+<name>Western Brown</name>
+<hex>#5d3b31</hex>
+</color>
+<color>
+<name>Western Clay</name>
+<hex>#8b6a65</hex>
+</color>
+<color>
+<name>Western Pink</name>
+<hex>#ba816e</hex>
+</color>
+<color>
+<name>Western Pursuit</name>
+<hex>#8d5e41</hex>
+</color>
+<color>
 <name>Western Red</name>
 <hex>#9b6959</hex>
 </color>
@@ -113629,12 +113805,24 @@
 <hex>#8d876d</hex>
 </color>
 <color>
+<name>Western Ridge</name>
+<hex>#b28b80</hex>
+</color>
+<color>
+<name>Western Sandstone</name>
+<hex>#beaa99</hex>
+</color>
+<color>
 <name>Western Sky</name>
 <hex>#fadca7</hex>
 </color>
 <color>
 <name>Western Sunrise</name>
 <hex>#daa36f</hex>
+</color>
+<color>
+<name>Western Wear</name>
+<hex>#cdbb8d</hex>
 </color>
 <color>
 <name>Westfall Yellow</name>
@@ -113697,6 +113885,10 @@
 <hex>#b9a023</hex>
 </color>
 <color>
+<name>Wet Pavement</name>
+<hex>#9e9f97</hex>
+</color>
+<color>
 <name>Wet Pottery Clay</name>
 <hex>#e0816f</hex>
 </color>
@@ -113745,6 +113937,10 @@
 <hex>#f1919a</hex>
 </color>
 <color>
+<name>Whale</name>
+<hex>#7c8181</hex>
+</color>
+<color>
 <name>Whale Bone</name>
 <hex>#e5e7e5</hex>
 </color>
@@ -113759,6 +113955,10 @@
 <color>
 <name>Whale Skin</name>
 <hex>#505a92</hex>
+</color>
+<color>
+<name>Whale Tail</name>
+<hex>#86878c</hex>
 </color>
 <color>
 <name>Whale Watching</name>
@@ -116137,6 +116337,10 @@
 <hex>#35343f</hex>
 </color>
 <color>
+<name>Witching</name>
+<hex>#4f4552</hex>
+</color>
+<color>
 <name>With A Twist</name>
 <hex>#d1d1bb</hex>
 </color>
@@ -117817,6 +118021,10 @@
 <hex>#2c1608</hex>
 </color>
 <color>
+<name>Zion</name>
+<hex>#bcc5aa</hex>
+</color>
+<color>
 <name>Zircon</name>
 <hex>#dee3e3</hex>
 </color>
@@ -117831,6 +118039,10 @@
 <color>
 <name>Zircon Ice</name>
 <hex>#d0e4e5</hex>
+</color>
+<color>
+<name>Zirconia Teal</name>
+<hex>#2c7c79</hex>
 </color>
 <color>
 <name>Zitronenzucker</name>
@@ -117875,6 +118087,10 @@
 <color>
 <name>Zucchini Flower</name>
 <hex>#e8a64e</hex>
+</color>
+<color>
+<name>Zucchini Garden</name>
+<hex>#afa170</hex>
 </color>
 <color>
 <name>Zucchini Noodles</name>

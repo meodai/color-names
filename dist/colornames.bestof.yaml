@@ -68,6 +68,9 @@
   name:"Agressive Aqua"
   hex:"#00fbff"
 -
+  name:"Ahoy! Blue"
+  hex:"#0082a1"
+-
   name:"Air-Kiss"
   hex:"#f6dcd2"
 -
@@ -1594,6 +1597,9 @@
 -
   name:"Cartoon Violence"
   hex:"#d01722"
+-
+  name:"Cascade Twilight"
+  hex:"#234893"
 -
   name:"Cascara"
   hex:"#ee4433"
@@ -5870,6 +5876,9 @@
   name:"Kosher Khaki"
   hex:"#888877"
 -
+  name:"La La Love"
+  hex:"#bf90bb"
+-
   name:"La Luna"
   hex:"#ffffe5"
 -
@@ -6079,6 +6088,9 @@
 -
   name:"Light Mint"
   hex:"#b6ffbb"
+-
+  name:"Light My Fire"
+  hex:"#f8611a"
 -
   name:"Light Pink"
   hex:"#ffd1df"
@@ -6385,6 +6397,9 @@
 -
   name:"Lush Garden"
   hex:"#008811"
+-
+  name:"Lush Grass"
+  hex:"#468d45"
 -
   name:"Lush Green"
   hex:"#bbee00"
@@ -7991,6 +8006,9 @@
   name:"Over the Hills"
   hex:"#4d6d08"
 -
+  name:"Over the Moon"
+  hex:"#abb8d5"
+-
   name:"Over the Sky"
   hex:"#98d5ea"
 -
@@ -9470,6 +9488,12 @@
   name:"Roses are Red"
   hex:"#aa3646"
 -
+  name:"Roses in the Snow"
+  hex:"#e7aecd"
+-
+  name:"Rosetti"
+  hex:"#cf929a"
+-
   name:"Rosewood"
   hex:"#65000b"
 -
@@ -9690,7 +9714,7 @@
   hex:"#f01a4d"
 -
   name:"Sanguine"
-  hex:"#bb622e"
+  hex:"#6c110e"
 -
   name:"Sappanwood"
   hex:"#9e3d3f"
@@ -10946,6 +10970,9 @@
   name:"Tonkatsu"
   hex:"#edac36"
 -
+  name:"Too Big to Whale"
+  hex:"#9596a4"
+-
   name:"Too Blue to be True"
   hex:"#0088ff"
 -
@@ -11141,6 +11168,9 @@
   name:"Twilight"
   hex:"#4e518b"
 -
+  name:"Twilight Meadow"
+  hex:"#51a5a4"
+-
   name:"Twinkle Pink"
   hex:"#fbd8cc"
 -
@@ -11164,6 +11194,9 @@
 -
   name:"Umbra"
   hex:"#211e1f"
+-
+  name:"Under the Sea"
+  hex:"#395d68"
 -
   name:"Underground"
   hex:"#665a51"
@@ -11459,6 +11492,9 @@
   name:"Virtual Golf"
   hex:"#c1ee13"
 -
+  name:"Vitality"
+  hex:"#8f9b5b"
+-
   name:"Vitamin C"
   hex:"#ff9900"
 -
@@ -11621,6 +11657,9 @@
   name:"Watermelon"
   hex:"#fd4659"
 -
+  name:"Watermelon Gelato"
+  hex:"#c0686e"
+-
   name:"Watermelon Milk"
   hex:"#dfcfca"
 -
@@ -11686,6 +11725,9 @@
 -
   name:"Wet Taupe"
   hex:"#907e6c"
+-
+  name:"Whale"
+  hex:"#7c8181"
 -
   name:"Whale Shark"
   hex:"#607c8e"
