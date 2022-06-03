@@ -35,11 +35,11 @@
     "closestvector": "^0.6.0",
     "color-name-lists": "^3.0.1",
     "commitizen": "^4.2.4",
-    "eslint": "^5.15.1",
+    "eslint": "^8.16.0",
     "eslint-config-google": "^0.10.0",
     "ghooks": "^2.0.4",
     "seedrandom": "^3.0.5",
-    "semantic-release": "^17.4.2"
+    "semantic-release": "^19.0.2"
   },
   "engines": {
     "node": ">=8",
