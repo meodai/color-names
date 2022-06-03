@@ -42,8 +42,8 @@
     "semantic-release": "^19.0.2"
   },
   "engines": {
-    "node": ">=8",
-    "npm": ">=5"
+    "node": ">=16",
+    "npm": ">=8.11.0"
   },
   "config": {
     "ghooks": {
