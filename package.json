@@ -33,7 +33,7 @@
   "homepage": "https://github.com/meodai/color-names#readme",
   "devDependencies": {
     "closestvector": "^0.6.0",
-    "color-name-lists": "^3.0.1",
+    "color-name-lists": "^3.1.0",
     "commitizen": "^4.2.4",
     "eslint": "^8.16.0",
     "eslint-config-google": "^0.10.0",
