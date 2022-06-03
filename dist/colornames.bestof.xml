@@ -81,6 +81,14 @@
 <hex>#bb1133</hex>
 </color>
 <color>
+<name>Admiral Blue</name>
+<hex>#50647f</hex>
+</color>
+<color>
+<name>Adrift on the Nile</name>
+<hex>#93b8e3</hex>
+</color>
+<color>
 <name>After Midnight</name>
 <hex>#38393f</hex>
 </color>
@@ -6089,6 +6097,10 @@
 <hex>#aa9922</hex>
 </color>
 <color>
+<name>Greek Goddess</name>
+<hex>#ede9ef</hex>
+</color>
+<color>
 <name>Greek Olive</name>
 <hex>#a08650</hex>
 </color>
@@ -6699,6 +6711,10 @@
 <color>
 <name>High Sierra</name>
 <hex>#cedee2</hex>
+</color>
+<color>
+<name>High Tide</name>
+<hex>#85a6c8</hex>
 </color>
 <color>
 <name>High Voltage</name>
@@ -7981,6 +7997,10 @@
 <hex>#888877</hex>
 </color>
 <color>
+<name>Kryptonite Green</name>
+<hex>#439946</hex>
+</color>
+<color>
 <name>La La Love</name>
 <hex>#bf90bb</hex>
 </color>
@@ -8937,6 +8957,10 @@
 <hex>#443388</hex>
 </color>
 <color>
+<name>Majestic Evergreen</name>
+<hex>#7d8878</hex>
+</color>
+<color>
 <name>Majestic Magenta</name>
 <hex>#ee4488</hex>
 </color>
@@ -9225,6 +9249,10 @@
 <hex>#ce9844</hex>
 </color>
 <color>
+<name>Mayonnaise</name>
+<hex>#f6eed1</hex>
+</color>
+<color>
 <name>McNuke</name>
 <hex>#33ff11</hex>
 </color>
@@ -9373,6 +9401,10 @@
 <hex>#712735</hex>
 </color>
 <color>
+<name>Merlot Magic</name>
+<hex>#b64055</hex>
+</color>
+<color>
 <name>Mermaid Blues</name>
 <hex>#004477</hex>
 </color>
@@ -9455,6 +9487,10 @@
 <color>
 <name>Midnight in Tokyo</name>
 <hex>#000088</hex>
+</color>
+<color>
+<name>Midnight Interlude</name>
+<hex>#32496f</hex>
 </color>
 <color>
 <name>Midnight Melancholia</name>
@@ -9635,6 +9671,10 @@
 <color>
 <name>Mocha Ice</name>
 <hex>#dfd2ca</hex>
+</color>
+<color>
+<name>Mocha Madness</name>
+<hex>#8b6b58</hex>
 </color>
 <color>
 <name>Mochaccino</name>
@@ -9869,6 +9909,10 @@
 <hex>#cfe2e0</hex>
 </color>
 <color>
+<name>Mountain Peak</name>
+<hex>#e9e0d4</hex>
+</color>
+<color>
 <name>Mountain View</name>
 <hex>#2e3d30</hex>
 </color>
@@ -9951,6 +9995,10 @@
 <color>
 <name>Murasaki</name>
 <hex>#4f284b</hex>
+</color>
+<color>
+<name>Murderous Magenta</name>
+<hex>#b3205f</hex>
 </color>
 <color>
 <name>Murmur</name>
@@ -10071,6 +10119,10 @@
 <color>
 <name>Mystifying Magenta</name>
 <hex>#c920b0</hex>
+</color>
+<color>
+<name>Nacho</name>
+<hex>#ffcb5d</hex>
 </color>
 <color>
 <name>Nacho Cheese</name>
@@ -10293,6 +10345,10 @@
 <hex>#eebb33</hex>
 </color>
 <color>
+<name>Night Edition</name>
+<hex>#20586d</hex>
+</color>
+<color>
 <name>Night Kite</name>
 <hex>#005572</hex>
 </color>
@@ -10409,8 +10465,16 @@
 <hex>#344d58</hex>
 </color>
 <color>
+<name>Nocturne Blue</name>
+<hex>#37525f</hex>
+</color>
+<color>
 <name>Nocturne Red</name>
 <hex>#7a4b56</hex>
+</color>
+<color>
+<name>Noir</name>
+<hex>#312b27</hex>
 </color>
 <color>
 <name>Noir Fiction</name>
@@ -10577,6 +10641,10 @@
 <hex>#009dc4</hex>
 </color>
 <color>
+<name>Ocean Blues</name>
+<hex>#508693</hex>
+</color>
+<color>
 <name>Ocean Breeze</name>
 <hex>#d3e5eb</hex>
 </color>
@@ -10623,6 +10691,10 @@
 <color>
 <name>Old World</name>
 <hex>#91a8cf</hex>
+</color>
+<color>
+<name>Olivary</name>
+<hex>#6e592c</hex>
 </color>
 <color>
 <name>Olive</name>
@@ -10919,6 +10991,10 @@
 <color>
 <name>Pacific Navy</name>
 <hex>#25488a</hex>
+</color>
+<color>
+<name>Pacific Pleasure</name>
+<hex>#167d97</hex>
 </color>
 <color>
 <name>Packing Paper</name>
@@ -11255,6 +11331,10 @@
 <color>
 <name>Peach Puff</name>
 <hex>#ffdab9</hex>
+</color>
+<color>
+<name>Peach Punch</name>
+<hex>#f59997</hex>
 </color>
 <color>
 <name>Peach Scone</name>
@@ -14021,6 +14101,10 @@
 <hex>#b84823</hex>
 </color>
 <color>
+<name>Spiced</name>
+<hex>#bb715b</hex>
+</color>
+<color>
 <name>Spiced Up Orange</name>
 <hex>#e67a37</hex>
 </color>
@@ -14293,6 +14377,10 @@
 <hex>#007744</hex>
 </color>
 <color>
+<name>Such a Peach</name>
+<hex>#fbddaf</hex>
+</color>
+<color>
 <name>Sugar Chic</name>
 <hex>#ffccff</hex>
 </color>
@@ -14429,6 +14517,10 @@
 <hex>#edd59e</hex>
 </color>
 <color>
+<name>Sunny Glory</name>
+<hex>#e8d99c</hex>
+</color>
+<color>
 <name>Sunny Honey</name>
 <hex>#f8f0d8</hex>
 </color>
@@ -14481,6 +14573,10 @@
 <hex>#eeeeee</hex>
 </color>
 <color>
+<name>Supremely Cool</name>
+<hex>#afbed4</hex>
+</color>
+<color>
 <name>Surgical Green</name>
 <hex>#59a4c1</hex>
 </color>
@@ -14495,6 +14591,10 @@
 <color>
 <name>Swan Lake</name>
 <hex>#c5e5e2</hex>
+</color>
+<color>
+<name>Sweet and Sassy</name>
+<hex>#e1c9d1</hex>
 </color>
 <color>
 <name>Sweet Butter</name>
@@ -14789,6 +14889,10 @@
 <hex>#8c724f</hex>
 </color>
 <color>
+<name>Toes in the Sand</name>
+<hex>#f8dcbf</hex>
+</color>
+<color>
 <name>Toffee</name>
 <hex>#755139</hex>
 </color>
@@ -14895,6 +14999,10 @@
 <color>
 <name>Tractor Beam</name>
 <hex>#00bffe</hex>
+</color>
+<color>
+<name>Tradewind</name>
+<hex>#b7c5c6</hex>
 </color>
 <color>
 <name>Traffic Green</name>
@@ -15073,6 +15181,10 @@
 <hex>#89f5e3</hex>
 </color>
 <color>
+<name>Turquoise Tortoise</name>
+<hex>#457b74</hex>
+</color>
+<color>
 <name>Turtle</name>
 <hex>#523f31</hex>
 </color>
@@ -15103,6 +15215,14 @@
 <color>
 <name>Twilight Meadow</name>
 <hex>#51a5a4</hex>
+</color>
+<color>
+<name>Twilight Zone</name>
+<hex>#191916</hex>
+</color>
+<color>
+<name>Twinkle Night</name>
+<hex>#636ca8</hex>
 </color>
 <color>
 <name>Twinkle Pink</name>
@@ -15175,6 +15295,10 @@
 <color>
 <name>Valentine Lava</name>
 <hex>#ba0728</hex>
+</color>
+<color>
+<name>Valentine's Kiss</name>
+<hex>#b63364</hex>
 </color>
 <color>
 <name>Valkyrie</name>
@@ -15333,6 +15457,10 @@
 <hex>#df73ff</hex>
 </color>
 <color>
+<name>Venus Violet</name>
+<hex>#7a6dc0</hex>
+</color>
+<color>
 <name>Veranda Gold</name>
 <hex>#af9968</hex>
 </color>
@@ -15447,6 +15575,10 @@
 <color>
 <name>Vinaceous</name>
 <hex>#f59994</hex>
+</color>
+<color>
+<name>Vinaceous Cinnamon</name>
+<hex>#f48b8b</hex>
 </color>
 <color>
 <name>Vinaceous Tawny</name>
@@ -15793,6 +15925,10 @@
 <hex>#7dc4cd</hex>
 </color>
 <color>
+<name>Wavy Navy</name>
+<hex>#006597</hex>
+</color>
+<color>
 <name>Wax</name>
 <hex>#ddbb33</hex>
 </color>
@@ -15915,6 +16051,14 @@
 <color>
 <name>Whisper of Smoke</name>
 <hex>#cbcecf</hex>
+</color>
+<color>
+<name>Whisper of White</name>
+<hex>#eadbca</hex>
+</color>
+<color>
+<name>Whispering Smoke</name>
+<hex>#d8d8d4</hex>
 </color>
 <color>
 <name>White</name>

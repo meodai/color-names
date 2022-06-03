@@ -59,6 +59,12 @@
   name:"Active Volcano"
   hex:"#bb1133"
 -
+  name:"Admiral Blue"
+  hex:"#50647f"
+-
+  name:"Adrift on the Nile"
+  hex:"#93b8e3"
+-
   name:"After Midnight"
   hex:"#38393f"
 -
@@ -4565,6 +4571,9 @@
   name:"Greedy Gecko"
   hex:"#aa9922"
 -
+  name:"Greek Goddess"
+  hex:"#ede9ef"
+-
   name:"Greek Olive"
   hex:"#a08650"
 -
@@ -5023,6 +5032,9 @@
 -
   name:"High Sierra"
   hex:"#cedee2"
+-
+  name:"High Tide"
+  hex:"#85a6c8"
 -
   name:"High Voltage"
   hex:"#eeff11"
@@ -5984,6 +5996,9 @@
   name:"Kosher Khaki"
   hex:"#888877"
 -
+  name:"Kryptonite Green"
+  hex:"#439946"
+-
   name:"La La Love"
   hex:"#bf90bb"
 -
@@ -6701,6 +6716,9 @@
   name:"Majestic Eggplant"
   hex:"#443388"
 -
+  name:"Majestic Evergreen"
+  hex:"#7d8878"
+-
   name:"Majestic Magenta"
   hex:"#ee4488"
 -
@@ -6917,6 +6935,9 @@
   name:"Mayan Treasure"
   hex:"#ce9844"
 -
+  name:"Mayonnaise"
+  hex:"#f6eed1"
+-
   name:"McNuke"
   hex:"#33ff11"
 -
@@ -7028,6 +7049,9 @@
   name:"Merlot Fields"
   hex:"#712735"
 -
+  name:"Merlot Magic"
+  hex:"#b64055"
+-
   name:"Mermaid Blues"
   hex:"#004477"
 -
@@ -7090,6 +7114,9 @@
 -
   name:"Midnight in Tokyo"
   hex:"#000088"
+-
+  name:"Midnight Interlude"
+  hex:"#32496f"
 -
   name:"Midnight Melancholia"
   hex:"#002266"
@@ -7225,6 +7252,9 @@
 -
   name:"Mocha Ice"
   hex:"#dfd2ca"
+-
+  name:"Mocha Madness"
+  hex:"#8b6b58"
 -
   name:"Mochaccino"
   hex:"#945200"
@@ -7400,6 +7430,9 @@
   name:"Mountain Dew"
   hex:"#cfe2e0"
 -
+  name:"Mountain Peak"
+  hex:"#e9e0d4"
+-
   name:"Mountain View"
   hex:"#2e3d30"
 -
@@ -7462,6 +7495,9 @@
 -
   name:"Murasaki"
   hex:"#4f284b"
+-
+  name:"Murderous Magenta"
+  hex:"#b3205f"
 -
   name:"Murmur"
   hex:"#d2d8d2"
@@ -7552,6 +7588,9 @@
 -
   name:"Mystifying Magenta"
   hex:"#c920b0"
+-
+  name:"Nacho"
+  hex:"#ffcb5d"
 -
   name:"Nacho Cheese"
   hex:"#ffbb00"
@@ -7718,6 +7757,9 @@
   name:"Nicotine Gold"
   hex:"#eebb33"
 -
+  name:"Night Edition"
+  hex:"#20586d"
+-
   name:"Night Kite"
   hex:"#005572"
 -
@@ -7805,8 +7847,14 @@
   name:"Nocturne"
   hex:"#344d58"
 -
+  name:"Nocturne Blue"
+  hex:"#37525f"
+-
   name:"Nocturne Red"
   hex:"#7a4b56"
+-
+  name:"Noir"
+  hex:"#312b27"
 -
   name:"Noir Fiction"
   hex:"#150811"
@@ -7931,6 +7979,9 @@
   name:"Ocean Blue"
   hex:"#009dc4"
 -
+  name:"Ocean Blues"
+  hex:"#508693"
+-
   name:"Ocean Breeze"
   hex:"#d3e5eb"
 -
@@ -7966,6 +8017,9 @@
 -
   name:"Old World"
   hex:"#91a8cf"
+-
+  name:"Olivary"
+  hex:"#6e592c"
 -
   name:"Olive"
   hex:"#808010"
@@ -8188,6 +8242,9 @@
 -
   name:"Pacific Navy"
   hex:"#25488a"
+-
+  name:"Pacific Pleasure"
+  hex:"#167d97"
 -
   name:"Packing Paper"
   hex:"#ba9b5d"
@@ -8440,6 +8497,9 @@
 -
   name:"Peach Puff"
   hex:"#ffdab9"
+-
+  name:"Peach Punch"
+  hex:"#f59997"
 -
   name:"Peach Scone"
   hex:"#ffbcbc"
@@ -10514,6 +10574,9 @@
   name:"Spice Market"
   hex:"#b84823"
 -
+  name:"Spiced"
+  hex:"#bb715b"
+-
   name:"Spiced Up Orange"
   hex:"#e67a37"
 -
@@ -10718,6 +10781,9 @@
   name:"Succulents"
   hex:"#007744"
 -
+  name:"Such a Peach"
+  hex:"#fbddaf"
+-
   name:"Sugar Chic"
   hex:"#ffccff"
 -
@@ -10820,6 +10886,9 @@
   name:"Sunlight"
   hex:"#edd59e"
 -
+  name:"Sunny Glory"
+  hex:"#e8d99c"
+-
   name:"Sunny Honey"
   hex:"#f8f0d8"
 -
@@ -10859,6 +10928,9 @@
   name:"Super Silver"
   hex:"#eeeeee"
 -
+  name:"Supremely Cool"
+  hex:"#afbed4"
+-
   name:"Surgical Green"
   hex:"#59a4c1"
 -
@@ -10870,6 +10942,9 @@
 -
   name:"Swan Lake"
   hex:"#c5e5e2"
+-
+  name:"Sweet and Sassy"
+  hex:"#e1c9d1"
 -
   name:"Sweet Butter"
   hex:"#fffcd7"
@@ -11090,6 +11165,9 @@
   name:"Tobacco Leaf"
   hex:"#8c724f"
 -
+  name:"Toes in the Sand"
+  hex:"#f8dcbf"
+-
   name:"Toffee"
   hex:"#755139"
 -
@@ -11170,6 +11248,9 @@
 -
   name:"Tractor Beam"
   hex:"#00bffe"
+-
+  name:"Tradewind"
+  hex:"#b7c5c6"
 -
   name:"Traffic Green"
   hex:"#55ff22"
@@ -11303,6 +11384,9 @@
   name:"Turquoise Pearl"
   hex:"#89f5e3"
 -
+  name:"Turquoise Tortoise"
+  hex:"#457b74"
+-
   name:"Turtle"
   hex:"#523f31"
 -
@@ -11326,6 +11410,12 @@
 -
   name:"Twilight Meadow"
   hex:"#51a5a4"
+-
+  name:"Twilight Zone"
+  hex:"#191916"
+-
+  name:"Twinkle Night"
+  hex:"#636ca8"
 -
   name:"Twinkle Pink"
   hex:"#fbd8cc"
@@ -11380,6 +11470,9 @@
 -
   name:"Valentine Lava"
   hex:"#ba0728"
+-
+  name:"Valentine's Kiss"
+  hex:"#b63364"
 -
   name:"Valkyrie"
   hex:"#eecc22"
@@ -11498,6 +11591,9 @@
   name:"Venus Slipper Orchid"
   hex:"#df73ff"
 -
+  name:"Venus Violet"
+  hex:"#7a6dc0"
+-
   name:"Veranda Gold"
   hex:"#af9968"
 -
@@ -11584,6 +11680,9 @@
 -
   name:"Vinaceous"
   hex:"#f59994"
+-
+  name:"Vinaceous Cinnamon"
+  hex:"#f48b8b"
 -
   name:"Vinaceous Tawny"
   hex:"#c74300"
@@ -11843,6 +11942,9 @@
   name:"Wavelet"
   hex:"#7dc4cd"
 -
+  name:"Wavy Navy"
+  hex:"#006597"
+-
   name:"Wax"
   hex:"#ddbb33"
 -
@@ -11935,6 +12037,12 @@
 -
   name:"Whisper of Smoke"
   hex:"#cbcecf"
+-
+  name:"Whisper of White"
+  hex:"#eadbca"
+-
+  name:"Whispering Smoke"
+  hex:"#d8d8d4"
 -
   name:"White"
   hex:"#ffffff"

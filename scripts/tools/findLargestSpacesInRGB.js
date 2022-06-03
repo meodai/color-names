@@ -46,9 +46,9 @@ function calculateDistance(r, g, b, rgbColors) {
 function findLargestSpaceInRGB(rgbColors) {
   const rgb = [0, 0, 0];
   let largestDistance = 0;
-  for (let i = 0; i < 256; i+=4) {
-    for (let j = 0; j < 256; j+=4) {
-      for (let k = 0; k < 256; k+=4) {
+  for (let i = 0; i < 256; i+=10) {
+    for (let j = 0; j < 256; j+=10) {
+      for (let k = 0; k < 256; k+=10) {
         const distance = calculateDistance(i, j, k, rgbColors);
         if (distance > largestDistance) {
           largestDistance = distance;
