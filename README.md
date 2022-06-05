@@ -307,6 +307,7 @@ See [package.json](package.json#L6) for more.
 
 #### Bronze
 
+- [color.museum] 100CHF
 - [Myriam Aerne] 20CHF
 - [Amin] 15USD
 
@@ -412,6 +413,7 @@ they will be removed as quickly as possible.
 [nachtfunke]: https://helloyes.dev
 [amin]: http://www.slashui.com
 [Colorful Dots]: https://colorfuldots.com/
+[color.museum]: https://www.color.museum/
 
 <!-- Sources: Names -->
 
