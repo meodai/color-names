@@ -1982,6 +1982,9 @@
   name:"Chorizo"
   hex:"#aa0011"
 -
+  name:"Choux à la Crème"
+  hex:"#ebcf7d"
+-
   name:"Christmas Red"
   hex:"#b01b2e"
 -
@@ -2783,9 +2786,6 @@
   name:"Demeter Green"
   hex:"#02cc02"
 -
-  name:"Demonic"
-  hex:"#bb2233"
--
   name:"Demonic Kiss"
   hex:"#d02b48"
 -
@@ -2849,9 +2849,6 @@
   name:"Diesel"
   hex:"#322c2b"
 -
-  name:"Digger's Gold"
-  hex:"#a37336"
--
   name:"Dijon Mustard"
   hex:"#e2ca73"
 -
@@ -2902,6 +2899,9 @@
 -
   name:"Divine Pleasure"
   hex:"#f4efe1"
+-
+  name:"Dockside Red"
+  hex:"#813533"
 -
   name:"Doctor"
   hex:"#f9f9f9"
@@ -3310,6 +3310,9 @@
 -
   name:"Espresso Bar"
   hex:"#5b3f34"
+-
+  name:"Espresso Crema"
+  hex:"#d09c43"
 -
   name:"Espresso Macchiato"
   hex:"#4f4744"
@@ -3876,7 +3879,7 @@
   hex:"#738f5d"
 -
   name:"Fox"
-  hex:"#c38743"
+  hex:"#ca4e33"
 -
   name:"Foxy Pink"
   hex:"#db95ab"
@@ -4993,6 +4996,9 @@
 -
   name:"Here Comes the Sun"
   hex:"#fcdf63"
+-
+  name:"Heroic Red"
+  hex:"#d1191c"
 -
   name:"Heron"
   hex:"#62617e"
@@ -6887,6 +6893,9 @@
   name:"Master Sword Blue"
   hex:"#00ffee"
 -
+  name:"Matcha Mecha"
+  hex:"#9faf6c"
+-
   name:"Matt Black"
   hex:"#151515"
 -
@@ -7366,6 +7375,9 @@
 -
   name:"Moonwalk"
   hex:"#bebec4"
+-
+  name:"Moor-Monster"
+  hex:"#1f5429"
 -
   name:"Moorland"
   hex:"#a6ab9b"
@@ -7994,6 +8006,9 @@
   name:"Oh Boy!"
   hex:"#bbdaf8"
 -
+  name:"Oh Em Ghee"
+  hex:"#e3c81c"
+-
   name:"Oh My Gold"
   hex:"#eebb55"
 -
@@ -8065,6 +8080,9 @@
 -
   name:"One Year of Rain"
   hex:"#29465b"
+-
+  name:"Onion Skin"
+  hex:"#eeeddf"
 -
   name:"Onsen"
   hex:"#66eebb"
@@ -8393,6 +8411,9 @@
   name:"Pastel Day"
   hex:"#dfd8e1"
 -
+  name:"Pastel de Nata"
+  hex:"#f2c975"
+-
   name:"Pastel Green"
   hex:"#77dd77"
 -
@@ -8558,6 +8579,9 @@
   name:"Pearl White"
   hex:"#f3f2ed"
 -
+  name:"Pearly"
+  hex:"#f4e3df"
+-
   name:"Pearly Pink"
   hex:"#ee99cc"
 -
@@ -8575,6 +8599,9 @@
 -
   name:"Pedigrey"
   hex:"#8f8e8c"
+-
+  name:"Peek a Blue"
+  hex:"#c5e1e1"
 -
   name:"Peekaboo"
   hex:"#e6dee6"
@@ -8917,6 +8944,9 @@
 -
   name:"Pizza"
   hex:"#bf8d3c"
+-
+  name:"Pizza Flame"
+  hex:"#cd2217"
 -
   name:"Placebo"
   hex:"#e7e7e7"
@@ -9613,6 +9643,9 @@
 -
   name:"Reign of Tomatoes"
   hex:"#f7250b"
+-
+  name:"Reptile Revenge"
+  hex:"#5e582b"
 -
   name:"Restful Rain"
   hex:"#f1f2dd"
@@ -10486,6 +10519,9 @@
 -
   name:"Sooty"
   hex:"#141414"
+-
+  name:"Sorreno Lemon"
+  hex:"#f1d058"
 -
   name:"Soufflé"
   hex:"#edd1a8"

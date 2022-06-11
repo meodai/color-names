@@ -1553,7 +1553,7 @@
 <hex>#444411</hex>
 </color>
 <color>
-<name>Alligator Skin</name>
+<name>Alligator Scales</name>
 <hex>#646048</hex>
 </color>
 <color>
@@ -3691,6 +3691,10 @@
 <color>
 <name>Apple Flower</name>
 <hex>#edf4eb</hex>
+</color>
+<color>
+<name>Apple Fritter</name>
+<hex>#cc9350</hex>
 </color>
 <color>
 <name>Apple Green</name>
@@ -7549,7 +7553,7 @@
 <hex>#ff0ff3</hex>
 </color>
 <color>
-<name>Barbarian Flesh</name>
+<name>Barbarian</name>
 <hex>#f78c5a</hex>
 </color>
 <color>
@@ -8489,7 +8493,7 @@
 <hex>#b08f69</hex>
 </color>
 <color>
-<name>Beastly Flesh</name>
+<name>Beastly Red</name>
 <hex>#680c08</hex>
 </color>
 <color>
@@ -9385,7 +9389,7 @@
 <hex>#992211</hex>
 </color>
 <color>
-<name>Bestigor Flesh</name>
+<name>Bestigor</name>
 <hex>#d38a57</hex>
 </color>
 <color>
@@ -14965,12 +14969,12 @@
 <hex>#825e2f</hex>
 </color>
 <color>
-<name>Bronze Fig</name>
-<hex>#6e6654</hex>
+<name>Bronze Cup</name>
+<hex>#eb9552</hex>
 </color>
 <color>
-<name>Bronze Flesh</name>
-<hex>#f7944a</hex>
+<name>Bronze Fig</name>
+<hex>#6e6654</hex>
 </color>
 <color>
 <name>Bronze Green</name>
@@ -15023,10 +15027,6 @@
 <color>
 <name>Bronzed Brass</name>
 <hex>#9b7e4e</hex>
-</color>
-<color>
-<name>Bronzed Flesh</name>
-<hex>#eb9552</hex>
 </color>
 <color>
 <name>Bronzed Orange</name>
@@ -16757,7 +16757,7 @@
 <hex>#91a3b0</hex>
 </color>
 <color>
-<name>Cadian Fleshtone</name>
+<name>Cadian</name>
 <hex>#90766e</hex>
 </color>
 <color>
@@ -16979,10 +16979,6 @@
 <color>
 <name>Caledor Sky</name>
 <hex>#31639c</hex>
-</color>
-<color>
-<name>Calf Skin</name>
-<hex>#b1aa9d</hex>
 </color>
 <color>
 <name>Calfskin</name>
@@ -19958,10 +19954,6 @@
 </color>
 <color>
 <name>Chameleon</name>
-<hex>#b6a063</hex>
-</color>
-<color>
-<name>Chameleon Skin</name>
 <hex>#cedaac</hex>
 </color>
 <color>
@@ -21825,6 +21817,10 @@
 <hex>#b95754</hex>
 </color>
 <color>
+<name>Choux à la Crème</name>
+<hex>#ebcf7d</hex>
+</color>
+<color>
 <name>Chowder Bowl</name>
 <hex>#e5d2b2</hex>
 </color>
@@ -22823,6 +22819,10 @@
 <color>
 <name>Clear Moon</name>
 <hex>#faf6ea</hex>
+</color>
+<color>
+<name>Clear Night Sky</name>
+<hex>#214f86</hex>
 </color>
 <color>
 <name>Clear Orange</name>
@@ -26145,10 +26145,6 @@
 <hex>#d3b78b</hex>
 </color>
 <color>
-<name>Craggy Skin</name>
-<hex>#f7bd7b</hex>
-</color>
-<color>
 <name>Crail</name>
 <hex>#a65648</hex>
 </color>
@@ -26851,6 +26847,10 @@
 <color>
 <name>Croissant Crumbs</name>
 <hex>#f8efd8</hex>
+</color>
+<color>
+<name>Cronut</name>
+<hex>#d69f60</hex>
 </color>
 <color>
 <name>Crooked River</name>
@@ -28949,10 +28949,6 @@
 <hex>#0055cc</hex>
 </color>
 <color>
-<name>Dead Flesh</name>
-<hex>#849b63</hex>
-</color>
-<color>
 <name>Dead Forest</name>
 <hex>#434b4f</hex>
 </color>
@@ -30115,6 +30111,10 @@
 <color>
 <name>Demon</name>
 <hex>#7a0006</hex>
+</color>
+<color>
+<name>Demon Princess</name>
+<hex>#d2144b</hex>
 </color>
 <color>
 <name>Demonic</name>
@@ -31393,6 +31393,10 @@
 <hex>#a0b3bc</hex>
 </color>
 <color>
+<name>Dockside Red</name>
+<hex>#813533</hex>
+</color>
+<color>
 <name>Doctor</name>
 <hex>#f9f9f9</hex>
 </color>
@@ -31613,7 +31617,7 @@
 <hex>#f3e0ac</hex>
 </color>
 <color>
-<name>Double Dragon Skin</name>
+<name>Double Dragon</name>
 <hex>#fca044</hex>
 </color>
 <color>
@@ -31647,6 +31651,10 @@
 <color>
 <name>Dough Yellow</name>
 <hex>#f6d0b6</hex>
+</color>
+<color>
+<name>Doughnut</name>
+<hex>#eda057</hex>
 </color>
 <color>
 <name>Douglas Fir Green</name>
@@ -32757,6 +32765,10 @@
 <hex>#296767</hex>
 </color>
 <color>
+<name>Dusky Brown</name>
+<hex>#774400</hex>
+</color>
+<color>
 <name>Dusky Citron</name>
 <hex>#e3cc81</hex>
 </color>
@@ -32771,10 +32783,6 @@
 <color>
 <name>Dusky Dawn</name>
 <hex>#e5e1de</hex>
-</color>
-<color>
-<name>Dusky Flesh</name>
-<hex>#774400</hex>
 </color>
 <color>
 <name>Dusky Grape</name>
@@ -33085,7 +33093,7 @@
 <hex>#bf652e</hex>
 </color>
 <color>
-<name>Dwarven Flesh</name>
+<name>Dwarven Peaches</name>
 <hex>#ffa07a</hex>
 </color>
 <color>
@@ -33989,7 +33997,7 @@
 <hex>#dfdce5</hex>
 </color>
 <color>
-<name>Eldar Flesh</name>
+<name>Eldar</name>
 <hex>#ecc083</hex>
 </color>
 <color>
@@ -34229,8 +34237,8 @@
 <hex>#b3c3d4</hex>
 </color>
 <color>
-<name>Elf Flesh</name>
-<hex>#f7c380</hex>
+<name>Elf Cream</name>
+<hex>#f7c985</hex>
 </color>
 <color>
 <name>Elf Green</name>
@@ -34239,10 +34247,6 @@
 <color>
 <name>Elf Shoe</name>
 <hex>#68b082</hex>
-</color>
-<color>
-<name>Elf Skintone</name>
-<hex>#f7c985</hex>
 </color>
 <color>
 <name>Elf Slippers</name>
@@ -34377,7 +34381,7 @@
 <hex>#e8e3d6</hex>
 </color>
 <color>
-<name>Elven Flesh</name>
+<name>Elven Beige</name>
 <hex>#f7cf8a</hex>
 </color>
 <color>
@@ -35343,6 +35347,10 @@
 <color>
 <name>Espresso Beans</name>
 <hex>#4c443e</hex>
+</color>
+<color>
+<name>Espresso Crema</name>
+<hex>#d09c43</hex>
 </color>
 <color>
 <name>Espresso Macchiato</name>
@@ -38425,6 +38433,10 @@
 <hex>#c3c6cd</hex>
 </color>
 <color>
+<name>Flat Beige</name>
+<hex>#f7d48f</hex>
+</color>
+<color>
 <name>Flat Blue</name>
 <hex>#3c73a8</hex>
 </color>
@@ -38435,10 +38447,6 @@
 <color>
 <name>Flat Earth</name>
 <hex>#aa5533</hex>
-</color>
-<color>
-<name>Flat Flesh</name>
-<hex>#f7d48f</hex>
 </color>
 <color>
 <name>Flat Green</name>
@@ -38533,7 +38541,7 @@
 <hex>#f7e6c6</hex>
 </color>
 <color>
-<name>Flayed One Flesh</name>
+<name>Flayed One</name>
 <hex>#fcfcde</hex>
 </color>
 <color>
@@ -38549,32 +38557,8 @@
 <hex>#add0e0</hex>
 </color>
 <color>
-<name>Flesh</name>
-<hex>#ffcbc4</hex>
-</color>
-<color>
 <name>Flesh Fly</name>
 <hex>#894585</hex>
-</color>
-<color>
-<name>Flesh Grey</name>
-<hex>#aaa197</hex>
-</color>
-<color>
-<name>Flesh Pink</name>
-<hex>#f9cbd3</hex>
-</color>
-<color>
-<name>Flesh Red</name>
-<hex>#e9c49d</hex>
-</color>
-<color>
-<name>Flesh Wash</name>
-<hex>#ce8c42</hex>
-</color>
-<color>
-<name>Fleshtone Shade Wash</name>
-<hex>#cf9346</hex>
 </color>
 <color>
 <name>Fleur de Sel</name>
@@ -39738,7 +39722,7 @@
 </color>
 <color>
 <name>Fox</name>
-<hex>#c38743</hex>
+<hex>#ca4e33</hex>
 </color>
 <color>
 <name>Fox Hill</name>
@@ -39746,7 +39730,7 @@
 </color>
 <color>
 <name>Fox Red</name>
-<hex>#ca4e33</hex>
+<hex>#c38743</hex>
 </color>
 <color>
 <name>Fox Tails</name>
@@ -40575,10 +40559,6 @@
 <color>
 <name>Fried Egg</name>
 <hex>#ffe464</hex>
-</color>
-<color>
-<name>Friend Flesh</name>
-<hex>#f1a4b7</hex>
 </color>
 <color>
 <name>Friendly Basilisk</name>
@@ -43871,6 +43851,10 @@
 <color>
 <name>Golden Churro</name>
 <hex>#f4ce74</hex>
+</color>
+<color>
+<name>Golden City Moon</name>
+<hex>#ecc799</hex>
 </color>
 <color>
 <name>Golden Coin</name>
@@ -48893,10 +48877,6 @@
 <hex>#735848</hex>
 </color>
 <color>
-<name>Heavy Skintone</name>
-<hex>#927a71</hex>
-</color>
-<color>
 <name>Heavy Sugar</name>
 <hex>#eff5f1</hex>
 </color>
@@ -49283,6 +49263,14 @@
 <color>
 <name>Heroic Blue</name>
 <hex>#1166ff</hex>
+</color>
+<color>
+<name>Heroic Heron</name>
+<hex>#cbd5e9</hex>
+</color>
+<color>
+<name>Heroic Red</name>
+<hex>#d1191c</hex>
 </color>
 <color>
 <name>Heron</name>
@@ -55549,7 +55537,7 @@
 <hex>#c9beaa</hex>
 </color>
 <color>
-<name>Khardic Flesh</name>
+<name>Khardic</name>
 <hex>#b16840</hex>
 </color>
 <color>
@@ -55881,7 +55869,7 @@
 <hex>#974953</hex>
 </color>
 <color>
-<name>Kislev Flesh</name>
+<name>Kislev Pink</name>
 <hex>#efcdcb</hex>
 </color>
 <color>
@@ -56101,7 +56089,7 @@
 <hex>#6b4423</hex>
 </color>
 <color>
-<name>Kobold Skin</name>
+<name>Kobold Pink</name>
 <hex>#f0d2cf</hex>
 </color>
 <color>
@@ -64133,6 +64121,10 @@
 <hex>#ffaa44</hex>
 </color>
 <color>
+<name>Matcha Mecha</name>
+<hex>#9faf6c</hex>
+</color>
+<color>
 <name>Matcha Picchu</name>
 <hex>#99bb00</hex>
 </color>
@@ -68317,6 +68309,10 @@
 <hex>#3c6461</hex>
 </color>
 <color>
+<name>Moor-Monster</name>
+<hex>#1f5429</hex>
+</color>
+<color>
 <name>Moorland</name>
 <hex>#a6ab9b</hex>
 </color>
@@ -68695,6 +68691,10 @@
 <color>
 <name>Moss Brown</name>
 <hex>#715b2e</hex>
+</color>
+<color>
+<name>Moss Candy</name>
+<hex>#8aa775</hex>
 </color>
 <color>
 <name>Moss Cottage</name>
@@ -70757,10 +70757,6 @@
 <hex>#dead69</hex>
 </color>
 <color>
-<name>Necrotic Flesh</name>
-<hex>#9faf6c</hex>
-</color>
-<color>
 <name>Nectar</name>
 <hex>#ecdacd</hex>
 </color>
@@ -71459,10 +71455,6 @@
 <color>
 <name>Night Snow</name>
 <hex>#aaccff</hex>
-</color>
-<color>
-<name>Night Tan</name>
-<hex>#ab967b</hex>
 </color>
 <color>
 <name>Night Thistle</name>
@@ -73141,7 +73133,7 @@
 <hex>#9da94b</hex>
 </color>
 <color>
-<name>Ogryn Flesh Wash</name>
+<name>Ogryn Wash</name>
 <hex>#d1a14e</hex>
 </color>
 <color>
@@ -73151,6 +73143,10 @@
 <color>
 <name>Oh Dahling</name>
 <hex>#edeec5</hex>
+</color>
+<color>
+<name>Oh Em Ghee</name>
+<hex>#e3c81c</hex>
 </color>
 <color>
 <name>Oh My Gold</name>
@@ -76061,10 +76057,6 @@
 <hex>#b3cdd4</hex>
 </color>
 <color>
-<name>Pallid Flesh</name>
-<hex>#f3dfdb</hex>
-</color>
-<color>
 <name>Pallid Green</name>
 <hex>#c1e0c1</hex>
 </color>
@@ -76077,7 +76069,11 @@
 <hex>#fcb99d</hex>
 </color>
 <color>
-<name>Pallid Wych Flesh</name>
+<name>Pallid Rose</name>
+<hex>#f3dfdb</hex>
+</color>
+<color>
+<name>Pallid Wych</name>
 <hex>#cdcebe</hex>
 </color>
 <color>
@@ -76901,6 +76897,10 @@
 <hex>#dfd8e1</hex>
 </color>
 <color>
+<name>Pastel de Nata</name>
+<hex>#f2c975</hex>
+</color>
+<color>
 <name>Pastel Green</name>
 <hex>#77dd77</hex>
 </color>
@@ -77473,6 +77473,10 @@
 <hex>#ffcfab</hex>
 </color>
 <color>
+<name>Peach Kiss</name>
+<hex>#fbe2cd</hex>
+</color>
+<color>
 <name>Peach Latte</name>
 <hex>#e7c19f</hex>
 </color>
@@ -77643,6 +77647,10 @@
 <color>
 <name>Peachtree</name>
 <hex>#f3ddcd</hex>
+</color>
+<color>
+<name>Peachy</name>
+<hex>#ffa67a</hex>
 </color>
 <color>
 <name>Peachy Bon-Bon</name>
@@ -77837,6 +77845,10 @@
 <hex>#7fc6cc</hex>
 </color>
 <color>
+<name>Pearl Blackberry</name>
+<hex>#76727f</hex>
+</color>
+<color>
 <name>Pearl Blue</name>
 <hex>#79b4c9</hex>
 </color>
@@ -77929,7 +77941,7 @@
 <hex>#eee7dc</hex>
 </color>
 <color>
-<name>Pearly Flesh</name>
+<name>Pearly</name>
 <hex>#f4e3df</hex>
 </color>
 <color>
@@ -79573,6 +79585,10 @@
 <hex>#ffccbb</hex>
 </color>
 <color>
+<name>Piggy Dreams</name>
+<hex>#ffcbc4</hex>
+</color>
+<color>
 <name>Piggyback</name>
 <hex>#f0dce3</hex>
 </color>
@@ -80999,6 +81015,10 @@
 <color>
 <name>Pizza</name>
 <hex>#bf8d3c</hex>
+</color>
+<color>
+<name>Pizza Flame</name>
+<hex>#cd2217</hex>
 </color>
 <color>
 <name>Pizza Pie</name>
@@ -84041,10 +84061,6 @@
 <hex>#fffdd8</hex>
 </color>
 <color>
-<name>Pumpkin Skin</name>
-<hex>#b1610b</hex>
-</color>
-<color>
 <name>Pumpkin Soup</name>
 <hex>#e17701</hex>
 </color>
@@ -86261,10 +86277,6 @@
 <hex>#6f6138</hex>
 </color>
 <color>
-<name>Ratskin Flesh</name>
-<hex>#f7b273</hex>
-</color>
-<color>
 <name>Rattan</name>
 <hex>#a58e61</hex>
 </color>
@@ -87641,12 +87653,8 @@
 <hex>#76679e</hex>
 </color>
 <color>
-<name>Reikland Fleshshade</name>
+<name>Reikland</name>
 <hex>#ca6c4d</hex>
-</color>
-<color>
-<name>Reikland Fleshshade Gloss</name>
-<hex>#cb7351</hex>
 </color>
 <color>
 <name>Reindeer</name>
@@ -87827,6 +87835,10 @@
 <color>
 <name>Reptile Green</name>
 <hex>#24da91</hex>
+</color>
+<color>
+<name>Reptile Revenge</name>
+<hex>#5e582b</hex>
 </color>
 <color>
 <name>Reptilian Green</name>
@@ -90077,10 +90089,6 @@
 <hex>#b69642</hex>
 </color>
 <color>
-<name>Rotting Flesh</name>
-<hex>#8aa775</hex>
-</color>
-<color>
 <name>Rotunda Gold</name>
 <hex>#f5e0bf</hex>
 </color>
@@ -91035,10 +91043,6 @@
 <color>
 <name>Ryegrass</name>
 <hex>#bbb286</hex>
-</color>
-<color>
-<name>Ryn Flesh</name>
-<hex>#f6ebe7</hex>
 </color>
 <color>
 <name>Ryoku-Ou-Shoku Yellow</name>
@@ -96941,10 +96945,6 @@
 <hex>#feffe3</hex>
 </color>
 <color>
-<name>Skin Tone</name>
-<hex>#decaae</hex>
-</color>
-<color>
 <name>Skink Blue</name>
 <hex>#5cbfce</hex>
 </color>
@@ -99055,6 +99055,10 @@
 <color>
 <name>Sorrell Brown</name>
 <hex>#9d7f61</hex>
+</color>
+<color>
+<name>Sorreno Lemon</name>
+<hex>#f1d058</hex>
 </color>
 <color>
 <name>Sorx Red</name>
@@ -105101,7 +105105,7 @@
 <hex>#5c9bcc</hex>
 </color>
 <color>
-<name>Tallarn Flesh</name>
+<name>Tallarn Leather</name>
 <hex>#947e74</hex>
 </color>
 <color>
@@ -105429,16 +105433,8 @@
 <hex>#7d7463</hex>
 </color>
 <color>
-<name>Tanned Flesh</name>
-<hex>#f7b45e</hex>
-</color>
-<color>
 <name>Tanned Leather</name>
 <hex>#f2c108</hex>
-</color>
-<color>
-<name>Tanned Skin</name>
-<hex>#f7cd08</hex>
 </color>
 <color>
 <name>Tanned Wood</name>
@@ -110557,7 +110553,7 @@
 <hex>#d6c8c0</hex>
 </color>
 <color>
-<name>Ungor Flesh</name>
+<name>Ungor Beige</name>
 <hex>#d6a766</hex>
 </color>
 <color>
@@ -113285,10 +113281,6 @@
 <hex>#424443</hex>
 </color>
 <color>
-<name>Waaagh! Flesh</name>
-<hex>#1f5429</hex>
-</color>
-<color>
 <name>Wabi-Sabi</name>
 <hex>#c8c8b5</hex>
 </color>
@@ -113391,6 +113383,10 @@
 <color>
 <name>Walkie Chalkie</name>
 <hex>#faf5fa</hex>
+</color>
+<color>
+<name>Walking Dead</name>
+<hex>#849b63</hex>
 </color>
 <color>
 <name>Walkway</name>
@@ -115371,6 +115367,10 @@
 <color>
 <name>White Elephant</name>
 <hex>#dedee5</hex>
+</color>
+<color>
+<name>White Elf</name>
+<hex>#f7c380</hex>
 </color>
 <color>
 <name>White Fence</name>

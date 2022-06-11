@@ -1163,7 +1163,7 @@
   name:"Alligator Gladiator"
   hex:"#444411"
 -
-  name:"Alligator Skin"
+  name:"Alligator Scales"
   hex:"#646048"
 -
   name:"Allison Lace"
@@ -2767,6 +2767,9 @@
 -
   name:"Apple Flower"
   hex:"#edf4eb"
+-
+  name:"Apple Fritter"
+  hex:"#cc9350"
 -
   name:"Apple Green"
   hex:"#76cd26"
@@ -5660,7 +5663,7 @@
   name:"Barbara"
   hex:"#ff0ff3"
 -
-  name:"Barbarian Flesh"
+  name:"Barbarian"
   hex:"#f78c5a"
 -
   name:"Barbarian Leather"
@@ -6365,7 +6368,7 @@
   name:"Beast Hide"
   hex:"#b08f69"
 -
-  name:"Beastly Flesh"
+  name:"Beastly Red"
   hex:"#680c08"
 -
   name:"Beasty Brown"
@@ -7037,7 +7040,7 @@
   name:"Bestial Red"
   hex:"#992211"
 -
-  name:"Bestigor Flesh"
+  name:"Bestigor"
   hex:"#d38a57"
 -
   name:"Betalain Red"
@@ -11222,11 +11225,11 @@
   name:"Bronze Brown"
   hex:"#825e2f"
 -
+  name:"Bronze Cup"
+  hex:"#eb9552"
+-
   name:"Bronze Fig"
   hex:"#6e6654"
--
-  name:"Bronze Flesh"
-  hex:"#f7944a"
 -
   name:"Bronze Green"
   hex:"#8d8752"
@@ -11266,9 +11269,6 @@
 -
   name:"Bronzed Brass"
   hex:"#9b7e4e"
--
-  name:"Bronzed Flesh"
-  hex:"#eb9552"
 -
   name:"Bronzed Orange"
   hex:"#d78a6c"
@@ -12566,7 +12566,7 @@
   name:"Cadet Grey"
   hex:"#91a3b0"
 -
-  name:"Cadian Fleshtone"
+  name:"Cadian"
   hex:"#90766e"
 -
   name:"Cadillac"
@@ -12733,9 +12733,6 @@
 -
   name:"Caledor Sky"
   hex:"#31639c"
--
-  name:"Calf Skin"
-  hex:"#b1aa9d"
 -
   name:"Calfskin"
   hex:"#c1a188"
@@ -14967,9 +14964,6 @@
   hex:"#9eb4d3"
 -
   name:"Chameleon"
-  hex:"#b6a063"
--
-  name:"Chameleon Skin"
   hex:"#cedaac"
 -
   name:"Chameleon Tango"
@@ -16367,6 +16361,9 @@
   name:"Chōshun Red"
   hex:"#b95754"
 -
+  name:"Choux à la Crème"
+  hex:"#ebcf7d"
+-
   name:"Chowder Bowl"
   hex:"#e5d2b2"
 -
@@ -17116,6 +17113,9 @@
 -
   name:"Clear Moon"
   hex:"#faf6ea"
+-
+  name:"Clear Night Sky"
+  hex:"#214f86"
 -
   name:"Clear Orange"
   hex:"#ee8800"
@@ -19607,9 +19607,6 @@
   name:"Craftsman Gold"
   hex:"#d3b78b"
 -
-  name:"Craggy Skin"
-  hex:"#f7bd7b"
--
   name:"Crail"
   hex:"#a65648"
 -
@@ -20137,6 +20134,9 @@
 -
   name:"Croissant Crumbs"
   hex:"#f8efd8"
+-
+  name:"Cronut"
+  hex:"#d69f60"
 -
   name:"Crooked River"
   hex:"#797869"
@@ -21710,9 +21710,6 @@
   name:"Dead Blue Eyes"
   hex:"#0055cc"
 -
-  name:"Dead Flesh"
-  hex:"#849b63"
--
   name:"Dead Forest"
   hex:"#434b4f"
 -
@@ -22585,6 +22582,9 @@
 -
   name:"Demon"
   hex:"#7a0006"
+-
+  name:"Demon Princess"
+  hex:"#d2144b"
 -
   name:"Demonic"
   hex:"#bb2233"
@@ -23543,6 +23543,9 @@
   name:"Dockside Blue"
   hex:"#a0b3bc"
 -
+  name:"Dockside Red"
+  hex:"#813533"
+-
   name:"Doctor"
   hex:"#f9f9f9"
 -
@@ -23708,7 +23711,7 @@
   name:"Double Cream"
   hex:"#f3e0ac"
 -
-  name:"Double Dragon Skin"
+  name:"Double Dragon"
   hex:"#fca044"
 -
   name:"Double Duty"
@@ -23734,6 +23737,9 @@
 -
   name:"Dough Yellow"
   hex:"#f6d0b6"
+-
+  name:"Doughnut"
+  hex:"#eda057"
 -
   name:"Douglas Fir Green"
   hex:"#6f9881"
@@ -24566,6 +24572,9 @@
   name:"Dusky Alpine Blue"
   hex:"#296767"
 -
+  name:"Dusky Brown"
+  hex:"#774400"
+-
   name:"Dusky Citron"
   hex:"#e3cc81"
 -
@@ -24577,9 +24586,6 @@
 -
   name:"Dusky Dawn"
   hex:"#e5e1de"
--
-  name:"Dusky Flesh"
-  hex:"#774400"
 -
   name:"Dusky Grape"
   hex:"#877f95"
@@ -24812,7 +24818,7 @@
   name:"Dwarven Bronze"
   hex:"#bf652e"
 -
-  name:"Dwarven Flesh"
+  name:"Dwarven Peaches"
   hex:"#ffa07a"
 -
   name:"Dwindling Damon"
@@ -25490,7 +25496,7 @@
   name:"Elation"
   hex:"#dfdce5"
 -
-  name:"Eldar Flesh"
+  name:"Eldar"
   hex:"#ecc083"
 -
   name:"Elden Ring Orange"
@@ -25670,17 +25676,14 @@
   name:"Elevated"
   hex:"#b3c3d4"
 -
-  name:"Elf Flesh"
-  hex:"#f7c380"
+  name:"Elf Cream"
+  hex:"#f7c985"
 -
   name:"Elf Green"
   hex:"#1b8a6b"
 -
   name:"Elf Shoe"
   hex:"#68b082"
--
-  name:"Elf Skintone"
-  hex:"#f7c985"
 -
   name:"Elf Slippers"
   hex:"#a6a865"
@@ -25781,7 +25784,7 @@
   name:"Elusive White"
   hex:"#e8e3d6"
 -
-  name:"Elven Flesh"
+  name:"Elven Beige"
   hex:"#f7cf8a"
 -
   name:"Elven Olympics"
@@ -26506,6 +26509,9 @@
 -
   name:"Espresso Beans"
   hex:"#4c443e"
+-
+  name:"Espresso Crema"
+  hex:"#d09c43"
 -
   name:"Espresso Macchiato"
   hex:"#4f4744"
@@ -28817,6 +28823,9 @@
   name:"Flat Aluminum"
   hex:"#c3c6cd"
 -
+  name:"Flat Beige"
+  hex:"#f7d48f"
+-
   name:"Flat Blue"
   hex:"#3c73a8"
 -
@@ -28825,9 +28834,6 @@
 -
   name:"Flat Earth"
   hex:"#aa5533"
--
-  name:"Flat Flesh"
-  hex:"#f7d48f"
 -
   name:"Flat Green"
   hex:"#699d4c"
@@ -28898,7 +28904,7 @@
   name:"Flaxseed"
   hex:"#f7e6c6"
 -
-  name:"Flayed One Flesh"
+  name:"Flayed One"
   hex:"#fcfcde"
 -
   name:"Fleck"
@@ -28910,26 +28916,8 @@
   name:"Flemish Blue"
   hex:"#add0e0"
 -
-  name:"Flesh"
-  hex:"#ffcbc4"
--
   name:"Flesh Fly"
   hex:"#894585"
--
-  name:"Flesh Grey"
-  hex:"#aaa197"
--
-  name:"Flesh Pink"
-  hex:"#f9cbd3"
--
-  name:"Flesh Red"
-  hex:"#e9c49d"
--
-  name:"Flesh Wash"
-  hex:"#ce8c42"
--
-  name:"Fleshtone Shade Wash"
-  hex:"#cf9346"
 -
   name:"Fleur de Sel"
   hex:"#dcddd8"
@@ -29802,13 +29790,13 @@
   hex:"#738f5d"
 -
   name:"Fox"
-  hex:"#c38743"
+  hex:"#ca4e33"
 -
   name:"Fox Hill"
   hex:"#c8aa92"
 -
   name:"Fox Red"
-  hex:"#ca4e33"
+  hex:"#c38743"
 -
   name:"Fox Tails"
   hex:"#dd8800"
@@ -30430,9 +30418,6 @@
 -
   name:"Fried Egg"
   hex:"#ffe464"
--
-  name:"Friend Flesh"
-  hex:"#f1a4b7"
 -
   name:"Friendly Basilisk"
   hex:"#e2f5e1"
@@ -32902,6 +32887,9 @@
 -
   name:"Golden Churro"
   hex:"#f4ce74"
+-
+  name:"Golden City Moon"
+  hex:"#ecc799"
 -
   name:"Golden Coin"
   hex:"#fcd975"
@@ -36668,9 +36656,6 @@
   name:"Heavy Siena"
   hex:"#735848"
 -
-  name:"Heavy Skintone"
-  hex:"#927a71"
--
   name:"Heavy Sugar"
   hex:"#eff5f1"
 -
@@ -36961,6 +36946,12 @@
 -
   name:"Heroic Blue"
   hex:"#1166ff"
+-
+  name:"Heroic Heron"
+  hex:"#cbd5e9"
+-
+  name:"Heroic Red"
+  hex:"#d1191c"
 -
   name:"Heron"
   hex:"#62617e"
@@ -41660,7 +41651,7 @@
   name:"Khaki Shell"
   hex:"#c9beaa"
 -
-  name:"Khardic Flesh"
+  name:"Khardic"
   hex:"#b16840"
 -
   name:"Khemri Brown"
@@ -41909,7 +41900,7 @@
   name:"Kirsch Red"
   hex:"#974953"
 -
-  name:"Kislev Flesh"
+  name:"Kislev Pink"
   hex:"#efcdcb"
 -
   name:"Kismet"
@@ -42074,7 +42065,7 @@
   name:"Kobicha"
   hex:"#6b4423"
 -
-  name:"Kobold Skin"
+  name:"Kobold Pink"
   hex:"#f0d2cf"
 -
   name:"Kobra Khan"
@@ -48098,6 +48089,9 @@
   name:"Match Strike"
   hex:"#ffaa44"
 -
+  name:"Matcha Mecha"
+  hex:"#9faf6c"
+-
   name:"Matcha Picchu"
   hex:"#99bb00"
 -
@@ -51236,6 +51230,9 @@
   name:"Moor Pond Green"
   hex:"#3c6461"
 -
+  name:"Moor-Monster"
+  hex:"#1f5429"
+-
   name:"Moorland"
   hex:"#a6ab9b"
 -
@@ -51520,6 +51517,9 @@
 -
   name:"Moss Brown"
   hex:"#715b2e"
+-
+  name:"Moss Candy"
+  hex:"#8aa775"
 -
   name:"Moss Cottage"
   hex:"#42544c"
@@ -53066,9 +53066,6 @@
   name:"Necrophilic Brown"
   hex:"#dead69"
 -
-  name:"Necrotic Flesh"
-  hex:"#9faf6c"
--
   name:"Nectar"
   hex:"#ecdacd"
 -
@@ -53593,9 +53590,6 @@
 -
   name:"Night Snow"
   hex:"#aaccff"
--
-  name:"Night Tan"
-  hex:"#ab967b"
 -
   name:"Night Thistle"
   hex:"#6b7ba7"
@@ -54854,7 +54848,7 @@
   name:"Ogryn Camo"
   hex:"#9da94b"
 -
-  name:"Ogryn Flesh Wash"
+  name:"Ogryn Wash"
   hex:"#d1a14e"
 -
   name:"Oh Boy!"
@@ -54862,6 +54856,9 @@
 -
   name:"Oh Dahling"
   hex:"#edeec5"
+-
+  name:"Oh Em Ghee"
+  hex:"#e3c81c"
 -
   name:"Oh My Gold"
   hex:"#eebb55"
@@ -57044,9 +57041,6 @@
   name:"Pallid Blue"
   hex:"#b3cdd4"
 -
-  name:"Pallid Flesh"
-  hex:"#f3dfdb"
--
   name:"Pallid Green"
   hex:"#c1e0c1"
 -
@@ -57056,7 +57050,10 @@
   name:"Pallid Orange"
   hex:"#fcb99d"
 -
-  name:"Pallid Wych Flesh"
+  name:"Pallid Rose"
+  hex:"#f3dfdb"
+-
+  name:"Pallid Wych"
   hex:"#cdcebe"
 -
   name:"Palm"
@@ -57674,6 +57671,9 @@
   name:"Pastel Day"
   hex:"#dfd8e1"
 -
+  name:"Pastel de Nata"
+  hex:"#f2c975"
+-
   name:"Pastel Green"
   hex:"#77dd77"
 -
@@ -58103,6 +58103,9 @@
   name:"Peach Juice"
   hex:"#ffcfab"
 -
+  name:"Peach Kiss"
+  hex:"#fbe2cd"
+-
   name:"Peach Latte"
   hex:"#e7c19f"
 -
@@ -58231,6 +58234,9 @@
 -
   name:"Peachtree"
   hex:"#f3ddcd"
+-
+  name:"Peachy"
+  hex:"#ffa67a"
 -
   name:"Peachy Bon-Bon"
   hex:"#ffd2b9"
@@ -58376,6 +58382,9 @@
   name:"Pearl Bay"
   hex:"#7fc6cc"
 -
+  name:"Pearl Blackberry"
+  hex:"#76727f"
+-
   name:"Pearl Blue"
   hex:"#79b4c9"
 -
@@ -58445,7 +58454,7 @@
   name:"Pearls and Lace"
   hex:"#eee7dc"
 -
-  name:"Pearly Flesh"
+  name:"Pearly"
   hex:"#f4e3df"
 -
   name:"Pearly Pink"
@@ -59678,6 +59687,9 @@
   name:"Piggy Bank"
   hex:"#ffccbb"
 -
+  name:"Piggy Dreams"
+  hex:"#ffcbc4"
+-
   name:"Piggyback"
   hex:"#f0dce3"
 -
@@ -60748,6 +60760,9 @@
 -
   name:"Pizza"
   hex:"#bf8d3c"
+-
+  name:"Pizza Flame"
+  hex:"#cd2217"
 -
   name:"Pizza Pie"
   hex:"#a06165"
@@ -63029,9 +63044,6 @@
   name:"Pumpkin Seed"
   hex:"#fffdd8"
 -
-  name:"Pumpkin Skin"
-  hex:"#b1610b"
--
   name:"Pumpkin Soup"
   hex:"#e17701"
 -
@@ -64694,9 +64706,6 @@
   name:"Rationality"
   hex:"#6f6138"
 -
-  name:"Ratskin Flesh"
-  hex:"#f7b273"
--
   name:"Rattan"
   hex:"#a58e61"
 -
@@ -65729,11 +65738,8 @@
   name:"Reign Over Me"
   hex:"#76679e"
 -
-  name:"Reikland Fleshshade"
+  name:"Reikland"
   hex:"#ca6c4d"
--
-  name:"Reikland Fleshshade Gloss"
-  hex:"#cb7351"
 -
   name:"Reindeer"
   hex:"#dac0ba"
@@ -65869,6 +65875,9 @@
 -
   name:"Reptile Green"
   hex:"#24da91"
+-
+  name:"Reptile Revenge"
+  hex:"#5e582b"
 -
   name:"Reptilian Green"
   hex:"#009e82"
@@ -67556,9 +67565,6 @@
   name:"Roti"
   hex:"#b69642"
 -
-  name:"Rotting Flesh"
-  hex:"#8aa775"
--
   name:"Rotunda Gold"
   hex:"#f5e0bf"
 -
@@ -68275,9 +68281,6 @@
 -
   name:"Ryegrass"
   hex:"#bbb286"
--
-  name:"Ryn Flesh"
-  hex:"#f6ebe7"
 -
   name:"Ryoku-Ou-Shoku Yellow"
   hex:"#dccb18"
@@ -72704,9 +72707,6 @@
   name:"Skimmed Milk White"
   hex:"#feffe3"
 -
-  name:"Skin Tone"
-  hex:"#decaae"
--
   name:"Skink Blue"
   hex:"#5cbfce"
 -
@@ -74290,6 +74290,9 @@
 -
   name:"Sorrell Brown"
   hex:"#9d7f61"
+-
+  name:"Sorreno Lemon"
+  hex:"#f1d058"
 -
   name:"Sorx Red"
   hex:"#fc0156"
@@ -78824,7 +78827,7 @@
   name:"Tall Waves"
   hex:"#5c9bcc"
 -
-  name:"Tallarn Flesh"
+  name:"Tallarn Leather"
   hex:"#947e74"
 -
   name:"Tallarn Sand"
@@ -79070,14 +79073,8 @@
   name:"Tankard Grey"
   hex:"#7d7463"
 -
-  name:"Tanned Flesh"
-  hex:"#f7b45e"
--
   name:"Tanned Leather"
   hex:"#f2c108"
--
-  name:"Tanned Skin"
-  hex:"#f7cd08"
 -
   name:"Tanned Wood"
   hex:"#8f6e4b"
@@ -82916,7 +82913,7 @@
   name:"Unfussy Beige"
   hex:"#d6c8c0"
 -
-  name:"Ungor Flesh"
+  name:"Ungor Beige"
   hex:"#d6a766"
 -
   name:"Unicorn Dust"
@@ -84962,9 +84959,6 @@
   name:"Vulcanized"
   hex:"#424443"
 -
-  name:"Waaagh! Flesh"
-  hex:"#1f5429"
--
   name:"Wabi-Sabi"
   hex:"#c8c8b5"
 -
@@ -85042,6 +85036,9 @@
 -
   name:"Walkie Chalkie"
   hex:"#faf5fa"
+-
+  name:"Walking Dead"
+  hex:"#849b63"
 -
   name:"Walkway"
   hex:"#a3999c"
@@ -86527,6 +86524,9 @@
 -
   name:"White Elephant"
   hex:"#dedee5"
+-
+  name:"White Elf"
+  hex:"#f7c380"
 -
   name:"White Fence"
   hex:"#f2e9d3"
