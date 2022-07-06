@@ -6,9 +6,9 @@
 [![GitHub release](https://img.shields.io/github/release/meodai/color-names.svg)](https://github.com/meodai/color-names/)
 [![npm version](https://img.shields.io/npm/v/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
 [![npm](https://img.shields.io/npm/dt/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
-[![name count](https://img.shields.io/badge/__29778__-names-orange.svg)](https://github.com/meodai/color-names/blob/master/src/colornames.csv)
+[![name count](https://img.shields.io/badge/__29780__-names-orange.svg)](https://github.com/meodai/color-names/blob/master/src/colornames.csv)
 
-A handpicked list of __29778__ unique color names from
+A handpicked list of __29780__ unique color names from
 [various sources](#sources-) and thousands of curated user submissions.
 
 > The names of color function like a thread attached to a frightfully slender
@@ -53,7 +53,7 @@ __[via form 🌈](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qh
 
 Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute!
 
-## Color Count: __29778__ 🎉
+## Color Count: __29780__ 🎉
 
 ~__0.18%__ of the RGB color space
 
@@ -307,6 +307,7 @@ See [package.json](package.json#L6) for more.
 
 #### Bronze
 
+- [krissymashinsky.com] 300USD
 - [color.museum] 100CHF
 - [Myriam Aerne] 20CHF
 - [Amin] 15USD
@@ -414,6 +415,7 @@ they will be removed as quickly as possible.
 [amin]: http://www.slashui.com
 [Colorful Dots]: https://colorfuldots.com/
 [color.museum]: https://www.color.museum/
+[krissymashinsky.com]: https://www.krissymashinsky.com/
 
 <!-- Sources: Names -->
 
