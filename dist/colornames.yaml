@@ -2039,6 +2039,9 @@
   name:"Ancient Bamboo"
   hex:"#da6304"
 -
+  name:"Ancient Bonsai"
+  hex:"#73754c"
+-
   name:"Ancient Brandy"
   hex:"#aa6611"
 -
@@ -10181,6 +10184,9 @@
   name:"Bōtan"
   hex:"#a2345c"
 -
+  name:"Botanical"
+  hex:"#4d6e2f"
+-
   name:"Botanical Beauty"
   hex:"#227700"
 -
@@ -17656,6 +17662,9 @@
 -
   name:"Coco Malt"
   hex:"#e4dcc9"
+-
+  name:"Coco Muck"
+  hex:"#994a25"
 -
   name:"Coco Rum"
   hex:"#9b7757"
@@ -25550,6 +25559,9 @@
   name:"Electra"
   hex:"#55b492"
 -
+  name:"Electric Arc"
+  hex:"#f7f7cb"
+-
   name:"Electric Banana"
   hex:"#fbff00"
 -
@@ -31948,6 +31960,9 @@
 -
   name:"Ghoul"
   hex:"#667744"
+-
+  name:"Giallo"
+  hex:"#f1d236"
 -
   name:"Giant Cactus Green"
   hex:"#88763f"
@@ -40529,6 +40544,9 @@
   name:"Jade Powder"
   hex:"#2baf6a"
 -
+  name:"Jade Sea"
+  hex:"#b8e0d0"
+-
   name:"Jade Shard"
   hex:"#017b92"
 -
@@ -40903,6 +40921,9 @@
 -
   name:"Jewel"
   hex:"#136843"
+-
+  name:"Jewel Beetle"
+  hex:"#8cc90b"
 -
   name:"Jewel Caterpillar"
   hex:"#d374d5"
@@ -44324,9 +44345,6 @@
   name:"Light Male"
   hex:"#e3dbd0"
 -
-  name:"Light Marsh Fog"
-  hex:"#d3e1d3"
--
   name:"Light Marshmallow Magic"
   hex:"#f4dddb"
 -
@@ -47720,6 +47738,9 @@
   name:"Marble Green-Grey"
   hex:"#85928f"
 -
+  name:"Marble Quarry"
+  hex:"#e2dcd7"
+-
   name:"Marble Red"
   hex:"#a9606e"
 -
@@ -50310,7 +50331,7 @@
   hex:"#d47791"
 -
   name:"Minute Mauve"
-  hex:"#cfc9c8"
+  hex:"#f2e4f5"
 -
   name:"Mirabella"
   hex:"#886793"
@@ -50521,6 +50542,9 @@
 -
   name:"Misty Lilac"
   hex:"#bcb4c4"
+-
+  name:"Misty Marsh"
+  hex:"#d3e1d3"
 -
   name:"Misty Meadow"
   hex:"#bec0b0"
@@ -54388,6 +54412,9 @@
 -
   name:"Nyanza"
   hex:"#e9ffdb"
+-
+  name:"NYC Apartment Wall"
+  hex:"#efeae8"
 -
   name:"NYC Taxi"
   hex:"#f7b731"
@@ -76684,6 +76711,9 @@
 -
   name:"Strawberry Rhubarb"
   hex:"#b96364"
+-
+  name:"Strawberry Ripple"
+  hex:"#f7cdce"
 -
   name:"Strawberry Rose"
   hex:"#e29991"

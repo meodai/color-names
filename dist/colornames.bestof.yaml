@@ -1109,6 +1109,9 @@
   name:"Bonne Nuit"
   hex:"#3a4866"
 -
+  name:"Bonsai"
+  hex:"#787b54"
+-
   name:"Bonsai Garden"
   hex:"#9e9e7c"
 -
@@ -1123,6 +1126,9 @@
 -
   name:"Borlotti Bean"
   hex:"#d9b1aa"
+-
+  name:"Botanical"
+  hex:"#4d6e2f"
 -
   name:"Botanical Garden"
   hex:"#44aa11"
@@ -2095,6 +2101,9 @@
 -
   name:"Coco Malt"
   hex:"#e4dcc9"
+-
+  name:"Coco Muck"
+  hex:"#994a25"
 -
   name:"Cocoa"
   hex:"#875f42"
@@ -4205,6 +4214,9 @@
   name:"Gentle Glow"
   hex:"#f6e5b9"
 -
+  name:"Gentle Sky"
+  hex:"#99bdd2"
+-
   name:"Georgia Peach"
   hex:"#f97272"
 -
@@ -5705,6 +5717,9 @@
   name:"Jade Jewel"
   hex:"#247e81"
 -
+  name:"Jade Sea"
+  hex:"#b8e0d0"
+-
   name:"Jaffa"
   hex:"#e27945"
 -
@@ -5764,6 +5779,9 @@
 -
   name:"Jewel"
   hex:"#136843"
+-
+  name:"Jewel Beetle"
+  hex:"#8cc90b"
 -
   name:"Jewel Weed"
   hex:"#46a795"
@@ -5917,6 +5935,9 @@
 -
   name:"King's Plum Pie"
   hex:"#b3107a"
+-
+  name:"Kingfisher Daisy"
+  hex:"#583580"
 -
   name:"Kingly Cloud"
   hex:"#dedede"
@@ -6836,6 +6857,9 @@
   name:"Marble Grape"
   hex:"#dee2c7"
 -
+  name:"Marble Quarry"
+  hex:"#e2dcd7"
+-
   name:"Marble White"
   hex:"#f2f0e6"
 -
@@ -6868,6 +6892,9 @@
 -
   name:"Mars"
   hex:"#ad6242"
+-
+  name:"Marsh Fog"
+  hex:"#c6d8c7"
 -
   name:"Marshmallow"
   hex:"#f0eee4"
@@ -7250,11 +7277,17 @@
   name:"Minty Paradise"
   hex:"#00ffbb"
 -
+  name:"Minute Mauve"
+  hex:"#f2e4f5"
+-
   name:"Mississippi River"
   hex:"#3b638c"
 -
   name:"Misty Cold Sea"
   hex:"#83bbc1"
+-
+  name:"Misty Marsh"
+  hex:"#d3e1d3"
 -
   name:"Misty Morning"
   hex:"#b2c8bd"
@@ -10814,6 +10847,9 @@
   name:"Strawberry Moon"
   hex:"#cf5570"
 -
+  name:"Strawberry Ripple"
+  hex:"#f7cdce"
+-
   name:"Stroopwafel"
   hex:"#a86f48"
 -
@@ -11272,6 +11308,9 @@
 -
   name:"Tortilla"
   hex:"#efdba7"
+-
+  name:"Tostada"
+  hex:"#e3c19c"
 -
   name:"Tosty Crust"
   hex:"#a67e4b"
