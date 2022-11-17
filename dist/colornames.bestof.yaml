@@ -54,7 +54,10 @@
   hex:"#8ffe09"
 -
   name:"Acorn"
-  hex:"#7e5e52"
+  hex:"#7f5e50"
+-
+  name:"Acoustic Brown"
+  hex:"#766b69"
 -
   name:"Active Volcano"
   hex:"#bb1133"
@@ -721,6 +724,9 @@
 -
   name:"Berry"
   hex:"#990f4b"
+-
+  name:"Berry Good"
+  hex:"#edc3c5"
 -
   name:"Berry Jam"
   hex:"#655883"
@@ -4478,6 +4484,9 @@
   name:"Golden Rod"
   hex:"#e1ae20"
 -
+  name:"Golden Spell"
+  hex:"#fecc36"
+-
   name:"Golden Sprinkles"
   hex:"#f6d263"
 -
@@ -5524,6 +5533,9 @@
 -
   name:"In the Shadows"
   hex:"#cbc4c0"
+-
+  name:"In the Twilight"
+  hex:"#84838e"
 -
   name:"In the Vines"
   hex:"#5c457b"
@@ -7884,7 +7896,7 @@
   hex:"#332e2e"
 -
   name:"Night Sky"
-  hex:"#2a2a35"
+  hex:"#292b31"
 -
   name:"Night Snow"
   hex:"#aaccff"
@@ -7933,6 +7945,12 @@
 -
   name:"Noble Black"
   hex:"#202124"
+-
+  name:"Noble Chocolate"
+  hex:"#6d4433"
+-
+  name:"Noble Cream"
+  hex:"#e1dace"
 -
   name:"Noble Knight"
   hex:"#394d78"
@@ -8089,6 +8107,9 @@
 -
   name:"Ocean Breeze"
   hex:"#d3e5eb"
+-
+  name:"Ocean Slumber"
+  hex:"#41767b"
 -
   name:"Oceanic Motion"
   hex:"#1d5c83"
@@ -9257,6 +9278,9 @@
   name:"Popcorn"
   hex:"#f8de8d"
 -
+  name:"Poppy"
+  hex:"#c23c47"
+-
   name:"Poppy Flower"
   hex:"#ec5800"
 -
@@ -9273,7 +9297,7 @@
   hex:"#ffe7eb"
 -
   name:"Porcini"
-  hex:"#cca580"
+  hex:"#d9ae86"
 -
   name:"Pork Belly"
   hex:"#f8e0e7"
@@ -9802,6 +9826,9 @@
 -
   name:"Rock Lobster"
   hex:"#f00b52"
+-
+  name:"Rock'n'Rose"
+  hex:"#fc8aaa"
 -
   name:"Roland-Garros"
   hex:"#bb5522"
@@ -11373,7 +11400,7 @@
   hex:"#755139"
 -
   name:"Tofu"
-  hex:"#e8e3d9"
+  hex:"#e6e5d6"
 -
   name:"Tomato"
   hex:"#ef4026"
@@ -11410,6 +11437,9 @@
 -
   name:"Toreador"
   hex:"#b61032"
+-
+  name:"Torrefacto Roast"
+  hex:"#4e241e"
 -
   name:"Tortilla"
   hex:"#efdba7"
@@ -11666,6 +11696,9 @@
   name:"Unicorn Dust"
   hex:"#ff2f92"
 -
+  name:"Urban Chic"
+  hex:"#424c4a"
+-
   name:"Urban Snowfall"
   hex:"#dbd8da"
 -
@@ -11728,6 +11761,9 @@
 -
   name:"Vanilla Ice"
   hex:"#fdf2d1"
+-
+  name:"Vanilla Sugar"
+  hex:"#f1e8dc"
 -
   name:"Vanishing Point"
   hex:"#ddeedd"
@@ -12568,6 +12604,9 @@
 -
   name:"Young Salmon"
   hex:"#ffb6b4"
+-
+  name:"Your Darkness"
+  hex:"#220044"
 -
   name:"Your Majesty"
   hex:"#61496e"

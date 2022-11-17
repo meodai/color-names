@@ -74,7 +74,11 @@
 </color>
 <color>
 <name>Acorn</name>
-<hex>#7e5e52</hex>
+<hex>#7f5e50</hex>
+</color>
+<color>
+<name>Acoustic Brown</name>
+<hex>#766b69</hex>
 </color>
 <color>
 <name>Active Volcano</name>
@@ -963,6 +967,10 @@
 <color>
 <name>Berry</name>
 <hex>#990f4b</hex>
+</color>
+<color>
+<name>Berry Good</name>
+<hex>#edc3c5</hex>
 </color>
 <color>
 <name>Berry Jam</name>
@@ -5973,6 +5981,10 @@
 <hex>#e1ae20</hex>
 </color>
 <color>
+<name>Golden Spell</name>
+<hex>#fecc36</hex>
+</color>
+<color>
 <name>Golden Sprinkles</name>
 <hex>#f6d263</hex>
 </color>
@@ -7367,6 +7379,10 @@
 <color>
 <name>In the Shadows</name>
 <hex>#cbc4c0</hex>
+</color>
+<color>
+<name>In the Twilight</name>
+<hex>#84838e</hex>
 </color>
 <color>
 <name>In the Vines</name>
@@ -10514,7 +10530,7 @@
 </color>
 <color>
 <name>Night Sky</name>
-<hex>#2a2a35</hex>
+<hex>#292b31</hex>
 </color>
 <color>
 <name>Night Snow</name>
@@ -10579,6 +10595,14 @@
 <color>
 <name>Noble Black</name>
 <hex>#202124</hex>
+</color>
+<color>
+<name>Noble Chocolate</name>
+<hex>#6d4433</hex>
+</color>
+<color>
+<name>Noble Cream</name>
+<hex>#e1dace</hex>
 </color>
 <color>
 <name>Noble Knight</name>
@@ -10787,6 +10811,10 @@
 <color>
 <name>Ocean Breeze</name>
 <hex>#d3e5eb</hex>
+</color>
+<color>
+<name>Ocean Slumber</name>
+<hex>#41767b</hex>
 </color>
 <color>
 <name>Oceanic Motion</name>
@@ -12345,6 +12373,10 @@
 <hex>#f8de8d</hex>
 </color>
 <color>
+<name>Poppy</name>
+<hex>#c23c47</hex>
+</color>
+<color>
 <name>Poppy Flower</name>
 <hex>#ec5800</hex>
 </color>
@@ -12366,7 +12398,7 @@
 </color>
 <color>
 <name>Porcini</name>
-<hex>#cca580</hex>
+<hex>#d9ae86</hex>
 </color>
 <color>
 <name>Pork Belly</name>
@@ -13071,6 +13103,10 @@
 <color>
 <name>Rock Lobster</name>
 <hex>#f00b52</hex>
+</color>
+<color>
+<name>Rock'n'Rose</name>
+<hex>#fc8aaa</hex>
 </color>
 <color>
 <name>Roland-Garros</name>
@@ -15166,7 +15202,7 @@
 </color>
 <color>
 <name>Tofu</name>
-<hex>#e8e3d9</hex>
+<hex>#e6e5d6</hex>
 </color>
 <color>
 <name>Tomato</name>
@@ -15215,6 +15251,10 @@
 <color>
 <name>Toreador</name>
 <hex>#b61032</hex>
+</color>
+<color>
+<name>Torrefacto Roast</name>
+<hex>#4e241e</hex>
 </color>
 <color>
 <name>Tortilla</name>
@@ -15557,6 +15597,10 @@
 <hex>#ff2f92</hex>
 </color>
 <color>
+<name>Urban Chic</name>
+<hex>#424c4a</hex>
+</color>
+<color>
 <name>Urban Snowfall</name>
 <hex>#dbd8da</hex>
 </color>
@@ -15639,6 +15683,10 @@
 <color>
 <name>Vanilla Ice</name>
 <hex>#fdf2d1</hex>
+</color>
+<color>
+<name>Vanilla Sugar</name>
+<hex>#f1e8dc</hex>
 </color>
 <color>
 <name>Vanishing Point</name>
@@ -16759,6 +16807,10 @@
 <color>
 <name>Young Salmon</name>
 <hex>#ffb6b4</hex>
+</color>
+<color>
+<name>Your Darkness</name>
+<hex>#220044</hex>
 </color>
 <color>
 <name>Your Majesty</name>

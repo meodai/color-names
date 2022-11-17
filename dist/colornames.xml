@@ -266,7 +266,7 @@
 </color>
 <color>
 <name>Acacia</name>
-<hex>#dacd65</hex>
+<hex>#dbcd64</hex>
 </color>
 <color>
 <name>Acacia Green</name>
@@ -294,7 +294,7 @@
 </color>
 <color>
 <name>Acai</name>
-<hex>#46295a</hex>
+<hex>#48295b</hex>
 </color>
 <color>
 <name>Acai Berry</name>
@@ -390,7 +390,7 @@
 </color>
 <color>
 <name>Acid Lime</name>
-<hex>#badf30</hex>
+<hex>#b9df31</hex>
 </color>
 <color>
 <name>Acid Pool</name>
@@ -426,7 +426,7 @@
 </color>
 <color>
 <name>Acorn</name>
-<hex>#7e5e52</hex>
+<hex>#7f5e50</hex>
 </color>
 <color>
 <name>Acorn Nut</name>
@@ -439,6 +439,10 @@
 <color>
 <name>Acorn Squash</name>
 <hex>#eda740</hex>
+</color>
+<color>
+<name>Acoustic Brown</name>
+<hex>#766b69</hex>
 </color>
 <color>
 <name>Acoustic White</name>
@@ -581,6 +585,10 @@
 <hex>#e3beb0</hex>
 </color>
 <color>
+<name>Adriatic</name>
+<hex>#014a69</hex>
+</color>
+<color>
 <name>Adriatic Blue</name>
 <hex>#5c899b</hex>
 </color>
@@ -654,7 +662,7 @@
 </color>
 <color>
 <name>Aegean Blue</name>
-<hex>#4e6e81</hex>
+<hex>#4f6d83</hex>
 </color>
 <color>
 <name>Aegean Green</name>
@@ -9275,6 +9283,10 @@
 <color>
 <name>Berry Frost</name>
 <hex>#ebded7</hex>
+</color>
+<color>
+<name>Berry Good</name>
+<hex>#edc3c5</hex>
 </color>
 <color>
 <name>Berry Jam</name>
@@ -44377,6 +44389,10 @@
 <hex>#f1e346</hex>
 </color>
 <color>
+<name>Golden Spell</name>
+<hex>#fecc36</hex>
+</color>
+<color>
 <name>Golden Spice</name>
 <hex>#c6973f</hex>
 </color>
@@ -44947,6 +44963,10 @@
 <color>
 <name>Grand Sunset</name>
 <hex>#c38d87</hex>
+</color>
+<color>
+<name>Grand Valley</name>
+<hex>#8dc07c</hex>
 </color>
 <color>
 <name>Grandeur Plum</name>
@@ -52403,6 +52423,10 @@
 <color>
 <name>In the Tropics</name>
 <hex>#a3bc3a</hex>
+</color>
+<color>
+<name>In the Twilight</name>
+<hex>#84838e</hex>
 </color>
 <color>
 <name>In the Vines</name>
@@ -71638,7 +71662,7 @@
 </color>
 <color>
 <name>Night Sky</name>
-<hex>#2a2a35</hex>
+<hex>#292b31</hex>
 </color>
 <color>
 <name>Night Snow</name>
@@ -71927,6 +71951,14 @@
 <color>
 <name>Noble Cause Purple</name>
 <hex>#7e1e9c</hex>
+</color>
+<color>
+<name>Noble Chocolate</name>
+<hex>#6d4433</hex>
+</color>
+<color>
+<name>Noble Cream</name>
+<hex>#e1dace</hex>
 </color>
 <color>
 <name>Noble Crown</name>
@@ -73043,6 +73075,10 @@
 <color>
 <name>Ocean Shadow</name>
 <hex>#5b7886</hex>
+</color>
+<color>
+<name>Ocean Slumber</name>
+<hex>#41767b</hex>
 </color>
 <color>
 <name>Ocean Soul</name>
@@ -79421,6 +79457,10 @@
 <hex>#ce5e9a</hex>
 </color>
 <color>
+<name>Phoenix Flames</name>
+<hex>#faa21a</hex>
+</color>
+<color>
 <name>Phoenix Fossil</name>
 <hex>#f8d99e</hex>
 </color>
@@ -82525,6 +82565,10 @@
 <hex>#dfe3d8</hex>
 </color>
 <color>
+<name>Poppy</name>
+<hex>#c23c47</hex>
+</color>
+<color>
 <name>Poppy Crepe</name>
 <hex>#fbe9d8</hex>
 </color>
@@ -82678,7 +82722,7 @@
 </color>
 <color>
 <name>Porcini</name>
-<hex>#cca580</hex>
+<hex>#d9ae86</hex>
 </color>
 <color>
 <name>Porcupine Needles</name>
@@ -85287,6 +85331,10 @@
 <color>
 <name>Quail</name>
 <hex>#98868c</hex>
+</color>
+<color>
+<name>Quail Egg</name>
+<hex>#e3ddce</hex>
 </color>
 <color>
 <name>Quail Hollow</name>
@@ -108182,7 +108230,7 @@
 </color>
 <color>
 <name>Tofu</name>
-<hex>#e8e3d9</hex>
+<hex>#e6e5d6</hex>
 </color>
 <color>
 <name>Toile Blue</name>
@@ -108470,7 +108518,7 @@
 </color>
 <color>
 <name>Torrefacto Roast</name>
-<hex>#220044</hex>
+<hex>#4e241e</hex>
 </color>
 <color>
 <name>Torrey Pine</name>
@@ -111070,7 +111118,7 @@
 </color>
 <color>
 <name>Urban Chic</name>
-<hex>#464e4d</hex>
+<hex>#424c4a</hex>
 </color>
 <color>
 <name>Urban Exploration</name>
@@ -111551,6 +111599,10 @@
 <color>
 <name>Vanilla Strawberry</name>
 <hex>#ffe6e7</hex>
+</color>
+<color>
+<name>Vanilla Sugar</name>
+<hex>#f1e8dc</hex>
 </color>
 <color>
 <name>Vanilla Tan</name>
@@ -118977,6 +119029,10 @@
 <hex>#e1e3a9</hex>
 </color>
 <color>
+<name>Your Darkness</name>
+<hex>#220044</hex>
+</color>
+<color>
 <name>Your Majesty</name>
 <hex>#61496e</hex>
 </color>
@@ -119186,15 +119242,15 @@
 </color>
 <color>
 <name>Zephyr</name>
-<hex>#c89fa5</hex>
+<hex>#c39ea3</hex>
 </color>
 <color>
 <name>Zephyr Blue</name>
-<hex>#d3d9d1</hex>
+<hex>#d1d8d0</hex>
 </color>
 <color>
 <name>Zephyr Green</name>
-<hex>#7cb083</hex>
+<hex>#7ab091</hex>
 </color>
 <color>
 <name>Zero Degrees</name>
@@ -119298,7 +119354,7 @@
 </color>
 <color>
 <name>Zinfandel</name>
-<hex>#5c2935</hex>
+<hex>#5a2538</hex>
 </color>
 <color>
 <name>Zinfandel Red</name>
@@ -119314,7 +119370,7 @@
 </color>
 <color>
 <name>Zinnia</name>
-<hex>#ffa010</hex>
+<hex>#ffa111</hex>
 </color>
 <color>
 <name>Zinnia Gold</name>

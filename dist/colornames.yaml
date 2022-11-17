@@ -198,7 +198,7 @@
   hex:"#000033"
 -
   name:"Acacia"
-  hex:"#dacd65"
+  hex:"#dbcd64"
 -
   name:"Acacia Green"
   hex:"#486241"
@@ -219,7 +219,7 @@
   hex:"#e5b7be"
 -
   name:"Acai"
-  hex:"#46295a"
+  hex:"#48295b"
 -
   name:"Acai Berry"
   hex:"#42314b"
@@ -291,7 +291,7 @@
   hex:"#8ffe09"
 -
   name:"Acid Lime"
-  hex:"#badf30"
+  hex:"#b9df31"
 -
   name:"Acid Pool"
   hex:"#00ee22"
@@ -318,7 +318,7 @@
   hex:"#9c52f2"
 -
   name:"Acorn"
-  hex:"#7e5e52"
+  hex:"#7f5e50"
 -
   name:"Acorn Nut"
   hex:"#d48948"
@@ -328,6 +328,9 @@
 -
   name:"Acorn Squash"
   hex:"#eda740"
+-
+  name:"Acoustic Brown"
+  hex:"#766b69"
 -
   name:"Acoustic White"
   hex:"#efece1"
@@ -434,6 +437,9 @@
   name:"Adorable"
   hex:"#e3beb0"
 -
+  name:"Adriatic"
+  hex:"#014a69"
+-
   name:"Adriatic Blue"
   hex:"#5c899b"
 -
@@ -489,7 +495,7 @@
   hex:"#e6d3b6"
 -
   name:"Aegean Blue"
-  hex:"#4e6e81"
+  hex:"#4f6d83"
 -
   name:"Aegean Green"
   hex:"#4c8c72"
@@ -6955,6 +6961,9 @@
 -
   name:"Berry Frost"
   hex:"#ebded7"
+-
+  name:"Berry Good"
+  hex:"#edc3c5"
 -
   name:"Berry Jam"
   hex:"#655883"
@@ -33281,6 +33290,9 @@
   name:"Golden Snitch"
   hex:"#f1e346"
 -
+  name:"Golden Spell"
+  hex:"#fecc36"
+-
   name:"Golden Spice"
   hex:"#c6973f"
 -
@@ -33709,6 +33721,9 @@
 -
   name:"Grand Sunset"
   hex:"#c38d87"
+-
+  name:"Grand Valley"
+  hex:"#8dc07c"
 -
   name:"Grandeur Plum"
   hex:"#92576f"
@@ -39301,6 +39316,9 @@
 -
   name:"In the Tropics"
   hex:"#a3bc3a"
+-
+  name:"In the Twilight"
+  hex:"#84838e"
 -
   name:"In the Vines"
   hex:"#5c457b"
@@ -53727,7 +53745,7 @@
   hex:"#2a5c6a"
 -
   name:"Night Sky"
-  hex:"#2a2a35"
+  hex:"#292b31"
 -
   name:"Night Snow"
   hex:"#aaccff"
@@ -53944,6 +53962,12 @@
 -
   name:"Noble Cause Purple"
   hex:"#7e1e9c"
+-
+  name:"Noble Chocolate"
+  hex:"#6d4433"
+-
+  name:"Noble Cream"
+  hex:"#e1dace"
 -
   name:"Noble Crown"
   hex:"#8d755d"
@@ -54781,6 +54805,9 @@
 -
   name:"Ocean Shadow"
   hex:"#5b7886"
+-
+  name:"Ocean Slumber"
+  hex:"#41767b"
 -
   name:"Ocean Soul"
   hex:"#00878f"
@@ -59564,6 +59591,9 @@
   name:"Phlox Pink"
   hex:"#ce5e9a"
 -
+  name:"Phoenix Flames"
+  hex:"#faa21a"
+-
   name:"Phoenix Fossil"
   hex:"#f8d99e"
 -
@@ -61892,6 +61922,9 @@
   name:"Poplar White"
   hex:"#dfe3d8"
 -
+  name:"Poppy"
+  hex:"#c23c47"
+-
   name:"Poppy Crepe"
   hex:"#fbe9d8"
 -
@@ -62007,7 +62040,7 @@
   hex:"#aa8736"
 -
   name:"Porcini"
-  hex:"#cca580"
+  hex:"#d9ae86"
 -
   name:"Porcupine Needles"
   hex:"#917a75"
@@ -63964,6 +63997,9 @@
 -
   name:"Quail"
   hex:"#98868c"
+-
+  name:"Quail Egg"
+  hex:"#e3ddce"
 -
   name:"Quail Hollow"
   hex:"#5c4e53"
@@ -81135,7 +81171,7 @@
   hex:"#03719c"
 -
   name:"Tofu"
-  hex:"#e8e3d9"
+  hex:"#e6e5d6"
 -
   name:"Toile Blue"
   hex:"#94bee1"
@@ -81351,7 +81387,7 @@
   hex:"#ffdecd"
 -
   name:"Torrefacto Roast"
-  hex:"#220044"
+  hex:"#4e241e"
 -
   name:"Torrey Pine"
   hex:"#55784f"
@@ -83301,7 +83337,7 @@
   hex:"#aea28c"
 -
   name:"Urban Chic"
-  hex:"#464e4d"
+  hex:"#424c4a"
 -
   name:"Urban Exploration"
   hex:"#89776e"
@@ -83662,6 +83698,9 @@
 -
   name:"Vanilla Strawberry"
   hex:"#ffe6e7"
+-
+  name:"Vanilla Sugar"
+  hex:"#f1e8dc"
 -
   name:"Vanilla Tan"
   hex:"#f1e9dd"
@@ -89231,6 +89270,9 @@
   name:"Young Wheat"
   hex:"#e1e3a9"
 -
+  name:"Your Darkness"
+  hex:"#220044"
+-
   name:"Your Majesty"
   hex:"#61496e"
 -
@@ -89388,13 +89430,13 @@
   hex:"#424f3b"
 -
   name:"Zephyr"
-  hex:"#c89fa5"
+  hex:"#c39ea3"
 -
   name:"Zephyr Blue"
-  hex:"#d3d9d1"
+  hex:"#d1d8d0"
 -
   name:"Zephyr Green"
-  hex:"#7cb083"
+  hex:"#7ab091"
 -
   name:"Zero Degrees"
   hex:"#ddd9c4"
@@ -89472,7 +89514,7 @@
   hex:"#8c8373"
 -
   name:"Zinfandel"
-  hex:"#5c2935"
+  hex:"#5a2538"
 -
   name:"Zinfandel Red"
   hex:"#5a3844"
@@ -89484,7 +89526,7 @@
   hex:"#dac01a"
 -
   name:"Zinnia"
-  hex:"#ffa010"
+  hex:"#ffa111"
 -
   name:"Zinnia Gold"
   hex:"#ffd781"
