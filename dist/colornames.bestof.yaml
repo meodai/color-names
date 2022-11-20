@@ -5432,6 +5432,9 @@
   name:"Ice"
   hex:"#d6fffa"
 -
+  name:"Ice Citadel"
+  hex:"#b2f8f8"
+-
   name:"Ice Climber"
   hex:"#25e2cd"
 -
@@ -7916,6 +7919,9 @@
   name:"Nightly Expedition"
   hex:"#221188"
 -
+  name:"Nightly Walk"
+  hex:"#544563"
+-
   name:"Nightmare"
   hex:"#112211"
 -
@@ -9755,6 +9761,9 @@
   name:"Red Reign"
   hex:"#800707"
 -
+  name:"Red Republic"
+  hex:"#d70200"
+-
   name:"Red Ribbon"
   hex:"#ed0a3f"
 -
@@ -9812,8 +9821,14 @@
   name:"Ripe Malinka"
   hex:"#f5576c"
 -
+  name:"Rising Star"
+  hex:"#f7f6d5"
+-
   name:"Riverbed"
   hex:"#86bebe"
+-
+  name:"Roasted"
+  hex:"#785246"
 -
   name:"Roasted Pepper"
   hex:"#890a01"
@@ -9964,6 +9979,9 @@
 -
   name:"Rusty Heart"
   hex:"#a04039"
+-
+  name:"Rusty Red"
+  hex:"#af2f0d"
 -
   name:"Ruthless Empress"
   hex:"#573894"
@@ -10118,6 +10136,9 @@
   name:"Sapphire Splendour"
   hex:"#2425b9"
 -
+  name:"Sassy Lime"
+  hex:"#dfe289"
+-
   name:"Sassy Salmon"
   hex:"#ee7c54"
 -
@@ -10228,6 +10249,9 @@
 -
   name:"Seashell"
   hex:"#fff5ee"
+-
+  name:"Seaside"
+  hex:"#66a4b0"
 -
   name:"Seaweed"
   hex:"#18d17b"
@@ -12562,6 +12586,9 @@
 -
   name:"Yearning Desire"
   hex:"#ca135e"
+-
+  name:"Yell for Yellow"
+  hex:"#fffe00"
 -
   name:"Yell Yellow"
   hex:"#ffffbf"

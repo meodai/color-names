@@ -38759,6 +38759,9 @@
   name:"Ice Cave"
   hex:"#a0beda"
 -
+  name:"Ice Citadel"
+  hex:"#b2f8f8"
+-
   name:"Ice Climber"
   hex:"#25e2cd"
 -
@@ -53822,6 +53825,9 @@
   name:"Nightly Violet"
   hex:"#784384"
 -
+  name:"Nightly Walk"
+  hex:"#544563"
+-
   name:"Nightly Woods"
   hex:"#013220"
 -
@@ -65513,6 +65519,9 @@
   name:"Red Remains"
   hex:"#ffe0de"
 -
+  name:"Red Republic"
+  hex:"#d70200"
+-
   name:"Red Revival"
   hex:"#a8453b"
 -
@@ -66443,6 +66452,9 @@
   name:"Rich Carmine"
   hex:"#d70041"
 -
+  name:"Rich Copper"
+  hex:"#bf7d52"
+-
   name:"Rich Cream"
   hex:"#faeac3"
 -
@@ -66692,6 +66704,9 @@
   name:"Rising Ash"
   hex:"#978888"
 -
+  name:"Rising Star"
+  hex:"#f7f6d5"
+-
   name:"Risotto"
   hex:"#f8f5e9"
 -
@@ -66871,6 +66886,9 @@
 -
   name:"Roast Coffee"
   hex:"#704341"
+-
+  name:"Roasted"
+  hex:"#785246"
 -
   name:"Roasted Almond"
   hex:"#d2b49c"
@@ -67748,6 +67766,9 @@
   name:"Rosy Cheeks"
   hex:"#dc506e"
 -
+  name:"Rosy Cloud"
+  hex:"#fedecd"
+-
   name:"Rosy Copper"
   hex:"#cf8974"
 -
@@ -68419,6 +68440,9 @@
 -
   name:"Rustic Hacienda"
   hex:"#9c8e74"
+-
+  name:"Rustic Oak"
+  hex:"#996e58"
 -
   name:"Rustic Pottery"
   hex:"#df745b"
@@ -69653,6 +69677,9 @@
   name:"Sassy Green"
   hex:"#bba86a"
 -
+  name:"Sassy Lime"
+  hex:"#dfe289"
+-
   name:"Sassy Pink"
   hex:"#f6cefc"
 -
@@ -70621,6 +70648,9 @@
 -
   name:"Seashore Dreams"
   hex:"#b5dcef"
+-
+  name:"Seaside"
+  hex:"#66a4b0"
 -
   name:"Seaside Sand"
   hex:"#f2e9d7"
@@ -84332,9 +84362,6 @@
   name:"Vibrant Honey"
   hex:"#ffbd31"
 -
-  name:"Vibrant Hue"
-  hex:"#544563"
--
   name:"Vibrant Mint"
   hex:"#00ffe5"
 -
@@ -88801,6 +88828,9 @@
 -
   name:"Yearning Desire"
   hex:"#ca135e"
+-
+  name:"Yell for Yellow"
+  hex:"#fffe00"
 -
   name:"Yell Yellow"
   hex:"#ffffbf"
