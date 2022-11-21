@@ -230,6 +230,9 @@
   name:"Antique Brass"
   hex:"#6c461f"
 -
+  name:"Antique Port Wine"
+  hex:"#98211a"
+-
   name:"Aphrodisiac"
   hex:"#e35a63"
 -
@@ -2266,6 +2269,9 @@
 -
   name:"Copper Patina"
   hex:"#9db4a0"
+-
+  name:"Copperhead"
+  hex:"#d68755"
 -
   name:"Coquelicot"
   hex:"#ff3800"
@@ -4342,6 +4348,9 @@
 -
   name:"Glamour White"
   hex:"#fffcec"
+-
+  name:"Glassmith"
+  hex:"#46b5c0"
 -
   name:"Glaucous Green"
   hex:"#b3e8c2"
@@ -9314,9 +9323,6 @@
   name:"Pork Belly"
   hex:"#f8e0e7"
 -
-  name:"Port Wine"
-  hex:"#a17a83"
--
   name:"Poseidon"
   hex:"#143c5d"
 -
@@ -10717,6 +10723,9 @@
 -
   name:"Solar Power"
   hex:"#f4b435"
+-
+  name:"Solar Storm"
+  hex:"#ffc16c"
 -
   name:"Sombrero"
   hex:"#b39c8c"

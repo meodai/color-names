@@ -3461,6 +3461,10 @@
 <hex>#c27a74</hex>
 </color>
 <color>
+<name>Antique Port Wine</name>
+<hex>#98211a</hex>
+</color>
+<color>
 <name>Antique Red</name>
 <hex>#7d4f51</hex>
 </color>
@@ -24997,6 +25001,10 @@
 <hex>#da8a88</hex>
 </color>
 <color>
+<name>Copperhead</name>
+<hex>#d68755</hex>
+</color>
+<color>
 <name>Copperleaf</name>
 <hex>#cf8874</hex>
 </color>
@@ -43191,6 +43199,10 @@
 <color>
 <name>Glassine</name>
 <hex>#d7e2e5</hex>
+</color>
+<color>
+<name>Glassmith</name>
+<hex>#46b5c0</hex>
 </color>
 <color>
 <name>Glassware</name>
@@ -82798,11 +82810,11 @@
 </color>
 <color>
 <name>Port Wine</name>
-<hex>#a17a83</hex>
+<hex>#6e0c0d</hex>
 </color>
 <color>
-<name>Port Wine Red</name>
-<hex>#85707c</hex>
+<name>Port Wine Barrel</name>
+<hex>#846342</hex>
 </color>
 <color>
 <name>Port Wine Stain</name>

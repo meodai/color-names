@@ -2594,6 +2594,9 @@
   name:"Antique Pink"
   hex:"#c27a74"
 -
+  name:"Antique Port Wine"
+  hex:"#98211a"
+-
   name:"Antique Red"
   hex:"#7d4f51"
 -
@@ -18746,6 +18749,9 @@
   name:"Copperfield"
   hex:"#da8a88"
 -
+  name:"Copperhead"
+  hex:"#d68755"
+-
   name:"Copperleaf"
   hex:"#cf8874"
 -
@@ -32392,6 +32398,9 @@
 -
   name:"Glassine"
   hex:"#d7e2e5"
+-
+  name:"Glassmith"
+  hex:"#46b5c0"
 -
   name:"Glassware"
   hex:"#d1d9da"
@@ -62097,10 +62106,10 @@
   hex:"#532d36"
 -
   name:"Port Wine"
-  hex:"#a17a83"
+  hex:"#6e0c0d"
 -
-  name:"Port Wine Red"
-  hex:"#85707c"
+  name:"Port Wine Barrel"
+  hex:"#846342"
 -
   name:"Port Wine Stain"
   hex:"#85677b"

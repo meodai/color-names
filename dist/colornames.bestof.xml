@@ -309,6 +309,10 @@
 <hex>#6c461f</hex>
 </color>
 <color>
+<name>Antique Port Wine</name>
+<hex>#98211a</hex>
+</color>
+<color>
 <name>Aphrodisiac</name>
 <hex>#e35a63</hex>
 </color>
@@ -3023,6 +3027,10 @@
 <color>
 <name>Copper Patina</name>
 <hex>#9db4a0</hex>
+</color>
+<color>
+<name>Copperhead</name>
+<hex>#d68755</hex>
 </color>
 <color>
 <name>Coquelicot</name>
@@ -5791,6 +5799,10 @@
 <color>
 <name>Glamour White</name>
 <hex>#fffcec</hex>
+</color>
+<color>
+<name>Glassmith</name>
+<hex>#46b5c0</hex>
 </color>
 <color>
 <name>Glaucous Green</name>
@@ -12421,10 +12433,6 @@
 <hex>#f8e0e7</hex>
 </color>
 <color>
-<name>Port Wine</name>
-<hex>#a17a83</hex>
-</color>
-<color>
 <name>Poseidon</name>
 <hex>#143c5d</hex>
 </color>
@@ -14291,6 +14299,10 @@
 <color>
 <name>Solar Power</name>
 <hex>#f4b435</hex>
+</color>
+<color>
+<name>Solar Storm</name>
+<hex>#ffc16c</hex>
 </color>
 <color>
 <name>Sombrero</name>
