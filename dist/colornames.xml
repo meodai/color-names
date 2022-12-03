@@ -53,10 +53,6 @@
 <hex>#3d1c02</hex>
 </color>
 <color>
-<name>A Bloomed Cherry Blossom</name>
-<hex>#ffccda</hex>
-</color>
-<color>
 <name>A Brand New Day</name>
 <hex>#ffaabb</hex>
 </color>
@@ -5229,10 +5225,6 @@
 <hex>#b5817d</hex>
 </color>
 <color>
-<name>Ash to Ash</name>
-<hex>#4e4e4c</hex>
-</color>
-<color>
 <name>Ash Tree</name>
 <hex>#aabb99</hex>
 </color>
@@ -5314,7 +5306,7 @@
 </color>
 <color>
 <name>Ashwood</name>
-<hex>#bcc4bd</hex>
+<hex>#edd6ae</hex>
 </color>
 <color>
 <name>Asian Fusion</name>
@@ -8762,7 +8754,7 @@
 </color>
 <color>
 <name>Beer</name>
-<hex>#f28e1c</hex>
+<hex>#fcaa12</hex>
 </color>
 <color>
 <name>Beer Garden</name>
@@ -11359,6 +11351,10 @@
 <color>
 <name>Blossom Tint</name>
 <hex>#fbd6ca</hex>
+</color>
+<color>
+<name>Blossom Tree</name>
+<hex>#ffc9db</hex>
 </color>
 <color>
 <name>Blossom White</name>
@@ -15847,6 +15843,10 @@
 <color>
 <name>Bundaberg Sand</name>
 <hex>#ffc58a</hex>
+</color>
+<color>
+<name>Bundle of Wheat</name>
+<hex>#e5b584</hex>
 </color>
 <color>
 <name>Bungalow Beige</name>
@@ -30313,6 +30313,10 @@
 <hex>#355859</hex>
 </color>
 <color>
+<name>Depths of Night</name>
+<hex>#2c319b</hex>
+</color>
+<color>
 <name>Derby</name>
 <hex>#f9e4c6</hex>
 </color>
@@ -34977,6 +34981,10 @@
 <hex>#000044</hex>
 </color>
 <color>
+<name>Endless Horizon</name>
+<hex>#b1dbf5</hex>
+</color>
+<color>
 <name>Endless Possibilities</name>
 <hex>#e0413a</hex>
 </color>
@@ -37657,6 +37665,10 @@
 <hex>#7fc15c</hex>
 </color>
 <color>
+<name>Fierce Red</name>
+<hex>#cc0021</hex>
+</color>
+<color>
 <name>Fiery Brown</name>
 <hex>#5d3831</hex>
 </color>
@@ -39422,7 +39434,7 @@
 </color>
 <color>
 <name>Fondue</name>
-<hex>#c99f97</hex>
+<hex>#fdf5c4</hex>
 </color>
 <color>
 <name>Fondue Fudge</name>
@@ -39431,10 +39443,6 @@
 <color>
 <name>Fool's Gold</name>
 <hex>#cad175</hex>
-</color>
-<color>
-<name>Fool’s Gold</name>
-<hex>#d59027</hex>
 </color>
 <color>
 <name>Football</name>
@@ -66069,6 +66077,10 @@
 <hex>#f7931a</hex>
 </color>
 <color>
+<name>Miami Pink</name>
+<hex>#f7c3da</hex>
+</color>
+<color>
 <name>Miami Spice</name>
 <hex>#907a6e</hex>
 </color>
@@ -81170,7 +81182,7 @@
 </color>
 <color>
 <name>Pistachio Cream</name>
-<hex>#d5e2e1</hex>
+<hex>#c5d498</hex>
 </color>
 <color>
 <name>Pistachio Flour</name>
@@ -94865,6 +94877,10 @@
 <hex>#91a8d0</hex>
 </color>
 <color>
+<name>Serenity's Reign</name>
+<hex>#507bce</hex>
+</color>
+<color>
 <name>Serial Kisses</name>
 <hex>#dd3744</hex>
 </color>
@@ -95423,6 +95439,10 @@
 <color>
 <name>Shea</name>
 <hex>#f8f1eb</hex>
+</color>
+<color>
+<name>Sheaf</name>
+<hex>#d2ae84</hex>
 </color>
 <color>
 <name>Shearling</name>
@@ -111965,6 +111985,10 @@
 <hex>#6c769b</hex>
 </color>
 <color>
+<name>Velvet Outbreak</name>
+<hex>#6b1b2a</hex>
+</color>
+<color>
 <name>Velvet Plum</name>
 <hex>#573a56</hex>
 </color>
@@ -112209,6 +112233,10 @@
 <hex>#167d60</hex>
 </color>
 <color>
+<name>Verdant Leaf</name>
+<hex>#817c4a</hex>
+</color>
+<color>
 <name>Verdant Views</name>
 <hex>#75794a</hex>
 </color>
@@ -112289,12 +112317,8 @@
 <hex>#2b7caf</hex>
 </color>
 <color>
-<name>Vermicelle</name>
-<hex>#dabe82</hex>
-</color>
-<color>
 <name>Vermicelles</name>
-<hex>#bb835f</hex>
+<hex>#dabe82</hex>
 </color>
 <color>
 <name>Vermicelli</name>
@@ -112317,6 +112341,10 @@
 <hex>#474230</hex>
 </color>
 <color>
+<name>Vermilion Orange</name>
+<hex>#f9603b</hex>
+</color>
+<color>
 <name>Vermilion Red</name>
 <hex>#b5493a</hex>
 </color>
@@ -112325,15 +112353,7 @@
 <hex>#d1062b</hex>
 </color>
 <color>
-<name>Vermillion</name>
-<hex>#da3b1f</hex>
-</color>
-<color>
-<name>Vermillion Orange</name>
-<hex>#f9603b</hex>
-</color>
-<color>
-<name>Vermillion Seabass</name>
+<name>Vermilion Seabass</name>
 <hex>#973a36</hex>
 </color>
 <color>
@@ -112365,12 +112385,12 @@
 <hex>#ecbfa8</hex>
 </color>
 <color>
-<name>Veronia Purple</name>
-<hex>#7e3075</hex>
-</color>
-<color>
 <name>Veronica</name>
 <hex>#a020ff</hex>
+</color>
+<color>
+<name>Veronica Purple</name>
+<hex>#7e3075</hex>
 </color>
 <color>
 <name>Vers de Terre</name>
@@ -112421,16 +112441,8 @@
 <hex>#927288</hex>
 </color>
 <color>
-<name>Very Light Blue</name>
-<hex>#d5ffff</hex>
-</color>
-<color>
 <name>Very Navy</name>
 <hex>#3a4859</hex>
-</color>
-<color>
-<name>Very Pale Blue</name>
-<hex>#d6fffe</hex>
 </color>
 <color>
 <name>Vespa Yellow</name>
@@ -112471,10 +112483,6 @@
 <color>
 <name>Vetiver</name>
 <hex>#807d6f</hex>
-</color>
-<color>
-<name>Vevet Outbreak</name>
-<hex>#6b1b2a</hex>
 </color>
 <color>
 <name>Viaduct</name>
@@ -112570,7 +112578,7 @@
 </color>
 <color>
 <name>Vicarious Violet</name>
-<hex>#5f4d50</hex>
+<hex>#664e62</hex>
 </color>
 <color>
 <name>Vice City</name>
@@ -114191,6 +114199,10 @@
 <color>
 <name>Warmed Wine</name>
 <hex>#5c3839</hex>
+</color>
+<color>
+<name>Warming Heart</name>
+<hex>#d44b3b</hex>
 </color>
 <color>
 <name>Warming Peach</name>

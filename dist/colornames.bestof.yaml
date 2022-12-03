@@ -659,6 +659,12 @@
   name:"Beekeeper"
   hex:"#f6e491"
 -
+  name:"Beer"
+  hex:"#fcaa12"
+-
+  name:"Beeswax"
+  hex:"#e9d7ab"
+-
   name:"Beet Red"
   hex:"#7e203f"
 -
@@ -2390,6 +2396,9 @@
   name:"Crash Dummy"
   hex:"#eeee66"
 -
+  name:"Crashing Waves"
+  hex:"#3e6f87"
+-
   name:"Cream"
   hex:"#ffffc2"
 -
@@ -2849,6 +2858,9 @@
   name:"Densetsu Green"
   hex:"#889911"
 -
+  name:"Depths of Night"
+  hex:"#2c319b"
+-
   name:"Desert"
   hex:"#ccad60"
 -
@@ -3302,6 +3314,9 @@
   name:"Endless Galaxy"
   hex:"#000044"
 -
+  name:"Endless Horizon"
+  hex:"#b1dbf5"
+-
   name:"Endless River"
   hex:"#567aad"
 -
@@ -3641,6 +3656,9 @@
   name:"Fiddle-Leaf Fig"
   hex:"#a6c875"
 -
+  name:"Fierce Red"
+  hex:"#cc0021"
+-
   name:"Fiery Glow"
   hex:"#f0531c"
 -
@@ -3883,6 +3901,12 @@
 -
   name:"Foliage"
   hex:"#95b388"
+-
+  name:"Fondant"
+  hex:"#f4e2cf"
+-
+  name:"Fondue"
+  hex:"#fdf5c4"
 -
   name:"Fool's Gold"
   hex:"#cad175"
@@ -10307,6 +10331,9 @@
   name:"Sereni Teal"
   hex:"#76baa8"
 -
+  name:"Serenity's Reign"
+  hex:"#507bce"
+-
   name:"Serial Kisses"
   hex:"#dd3744"
 -
@@ -10363,6 +10390,9 @@
 -
   name:"She Loves Pink"
   hex:"#e39b96"
+-
+  name:"Sheaf"
+  hex:"#d2ae84"
 -
   name:"Sheikh White"
   hex:"#efecee"
@@ -11891,23 +11921,23 @@
   name:"Verdant Forest"
   hex:"#28615d"
 -
+  name:"Verdant Leaf"
+  hex:"#817c4a"
+-
   name:"Verde"
   hex:"#7fb383"
 -
   name:"Verdigris"
   hex:"#43b3ae"
 -
-  name:"Vermicelle"
+  name:"Vermicelles"
   hex:"#dabe82"
 -
-  name:"Vermicelles"
-  hex:"#bb835f"
+  name:"Vermilion"
+  hex:"#f4320c"
 -
   name:"Vermilion Scarlet"
   hex:"#d1062b"
--
-  name:"Vermillion"
-  hex:"#da3b1f"
 -
   name:"Verminal"
   hex:"#55cc11"
@@ -11935,6 +11965,9 @@
 -
   name:"Vibrant Orange"
   hex:"#ff6216"
+-
+  name:"Vibrant Purple"
+  hex:"#ad03de"
 -
   name:"Vibrant Velvet"
   hex:"#bb0088"
@@ -12170,6 +12203,9 @@
   name:"Warm White"
   hex:"#efebd8"
 -
+  name:"Warming Heart"
+  hex:"#d44b3b"
+-
   name:"Warp Drive"
   hex:"#eaf2f1"
 -
@@ -12301,6 +12337,9 @@
 -
   name:"Wheat"
   hex:"#fbdd7e"
+-
+  name:"Wheat Sheaf"
+  hex:"#dfd4c4"
 -
   name:"Where There Is Smoke"
   hex:"#c7ccce"

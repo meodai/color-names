@@ -38,9 +38,6 @@
   name:"90% Cocoa"
   hex:"#3d1c02"
 -
-  name:"A Bloomed Cherry Blossom"
-  hex:"#ffccda"
--
   name:"A Brand New Day"
   hex:"#ffaabb"
 -
@@ -3920,9 +3917,6 @@
   name:"Ash Rose"
   hex:"#b5817d"
 -
-  name:"Ash to Ash"
-  hex:"#4e4e4c"
--
   name:"Ash Tree"
   hex:"#aabb99"
 -
@@ -3984,7 +3978,7 @@
   hex:"#7b8eb0"
 -
   name:"Ashwood"
-  hex:"#bcc4bd"
+  hex:"#edd6ae"
 -
   name:"Asian Fusion"
   hex:"#ece0cd"
@@ -6570,7 +6564,7 @@
   hex:"#f6e491"
 -
   name:"Beer"
-  hex:"#f28e1c"
+  hex:"#fcaa12"
 -
   name:"Beer Garden"
   hex:"#449933"
@@ -8518,6 +8512,9 @@
 -
   name:"Blossom Tint"
   hex:"#fbd6ca"
+-
+  name:"Blossom Tree"
+  hex:"#ffc9db"
 -
   name:"Blossom White"
   hex:"#f2eee4"
@@ -11884,6 +11881,9 @@
 -
   name:"Bundaberg Sand"
   hex:"#ffc58a"
+-
+  name:"Bundle of Wheat"
+  hex:"#e5b584"
 -
   name:"Bungalow Beige"
   hex:"#cbbeaa"
@@ -22733,6 +22733,9 @@
   name:"Depth Charge"
   hex:"#355859"
 -
+  name:"Depths of Night"
+  hex:"#2c319b"
+-
   name:"Derby"
   hex:"#f9e4c6"
 -
@@ -26231,6 +26234,9 @@
   name:"Endless Galaxy"
   hex:"#000044"
 -
+  name:"Endless Horizon"
+  hex:"#b1dbf5"
+-
   name:"Endless Possibilities"
   hex:"#e0413a"
 -
@@ -28241,6 +28247,9 @@
   name:"Fierce Mantis"
   hex:"#7fc15c"
 -
+  name:"Fierce Red"
+  hex:"#cc0021"
+-
   name:"Fiery Brown"
   hex:"#5d3831"
 -
@@ -29565,16 +29574,13 @@
   hex:"#f4e2cf"
 -
   name:"Fondue"
-  hex:"#c99f97"
+  hex:"#fdf5c4"
 -
   name:"Fondue Fudge"
   hex:"#6d4b3f"
 -
   name:"Fool's Gold"
   hex:"#cad175"
--
-  name:"Fool’s Gold"
-  hex:"#d59027"
 -
   name:"Football"
   hex:"#825736"
@@ -49550,6 +49556,9 @@
   name:"Miami Marmalade"
   hex:"#f7931a"
 -
+  name:"Miami Pink"
+  hex:"#f7c3da"
+-
   name:"Miami Spice"
   hex:"#907a6e"
 -
@@ -60876,7 +60885,7 @@
   hex:"#93c572"
 -
   name:"Pistachio Cream"
-  hex:"#d5e2e1"
+  hex:"#c5d498"
 -
   name:"Pistachio Flour"
   hex:"#4f8f00"
@@ -71147,6 +71156,9 @@
   name:"Serenity"
   hex:"#91a8d0"
 -
+  name:"Serenity's Reign"
+  hex:"#507bce"
+-
   name:"Serial Kisses"
   hex:"#dd3744"
 -
@@ -71566,6 +71578,9 @@
 -
   name:"Shea"
   hex:"#f8f1eb"
+-
+  name:"Sheaf"
+  hex:"#d2ae84"
 -
   name:"Shearling"
   hex:"#e8e1ce"
@@ -83972,6 +83987,9 @@
   name:"Velvet Morning"
   hex:"#6c769b"
 -
+  name:"Velvet Outbreak"
+  hex:"#6b1b2a"
+-
   name:"Velvet Plum"
   hex:"#573a56"
 -
@@ -84155,6 +84173,9 @@
   name:"Verdant Green"
   hex:"#167d60"
 -
+  name:"Verdant Leaf"
+  hex:"#817c4a"
+-
   name:"Verdant Views"
   hex:"#75794a"
 -
@@ -84215,11 +84236,8 @@
   name:"Vermeer Blue"
   hex:"#2b7caf"
 -
-  name:"Vermicelle"
-  hex:"#dabe82"
--
   name:"Vermicelles"
-  hex:"#bb835f"
+  hex:"#dabe82"
 -
   name:"Vermicelli"
   hex:"#d1b791"
@@ -84236,19 +84254,16 @@
   name:"Vermilion Green"
   hex:"#474230"
 -
+  name:"Vermilion Orange"
+  hex:"#f9603b"
+-
   name:"Vermilion Red"
   hex:"#b5493a"
 -
   name:"Vermilion Scarlet"
   hex:"#d1062b"
 -
-  name:"Vermillion"
-  hex:"#da3b1f"
--
-  name:"Vermillion Orange"
-  hex:"#f9603b"
--
-  name:"Vermillion Seabass"
+  name:"Vermilion Seabass"
   hex:"#973a36"
 -
   name:"Vermin Brown"
@@ -84272,11 +84287,11 @@
   name:"Veronese Peach"
   hex:"#ecbfa8"
 -
-  name:"Veronia Purple"
-  hex:"#7e3075"
--
   name:"Veronica"
   hex:"#a020ff"
+-
+  name:"Veronica Purple"
+  hex:"#7e3075"
 -
   name:"Vers de Terre"
   hex:"#acdfad"
@@ -84314,14 +84329,8 @@
   name:"Very Grape"
   hex:"#927288"
 -
-  name:"Very Light Blue"
-  hex:"#d5ffff"
--
   name:"Very Navy"
   hex:"#3a4859"
--
-  name:"Very Pale Blue"
-  hex:"#d6fffe"
 -
   name:"Vespa Yellow"
   hex:"#f3d19f"
@@ -84352,9 +84361,6 @@
 -
   name:"Vetiver"
   hex:"#807d6f"
--
-  name:"Vevet Outbreak"
-  hex:"#6b1b2a"
 -
   name:"Viaduct"
   hex:"#c1bbb0"
@@ -84426,7 +84432,7 @@
   hex:"#87d6dd"
 -
   name:"Vicarious Violet"
-  hex:"#5f4d50"
+  hex:"#664e62"
 -
   name:"Vice City"
   hex:"#ee00dd"
@@ -85642,6 +85648,9 @@
 -
   name:"Warmed Wine"
   hex:"#5c3839"
+-
+  name:"Warming Heart"
+  hex:"#d44b3b"
 -
   name:"Warming Peach"
   hex:"#e4b9a2"

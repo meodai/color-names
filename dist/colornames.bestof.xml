@@ -881,6 +881,14 @@
 <hex>#f6e491</hex>
 </color>
 <color>
+<name>Beer</name>
+<hex>#fcaa12</hex>
+</color>
+<color>
+<name>Beeswax</name>
+<hex>#e9d7ab</hex>
+</color>
+<color>
 <name>Beet Red</name>
 <hex>#7e203f</hex>
 </color>
@@ -3189,6 +3197,10 @@
 <hex>#eeee66</hex>
 </color>
 <color>
+<name>Crashing Waves</name>
+<hex>#3e6f87</hex>
+</color>
+<color>
 <name>Cream</name>
 <hex>#ffffc2</hex>
 </color>
@@ -3801,6 +3813,10 @@
 <hex>#889911</hex>
 </color>
 <color>
+<name>Depths of Night</name>
+<hex>#2c319b</hex>
+</color>
+<color>
 <name>Desert</name>
 <hex>#ccad60</hex>
 </color>
@@ -4405,6 +4421,10 @@
 <hex>#000044</hex>
 </color>
 <color>
+<name>Endless Horizon</name>
+<hex>#b1dbf5</hex>
+</color>
+<color>
 <name>Endless River</name>
 <hex>#567aad</hex>
 </color>
@@ -4857,6 +4877,10 @@
 <hex>#a6c875</hex>
 </color>
 <color>
+<name>Fierce Red</name>
+<hex>#cc0021</hex>
+</color>
+<color>
 <name>Fiery Glow</name>
 <hex>#f0531c</hex>
 </color>
@@ -5179,6 +5203,14 @@
 <color>
 <name>Foliage</name>
 <hex>#95b388</hex>
+</color>
+<color>
+<name>Fondant</name>
+<hex>#f4e2cf</hex>
+</color>
+<color>
+<name>Fondue</name>
+<hex>#fdf5c4</hex>
 </color>
 <color>
 <name>Fool's Gold</name>
@@ -13745,6 +13777,10 @@
 <hex>#76baa8</hex>
 </color>
 <color>
+<name>Serenity's Reign</name>
+<hex>#507bce</hex>
+</color>
+<color>
 <name>Serial Kisses</name>
 <hex>#dd3744</hex>
 </color>
@@ -13819,6 +13855,10 @@
 <color>
 <name>She Loves Pink</name>
 <hex>#e39b96</hex>
+</color>
+<color>
+<name>Sheaf</name>
+<hex>#d2ae84</hex>
 </color>
 <color>
 <name>Sheikh White</name>
@@ -15857,6 +15897,10 @@
 <hex>#28615d</hex>
 </color>
 <color>
+<name>Verdant Leaf</name>
+<hex>#817c4a</hex>
+</color>
+<color>
 <name>Verde</name>
 <hex>#7fb383</hex>
 </color>
@@ -15865,20 +15909,16 @@
 <hex>#43b3ae</hex>
 </color>
 <color>
-<name>Vermicelle</name>
+<name>Vermicelles</name>
 <hex>#dabe82</hex>
 </color>
 <color>
-<name>Vermicelles</name>
-<hex>#bb835f</hex>
+<name>Vermilion</name>
+<hex>#f4320c</hex>
 </color>
 <color>
 <name>Vermilion Scarlet</name>
 <hex>#d1062b</hex>
-</color>
-<color>
-<name>Vermillion</name>
-<hex>#da3b1f</hex>
 </color>
 <color>
 <name>Verminal</name>
@@ -15915,6 +15955,10 @@
 <color>
 <name>Vibrant Orange</name>
 <hex>#ff6216</hex>
+</color>
+<color>
+<name>Vibrant Purple</name>
+<hex>#ad03de</hex>
 </color>
 <color>
 <name>Vibrant Velvet</name>
@@ -16229,6 +16273,10 @@
 <hex>#efebd8</hex>
 </color>
 <color>
+<name>Warming Heart</name>
+<hex>#d44b3b</hex>
+</color>
+<color>
 <name>Warp Drive</name>
 <hex>#eaf2f1</hex>
 </color>
@@ -16403,6 +16451,10 @@
 <color>
 <name>Wheat</name>
 <hex>#fbdd7e</hex>
+</color>
+<color>
+<name>Wheat Sheaf</name>
+<hex>#dfd4c4</hex>
 </color>
 <color>
 <name>Where There Is Smoke</name>

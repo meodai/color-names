@@ -12,7 +12,6 @@ name,hex,good name
 5-Masted Preußen,#9bafad,
 8 Bit Eggplant,#990066,x
 90% Cocoa,#3d1c02,
-A Bloomed Cherry Blossom,#ffccda,
 A Brand New Day,#ffaabb,
 A Certain Shade Of Green,#d1edee,
 A Dime a Dozen,#d3dde4,x
@@ -1306,7 +1305,6 @@ Ash Mauve,#737486,
 Ash Pink,#998e91,
 Ash Plum,#e8d3c7,
 Ash Rose,#b5817d,
-Ash to Ash,#4e4e4c,
 Ash Tree,#aabb99,
 Ash Tree Bark,#cecfd6,
 Ash Violet,#9695a4,
@@ -1327,7 +1325,7 @@ Ashlin Grey,#d2d9da,
 Ashlite,#a7a49f,
 Ashton Blue,#4a79ba,
 Ashton Skies,#7b8eb0,
-Ashwood,#bcc4bd,
+Ashwood,#edd6ae,
 Asian Fusion,#ece0cd,
 Asian Ivory,#e8e0cd,
 Asian Jute,#d4b78f,
@@ -2189,10 +2187,10 @@ Beef Jerky,#a25768,
 Beef Patties,#bb5533,
 Beehive,#e1b781,
 Beekeeper,#f6e491,x
-Beer,#f28e1c,
+Beer,#fcaa12,x
 Beer Garden,#449933,
 Beer Glazed Bacon,#773311,
-Beeswax,#e9d7ab,
+Beeswax,#e9d7ab,x
 Beeswax Candle,#bf7e41,
 Beeswing,#f5d297,
 Beet Red,#7e203f,x
@@ -2839,6 +2837,7 @@ Blossom Pink,#e6d5ce,
 Blossom Powder,#c3b3b9,
 Blossom Time,#e5d2c9,
 Blossom Tint,#fbd6ca,
+Blossom Tree,#ffc9db,
 Blossom White,#f2eee4,
 Blossom Yellow,#e1c77d,
 Blossoming Dynasty,#de5346,x
@@ -3961,6 +3960,7 @@ Bumble Baby,#f5f1de,
 Bumblebee,#ffc82a,x
 Bunchberry,#674961,
 Bundaberg Sand,#ffc58a,
+Bundle of Wheat,#e5b584,
 Bungalow Beige,#cbbeaa,
 Bungalow Brown,#ad947b,
 Bungalow Gold,#ad8047,
@@ -6573,7 +6573,7 @@ Cranbrook,#a65570,
 Crantini,#954c52,
 Crash Dummy,#eeee66,x
 Crash Pink,#cc88ff,
-Crashing Waves,#3e6f87,
+Crashing Waves,#3e6f87,x
 Crater Brown,#4d3e3c,
 Crater Crawler,#c8ced6,
 Crater Lake,#63797e,
@@ -7577,6 +7577,7 @@ Dentist Green,#99d590,
 Denver River,#7795c1,
 Dépaysement,#e7d8c7,
 Depth Charge,#355859,
+Depths of Night,#2c319b,x
 Derby,#f9e4c6,
 Derby Brown,#8a7265,
 Derby Green,#599c89,
@@ -8743,6 +8744,7 @@ Ending Navy Blue,#1c305c,
 Endive,#cee1c8,x
 Endless,#5b976a,
 Endless Galaxy,#000044,x
+Endless Horizon,#b1dbf5,x
 Endless Possibilities,#e0413a,
 Endless River,#567aad,x
 Endless Sea,#32586e,
@@ -9413,6 +9415,7 @@ Field of Wheat,#deb699,
 Field Poppy,#d86f3c,
 Fieldstone,#807e77,
 Fierce Mantis,#7fc15c,
+Fierce Red,#cc0021,x
 Fiery Brown,#5d3831,
 Fiery Coral,#e26058,
 Fiery Flamingo,#f96d7b,
@@ -9853,11 +9856,10 @@ Follow the Leader,#f7e5d0,
 Folly,#fd004d,
 Fond de Teint,#ffaaaa,
 Fond Memory,#c8bcb7,
-Fondant,#f4e2cf,
-Fondue,#c99f97,
+Fondant,#f4e2cf,x
+Fondue,#fdf5c4,x
 Fondue Fudge,#6d4b3f,
 Fool's Gold,#cad175,x
-Fool’s Gold,#d59027,
 Football,#825736,
 Football Field,#7eaf34,
 Foothill Drive,#cab48e,
@@ -16516,6 +16518,7 @@ Mì Chéng Honey,#e8af45,
 Miami Coral,#fd8973,
 Miami Jade,#17917f,
 Miami Marmalade,#f7931a,
+Miami Pink,#f7c3da,
 Miami Spice,#907a6e,
 Miami Stucco,#f5d5b8,
 Miami Teal,#6ec2b0,
@@ -20291,7 +20294,7 @@ Pisces Vivid Amethyst,#ab46ec,
 Pisco Sour,#beeb71,x
 Pismo Dunes,#f4d6a4,
 Pistachio,#93c572,x
-Pistachio Cream,#d5e2e1,
+Pistachio Cream,#c5d498,
 Pistachio Flour,#4f8f00,
 Pistachio Green,#a9d39e,
 Pistachio Ice Cream,#a0b7ad,
@@ -23715,6 +23718,7 @@ Serengeti Green,#77cc88,
 Serengeti Sand,#fce7d0,
 Sereni Teal,#76baa8,x
 Serenity,#91a8d0,
+Serenity's Reign,#507bce,x
 Serial Kisses,#dd3744,x
 Serious Cloud,#7d848b,x
 Serious Grey,#cec9c7,
@@ -23855,6 +23859,7 @@ Shaving Cream,#e1e5e5,x
 Shawarma,#dd9955,
 She Loves Pink,#e39b96,x
 Shea,#f8f1eb,
+Sheaf,#d2ae84,x
 Shearling,#e8e1ce,
 Shearwater Black,#5b5b6c,
 Shebang,#81876f,
@@ -27990,6 +27995,7 @@ Velvet Leaf,#96c193,
 Velvet Magic,#bb1155,x
 Velvet Mauve,#692b57,
 Velvet Morning,#6c769b,
+Velvet Outbreak,#6b1b2a,
 Velvet Plum,#573a56,
 Velvet Robe,#939dcc,
 Velvet Rope,#36526a,
@@ -28051,6 +28057,7 @@ Verdant,#847e35,
 Verdant Fields,#5ad33e,
 Verdant Forest,#28615d,x
 Verdant Green,#167d60,
+Verdant Leaf,#817c4a,x
 Verdant Views,#75794a,
 Verde,#7fb383,x
 Verde Garrafa,#355e3b,
@@ -28071,18 +28078,16 @@ Veri Berri,#937496,
 Verified Black,#232324,
 Veritably Verdant,#00844b,
 Vermeer Blue,#2b7caf,
-Vermicelle,#dabe82,x
-Vermicelles,#bb835f,x
+Vermicelles,#dabe82,x
 Vermicelli,#d1b791,
-Vermilion,#f4320c,
+Vermilion,#f4320c,x
 Vermilion Bird,#f24433,
 Vermilion Cinnabar,#e34244,
 Vermilion Green,#474230,
+Vermilion Orange,#f9603b,
 Vermilion Red,#b5493a,
 Vermilion Scarlet,#d1062b,x
-Vermillion,#da3b1f,x
-Vermillion Orange,#f9603b,
-Vermillion Seabass,#973a36,
+Vermilion Seabass,#973a36,
 Vermin Brown,#8f7303,
 Verminal,#55cc11,x
 Verminlord Hide,#a16954,
@@ -28090,8 +28095,8 @@ Vermont Cream,#f8f5e8,
 Vermont Slate,#48535a,
 Verona Beach,#e9d3ba,
 Veronese Peach,#ecbfa8,
-Veronia Purple,#7e3075,
 Veronica,#a020ff,
+Veronica Purple,#7e3075,
 Vers de Terre,#acdfad,
 Versailles Rose,#c4b0ad,
 Versatile Taupe,#c1b6ab,
@@ -28104,9 +28109,7 @@ Very Berry,#bb3381,x
 Very Blue,#33365b,
 Very Coffee,#664411,x
 Very Grape,#927288,
-Very Light Blue,#d5ffff,
 Very Navy,#3a4859,
-Very Pale Blue,#d6fffe,
 Vespa Yellow,#f3d19f,
 Vesper,#0011cc,
 Vesper Violet,#99a0b2,
@@ -28117,7 +28120,6 @@ Vesuvian Violet,#a28a9f,
 Vesuvius,#a85533,
 Veteran's Day Blue,#2e58e8,
 Vetiver,#807d6f,
-Vevet Outbreak,#6b1b2a,
 Viaduct,#c1bbb0,
 Viameter,#d9d140,
 Vibrant,#ffd44d,
@@ -28128,7 +28130,7 @@ Vibrant Honey,#ffbd31,x
 Vibrant Mint,#00ffe5,x
 Vibrant Orange,#ff6216,x
 Vibrant Orchid,#804b81,
-Vibrant Purple,#ad03de,
+Vibrant Purple,#ad03de,x
 Vibrant Red,#c24c6a,
 Vibrant Soft Blue,#88d6dc,
 Vibrant Velvet,#bb0088,x
@@ -28141,7 +28143,7 @@ VIC 20 Creme,#ffffb2,
 VIC 20 Green,#94e089,
 VIC 20 Pink,#ea9ff6,
 VIC 20 Sky,#87d6dd,
-Vicarious Violet,#5f4d50,
+Vicarious Violet,#664e62,
 Vice City,#ee00dd,x
 Vicious Violet,#8f509d,x
 Victoria,#564985,
@@ -28547,6 +28549,7 @@ Warm White,#efebd8,x
 Warm Winter,#d4ede3,
 Warm Woolen,#d0b55a,
 Warmed Wine,#5c3839,
+Warming Heart,#d44b3b,x
 Warming Peach,#e4b9a2,
 Warmstone,#e6d7cc,
 Warmth,#9f552d,
@@ -28839,7 +28842,7 @@ Wheat Flour White,#ddd6ca,
 Wheat Grass,#c7c088,
 Wheat Penny,#976b53,
 Wheat Seed,#e3d1c8,
-Wheat Sheaf,#dfd4c4,
+Wheat Sheaf,#dfd4c4,x
 Wheat Tortilla,#a49a79,
 Wheatacre,#ad935b,
 Wheatberry,#c8865e,
