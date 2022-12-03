@@ -2468,8 +2468,14 @@
   name:"Crepe"
   hex:"#d4bc94"
 -
+  name:"Crimson Blaze"
+  hex:"#ad3d1e"
+-
   name:"Crimson Boy"
   hex:"#b44933"
+-
+  name:"Crimson Velvet Sunset"
+  hex:"#b52604"
 -
   name:"Crisps"
   hex:"#e2bd67"
@@ -3272,6 +3278,9 @@
   name:"Emerald"
   hex:"#028f1e"
 -
+  name:"Emerald Bliss"
+  hex:"#4cbdac"
+-
   name:"Emerald Forest"
   hex:"#224347"
 -
@@ -3772,6 +3781,9 @@
 -
   name:"Flaming Cauldron"
   hex:"#f6a374"
+-
+  name:"Flaming Cherry"
+  hex:"#d4202a"
 -
   name:"Flaming Flamingo"
   hex:"#dd55ff"
@@ -7382,6 +7394,9 @@
   name:"Misty Cold Sea"
   hex:"#83bbc1"
 -
+  name:"Misty Haze"
+  hex:"#cec9c3"
+-
   name:"Misty Marsh"
   hex:"#d3e1d3"
 -
@@ -7495,6 +7510,9 @@
 -
   name:"Moon Veil"
   hex:"#8d99b1"
+-
+  name:"Moonbeam"
+  hex:"#c2b8ae"
 -
   name:"Moondance"
   hex:"#e5decc"
@@ -9937,6 +9955,9 @@
 -
   name:"Rosewood"
   hex:"#65000b"
+-
+  name:"Rosewood Dreams"
+  hex:"#ebbeb5"
 -
   name:"Rosy Brown"
   hex:"#bc8f8f"
