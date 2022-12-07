@@ -13205,6 +13205,10 @@
 <hex>#7b684d</hex>
 </color>
 <color>
+<name>Boho Blush</name>
+<hex>#e58787</hex>
+</color>
+<color>
 <name>Boho Copper</name>
 <hex>#b96033</hex>
 </color>
@@ -38433,6 +38437,10 @@
 <hex>#960018</hex>
 </color>
 <color>
+<name>Flame of Prometheus</name>
+<hex>#db3c02</hex>
+</color>
+<color>
 <name>Flame Orange</name>
 <hex>#fb8b23</hex>
 </color>
@@ -39303,6 +39311,10 @@
 <color>
 <name>Fog of War</name>
 <hex>#112233</hex>
+</color>
+<color>
+<name>Fog Syringa</name>
+<hex>#c4bad2</hex>
 </color>
 <color>
 <name>Fog White</name>
@@ -70105,7 +70117,7 @@
 <hex>#d68b80</hex>
 </color>
 <color>
-<name>My Place or Yours?</name>
+<name>My Place or Yours</name>
 <hex>#4f434e</hex>
 </color>
 <color>
@@ -113475,6 +113487,10 @@
 <color>
 <name>Viva Las Vegas</name>
 <hex>#b39953</hex>
+</color>
+<color>
+<name>Viva Magenta</name>
+<hex>#a0488c</hex>
 </color>
 <color>
 <name>Vivacious</name>
