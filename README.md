@@ -52,6 +52,7 @@ __[via form 🌈](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qh
 / or [twitter 🐦](https://twitter.com/color_parrot)__
 
 Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute!
+
 ## Color Count: __29953__ 🎉
 
 ~__0.18%__ of the RGB color space
