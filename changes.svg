@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 430">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 150">
   <defs>
     <style type="text/css">
       @import url('https://rsms.me/inter/inter.css');
@@ -9,6 +9,6 @@
       }
     </style>
   </defs>
-  <rect fill="#212121" x="0" y="0" width="600" height="430"/>
-  <text x="40" y="90" fill="#e8dac3">Arizona White</text><text x="40" y="160" fill="#a09174">Kinderhook Clay</text><text x="40" y="230" fill="#ebdac0">Ludlow Beige</text><text x="40" y="300" fill="#8e7d62">Rocks of Normandy</text><text x="40" y="370" fill="#987465">Temptation</text>
+  <rect fill="#212121" x="0" y="0" width="600" height="150"/>
+  <text x="40" y="90" fill="#cc3b3b">Chef's Kiss</text>
 </svg>
