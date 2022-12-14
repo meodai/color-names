@@ -355,7 +355,12 @@ See [package.json](package.json#L6) for more.
 
 ## Disclaimer 👮🏾‍
 
-In an effort to create a more inclusive and respectful environment, we strive to remove all offensive and racist names, as well as protected brand names, from our list. While we do our best to screen out such names, some may still slip through. If you come across any such names, please [let us know](https://github.com/meodai/color-names/issues/new?title=Bad%20color%20name) so that we can remove them promptly.
+In an effort to create a more inclusive and respectful environment, we strive to
+remove all offensive and racist names, as well as protected brand names,
+from our list. While we do our best to screen out such names, some may still
+slip through. If you come across any such names, please
+[let us know](https://github.com/meodai/color-names/issues/new?title=Bad%20color%20name)
+so that we can remove them promptly.
 
 ## Latest Color Names 🔖
 
