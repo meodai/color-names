@@ -494,6 +494,9 @@
   name:"Baltic"
   hex:"#279d9f"
 -
+  name:"Baltic Amber"
+  hex:"#fbb782"
+-
   name:"Bambino"
   hex:"#8edacc"
 -
@@ -880,6 +883,9 @@
 -
   name:"Black Sheep"
   hex:"#0f0d0d"
+-
+  name:"Black Stallion"
+  hex:"#0e191c"
 -
   name:"Black Truffle"
   hex:"#463d3e"
@@ -1987,6 +1993,9 @@
 -
   name:"Chocolate Bells"
   hex:"#775130"
+-
+  name:"Chocolate Bliss"
+  hex:"#7f6054"
 -
   name:"Chocolate Castle"
   hex:"#452207"
@@ -4724,6 +4733,9 @@
   name:"Green Bell Pepper"
   hex:"#228800"
 -
+  name:"Green Commando"
+  hex:"#828039"
+-
   name:"Green Envy"
   hex:"#77aa00"
 -
@@ -6529,6 +6541,9 @@
 -
   name:"Little Mermaid"
   hex:"#2d454a"
+-
+  name:"Little Princess"
+  hex:"#e6aac1"
 -
   name:"Liver"
   hex:"#654a46"
@@ -9437,6 +9452,9 @@
   name:"Praise the Sun"
   hex:"#f3f4d9"
 -
+  name:"Precious"
+  hex:"#f1dab2"
+-
   name:"Precious Copper"
   hex:"#885522"
 -
@@ -9487,9 +9505,6 @@
 -
   name:"Prince Charming"
   hex:"#cc2277"
--
-  name:"Princess Blue Feather"
-  hex:"#cceeee"
 -
   name:"Princess Peach"
   hex:"#f878f8"
@@ -9907,6 +9922,9 @@
 -
   name:"Ridgeback"
   hex:"#ef985c"
+-
+  name:"Ripasso"
+  hex:"#94312f"
 -
   name:"Ripe Malinka"
   hex:"#f5576c"
@@ -10820,6 +10838,9 @@
   name:"Somewhere in a Fairytale"
   hex:"#cc99dd"
 -
+  name:"Soothing Sapphire"
+  hex:"#307dd3"
+-
   name:"Sooty"
   hex:"#141414"
 -
@@ -10831,6 +10852,9 @@
 -
   name:"Soulless"
   hex:"#1b150d"
+-
+  name:"Sour"
+  hex:"#e5edb5"
 -
   name:"Sour Apple Candy"
   hex:"#aaee22"
@@ -11074,6 +11098,9 @@
 -
   name:"Stormy Sea"
   hex:"#6e8082"
+-
+  name:"Stormy Waters"
+  hex:"#84a9b0"
 -
   name:"Straw Gold"
   hex:"#fcf679"
@@ -11491,6 +11518,9 @@
 -
   name:"Thundercloud"
   hex:"#698589"
+-
+  name:"Thyme and Place"
+  hex:"#6f8770"
 -
   name:"Tiger"
   hex:"#be9c67"
@@ -12473,6 +12503,9 @@
   name:"White Chocolate"
   hex:"#f0e3c7"
 -
+  name:"White Christmas"
+  hex:"#f4e8e8"
+-
   name:"White Elephant"
   hex:"#dedee5"
 -
@@ -12749,6 +12782,9 @@
   name:"Yippie Ya Yellow"
   hex:"#f9f59f"
 -
+  name:"Yoghurt Brûlée"
+  hex:"#f5e9ce"
+-
   name:"York Pink"
   hex:"#d7837f"
 -
@@ -12817,6 +12853,9 @@
 -
   name:"Zombie"
   hex:"#6a755a"
+-
+  name:"Zoodles"
+  hex:"#b8bf71"
 -
   name:"Zucchini"
   hex:"#17462e"

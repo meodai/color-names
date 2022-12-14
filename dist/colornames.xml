@@ -2601,6 +2601,10 @@
 <hex>#ae2f48</hex>
 </color>
 <color>
+<name>Amorous</name>
+<hex>#967d96</hex>
+</color>
+<color>
 <name>Amorphous Rose</name>
 <hex>#b1a7b7</hex>
 </color>
@@ -3875,6 +3879,10 @@
 <color>
 <name>Apricot Buff</name>
 <hex>#cd7e4d</hex>
+</color>
+<color>
+<name>Apricot Butter</name>
+<hex>#ffc782</hex>
 </color>
 <color>
 <name>Apricot Chicken</name>
@@ -7221,6 +7229,10 @@
 <hex>#279d9f</hex>
 </color>
 <color>
+<name>Baltic Amber</name>
+<hex>#fbb782</hex>
+</color>
+<color>
 <name>Baltic Blue</name>
 <hex>#6c969a</hex>
 </color>
@@ -7491,6 +7503,10 @@
 <color>
 <name>Baneblade Brown</name>
 <hex>#937f6d</hex>
+</color>
+<color>
+<name>Bang</name>
+<hex>#bc393b</hex>
 </color>
 <color>
 <name>Bangalore</name>
@@ -10539,6 +10555,10 @@
 <color>
 <name>Black Squeeze</name>
 <hex>#e5e6df</hex>
+</color>
+<color>
+<name>Black Stallion</name>
+<hex>#0e191c</hex>
 </color>
 <color>
 <name>Black Suede</name>
@@ -21679,6 +21699,10 @@
 <color>
 <name>Chocolate Bhut Jolokia</name>
 <hex>#782a2e</hex>
+</color>
+<color>
+<name>Chocolate Bliss</name>
+<hex>#7f6054</hex>
 </color>
 <color>
 <name>Chocolate Brown</name>
@@ -33849,6 +33873,10 @@
 <hex>#eededd</hex>
 </color>
 <color>
+<name>Éclair au Chocolat</name>
+<hex>#7e4930</hex>
+</color>
+<color>
 <name>Eclectic</name>
 <hex>#aaafbd</hex>
 </color>
@@ -45931,6 +45959,10 @@
 <color>
 <name>Green Column</name>
 <hex>#465149</hex>
+</color>
+<color>
+<name>Green Commando</name>
+<hex>#828039</hex>
 </color>
 <color>
 <name>Green Cow</name>
@@ -83625,6 +83657,10 @@
 <hex>#8b7f7a</hex>
 </color>
 <color>
+<name>Precious</name>
+<hex>#f1dab2</hex>
+</color>
+<color>
 <name>Precious Blue</name>
 <hex>#008389</hex>
 </color>
@@ -84025,6 +84061,10 @@
 <hex>#6d5c7b</hex>
 </color>
 <color>
+<name>Princess</name>
+<hex>#f0a8b5</hex>
+</color>
+<color>
 <name>Princess Blue</name>
 <hex>#0056a1</hex>
 </color>
@@ -84045,16 +84085,8 @@
 <hex>#e5dbeb</hex>
 </color>
 <color>
-<name>Princess Irene</name>
-<hex>#eadbde</hex>
-</color>
-<color>
 <name>Princess Ivory</name>
 <hex>#faead5</hex>
-</color>
-<color>
-<name>Princess Kate</name>
-<hex>#6599a4</hex>
 </color>
 <color>
 <name>Princess Peach</name>
@@ -86997,6 +87029,10 @@
 <hex>#f08101</hex>
 </color>
 <color>
+<name>Re-Entry</name>
+<hex>#dd484e</hex>
+</color>
+<color>
 <name>Re-Entry Red</name>
 <hex>#cd0317</hex>
 </color>
@@ -89070,7 +89106,7 @@
 </color>
 <color>
 <name>Ripasso</name>
-<hex>#774041</hex>
+<hex>#94312f</hex>
 </color>
 <color>
 <name>Ripe Berry</name>
@@ -99609,6 +99645,10 @@
 <hex>#f2e7de</hex>
 </color>
 <color>
+<name>Soothing Sapphire</name>
+<hex>#307dd3</hex>
+</color>
+<color>
 <name>Soothing Sea</name>
 <hex>#bce6de</hex>
 </color>
@@ -99759,6 +99799,10 @@
 <color>
 <name>Sounds of Nature</name>
 <hex>#dfe5d7</hex>
+</color>
+<color>
+<name>Sour</name>
+<hex>#e5edb5</hex>
 </color>
 <color>
 <name>Sour Apple</name>
@@ -102635,6 +102679,10 @@
 <color>
 <name>Stormy Sunrise</name>
 <hex>#c8a2c8</hex>
+</color>
+<color>
+<name>Stormy Waters</name>
+<hex>#84a9b0</hex>
 </color>
 <color>
 <name>Stormy Weather</name>
@@ -106693,6 +106741,10 @@
 <hex>#416986</hex>
 </color>
 <color>
+<name>Tear</name>
+<hex>#b5d8df</hex>
+</color>
+<color>
 <name>Teardrop</name>
 <hex>#d1eaea</hex>
 </color>
@@ -107747,6 +107799,10 @@
 <color>
 <name>Thyme</name>
 <hex>#50574c</hex>
+</color>
+<color>
+<name>Thyme and Place</name>
+<hex>#6f8770</hex>
 </color>
 <color>
 <name>Thyme and Salt</name>
@@ -113557,6 +113613,10 @@
 <hex>#7487c6</hex>
 </color>
 <color>
+<name>Violetta</name>
+<hex>#ac6b98</hex>
+</color>
+<color>
 <name>Violettuce</name>
 <hex>#882055</hex>
 </color>
@@ -118761,6 +118821,10 @@
 <hex>#ca135e</hex>
 </color>
 <color>
+<name>Yeast</name>
+<hex>#fae1ac</hex>
+</color>
+<color>
 <name>Yell for Yellow</name>
 <hex>#fffe00</hex>
 </color>
@@ -119795,6 +119859,10 @@
 <color>
 <name>Zōng Hóng Red</name>
 <hex>#ca6641</hex>
+</color>
+<color>
+<name>Zoodles</name>
+<hex>#b8bf71</hex>
 </color>
 <color>
 <name>Zoom</name>
