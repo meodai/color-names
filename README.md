@@ -261,13 +261,16 @@ See [package.json](package.json#L6) for more.
   / [Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform)
   / [Github](#contributors-)
 - [Wikipedia list of named colors] (2018-02-23): `wikipedia`
-- [Wada Sanzo's list of named colors]: `sanzoWadaI`
-- [CSS/HTML color names]: `html`
-- [Werner’s Nomenclature of Colours]: `werner`
-- [ntc.js]
-- [xkcd color survey list]
+- [Wada Sanzo's list of named colors] : `sanzoWadaI`
+- [CSS/HTML color names] : `html`
+- [Microsoft Color Names] : `windows`
+- [Werner’s Nomenclature of Colours] : `werner`
+- [The Color Thesaurus by writer Ingrid Sundberg] : `thesaurus`
+- [RAL colors] : `ral`
+- [ntc.js] : `ntc`
+- [xkcd color survey list] : `xkcd`
 - [htmlcsscolor.com]
-- [OSX Crayons]
+- [OSX Crayons] : `osxcrayons`
 - [Crayola crayon]
 - [Japanese Twelve Level Cap and Rank System colors]
 - [Thailand weekday colors]
@@ -438,11 +441,14 @@ so that we can remove them promptly.
 [Military Paint]: http://paintref.com/cgi-bin/colorcodedisplay.cgi?manuf=Military
 [Werner’s Nomenclature of Colours]: https://www.c82.net/werner/
 [ntc.js]: http://chir.ag/projects/ntc/
+[RAL colors]: https://www.ralcolor.com/
 [Olympian god colors]: http://www.hellenicgods.org/colors-associated-with-the-olympian-gods
 [OSX Crayons]: http://www.randomactsofsentience.com/2013/06/os-x-crayon-color-hex-table.html
 [Thailand weekday colors]: https://en.wikipedia.org/wiki/Colors_of_the_day_in_Thailand
 [Wikipedia list of named colors]: https://en.wikipedia.org/wiki/List_of_colors:_A%E2%80%93F
+[Microsoft Color Names]: https://learn.microsoft.com/en-us/dotnet/api/system.windows.media.colors?view=windowsdesktop-7.0
 [Wada Sanzo's list of named colors]: https://sanzo-wada.dmbk.io/
+[The Color Thesaurus by writer Ingrid Sundberg]: https://ingridsnotes.wordpress.com/2014/02/04/the-color-thesaurus/
 [xkcd color survey list]: https://blog.xkcd.com/2010/05/03/color-survey-results/
 
 <!-- Sources: Color -->
