@@ -43,6 +43,7 @@ shifted the colors a bit when there were identical colors with different names.
   hex value below the name.
 - [Color Picker II]: Move your mouse and scroll to choose a color.
 - [Name Search]: full text search on the color list.
+- [Filter color names]: Specify the source for looking up names for a color
 - [Color Distribution] 3D view of all color names in different color spaces.
 - [Twitter Bot]: Posts random colors and lets you submit new ones.
 
@@ -180,6 +181,14 @@ https://api.color.pizza/v1/names/?name={{query}}
 Returns an `array` of color `objects` which match the given query, sorted by color-name:
 `curl` [https://api.color.pizza/v1/names/red](https://api.color.pizza/v1/names/red)
 
+#### Specify a color name source
+
+```url
+https://api.color/pizza/v1/?values={{query}}&&list={{listname}}
+```
+
+See [sources](https://github.com/meodai/color-names#sources-names-) for a list of accepted color lists and their corresponding url-encoded names.
+
 #### Good Color-Names
 
 Not all color-names are created equal; add [`?goodnamesonly=true`](https://api.color.pizza/v1/?values=212121,060606,ff0012,550055,123456&goodnamesonly=true)
@@ -251,10 +260,10 @@ See [package.json](package.json#L6) for more.
 - Thousands of user submissions [Twitter](https://codepen.io/meodai/full/ZXQzLb/)
   / [Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform)
   / [Github](#contributors-)
-- [Wikipedia list of named colors] (2018-02-23)
-- [Wada Sanzo's list of named colors]
-- [CSS/HTML color names]
-- [Werner’s Nomenclature of Colours]
+- [Wikipedia list of named colors] (2018-02-23): `wikipedia`
+- [Wada Sanzo's list of named colors]: `sanzoWadaI`
+- [CSS/HTML color names]: `html`
+- [Werner’s Nomenclature of Colours]: `werner`
 - [ntc.js]
 - [xkcd color survey list]
 - [htmlcsscolor.com]
