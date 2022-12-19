@@ -302,9 +302,9 @@ See [package.json](package.json#L6) for more.
 
 #### Silver
 
-- [colorkit.co] 20USD/month
 - [neverything] 25USD/month
 - [Dmitry Iv.] 10USD/month
+- [colorkit.co] 10USD/month
 
 #### Bronze
 
