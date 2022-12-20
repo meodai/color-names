@@ -45,6 +45,7 @@ shifted the colors a bit when there were identical colors with different names.
 - [Name Search]: full text search on the color list.
 - [Color Distribution] 3D view of all color names in different color spaces.
 - [Twitter Bot]: Posts random colors and lets you submit new ones.
+- [Color List Preview]: Get the names of basic colors from all the supported lists at a glance. Users can enter their own colors.
 
 ## Color Name Submission 💌
 
@@ -379,6 +380,8 @@ so that we can remove them promptly.
 [Name Search]: https://codepen.io/meodai/full/VMpNdQ/
 [Color Distribution]: https://codepen.io/meodai/full/zdgXJj/
 [Twitter Bot]: https://twitter.com/color_parrot
+[Color List Preview]: https://codepen.io/bytrangle/full/jOpOrdv
+
 
 <!-- 3r party libraries & tools -->
 
