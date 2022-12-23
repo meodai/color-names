@@ -155,11 +155,8 @@ const nearest = nearestColor.from(colors);
 nearest('#f1c1d1'); // => Fairy Tale
 ```
 
-Alternative package: [ktree](https://github.com/caub/ktree)
-
-__Note__: If you are looking for something visually more accurate, you could:
-use [DeltaE], or use the above snippet, combined with a transform from rgb to
-[ciecam02] scaled to 0-255.
+__Note__: If you are looking for something visually more accurate, you could
+use [DeltaE] or use the above snippet, but using [ciecam02] instead of RGB.
 
 [DeltaE]: https://github.com/zschuessler/DeltaE
 [ciecam02]: https://github.com/baskerville/ciecam02
