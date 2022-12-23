@@ -104,88 +104,16 @@ or `yarn add color-name-list`
 
 ### API 🃏
 
-```url
-https://api.color.pizza/v1/{{hexvalue without the #}},{{more comma separated values}}
-```
+To make it easier to access the names, we offer a free and public Rest API that
+allows you to access all the color names and names from other publicly available
+name lists. You can find the full API code and documentation
+[in this repository](https://github.com/meodai/color-name-api).
 
-or
-
-```url
-https://api.color.pizza/v1/?values={{hexvalue without the #}},{{more comma separated values}}
-```
-
-#### Single Color
-
-`curl` [https://api.color.pizza/v1/212121](https://api.color.pizza/v1/212121)
-
-```javascript
-{
-  "colors": [{
-    "name": "Lead",
-    "hex": "#212121",
-    "rgb": {"r": 33, "g": 33, "b": 33},
-    "distance": 0, // its an exact match
-    "luminance": 22.062320231562225,
-    "requestedHex": "#212121",
-  }]
-}
-```
-
-#### Multiple Colors
-
-`curl` [https://api.color.pizza/v1/212121,060606,ff0012,550055,123456](https://api.color.pizza/v1/212121,060606,ff0012,550055,123456)
-or
-`curl` [https://api.color.pizza/v1/?values=212121,060606,ff0012,550055,123456](https://api.color.pizza/v1/?values=212121,060606,ff0012,550055,123456)
-
-#### All Named Colors
-
-`curl` [https://api.color.pizza/v1/](https://api.color.pizza/v1/)
-
-In this case colors is not an `object` but an `array` of `objects` sorted by color-name
-
-#### Unique Color-Names
-
-by adding `?noduplicates=true` every returned name will be unique.
-The closest color, that was not returned previously will be returned:
-`curl` [https://api.color.pizza/v1/?values=212121,212121&noduplicates=true](https://api.color.pizza/v1/?values=212121,212121&noduplicates=true)
-
-```javascript
-{
-  "colors": [{
-    "name": "Lead",
-    "hex": "#212121",
-    "rgb": { "r": 33, "g": 33, "b": 33 },
-    "luminance": 22.062320231562225
-  },{
-    "name": "Abaddon Black",
-    "hex": "#231f20",
-    "rgb": { "r": 35, "g": 31, "b": 32 },
-    "luminance": 21.30621829419759
-  }]
-}
-```
-
-#### Search for colors by name
+#### API Exaple Call Usage
 
 ```url
-https://api.color.pizza/v1/names/{{query}}
+https://api.color.pizza/v1/?values=00f,f00,f00&list=bestOf
 ```
-
-or
-
-```url
-https://api.color.pizza/v1/names/?name={{query}}
-```
-
-Returns an `array` of color `objects` which match the given query, sorted by color-name:
-`curl` [https://api.color.pizza/v1/names/red](https://api.color.pizza/v1/names/red)
-
-#### Good Color-Names
-
-Not all color-names are created equal; add [`?goodnamesonly=true`](https://api.color.pizza/v1/?values=212121,060606,ff0012,550055,123456&goodnamesonly=true)
-to your request URL to get a handpicked subset of names that were rated as good
-by humans. (Colors that are liked a lot on [twitter](https://twitter.com/color_parrot)
-and some of the team favourites).
 
 #### API Disclaimer
 
@@ -193,7 +121,7 @@ The API is free to use and has no limitations. But if your app/site is commercia
 and causes excessive traffic, I might contact you to become a sponsor.
 
 Feel free to deploy it yourself, it is very easy to host/deploy on heroku and
-has no dependencies [server.js](https://github.com/meodai/color-names/blob/master/scripts/server.js)
+has no dependencies [Color-Name-API](https://github.com/meodai/color-name-api)
 
 ### Usage JS ⌨
 
