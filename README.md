@@ -232,6 +232,7 @@ See [package.json](package.json#L6) for more.
 
 - [neverything] 25USD/month
 - [Dmitry Iv.] 10USD/month
+- [colorkit.co] 10USD/month
 
 #### Bronze
 
@@ -339,6 +340,7 @@ so that we can remove them promptly.
 [BlueChaos]: https://www.instagram.com/bluechaos1811/
 [Dmitry Iv.]: https://github.com/dy
 [neverything]: https://neverything.me/
+[colorkit.co]: https://colorkit.co/
 [Myriam Aerne]: https://fynoeggeli.ch/
 [nachtfunke]: https://helloyes.dev
 [amin]: http://www.slashui.com
