@@ -1977,6 +1977,10 @@
 <hex>#051009</hex>
 </color>
 <color>
+<name>Alpine Sky</name>
+<hex>#79b4ce</hex>
+</color>
+<color>
 <name>Alpine Summer</name>
 <hex>#a5a99a</hex>
 </color>
@@ -2815,6 +2819,10 @@
 <color>
 <name>Ancient Pewter</name>
 <hex>#898d91</hex>
+</color>
+<color>
+<name>Ancient Pine</name>
+<hex>#444b43</hex>
 </color>
 <color>
 <name>Ancient Planks</name>
@@ -5119,6 +5127,10 @@
 <color>
 <name>Artist's Canvas</name>
 <hex>#eee4d2</hex>
+</color>
+<color>
+<name>Artist's Charcoal</name>
+<hex>#37393e</hex>
 </color>
 <color>
 <name>Artist's Shadow</name>
@@ -7483,6 +7495,10 @@
 <color>
 <name>Bananas Foster</name>
 <hex>#dbbe97</hex>
+</color>
+<color>
+<name>Bancha</name>
+<hex>#666a47</hex>
 </color>
 <color>
 <name>Bancroft Village</name>
@@ -15485,6 +15501,10 @@
 <hex>#664238</hex>
 </color>
 <color>
+<name>Bruni Green</name>
+<hex>#829e2c</hex>
+</color>
+<color>
 <name>Brunneous</name>
 <hex>#5e4662</hex>
 </color>
@@ -15831,6 +15851,10 @@
 <color>
 <name>Buffhide</name>
 <hex>#a79c81</hex>
+</color>
+<color>
+<name>Buffy Citrine</name>
+<hex>#868929</hex>
 </color>
 <color>
 <name>Bugle Boy</name>
@@ -19279,10 +19303,6 @@
 <color>
 <name>Catmint</name>
 <hex>#c9a8ce</hex>
-</color>
-<color>
-<name>Catnap</name>
-<hex>#9fc3ac</hex>
 </color>
 <color>
 <name>Catnip</name>
@@ -23618,10 +23638,6 @@
 </color>
 <color>
 <name>Cochineal Red</name>
-<hex>#7a4848</hex>
-</color>
-<color>
-<name>Cochineal Red/Rouge</name>
 <hex>#9d2933</hex>
 </color>
 <color>
@@ -25673,6 +25689,10 @@
 <hex>#551155</hex>
 </color>
 <color>
+<name>Cosmic Green</name>
+<hex>#30a877</hex>
+</color>
+<color>
 <name>Cosmic Heart</name>
 <hex>#9601f4</hex>
 </color>
@@ -25989,6 +26009,10 @@
 <hex>#d7c2a6</hex>
 </color>
 <color>
+<name>Country Meadow</name>
+<hex>#1a5a4e</hex>
+</color>
+<color>
 <name>Country Mist</name>
 <hex>#dfebe2</hex>
 </color>
@@ -26211,6 +26235,10 @@
 <color>
 <name>Crab Bisque</name>
 <hex>#f0b599</hex>
+</color>
+<color>
+<name>Crab Curry</name>
+<hex>#d94b28</hex>
 </color>
 <color>
 <name>Crab Nebula</name>
@@ -31021,6 +31049,10 @@
 <hex>#93739e</hex>
 </color>
 <color>
+<name>Dig It</name>
+<hex>#8e6e57</hex>
+</color>
+<color>
 <name>Digger's Gold</name>
 <hex>#a37336</hex>
 </color>
@@ -34761,6 +34793,10 @@
 <hex>#578758</hex>
 </color>
 <color>
+<name>Emerald Shimmer</name>
+<hex>#78944a</hex>
+</color>
+<color>
 <name>Emerald Spring</name>
 <hex>#095155</hex>
 </color>
@@ -36977,6 +37013,10 @@
 <hex>#b6c121</hex>
 </color>
 <color>
+<name>Fallout Grey</name>
+<hex>#889977</hex>
+</color>
+<color>
 <name>Fallow</name>
 <hex>#c19a51</hex>
 </color>
@@ -37295,6 +37335,10 @@
 <color>
 <name>Feasty Fuchsia</name>
 <hex>#ee0088</hex>
+</color>
+<color>
+<name>Feather</name>
+<hex>#dad9ce</hex>
 </color>
 <color>
 <name>Feather Boa</name>
@@ -37991,6 +38035,10 @@
 <color>
 <name>Fine Burgundy</name>
 <hex>#815158</hex>
+</color>
+<color>
+<name>Fine Gold</name>
+<hex>#daa826</hex>
 </color>
 <color>
 <name>Fine Grain</name>
@@ -40773,6 +40821,10 @@
 <hex>#f5e9cf</hex>
 </color>
 <color>
+<name>Freshly Baked</name>
+<hex>#e9c180</hex>
+</color>
+<color>
 <name>Freshly Purpleized</name>
 <hex>#5c5083</hex>
 </color>
@@ -42603,6 +42655,10 @@
 <color>
 <name>Gentle Grape</name>
 <hex>#908a9b</hex>
+</color>
+<color>
+<name>Gentle Landscape</name>
+<hex>#a5ce8f</hex>
 </color>
 <color>
 <name>Gentle Mauve</name>
@@ -44734,11 +44790,11 @@
 </color>
 <color>
 <name>Good Luck</name>
-<hex>#86c994</hex>
+<hex>#499674</hex>
 </color>
 <color>
 <name>Good Luck Charm</name>
-<hex>#9d865c</hex>
+<hex>#86c994</hex>
 </color>
 <color>
 <name>Good Morning</name>
@@ -46763,6 +46819,10 @@
 <color>
 <name>Greengrass</name>
 <hex>#72a355</hex>
+</color>
+<color>
+<name>Greenhorn</name>
+<hex>#b2cc9a</hex>
 </color>
 <color>
 <name>Greenhouse</name>
@@ -68617,6 +68677,10 @@
 <hex>#3c393d</hex>
 </color>
 <color>
+<name>Moonless Sky</name>
+<hex>#444b4a</hex>
+</color>
+<color>
 <name>Moonlight</name>
 <hex>#f6eed5</hex>
 </color>
@@ -71133,6 +71197,10 @@
 <hex>#9556eb</hex>
 </color>
 <color>
+<name>Navy Seal</name>
+<hex>#253a91</hex>
+</color>
+<color>
 <name>Navy Teal</name>
 <hex>#20576e</hex>
 </color>
@@ -73445,10 +73513,6 @@
 <hex>#ccdd00</hex>
 </color>
 <color>
-<name>Octavius</name>
-<hex>#37393e</hex>
-</color>
-<color>
 <name>October</name>
 <hex>#c67533</hex>
 </color>
@@ -73690,7 +73754,7 @@
 </color>
 <color>
 <name>Okra</name>
-<hex>#fdefe9</hex>
+<hex>#3e912d</hex>
 </color>
 <color>
 <name>Okroshka</name>
@@ -82301,6 +82365,10 @@
 <hex>#993333</hex>
 </color>
 <color>
+<name>Poisonous Cloud</name>
+<hex>#d3db39</hex>
+</color>
+<color>
 <name>Poisonous Dart</name>
 <hex>#77ff66</hex>
 </color>
@@ -83537,6 +83605,10 @@
 <hex>#c2a593</hex>
 </color>
 <color>
+<name>Prairie</name>
+<hex>#0b9d6a</hex>
+</color>
+<color>
 <name>Prairie Clay</name>
 <hex>#935444</hex>
 </color>
@@ -84451,6 +84523,10 @@
 <color>
 <name>Puff Dragon</name>
 <hex>#635940</hex>
+</color>
+<color>
+<name>Puff of Pink</name>
+<hex>#ffcbee</hex>
 </color>
 <color>
 <name>Puff Pastry Yellow</name>
@@ -93013,6 +93089,10 @@
 <hex>#e69332</hex>
 </color>
 <color>
+<name>Santa Belly Red</name>
+<hex>#ad2c15</hex>
+</color>
+<color>
 <name>Santa Fe</name>
 <hex>#b16d52</hex>
 </color>
@@ -98169,6 +98249,10 @@
 <hex>#d7cecd</hex>
 </color>
 <color>
+<name>Smidgen of Love</name>
+<hex>#f0ccd9</hex>
+</color>
+<color>
 <name>Smiley Face</name>
 <hex>#ffc962</hex>
 </color>
@@ -103231,6 +103315,10 @@
 <color>
 <name>Subtle Blue</name>
 <hex>#d9e4e5</hex>
+</color>
+<color>
+<name>Subtle Breeze</name>
+<hex>#b5d2d8</hex>
 </color>
 <color>
 <name>Subtle Green</name>

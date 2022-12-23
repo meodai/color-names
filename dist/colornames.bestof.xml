@@ -229,6 +229,10 @@
 <hex>#756f6b</hex>
 </color>
 <color>
+<name>Ancient Pine</name>
+<hex>#444b43</hex>
+</color>
+<color>
 <name>Ancient Scroll</name>
 <hex>#f0e4d1</hex>
 </color>
@@ -455,6 +459,10 @@
 <color>
 <name>Artisans Gold</name>
 <hex>#f2ab46</hex>
+</color>
+<color>
+<name>Artist's Charcoal</name>
+<hex>#37393e</hex>
 </color>
 <color>
 <name>Arugula</name>
@@ -735,6 +743,10 @@
 <color>
 <name>Banana Split</name>
 <hex>#f7eec8</hex>
+</color>
+<color>
+<name>Bancha</name>
+<hex>#666a47</hex>
 </color>
 <color>
 <name>Bangalore</name>
@@ -1981,10 +1993,6 @@
 <hex>#5b6f55</hex>
 </color>
 <color>
-<name>Cactus Spike</name>
-<hex>#c1e0a3</hex>
-</color>
-<color>
 <name>Cadillac Coupe</name>
 <hex>#c0362c</hex>
 </color>
@@ -2347,6 +2355,10 @@
 <color>
 <name>Cathode Green</name>
 <hex>#00ff55</hex>
+</color>
+<color>
+<name>Catnip</name>
+<hex>#80aa95</hex>
 </color>
 <color>
 <name>Cauliflower</name>
@@ -3135,6 +3147,10 @@
 <color>
 <name>Cosmic Explorer</name>
 <hex>#551155</hex>
+</color>
+<color>
+<name>Cosmic Green</name>
+<hex>#30a877</hex>
 </color>
 <color>
 <name>Cosmic Heart</name>
@@ -4813,6 +4829,10 @@
 <hex>#ee0088</hex>
 </color>
 <color>
+<name>Feather</name>
+<hex>#dad9ce</hex>
+</color>
+<color>
 <name>Featherbed</name>
 <hex>#afcbe5</hex>
 </color>
@@ -5405,6 +5425,10 @@
 <hex>#f6f4f6</hex>
 </color>
 <color>
+<name>French Vanilla</name>
+<hex>#efe1a7</hex>
+</color>
+<color>
 <name>French Wine</name>
 <hex>#ac1e44</hex>
 </color>
@@ -5439,6 +5463,10 @@
 <color>
 <name>Fresh Snow</name>
 <hex>#f6efe1</hex>
+</color>
+<color>
+<name>Freshly Baked</name>
+<hex>#e9c180</hex>
 </color>
 <color>
 <name>Freshly Purpleized</name>
@@ -6141,10 +6169,6 @@
 <hex>#333c76</hex>
 </color>
 <color>
-<name>Good Luck</name>
-<hex>#86c994</hex>
-</color>
-<color>
 <name>Good Morning</name>
 <hex>#fcfcda</hex>
 </color>
@@ -6395,6 +6419,10 @@
 <color>
 <name>Greenfinch</name>
 <hex>#bda928</hex>
+</color>
+<color>
+<name>Greenhorn</name>
+<hex>#b2cc9a</hex>
 </color>
 <color>
 <name>Greenhouse</name>
@@ -10097,6 +10125,10 @@
 <hex>#3c393d</hex>
 </color>
 <color>
+<name>Moonless Sky</name>
+<hex>#444b4a</hex>
+</color>
+<color>
 <name>Moonlight</name>
 <hex>#f6eed5</hex>
 </color>
@@ -12593,6 +12625,10 @@
 <hex>#f9f2e7</hex>
 </color>
 <color>
+<name>Prairie</name>
+<hex>#0b9d6a</hex>
+</color>
+<color>
 <name>Prairie Land</name>
 <hex>#e2cc9c</hex>
 </color>
@@ -12743,6 +12779,10 @@
 <color>
 <name>Pucker Up</name>
 <hex>#ff1177</hex>
+</color>
+<color>
+<name>Puff of Pink</name>
+<hex>#ffcbee</hex>
 </color>
 <color>
 <name>Puffy Cloud</name>
@@ -14289,6 +14329,10 @@
 <hex>#bef7cf</hex>
 </color>
 <color>
+<name>Smidgen of Love</name>
+<hex>#f0ccd9</hex>
+</color>
+<color>
 <name>Smiley Face</name>
 <hex>#ffc962</hex>
 </color>
@@ -14867,6 +14911,10 @@
 <color>
 <name>Subterrain Kingdom</name>
 <hex>#4f4e4a</hex>
+</color>
+<color>
+<name>Subtle Breeze</name>
+<hex>#b5d2d8</hex>
 </color>
 <color>
 <name>Succubus</name>

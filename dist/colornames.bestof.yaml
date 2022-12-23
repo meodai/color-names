@@ -170,6 +170,9 @@
   name:"Anchovy"
   hex:"#756f6b"
 -
+  name:"Ancient Pine"
+  hex:"#444b43"
+-
   name:"Ancient Scroll"
   hex:"#f0e4d1"
 -
@@ -340,6 +343,9 @@
 -
   name:"Artisans Gold"
   hex:"#f2ab46"
+-
+  name:"Artist's Charcoal"
+  hex:"#37393e"
 -
   name:"Arugula"
   hex:"#75ad5b"
@@ -550,6 +556,9 @@
 -
   name:"Banana Split"
   hex:"#f7eec8"
+-
+  name:"Bancha"
+  hex:"#666a47"
 -
   name:"Bangalore"
   hex:"#bbaa88"
@@ -1484,9 +1493,6 @@
   name:"Cactus"
   hex:"#5b6f55"
 -
-  name:"Cactus Spike"
-  hex:"#c1e0a3"
--
   name:"Cadillac Coupe"
   hex:"#c0362c"
 -
@@ -1759,6 +1765,9 @@
 -
   name:"Cathode Green"
   hex:"#00ff55"
+-
+  name:"Catnip"
+  hex:"#80aa95"
 -
   name:"Cauliflower"
   hex:"#ebe5d0"
@@ -2350,6 +2359,9 @@
 -
   name:"Cosmic Explorer"
   hex:"#551155"
+-
+  name:"Cosmic Green"
+  hex:"#30a877"
 -
   name:"Cosmic Heart"
   hex:"#9601f4"
@@ -3608,6 +3620,9 @@
   name:"Feasty Fuchsia"
   hex:"#ee0088"
 -
+  name:"Feather"
+  hex:"#dad9ce"
+-
   name:"Featherbed"
   hex:"#afcbe5"
 -
@@ -4052,6 +4067,9 @@
   name:"French Porcelain"
   hex:"#f6f4f6"
 -
+  name:"French Vanilla"
+  hex:"#efe1a7"
+-
   name:"French Wine"
   hex:"#ac1e44"
 -
@@ -4078,6 +4096,9 @@
 -
   name:"Fresh Snow"
   hex:"#f6efe1"
+-
+  name:"Freshly Baked"
+  hex:"#e9c180"
 -
   name:"Freshly Purpleized"
   hex:"#5c5083"
@@ -4604,9 +4625,6 @@
   name:"Good Karma"
   hex:"#333c76"
 -
-  name:"Good Luck"
-  hex:"#86c994"
--
   name:"Good Morning"
   hex:"#fcfcda"
 -
@@ -4795,6 +4813,9 @@
 -
   name:"Greenfinch"
   hex:"#bda928"
+-
+  name:"Greenhorn"
+  hex:"#b2cc9a"
 -
   name:"Greenhouse"
   hex:"#3e6334"
@@ -7571,6 +7592,9 @@
   name:"Moonless Night"
   hex:"#3c393d"
 -
+  name:"Moonless Sky"
+  hex:"#444b4a"
+-
   name:"Moonlight"
   hex:"#f6eed5"
 -
@@ -9443,6 +9467,9 @@
   name:"Powdered"
   hex:"#f9f2e7"
 -
+  name:"Prairie"
+  hex:"#0b9d6a"
+-
   name:"Prairie Land"
   hex:"#e2cc9c"
 -
@@ -9556,6 +9583,9 @@
 -
   name:"Pucker Up"
   hex:"#ff1177"
+-
+  name:"Puff of Pink"
+  hex:"#ffcbee"
 -
   name:"Puffy Cloud"
   hex:"#d2def2"
@@ -10715,6 +10745,9 @@
   name:"Smell the Mint"
   hex:"#bef7cf"
 -
+  name:"Smidgen of Love"
+  hex:"#f0ccd9"
+-
   name:"Smiley Face"
   hex:"#ffc962"
 -
@@ -11149,6 +11182,9 @@
 -
   name:"Subterrain Kingdom"
   hex:"#4f4e4a"
+-
+  name:"Subtle Breeze"
+  hex:"#b5d2d8"
 -
   name:"Succubus"
   hex:"#990022"
