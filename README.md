@@ -204,12 +204,6 @@ See [package.json](package.json#L6) for more.
   and [Nathan Kjer](https://nathankjer.com/text-generation/)
 - [Team Fortress 2 paint colors](https://wiki.teamfortress.com/wiki/Paint_Can#Colors)
 
-### Sources: Color 🎨
-
-- [12-Bit & 8-Bit color palettes]
-- [Pico-8 color palette]
-- [Some Android Arts palettes]
-
 ## Contributors 🦑
 
 - [meodai] Initiator, maintainer, name creator &, tooling
@@ -362,11 +356,5 @@ so that we can remove them promptly.
 [Wikipedia list of named colors]: https://en.wikipedia.org/wiki/List_of_colors:_A%E2%80%93F
 [Wada Sanzo's list of named colors]: https://sanzo-wada.dmbk.io/
 [xkcd color survey list]: https://blog.xkcd.com/2010/05/03/color-survey-results/
-
-<!-- Sources: Color -->
-
-[12-Bit & 8-Bit color palettes]: https://en.wikipedia.org/wiki/List_of_color_palettes
-[Pico-8 color palette]: https://www.lexaloffle.com/bbs/?tid=2101
-[Some Android Arts palettes]: http://androidarts.com/palette/
 
 <!-- EOF -->
