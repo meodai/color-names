@@ -257,13 +257,24 @@ const readme = fs.readFileSync(
 ).toString();
 fs.writeFileSync(
   path.normalize(`${baseFolder}${readmeFileName}`),
-  readme.replace(/__\d+__/g, `__${colorsSrc.entires.length}__`)
-    .replace(
+  readme.replace(
+      // update color count in text
+      /__\d+__/g,
+      `__${colorsSrc.entires.length}__`
+    ).replace(
+      // update color count in badge
       /\d+-colors-orange/,
       `${colorsSrc.entires.length}-colors-orange`
     ).replace(
+      // update color count in percentage
       /__\d+(\.\d+)?%__/,
       `__${((colorsSrc.entires.length / (256 * 256 * 256)) * 100).toFixed(2)}%__`
+    ).replace(
+      // update file size
+      /\d+(\.\d+)? MB\)__/g,
+      `${
+        (fs.statSync(path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.json`)).size / 1024 / 1024).toFixed(2)
+      } MB)__`
     ), 'utf8'
 );
 
