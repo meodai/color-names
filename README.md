@@ -71,7 +71,7 @@ colors evenly in the color space: [Visualization](https://codepen.io/meodai/full
 
 ### Node.js Installation 📦
 
-__Large Size Warning (1.14 MB)__: If you are doing this in the browser,
+__Size Warning (1.14 MB)__: If you are doing this in the browser,
 consider using the [public rest API](#api-)
 
 ```shell
@@ -128,7 +128,7 @@ has no dependencies [Color-Name-API](https://github.com/meodai/color-name-api)
 
 ### Usage JS ⌨
 
-__Large Size Warning (1.14 MB)__: If you are doing this in the browser,
+__Size Warning (1.14 MB)__: If you are doing this in the browser,
 consider using the [public rest API](#api-)
 
 #### Exact Color
