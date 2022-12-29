@@ -1,6 +1,6 @@
 <img align="left" height="119" width="119" src="https://meodai.github.io/color-names/logo/cockatoo-fill.svg">
 
-# handpicked color names
+# Color Names
 
 [![Actions Status](https://github.com/meodai/color-names/workflows/Build%20CI/badge.svg)](https://github.com/meodai/color-names/actions)
 [![GitHub release](https://img.shields.io/github/release/meodai/color-names.svg)](https://github.com/meodai/color-names/)
