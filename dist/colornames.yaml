@@ -9995,6 +9995,9 @@
   name:"Bold Eagle"
   hex:"#463d2f"
 -
+  name:"Bold Gold"
+  hex:"#ead56d"
+-
   name:"Bold Irish"
   hex:"#2a814d"
 -
@@ -15959,7 +15962,7 @@
   name:"Chill in the Air"
   hex:"#d1d5e7"
 -
-  name:"Chill of Teamwork"
+  name:"Chill of the Night"
   hex:"#256d8d"
 -
   name:"Chilled Chilly"
@@ -19279,6 +19282,9 @@
 -
   name:"Cosmic Ray"
   hex:"#cadada"
+-
+  name:"Cosmic Red"
+  hex:"#da244b"
 -
   name:"Cosmic Sky"
   hex:"#aaaac4"
@@ -24196,6 +24202,9 @@
 -
   name:"Dreamy Heaven"
   hex:"#594158"
+-
+  name:"Dreamy Memory"
+  hex:"#e8c3d9"
 -
   name:"Dreamy Pink"
   hex:"#dfabcd"
@@ -31399,6 +31408,9 @@
 -
   name:"Galactic Mediator"
   hex:"#e0dfdb"
+-
+  name:"Galactic Purple"
+  hex:"#472e97"
 -
   name:"Galactic Tint"
   hex:"#c0c4c6"
@@ -42245,6 +42257,9 @@
   name:"Kiss of a Vampire"
   hex:"#8a0009"
 -
+  name:"Kiss of Lime"
+  hex:"#eae2ac"
+-
   name:"Kiss of the Scorpion"
   hex:"#dc331a"
 -
@@ -42769,6 +42784,9 @@
 -
   name:"Lady's Slipper"
   hex:"#e3e3ea"
+-
+  name:"Ladybug"
+  hex:"#bd474e"
 -
   name:"Ladylike"
   hex:"#ffc3bf"
@@ -43702,6 +43720,9 @@
 -
   name:"Leery Lemon"
   hex:"#f5c71a"
+-
+  name:"Lees"
+  hex:"#4c2226"
 -
   name:"Left on Red"
   hex:"#ff0303"
@@ -45332,6 +45353,9 @@
   name:"Lilás"
   hex:"#cc99ff"
 -
+  name:"Lili Elbe's Pink"
+  hex:"#d4a1b0"
+-
   name:"Liliac"
   hex:"#c48efd"
 -
@@ -46783,6 +46807,9 @@
 -
   name:"Lunar Lite"
   hex:"#e0ddd8"
+-
+  name:"Lunar Luxury"
+  hex:"#fbf4d6"
 -
   name:"Lunar Outpost"
   hex:"#828287"
@@ -54563,6 +54590,9 @@
   name:"Nouvelle White"
   hex:"#e1dcda"
 -
+  name:"Nova Pink"
+  hex:"#d94f9a"
+-
   name:"Nova White"
   hex:"#f8eed9"
 -
@@ -60364,6 +60394,9 @@
 -
   name:"Pinetop"
   hex:"#57593f"
+-
+  name:"Pineweed"
+  hex:"#5b7349"
 -
   name:"Piney Lake"
   hex:"#006655"
@@ -78275,6 +78308,9 @@
   name:"Sunlit Allium"
   hex:"#9787bb"
 -
+  name:"Sunlit Glade"
+  hex:"#98d4a0"
+-
   name:"Sunlit Kelp Green"
   hex:"#7d7103"
 -
@@ -82863,13 +82899,16 @@
   hex:"#536a79"
 -
   name:"Turf"
-  hex:"#5f4f42"
+  hex:"#415b36"
 -
   name:"Turf Green"
   hex:"#2a8948"
 -
   name:"Turf Master"
   hex:"#009922"
+-
+  name:"Turf War"
+  hex:"#738050"
 -
   name:"Turkish Aqua"
   hex:"#006169"
@@ -86993,6 +87032,9 @@
   name:"Whisper of Grass"
   hex:"#cbede5"
 -
+  name:"Whisper of Plum"
+  hex:"#d4afda"
+-
   name:"Whisper of Rose"
   hex:"#cda2ac"
 -
@@ -87520,9 +87562,6 @@
 -
   name:"Wiener Schnitzel"
   hex:"#ee9900"
--
-  name:"Wiggle"
-  hex:"#c9c844"
 -
   name:"Wild Apple"
   hex:"#fef9d7"

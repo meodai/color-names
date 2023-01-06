@@ -13329,6 +13329,10 @@
 <hex>#463d2f</hex>
 </color>
 <color>
+<name>Bold Gold</name>
+<hex>#ead56d</hex>
+</color>
+<color>
 <name>Bold Irish</name>
 <hex>#2a814d</hex>
 </color>
@@ -21281,7 +21285,7 @@
 <hex>#d1d5e7</hex>
 </color>
 <color>
-<name>Chill of Teamwork</name>
+<name>Chill of the Night</name>
 <hex>#256d8d</hex>
 </color>
 <color>
@@ -25707,6 +25711,10 @@
 <color>
 <name>Cosmic Ray</name>
 <hex>#cadada</hex>
+</color>
+<color>
+<name>Cosmic Red</name>
+<hex>#da244b</hex>
 </color>
 <color>
 <name>Cosmic Sky</name>
@@ -32263,6 +32271,10 @@
 <color>
 <name>Dreamy Heaven</name>
 <hex>#594158</hex>
+</color>
+<color>
+<name>Dreamy Memory</name>
+<hex>#e8c3d9</hex>
 </color>
 <color>
 <name>Dreamy Pink</name>
@@ -41867,6 +41879,10 @@
 <color>
 <name>Galactic Mediator</name>
 <hex>#e0dfdb</hex>
+</color>
+<color>
+<name>Galactic Purple</name>
+<hex>#472e97</hex>
 </color>
 <color>
 <name>Galactic Tint</name>
@@ -56329,6 +56345,10 @@
 <hex>#8a0009</hex>
 </color>
 <color>
+<name>Kiss of Lime</name>
+<hex>#eae2ac</hex>
+</color>
+<color>
 <name>Kiss of the Scorpion</name>
 <hex>#dc331a</hex>
 </color>
@@ -57027,6 +57047,10 @@
 <color>
 <name>Lady's Slipper</name>
 <hex>#e3e3ea</hex>
+</color>
+<color>
+<name>Ladybug</name>
+<hex>#bd474e</hex>
 </color>
 <color>
 <name>Ladylike</name>
@@ -58271,6 +58295,10 @@
 <color>
 <name>Leery Lemon</name>
 <hex>#f5c71a</hex>
+</color>
+<color>
+<name>Lees</name>
+<hex>#4c2226</hex>
 </color>
 <color>
 <name>Left on Red</name>
@@ -60445,6 +60473,10 @@
 <hex>#cc99ff</hex>
 </color>
 <color>
+<name>Lili Elbe's Pink</name>
+<hex>#d4a1b0</hex>
+</color>
+<color>
 <name>Liliac</name>
 <hex>#c48efd</hex>
 </color>
@@ -62379,6 +62411,10 @@
 <color>
 <name>Lunar Lite</name>
 <hex>#e0ddd8</hex>
+</color>
+<color>
+<name>Lunar Luxury</name>
+<hex>#fbf4d6</hex>
 </color>
 <color>
 <name>Lunar Outpost</name>
@@ -72753,6 +72789,10 @@
 <hex>#e1dcda</hex>
 </color>
 <color>
+<name>Nova Pink</name>
+<hex>#d94f9a</hex>
+</color>
+<color>
 <name>Nova White</name>
 <hex>#f8eed9</hex>
 </color>
@@ -80487,6 +80527,10 @@
 <color>
 <name>Pinetop</name>
 <hex>#57593f</hex>
+</color>
+<color>
+<name>Pineweed</name>
+<hex>#5b7349</hex>
 </color>
 <color>
 <name>Piney Lake</name>
@@ -104369,6 +104413,10 @@
 <hex>#9787bb</hex>
 </color>
 <color>
+<name>Sunlit Glade</name>
+<hex>#98d4a0</hex>
+</color>
+<color>
 <name>Sunlit Kelp Green</name>
 <hex>#7d7103</hex>
 </color>
@@ -110486,7 +110534,7 @@
 </color>
 <color>
 <name>Turf</name>
-<hex>#5f4f42</hex>
+<hex>#415b36</hex>
 </color>
 <color>
 <name>Turf Green</name>
@@ -110495,6 +110543,10 @@
 <color>
 <name>Turf Master</name>
 <hex>#009922</hex>
+</color>
+<color>
+<name>Turf War</name>
+<hex>#738050</hex>
 </color>
 <color>
 <name>Turkish Aqua</name>
@@ -115993,6 +116045,10 @@
 <hex>#cbede5</hex>
 </color>
 <color>
+<name>Whisper of Plum</name>
+<hex>#d4afda</hex>
+</color>
+<color>
 <name>Whisper of Rose</name>
 <hex>#cda2ac</hex>
 </color>
@@ -116695,10 +116751,6 @@
 <color>
 <name>Wiener Schnitzel</name>
 <hex>#ee9900</hex>
-</color>
-<color>
-<name>Wiggle</name>
-<hex>#c9c844</hex>
 </color>
 <color>
 <name>Wild Apple</name>

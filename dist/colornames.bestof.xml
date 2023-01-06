@@ -2629,6 +2629,10 @@
 <hex>#ac1e3a</hex>
 </color>
 <color>
+<name>Chill of the Night</name>
+<hex>#256d8d</hex>
+</color>
+<color>
 <name>Chimera</name>
 <hex>#74626d</hex>
 </color>
@@ -3159,6 +3163,10 @@
 <color>
 <name>Cosmic Latte</name>
 <hex>#fff8e7</hex>
+</color>
+<color>
+<name>Cosmic Red</name>
+<hex>#da244b</hex>
 </color>
 <color>
 <name>Cotinga Purple</name>
@@ -5691,6 +5699,10 @@
 <color>
 <name>Galactic Highway</name>
 <hex>#3311bb</hex>
+</color>
+<color>
+<name>Galactic Purple</name>
+<hex>#472e97</hex>
 </color>
 <color>
 <name>Galaxea</name>
@@ -8975,6 +8987,10 @@
 <color>
 <name>Lunar Light</name>
 <hex>#9b959c</hex>
+</color>
+<color>
+<name>Lunar Luxury</name>
+<hex>#fbf4d6</hex>
 </color>
 <color>
 <name>Lunar Outpost</name>
@@ -15746,7 +15762,7 @@
 </color>
 <color>
 <name>Turf</name>
-<hex>#5f4f42</hex>
+<hex>#415b36</hex>
 </color>
 <color>
 <name>Turf Master</name>
