@@ -773,12 +773,20 @@
 <hex>#c26157</hex>
 </color>
 <color>
+<name>Barbera</name>
+<hex>#8b031c</hex>
+</color>
+<color>
 <name>Barberry</name>
 <hex>#ee1133</hex>
 </color>
 <color>
 <name>Bark</name>
 <hex>#5f5854</hex>
+</color>
+<color>
+<name>Barolo</name>
+<hex>#71000e</hex>
 </color>
 <color>
 <name>Barrel Aged</name>
@@ -999,6 +1007,10 @@
 <color>
 <name>Berry</name>
 <hex>#990f4b</hex>
+</color>
+<color>
+<name>Berry Butter</name>
+<hex>#efcedc</hex>
 </color>
 <color>
 <name>Berry Good</name>
@@ -1845,6 +1857,10 @@
 <hex>#746c8f</hex>
 </color>
 <color>
+<name>Buried Gold</name>
+<hex>#dbbc4b</hex>
+</color>
+<color>
 <name>Burning Fireflies</name>
 <hex>#ff1166</hex>
 </color>
@@ -2611,6 +2627,10 @@
 <color>
 <name>Chicken Masala</name>
 <hex>#cc8822</hex>
+</color>
+<color>
+<name>Chickery Chick</name>
+<hex>#fbe98e</hex>
 </color>
 <color>
 <name>Child of the Night</name>
@@ -3635,6 +3655,10 @@
 <color>
 <name>Dark Rift</name>
 <hex>#060b14</hex>
+</color>
+<color>
+<name>Dark Roast</name>
+<hex>#4a2d2f</hex>
 </color>
 <color>
 <name>Dark Rum</name>
@@ -6501,6 +6525,10 @@
 <hex>#f6f1f4</hex>
 </color>
 <color>
+<name>Grisaille</name>
+<hex>#91979f</hex>
+</color>
+<color>
 <name>Grizzly</name>
 <hex>#885818</hex>
 </color>
@@ -8709,6 +8737,10 @@
 <hex>#dd9933</hex>
 </color>
 <color>
+<name>Lion's Roar</name>
+<hex>#f5dab3</hex>
+</color>
+<color>
 <name>Lionheart</name>
 <hex>#cc2222</hex>
 </color>
@@ -9743,6 +9775,10 @@
 <color>
 <name>Metal Petal</name>
 <hex>#b090b2</hex>
+</color>
+<color>
+<name>Metallic</name>
+<hex>#bcc3c7</hex>
 </color>
 <color>
 <name>Meteor</name>
@@ -13149,6 +13185,10 @@
 <hex>#ff0f0f</hex>
 </color>
 <color>
+<name>Red Arremer</name>
+<hex>#e44e4d</hex>
+</color>
+<color>
 <name>Red Baron</name>
 <hex>#bb0011</hex>
 </color>
@@ -13453,6 +13493,10 @@
 <hex>#881177</hex>
 </color>
 <color>
+<name>Royal Robe</name>
+<hex>#614a7b</hex>
+</color>
+<color>
 <name>Royal Star</name>
 <hex>#fede4f</hex>
 </color>
@@ -13563,6 +13607,10 @@
 <color>
 <name>Sage</name>
 <hex>#87ae73</hex>
+</color>
+<color>
+<name>Sage Sensation</name>
+<hex>#b2e191</hex>
 </color>
 <color>
 <name>Sail into the Horizon</name>
@@ -15367,6 +15415,10 @@
 <color>
 <name>Thai Hot</name>
 <hex>#fe1c06</hex>
+</color>
+<color>
+<name>Thalassa</name>
+<hex>#53b1ba</hex>
 </color>
 <color>
 <name>Thalassophile</name>

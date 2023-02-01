@@ -578,11 +578,17 @@
   name:"Barbecue"
   hex:"#c26157"
 -
+  name:"Barbera"
+  hex:"#8b031c"
+-
   name:"Barberry"
   hex:"#ee1133"
 -
   name:"Bark"
   hex:"#5f5854"
+-
+  name:"Barolo"
+  hex:"#71000e"
 -
   name:"Barrel Aged"
   hex:"#8b6945"
@@ -748,6 +754,9 @@
 -
   name:"Berry"
   hex:"#990f4b"
+-
+  name:"Berry Butter"
+  hex:"#efcedc"
 -
   name:"Berry Good"
   hex:"#edc3c5"
@@ -1382,6 +1391,9 @@
   name:"Bureaucracy"
   hex:"#746c8f"
 -
+  name:"Buried Gold"
+  hex:"#dbbc4b"
+-
   name:"Burning Fireflies"
   hex:"#ff1166"
 -
@@ -1957,6 +1969,9 @@
 -
   name:"Chicken Masala"
   hex:"#cc8822"
+-
+  name:"Chickery Chick"
+  hex:"#fbe98e"
 -
   name:"Child of the Night"
   hex:"#220077"
@@ -2725,6 +2740,9 @@
 -
   name:"Dark Rift"
   hex:"#060b14"
+-
+  name:"Dark Roast"
+  hex:"#4a2d2f"
 -
   name:"Dark Rum"
   hex:"#45362b"
@@ -4874,6 +4892,9 @@
   name:"Grim White"
   hex:"#f6f1f4"
 -
+  name:"Grisaille"
+  hex:"#91979f"
+-
   name:"Grizzly"
   hex:"#885818"
 -
@@ -6530,6 +6551,9 @@
   name:"Lion King"
   hex:"#dd9933"
 -
+  name:"Lion's Roar"
+  hex:"#f5dab3"
+-
   name:"Lionheart"
   hex:"#cc2222"
 -
@@ -7306,6 +7330,9 @@
 -
   name:"Metal Petal"
   hex:"#b090b2"
+-
+  name:"Metallic"
+  hex:"#bcc3c7"
 -
   name:"Meteor"
   hex:"#bb7431"
@@ -9860,6 +9887,9 @@
   name:"Red Alert"
   hex:"#ff0f0f"
 -
+  name:"Red Arremer"
+  hex:"#e44e4d"
+-
   name:"Red Baron"
   hex:"#bb0011"
 -
@@ -10088,6 +10118,9 @@
   name:"Royal Purpleness"
   hex:"#881177"
 -
+  name:"Royal Robe"
+  hex:"#614a7b"
+-
   name:"Royal Star"
   hex:"#fede4f"
 -
@@ -10171,6 +10204,9 @@
 -
   name:"Sage"
   hex:"#87ae73"
+-
+  name:"Sage Sensation"
+  hex:"#b2e191"
 -
   name:"Sail into the Horizon"
   hex:"#a3bbdc"
@@ -11524,6 +11560,9 @@
 -
   name:"Thai Hot"
   hex:"#fe1c06"
+-
+  name:"Thalassa"
+  hex:"#53b1ba"
 -
   name:"Thalassophile"
   hex:"#44aadd"

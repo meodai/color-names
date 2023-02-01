@@ -5408,11 +5408,17 @@
   name:"Balsam Branch"
   hex:"#36574e"
 -
+  name:"Balsam Brown"
+  hex:"#cba874"
+-
   name:"Balsam Fir"
   hex:"#909e91"
 -
   name:"Balsam Green"
   hex:"#5e6e6d"
+-
+  name:"Balsam of Peru"
+  hex:"#120d07"
 -
   name:"Balsam Pear"
   hex:"#b19338"
@@ -5723,6 +5729,9 @@
   name:"Barbecue"
   hex:"#c26157"
 -
+  name:"Barbera"
+  hex:"#8b031c"
+-
   name:"Barberry"
   hex:"#ee1133"
 -
@@ -5873,6 +5882,9 @@
   name:"Barnyard Grass"
   hex:"#5dac51"
 -
+  name:"Barolo"
+  hex:"#71000e"
+-
   name:"Baroness"
   hex:"#a785a7"
 -
@@ -5927,11 +5939,11 @@
   name:"Barro Verde"
   hex:"#9f8e71"
 -
+  name:"Basalt"
+  hex:"#989998"
+-
   name:"Basalt Black"
   hex:"#4d423e"
--
-  name:"Basalt Grey"
-  hex:"#989998"
 -
   name:"Base Camp"
   hex:"#575c3a"
@@ -6477,7 +6489,7 @@
   hex:"#b6c7e3"
 -
   name:"Beautiful Mint"
-  hex:"#d6dad6"
+  hex:"#8da936"
 -
   name:"Beauty"
   hex:"#866b8d"
@@ -6976,6 +6988,9 @@
 -
   name:"Berry Bush"
   hex:"#77424e"
+-
+  name:"Berry Butter"
+  hex:"#efcedc"
 -
   name:"Berry Chalk"
   hex:"#a6aebb"
@@ -8798,9 +8813,6 @@
   name:"Blue Cola"
   hex:"#0088dc"
 -
-  name:"Blue Collar Man"
-  hex:"#005f7a"
--
   name:"Blue Copper Ore"
   hex:"#4411dd"
 -
@@ -9479,6 +9491,9 @@
   name:"Blue Spell"
   hex:"#3b5c6c"
 -
+  name:"Blue Splash"
+  hex:"#2e85b1"
+-
   name:"Blue Spruce"
   hex:"#adc5c9"
 -
@@ -9610,6 +9625,9 @@
 -
   name:"Blue-Black"
   hex:"#24313d"
+-
+  name:"Blue-Collar Worker"
+  hex:"#005f7a"
 -
   name:"Blue-Eyed Boy"
   hex:"#2277cc"
@@ -12037,6 +12055,9 @@
 -
   name:"Burgundy Wine"
   hex:"#6c403e"
+-
+  name:"Buried Gold"
+  hex:"#dbbc4b"
 -
   name:"Buried Treasure"
   hex:"#d28b42"
@@ -15866,6 +15887,9 @@
   name:"Chicken Masala"
   hex:"#cc8822"
 -
+  name:"Chickery Chick"
+  hex:"#fbe98e"
+-
   name:"Chickpea"
   hex:"#efe7df"
 -
@@ -16678,6 +16702,9 @@
 -
   name:"Cinder"
   hex:"#242a2e"
+-
+  name:"Cinder Fox"
+  hex:"#7c787b"
 -
   name:"Cinderella"
   hex:"#fbd7cc"
@@ -19154,6 +19181,9 @@
   name:"Cornucopia"
   hex:"#ed9b44"
 -
+  name:"Cornus Green"
+  hex:"#908c53"
+-
   name:"Cornwall Slate"
   hex:"#949488"
 -
@@ -21538,6 +21568,9 @@
 -
   name:"Dark River"
   hex:"#3e4445"
+-
+  name:"Dark Roast"
+  hex:"#4a2d2f"
 -
   name:"Dark Room"
   hex:"#626d7b"
@@ -25105,6 +25138,9 @@
 -
   name:"Earhart Emerald"
   hex:"#416659"
+-
+  name:"Earl Green"
+  hex:"#747a64"
 -
   name:"Earl Grey"
   hex:"#a6978a"
@@ -35619,7 +35655,7 @@
   hex:"#797371"
 -
   name:"Grisaille"
-  hex:"#5f6677"
+  hex:"#91979f"
 -
   name:"Gristmill"
   hex:"#a29371"
@@ -45803,6 +45839,9 @@
   name:"Lion's Mane Blonde"
   hex:"#946b41"
 -
+  name:"Lion's Roar"
+  hex:"#f5dab3"
+-
   name:"Lioness"
   hex:"#e0af47"
 -
@@ -49630,6 +49669,9 @@
 -
   name:"Metalise"
   hex:"#34373c"
+-
+  name:"Metallic"
+  hex:"#bcc3c7"
 -
   name:"Metallic Blue"
   hex:"#4f738e"
@@ -56378,6 +56420,9 @@
   name:"Oregon"
   hex:"#9b4703"
 -
+  name:"Oregon Blue"
+  hex:"#448ee4"
+-
   name:"Oregon Grape"
   hex:"#49354e"
 -
@@ -56824,6 +56869,9 @@
 -
   name:"Oyster Bay"
   hex:"#71818c"
+-
+  name:"Oyster Bisque"
+  hex:"#f2e5b1"
 -
   name:"Oyster Catch"
   hex:"#4a4c45"
@@ -65462,6 +65510,9 @@
   name:"Red Alert"
   hex:"#ff0f0f"
 -
+  name:"Red Arremer"
+  hex:"#e44e4d"
+-
   name:"Red Baron"
   hex:"#bb0011"
 -
@@ -69083,6 +69134,9 @@
   name:"Sage Salt"
   hex:"#dbebde"
 -
+  name:"Sage Sensation"
+  hex:"#b2e191"
+-
   name:"Sage Shadow"
   hex:"#5e6a61"
 -
@@ -70282,6 +70336,9 @@
 -
   name:"Scarlet Apple"
   hex:"#922e4a"
+-
+  name:"Scarlet Beebalm"
+  hex:"#bb2d32"
 -
   name:"Scarlet Cattleya Orchid"
   hex:"#c70752"
@@ -72424,6 +72481,9 @@
 -
   name:"Siberian Green"
   hex:"#4e6157"
+-
+  name:"Siberian Ice"
+  hex:"#c1ccd6"
 -
   name:"Sicilia Bougainvillea"
   hex:"#ff44ff"
@@ -80459,6 +80519,9 @@
   name:"Terran Khaki"
   hex:"#a1965e"
 -
+  name:"Terrapin"
+  hex:"#807f4a"
+-
   name:"Terrarium"
   hex:"#5f6d5c"
 -
@@ -80576,6 +80639,9 @@
   name:"Thai Temple"
   hex:"#e7c630"
 -
+  name:"Thalassa"
+  hex:"#53b1ba"
+-
   name:"Thalassophile"
   hex:"#44aadd"
 -
@@ -80678,9 +80744,6 @@
   name:"The New Black"
   hex:"#ff8400"
 -
-  name:"The Oregon Blue"
-  hex:"#448ee4"
--
   name:"The Rainbow Fish"
   hex:"#4466ee"
 -
@@ -80695,9 +80758,6 @@
 -
   name:"The Vast of Night"
   hex:"#110066"
--
-  name:"The White in my Eye"
-  hex:"#f1eee5"
 -
   name:"The Wild Apothecary"
   hex:"#118844"

@@ -7213,12 +7213,20 @@
 <hex>#36574e</hex>
 </color>
 <color>
+<name>Balsam Brown</name>
+<hex>#cba874</hex>
+</color>
+<color>
 <name>Balsam Fir</name>
 <hex>#909e91</hex>
 </color>
 <color>
 <name>Balsam Green</name>
 <hex>#5e6e6d</hex>
+</color>
+<color>
+<name>Balsam of Peru</name>
+<hex>#120d07</hex>
 </color>
 <color>
 <name>Balsam Pear</name>
@@ -7633,6 +7641,10 @@
 <hex>#c26157</hex>
 </color>
 <color>
+<name>Barbera</name>
+<hex>#8b031c</hex>
+</color>
+<color>
 <name>Barberry</name>
 <hex>#ee1133</hex>
 </color>
@@ -7833,6 +7845,10 @@
 <hex>#5dac51</hex>
 </color>
 <color>
+<name>Barolo</name>
+<hex>#71000e</hex>
+</color>
+<color>
 <name>Baroness</name>
 <hex>#a785a7</hex>
 </color>
@@ -7905,12 +7921,12 @@
 <hex>#9f8e71</hex>
 </color>
 <color>
-<name>Basalt Black</name>
-<hex>#4d423e</hex>
+<name>Basalt</name>
+<hex>#989998</hex>
 </color>
 <color>
-<name>Basalt Grey</name>
-<hex>#989998</hex>
+<name>Basalt Black</name>
+<hex>#4d423e</hex>
 </color>
 <color>
 <name>Base Camp</name>
@@ -8638,7 +8654,7 @@
 </color>
 <color>
 <name>Beautiful Mint</name>
-<hex>#d6dad6</hex>
+<hex>#8da936</hex>
 </color>
 <color>
 <name>Beauty</name>
@@ -9303,6 +9319,10 @@
 <color>
 <name>Berry Bush</name>
 <hex>#77424e</hex>
+</color>
+<color>
+<name>Berry Butter</name>
+<hex>#efcedc</hex>
 </color>
 <color>
 <name>Berry Chalk</name>
@@ -11733,10 +11753,6 @@
 <hex>#0088dc</hex>
 </color>
 <color>
-<name>Blue Collar Man</name>
-<hex>#005f7a</hex>
-</color>
-<color>
 <name>Blue Copper Ore</name>
 <hex>#4411dd</hex>
 </color>
@@ -12641,6 +12657,10 @@
 <hex>#3b5c6c</hex>
 </color>
 <color>
+<name>Blue Splash</name>
+<hex>#2e85b1</hex>
+</color>
+<color>
 <name>Blue Spruce</name>
 <hex>#adc5c9</hex>
 </color>
@@ -12815,6 +12835,10 @@
 <color>
 <name>Blue-Black</name>
 <hex>#24313d</hex>
+</color>
+<color>
+<name>Blue-Collar Worker</name>
+<hex>#005f7a</hex>
 </color>
 <color>
 <name>Blue-Eyed Boy</name>
@@ -16051,6 +16075,10 @@
 <color>
 <name>Burgundy Wine</name>
 <hex>#6c403e</hex>
+</color>
+<color>
+<name>Buried Gold</name>
+<hex>#dbbc4b</hex>
 </color>
 <color>
 <name>Buried Treasure</name>
@@ -21157,6 +21185,10 @@
 <hex>#cc8822</hex>
 </color>
 <color>
+<name>Chickery Chick</name>
+<hex>#fbe98e</hex>
+</color>
+<color>
 <name>Chickpea</name>
 <hex>#efe7df</hex>
 </color>
@@ -22239,6 +22271,10 @@
 <color>
 <name>Cinder</name>
 <hex>#242a2e</hex>
+</color>
+<color>
+<name>Cinder Fox</name>
+<hex>#7c787b</hex>
 </color>
 <color>
 <name>Cinderella</name>
@@ -25541,6 +25577,10 @@
 <hex>#ed9b44</hex>
 </color>
 <color>
+<name>Cornus Green</name>
+<hex>#908c53</hex>
+</color>
+<color>
 <name>Cornwall Slate</name>
 <hex>#949488</hex>
 </color>
@@ -28719,6 +28759,10 @@
 <color>
 <name>Dark River</name>
 <hex>#3e4445</hex>
+</color>
+<color>
+<name>Dark Roast</name>
+<hex>#4a2d2f</hex>
 </color>
 <color>
 <name>Dark Room</name>
@@ -33475,6 +33519,10 @@
 <color>
 <name>Earhart Emerald</name>
 <hex>#416659</hex>
+</color>
+<color>
+<name>Earl Green</name>
+<hex>#747a64</hex>
 </color>
 <color>
 <name>Earl Grey</name>
@@ -47494,7 +47542,7 @@
 </color>
 <color>
 <name>Grisaille</name>
-<hex>#5f6677</hex>
+<hex>#91979f</hex>
 </color>
 <color>
 <name>Gristmill</name>
@@ -61073,6 +61121,10 @@
 <hex>#946b41</hex>
 </color>
 <color>
+<name>Lion's Roar</name>
+<hex>#f5dab3</hex>
+</color>
+<color>
 <name>Lioness</name>
 <hex>#e0af47</hex>
 </color>
@@ -66175,6 +66227,10 @@
 <color>
 <name>Metalise</name>
 <hex>#34373c</hex>
+</color>
+<color>
+<name>Metallic</name>
+<hex>#bcc3c7</hex>
 </color>
 <color>
 <name>Metallic Blue</name>
@@ -75173,6 +75229,10 @@
 <hex>#9b4703</hex>
 </color>
 <color>
+<name>Oregon Blue</name>
+<hex>#448ee4</hex>
+</color>
+<color>
 <name>Oregon Grape</name>
 <hex>#49354e</hex>
 </color>
@@ -75767,6 +75827,10 @@
 <color>
 <name>Oyster Bay</name>
 <hex>#71818c</hex>
+</color>
+<color>
+<name>Oyster Bisque</name>
+<hex>#f2e5b1</hex>
 </color>
 <color>
 <name>Oyster Catch</name>
@@ -87285,6 +87349,10 @@
 <hex>#ff0f0f</hex>
 </color>
 <color>
+<name>Red Arremer</name>
+<hex>#e44e4d</hex>
+</color>
+<color>
 <name>Red Baron</name>
 <hex>#bb0011</hex>
 </color>
@@ -92113,6 +92181,10 @@
 <hex>#dbebde</hex>
 </color>
 <color>
+<name>Sage Sensation</name>
+<hex>#b2e191</hex>
+</color>
+<color>
 <name>Sage Shadow</name>
 <hex>#5e6a61</hex>
 </color>
@@ -93711,6 +93783,10 @@
 <color>
 <name>Scarlet Apple</name>
 <hex>#922e4a</hex>
+</color>
+<color>
+<name>Scarlet Beebalm</name>
+<hex>#bb2d32</hex>
 </color>
 <color>
 <name>Scarlet Cattleya Orchid</name>
@@ -96567,6 +96643,10 @@
 <color>
 <name>Siberian Green</name>
 <hex>#4e6157</hex>
+</color>
+<color>
+<name>Siberian Ice</name>
+<hex>#c1ccd6</hex>
 </color>
 <color>
 <name>Sicilia Bougainvillea</name>
@@ -107281,6 +107361,10 @@
 <hex>#a1965e</hex>
 </color>
 <color>
+<name>Terrapin</name>
+<hex>#807f4a</hex>
+</color>
+<color>
 <name>Terrarium</name>
 <hex>#5f6d5c</hex>
 </color>
@@ -107437,6 +107521,10 @@
 <hex>#e7c630</hex>
 </color>
 <color>
+<name>Thalassa</name>
+<hex>#53b1ba</hex>
+</color>
+<color>
 <name>Thalassophile</name>
 <hex>#44aadd</hex>
 </color>
@@ -107573,10 +107661,6 @@
 <hex>#ff8400</hex>
 </color>
 <color>
-<name>The Oregon Blue</name>
-<hex>#448ee4</hex>
-</color>
-<color>
 <name>The Rainbow Fish</name>
 <hex>#4466ee</hex>
 </color>
@@ -107595,10 +107679,6 @@
 <color>
 <name>The Vast of Night</name>
 <hex>#110066</hex>
-</color>
-<color>
-<name>The White in my Eye</name>
-<hex>#f1eee5</hex>
 </color>
 <color>
 <name>The Wild Apothecary</name>
