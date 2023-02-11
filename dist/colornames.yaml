@@ -18431,9 +18431,6 @@
   name:"Confectionary"
   hex:"#d4b4d5"
 -
-  name:"Confederate"
-  hex:"#5c6272"
--
   name:"Confetti"
   hex:"#ddcb46"
 -
@@ -34552,6 +34549,9 @@
 -
   name:"Green Charm"
   hex:"#e7dda7"
+-
+  name:"Green Clay"
+  hex:"#889988"
 -
   name:"Green Coconut"
   hex:"#868e65"
@@ -71590,9 +71590,6 @@
 -
   name:"Shade of Amber"
   hex:"#ff7e00"
--
-  name:"Shade of Bone Marrow"
-  hex:"#889988"
 -
   name:"Shade of Marigold"
   hex:"#b88a3d"

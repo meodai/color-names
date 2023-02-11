@@ -24577,10 +24577,6 @@
 <hex>#d4b4d5</hex>
 </color>
 <color>
-<name>Confederate</name>
-<hex>#5c6272</hex>
-</color>
-<color>
 <name>Confetti</name>
 <hex>#ddcb46</hex>
 </color>
@@ -46071,6 +46067,10 @@
 <color>
 <name>Green Charm</name>
 <hex>#e7dda7</hex>
+</color>
+<color>
+<name>Green Clay</name>
+<hex>#889988</hex>
 </color>
 <color>
 <name>Green Coconut</name>
@@ -95455,10 +95455,6 @@
 <color>
 <name>Shade of Amber</name>
 <hex>#ff7e00</hex>
-</color>
-<color>
-<name>Shade of Bone Marrow</name>
-<hex>#889988</hex>
 </color>
 <color>
 <name>Shade of Marigold</name>

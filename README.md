@@ -6,10 +6,10 @@
 [![GitHub release](https://img.shields.io/github/release/meodai/color-names.svg)](https://github.com/meodai/color-names/)
 [![npm version](https://img.shields.io/npm/v/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
 [![npm](https://img.shields.io/npm/dt/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
-[![name count](https://img.shields.io/badge/__30033__-names-orange.svg)](https://github.com/meodai/color-names/blob/master/src/colornames.csv)
+[![name count](https://img.shields.io/badge/__30032__-names-orange.svg)](https://github.com/meodai/color-names/blob/master/src/colornames.csv)
 [![github sponsor count](https://img.shields.io/github/sponsors/meodai)](https://github.com/sponsors/meodai)
 
-A handpicked list of __30033__ unique color names from
+A handpicked list of __30032__ unique color names from
 [various sources](#sources-) and thousands of curated user submissions.
 
 > The names of color function like a thread attached to a frightfully slender
@@ -54,7 +54,7 @@ __[via form 🌈](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qh
 
 Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute!
 
-## Color Count: __30033__ 🎉
+## Color Count: __30032__ 🎉
 
 ~__0.18%__ of the RGB color space
 
