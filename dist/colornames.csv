@@ -981,6 +981,7 @@ Apricot Freeze,#f3cfb7
 Apricot Gelato,#f5d7af
 Apricot Glazed Chicken,#eeaa22
 Apricot Glow,#ffce79
+Apricot Haze,#ffaaaa
 Apricot Ice,#fff6e9
 Apricot Ice Cream,#f8cc9c
 Apricot Iced Tea,#fbbe99
@@ -2321,6 +2322,7 @@ Berries and Cream,#9e6a75
 Berries n Cream,#f2b8ca
 Berry,#990f4b
 Berry Blackmail,#662277
+Berry Blast,#ff017f
 Berry Bliss,#9e8295
 Berry Blue,#32607a
 Berry Blue Green,#264b56
@@ -2844,6 +2846,7 @@ Bloody Mary,#ba0105
 Bloody Periphylla,#aa1144
 Bloody Pico-8,#ff004d
 Bloody Red,#ca1f1b
+Bloody Ruby,#a81c1d
 Bloody Rust,#da2c43
 Bloody Salmon,#cc4433
 Bloom,#ffaf75
@@ -5133,6 +5136,7 @@ Charter Blue,#546e91
 Chartreuse,#c1f80a
 Chartreuse Frost,#e4dcc6
 Chartreuse Shot,#dad000
+Chartreuse Spark,#b5cc18
 Charybdis,#16a3cb
 Chasm,#876044
 Chasm Green,#63b521
@@ -5219,6 +5223,7 @@ Cherry Cobbler,#883f41
 Cherry Cocoa,#8e5e65
 Cherry Cola,#894c3b
 Cherry Cordial,#ebbed3
+Cherry Crush,#c71414
 Cherry Fizz,#bd6973
 Cherry Flower,#fbdae8
 Cherry Foam,#f392a0
@@ -5644,6 +5649,7 @@ Citrus Sachet,#f2c6a7
 Citrus Spice,#e2cd52
 Citrus Splash,#ffc400
 Citrus Sugar,#e6d943
+Citrus Surge,#8bc34a
 Citrus Yellow,#d7c275
 Citrus Zest,#edc85a
 City Bench,#675c49
@@ -6737,6 +6743,7 @@ Crimson Blaze,#ad3d1e
 Crimson Boy,#b44933
 Crimson Cloud,#c32f40
 Crimson Glory,#be0032
+Crimson Glow,#c13939
 Crimson Red,#980001
 Crimson Silk,#b5413b
 Crimson Strawberry,#9f2d47
@@ -8610,6 +8617,7 @@ Electric Leaf,#89dd01
 Electric Lemonade,#5cdcf1
 Electric Lime,#ccff00
 Electric Orange,#ff3503
+Electric Orchid,#cd00fe
 Electric Pickle,#00ff04
 Electric Pink,#ff0490
 Electric Purple,#bf00ff
@@ -8716,6 +8724,7 @@ Emerald Pool,#155e60
 Emerald Rain,#80c872
 Emerald Reflection,#50c878
 Emerald Ring,#578758
+Emerald Rush,#50c777
 Emerald Shimmer,#78944a
 Emerald Spring,#095155
 Emerald Starling,#11bb11
@@ -8776,6 +8785,8 @@ Enchanted,#c9e2cf
 Enchanted Blue,#047495
 Enchanted Eve,#79837f
 Enchanted Evening,#d3e9ec
+Enchanted Forest,#5c821a
+Enchanted Glen,#166d29
 Enchanted Lavender,#bfa3d9
 Enchanted Meadow,#b1d4b7
 Enchanted Silver,#b5b5bd
@@ -9036,6 +9047,7 @@ Evergreen Boughs,#50594f
 Evergreen Field,#47534f
 Evergreen Fog,#95978a
 Evergreen Forest,#0e695f
+Evergreen Shade,#045e17
 Evergreen Trail,#6f7568
 Evergreens,#405840
 Everlasting,#a1bed9
@@ -9070,6 +9082,7 @@ Exclusively,#6b515f
 Exclusively Yours,#f2aeb8
 Executive Course,#8f8a70
 Exhale,#d2cec4
+Exhilarating Green,#81c784
 Existential Angst,#0a0a0a
 Exit Light,#55bb33
 Exodus Fruit,#6264dc
@@ -9414,6 +9427,7 @@ Fenugreek,#bd8965
 Feralas Lime,#8de07c
 Fern,#548d44
 Fern Canopy,#758a5f
+Fern Flash,#6aa84f
 Fern Flower,#576a7d
 Fern Frond,#657220
 Fern Green,#009b54
@@ -9480,6 +9494,7 @@ Fiery Brown,#5d3831
 Fiery Coral,#e26058
 Fiery Flamingo,#f96d7b
 Fiery Fuchsia,#b7386e
+Fiery Garnet,#b71e1e
 Fiery Glow,#f0531c
 Fiery Orange,#b1592f
 Fiery Red,#dd1e2e
@@ -9685,6 +9700,7 @@ Flamingo,#e1634f
 Flamingo Diva,#ff44dd
 Flamingo Dream,#ee888b
 Flamingo Feather,#f8bdd9
+Flamingo Fervor,#b42121
 Flamingo Fury,#df01f0
 Flamingo Peach,#f6e2d8
 Flamingo Pink,#fc8eac
@@ -9918,7 +9934,6 @@ Folkstone Grey,#626879
 Folksy Gold,#d69969
 Follow the Leader,#f7e5d0
 Folly,#fd004d
-Fond de Teint,#ffaaaa
 Fond Memory,#c8bcb7
 Fondant,#f4e2cf
 Fondue,#fdf5c4
@@ -10374,6 +10389,7 @@ Fuchsia Blush,#e47cb8
 Fuchsia Felicity,#f44772
 Fuchsia Fever,#ff5599
 Fuchsia Flair,#bb22bb
+Fuchsia Flame,#ff01cd
 Fuchsia Flash,#dd55cc
 Fuchsia Flock,#ab446b
 Fuchsia Flourish,#bb2299
@@ -12408,6 +12424,7 @@ Herb Robert,#dda0df
 Herbal,#29ab87
 Herbal Garden,#9cad60
 Herbal Green,#c9b23d
+Herbal Lift,#6ba520
 Herbal Mist,#d2e6d3
 Herbal Scent,#8e9b7c
 Herbal Tea,#f9fee9
@@ -12849,6 +12866,7 @@ Hot Mustard,#735c12
 Hot Orange,#f4893d
 Hot Pepper Green,#598039
 Hot Pink,#ff028d
+Hot Pink Fusion,#fe69b6
 Hot Purple,#cb00f5
 Hot Sand,#ccaa00
 Hot Sauce,#ab4f41
@@ -13805,6 +13823,7 @@ Jú Huáng Tangerine,#f9900f
 Jube,#4b373c
 Jube Green,#78cf86
 Jubilant Jade,#44aa77
+Jubilant Meadow,#7bb92b
 Jubilation,#fbdd24
 Jubilee,#7e6099
 Jubilee Grey,#7c7379
@@ -14121,6 +14140,7 @@ Kitten's Paw,#daa89b
 Kittiwake Gull,#ccccbb
 Kitty Kitty,#c7bdb3
 Kiwi,#749e4e
+Kiwi Crush,#7bc027
 Kiwi Fruit,#9daa4d
 Kiwi Green,#8ee53f
 Kiwi Ice Cream Green,#e5e7a7
@@ -14565,6 +14585,7 @@ Leafy,#679b6a
 Leafy Canopy,#aacc11
 Leafy Lemon,#c0f000
 Leafy Lichen,#7d8574
+Leafy Lush,#08690e
 Leafy Seadragon,#b6c406
 Leafy Woodland,#aabb11
 Leamington Spa,#a0b7a8
@@ -15661,6 +15682,7 @@ Lush Life,#e9f6e0
 Lush Lilac,#9d7eb7
 Lush Mauve,#a091b7
 Lush Meadow,#007351
+Lush Paradise,#2e7d32
 Lush Plains,#22bb22
 Lush Un'goro Crater,#54a64d
 Lust,#e62020
@@ -15764,6 +15786,7 @@ Magenta Affair,#aa44dd
 Magenta Crayon,#ff55a3
 Magenta Dye,#ca1f7b
 Magenta Elephant,#de0170
+Magenta Fizz,#ed24ed
 Magenta Haze,#a44775
 Magenta Ink,#513d3c
 Magenta Memoir,#b4559b
@@ -16842,6 +16865,7 @@ Minsk,#3e3267
 Minstrel of the Woods,#118800
 Minstrel Rose,#c89697
 Mint,#3eb489
+Mint Bliss,#7effba
 Mint Blossom Rose,#d7c2ce
 Mint Blue,#bce0df
 Mint Bonbon Green,#7db6a8
@@ -17353,6 +17377,7 @@ Mossy Bank,#8b8770
 Mossy Bench,#83a28f
 Mossy Bronze,#525f48
 Mossy Cavern,#a4a97b
+Mossy Glossy,#789b4a
 Mossy Gold,#9c9273
 Mossy Green,#5a7c46
 Mossy Oak,#848178
@@ -18589,6 +18614,7 @@ Olive Shade,#7d7248
 Olive Shadow,#706041
 Olive Soap,#97a49a
 Olive Sprig,#acaf95
+Olive Thrill,#6d8e2c
 Olive Tint,#efebd7
 Olive Tree,#aba77c
 Olive Wood,#756244
@@ -20150,6 +20176,7 @@ Pineapple Slice,#e7d791
 Pineapple Soda,#e4e5ce
 Pineapple Sorbet,#f7f4da
 Pineapple Whip,#ead988
+Pineapple Wine,#dbbc6c
 Pineberry,#f0d6dd
 Pinebrook,#5d695a
 Pinecone Hill,#63695f
@@ -21577,10 +21604,12 @@ Radar,#b6c8e4
 Radar Blip Green,#96f97b
 Radiance,#bb9157
 Radiant Dawn,#ece2ce
+Radiant Foliage,#659c35
 Radiant Glow,#ffeed2
 Radiant Hulk,#10f144
 Radiant Lilac,#a489a0
 Radiant Orchid,#ad5e99
+Radiant Raspberry,#e31b5d
 Radiant Rose,#eed5d4
 Radiant Rouge,#d7b1b2
 Radiant Silver,#8f979d
@@ -21751,6 +21780,7 @@ Raspberry Patch,#a34f66
 Raspberry Pink,#e25098
 Raspberry Pudding,#94435a
 Raspberry Radiance,#882d50
+Raspberry Rave,#f62217
 Raspberry Ripple,#cd827d
 Raspberry Romantic,#972b51
 Raspberry Rose,#b3436c
@@ -21908,6 +21938,7 @@ Red Hot,#dd0033
 Red Hot Chili Pepper,#db1d27
 Red Hot Jazz,#773c31
 Red Icon,#c93543
+Red Inferno,#bb1e1e
 Red Ink,#ac3235
 Red Jade,#783f54
 Red Jalapeno,#bf6153
@@ -21964,6 +21995,7 @@ Red Reign,#800707
 Red Remains,#ffe0de
 Red Republic,#d70200
 Red Revival,#a8453b
+Red Rhapsody,#ca1b1b
 Red Ribbon,#ed0a3f
 Red Rider,#b9271c
 Red Riding Hood,#fe2713
@@ -22180,6 +22212,7 @@ Resort White,#f4f1e4
 Resounding Rose,#cd8e89
 Respite,#97b4c3
 Resplendent,#b4a8b1
+Resplendent Growth,#3d8b37
 Rest Assured,#9bbfc9
 Restful,#bbbba4
 Restful Brown,#8c7e6f
@@ -22948,6 +22981,7 @@ Rustic Pottery,#df745b
 Rustic Ranch,#8d794f
 Rustic Red,#3a181a
 Rustic Rose,#cbb6a4
+Rustic Rouge,#9d2626
 Rustic Taupe,#cdb9a2
 Rustic Tobacco,#6e5949
 Rustica,#8a3a2c
@@ -23457,6 +23491,7 @@ Scarecrow Frown,#a55e2b
 Scarlet,#ff2400
 Scarlet Apple,#922e4a
 Scarlet Beebalm,#bb2d32
+Scarlet Blaze,#b21f1f
 Scarlet Cattleya Orchid,#c70752
 Scarlet Flame,#993366
 Scarlet Glow,#cb0103
@@ -23835,6 +23870,7 @@ Serene Breeze,#bdd9d0
 Serene Journey,#cfd8d1
 Serene Peach,#f5d3b7
 Serene Pink,#f6c6b9
+Serene Sage,#7b9f4b
 Serene Scene,#d2c880
 Serene Sea,#78a7c3
 Serene Setting,#c5d2d9
@@ -24152,6 +24188,7 @@ Shuttle Grey,#61666b
 Shy Beige,#e2ded6
 Shy Blunt,#d3d8de
 Shy Candela,#d6dde6
+Shy Champagne Blush,#dea392
 Shy Cupid,#f0d6ca
 Shy Denim,#d7dadd
 Shy Girl,#ffd7cf
@@ -24435,6 +24472,7 @@ Sip of Nut Milk,#eae2df
 Sir Edmund,#20415d
 Siren,#69293b
 Siren of Nature,#68a43c
+Siren Scarlet,#b21d1d
 Sirocco,#68766e
 Sis Kebab,#884411
 Sisal,#c5baa0
@@ -26986,6 +27024,7 @@ Thredbo,#73c4d7
 Three Ring Circus,#fddbb6
 Thresher Shark,#93cce7
 Threshold Taupe,#ac9a8a
+Thrilling Lime,#8cc34b
 Throat,#281f3f
 Thrush,#936b4f
 Thrush Egg,#a4b6a7
@@ -28202,6 +28241,9 @@ Verdant Fields,#5ad33e
 Verdant Forest,#28615d
 Verdant Green,#167d60
 Verdant Leaf,#817c4a
+Verdant Oasis,#62c46c
+Verdant Serenade,#7f9e5b
+Verdant Vale,#0e7c36
 Verdant Views,#75794a
 Verde,#7fb383
 Verde Garrafa,#355e3b
@@ -28279,6 +28321,7 @@ Vibrant Red,#c24c6a
 Vibrant Soft Blue,#88d6dc
 Vibrant Velvet,#bb0088
 Vibrant Vine,#4b373a
+Vibrant Violet,#9400d4
 Vibrant Vision,#6c6068
 Vibrant White,#eaedeb
 Vibrant Yellow,#ffda29
@@ -28533,6 +28576,7 @@ Vivid Raspberry,#ff006c
 Vivid Red,#f70d1a
 Vivid Red Tangelo,#df6124
 Vivid Sky Blue,#00ccff
+Vivid Spring,#87c95f
 Vivid Tangelo,#f07427
 Vivid Tangerine,#ff9980
 Vivid Vermilion,#e56024
@@ -29664,6 +29708,7 @@ Woodland Nymph,#69804b
 Woodland Sage,#a4a393
 Woodland Soul,#127a49
 Woodland Walk,#8b8d63
+Woodland Wonder,#0d6323
 Woodlawn Green,#405b50
 Woodman,#4b5d31
 Woodrose,#ac8989

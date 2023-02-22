@@ -260,6 +260,9 @@
   name:"Apricot Freeze"
   hex:"#f3cfb7"
 -
+  name:"Apricot Haze"
+  hex:"#ffaaaa"
+-
   name:"Apricot Sherbet"
   hex:"#fbcd9f"
 -
@@ -758,6 +761,9 @@
   name:"Berry"
   hex:"#990f4b"
 -
+  name:"Berry Blast"
+  hex:"#ff017f"
+-
   name:"Berry Butter"
   hex:"#efcedc"
 -
@@ -970,6 +976,9 @@
 -
   name:"Blinking Terminal"
   hex:"#66cc00"
+-
+  name:"Blissful Serenity"
+  hex:"#eaeed8"
 -
   name:"Blister Pearl"
   hex:"#aaffee"
@@ -1934,6 +1943,9 @@
   name:"Cherry Bomb"
   hex:"#b73d3f"
 -
+  name:"Cherry Crush"
+  hex:"#c71414"
+-
   name:"Cherry Paddle Pop"
   hex:"#fe314b"
 -
@@ -2530,6 +2542,9 @@
 -
   name:"Crimson Cloud"
   hex:"#c32f40"
+-
+  name:"Crimson Glow"
+  hex:"#c13939"
 -
   name:"Crimson Velvet Sunset"
   hex:"#b52604"
@@ -3377,6 +3392,12 @@
   name:"Emptiness"
   hex:"#fcfdfc"
 -
+  name:"Enchanted Forest"
+  hex:"#5c821a"
+-
+  name:"Enchanted Glen"
+  hex:"#166d29"
+-
   name:"Enchanted Lavender"
   hex:"#bfa3d9"
 -
@@ -3520,6 +3541,9 @@
 -
   name:"Exclusive Ivory"
   hex:"#e2d8c3"
+-
+  name:"Exhilarating Green"
+  hex:"#81c784"
 -
   name:"Exit Light"
   hex:"#55bb33"
@@ -6014,6 +6038,9 @@
   name:"Jubilant Jade"
   hex:"#44aa77"
 -
+  name:"Jubilant Meadow"
+  hex:"#7bb92b"
+-
   name:"Juggernaut"
   hex:"#255367"
 -
@@ -6203,6 +6230,9 @@
   name:"Kiwi"
   hex:"#749e4e"
 -
+  name:"Kiwi Crush"
+  hex:"#7bc027"
+-
   name:"Kiwi Kiss"
   hex:"#eef9c1"
 -
@@ -6376,6 +6406,9 @@
 -
   name:"Leafy Lemon"
   hex:"#c0f000"
+-
+  name:"Leafy Lush"
+  hex:"#08690e"
 -
   name:"Leafy Woodland"
   hex:"#aabb11"
@@ -6809,6 +6842,9 @@
   name:"Lush Green"
   hex:"#bbee00"
 -
+  name:"Lush Paradise"
+  hex:"#2e7d32"
+-
   name:"Lush Plains"
   hex:"#22bb22"
 -
@@ -6889,6 +6925,9 @@
 -
   name:"Magenta Elephant"
   hex:"#de0170"
+-
+  name:"Magenta Fizz"
+  hex:"#ed24ed"
 -
   name:"Magenta Memoir"
   hex:"#b4559b"
@@ -7481,6 +7520,9 @@
   name:"Mint"
   hex:"#3eb489"
 -
+  name:"Mint Bliss"
+  hex:"#7effba"
+-
   name:"Mint Chip"
   hex:"#cfebea"
 -
@@ -7708,6 +7750,9 @@
 -
   name:"Mossy"
   hex:"#857349"
+-
+  name:"Mossy Glossy"
+  hex:"#789b4a"
 -
   name:"Moth"
   hex:"#cbc1a2"
@@ -8707,6 +8752,9 @@
 -
   name:"Passion for Revenge"
   hex:"#dd0d06"
+-
+  name:"Passion Plum"
+  hex:"#9c5f77"
 -
   name:"Passion Potion"
   hex:"#e398af"
@@ -9809,8 +9857,14 @@
   name:"Racing Red"
   hex:"#c21727"
 -
+  name:"Radiant Foliage"
+  hex:"#659c35"
+-
   name:"Radiant Hulk"
   hex:"#10f144"
+-
+  name:"Radiant Raspberry"
+  hex:"#e31b5d"
 -
   name:"Radiant Sunrise"
   hex:"#eebe1b"
@@ -9935,6 +9989,9 @@
   name:"Red Hot Chili Pepper"
   hex:"#db1d27"
 -
+  name:"Red Inferno"
+  hex:"#bb1e1e"
+-
   name:"Red Mana"
   hex:"#f95554"
 -
@@ -9997,6 +10054,9 @@
 -
   name:"Reptile Revenge"
   hex:"#5e582b"
+-
+  name:"Resplendent Growth"
+  hex:"#3d8b37"
 -
   name:"Restful Rain"
   hex:"#f1f2dd"
@@ -10186,6 +10246,9 @@
 -
   name:"Rust"
   hex:"#a83c09"
+-
+  name:"Rustic Rouge"
+  hex:"#9d2626"
 -
   name:"Rusty Heart"
   hex:"#a04039"
@@ -10393,6 +10456,9 @@
 -
   name:"Scarlet"
   hex:"#ff2400"
+-
+  name:"Scarlet Blaze"
+  hex:"#b21f1f"
 -
   name:"Scarlet Glow"
   hex:"#cb0103"
@@ -10631,6 +10697,9 @@
   name:"Shuriken"
   hex:"#333344"
 -
+  name:"Shy Champagne Blush"
+  hex:"#dea392"
+-
   name:"Sienna"
   hex:"#a9561e"
 -
@@ -10747,6 +10816,9 @@
 -
   name:"Siren"
   hex:"#69293b"
+-
+  name:"Siren Scarlet"
+  hex:"#b21d1d"
 -
   name:"Sizzling Watermelon"
   hex:"#fa005c"
@@ -11620,6 +11692,9 @@
 -
   name:"Threatening Red"
   hex:"#c30305"
+-
+  name:"Thrilling Lime"
+  hex:"#8cc34b"
 -
   name:"Thunder & Lightning"
   hex:"#f9f5db"
@@ -12826,6 +12901,9 @@
 -
   name:"Woodland Soul"
   hex:"#127a49"
+-
+  name:"Woodland Wonder"
+  hex:"#0d6323"
 -
   name:"Worcestershire Sauce"
   hex:"#572b26"

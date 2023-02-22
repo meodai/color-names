@@ -349,6 +349,10 @@
 <hex>#f3cfb7</hex>
 </color>
 <color>
+<name>Apricot Haze</name>
+<hex>#ffaaaa</hex>
+</color>
+<color>
 <name>Apricot Sherbet</name>
 <hex>#fbcd9f</hex>
 </color>
@@ -1013,6 +1017,10 @@
 <hex>#990f4b</hex>
 </color>
 <color>
+<name>Berry Blast</name>
+<hex>#ff017f</hex>
+</color>
+<color>
 <name>Berry Butter</name>
 <hex>#efcedc</hex>
 </color>
@@ -1295,6 +1303,10 @@
 <color>
 <name>Blinking Terminal</name>
 <hex>#66cc00</hex>
+</color>
+<color>
+<name>Blissful Serenity</name>
+<hex>#eaeed8</hex>
 </color>
 <color>
 <name>Blister Pearl</name>
@@ -2581,6 +2593,10 @@
 <hex>#b73d3f</hex>
 </color>
 <color>
+<name>Cherry Crush</name>
+<hex>#c71414</hex>
+</color>
+<color>
 <name>Cherry Paddle Pop</name>
 <hex>#fe314b</hex>
 </color>
@@ -3375,6 +3391,10 @@
 <color>
 <name>Crimson Cloud</name>
 <hex>#c32f40</hex>
+</color>
+<color>
+<name>Crimson Glow</name>
+<hex>#c13939</hex>
 </color>
 <color>
 <name>Crimson Velvet Sunset</name>
@@ -4505,6 +4525,14 @@
 <hex>#fcfdfc</hex>
 </color>
 <color>
+<name>Enchanted Forest</name>
+<hex>#5c821a</hex>
+</color>
+<color>
+<name>Enchanted Glen</name>
+<hex>#166d29</hex>
+</color>
+<color>
 <name>Enchanted Lavender</name>
 <hex>#bfa3d9</hex>
 </color>
@@ -4695,6 +4723,10 @@
 <color>
 <name>Exclusive Ivory</name>
 <hex>#e2d8c3</hex>
+</color>
+<color>
+<name>Exhilarating Green</name>
+<hex>#81c784</hex>
 </color>
 <color>
 <name>Exit Light</name>
@@ -8021,6 +8053,10 @@
 <hex>#44aa77</hex>
 </color>
 <color>
+<name>Jubilant Meadow</name>
+<hex>#7bb92b</hex>
+</color>
+<color>
 <name>Juggernaut</name>
 <hex>#255367</hex>
 </color>
@@ -8273,6 +8309,10 @@
 <hex>#749e4e</hex>
 </color>
 <color>
+<name>Kiwi Crush</name>
+<hex>#7bc027</hex>
+</color>
+<color>
 <name>Kiwi Kiss</name>
 <hex>#eef9c1</hex>
 </color>
@@ -8503,6 +8543,10 @@
 <color>
 <name>Leafy Lemon</name>
 <hex>#c0f000</hex>
+</color>
+<color>
+<name>Leafy Lush</name>
+<hex>#08690e</hex>
 </color>
 <color>
 <name>Leafy Woodland</name>
@@ -9081,6 +9125,10 @@
 <hex>#bbee00</hex>
 </color>
 <color>
+<name>Lush Paradise</name>
+<hex>#2e7d32</hex>
+</color>
+<color>
 <name>Lush Plains</name>
 <hex>#22bb22</hex>
 </color>
@@ -9187,6 +9235,10 @@
 <color>
 <name>Magenta Elephant</name>
 <hex>#de0170</hex>
+</color>
+<color>
+<name>Magenta Fizz</name>
+<hex>#ed24ed</hex>
 </color>
 <color>
 <name>Magenta Memoir</name>
@@ -9977,6 +10029,10 @@
 <hex>#3eb489</hex>
 </color>
 <color>
+<name>Mint Bliss</name>
+<hex>#7effba</hex>
+</color>
+<color>
 <name>Mint Chip</name>
 <hex>#cfebea</hex>
 </color>
@@ -10279,6 +10335,10 @@
 <color>
 <name>Mossy</name>
 <hex>#857349</hex>
+</color>
+<color>
+<name>Mossy Glossy</name>
+<hex>#789b4a</hex>
 </color>
 <color>
 <name>Moth</name>
@@ -11611,6 +11671,10 @@
 <color>
 <name>Passion for Revenge</name>
 <hex>#dd0d06</hex>
+</color>
+<color>
+<name>Passion Plum</name>
+<hex>#9c5f77</hex>
 </color>
 <color>
 <name>Passion Potion</name>
@@ -13081,8 +13145,16 @@
 <hex>#c21727</hex>
 </color>
 <color>
+<name>Radiant Foliage</name>
+<hex>#659c35</hex>
+</color>
+<color>
 <name>Radiant Hulk</name>
 <hex>#10f144</hex>
+</color>
+<color>
+<name>Radiant Raspberry</name>
+<hex>#e31b5d</hex>
 </color>
 <color>
 <name>Radiant Sunrise</name>
@@ -13249,6 +13321,10 @@
 <hex>#db1d27</hex>
 </color>
 <color>
+<name>Red Inferno</name>
+<hex>#bb1e1e</hex>
+</color>
+<color>
 <name>Red Mana</name>
 <hex>#f95554</hex>
 </color>
@@ -13331,6 +13407,10 @@
 <color>
 <name>Reptile Revenge</name>
 <hex>#5e582b</hex>
+</color>
+<color>
+<name>Resplendent Growth</name>
+<hex>#3d8b37</hex>
 </color>
 <color>
 <name>Restful Rain</name>
@@ -13583,6 +13663,10 @@
 <color>
 <name>Rust</name>
 <hex>#a83c09</hex>
+</color>
+<color>
+<name>Rustic Rouge</name>
+<hex>#9d2626</hex>
 </color>
 <color>
 <name>Rusty Heart</name>
@@ -13859,6 +13943,10 @@
 <color>
 <name>Scarlet</name>
 <hex>#ff2400</hex>
+</color>
+<color>
+<name>Scarlet Blaze</name>
+<hex>#b21f1f</hex>
 </color>
 <color>
 <name>Scarlet Glow</name>
@@ -14177,6 +14265,10 @@
 <hex>#333344</hex>
 </color>
 <color>
+<name>Shy Champagne Blush</name>
+<hex>#dea392</hex>
+</color>
+<color>
 <name>Sienna</name>
 <hex>#a9561e</hex>
 </color>
@@ -14331,6 +14423,10 @@
 <color>
 <name>Siren</name>
 <hex>#69293b</hex>
+</color>
+<color>
+<name>Siren Scarlet</name>
+<hex>#b21d1d</hex>
 </color>
 <color>
 <name>Sizzling Watermelon</name>
@@ -15495,6 +15591,10 @@
 <color>
 <name>Threatening Red</name>
 <hex>#c30305</hex>
+</color>
+<color>
+<name>Thrilling Lime</name>
+<hex>#8cc34b</hex>
 </color>
 <color>
 <name>Thunder &amp; Lightning</name>
@@ -17103,6 +17203,10 @@
 <color>
 <name>Woodland Soul</name>
 <hex>#127a49</hex>
+</color>
+<color>
+<name>Woodland Wonder</name>
+<hex>#0d6323</hex>
 </color>
 <color>
 <name>Worcestershire Sauce</name>
