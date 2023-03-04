@@ -10046,6 +10046,9 @@
   name:"Bollywood Gold"
   hex:"#fffbab"
 -
+  name:"Bologna"
+  hex:"#9c6f6c"
+-
   name:"Bologna Sausage"
   hex:"#ffcfdc"
 -
@@ -20297,6 +20300,9 @@
   name:"Crispy Chicken Skin"
   hex:"#ddaa44"
 -
+  name:"Crispy Crunch"
+  hex:"#7a8f68"
+-
   name:"Crispy Crust"
   hex:"#ebe0cf"
 -
@@ -25805,6 +25811,9 @@
   name:"Electric Banana"
   hex:"#fbff00"
 -
+  name:"Electric Blood"
+  hex:"#e23d2a"
+-
   name:"Electric Blue"
   hex:"#7df9ff"
 -
@@ -25846,6 +25855,9 @@
 -
   name:"Electric Lemonade"
   hex:"#5cdcf1"
+-
+  name:"Electric Lettuce"
+  hex:"#7bd181"
 -
   name:"Electric Lime"
   hex:"#ccff00"
@@ -27409,6 +27421,9 @@
 -
   name:"Extraviolet"
   hex:"#661188"
+-
+  name:"Extreme Carrot"
+  hex:"#ff7133"
 -
   name:"Extreme Lavender"
   hex:"#dfc5d5"
@@ -32942,6 +32957,9 @@
   name:"Go To Grey"
   hex:"#dcd8d7"
 -
+  name:"Go to Hell Black"
+  hex:"#342c21"
+-
   name:"Goat"
   hex:"#a89a91"
 -
@@ -35017,6 +35035,9 @@
 -
   name:"Green Revolution"
   hex:"#009944"
+-
+  name:"Green Ribbon"
+  hex:"#288f3d"
 -
   name:"Green Room"
   hex:"#80aea4"
@@ -41866,6 +41887,9 @@
 -
   name:"Karakurenai Red"
   hex:"#c91f37"
+-
+  name:"Karimun Blue"
+  hex:"#2196f3"
 -
   name:"Kariyasu Green"
   hex:"#6e7955"
@@ -50228,6 +50252,9 @@
   name:"Mild Green"
   hex:"#789885"
 -
+  name:"Mild Heart Attack"
+  hex:"#f27362"
+-
   name:"Mild Menthol"
   hex:"#87f8a3"
 -
@@ -52982,6 +53009,9 @@
   name:"Mysterious Mauve"
   hex:"#a6a3a9"
 -
+  name:"Mysterious Mixture"
+  hex:"#0f521a"
+-
   name:"Mysterious Moss"
   hex:"#6f6a52"
 -
@@ -54775,6 +54805,9 @@
 -
   name:"Nuance"
   hex:"#e2e0d6"
+-
+  name:"Nuclear Acid"
+  hex:"#ecf474"
 -
   name:"Nuclear Blast"
   hex:"#bbff00"
@@ -58061,11 +58094,8 @@
   name:"Parisian Blue"
   hex:"#4f7ca4"
 -
-  name:"Parisian Cafe"
+  name:"Parisian Café"
   hex:"#978478"
--
-  name:"Parisian Cafè"
-  hex:"#a49085"
 -
   name:"Parisian Cashmere"
   hex:"#d1c7b8"
@@ -84931,6 +84961,9 @@
 -
   name:"Vibrant Amber"
   hex:"#d1902e"
+-
+  name:"Vibrant Arsenic"
+  hex:"#ebe541"
 -
   name:"Vibrant Blue"
   hex:"#0339f8"

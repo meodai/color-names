@@ -2552,6 +2552,9 @@
   name:"Crisps"
   hex:"#e2bd67"
 -
+  name:"Crispy Crunch"
+  hex:"#7a8f68"
+-
   name:"Croissant"
   hex:"#c4ab86"
 -
@@ -3326,11 +3329,17 @@
   name:"Electric Banana"
   hex:"#fbff00"
 -
+  name:"Electric Blood"
+  hex:"#e23d2a"
+-
   name:"Electric Eel"
   hex:"#88bbee"
 -
   name:"Electric Laser Lime"
   hex:"#26ff2a"
+-
+  name:"Electric Lettuce"
+  hex:"#7bd181"
 -
   name:"Electric Yellow"
   hex:"#fffc00"
@@ -3574,6 +3583,9 @@
 -
   name:"Extraviolet"
   hex:"#661188"
+-
+  name:"Extreme Carrot"
+  hex:"#ff7133"
 -
   name:"Eyeball"
   hex:"#fffbf8"
@@ -4564,6 +4576,9 @@
 -
   name:"Go Go Green"
   hex:"#008a7d"
+-
+  name:"Go to Hell Black"
+  hex:"#342c21"
 -
   name:"Goblin Green"
   hex:"#76ff7a"
@@ -7922,6 +7937,9 @@
   name:"Mysterious Depths"
   hex:"#060929"
 -
+  name:"Mysterious Mixture"
+  hex:"#0f521a"
+-
   name:"Mysterious Waters"
   hex:"#27454a"
 -
@@ -8266,6 +8284,9 @@
 -
   name:"Noxious"
   hex:"#89a203"
+-
+  name:"Nuclear Acid"
+  hex:"#ecf474"
 -
   name:"Nuclear Blast"
   hex:"#bbff00"
@@ -11200,6 +11221,9 @@
 -
   name:"Starship Tonic"
   hex:"#cce7e8"
+-
+  name:"Starstruck"
+  hex:"#4664a5"
 -
   name:"Statuary"
   hex:"#9ea4a5"
