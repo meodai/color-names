@@ -24249,50 +24249,6 @@
 <hex>#b68238</hex>
 </color>
 <color>
-<name>Colonial Aqua</name>
-<hex>#a1bdbf</hex>
-</color>
-<color>
-<name>Colonial Blue</name>
-<hex>#306a78</hex>
-</color>
-<color>
-<name>Colonial Brick</name>
-<hex>#ad6961</hex>
-</color>
-<color>
-<name>Colonial Revival Green Stone</name>
-<hex>#a39b7e</hex>
-</color>
-<color>
-<name>Colonial Revival Grey</name>
-<hex>#b4b9b9</hex>
-</color>
-<color>
-<name>Colonial Revival Sea Green</name>
-<hex>#aebea6</hex>
-</color>
-<color>
-<name>Colonial Revival Stone</name>
-<hex>#a7947c</hex>
-</color>
-<color>
-<name>Colonial Revival Tan</name>
-<hex>#d3b699</hex>
-</color>
-<color>
-<name>Colonial Rose</name>
-<hex>#e7b6bc</hex>
-</color>
-<color>
-<name>Colonial White</name>
-<hex>#ffedbc</hex>
-</color>
-<color>
-<name>Colonial Yellow</name>
-<hex>#efc488</hex>
-</color>
-<color>
 <name>Colonnade Grey</name>
 <hex>#b2b1ad</hex>
 </color>
@@ -25335,6 +25291,10 @@
 <color>
 <name>Coral Orange</name>
 <hex>#e4694c</hex>
+</color>
+<color>
+<name>Coral Paradise</name>
+<hex>#e76682</hex>
 </color>
 <color>
 <name>Coral Pink</name>
@@ -29401,7 +29361,7 @@
 <hex>#bfa1ad</hex>
 </color>
 <color>
-<name>Decaying Leave</name>
+<name>Decaying Leaf</name>
 <hex>#d57835</hex>
 </color>
 <color>
@@ -33163,6 +33123,10 @@
 <color>
 <name>Dusky Lilac</name>
 <hex>#d6cbda</hex>
+</color>
+<color>
+<name>Dusky Meadows</name>
+<hex>#a39b7e</hex>
 </color>
 <color>
 <name>Dusky Mood</name>
@@ -39815,6 +39779,10 @@
 <color>
 <name>Forbidden Fruit</name>
 <hex>#fe7b7c</hex>
+</color>
+<color>
+<name>Forbidden Peanut</name>
+<hex>#a38052</hex>
 </color>
 <color>
 <name>Forbidden Red</name>
@@ -49753,6 +49721,10 @@
 <hex>#a49b82</hex>
 </color>
 <color>
+<name>Herbal Whispers</name>
+<hex>#6b6d4e</hex>
+</color>
+<color>
 <name>Herbalist</name>
 <hex>#969e86</hex>
 </color>
@@ -51095,6 +51067,10 @@
 <color>
 <name>Honeydew Sand</name>
 <hex>#eece8d</hex>
+</color>
+<color>
+<name>Honeyed Glow</name>
+<hex>#efc488</hex>
 </color>
 <color>
 <name>Honeymoon</name>
@@ -65341,6 +65317,10 @@
 <hex>#ccd8ba</hex>
 </color>
 <color>
+<name>Meadow Morn</name>
+<hex>#aebea6</hex>
+</color>
+<color>
 <name>Meadow Phlox</name>
 <hex>#a8afc7</hex>
 </color>
@@ -71897,6 +71877,10 @@
 <hex>#eddfc7</hex>
 </color>
 <color>
+<name>New Heights</name>
+<hex>#d0e5f2</hex>
+</color>
+<color>
 <name>New Hope</name>
 <hex>#e2efc2</hex>
 </color>
@@ -73707,6 +73691,10 @@
 <color>
 <name>Ocean Weed</name>
 <hex>#6c6541</hex>
+</color>
+<color>
+<name>Ocean's Embrace</name>
+<hex>#306a78</hex>
 </color>
 <color>
 <name>Oceanic</name>
@@ -78375,6 +78363,10 @@
 <color>
 <name>Peach Pearl</name>
 <hex>#ffb2a5</hex>
+</color>
+<color>
+<name>Peach Petals</name>
+<hex>#d3b699</hex>
 </color>
 <color>
 <name>Peach Pink</name>
@@ -90877,6 +90869,10 @@
 <hex>#f7e5db</hex>
 </color>
 <color>
+<name>Roseate Hues</name>
+<hex>#e7b6bc</hex>
+</color>
+<color>
 <name>Roseate Spoonbill</name>
 <hex>#e0adc4</hex>
 </color>
@@ -91990,7 +91986,7 @@
 </color>
 <color>
 <name>Rustling Leaves</name>
-<hex>#6b6d4e</hex>
+<hex>#ad6961</hex>
 </color>
 <color>
 <name>Rusty</name>
@@ -94805,6 +94801,10 @@
 <hex>#daefce</hex>
 </color>
 <color>
+<name>Seafoam Whisper</name>
+<hex>#a1bdbf</hex>
+</color>
+<color>
 <name>Seaglass</name>
 <hex>#d0e6de</hex>
 </color>
@@ -97503,6 +97503,10 @@
 <color>
 <name>Silver Mink</name>
 <hex>#9f8d7c</hex>
+</color>
+<color>
+<name>Silver Mistral</name>
+<hex>#b4b9b9</hex>
 </color>
 <color>
 <name>Silver Moon</name>
@@ -103325,6 +103329,10 @@
 <hex>#f7cdce</hex>
 </color>
 <color>
+<name>Strawberry Risotto</name>
+<hex>#eec6bf</hex>
+</color>
+<color>
 <name>Strawberry Rose</name>
 <hex>#e29991</hex>
 </color>
@@ -104507,6 +104515,10 @@
 <color>
 <name>Sun-Kissed Brick</name>
 <hex>#b75e41</hex>
+</color>
+<color>
+<name>Sun-Kissed Sands</name>
+<hex>#ffedbc</hex>
 </color>
 <color>
 <name>Sun's Glory</name>
@@ -106943,6 +106955,10 @@
 <color>
 <name>Tawny Daylily</name>
 <hex>#eee4d1</hex>
+</color>
+<color>
+<name>Tawny Ember</name>
+<hex>#a7947c</hex>
 </color>
 <color>
 <name>Tawny Mushroom</name>

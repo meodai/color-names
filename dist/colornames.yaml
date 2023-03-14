@@ -18185,39 +18185,6 @@
   name:"Colonel Mustard"
   hex:"#b68238"
 -
-  name:"Colonial Aqua"
-  hex:"#a1bdbf"
--
-  name:"Colonial Blue"
-  hex:"#306a78"
--
-  name:"Colonial Brick"
-  hex:"#ad6961"
--
-  name:"Colonial Revival Green Stone"
-  hex:"#a39b7e"
--
-  name:"Colonial Revival Grey"
-  hex:"#b4b9b9"
--
-  name:"Colonial Revival Sea Green"
-  hex:"#aebea6"
--
-  name:"Colonial Revival Stone"
-  hex:"#a7947c"
--
-  name:"Colonial Revival Tan"
-  hex:"#d3b699"
--
-  name:"Colonial Rose"
-  hex:"#e7b6bc"
--
-  name:"Colonial White"
-  hex:"#ffedbc"
--
-  name:"Colonial Yellow"
-  hex:"#efc488"
--
   name:"Colonnade Grey"
   hex:"#b2b1ad"
 -
@@ -19000,6 +18967,9 @@
 -
   name:"Coral Orange"
   hex:"#e4694c"
+-
+  name:"Coral Paradise"
+  hex:"#e76682"
 -
   name:"Coral Pink"
   hex:"#f88379"
@@ -22049,7 +22019,7 @@
   name:"Decanting"
   hex:"#bfa1ad"
 -
-  name:"Decaying Leave"
+  name:"Decaying Leaf"
   hex:"#d57835"
 -
   name:"December Dawn"
@@ -24871,6 +24841,9 @@
 -
   name:"Dusky Lilac"
   hex:"#d6cbda"
+-
+  name:"Dusky Meadows"
+  hex:"#a39b7e"
 -
   name:"Dusky Mood"
   hex:"#979ba8"
@@ -29860,6 +29833,9 @@
 -
   name:"Forbidden Fruit"
   hex:"#fe7b7c"
+-
+  name:"Forbidden Peanut"
+  hex:"#a38052"
 -
   name:"Forbidden Red"
   hex:"#8a4646"
@@ -37313,6 +37289,9 @@
   name:"Herbal Wash"
   hex:"#a49b82"
 -
+  name:"Herbal Whispers"
+  hex:"#6b6d4e"
+-
   name:"Herbalist"
   hex:"#969e86"
 -
@@ -38320,6 +38299,9 @@
 -
   name:"Honeydew Sand"
   hex:"#eece8d"
+-
+  name:"Honeyed Glow"
+  hex:"#efc488"
 -
   name:"Honeymoon"
   hex:"#d7bb80"
@@ -49004,6 +48986,9 @@
   name:"Meadow Mist"
   hex:"#ccd8ba"
 -
+  name:"Meadow Morn"
+  hex:"#aebea6"
+-
   name:"Meadow Phlox"
   hex:"#a8afc7"
 -
@@ -53921,6 +53906,9 @@
   name:"New Harvest Moon"
   hex:"#eddfc7"
 -
+  name:"New Heights"
+  hex:"#d0e5f2"
+-
   name:"New Hope"
   hex:"#e2efc2"
 -
@@ -55279,6 +55267,9 @@
 -
   name:"Ocean Weed"
   hex:"#6c6541"
+-
+  name:"Ocean's Embrace"
+  hex:"#306a78"
 -
   name:"Oceanic"
   hex:"#4f6d82"
@@ -58780,6 +58771,9 @@
 -
   name:"Peach Pearl"
   hex:"#ffb2a5"
+-
+  name:"Peach Petals"
+  hex:"#d3b699"
 -
   name:"Peach Pink"
   hex:"#ff9a8a"
@@ -68156,6 +68150,9 @@
   name:"Roseate"
   hex:"#f7e5db"
 -
+  name:"Roseate Hues"
+  hex:"#e7b6bc"
+-
   name:"Roseate Spoonbill"
   hex:"#e0adc4"
 -
@@ -68991,7 +68988,7 @@
   hex:"#f5bfb2"
 -
   name:"Rustling Leaves"
-  hex:"#6b6d4e"
+  hex:"#ad6961"
 -
   name:"Rusty"
   hex:"#96512a"
@@ -71102,6 +71099,9 @@
   name:"Seafoam Spray"
   hex:"#daefce"
 -
+  name:"Seafoam Whisper"
+  hex:"#a1bdbf"
+-
   name:"Seaglass"
   hex:"#d0e6de"
 -
@@ -73126,6 +73126,9 @@
 -
   name:"Silver Mink"
   hex:"#9f8d7c"
+-
+  name:"Silver Mistral"
+  hex:"#b4b9b9"
 -
   name:"Silver Moon"
   hex:"#d9d7c9"
@@ -77492,6 +77495,9 @@
   name:"Strawberry Ripple"
   hex:"#f7cdce"
 -
+  name:"Strawberry Risotto"
+  hex:"#eec6bf"
+-
   name:"Strawberry Rose"
   hex:"#e29991"
 -
@@ -78379,6 +78385,9 @@
 -
   name:"Sun-Kissed Brick"
   hex:"#b75e41"
+-
+  name:"Sun-Kissed Sands"
+  hex:"#ffedbc"
 -
   name:"Sun's Glory"
   hex:"#f6f2e5"
@@ -80206,6 +80215,9 @@
 -
   name:"Tawny Daylily"
   hex:"#eee4d1"
+-
+  name:"Tawny Ember"
+  hex:"#a7947c"
 -
   name:"Tawny Mushroom"
   hex:"#b39997"

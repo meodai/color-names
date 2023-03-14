@@ -6061,17 +6061,6 @@ Collensia,#bdb7cd,
 Cologne,#75bfd2,
 Colombo Red Mauve,#ba7ab3,
 Colonel Mustard,#b68238,
-Colonial Aqua,#a1bdbf,
-Colonial Blue,#306a78,
-Colonial Brick,#ad6961,
-Colonial Revival Green Stone,#a39b7e,
-Colonial Revival Grey,#b4b9b9,
-Colonial Revival Sea Green,#aebea6,
-Colonial Revival Stone,#a7947c,
-Colonial Revival Tan,#d3b699,
-Colonial Rose,#e7b6bc,
-Colonial White,#ffedbc,x
-Colonial Yellow,#efc488,
 Colonnade Grey,#b2b1ad,
 Colonnade Stone,#c6c0b6,
 Colony,#67a195,
@@ -6333,6 +6322,7 @@ Coral Haze,#e28980,
 Coral Kiss,#ffddc7,x
 Coral Mantle,#fcd6cb,
 Coral Orange,#e4694c,
+Coral Paradise,#e76682,x
 Coral Pink,#f88379,
 Coral Quartz,#f7685f,
 Coral Red,#ff4040,x
@@ -7349,7 +7339,7 @@ Decadent Chocolate,#513233,
 Decadial Pink,#decade,x
 Decanter,#ada3bb,
 Decanting,#bfa1ad,
-Decaying Leave,#d57835,
+Decaying Leaf,#d57835,
 December Dawn,#dfe2ea,
 December Eve,#415064,
 December Forest,#e0e8db,
@@ -8290,6 +8280,7 @@ Dusky Green,#7a705b,
 Dusky Grouse,#8e969e,
 Dusky Haze,#a77572,
 Dusky Lilac,#d6cbda,
+Dusky Meadows,#a39b7e,
 Dusky Mood,#979ba8,x
 Dusky Moon,#edecd7,
 Dusky Orchid,#a07a89,
@@ -9953,6 +9944,7 @@ For the Love of Hue,#457e87,
 Forbidden Blackberry,#323f75,
 Forbidden Forest,#215354,
 Forbidden Fruit,#fe7b7c,x
+Forbidden Peanut,#a38052,x
 Forbidden Red,#8a4646,
 Forbidden Thrill,#856363,
 Force of Nature,#d5ce69,x
@@ -12437,6 +12429,7 @@ Herbal Scent,#8e9b7c,
 Herbal Tea,#f9fee9,
 Herbal Vapors,#ddffcc,x
 Herbal Wash,#a49b82,
+Herbal Whispers,#6b6d4e,x
 Herbalist,#969e86,x
 Herbalist's Garden,#119900,x
 Herbery Honey,#eeee22,
@@ -12773,6 +12766,7 @@ Honeydew,#f0fff0,x
 Honeydew Melon,#e6eccc,
 Honeydew Peel,#d4fb79,
 Honeydew Sand,#eece8d,x
+Honeyed Glow,#efc488,x
 Honeymoon,#d7bb80,
 Honeypot,#f6deb3,
 Honeysuckle,#e8ed69,x
@@ -16334,6 +16328,7 @@ Meadow Lane,#c0d7cd,
 Meadow Light,#dfe9de,
 Meadow Mauve,#ac5d91,
 Meadow Mist,#ccd8ba,
+Meadow Morn,#aebea6,x
 Meadow Phlox,#a8afc7,
 Meadow Trail,#8d8168,
 Meadow Violet,#764f82,
@@ -17973,6 +17968,7 @@ New Frond,#bacca0,
 New Gold,#ead151,x
 New Green,#b5ac31,
 New Harvest Moon,#eddfc7,
+New Heights,#d0e5f2,x
 New Hope,#e2efc2,
 New House White,#f1ede7,
 New Hunter,#4a5f58,
@@ -18426,6 +18422,7 @@ Ocean Tropic,#67a6d4,
 Ocean View,#729bb3,
 Ocean Wave,#7dbcaa,
 Ocean Weed,#6c6541,
+Ocean's Embrace,#306a78,x
 Oceanic,#4f6d82,
 Oceanic Climate,#bbc8c9,
 Oceanic Motion,#1d5c83,x
@@ -19593,6 +19590,7 @@ Peach Orange,#ffcc99,
 Peach Parfait,#f6b895,
 Peach Patch,#f3d5a1,
 Peach Pearl,#ffb2a5,
+Peach Petals,#d3b699,
 Peach Pink,#ff9a8a,
 Peach Poppy,#ddaaaa,
 Peach Powder,#e2bdb3,
@@ -21120,7 +21118,7 @@ Princeton Orange,#ff8f00,
 Priory,#756f54,
 Priscilla,#f1d3da,
 Prism,#aadccd,
-Prism Pink,#f0a1bf,
+Prism Pink,#f0a1bf,x
 Prism Violet,#53357d,
 Prismarine,#117777,x
 Prismatic Pearl,#eae8dd,
@@ -22718,6 +22716,7 @@ Rose White,#fbeee8,
 Rose Wine,#9d5c75,
 Rose Yogurt,#d9bcb7,
 Roseate,#f7e5db,
+Roseate Hues,#e7b6bc,
 Roseate Spoonbill,#e0adc4,x
 Rosebay,#cb9aad,
 Roseberry,#f4a6a1,
@@ -22996,7 +22995,7 @@ Rustic Taupe,#cdb9a2,
 Rustic Tobacco,#6e5949,
 Rustica,#8a3a2c,
 Rustique,#f5bfb2,
-Rustling Leaves,#6b6d4e,
+Rustling Leaves,#ad6961,x
 Rusty,#96512a,
 Rusty Chainmail,#c6494c,
 Rusty Coin,#8d5f2c,
@@ -23700,6 +23699,7 @@ Seafoam Green,#99bb88,
 Seafoam Pearl,#c2ecd8,
 Seafoam Splashes,#b0efce,x
 Seafoam Spray,#daefce,
+Seafoam Whisper,#a1bdbf,x
 Seaglass,#d0e6de,
 Seagrass,#bcc6a2,
 Seagrass Green,#264e50,
@@ -24375,6 +24375,7 @@ Silver Mauve,#dbccd3,
 Silver Medal,#d6d6d6,
 Silver Mine,#bec2c1,
 Silver Mink,#9f8d7c,
+Silver Mistral,#b4b9b9,x
 Silver Moon,#d9d7c9,
 Silver Peony,#e1c1b9,
 Silver Phoenix,#ebecf5,x
@@ -25830,6 +25831,7 @@ Strawberry Pink,#f46c80,
 Strawberry Pop,#ee2255,
 Strawberry Rhubarb,#b96364,
 Strawberry Ripple,#f7cdce,x
+Strawberry Risotto,#eec6bf,x
 Strawberry Rose,#e29991,
 Strawberry Shortcake,#fa8e99,
 Strawberry Smash,#ee0055,
@@ -26126,6 +26128,7 @@ Sun Valley,#698538,
 Sun Wukong's Crown,#ecc033,
 Sun Yellow,#ffdf22,
 Sun-Kissed Brick,#b75e41,
+Sun-Kissed Sands,#ffedbc,x
 Sun's Glory,#f6f2e5,
 Sun's Rage,#a94e37,
 Suna White,#dcd3b2,
@@ -26735,6 +26738,7 @@ Tawny Amber,#d19776,
 Tawny Birch,#aa7b65,
 Tawny Brown,#ab856f,
 Tawny Daylily,#eee4d1,
+Tawny Ember,#a7947c,
 Tawny Mushroom,#b39997,
 Tawny Olive,#c4962c,
 Tawny Orange,#d37f6f,

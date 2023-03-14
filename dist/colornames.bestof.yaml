@@ -2270,9 +2270,6 @@
   name:"Cold White"
   hex:"#edfcfb"
 -
-  name:"Colonial White"
-  hex:"#ffedbc"
--
   name:"Columbo's Coat"
   hex:"#d0cbce"
 -
@@ -2350,6 +2347,9 @@
 -
   name:"Coral Kiss"
   hex:"#ffddc7"
+-
+  name:"Coral Paradise"
+  hex:"#e76682"
 -
   name:"Coral Red"
   hex:"#ff4040"
@@ -4046,6 +4046,9 @@
   name:"Forbidden Fruit"
   hex:"#fe7b7c"
 -
+  name:"Forbidden Peanut"
+  hex:"#a38052"
+-
   name:"Force of Nature"
   hex:"#d5ce69"
 -
@@ -5240,6 +5243,9 @@
   name:"Herbal Vapors"
   hex:"#ddffcc"
 -
+  name:"Herbal Whispers"
+  hex:"#6b6d4e"
+-
   name:"Herbalist"
   hex:"#969e86"
 -
@@ -5467,6 +5473,9 @@
 -
   name:"Honeydew Sand"
   hex:"#eece8d"
+-
+  name:"Honeyed Glow"
+  hex:"#efc488"
 -
   name:"Honeysuckle"
   hex:"#e8ed69"
@@ -7265,6 +7274,9 @@
   name:"McNuke"
   hex:"#33ff11"
 -
+  name:"Meadow Morn"
+  hex:"#aebea6"
+-
   name:"Meadow Yellow"
   hex:"#f7da90"
 -
@@ -8117,6 +8129,9 @@
   name:"New Gold"
   hex:"#ead151"
 -
+  name:"New Heights"
+  hex:"#d0e5f2"
+-
   name:"New Love"
   hex:"#c6bbdb"
 -
@@ -8371,6 +8386,9 @@
 -
   name:"Ocean Slumber"
   hex:"#41767b"
+-
+  name:"Ocean's Embrace"
+  hex:"#306a78"
 -
   name:"Oceanic Motion"
   hex:"#1d5c83"
@@ -9665,6 +9683,9 @@
   name:"Princess Peach"
   hex:"#f878f8"
 -
+  name:"Prism Pink"
+  hex:"#f0a1bf"
+-
   name:"Prismarine"
   hex:"#117777"
 -
@@ -10271,6 +10292,9 @@
   name:"Rustic Rouge"
   hex:"#9d2626"
 -
+  name:"Rustling Leaves"
+  hex:"#ad6961"
+-
   name:"Rusty Heart"
   hex:"#a04039"
 -
@@ -10547,6 +10571,9 @@
   name:"Seafoam Splashes"
   hex:"#b0efce"
 -
+  name:"Seafoam Whisper"
+  hex:"#a1bdbf"
+-
   name:"Seashell"
   hex:"#fff5ee"
 -
@@ -10801,6 +10828,9 @@
 -
   name:"Silver Lining"
   hex:"#b8b1a5"
+-
+  name:"Silver Mistral"
+  hex:"#b4b9b9"
 -
   name:"Silver Phoenix"
   hex:"#ebecf5"
@@ -11342,6 +11372,9 @@
   name:"Strawberry Ripple"
   hex:"#f7cdce"
 -
+  name:"Strawberry Risotto"
+  hex:"#eec6bf"
+-
   name:"Stroopwafel"
   hex:"#a86f48"
 -
@@ -11440,6 +11473,9 @@
 -
   name:"Sun Kissed Coral"
   hex:"#ea6777"
+-
+  name:"Sun-Kissed Sands"
+  hex:"#ffedbc"
 -
   name:"Sunbathed"
   hex:"#f5dd98"
