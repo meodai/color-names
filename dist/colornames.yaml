@@ -13781,6 +13781,9 @@
   name:"Caramel Dream"
   hex:"#b8623b"
 -
+  name:"Caramel Drizzle"
+  hex:"#d9ad7f"
+-
   name:"Caramel Finish"
   hex:"#ffd59a"
 -
@@ -18191,15 +18194,6 @@
   name:"Colonnade Stone"
   hex:"#c6c0b6"
 -
-  name:"Colony"
-  hex:"#67a195"
--
-  name:"Colony Blue"
-  hex:"#65769a"
--
-  name:"Colony Buff"
-  hex:"#ddc6ab"
--
   name:"Color Blind"
   hex:"#c6d2de"
 -
@@ -20050,6 +20044,9 @@
 -
   name:"Creamy Sweet Corn"
   hex:"#f7c34c"
+-
+  name:"Creamy Vanilla"
+  hex:"#f2e5bf"
 -
   name:"Creamy White"
   hex:"#f0e9d6"
@@ -23942,9 +23939,6 @@
   name:"Double Click"
   hex:"#d0d2d1"
 -
-  name:"Double Colonial White"
-  hex:"#e4cf99"
--
   name:"Double Cream"
   hex:"#f2d9a3"
 -
@@ -26146,6 +26140,9 @@
 -
   name:"Emerald Light Green"
   hex:"#00a267"
+-
+  name:"Emerald Oasis"
+  hex:"#67a195"
 -
   name:"Emerald Pool"
   hex:"#155e60"
@@ -30298,9 +30295,6 @@
 -
   name:"French Castle"
   hex:"#cdc0b7"
--
-  name:"French Colony"
-  hex:"#90a1aa"
 -
   name:"French Court"
   hex:"#6a8ea2"
@@ -36140,9 +36134,6 @@
   name:"Half Baked"
   hex:"#558f93"
 -
-  name:"Half Colonial White"
-  hex:"#f2e5bf"
--
   name:"Half Dutch White"
   hex:"#fbf0d6"
 -
@@ -38284,6 +38275,9 @@
 -
   name:"Honeycomb"
   hex:"#ddaa11"
+-
+  name:"Honeycomb Glow"
+  hex:"#e4cf99"
 -
   name:"Honeycomb Yellow"
   hex:"#de9c52"
@@ -50993,6 +50987,9 @@
   name:"Misty Grape"
   hex:"#65434d"
 -
+  name:"Misty Harbor"
+  hex:"#65769a"
+-
   name:"Misty Haze"
   hex:"#cec9c3"
 -
@@ -53869,9 +53866,6 @@
 -
   name:"New Clay"
   hex:"#efc1b5"
--
-  name:"New Colonial Yellow"
-  hex:"#d9ad7f"
 -
   name:"New Cork"
   hex:"#b89b6b"
@@ -70001,6 +69995,9 @@
   name:"Sandy Beach"
   hex:"#f9e2d0"
 -
+  name:"Sandy Beaches"
+  hex:"#ddc6ab"
+-
   name:"Sandy Bluff"
   hex:"#aca088"
 -
@@ -77332,6 +77329,9 @@
 -
   name:"Stormy Sea"
   hex:"#6e8082"
+-
+  name:"Stormy Skies"
+  hex:"#90a1aa"
 -
   name:"Stormy Strait Green"
   hex:"#0f9b8e"

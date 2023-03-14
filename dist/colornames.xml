@@ -18377,6 +18377,10 @@
 <hex>#b8623b</hex>
 </color>
 <color>
+<name>Caramel Drizzle</name>
+<hex>#d9ad7f</hex>
+</color>
+<color>
 <name>Caramel Finish</name>
 <hex>#ffd59a</hex>
 </color>
@@ -24257,18 +24261,6 @@
 <hex>#c6c0b6</hex>
 </color>
 <color>
-<name>Colony</name>
-<hex>#67a195</hex>
-</color>
-<color>
-<name>Colony Blue</name>
-<hex>#65769a</hex>
-</color>
-<color>
-<name>Colony Buff</name>
-<hex>#ddc6ab</hex>
-</color>
-<color>
 <name>Color Blind</name>
 <hex>#c6d2de</hex>
 </color>
@@ -26735,6 +26727,10 @@
 <color>
 <name>Creamy Sweet Corn</name>
 <hex>#f7c34c</hex>
+</color>
+<color>
+<name>Creamy Vanilla</name>
+<hex>#f2e5bf</hex>
 </color>
 <color>
 <name>Creamy White</name>
@@ -31925,10 +31921,6 @@
 <hex>#d0d2d1</hex>
 </color>
 <color>
-<name>Double Colonial White</name>
-<hex>#e4cf99</hex>
-</color>
-<color>
 <name>Double Cream</name>
 <hex>#f2d9a3</hex>
 </color>
@@ -34863,6 +34855,10 @@
 <color>
 <name>Emerald Light Green</name>
 <hex>#00a267</hex>
+</color>
+<color>
+<name>Emerald Oasis</name>
+<hex>#67a195</hex>
 </color>
 <color>
 <name>Emerald Pool</name>
@@ -40399,10 +40395,6 @@
 <color>
 <name>French Castle</name>
 <hex>#cdc0b7</hex>
-</color>
-<color>
-<name>French Colony</name>
-<hex>#90a1aa</hex>
 </color>
 <color>
 <name>French Court</name>
@@ -48189,10 +48181,6 @@
 <hex>#558f93</hex>
 </color>
 <color>
-<name>Half Colonial White</name>
-<hex>#f2e5bf</hex>
-</color>
-<color>
 <name>Half Dutch White</name>
 <hex>#fbf0d6</hex>
 </color>
@@ -51047,6 +51035,10 @@
 <color>
 <name>Honeycomb</name>
 <hex>#ddaa11</hex>
+</color>
+<color>
+<name>Honeycomb Glow</name>
+<hex>#e4cf99</hex>
 </color>
 <color>
 <name>Honeycomb Yellow</name>
@@ -67993,6 +67985,10 @@
 <hex>#65434d</hex>
 </color>
 <color>
+<name>Misty Harbor</name>
+<hex>#65769a</hex>
+</color>
+<color>
 <name>Misty Haze</name>
 <hex>#cec9c3</hex>
 </color>
@@ -71827,10 +71823,6 @@
 <color>
 <name>New Clay</name>
 <hex>#efc1b5</hex>
-</color>
-<color>
-<name>New Colonial Yellow</name>
-<hex>#d9ad7f</hex>
 </color>
 <color>
 <name>New Cork</name>
@@ -93337,6 +93329,10 @@
 <hex>#f9e2d0</hex>
 </color>
 <color>
+<name>Sandy Beaches</name>
+<hex>#ddc6ab</hex>
+</color>
+<color>
 <name>Sandy Bluff</name>
 <hex>#aca088</hex>
 </color>
@@ -103111,6 +103107,10 @@
 <color>
 <name>Stormy Sea</name>
 <hex>#6e8082</hex>
+</color>
+<color>
+<name>Stormy Skies</name>
+<hex>#90a1aa</hex>
 </color>
 <color>
 <name>Stormy Strait Green</name>
