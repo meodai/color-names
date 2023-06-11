@@ -23,7 +23,7 @@
   name:"A Dime a Dozen"
   hex:"#d3dde4"
 -
-  name:"À L'Orange"
+  name:"À L’Orange"
   hex:"#f2850d"
 -
   name:"A Smell of Bakery"
@@ -182,7 +182,7 @@
   name:"Angel Wing"
   hex:"#f3dfd7"
 -
-  name:"Angel's Trumpet"
+  name:"Angel’s Trumpet"
   hex:"#f6dd34"
 -
   name:"Angelic White"
@@ -347,7 +347,7 @@
   name:"Artisans Gold"
   hex:"#f2ab46"
 -
-  name:"Artist's Charcoal"
+  name:"Artist’s Charcoal"
   hex:"#37393e"
 -
   name:"Arugula"
@@ -368,7 +368,7 @@
   name:"Assassin"
   hex:"#2d4f83"
 -
-  name:"Assassin's Red"
+  name:"Assassin’s Red"
   hex:"#f60206"
 -
   name:"Aster"
@@ -479,11 +479,11 @@
   name:"Badass Grass"
   hex:"#b4da55"
 -
-  name:"Baker's Dream"
-  hex:"#c98f70"
--
   name:"Baker’s Bread"
   hex:"#d0b393"
+-
+  name:"Baker’s Dream"
+  hex:"#c98f70"
 -
   name:"Bakery Brown"
   hex:"#ab9078"
@@ -617,7 +617,7 @@
   name:"Bat-Signal"
   hex:"#feff00"
 -
-  name:"Bat's Blood Soup"
+  name:"Bat’s Blood Soup"
   hex:"#ee3366"
 -
   name:"Bath Bubbles"
@@ -652,6 +652,9 @@
 -
   name:"Beach View"
   hex:"#4f7694"
+-
+  name:"Beaches of Cancun"
+  hex:"#fbedd7"
 -
   name:"Bear Hug"
   hex:"#796359"
@@ -932,7 +935,7 @@
   name:"Blackberry Yogurt"
   hex:"#e5bddf"
 -
-  name:"Blackn't"
+  name:"Blackn’t"
   hex:"#020f03"
 -
   name:"Blackout"
@@ -1115,7 +1118,7 @@
   name:"Blush Bomb"
   hex:"#dd99aa"
 -
-  name:"Blush d'Amour"
+  name:"Blush d’Amour"
   hex:"#de5d83"
 -
   name:"Blush Kiss"
@@ -1268,7 +1271,7 @@
   name:"Bride"
   hex:"#efe7eb"
 -
-  name:"Bride's Blush"
+  name:"Bride’s Blush"
   hex:"#f9e2e1"
 -
   name:"Bright Star"
@@ -1379,7 +1382,7 @@
   name:"Bud Green"
   hex:"#79b465"
 -
-  name:"Buddha's Love Handles"
+  name:"Buddha’s Love Handles"
   hex:"#ffbb33"
 -
   name:"Buff It"
@@ -1931,10 +1934,10 @@
   name:"Cheesy Frittata"
   hex:"#f0e093"
 -
-  name:"Chef's Hat"
+  name:"Chef’s Hat"
   hex:"#f3f4f5"
 -
-  name:"Chef's Kiss"
+  name:"Chef’s Kiss"
   hex:"#cc3b3b"
 -
   name:"Cherry"
@@ -2276,7 +2279,7 @@
   name:"Cold White"
   hex:"#edfcfb"
 -
-  name:"Columbo's Coat"
+  name:"Columbo’s Coat"
   hex:"#d0cbce"
 -
   name:"Communist"
@@ -2444,7 +2447,7 @@
   name:"Cover of Night"
   hex:"#494e4f"
 -
-  name:"Cow's Milk"
+  name:"Cow’s Milk"
   hex:"#f1ede5"
 -
   name:"Cowboy"
@@ -2633,7 +2636,7 @@
   name:"Cupid"
   hex:"#f5b2c5"
 -
-  name:"Cupid's Eye"
+  name:"Cupid’s Eye"
   hex:"#ff22dd"
 -
   name:"Curry"
@@ -2990,7 +2993,7 @@
   name:"Detective Coat"
   hex:"#8b8685"
 -
-  name:"Devil's Advocate"
+  name:"Devil’s Advocate"
   hex:"#ff3344"
 -
   name:"Deviled Eggs"
@@ -3062,7 +3065,7 @@
   name:"Diva Pink"
   hex:"#fa427e"
 -
-  name:"Diver's Eden"
+  name:"Diver’s Eden"
   hex:"#3a797e"
 -
   name:"Divine Pleasure"
@@ -3092,7 +3095,7 @@
   name:"Dolphin"
   hex:"#86c4da"
 -
-  name:"Don't Be Shy"
+  name:"Don’t Be Shy"
   hex:"#ed2c1a"
 -
   name:"Donegal Green"
@@ -3134,13 +3137,13 @@
   name:"Dragon Fruit"
   hex:"#d75969"
 -
-  name:"Dragon's Blood"
+  name:"Dragon’s Blood"
   hex:"#b84048"
 -
-  name:"Dragon's Breath"
+  name:"Dragon’s Breath"
   hex:"#d41003"
 -
-  name:"Dragon's Gold"
+  name:"Dragon’s Gold"
   hex:"#e7e04e"
 -
   name:"Dragonfly"
@@ -3677,7 +3680,7 @@
   name:"Fantasy Romance"
   hex:"#e83a72"
 -
-  name:"Farmer's Market"
+  name:"Farmer’s Market"
   hex:"#8f917c"
 -
   name:"Fat Gold"
@@ -3986,7 +3989,7 @@
   name:"Flora"
   hex:"#73fa79"
 -
-  name:"Florida's Alligator"
+  name:"Florida’s Alligator"
   hex:"#664422"
 -
   name:"Fluffy Duckling"
@@ -4052,7 +4055,7 @@
   name:"Fondue"
   hex:"#fdf5c4"
 -
-  name:"Fool's Gold"
+  name:"Fool’s Gold"
   hex:"#cad175"
 -
   name:"Forbidden Fruit"
@@ -4424,7 +4427,7 @@
   name:"Gecko"
   hex:"#9d913c"
 -
-  name:"Gecko's Dream"
+  name:"Gecko’s Dream"
   hex:"#669900"
 -
   name:"Genie"
@@ -4766,10 +4769,10 @@
   name:"Grand Sunset"
   hex:"#c38d87"
 -
-  name:"Grandma's Cameo"
+  name:"Grandma’s Cameo"
   hex:"#f7e7dd"
 -
-  name:"Grandma's Pink Tiles"
+  name:"Grandma’s Pink Tiles"
   hex:"#e0b8c0"
 -
   name:"Granite"
@@ -5006,7 +5009,7 @@
   name:"Gunmetal"
   hex:"#536267"
 -
-  name:"Guns N' Roses"
+  name:"Guns N’ Roses"
   hex:"#ff0077"
 -
   name:"Gunsmoke"
@@ -5024,7 +5027,7 @@
   name:"Habañero Gold"
   hex:"#fecf3c"
 -
-  name:"Haddock's Sweater"
+  name:"Haddock’s Sweater"
   hex:"#277aba"
 -
   name:"Hadfield Blue"
@@ -5093,7 +5096,7 @@
   name:"Harem Silk"
   hex:"#006383"
 -
-  name:"Harlock's Cape"
+  name:"Harlock’s Cape"
   hex:"#bb0000"
 -
   name:"Harvest at Dusk"
@@ -5264,7 +5267,7 @@
   name:"Herbalist"
   hex:"#969e86"
 -
-  name:"Herbalist's Garden"
+  name:"Herbalist’s Garden"
   hex:"#119900"
 -
   name:"Herbivore"
@@ -6044,7 +6047,7 @@
   name:"Jet Black"
   hex:"#353337"
 -
-  name:"Jet d'Eau"
+  name:"Jet d’Eau"
   hex:"#d1eaec"
 -
   name:"Jewel"
@@ -6068,7 +6071,7 @@
   name:"John Lemon"
   hex:"#eeff22"
 -
-  name:"Joker's Smile"
+  name:"Joker’s Smile"
   hex:"#d70141"
 -
   name:"Jolly Jade"
@@ -6209,7 +6212,7 @@
   name:"King Triton"
   hex:"#3c85be"
 -
-  name:"King's Plum Pie"
+  name:"King’s Plum Pie"
   hex:"#b3107a"
 -
   name:"Kingfisher Daisy"
@@ -6260,10 +6263,10 @@
   name:"Kisses and Hugs"
   hex:"#ff6677"
 -
-  name:"Kitten's Eye"
+  name:"Kitten’s Eye"
   hex:"#8aadf7"
 -
-  name:"Kitten's Paw"
+  name:"Kitten’s Paw"
   hex:"#daa89b"
 -
   name:"Kitty Kitty"
@@ -6281,7 +6284,7 @@
   name:"Knight Rider"
   hex:"#0f0707"
 -
-  name:"Knight's Armor"
+  name:"Knight’s Armor"
   hex:"#5c5d5d"
 -
   name:"Knit Cardigan"
@@ -6494,7 +6497,7 @@
   name:"Lemonade"
   hex:"#efe499"
 -
-  name:"Les Demoiselles d'Avignon"
+  name:"Les Demoiselles d’Avignon"
   hex:"#e59d7b"
 -
   name:"Let it Snow"
@@ -6641,7 +6644,7 @@
   name:"Lion King"
   hex:"#dd9933"
 -
-  name:"Lion's Roar"
+  name:"Lion’s Roar"
   hex:"#f5dab3"
 -
   name:"Lionheart"
@@ -7040,7 +7043,7 @@
   name:"Mai Tai"
   hex:"#a56531"
 -
-  name:"Maiden's Blush"
+  name:"Maiden’s Blush"
   hex:"#f3d3bf"
 -
   name:"Maison Verte"
@@ -7418,7 +7421,7 @@
   name:"Mermaid Tears"
   hex:"#d9e6a6"
 -
-  name:"Mermaid's Kiss"
+  name:"Mermaid’s Kiss"
   hex:"#59c8a5"
 -
   name:"Metal"
@@ -7670,7 +7673,7 @@
   name:"Molten Gold"
   hex:"#e8c690"
 -
-  name:"Mom's Pancake"
+  name:"Mom’s Pancake"
   hex:"#f5c553"
 -
   name:"Momo Peach"
@@ -7814,7 +7817,7 @@
   name:"Mother Nature"
   hex:"#bde1c4"
 -
-  name:"Mother's Milk"
+  name:"Mother’s Milk"
   hex:"#f7edca"
 -
   name:"Motherland"
@@ -7886,7 +7889,7 @@
   name:"Mulled Cider"
   hex:"#a18162"
 -
-  name:"Mummy's Tomb"
+  name:"Mummy’s Tomb"
   hex:"#828e84"
 -
   name:"Munch On Melon"
@@ -8363,7 +8366,7 @@
   name:"Nylon"
   hex:"#e9e3cb"
 -
-  name:"Nymph's Delight"
+  name:"Nymph’s Delight"
   hex:"#7b6c8e"
 -
   name:"O Tannenbaum"
@@ -8411,7 +8414,7 @@
   name:"Ocean Slumber"
   hex:"#41767b"
 -
-  name:"Ocean's Embrace"
+  name:"Ocean’s Embrace"
   hex:"#306a78"
 -
   name:"Oceanic Motion"
@@ -8699,13 +8702,13 @@
   name:"Paid in Full"
   hex:"#8c8e65"
 -
-  name:"Painter's Canvas"
+  name:"Painter’s Canvas"
   hex:"#f9f2de"
 -
   name:"Pale Canary"
   hex:"#f1efa6"
 -
-  name:"Pale King's Blue"
+  name:"Pale King’s Blue"
   hex:"#abf5ed"
 -
   name:"Pale Sky"
@@ -8729,7 +8732,7 @@
   name:"Pancake"
   hex:"#f7d788"
 -
-  name:"Pandora's Box"
+  name:"Pandora’s Box"
   hex:"#fedbb7"
 -
   name:"Panela"
@@ -8966,7 +8969,7 @@
   name:"Peach Velour"
   hex:"#f7b28b"
 -
-  name:"Peach's Daydream"
+  name:"Peach’s Daydream"
   hex:"#fd9b88"
 -
   name:"Peaches of Immortality"
@@ -9230,7 +9233,7 @@
   name:"Pimento"
   hex:"#dc5d47"
 -
-  name:"Pimm's"
+  name:"Pimm’s"
   hex:"#c3585c"
 -
   name:"Pina Colada"
@@ -9365,7 +9368,7 @@
   name:"Pirate Treasure"
   hex:"#ddca69"
 -
-  name:"Pirate's Hook"
+  name:"Pirate’s Hook"
   hex:"#b08f42"
 -
   name:"Pisco Sour"
@@ -9869,7 +9872,7 @@
   name:"Purple Void"
   hex:"#442244"
 -
-  name:"Purple's Baby Sister"
+  name:"Purple’s Baby Sister"
   hex:"#eec3ee"
 -
   name:"Put on Ice"
@@ -9977,7 +9980,7 @@
   name:"Rapeseed"
   hex:"#c19a13"
 -
-  name:"Rapture's Light"
+  name:"Rapture’s Light"
   hex:"#f6f3e7"
 -
   name:"Rapunzel Silver"
@@ -10001,7 +10004,7 @@
   name:"Raven"
   hex:"#0b0b0b"
 -
-  name:"Raven's Coat"
+  name:"Raven’s Coat"
   hex:"#030205"
 -
   name:"Ravenclaw"
@@ -10172,7 +10175,7 @@
   name:"Rock Lobster"
   hex:"#f00b52"
 -
-  name:"Rock'n'Rose"
+  name:"Rock’n’Rose"
   hex:"#fc8aaa"
 -
   name:"Roland-Garros"
@@ -10550,7 +10553,7 @@
   name:"Scoville Highness"
   hex:"#900405"
 -
-  name:"Screamin' Green"
+  name:"Screamin’ Green"
   hex:"#66ff66"
 -
   name:"Sea"
@@ -10586,7 +10589,7 @@
   name:"Sea Serpent"
   hex:"#4bc7cf"
 -
-  name:"Sea Serpent's Tears"
+  name:"Sea Serpent’s Tears"
   hex:"#5511cc"
 -
   name:"Seaborn"
@@ -10652,7 +10655,7 @@
   name:"Sereni Teal"
   hex:"#76baa8"
 -
-  name:"Serenity's Reign"
+  name:"Serenity’s Reign"
   hex:"#507bce"
 -
   name:"Serial Kisses"
@@ -11489,10 +11492,10 @@
   name:"Summer Mist"
   hex:"#cbeaee"
 -
-  name:"Summer of '82"
+  name:"Summer of ’82"
   hex:"#74cdd8"
 -
-  name:"Summer's End"
+  name:"Summer’s End"
   hex:"#dc9367"
 -
   name:"Summit"
@@ -11726,7 +11729,7 @@
   name:"Tempest"
   hex:"#79839b"
 -
-  name:"Templar's Gold"
+  name:"Templar’s Gold"
   hex:"#f2e688"
 -
   name:"Temptatious Tangerine"
@@ -11759,16 +11762,16 @@
   name:"Thalassophile"
   hex:"#44aadd"
 -
-  name:"The Count's Black"
+  name:"The Count’s Black"
   hex:"#102030"
 -
-  name:"The Devil's Grass"
+  name:"The Devil’s Grass"
   hex:"#666420"
 -
   name:"The End"
   hex:"#2a2a2a"
 -
-  name:"The Grape War of 97'"
+  name:"The Grape War of 97’"
   hex:"#bb00ff"
 -
   name:"The Legend of Green"
@@ -11780,7 +11783,7 @@
   name:"Think Pink"
   hex:"#e5a5c1"
 -
-  name:"Thor's Thunder"
+  name:"Thor’s Thunder"
   hex:"#44ccff"
 -
   name:"Threatening Red"
@@ -12164,7 +12167,7 @@
   name:"Valentine Lava"
   hex:"#ba0728"
 -
-  name:"Valentine's Kiss"
+  name:"Valentine’s Kiss"
   hex:"#b63364"
 -
   name:"Valkyrie"
@@ -12710,7 +12713,7 @@
   name:"Whale Shark"
   hex:"#607c8e"
 -
-  name:"Whale's Tale"
+  name:"Whale’s Tale"
   hex:"#115a82"
 -
   name:"What We Do in the Shadows"
@@ -12817,6 +12820,9 @@
 -
   name:"White Smoke"
   hex:"#f5f5f5"
+-
+  name:"White Strawberry"
+  hex:"#fde3b5"
 -
   name:"White Truffle"
   hex:"#efdbcd"
@@ -12965,7 +12971,7 @@
   name:"Wizard"
   hex:"#4d5b88"
 -
-  name:"Wizard's Brew"
+  name:"Wizard’s Brew"
   hex:"#a090b8"
 -
   name:"Wolf Pack"
@@ -13133,7 +13139,7 @@
   name:"Zenith"
   hex:"#497a9f"
 -
-  name:"Zeus's Bolt"
+  name:"Zeus’s Bolt"
   hex:"#eeff00"
 -
   name:"Zinc"

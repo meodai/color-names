@@ -15,6 +15,9 @@ const errors = [];
 // spaces regex
 const spacesValidation = /^\s+|\s{2,}|\s$/;
 
+// quote regex
+const quoteValidation = /"|'|`/;
+
 // setting
 const baseFolder = __dirname + '/../';
 const folderSrc = 'src/';
@@ -61,6 +64,9 @@ colorsSrc.values['name'].forEach((name) => {
   // check for spaces
   if (spacesValidation.test(name)) {
     log('name', name, `${name} found either a leading or trailing space (or both)`);
+  }
+  if (quoteValidation.test(name)) {
+    log('name', name, `${name} found a quote character, should be an apostrophe ’`);
   }
 });
 

@@ -33,7 +33,7 @@
 <hex>#d3dde4</hex>
 </color>
 <color>
-<name>À L'Orange</name>
+<name>À L’Orange</name>
 <hex>#f2850d</hex>
 </color>
 <color>
@@ -245,7 +245,7 @@
 <hex>#f3dfd7</hex>
 </color>
 <color>
-<name>Angel's Trumpet</name>
+<name>Angel’s Trumpet</name>
 <hex>#f6dd34</hex>
 </color>
 <color>
@@ -465,7 +465,7 @@
 <hex>#f2ab46</hex>
 </color>
 <color>
-<name>Artist's Charcoal</name>
+<name>Artist’s Charcoal</name>
 <hex>#37393e</hex>
 </color>
 <color>
@@ -493,7 +493,7 @@
 <hex>#2d4f83</hex>
 </color>
 <color>
-<name>Assassin's Red</name>
+<name>Assassin’s Red</name>
 <hex>#f60206</hex>
 </color>
 <color>
@@ -641,12 +641,12 @@
 <hex>#b4da55</hex>
 </color>
 <color>
-<name>Baker's Dream</name>
-<hex>#c98f70</hex>
-</color>
-<color>
 <name>Baker’s Bread</name>
 <hex>#d0b393</hex>
+</color>
+<color>
+<name>Baker’s Dream</name>
+<hex>#c98f70</hex>
 </color>
 <color>
 <name>Bakery Brown</name>
@@ -825,7 +825,7 @@
 <hex>#feff00</hex>
 </color>
 <color>
-<name>Bat's Blood Soup</name>
+<name>Bat’s Blood Soup</name>
 <hex>#ee3366</hex>
 </color>
 <color>
@@ -871,6 +871,10 @@
 <color>
 <name>Beach View</name>
 <hex>#4f7694</hex>
+</color>
+<color>
+<name>Beaches of Cancun</name>
+<hex>#fbedd7</hex>
 </color>
 <color>
 <name>Bear Hug</name>
@@ -1245,7 +1249,7 @@
 <hex>#e5bddf</hex>
 </color>
 <color>
-<name>Blackn't</name>
+<name>Blackn’t</name>
 <hex>#020f03</hex>
 </color>
 <color>
@@ -1489,7 +1493,7 @@
 <hex>#dd99aa</hex>
 </color>
 <color>
-<name>Blush d'Amour</name>
+<name>Blush d’Amour</name>
 <hex>#de5d83</hex>
 </color>
 <color>
@@ -1693,7 +1697,7 @@
 <hex>#efe7eb</hex>
 </color>
 <color>
-<name>Bride's Blush</name>
+<name>Bride’s Blush</name>
 <hex>#f9e2e1</hex>
 </color>
 <color>
@@ -1841,7 +1845,7 @@
 <hex>#79b465</hex>
 </color>
 <color>
-<name>Buddha's Love Handles</name>
+<name>Buddha’s Love Handles</name>
 <hex>#ffbb33</hex>
 </color>
 <color>
@@ -2577,11 +2581,11 @@
 <hex>#f0e093</hex>
 </color>
 <color>
-<name>Chef's Hat</name>
+<name>Chef’s Hat</name>
 <hex>#f3f4f5</hex>
 </color>
 <color>
-<name>Chef's Kiss</name>
+<name>Chef’s Kiss</name>
 <hex>#cc3b3b</hex>
 </color>
 <color>
@@ -3037,7 +3041,7 @@
 <hex>#edfcfb</hex>
 </color>
 <color>
-<name>Columbo's Coat</name>
+<name>Columbo’s Coat</name>
 <hex>#d0cbce</hex>
 </color>
 <color>
@@ -3261,7 +3265,7 @@
 <hex>#494e4f</hex>
 </color>
 <color>
-<name>Cow's Milk</name>
+<name>Cow’s Milk</name>
 <hex>#f1ede5</hex>
 </color>
 <color>
@@ -3513,7 +3517,7 @@
 <hex>#f5b2c5</hex>
 </color>
 <color>
-<name>Cupid's Eye</name>
+<name>Cupid’s Eye</name>
 <hex>#ff22dd</hex>
 </color>
 <color>
@@ -3989,7 +3993,7 @@
 <hex>#8b8685</hex>
 </color>
 <color>
-<name>Devil's Advocate</name>
+<name>Devil’s Advocate</name>
 <hex>#ff3344</hex>
 </color>
 <color>
@@ -4085,7 +4089,7 @@
 <hex>#fa427e</hex>
 </color>
 <color>
-<name>Diver's Eden</name>
+<name>Diver’s Eden</name>
 <hex>#3a797e</hex>
 </color>
 <color>
@@ -4125,7 +4129,7 @@
 <hex>#86c4da</hex>
 </color>
 <color>
-<name>Don't Be Shy</name>
+<name>Don’t Be Shy</name>
 <hex>#ed2c1a</hex>
 </color>
 <color>
@@ -4181,15 +4185,15 @@
 <hex>#d75969</hex>
 </color>
 <color>
-<name>Dragon's Blood</name>
+<name>Dragon’s Blood</name>
 <hex>#b84048</hex>
 </color>
 <color>
-<name>Dragon's Breath</name>
+<name>Dragon’s Breath</name>
 <hex>#d41003</hex>
 </color>
 <color>
-<name>Dragon's Gold</name>
+<name>Dragon’s Gold</name>
 <hex>#e7e04e</hex>
 </color>
 <color>
@@ -4905,7 +4909,7 @@
 <hex>#e83a72</hex>
 </color>
 <color>
-<name>Farmer's Market</name>
+<name>Farmer’s Market</name>
 <hex>#8f917c</hex>
 </color>
 <color>
@@ -5317,7 +5321,7 @@
 <hex>#73fa79</hex>
 </color>
 <color>
-<name>Florida's Alligator</name>
+<name>Florida’s Alligator</name>
 <hex>#664422</hex>
 </color>
 <color>
@@ -5405,7 +5409,7 @@
 <hex>#fdf5c4</hex>
 </color>
 <color>
-<name>Fool's Gold</name>
+<name>Fool’s Gold</name>
 <hex>#cad175</hex>
 </color>
 <color>
@@ -5901,7 +5905,7 @@
 <hex>#9d913c</hex>
 </color>
 <color>
-<name>Gecko's Dream</name>
+<name>Gecko’s Dream</name>
 <hex>#669900</hex>
 </color>
 <color>
@@ -6357,11 +6361,11 @@
 <hex>#c38d87</hex>
 </color>
 <color>
-<name>Grandma's Cameo</name>
+<name>Grandma’s Cameo</name>
 <hex>#f7e7dd</hex>
 </color>
 <color>
-<name>Grandma's Pink Tiles</name>
+<name>Grandma’s Pink Tiles</name>
 <hex>#e0b8c0</hex>
 </color>
 <color>
@@ -6677,7 +6681,7 @@
 <hex>#536267</hex>
 </color>
 <color>
-<name>Guns N' Roses</name>
+<name>Guns N’ Roses</name>
 <hex>#ff0077</hex>
 </color>
 <color>
@@ -6701,7 +6705,7 @@
 <hex>#fecf3c</hex>
 </color>
 <color>
-<name>Haddock's Sweater</name>
+<name>Haddock’s Sweater</name>
 <hex>#277aba</hex>
 </color>
 <color>
@@ -6793,7 +6797,7 @@
 <hex>#006383</hex>
 </color>
 <color>
-<name>Harlock's Cape</name>
+<name>Harlock’s Cape</name>
 <hex>#bb0000</hex>
 </color>
 <color>
@@ -7021,7 +7025,7 @@
 <hex>#969e86</hex>
 </color>
 <color>
-<name>Herbalist's Garden</name>
+<name>Herbalist’s Garden</name>
 <hex>#119900</hex>
 </color>
 <color>
@@ -8061,7 +8065,7 @@
 <hex>#353337</hex>
 </color>
 <color>
-<name>Jet d'Eau</name>
+<name>Jet d’Eau</name>
 <hex>#d1eaec</hex>
 </color>
 <color>
@@ -8093,7 +8097,7 @@
 <hex>#eeff22</hex>
 </color>
 <color>
-<name>Joker's Smile</name>
+<name>Joker’s Smile</name>
 <hex>#d70141</hex>
 </color>
 <color>
@@ -8281,7 +8285,7 @@
 <hex>#3c85be</hex>
 </color>
 <color>
-<name>King's Plum Pie</name>
+<name>King’s Plum Pie</name>
 <hex>#b3107a</hex>
 </color>
 <color>
@@ -8349,11 +8353,11 @@
 <hex>#ff6677</hex>
 </color>
 <color>
-<name>Kitten's Eye</name>
+<name>Kitten’s Eye</name>
 <hex>#8aadf7</hex>
 </color>
 <color>
-<name>Kitten's Paw</name>
+<name>Kitten’s Paw</name>
 <hex>#daa89b</hex>
 </color>
 <color>
@@ -8377,7 +8381,7 @@
 <hex>#0f0707</hex>
 </color>
 <color>
-<name>Knight's Armor</name>
+<name>Knight’s Armor</name>
 <hex>#5c5d5d</hex>
 </color>
 <color>
@@ -8661,7 +8665,7 @@
 <hex>#efe499</hex>
 </color>
 <color>
-<name>Les Demoiselles d'Avignon</name>
+<name>Les Demoiselles d’Avignon</name>
 <hex>#e59d7b</hex>
 </color>
 <color>
@@ -8857,7 +8861,7 @@
 <hex>#dd9933</hex>
 </color>
 <color>
-<name>Lion's Roar</name>
+<name>Lion’s Roar</name>
 <hex>#f5dab3</hex>
 </color>
 <color>
@@ -9389,7 +9393,7 @@
 <hex>#a56531</hex>
 </color>
 <color>
-<name>Maiden's Blush</name>
+<name>Maiden’s Blush</name>
 <hex>#f3d3bf</hex>
 </color>
 <color>
@@ -9893,7 +9897,7 @@
 <hex>#d9e6a6</hex>
 </color>
 <color>
-<name>Mermaid's Kiss</name>
+<name>Mermaid’s Kiss</name>
 <hex>#59c8a5</hex>
 </color>
 <color>
@@ -10229,7 +10233,7 @@
 <hex>#e8c690</hex>
 </color>
 <color>
-<name>Mom's Pancake</name>
+<name>Mom’s Pancake</name>
 <hex>#f5c553</hex>
 </color>
 <color>
@@ -10421,7 +10425,7 @@
 <hex>#bde1c4</hex>
 </color>
 <color>
-<name>Mother's Milk</name>
+<name>Mother’s Milk</name>
 <hex>#f7edca</hex>
 </color>
 <color>
@@ -10517,7 +10521,7 @@
 <hex>#a18162</hex>
 </color>
 <color>
-<name>Mummy's Tomb</name>
+<name>Mummy’s Tomb</name>
 <hex>#828e84</hex>
 </color>
 <color>
@@ -11153,7 +11157,7 @@
 <hex>#e9e3cb</hex>
 </color>
 <color>
-<name>Nymph's Delight</name>
+<name>Nymph’s Delight</name>
 <hex>#7b6c8e</hex>
 </color>
 <color>
@@ -11217,7 +11221,7 @@
 <hex>#41767b</hex>
 </color>
 <color>
-<name>Ocean's Embrace</name>
+<name>Ocean’s Embrace</name>
 <hex>#306a78</hex>
 </color>
 <color>
@@ -11601,7 +11605,7 @@
 <hex>#8c8e65</hex>
 </color>
 <color>
-<name>Painter's Canvas</name>
+<name>Painter’s Canvas</name>
 <hex>#f9f2de</hex>
 </color>
 <color>
@@ -11609,7 +11613,7 @@
 <hex>#f1efa6</hex>
 </color>
 <color>
-<name>Pale King's Blue</name>
+<name>Pale King’s Blue</name>
 <hex>#abf5ed</hex>
 </color>
 <color>
@@ -11641,7 +11645,7 @@
 <hex>#f7d788</hex>
 </color>
 <color>
-<name>Pandora's Box</name>
+<name>Pandora’s Box</name>
 <hex>#fedbb7</hex>
 </color>
 <color>
@@ -11957,7 +11961,7 @@
 <hex>#f7b28b</hex>
 </color>
 <color>
-<name>Peach's Daydream</name>
+<name>Peach’s Daydream</name>
 <hex>#fd9b88</hex>
 </color>
 <color>
@@ -12309,7 +12313,7 @@
 <hex>#dc5d47</hex>
 </color>
 <color>
-<name>Pimm's</name>
+<name>Pimm’s</name>
 <hex>#c3585c</hex>
 </color>
 <color>
@@ -12489,7 +12493,7 @@
 <hex>#ddca69</hex>
 </color>
 <color>
-<name>Pirate's Hook</name>
+<name>Pirate’s Hook</name>
 <hex>#b08f42</hex>
 </color>
 <color>
@@ -13161,7 +13165,7 @@
 <hex>#442244</hex>
 </color>
 <color>
-<name>Purple's Baby Sister</name>
+<name>Purple’s Baby Sister</name>
 <hex>#eec3ee</hex>
 </color>
 <color>
@@ -13305,7 +13309,7 @@
 <hex>#c19a13</hex>
 </color>
 <color>
-<name>Rapture's Light</name>
+<name>Rapture’s Light</name>
 <hex>#f6f3e7</hex>
 </color>
 <color>
@@ -13337,7 +13341,7 @@
 <hex>#0b0b0b</hex>
 </color>
 <color>
-<name>Raven's Coat</name>
+<name>Raven’s Coat</name>
 <hex>#030205</hex>
 </color>
 <color>
@@ -13565,7 +13569,7 @@
 <hex>#f00b52</hex>
 </color>
 <color>
-<name>Rock'n'Rose</name>
+<name>Rock’n’Rose</name>
 <hex>#fc8aaa</hex>
 </color>
 <color>
@@ -14069,7 +14073,7 @@
 <hex>#900405</hex>
 </color>
 <color>
-<name>Screamin' Green</name>
+<name>Screamin’ Green</name>
 <hex>#66ff66</hex>
 </color>
 <color>
@@ -14117,7 +14121,7 @@
 <hex>#4bc7cf</hex>
 </color>
 <color>
-<name>Sea Serpent's Tears</name>
+<name>Sea Serpent’s Tears</name>
 <hex>#5511cc</hex>
 </color>
 <color>
@@ -14205,7 +14209,7 @@
 <hex>#76baa8</hex>
 </color>
 <color>
-<name>Serenity's Reign</name>
+<name>Serenity’s Reign</name>
 <hex>#507bce</hex>
 </color>
 <color>
@@ -15321,11 +15325,11 @@
 <hex>#cbeaee</hex>
 </color>
 <color>
-<name>Summer of '82</name>
+<name>Summer of ’82</name>
 <hex>#74cdd8</hex>
 </color>
 <color>
-<name>Summer's End</name>
+<name>Summer’s End</name>
 <hex>#dc9367</hex>
 </color>
 <color>
@@ -15637,7 +15641,7 @@
 <hex>#79839b</hex>
 </color>
 <color>
-<name>Templar's Gold</name>
+<name>Templar’s Gold</name>
 <hex>#f2e688</hex>
 </color>
 <color>
@@ -15681,11 +15685,11 @@
 <hex>#44aadd</hex>
 </color>
 <color>
-<name>The Count's Black</name>
+<name>The Count’s Black</name>
 <hex>#102030</hex>
 </color>
 <color>
-<name>The Devil's Grass</name>
+<name>The Devil’s Grass</name>
 <hex>#666420</hex>
 </color>
 <color>
@@ -15693,7 +15697,7 @@
 <hex>#2a2a2a</hex>
 </color>
 <color>
-<name>The Grape War of 97'</name>
+<name>The Grape War of 97’</name>
 <hex>#bb00ff</hex>
 </color>
 <color>
@@ -15709,7 +15713,7 @@
 <hex>#e5a5c1</hex>
 </color>
 <color>
-<name>Thor's Thunder</name>
+<name>Thor’s Thunder</name>
 <hex>#44ccff</hex>
 </color>
 <color>
@@ -16221,7 +16225,7 @@
 <hex>#ba0728</hex>
 </color>
 <color>
-<name>Valentine's Kiss</name>
+<name>Valentine’s Kiss</name>
 <hex>#b63364</hex>
 </color>
 <color>
@@ -16949,7 +16953,7 @@
 <hex>#607c8e</hex>
 </color>
 <color>
-<name>Whale's Tale</name>
+<name>Whale’s Tale</name>
 <hex>#115a82</hex>
 </color>
 <color>
@@ -17091,6 +17095,10 @@
 <color>
 <name>White Smoke</name>
 <hex>#f5f5f5</hex>
+</color>
+<color>
+<name>White Strawberry</name>
+<hex>#fde3b5</hex>
 </color>
 <color>
 <name>White Truffle</name>
@@ -17289,7 +17297,7 @@
 <hex>#4d5b88</hex>
 </color>
 <color>
-<name>Wizard's Brew</name>
+<name>Wizard’s Brew</name>
 <hex>#a090b8</hex>
 </color>
 <color>
@@ -17513,7 +17521,7 @@
 <hex>#497a9f</hex>
 </color>
 <color>
-<name>Zeus's Bolt</name>
+<name>Zeus’s Bolt</name>
 <hex>#eeff00</hex>
 </color>
 <color>
