@@ -14245,6 +14245,10 @@
 <hex>#bfa270</hex>
 </color>
 <color>
+<name>Breadstick</name>
+<hex>#b48c56</hex>
+</color>
+<color>
 <name>Break of Day</name>
 <hex>#fffabd</hex>
 </color>
@@ -14295,6 +14299,10 @@
 <color>
 <name>Breakwaters</name>
 <hex>#d9e5e0</hex>
+</color>
+<color>
+<name>Breath of Celery</name>
+<hex>#dce7cb</hex>
 </color>
 <color>
 <name>Breath of Fire</name>
@@ -18559,6 +18567,10 @@
 <color>
 <name>Cardinal Red</name>
 <hex>#9b365e</hex>
+</color>
+<color>
+<name>Cardinal’s Cassock</name>
+<hex>#b33125</hex>
 </color>
 <color>
 <name>Cardoon</name>
@@ -29815,6 +29827,10 @@
 <color>
 <name>Deep Pond</name>
 <hex>#014420</hex>
+</color>
+<color>
+<name>Deep Pool Teal</name>
+<hex>#366d68</hex>
 </color>
 <color>
 <name>Deep Purple</name>
@@ -48361,6 +48377,10 @@
 <hex>#a87678</hex>
 </color>
 <color>
+<name>Handsome Blue</name>
+<hex>#355887</hex>
+</color>
+<color>
 <name>Handsome Hue</name>
 <hex>#5286ba</hex>
 </color>
@@ -48439,6 +48459,10 @@
 <color>
 <name>Happy Hippo</name>
 <hex>#818581</hex>
+</color>
+<color>
+<name>Happy Margarine</name>
+<hex>#e0dabf</hex>
 </color>
 <color>
 <name>Happy Piglets</name>
@@ -73365,6 +73389,10 @@
 <hex>#cdb386</hex>
 </color>
 <color>
+<name>Oak Palace</name>
+<hex>#bb6b41</hex>
+</color>
+<color>
 <name>Oak Plank</name>
 <hex>#5d4f39</hex>
 </color>
@@ -77109,6 +77137,10 @@
 <hex>#eae2d4</hex>
 </color>
 <color>
+<name>Pandan Cake</name>
+<hex>#9fb057</hex>
+</color>
+<color>
 <name>Pandanus</name>
 <hex>#616c44</hex>
 </color>
@@ -80701,6 +80733,10 @@
 <hex>#4a6d42</hex>
 </color>
 <color>
+<name>Pine Scented Lagoon</name>
+<hex>#066f6c</hex>
+</color>
+<color>
 <name>Pine Strain</name>
 <hex>#d5bfa5</hex>
 </color>
@@ -83697,7 +83733,7 @@
 <hex>#c2937b</hex>
 </color>
 <color>
-<name>Potters Pot</name>
+<name>Potter’s Pot</name>
 <hex>#845c40</hex>
 </color>
 <color>
@@ -83791,10 +83827,6 @@
 <color>
 <name>Powder Puff</name>
 <hex>#ffeff3</hex>
-</color>
-<color>
-<name>Powder Puff Pink</name>
-<hex>#ffcebe</hex>
 </color>
 <color>
 <name>Powder Red</name>
@@ -103046,7 +103078,7 @@
 </color>
 <color>
 <name>Storm</name>
-<hex>#444400</hex>
+<hex>#000b44</hex>
 </color>
 <color>
 <name>Storm Blue</name>
@@ -103275,6 +103307,10 @@
 <color>
 <name>Strawberry</name>
 <hex>#fb2943</hex>
+</color>
+<color>
+<name>Strawberry Avalanche</name>
+<hex>#ef4f41</hex>
 </color>
 <color>
 <name>Strawberry Blonde</name>

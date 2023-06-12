@@ -10682,6 +10682,9 @@
   name:"Bread Pudding"
   hex:"#bfa270"
 -
+  name:"Breadstick"
+  hex:"#b48c56"
+-
   name:"Break of Day"
   hex:"#fffabd"
 -
@@ -10720,6 +10723,9 @@
 -
   name:"Breakwaters"
   hex:"#d9e5e0"
+-
+  name:"Breath of Celery"
+  hex:"#dce7cb"
 -
   name:"Breath of Fire"
   hex:"#ee0011"
@@ -13918,6 +13924,9 @@
 -
   name:"Cardinal Red"
   hex:"#9b365e"
+-
+  name:"Cardinal’s Cassock"
+  hex:"#b33125"
 -
   name:"Cardoon"
   hex:"#9aae8c"
@@ -22360,6 +22369,9 @@
 -
   name:"Deep Pond"
   hex:"#014420"
+-
+  name:"Deep Pool Teal"
+  hex:"#366d68"
 -
   name:"Deep Purple"
   hex:"#36013f"
@@ -36269,6 +36281,9 @@
   name:"Handmade Red"
   hex:"#a87678"
 -
+  name:"Handsome Blue"
+  hex:"#355887"
+-
   name:"Handsome Hue"
   hex:"#5286ba"
 -
@@ -36328,6 +36343,9 @@
 -
   name:"Happy Hippo"
   hex:"#818581"
+-
+  name:"Happy Margarine"
+  hex:"#e0dabf"
 -
   name:"Happy Piglets"
   hex:"#f6cbca"
@@ -55022,6 +55040,9 @@
   name:"Oak Harbour"
   hex:"#cdb386"
 -
+  name:"Oak Palace"
+  hex:"#bb6b41"
+-
   name:"Oak Plank"
   hex:"#5d4f39"
 -
@@ -57830,6 +57851,9 @@
   name:"Panda White"
   hex:"#eae2d4"
 -
+  name:"Pandan Cake"
+  hex:"#9fb057"
+-
   name:"Pandanus"
   hex:"#616c44"
 -
@@ -60524,6 +60548,9 @@
   name:"Pine Scent"
   hex:"#4a6d42"
 -
+  name:"Pine Scented Lagoon"
+  hex:"#066f6c"
+-
   name:"Pine Strain"
   hex:"#d5bfa5"
 -
@@ -62771,7 +62798,7 @@
   name:"Potter’s Pink"
   hex:"#c2937b"
 -
-  name:"Potters Pot"
+  name:"Potter’s Pot"
   hex:"#845c40"
 -
   name:"Pottery Blue"
@@ -62842,9 +62869,6 @@
 -
   name:"Powder Puff"
   hex:"#ffeff3"
--
-  name:"Powder Puff Pink"
-  hex:"#ffcebe"
 -
   name:"Powder Red"
   hex:"#95396a"
@@ -77283,7 +77307,7 @@
   hex:"#f2f2e2"
 -
   name:"Storm"
-  hex:"#444400"
+  hex:"#000b44"
 -
   name:"Storm Blue"
   hex:"#507b9c"
@@ -77455,6 +77479,9 @@
 -
   name:"Strawberry"
   hex:"#fb2943"
+-
+  name:"Strawberry Avalanche"
+  hex:"#ef4f41"
 -
   name:"Strawberry Blonde"
   hex:"#ffdadc"
