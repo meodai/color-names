@@ -236,7 +236,7 @@ See [package.json](package.json#L6) for more.
 
 - [krissymashinsky.com] 300USD
 - [color.museum] 100CHF
-- @tunnckoCore 50USD
+- [@tunnckoCore] 50USD
 - [Myriam Aerne] 20CHF
 - [Amin] 15USD
 
@@ -343,6 +343,7 @@ so that we can remove them promptly.
 [Myriam Aerne]: https://fynoeggeli.ch/
 [nachtfunke]: https://helloyes.dev
 [amin]: http://www.slashui.com
+[@tunnckoCore]: https://github.com/tunnckoCore
 [Colorful Dots]: https://colorfuldots.com/
 [color.museum]: https://www.color.museum/
 [krissymashinsky.com]: https://www.krissymashinsky.com/
