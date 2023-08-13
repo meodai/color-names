@@ -236,6 +236,7 @@ See [package.json](package.json#L6) for more.
 
 - [krissymashinsky.com] 300USD
 - [color.museum] 100CHF
+- @tunnckoCore 50USD
 - [Myriam Aerne] 20CHF
 - [Amin] 15USD
 
