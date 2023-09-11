@@ -717,6 +717,10 @@
 <hex>#fff49c</hex>
 </color>
 <color>
+<name>Banana Drama</name>
+<hex>#f1d548</hex>
+</color>
+<color>
 <name>Banana Flash</name>
 <hex>#eefe02</hex>
 </color>
@@ -2933,6 +2937,10 @@
 <hex>#f0eee9</hex>
 </color>
 <color>
+<name>Clouded Pine</name>
+<hex>#628468</hex>
+</color>
+<color>
 <name>Cloudless</name>
 <hex>#d6eafc</hex>
 </color>
@@ -3259,6 +3267,10 @@
 <color>
 <name>Cotton Candy</name>
 <hex>#ffbcd9</hex>
+</color>
+<color>
+<name>Cotton Candy Comet</name>
+<hex>#ffc3cb</hex>
 </color>
 <color>
 <name>Cotton Candy Explosions</name>
@@ -4425,6 +4437,10 @@
 <hex>#3f3939</hex>
 </color>
 <color>
+<name>Eclipse Elixir</name>
+<hex>#1f2133</hex>
+</color>
+<color>
 <name>Ecological</name>
 <hex>#677f70</hex>
 </color>
@@ -4565,6 +4581,10 @@
 <hex>#80c872</hex>
 </color>
 <color>
+<name>Emerald Whispers</name>
+<hex>#2b8478</hex>
+</color>
+<color>
 <name>Emergency</name>
 <hex>#911911</hex>
 </color>
@@ -4599,6 +4619,10 @@
 <color>
 <name>Enchanted Lavender</name>
 <hex>#bfa3d9</hex>
+</color>
+<color>
+<name>Enchanted Lilac</name>
+<hex>#a893c1</hex>
 </color>
 <color>
 <name>Enchanting Ivy</name>
@@ -4739,6 +4763,14 @@
 <color>
 <name>Ether</name>
 <hex>#98b2b4</hex>
+</color>
+<color>
+<name>Ethereal Espresso</name>
+<hex>#3e2723</hex>
+</color>
+<color>
+<name>Ethereal Mist</name>
+<hex>#b0b8cc</hex>
 </color>
 <color>
 <name>Ethereal Moonlight</name>
@@ -5465,6 +5497,10 @@
 <hex>#3d7016</hex>
 </color>
 <color>
+<name>Forest Serenade</name>
+<hex>#336644</hex>
+</color>
+<color>
 <name>Forester</name>
 <hex>#9aa77c</hex>
 </color>
@@ -5847,6 +5883,14 @@
 <color>
 <name>Galactic Federation</name>
 <hex>#330077</hex>
+</color>
+<color>
+<name>Galactic Gossamer</name>
+<hex>#7f8cb8</hex>
+</color>
+<color>
+<name>Galactic Grapevine</name>
+<hex>#6b327b</hex>
 </color>
 <color>
 <name>Galactic Highway</name>
@@ -7835,6 +7879,10 @@
 <color>
 <name>Inkjet</name>
 <hex>#44556b</hex>
+</color>
+<color>
+<name>Inkwell Inception</name>
+<hex>#1e1e21</hex>
 </color>
 <color>
 <name>Inland Waters</name>
@@ -10025,8 +10073,16 @@
 <hex>#32496f</hex>
 </color>
 <color>
+<name>Midnight Masquerade</name>
+<hex>#2c2e47</hex>
+</color>
+<color>
 <name>Midnight Melancholia</name>
 <hex>#002266</hex>
+</color>
+<color>
+<name>Midnight Mirage</name>
+<hex>#001f3f</hex>
 </color>
 <color>
 <name>Midnight Pie</name>
@@ -10047,6 +10103,10 @@
 <color>
 <name>Midnight Sky</name>
 <hex>#424753</hex>
+</color>
+<color>
+<name>Midnight Velvet</name>
+<hex>#2a2243</hex>
 </color>
 <color>
 <name>Midori</name>
@@ -10169,6 +10229,10 @@
 <hex>#b32651</hex>
 </color>
 <color>
+<name>Minted Elegance</name>
+<hex>#6ec9a3</hex>
+</color>
+<color>
 <name>Mintnight</name>
 <hex>#7cbbae</hex>
 </color>
@@ -10227,6 +10291,10 @@
 <color>
 <name>Mocha</name>
 <hex>#9d7651</hex>
+</color>
+<color>
+<name>Mocha Delight</name>
+<hex>#8e664e</hex>
 </color>
 <color>
 <name>Mocha Ice</name>
@@ -10895,6 +10963,10 @@
 <color>
 <name>Neptune Green</name>
 <hex>#7fbb9e</hex>
+</color>
+<color>
+<name>Neptune’s Dream</name>
+<hex>#003368</hex>
 </color>
 <color>
 <name>Nero</name>
@@ -13749,6 +13821,10 @@
 <hex>#403547</hex>
 </color>
 <color>
+<name>Royal Goblet</name>
+<hex>#d4ca8e</hex>
+</color>
+<color>
 <name>Royal Lavender</name>
 <hex>#7851a9</hex>
 </color>
@@ -13893,6 +13969,10 @@
 <hex>#c24359</hex>
 </color>
 <color>
+<name>Saffronaut</name>
+<hex>#932a25</hex>
+</color>
+<color>
 <name>Sage</name>
 <hex>#87ae73</hex>
 </color>
@@ -13999,6 +14079,10 @@
 <color>
 <name>Salted Caramel Popcorn</name>
 <hex>#fdb251</hex>
+</color>
+<color>
+<name>Saltwater Denim</name>
+<hex>#145c78</hex>
 </color>
 <color>
 <name>Salty Ice</name>
@@ -14179,6 +14263,10 @@
 <color>
 <name>Sea of Galilee</name>
 <hex>#466590</hex>
+</color>
+<color>
+<name>Sea of Stars</name>
+<hex>#0b334d</hex>
 </color>
 <color>
 <name>Sea Paint</name>
@@ -15167,6 +15255,10 @@
 <color>
 <name>Stellar</name>
 <hex>#46647e</hex>
+</color>
+<color>
+<name>Stellar Strawberry</name>
+<hex>#ff5c8d</hex>
 </color>
 <color>
 <name>Stereotypical Duck</name>
@@ -16461,6 +16553,14 @@
 <hex>#e3dfec</hex>
 </color>
 <color>
+<name>Velvet Volcano</name>
+<hex>#ab0102</hex>
+</color>
+<color>
+<name>Velvet Vortex</name>
+<hex>#540d6e</hex>
+</color>
+<color>
 <name>Velvet Wine</name>
 <hex>#9a435d</hex>
 </color>
@@ -16495,6 +16595,10 @@
 <color>
 <name>Verdant Forest</name>
 <hex>#28615d</hex>
+</color>
+<color>
+<name>Verdant Haven</name>
+<hex>#84a97c</hex>
 </color>
 <color>
 <name>Verdant Leaf</name>
@@ -16799,6 +16903,10 @@
 <color>
 <name>Walkie Chalkie</name>
 <hex>#faf5fa</hex>
+</color>
+<color>
+<name>Walking on Sunshine</name>
+<hex>#fcfc9d</hex>
 </color>
 <color>
 <name>Walkway</name>
@@ -17115,6 +17223,10 @@
 <color>
 <name>Whispering Smoke</name>
 <hex>#d8d8d4</hex>
+</color>
+<color>
+<name>Whispering Willow</name>
+<hex>#919c81</hex>
 </color>
 <color>
 <name>Whispery Breeze</name>

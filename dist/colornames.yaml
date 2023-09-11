@@ -47,9 +47,6 @@
   name:"A Dime a Dozen"
   hex:"#d3dde4"
 -
-  name:"A Hint of Incremental Blue"
-  hex:"#456789"
--
   name:"À L’Orange"
   hex:"#f2850d"
 -
@@ -5557,6 +5554,9 @@
 -
   name:"Banana Custard"
   hex:"#fcf3c5"
+-
+  name:"Banana Drama"
+  hex:"#f1d548"
 -
   name:"Banana Farm"
   hex:"#ffdf38"
@@ -13847,6 +13847,9 @@
   name:"Caramelized"
   hex:"#ba947f"
 -
+  name:"Caramelized Maple"
+  hex:"#ad5a28"
+-
   name:"Caramelized Orange"
   hex:"#ef924a"
 -
@@ -17546,6 +17549,9 @@
   name:"Clouded Blue"
   hex:"#1f75fe"
 -
+  name:"Clouded Pine"
+  hex:"#628468"
+-
   name:"Clouded Sky"
   hex:"#7d93a2"
 -
@@ -19430,6 +19436,9 @@
   name:"Cotton Candy Aesthetic"
   hex:"#f5bcde"
 -
+  name:"Cotton Candy Comet"
+  hex:"#ffc3cb"
+-
   name:"Cotton Candy Explosions"
   hex:"#dd22ff"
 -
@@ -20266,6 +20275,9 @@
 -
   name:"Crisp Celery"
   hex:"#cdcca6"
+-
+  name:"Crisp Christmas Cranberries"
+  hex:"#a6080e"
 -
   name:"Crisp Cyan"
   hex:"#22ffff"
@@ -25529,6 +25541,9 @@
   name:"Eclipse Blue"
   hex:"#456074"
 -
+  name:"Eclipse Elixir"
+  hex:"#1f2133"
+-
   name:"Eco Green"
   hex:"#a89768"
 -
@@ -26210,6 +26225,9 @@
   name:"Emerald Wave"
   hex:"#4fb3a9"
 -
+  name:"Emerald Whispers"
+  hex:"#2b8478"
+-
   name:"Emerald-Crested Manakin"
   hex:"#5c6b8f"
 -
@@ -26380,6 +26398,9 @@
 -
   name:"Enchanted Lavender"
   hex:"#bfa3d9"
+-
+  name:"Enchanted Lilac"
+  hex:"#a893c1"
 -
   name:"Enchanted Meadow"
   hex:"#b1d4b7"
@@ -26924,8 +26945,14 @@
   name:"Ethereal Blue"
   hex:"#5ca6ce"
 -
+  name:"Ethereal Espresso"
+  hex:"#3e2723"
+-
   name:"Ethereal Green"
   hex:"#f0e8c6"
+-
+  name:"Ethereal Mist"
+  hex:"#b0b8cc"
 -
   name:"Ethereal Mood"
   hex:"#cce7eb"
@@ -29957,6 +29984,9 @@
   name:"Forest Sand"
   hex:"#c8caa4"
 -
+  name:"Forest Serenade"
+  hex:"#336644"
+-
   name:"Forest Shade"
   hex:"#91ac80"
 -
@@ -31522,6 +31552,12 @@
 -
   name:"Galactic Federation"
   hex:"#330077"
+-
+  name:"Galactic Gossamer"
+  hex:"#7f8cb8"
+-
+  name:"Galactic Grapevine"
+  hex:"#6b327b"
 -
   name:"Galactic Highway"
   hex:"#3311bb"
@@ -40079,6 +40115,9 @@
   name:"Inkwell"
   hex:"#31363a"
 -
+  name:"Inkwell Inception"
+  hex:"#1e1e21"
+-
   name:"Inky Blue"
   hex:"#4e7287"
 -
@@ -46943,6 +46982,9 @@
   name:"Luminous Apricot"
   hex:"#ecbf55"
 -
+  name:"Luminous Lavender"
+  hex:"#bf8fe5"
+-
   name:"Luminous Light"
   hex:"#bbaeb9"
 -
@@ -50171,11 +50213,17 @@
   name:"Midnight Magic"
   hex:"#46474a"
 -
+  name:"Midnight Masquerade"
+  hex:"#2c2e47"
+-
   name:"Midnight Melancholia"
   hex:"#002266"
 -
   name:"Midnight Merlot"
   hex:"#880044"
+-
+  name:"Midnight Mirage"
+  hex:"#001f3f"
 -
   name:"Midnight Mosaic"
   hex:"#3d5267"
@@ -50218,6 +50266,9 @@
 -
   name:"Midnight Sun"
   hex:"#4e5a6d"
+-
+  name:"Midnight Velvet"
+  hex:"#2a2243"
 -
   name:"Midnight Violet"
   hex:"#6a75ad"
@@ -50831,6 +50882,9 @@
   name:"Minted Blueberry Lemonade"
   hex:"#b32651"
 -
+  name:"Minted Elegance"
+  hex:"#6ec9a3"
+-
   name:"Minted Ice"
   hex:"#d8f3eb"
 -
@@ -51214,6 +51268,9 @@
 -
   name:"Mocha Dandelion"
   hex:"#f1d96e"
+-
+  name:"Mocha Delight"
+  hex:"#8e664e"
 -
   name:"Mocha Foam"
   hex:"#bba28e"
@@ -53824,6 +53881,9 @@
 -
   name:"Neptune Green"
   hex:"#7fbb9e"
+-
+  name:"Neptune’s Dream"
+  hex:"#003368"
 -
   name:"Neptune’s Wrath"
   hex:"#11425d"
@@ -61421,6 +61481,9 @@
   name:"Pistachio Cream"
   hex:"#c5d498"
 -
+  name:"Pistachio Dream"
+  hex:"#a5cf8c"
+-
   name:"Pistachio Flour"
   hex:"#4f8f00"
 -
@@ -68546,6 +68609,9 @@
   name:"Royal Glimmer"
   hex:"#9791bc"
 -
+  name:"Royal Goblet"
+  hex:"#d4ca8e"
+-
   name:"Royal Gold"
   hex:"#e1bc8a"
 -
@@ -69356,6 +69422,9 @@
   name:"Saffron Yellow"
   hex:"#d09b2c"
 -
+  name:"Saffronaut"
+  hex:"#932a25"
+-
   name:"Saga Blue"
   hex:"#75a0b1"
 -
@@ -69796,6 +69865,9 @@
 -
   name:"Saltwater"
   hex:"#c2d0de"
+-
+  name:"Saltwater Denim"
+  hex:"#145c78"
 -
   name:"Saltwater Depth"
   hex:"#52896b"
@@ -71080,6 +71152,9 @@
 -
   name:"Sea of Galilee"
   hex:"#466590"
+-
+  name:"Sea of Stars"
+  hex:"#0b334d"
 -
   name:"Sea of Tears"
   hex:"#1d4da0"
@@ -74111,6 +74186,9 @@
   name:"Smoke Grey"
   hex:"#cebaa8"
 -
+  name:"Smoke on the Water"
+  hex:"#9bacb3"
+-
   name:"Smoke Pine"
   hex:"#446b61"
 -
@@ -75292,6 +75370,9 @@
 -
   name:"Soulstone Blue"
   hex:"#0047ab"
+-
+  name:"Sound of Silence"
+  hex:"#333b33"
 -
   name:"Sounds of Nature"
   hex:"#dfe5d7"
@@ -77059,6 +77140,9 @@
 -
   name:"Stellar Mist"
   hex:"#ab9d9c"
+-
+  name:"Stellar Strawberry"
+  hex:"#ff5c8d"
 -
   name:"Stem Green"
   hex:"#abdf8f"
@@ -84704,6 +84788,9 @@
   name:"Velvet Magic"
   hex:"#bb1155"
 -
+  name:"Velvet Marigold"
+  hex:"#e58d3f"
+-
   name:"Velvet Mauve"
   hex:"#692b57"
 -
@@ -84742,6 +84829,12 @@
 -
   name:"Velvet Violet"
   hex:"#43354f"
+-
+  name:"Velvet Volcano"
+  hex:"#ab0102"
+-
+  name:"Velvet Vortex"
+  hex:"#540d6e"
 -
   name:"Velvet Wine"
   hex:"#9a435d"
@@ -84895,6 +84988,9 @@
 -
   name:"Verdant Green"
   hex:"#167d60"
+-
+  name:"Verdant Haven"
+  hex:"#84a97c"
 -
   name:"Verdant Leaf"
   hex:"#817c4a"
@@ -86107,6 +86203,9 @@
 -
   name:"Walking Dead"
   hex:"#849b63"
+-
+  name:"Walking on Sunshine"
+  hex:"#fcfc9d"
 -
   name:"Walkway"
   hex:"#a3999c"

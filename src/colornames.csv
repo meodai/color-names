@@ -15,7 +15,6 @@ name,hex,good name
 A Brand New Day,#ffaabb,
 A Certain Shade Of Green,#d1edee,
 A Dime a Dozen,#d3dde4,x
-A Hint of Incremental Blue,#456789,
 À L’Orange,#f2850d,x
 A La Mode,#f6ecde,
 A Lot of Love,#ffbcc5,
@@ -1852,6 +1851,7 @@ Banana Clan,#eedd00,
 Banana Cream,#fff49c,x
 Banana Crepe,#e7d3ad,
 Banana Custard,#fcf3c5,
+Banana Drama,#f1d548,x
 Banana Farm,#ffdf38,
 Banana Flash,#eefe02,x
 Banana Frappé,#ddd5b6,x
@@ -4615,6 +4615,7 @@ Caramel Sundae,#a9876a,
 Caramel Swirl,#8f6a4f,
 Caramelize,#d58a37,x
 Caramelized,#ba947f,
+Caramelized Maple,#ad5a28,
 Caramelized Orange,#ef924a,
 Caramelized Pears,#e7d5ad,
 Caramelized Pecan,#a17b4d,x
@@ -5848,6 +5849,7 @@ Cloud White,#f2f2ed,
 Cloudberry,#ffa168,
 Cloudburst,#7b7777,
 Clouded Blue,#1f75fe,
+Clouded Pine,#628468,x
 Clouded Sky,#7d93a2,
 Clouded Vision,#d1d0d1,
 Cloudless,#d6eafc,x
@@ -6476,6 +6478,7 @@ Cotton Blossom,#f5f1e4,
 Cotton Boll,#e7effb,x
 Cotton Candy,#ffbcd9,x
 Cotton Candy Aesthetic,#f5bcde,
+Cotton Candy Comet,#ffc3cb,x
 Cotton Candy Explosions,#dd22ff,x
 Cotton Candy Grape,#dec74b,
 Cotton Cardigan,#7596b8,
@@ -6755,6 +6758,7 @@ Crisp,#eaebaf,
 Crisp Candlelight,#f4ebd0,
 Crisp Capsicum,#5d6e3b,
 Crisp Celery,#cdcca6,
+Crisp Christmas Cranberries,#a6080e,
 Crisp Cyan,#22ffff,
 Crisp Green,#abc43a,
 Crisp Lettuce,#4f9785,
@@ -8509,6 +8513,7 @@ Eclectic Plum,#8c6e67,
 Eclectic Purple,#483e45,
 Eclipse,#3f3939,x
 Eclipse Blue,#456074,
+Eclipse Elixir,#1f2133,x
 Eco Green,#a89768,
 Ecological,#677f70,x
 Ecru,#c2b280,
@@ -8736,6 +8741,7 @@ Emerald Starling,#11bb11,
 Emerald Stone,#016360,
 Emerald Succulent,#55aaaa,
 Emerald Wave,#4fb3a9,
+Emerald Whispers,#2b8478,x
 Emerald-Crested Manakin,#5c6b8f,
 Emergency,#911911,x
 Emergency Zone,#e36940,
@@ -8793,6 +8799,7 @@ Enchanted Evening,#d3e9ec,
 Enchanted Forest,#5c821a,x
 Enchanted Glen,#166d29,x
 Enchanted Lavender,#bfa3d9,x
+Enchanted Lilac,#a893c1,x
 Enchanted Meadow,#b1d4b7,
 Enchanted Silver,#b5b5bd,
 Enchanted Wells,#26ad8d,
@@ -8974,7 +8981,9 @@ Ether,#98b2b4,x
 Etherea,#a3928c,
 Ethereal,#f9eecb,
 Ethereal Blue,#5ca6ce,
+Ethereal Espresso,#3e2723,x
 Ethereal Green,#f0e8c6,
+Ethereal Mist,#b0b8cc,x
 Ethereal Mood,#cce7eb,
 Ethereal Moonlight,#d5e4ec,x
 Ethereal White,#e6f1f1,
@@ -9985,6 +9994,7 @@ Forest Rain,#216957,
 Forest Ride,#006800,
 Forest Ridge,#555d46,
 Forest Sand,#c8caa4,
+Forest Serenade,#336644,x
 Forest Shade,#91ac80,
 Forest Spirit,#667028,
 Forest Splendor,#016e61,
@@ -10507,6 +10517,8 @@ Galactic Civilization,#442288,x
 Galactic Cruise,#111188,x
 Galactic Emerald,#0afa1e,
 Galactic Federation,#330077,x
+Galactic Gossamer,#7f8cb8,x
+Galactic Grapevine,#6b327b,x
 Galactic Highway,#3311bb,x
 Galactic Mediator,#e0dfdb,
 Galactic Purple,#472e97,x
@@ -13359,6 +13371,7 @@ Inked,#3b5066,
 Inked Silk,#d9dce4,
 Inkjet,#44556b,x
 Inkwell,#31363a,
+Inkwell Inception,#1e1e21,x
 Inky Blue,#4e7287,
 Inky Storm,#535266,
 Inky Violet,#747b9f,
@@ -15647,6 +15660,7 @@ Luminescent Lime,#b9ff66,
 Luminescent Pink,#f984ef,
 Luminescent Sky,#cafffb,
 Luminous Apricot,#ecbf55,
+Luminous Lavender,#bf8fe5,
 Luminous Light,#bbaeb9,
 Luminous Pink,#dc6c84,
 Luminous Yellow,#fee37f,
@@ -16723,8 +16737,10 @@ Midnight Interlude,#32496f,x
 Midnight Iris,#484d61,
 Midnight Jam,#0b0119,
 Midnight Magic,#46474a,
+Midnight Masquerade,#2c2e47,x
 Midnight Melancholia,#002266,x
 Midnight Merlot,#880044,
+Midnight Mirage,#001f3f,x
 Midnight Mosaic,#3d5267,
 Midnight Moss,#242e28,
 Midnight Navy,#364251,
@@ -16739,6 +16755,7 @@ Midnight Show,#546473,
 Midnight Sky,#424753,x
 Midnight Spruce,#555b53,
 Midnight Sun,#4e5a6d,
+Midnight Velvet,#2a2243,x
 Midnight Violet,#6a75ad,
 Midori,#2a603b,x
 Midori Green,#3eb370,
@@ -16943,6 +16960,7 @@ Mintastic,#afffd5,x
 Minted,#e0ead8,
 Minted Blue,#26a6be,
 Minted Blueberry Lemonade,#b32651,x
+Minted Elegance,#6ec9a3,x
 Minted Ice,#d8f3eb,
 Minted Lemon,#c1c6a8,
 Mintie,#abf4d2,
@@ -17071,6 +17089,7 @@ Mocha Black,#6f5b52,
 Mocha Brown,#6b565e,
 Mocha Cake,#beaf93,
 Mocha Dandelion,#f1d96e,
+Mocha Delight,#8e664e,x
 Mocha Foam,#bba28e,
 Mocha Glow,#773322,
 Mocha Ice,#dfd2ca,x
@@ -17941,6 +17960,7 @@ Nephrite,#6d9288,
 Neptune,#007dac,
 Neptune Blue,#2e5d9d,
 Neptune Green,#7fbb9e,x
+Neptune’s Dream,#003368,x
 Neptune’s Wrath,#11425d,
 Nereus,#4c793c,
 Nero,#252525,x
@@ -20473,6 +20493,7 @@ Pisco Sour,#beeb71,x
 Pismo Dunes,#f4d6a4,
 Pistachio,#93c572,x
 Pistachio Cream,#c5d498,
+Pistachio Dream,#a5cf8c,
 Pistachio Flour,#4f8f00,
 Pistachio Green,#a9d39e,
 Pistachio Ice Cream,#a0b7ad,
@@ -22848,6 +22869,7 @@ Royal Fortune,#747792,
 Royal Fuchsia,#ca2c92,
 Royal Garnet,#653a3d,
 Royal Glimmer,#9791bc,
+Royal Goblet,#d4ca8e,x
 Royal Gold,#e1bc8a,
 Royal Gold Pearl,#d0a54e,
 Royal Gramma Purple,#a152bd,
@@ -23118,6 +23140,7 @@ Saffron Thread,#ffb301,
 Saffron Tint,#f2ead6,
 Saffron Valley,#a7843e,
 Saffron Yellow,#d09b2c,
+Saffronaut,#932a25,x
 Saga Blue,#75a0b1,
 Sagat Purple,#6a31ca,
 Sage,#87ae73,x
@@ -23265,6 +23288,7 @@ Salted Caramel Popcorn,#fdb251,x
 Salted Pretzel,#816b56,
 Saltpan,#eef3e5,
 Saltwater,#c2d0de,
+Saltwater Denim,#145c78,x
 Saltwater Depth,#52896b,
 Salty Breeze,#dde2d7,
 Salty Cracker,#e2c681,
@@ -23693,6 +23717,7 @@ Sea Nymph,#8aaea4,
 Sea of Atlantis,#2d535a,
 Sea of Crete,#0693d5,
 Sea of Galilee,#466590,x
+Sea of Stars,#0b334d,x
 Sea of Tears,#1d4da0,
 Sea of Tranquility,#81d1da,
 Sea Paint,#00507a,x
@@ -24703,6 +24728,7 @@ Smoke Cloud,#adb6b9,
 Smoke Dragon,#ccbbaa,x
 Smoke Green,#9fb296,
 Smoke Grey,#cebaa8,
+Smoke on the Water,#9bacb3,
 Smoke Pine,#446b61,
 Smoke Screen,#aeaeae,
 Smoke Tree,#bb5f34,
@@ -25097,6 +25123,7 @@ Soulless,#1b150d,x
 Soulmate,#85777b,
 Soulmate Pink,#ffc8e9,
 Soulstone Blue,#0047ab,
+Sound of Silence,#333b33,
 Sounds of Nature,#dfe5d7,
 Sour,#e5edb5,x
 Sour Apple,#a0ac4f,
@@ -25686,6 +25713,7 @@ Stellar Blue,#9fb5ce,
 Stellar Explorer,#002222,
 Stellar Light,#fff4dd,
 Stellar Mist,#ab9d9c,
+Stellar Strawberry,#ff5c8d,x
 Stem Green,#abdf8f,
 Stencil Blue,#b4ceda,
 Steppe Green,#7d7640,
@@ -28234,6 +28262,7 @@ Velvet Green Grey,#737866,
 Velvet Grey,#acaab3,
 Velvet Leaf,#96c193,
 Velvet Magic,#bb1155,x
+Velvet Marigold,#e58d3f,
 Velvet Mauve,#692b57,
 Velvet Morning,#6c769b,
 Velvet Outbreak,#6b1b2a,
@@ -28247,6 +28276,8 @@ Velvet Slipper,#846c76,
 Velvet Touch,#523544,
 Velvet Umber,#6b605a,
 Velvet Violet,#43354f,
+Velvet Volcano,#ab0102,x
+Velvet Vortex,#540d6e,x
 Velvet Wine,#9a435d,x
 Velveteen Crush,#936064,
 Velvety Chestnut,#a2877d,
@@ -28298,6 +28329,7 @@ Verdant,#847e35,
 Verdant Fields,#5ad33e,
 Verdant Forest,#28615d,x
 Verdant Green,#167d60,
+Verdant Haven,#84a97c,x
 Verdant Leaf,#817c4a,x
 Verdant Oasis,#62c46c,
 Verdant Serenade,#7f9e5b,
@@ -28702,6 +28734,7 @@ Walk Me Home,#496568,
 Walker Lake,#3d87bb,
 Walkie Chalkie,#faf5fa,x
 Walking Dead,#849b63,
+Walking on Sunshine,#fcfc9d,x
 Walkway,#a3999c,x
 Wall Green,#abae86,
 Wall Street,#656d73,
@@ -29161,7 +29194,7 @@ Whispering Pine,#c8cab5,
 Whispering Rain,#ececda,
 Whispering Smoke,#d8d8d4,x
 Whispering Waterfall,#e3e6db,
-Whispering Willow,#919c81,
+Whispering Willow,#919c81,x
 Whispering Winds,#b7c3bf,
 Whispery Breeze,#d6e9e6,x
 Whistler Rose,#c49e8f,

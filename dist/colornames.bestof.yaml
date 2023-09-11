@@ -536,6 +536,9 @@
   name:"Banana Cream"
   hex:"#fff49c"
 -
+  name:"Banana Drama"
+  hex:"#f1d548"
+-
   name:"Banana Flash"
   hex:"#eefe02"
 -
@@ -2198,6 +2201,9 @@
   name:"Cloud Dancer"
   hex:"#f0eee9"
 -
+  name:"Clouded Pine"
+  hex:"#628468"
+-
   name:"Cloudless"
   hex:"#d6eafc"
 -
@@ -2443,6 +2449,9 @@
 -
   name:"Cotton Candy"
   hex:"#ffbcd9"
+-
+  name:"Cotton Candy Comet"
+  hex:"#ffc3cb"
 -
   name:"Cotton Candy Explosions"
   hex:"#dd22ff"
@@ -3317,6 +3326,9 @@
   name:"Eclipse"
   hex:"#3f3939"
 -
+  name:"Eclipse Elixir"
+  hex:"#1f2133"
+-
   name:"Ecological"
   hex:"#677f70"
 -
@@ -3422,6 +3434,9 @@
   name:"Emerald Rain"
   hex:"#80c872"
 -
+  name:"Emerald Whispers"
+  hex:"#2b8478"
+-
   name:"Emergency"
   hex:"#911911"
 -
@@ -3448,6 +3463,9 @@
 -
   name:"Enchanted Lavender"
   hex:"#bfa3d9"
+-
+  name:"Enchanted Lilac"
+  hex:"#a893c1"
 -
   name:"Enchanting Ivy"
   hex:"#315955"
@@ -3553,6 +3571,12 @@
 -
   name:"Ether"
   hex:"#98b2b4"
+-
+  name:"Ethereal Espresso"
+  hex:"#3e2723"
+-
+  name:"Ethereal Mist"
+  hex:"#b0b8cc"
 -
   name:"Ethereal Moonlight"
   hex:"#d5e4ec"
@@ -4097,6 +4121,9 @@
   name:"Forest Empress"
   hex:"#3d7016"
 -
+  name:"Forest Serenade"
+  hex:"#336644"
+-
   name:"Forester"
   hex:"#9aa77c"
 -
@@ -4384,6 +4411,12 @@
 -
   name:"Galactic Federation"
   hex:"#330077"
+-
+  name:"Galactic Gossamer"
+  hex:"#7f8cb8"
+-
+  name:"Galactic Grapevine"
+  hex:"#6b327b"
 -
   name:"Galactic Highway"
   hex:"#3311bb"
@@ -5875,6 +5908,9 @@
 -
   name:"Inkjet"
   hex:"#44556b"
+-
+  name:"Inkwell Inception"
+  hex:"#1e1e21"
 -
   name:"Inland Waters"
   hex:"#7c939d"
@@ -7517,8 +7553,14 @@
   name:"Midnight Interlude"
   hex:"#32496f"
 -
+  name:"Midnight Masquerade"
+  hex:"#2c2e47"
+-
   name:"Midnight Melancholia"
   hex:"#002266"
+-
+  name:"Midnight Mirage"
+  hex:"#001f3f"
 -
   name:"Midnight Pie"
   hex:"#372d52"
@@ -7534,6 +7576,9 @@
 -
   name:"Midnight Sky"
   hex:"#424753"
+-
+  name:"Midnight Velvet"
+  hex:"#2a2243"
 -
   name:"Midori"
   hex:"#2a603b"
@@ -7625,6 +7670,9 @@
   name:"Minted Blueberry Lemonade"
   hex:"#b32651"
 -
+  name:"Minted Elegance"
+  hex:"#6ec9a3"
+-
   name:"Mintnight"
   hex:"#7cbbae"
 -
@@ -7669,6 +7717,9 @@
 -
   name:"Mocha"
   hex:"#9d7651"
+-
+  name:"Mocha Delight"
+  hex:"#8e664e"
 -
   name:"Mocha Ice"
   hex:"#dfd2ca"
@@ -8170,6 +8221,9 @@
 -
   name:"Neptune Green"
   hex:"#7fbb9e"
+-
+  name:"Neptune’s Dream"
+  hex:"#003368"
 -
   name:"Nero"
   hex:"#252525"
@@ -10310,6 +10364,9 @@
   name:"Royal Decree"
   hex:"#403547"
 -
+  name:"Royal Goblet"
+  hex:"#d4ca8e"
+-
   name:"Royal Lavender"
   hex:"#7851a9"
 -
@@ -10418,6 +10475,9 @@
   name:"Saffron Desires"
   hex:"#c24359"
 -
+  name:"Saffronaut"
+  hex:"#932a25"
+-
   name:"Sage"
   hex:"#87ae73"
 -
@@ -10498,6 +10558,9 @@
 -
   name:"Salted Caramel Popcorn"
   hex:"#fdb251"
+-
+  name:"Saltwater Denim"
+  hex:"#145c78"
 -
   name:"Salty Ice"
   hex:"#cce2f3"
@@ -10633,6 +10696,9 @@
 -
   name:"Sea of Galilee"
   hex:"#466590"
+-
+  name:"Sea of Stars"
+  hex:"#0b334d"
 -
   name:"Sea Paint"
   hex:"#00507a"
@@ -11374,6 +11440,9 @@
 -
   name:"Stellar"
   hex:"#46647e"
+-
+  name:"Stellar Strawberry"
+  hex:"#ff5c8d"
 -
   name:"Stereotypical Duck"
   hex:"#fff5cf"
@@ -12344,6 +12413,12 @@
   name:"Velvet Scarf"
   hex:"#e3dfec"
 -
+  name:"Velvet Volcano"
+  hex:"#ab0102"
+-
+  name:"Velvet Vortex"
+  hex:"#540d6e"
+-
   name:"Velvet Wine"
   hex:"#9a435d"
 -
@@ -12370,6 +12445,9 @@
 -
   name:"Verdant Forest"
   hex:"#28615d"
+-
+  name:"Verdant Haven"
+  hex:"#84a97c"
 -
   name:"Verdant Leaf"
   hex:"#817c4a"
@@ -12598,6 +12676,9 @@
 -
   name:"Walkie Chalkie"
   hex:"#faf5fa"
+-
+  name:"Walking on Sunshine"
+  hex:"#fcfc9d"
 -
   name:"Walkway"
   hex:"#a3999c"
@@ -12835,6 +12916,9 @@
 -
   name:"Whispering Smoke"
   hex:"#d8d8d4"
+-
+  name:"Whispering Willow"
+  hex:"#919c81"
 -
   name:"Whispery Breeze"
   hex:"#d6e9e6"
