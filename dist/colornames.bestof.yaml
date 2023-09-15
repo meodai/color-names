@@ -1022,6 +1022,9 @@
   name:"Bloodhound"
   hex:"#bb5511"
 -
+  name:"Bloodsport"
+  hex:"#b52f3a"
+-
   name:"Bloodthirsty"
   hex:"#880011"
 -
@@ -2278,6 +2281,9 @@
 -
   name:"Cold Blue"
   hex:"#88dddd"
+-
+  name:"Cold Brew Coffee"
+  hex:"#785736"
 -
   name:"Cold Canada"
   hex:"#dbfffe"
@@ -6506,6 +6512,9 @@
   name:"Lazy Lizard"
   hex:"#9c9c4b"
 -
+  name:"Le Grand Bleu"
+  hex:"#244e94"
+-
   name:"Lead"
   hex:"#212121"
 -
@@ -6680,6 +6689,9 @@
   name:"Lime Zest"
   hex:"#ddff00"
 -
+  name:"Limestoned"
+  hex:"#a7cca4"
+-
   name:"Limolicious"
   hex:"#97b73a"
 -
@@ -6727,6 +6739,9 @@
 -
   name:"Lipstick Illusion"
   hex:"#d4696d"
+-
+  name:"Liquid Denim"
+  hex:"#2d3796"
 -
   name:"Liquid Gold"
   hex:"#fdc675"
@@ -9017,6 +9032,9 @@
   name:"Paved With Gold"
   hex:"#e8d284"
 -
+  name:"Paying Mantis"
+  hex:"#70916c"
+-
   name:"PCB Green"
   hex:"#002d04"
 -
@@ -9631,6 +9649,9 @@
 -
   name:"Polar Expedition"
   hex:"#c9e7e3"
+-
+  name:"Polar Opposite"
+  hex:"#c2d6ec"
 -
   name:"Polar Wind"
   hex:"#b4dfed"
@@ -11525,6 +11546,9 @@
   name:"Strawberry Frappé"
   hex:"#ffa2aa"
 -
+  name:"Strawberry Memory"
+  hex:"#e2958d"
+-
   name:"Strawberry Milk"
   hex:"#ffd9e7"
 -
@@ -12448,6 +12472,9 @@
 -
   name:"Verdant Haven"
   hex:"#84a97c"
+-
+  name:"Verdant Hush"
+  hex:"#4e5a4a"
 -
   name:"Verdant Leaf"
   hex:"#817c4a"
