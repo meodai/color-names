@@ -113,7 +113,7 @@ allows you to access all the color names and names from other publicly available
 name lists. You can find the full API code and documentation
 [in this repository](https://github.com/meodai/color-name-api).
 
-#### API Exaple Call Usage
+#### API Example Call Usage
 
 ```url
 https://api.color.pizza/v1/?values=00f,f00,f00&list=bestOf
