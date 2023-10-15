@@ -12446,6 +12446,9 @@
   name:"Buttercup"
   hex:"#da9429"
 -
+  name:"Buttercup Glow"
+  hex:"#f1f458"
+-
   name:"Buttercup Yellow"
   hex:"#e3c2a3"
 -
@@ -26390,6 +26393,9 @@
   name:"Enchanted Blue"
   hex:"#047495"
 -
+  name:"Enchanted Emerald"
+  hex:"#7ed89a"
+-
   name:"Enchanted Eve"
   hex:"#79837f"
 -
@@ -28366,6 +28372,9 @@
 -
   name:"Ferntastic"
   hex:"#71ab62"
+-
+  name:"Fernweh"
+  hex:"#977b2f"
 -
   name:"Ferocious"
   hex:"#e2261f"
@@ -45105,7 +45114,7 @@
   hex:"#ecdfca"
 -
   name:"Light Red"
-  hex:"#f3d3d9"
+  hex:"#ff7f7f"
 -
   name:"Light Relax"
   hex:"#caddde"
@@ -50263,6 +50272,9 @@
 -
   name:"Midnight Navy"
   hex:"#364251"
+-
+  name:"Midnight Ocean"
+  hex:"#0f2d4d"
 -
   name:"Midnight Pearl"
   hex:"#5f6c74"
@@ -63021,7 +63033,7 @@
   hex:"#95396a"
 -
   name:"Powder Room"
-  hex:"#a14d52"
+  hex:"#eee0dd"
 -
   name:"Powder Rose"
   hex:"#f5b3bc"
@@ -78896,6 +78908,9 @@
   name:"Sunset Beige"
   hex:"#d0a584"
 -
+  name:"Sunset Blaze"
+  hex:"#e95e2a"
+-
   name:"Sunset Boulevard"
   hex:"#ff9607"
 -
@@ -87610,6 +87625,9 @@
 -
   name:"Whispering Blue"
   hex:"#c9dcdc"
+-
+  name:"Whispering Frost"
+  hex:"#d7e5d8"
 -
   name:"Whispering Grasslands"
   hex:"#ac9d64"

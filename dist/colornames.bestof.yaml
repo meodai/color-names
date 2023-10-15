@@ -1484,6 +1484,9 @@
   name:"Buttercream"
   hex:"#efe0cd"
 -
+  name:"Buttercup Glow"
+  hex:"#f1f458"
+-
   name:"Buttered Popcorn"
   hex:"#fff0a4"
 -
@@ -3461,6 +3464,9 @@
   name:"Emptiness"
   hex:"#fcfdfc"
 -
+  name:"Enchanted Emerald"
+  hex:"#7ed89a"
+-
   name:"Enchanted Forest"
   hex:"#5c821a"
 -
@@ -3803,6 +3809,9 @@
   name:"Ferntastic"
   hex:"#71ab62"
 -
+  name:"Fernweh"
+  hex:"#977b2f"
+-
   name:"Ferocious"
   hex:"#e2261f"
 -
@@ -4018,9 +4027,6 @@
 -
   name:"Flip a Coin"
   hex:"#ccddcc"
--
-  name:"Flip-Flop"
-  hex:"#f2c4a7"
 -
   name:"Flirt"
   hex:"#7a2e4d"
@@ -6627,7 +6633,7 @@
   hex:"#ffd1df"
 -
   name:"Light Red"
-  hex:"#f3d3d9"
+  hex:"#ff7f7f"
 -
   name:"Light Spirited"
   hex:"#d8eee7"
@@ -7576,6 +7582,9 @@
 -
   name:"Midnight Mirage"
   hex:"#001f3f"
+-
+  name:"Midnight Ocean"
+  hex:"#0f2d4d"
 -
   name:"Midnight Pie"
   hex:"#372d52"
@@ -8684,6 +8693,9 @@
   name:"Orange Piñata"
   hex:"#ff6611"
 -
+  name:"Orange Soda"
+  hex:"#fa5b3d"
+-
   name:"Orangealicious"
   hex:"#ee5511"
 -
@@ -9769,6 +9781,9 @@
 -
   name:"Powder Puff"
   hex:"#ffeff3"
+-
+  name:"Powder Room"
+  hex:"#eee0dd"
 -
   name:"Powdered"
   hex:"#f9f2e7"
@@ -11717,6 +11732,9 @@
   name:"Sunray"
   hex:"#e3ab57"
 -
+  name:"Sunset Blaze"
+  hex:"#e95e2a"
+-
   name:"Sunset Gold"
   hex:"#f6c362"
 -
@@ -12940,6 +12958,9 @@
 -
   name:"Whisper White"
   hex:"#eae2d3"
+-
+  name:"Whispering Frost"
+  hex:"#d7e5d8"
 -
   name:"Whispering Smoke"
   hex:"#d8d8d4"

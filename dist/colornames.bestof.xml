@@ -1981,6 +1981,10 @@
 <hex>#efe0cd</hex>
 </color>
 <color>
+<name>Buttercup Glow</name>
+<hex>#f1f458</hex>
+</color>
+<color>
 <name>Buttered Popcorn</name>
 <hex>#fff0a4</hex>
 </color>
@@ -4617,6 +4621,10 @@
 <hex>#fcfdfc</hex>
 </color>
 <color>
+<name>Enchanted Emerald</name>
+<hex>#7ed89a</hex>
+</color>
+<color>
 <name>Enchanted Forest</name>
 <hex>#5c821a</hex>
 </color>
@@ -5073,6 +5081,10 @@
 <hex>#71ab62</hex>
 </color>
 <color>
+<name>Fernweh</name>
+<hex>#977b2f</hex>
+</color>
+<color>
 <name>Ferocious</name>
 <hex>#e2261f</hex>
 </color>
@@ -5359,10 +5371,6 @@
 <color>
 <name>Flip a Coin</name>
 <hex>#ccddcc</hex>
-</color>
-<color>
-<name>Flip-Flop</name>
-<hex>#f2c4a7</hex>
 </color>
 <color>
 <name>Flirt</name>
@@ -8838,7 +8846,7 @@
 </color>
 <color>
 <name>Light Red</name>
-<hex>#f3d3d9</hex>
+<hex>#ff7f7f</hex>
 </color>
 <color>
 <name>Light Spirited</name>
@@ -10103,6 +10111,10 @@
 <color>
 <name>Midnight Mirage</name>
 <hex>#001f3f</hex>
+</color>
+<color>
+<name>Midnight Ocean</name>
+<hex>#0f2d4d</hex>
 </color>
 <color>
 <name>Midnight Pie</name>
@@ -11581,6 +11593,10 @@
 <hex>#ff6611</hex>
 </color>
 <color>
+<name>Orange Soda</name>
+<hex>#fa5b3d</hex>
+</color>
+<color>
 <name>Orangealicious</name>
 <hex>#ee5511</hex>
 </color>
@@ -13027,6 +13043,10 @@
 <color>
 <name>Powder Puff</name>
 <hex>#ffeff3</hex>
+</color>
+<color>
+<name>Powder Room</name>
+<hex>#eee0dd</hex>
 </color>
 <color>
 <name>Powdered</name>
@@ -15625,6 +15645,10 @@
 <hex>#e3ab57</hex>
 </color>
 <color>
+<name>Sunset Blaze</name>
+<hex>#e95e2a</hex>
+</color>
+<color>
 <name>Sunset Gold</name>
 <hex>#f6c362</hex>
 </color>
@@ -17255,6 +17279,10 @@
 <color>
 <name>Whisper White</name>
 <hex>#eae2d3</hex>
+</color>
+<color>
+<name>Whispering Frost</name>
+<hex>#d7e5d8</hex>
 </color>
 <color>
 <name>Whispering Smoke</name>
