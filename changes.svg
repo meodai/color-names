@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 640">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 1200">
   <defs>
     <style type="text/css">
       @import url('https://rsms.me/inter/inter.css');
@@ -9,6 +9,6 @@
       }
     </style>
   </defs>
-  <rect fill="#212121" x="0" y="0" width="600" height="640"/>
-  <text x="40" y="90" fill="#f1f458">Buttercup Glow</text><text x="40" y="160" fill="#7ed89a">Enchanted Emerald</text><text x="40" y="230" fill="#977b2f">Fernweh</text><text x="40" y="300" fill="#ff7f7f">Light Red</text><text x="40" y="370" fill="#0f2d4d">Midnight Ocean</text><text x="40" y="440" fill="#eee0dd">Powder Room</text><text x="40" y="510" fill="#e95e2a">Sunset Blaze</text><text x="40" y="580" fill="#d7e5d8">Whispering Frost</text>
+  <rect fill="#212121" x="0" y="0" width="600" height="1200"/>
+  <text x="40" y="90" fill="#978466">Antique Royal Gold</text><text x="40" y="160" fill="#a1a1a1">Artificial Intelligence Grey</text><text x="40" y="230" fill="#12abbe">Bahaman Sea</text><text x="40" y="300" fill="#ab7141">Byzantine Copper</text><text x="40" y="370" fill="#f27987">Flower Blossom Pink</text><text x="40" y="440" fill="#dfe9e3">Frosty Pink</text><text x="40" y="510" fill="#3d3c3a">Iridium</text><text x="40" y="580" fill="#8abbd0">Juvie</text><text x="40" y="650" fill="#3b3131">Oil Grey</text><text x="40" y="720" fill="#fceae6">Pink Swirl</text><text x="40" y="790" fill="#fdeae6">Quartz Light Pink</text><text x="40" y="860" fill="#ecc5c0">Rose Haze</text><text x="40" y="930" fill="#34282c">Smoky Charcoal</text><text x="40" y="1000" fill="#fdebe5">Soft Pink Mist</text><text x="40" y="1070" fill="#b9d9e7">Watercolour Sky</text><text x="40" y="1140" fill="#54c571">Zombie Green</text>
 </svg>
