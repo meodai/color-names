@@ -16,7 +16,7 @@ colors.forEach((col) => {
 
   if (tinyCol.isDark() ) {
     tinyCol.lighten(lightMod);
-  }else{
+  } else {
     tinyCol.darken(lightMod);
   }
 

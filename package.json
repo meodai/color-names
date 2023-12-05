@@ -52,5 +52,8 @@
       "path": "cz-conventional-changelog"
     }
   },
-  "dependencies": {}
+  "dependencies": {},
+  "bin": {
+    "addcolorname": "scripts/addName.js"
+  }
 }
