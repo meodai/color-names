@@ -14,7 +14,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [19.x, 18.x]
+        node-version: [19.x]
 
     steps:
     - uses: actions/checkout@v2
@@ -30,7 +30,7 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add /dist/history.json
+        git add dist/history.json
         git commit -m "Update history.json"
     # push the changes
     - name: Push changes
