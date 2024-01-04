@@ -280,6 +280,7 @@ See [package.json](package.json#L6) for more.
 , [Carrion]
 , [BlueChaos]
 , [nachtfunke]
+, Sean Gibbons
 
 ## Disclaimer 👮🏾‍
 
