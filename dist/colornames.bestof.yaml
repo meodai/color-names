@@ -920,6 +920,9 @@
   name:"Black Sabbath"
   hex:"#220022"
 -
+  name:"Black Sea Night"
+  hex:"#052462"
+-
   name:"Black Sheep"
   hex:"#0f0d0d"
 -
@@ -1396,6 +1399,9 @@
 -
   name:"Buckeye"
   hex:"#674834"
+-
+  name:"Buckingham Gardens"
+  hex:"#89a068"
 -
   name:"Bucolic"
   hex:"#1b6634"
@@ -3524,6 +3530,9 @@
   name:"Envy"
   hex:"#8ba58f"
 -
+  name:"Envy’s Love"
+  hex:"#2dd78d"
+-
   name:"Eosin Pink"
   hex:"#ff5ec4"
 -
@@ -4792,6 +4801,9 @@
 -
   name:"Goldilocks"
   hex:"#fff39a"
+-
+  name:"Goldzilla"
+  hex:"#cdd80d"
 -
   name:"Golem"
   hex:"#836e59"
@@ -6071,6 +6083,9 @@
   name:"Jade Jewel"
   hex:"#247e81"
 -
+  name:"Jade Palace"
+  hex:"#d0eed7"
+-
   name:"Jade Sea"
   hex:"#b8e0d0"
 -
@@ -7159,6 +7174,9 @@
 -
   name:"Majestic Eggplant"
   hex:"#443388"
+-
+  name:"Majestic Elk"
+  hex:"#ad9a84"
 -
   name:"Majestic Evergreen"
   hex:"#7d8878"
@@ -10415,8 +10433,14 @@
   name:"Royal"
   hex:"#0c1793"
 -
+  name:"Royal Blush"
+  hex:"#f26e54"
+-
   name:"Royal Decree"
   hex:"#403547"
+-
+  name:"Royal Flush"
+  hex:"#a0365f"
 -
   name:"Royal Goblet"
   hex:"#d4ca8e"
@@ -10453,6 +10477,9 @@
 -
   name:"Ruby"
   hex:"#ca0147"
+-
+  name:"Ruby Fire"
+  hex:"#f20769"
 -
   name:"Ruby Queen"
   hex:"#b0063d"

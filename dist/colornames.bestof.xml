@@ -1229,6 +1229,10 @@
 <hex>#220022</hex>
 </color>
 <color>
+<name>Black Sea Night</name>
+<hex>#052462</hex>
+</color>
+<color>
 <name>Black Sheep</name>
 <hex>#0f0d0d</hex>
 </color>
@@ -1863,6 +1867,10 @@
 <color>
 <name>Buckeye</name>
 <hex>#674834</hex>
+</color>
+<color>
+<name>Buckingham Gardens</name>
+<hex>#89a068</hex>
 </color>
 <color>
 <name>Bucolic</name>
@@ -4701,6 +4709,10 @@
 <hex>#8ba58f</hex>
 </color>
 <color>
+<name>Envy’s Love</name>
+<hex>#2dd78d</hex>
+</color>
+<color>
 <name>Eosin Pink</name>
 <hex>#ff5ec4</hex>
 </color>
@@ -6391,6 +6403,10 @@
 <color>
 <name>Goldilocks</name>
 <hex>#fff39a</hex>
+</color>
+<color>
+<name>Goldzilla</name>
+<hex>#cdd80d</hex>
 </color>
 <color>
 <name>Golem</name>
@@ -8097,6 +8113,10 @@
 <hex>#247e81</hex>
 </color>
 <color>
+<name>Jade Palace</name>
+<hex>#d0eed7</hex>
+</color>
+<color>
 <name>Jade Sea</name>
 <hex>#b8e0d0</hex>
 </color>
@@ -9547,6 +9567,10 @@
 <color>
 <name>Majestic Eggplant</name>
 <hex>#443388</hex>
+</color>
+<color>
+<name>Majestic Elk</name>
+<hex>#ad9a84</hex>
 </color>
 <color>
 <name>Majestic Evergreen</name>
@@ -13889,8 +13913,16 @@
 <hex>#0c1793</hex>
 </color>
 <color>
+<name>Royal Blush</name>
+<hex>#f26e54</hex>
+</color>
+<color>
 <name>Royal Decree</name>
 <hex>#403547</hex>
+</color>
+<color>
+<name>Royal Flush</name>
+<hex>#a0365f</hex>
 </color>
 <color>
 <name>Royal Goblet</name>
@@ -13939,6 +13971,10 @@
 <color>
 <name>Ruby</name>
 <hex>#ca0147</hex>
+</color>
+<color>
+<name>Ruby Fire</name>
+<hex>#f20769</hex>
 </color>
 <color>
 <name>Ruby Queen</name>
