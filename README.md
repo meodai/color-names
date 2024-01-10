@@ -135,12 +135,12 @@ consider using the [public rest API](#api-)
 #### Exact Color
 
 ```javascript
-import namedColors from 'color-name-list';
+import { colorNameList } from 'color-name-list';
 
-let someColor = namedColors.find(color => color.hex === '#ffffff');
+let someColor = colorNameList.find(color => color.hex === '#ffffff');
 console.log(someColor.name); // => white
 
-let someNamedColor = namedColors.find(color => color.name === 'Eigengrau')
+let someNamedColor = colorNameList.find(color => color.name === 'Eigengrau')
 console.log(someColor.hex); // => #16161d
 ```
 
