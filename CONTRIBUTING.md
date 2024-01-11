@@ -31,6 +31,7 @@ interactions with the project.
 - Capitalize colors: `Kind of Orange`
 - Prefer common names, especially when adding colors of flora and fauna
   (plants and animals ;) ) ex. `Venus Slipper Orchid` instead of `Paphiopedilum`.
+- Avoid ethnic & racial assumptions
 
 ## Git
 
@@ -38,9 +39,9 @@ interactions with the project.
   can run `npx cz` or `npm run commit` instead of `git commit -m`, or make sure
   to follow [conventional changelog naming rules].
 - Write your commit messages in imperative form:
-  **feat(colors): Adds fantastic new colors names.** rather then
+  **feat(colors): Add fantastic new colors names.** rather then
   feat(colors): Added new names.
-- Make sure to run `npm run build` before commiting. (No need to `npm ci` the
+- Make sure to run `npm run build` before committing. (No need to `npm ci` the
   dependencies are only needed if you need to run the API)
 
 ### Attribution
