@@ -53,5 +53,15 @@
       "path": "cz-conventional-changelog"
     }
   },
-  "dependencies": {}
+  "dependencies": {},
+  "funding": [
+    {
+      "type": "ko-fi",
+      "url": "https://ko-fi.com/colorparrot"
+    },
+    {
+      "type": "github-sponsors",
+      "url": "https://github.com/sponsors/meodai"
+    }
+  ]
 }
