@@ -5375,14 +5375,8 @@
   name:"Ballet Rose"
   hex:"#d3adb1"
 -
-  name:"Ballet Shoes"
-  hex:"#edb9bd"
--
   name:"Ballet Skirt"
   hex:"#ffc5b3"
--
-  name:"Ballet Slipper"
-  hex:"#eacad0"
 -
   name:"Ballet Slippers"
   hex:"#fca2ad"
@@ -9904,6 +9898,9 @@
 -
   name:"Blushing Senorita"
   hex:"#f3cacb"
+-
+  name:"Blushing Sky"
+  hex:"#d9b1d6"
 -
   name:"Blushing Tulip"
   hex:"#e3a1b8"
@@ -61382,6 +61379,9 @@
   name:"Pink Slip"
   hex:"#d58d8a"
 -
+  name:"Pink Slipper"
+  hex:"#eacad0"
+-
   name:"Pink Softness"
   hex:"#deb8bc"
 -
@@ -71512,6 +71512,9 @@
 -
   name:"Seashell Cove"
   hex:"#104c77"
+-
+  name:"Seashell Froth"
+  hex:"#edb9bd"
 -
   name:"Seashell Peach"
   hex:"#fff6de"

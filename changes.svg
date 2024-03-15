@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 430">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 290">
   <defs>
     <style type="text/css">
       @import url('https://rsms.me/inter/inter.css');
@@ -9,6 +9,6 @@
       }
     </style>
   </defs>
-  <rect fill="#212121" x="0" y="0" width="600" height="430"/>
-  <text x="40" y="90" fill="#5e2d10">Count Chocula</text><text x="40" y="160" fill="#e97b3e">Salsa Sizzle</text><text x="40" y="230" fill="#d85da1">Sugar Rush</text><text x="40" y="300" fill="#e6e1d9">Zürich White</text><text x="40" y="370" fill="#314159">π</text>
+  <rect fill="#212121" x="0" y="0" width="600" height="290"/>
+  <text x="40" y="90" fill="#d9b1d6">Blushing Sky</text><text x="40" y="160" fill="#eacad0">Pink Slipper</text><text x="40" y="230" fill="#edb9bd">Seashell Froth</text>
 </svg>

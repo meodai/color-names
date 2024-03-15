@@ -7169,16 +7169,8 @@
 <hex>#d3adb1</hex>
 </color>
 <color>
-<name>Ballet Shoes</name>
-<hex>#edb9bd</hex>
-</color>
-<color>
 <name>Ballet Skirt</name>
 <hex>#ffc5b3</hex>
-</color>
-<color>
-<name>Ballet Slipper</name>
-<hex>#eacad0</hex>
 </color>
 <color>
 <name>Ballet Slippers</name>
@@ -13207,6 +13199,10 @@
 <color>
 <name>Blushing Senorita</name>
 <hex>#f3cacb</hex>
+</color>
+<color>
+<name>Blushing Sky</name>
+<hex>#d9b1d6</hex>
 </color>
 <color>
 <name>Blushing Tulip</name>
@@ -81845,6 +81841,10 @@
 <hex>#d58d8a</hex>
 </color>
 <color>
+<name>Pink Slipper</name>
+<hex>#eacad0</hex>
+</color>
+<color>
 <name>Pink Softness</name>
 <hex>#deb8bc</hex>
 </color>
@@ -95351,6 +95351,10 @@
 <color>
 <name>Seashell Cove</name>
 <hex>#104c77</hex>
+</color>
+<color>
+<name>Seashell Froth</name>
+<hex>#edb9bd</hex>
 </color>
 <color>
 <name>Seashell Peach</name>
