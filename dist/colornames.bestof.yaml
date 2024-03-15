@@ -2474,6 +2474,9 @@
   name:"Cotton Field"
   hex:"#f2f0e8"
 -
+  name:"Count Chocula"
+  hex:"#5e2d10"
+-
   name:"Countryside"
   hex:"#a4a404"
 -
@@ -10499,6 +10502,9 @@
   name:"Rum"
   hex:"#716675"
 -
+  name:"Rum Swizzle"
+  hex:"#f1edd4"
+-
   name:"Run Lola Run"
   hex:"#da2811"
 -
@@ -11680,6 +11686,9 @@
 -
   name:"Sugar Quill"
   hex:"#ebe5d7"
+-
+  name:"Sugar Rush"
+  hex:"#d85da1"
 -
   name:"Sugarwinkle"
   hex:"#fdc5e3"
@@ -13411,3 +13420,6 @@
 -
   name:"Zunda Green"
   hex:"#6bc026"
+-
+  name:"π"
+  hex:"#314159"

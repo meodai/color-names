@@ -19550,6 +19550,9 @@
   name:"Cougar"
   hex:"#9a7f78"
 -
+  name:"Count Chocula"
+  hex:"#5e2d10"
+-
   name:"Count’s Wardrobe"
   hex:"#772277"
 -
@@ -69914,6 +69917,9 @@
   name:"Salsa Picante"
   hex:"#ab250b"
 -
+  name:"Salsa Sizzle"
+  hex:"#e97b3e"
+-
   name:"Salsa Verde"
   hex:"#cec754"
 -
@@ -78286,6 +78292,9 @@
 -
   name:"Sugar Quill"
   hex:"#ebe5d7"
+-
+  name:"Sugar Rush"
+  hex:"#d85da1"
 -
   name:"Sugar Rush Peach Pepper"
   hex:"#cfb599"
@@ -90721,3 +90730,6 @@
 -
   name:"Zürich White"
   hex:"#e6e1d9"
+-
+  name:"π"
+  hex:"#314159"
