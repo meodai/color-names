@@ -60374,6 +60374,12 @@
   name:"Physalis Peal"
   hex:"#e1d8bb"
 -
+  name:"Pi"
+  hex:"#314159"
+-
+  name:"Pi²"
+  hex:"#986960"
+-
   name:"Pianissimo"
   hex:"#e6d0ca"
 -
@@ -84201,7 +84207,7 @@
   hex:"#e7d8de"
 -
   name:"Unfired Clay"
-  hex:"#986960"
+  hex:"#986962"
 -
   name:"Unforgettably Gold"
   hex:"#ae8245"
@@ -90733,6 +90739,3 @@
 -
   name:"Zürich White"
   hex:"#e6e1d9"
--
-  name:"π"
-  hex:"#314159"

@@ -12469,6 +12469,10 @@
 <hex>#00aa00</hex>
 </color>
 <color>
+<name>Pi</name>
+<hex>#314159</hex>
+</color>
+<color>
 <name>Piano Black</name>
 <hex>#17171a</hex>
 </color>
@@ -17903,9 +17907,5 @@
 <color>
 <name>Zunda Green</name>
 <hex>#6bc026</hex>
-</color>
-<color>
-<name>π</name>
-<hex>#314159</hex>
 </color>
 </colors>

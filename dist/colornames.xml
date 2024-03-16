@@ -80501,6 +80501,14 @@
 <hex>#e1d8bb</hex>
 </color>
 <color>
+<name>Pi</name>
+<hex>#314159</hex>
+</color>
+<color>
+<name>Pi²</name>
+<hex>#986960</hex>
+</color>
+<color>
 <name>Pianissimo</name>
 <hex>#e6d0ca</hex>
 </color>
@@ -112270,7 +112278,7 @@
 </color>
 <color>
 <name>Unfired Clay</name>
-<hex>#986960</hex>
+<hex>#986962</hex>
 </color>
 <color>
 <name>Unforgettably Gold</name>
@@ -120979,9 +120987,5 @@
 <color>
 <name>Zürich White</name>
 <hex>#e6e1d9</hex>
-</color>
-<color>
-<name>π</name>
-<hex>#314159</hex>
 </color>
 </colors>
