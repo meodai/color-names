@@ -7598,6 +7598,9 @@
   name:"Midnight Dreams"
   hex:"#002233"
 -
+  name:"Midnight Edition"
+  hex:"#0c121b"
+-
   name:"Midnight Express"
   hex:"#21263a"
 -
@@ -9098,9 +9101,6 @@
   name:"Peach Beach"
   hex:"#fdcfa1"
 -
-  name:"Peach Beauty"
-  hex:"#e7c3ab"
--
   name:"Peach Bud"
   hex:"#fdb2ab"
 -
@@ -9205,6 +9205,9 @@
 -
   name:"Pebble Beach"
   hex:"#7f8285"
+-
+  name:"Pecan"
+  hex:"#a67253"
 -
   name:"Pedigrey"
   hex:"#8f8e8c"
@@ -11645,6 +11648,9 @@
   name:"Stroopwafel"
   hex:"#a86f48"
 -
+  name:"Sub-Zero"
+  hex:"#57a1ce"
+-
   name:"Submerged"
   hex:"#4a7d82"
 -
@@ -11834,7 +11840,7 @@
   name:"Supremely Cool"
   hex:"#afbed4"
 -
-  name:"Surgical Green"
+  name:"Surgical"
   hex:"#59a4c1"
 -
   name:"Swamp Monster"
@@ -13117,9 +13123,6 @@
 -
   name:"Wild Horses"
   hex:"#8d6747"
--
-  name:"Wild Rice"
-  hex:"#d5bfb4"
 -
   name:"Wild Violet"
   hex:"#63209b"

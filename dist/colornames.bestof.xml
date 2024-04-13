@@ -10133,6 +10133,10 @@
 <hex>#002233</hex>
 </color>
 <color>
+<name>Midnight Edition</name>
+<hex>#0c121b</hex>
+</color>
+<color>
 <name>Midnight Express</name>
 <hex>#21263a</hex>
 </color>
@@ -12133,10 +12137,6 @@
 <hex>#fdcfa1</hex>
 </color>
 <color>
-<name>Peach Beauty</name>
-<hex>#e7c3ab</hex>
-</color>
-<color>
 <name>Peach Bud</name>
 <hex>#fdb2ab</hex>
 </color>
@@ -12275,6 +12275,10 @@
 <color>
 <name>Pebble Beach</name>
 <hex>#7f8285</hex>
+</color>
+<color>
+<name>Pecan</name>
+<hex>#a67253</hex>
 </color>
 <color>
 <name>Pedigrey</name>
@@ -15529,6 +15533,10 @@
 <hex>#a86f48</hex>
 </color>
 <color>
+<name>Sub-Zero</name>
+<hex>#57a1ce</hex>
+</color>
+<color>
 <name>Submerged</name>
 <hex>#4a7d82</hex>
 </color>
@@ -15781,7 +15789,7 @@
 <hex>#afbed4</hex>
 </color>
 <color>
-<name>Surgical Green</name>
+<name>Surgical</name>
 <hex>#59a4c1</hex>
 </color>
 <color>
@@ -17491,10 +17499,6 @@
 <color>
 <name>Wild Horses</name>
 <hex>#8d6747</hex>
-</color>
-<color>
-<name>Wild Rice</name>
-<hex>#d5bfb4</hex>
 </color>
 <color>
 <name>Wild Violet</name>

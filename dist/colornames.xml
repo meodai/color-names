@@ -8637,10 +8637,6 @@
 <hex>#5f8748</hex>
 </color>
 <color>
-<name>Beatrice</name>
-<hex>#bebad9</hex>
-</color>
-<color>
 <name>Beau Blue</name>
 <hex>#bcd4e6</hex>
 </color>
@@ -13527,10 +13523,6 @@
 <color>
 <name>Bonfire</name>
 <hex>#f78058</hex>
-</color>
-<color>
-<name>Bonfire Flame</name>
-<hex>#ce4e35</hex>
 </color>
 <color>
 <name>Bonfire Night</name>
@@ -61589,10 +61581,6 @@
 <hex>#0a0502</hex>
 </color>
 <color>
-<name>Liquorice Black</name>
-<hex>#352d32</hex>
-</color>
-<color>
 <name>Liquorice Green</name>
 <hex>#2a4041</hex>
 </color>
@@ -67023,6 +67011,10 @@
 <color>
 <name>Midnight Dreams</name>
 <hex>#002233</hex>
+</color>
+<color>
+<name>Midnight Edition</name>
+<hex>#0c121b</hex>
 </color>
 <color>
 <name>Midnight Escape</name>
@@ -78433,12 +78425,8 @@
 <hex>#a4bf20</hex>
 </color>
 <color>
-<name>Pea Aubergine Green</name>
+<name>Pea Aubergine</name>
 <hex>#7c9865</hex>
-</color>
-<color>
-<name>Pea Case</name>
-<hex>#709d3d</hex>
 </color>
 <color>
 <name>Pea Green</name>
@@ -78447,10 +78435,6 @@
 <color>
 <name>Pea Soup</name>
 <hex>#929901</hex>
-</color>
-<color>
-<name>Pea Soup Green</name>
-<hex>#94a617</hex>
 </color>
 <color>
 <name>Peabody</name>
@@ -78519,10 +78503,6 @@
 <color>
 <name>Peach</name>
 <hex>#ffb07c</hex>
-</color>
-<color>
-<name>Peach A La Mode</name>
-<hex>#efc9aa</hex>
 </color>
 <color>
 <name>Peach Amber</name>
@@ -79017,10 +78997,6 @@
 <hex>#82b185</hex>
 </color>
 <color>
-<name>Peapod Green</name>
-<hex>#8e916d</hex>
-</color>
-<color>
 <name>Pear</name>
 <hex>#d1e231</hex>
 </color>
@@ -79189,10 +79165,6 @@
 <hex>#7b9459</hex>
 </color>
 <color>
-<name>Peas In A Pod</name>
-<hex>#a9d689</hex>
-</color>
-<color>
 <name>Peas Please</name>
 <hex>#8c7f3c</hex>
 </color>
@@ -79274,10 +79246,6 @@
 </color>
 <color>
 <name>Pecan</name>
-<hex>#b17d64</hex>
-</color>
-<color>
-<name>Pecan Brown</name>
 <hex>#a67253</hex>
 </color>
 <color>
@@ -79289,7 +79257,7 @@
 <hex>#e09f78</hex>
 </color>
 <color>
-<name>Peche</name>
+<name>Pêche</name>
 <hex>#fddcb7</hex>
 </color>
 <color>
@@ -79603,14 +79571,6 @@
 <color>
 <name>Peppy Pineapple</name>
 <hex>#ffff44</hex>
-</color>
-<color>
-<name>Peptalk</name>
-<hex>#0060a6</hex>
-</color>
-<color>
-<name>Pepto</name>
-<hex>#e8a2b9</hex>
 </color>
 <color>
 <name>Pêra Rocha</name>
@@ -88225,10 +88185,6 @@
 <hex>#bfbac0</hex>
 </color>
 <color>
-<name>Red Liquorice</name>
-<hex>#a83e4c</hex>
-</color>
-<color>
 <name>Red Lust</name>
 <hex>#b4090d</hex>
 </color>
@@ -88753,6 +88709,10 @@
 <hex>#f0ead7</hex>
 </color>
 <color>
+<name>Reductant</name>
+<hex>#e55e58</hex>
+</color>
+<color>
 <name>Redwing</name>
 <hex>#98010d</hex>
 </color>
@@ -89199,6 +89159,10 @@
 <color>
 <name>Reptilian Green</name>
 <hex>#009e82</hex>
+</color>
+<color>
+<name>Reptilian Leader</name>
+<hex>#8f9961</hex>
 </color>
 <color>
 <name>Republican</name>
@@ -104105,6 +104069,10 @@
 <hex>#d1d8dd</hex>
 </color>
 <color>
+<name>Sub-Zero</name>
+<hex>#57a1ce</hex>
+</color>
+<color>
 <name>Subaqueous</name>
 <hex>#00576f</hex>
 </color>
@@ -105689,11 +105657,11 @@
 <hex>#9acad3</hex>
 </color>
 <color>
-<name>Surgeon Green</name>
+<name>Surgeon</name>
 <hex>#009f6b</hex>
 </color>
 <color>
-<name>Surgical Green</name>
+<name>Surgical</name>
 <hex>#59a4c1</hex>
 </color>
 <color>

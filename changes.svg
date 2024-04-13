@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 710">
   <defs>
     <style type="text/css">
       @import url('https://rsms.me/inter/inter.css');
@@ -9,6 +9,6 @@
       }
     </style>
   </defs>
-  <rect fill="#212121" x="0" y="0" width="600" height="360"/>
-  <text x="40" y="90" fill="#314159">Pi</text><text x="40" y="160" fill="#986960">Pi²</text><text x="40" y="230" fill="#986962">Unfired Clay</text><text x="40" y="300" fill="#e6e1d9">Zürich White</text>
+  <rect fill="#212121" x="0" y="0" width="600" height="710"/>
+  <text x="40" y="90" fill="#0c121b">Midnight Edition</text><text x="40" y="160" fill="#7c9865">Pea Aubergine</text><text x="40" y="230" fill="#a67253">Pecan</text><text x="40" y="300" fill="#fddcb7">Pêche</text><text x="40" y="370" fill="#e55e58">Reductant</text><text x="40" y="440" fill="#8f9961">Reptilian Leader</text><text x="40" y="510" fill="#57a1ce">Sub-Zero</text><text x="40" y="580" fill="#009f6b">Surgeon</text><text x="40" y="650" fill="#59a4c1">Surgical</text>
 </svg>
