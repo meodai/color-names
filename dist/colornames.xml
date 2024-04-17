@@ -2333,16 +2333,8 @@
 <hex>#fab75a</hex>
 </color>
 <color>
-<name>Amberglow</name>
-<hex>#dc793e</hex>
-</color>
-<color>
 <name>Amberized</name>
 <hex>#aa8559</hex>
-</color>
-<color>
-<name>Amberlight</name>
-<hex>#e2bea2</hex>
 </color>
 <color>
 <name>Ambience White</name>
@@ -5951,10 +5943,6 @@
 <color>
 <name>Aurora</name>
 <hex>#ebd147</hex>
-</color>
-<color>
-<name>Aurora Brown</name>
-<hex>#6a4238</hex>
 </color>
 <color>
 <name>Aurora Green</name>
@@ -26053,6 +26041,10 @@
 <hex>#f5e6c7</hex>
 </color>
 <color>
+<name>Couch</name>
+<hex>#4e2a20</hex>
+</color>
+<color>
 <name>Cougar</name>
 <hex>#9a7f78</hex>
 </color>
@@ -26923,6 +26915,10 @@
 <color>
 <name>Crepe Silk White</name>
 <hex>#f0eee3</hex>
+</color>
+<color>
+<name>Crepuscular</name>
+<hex>#e7dcce</hex>
 </color>
 <color>
 <name>Crescendo</name>
@@ -51205,10 +51201,6 @@
 <hex>#b28c4b</hex>
 </color>
 <color>
-<name>Honey N Cream</name>
-<hex>#f1dcb7</hex>
-</color>
-<color>
 <name>Honey Nectar</name>
 <hex>#f1dda2</hex>
 </color>
@@ -51227,10 +51219,6 @@
 <color>
 <name>Honey Pink</name>
 <hex>#cc99aa</hex>
-</color>
-<color>
-<name>Honey Pot</name>
-<hex>#ffc863</hex>
 </color>
 <color>
 <name>Honey Robber</name>
@@ -51302,7 +51290,7 @@
 </color>
 <color>
 <name>Honeypot</name>
-<hex>#f6deb3</hex>
+<hex>#ffc863</hex>
 </color>
 <color>
 <name>Honeysuckle</name>
@@ -71161,6 +71149,10 @@
 <hex>#398467</hex>
 </color>
 <color>
+<name>Mythical Night</name>
+<hex>#1c2e63</hex>
+</color>
+<color>
 <name>Mythical Orange</name>
 <hex>#ff7f49</hex>
 </color>
@@ -72959,6 +72951,10 @@
 <color>
 <name>Noir Fiction</name>
 <hex>#150811</hex>
+</color>
+<color>
+<name>Noir Mystique</name>
+<hex>#1f180a</hex>
 </color>
 <color>
 <name>Nomad</name>
@@ -80117,10 +80113,6 @@
 <hex>#66cccc</hex>
 </color>
 <color>
-<name>Petrichor Brown</name>
-<hex>#6a4345</hex>
-</color>
-<color>
 <name>Petrified</name>
 <hex>#8b8680</hex>
 </color>
@@ -85043,6 +85035,10 @@
 <color>
 <name>Proton Red</name>
 <hex>#840804</hex>
+</color>
+<color>
+<name>Protoss</name>
+<hex>#e0c778</hex>
 </color>
 <color>
 <name>Protoss Pylon</name>
@@ -118025,16 +118021,8 @@
 <hex>#aa83a4</hex>
 </color>
 <color>
-<name>Will</name>
-<hex>#179fa6</hex>
-</color>
-<color>
-<name>Will O the Wisp</name>
+<name>Will o’ the Wisp</name>
 <hex>#d7d8dd</hex>
-</color>
-<color>
-<name>William</name>
-<hex>#53736f</hex>
 </color>
 <color>
 <name>Williams Pear Yellow</name>
@@ -118287,10 +118275,6 @@
 <color>
 <name>Winds Breath</name>
 <hex>#e0e1da</hex>
-</color>
-<color>
-<name>Windsong</name>
-<hex>#f4e4af</hex>
 </color>
 <color>
 <name>Windsor</name>

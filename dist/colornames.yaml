@@ -1748,14 +1748,8 @@
   name:"Amber Yellow"
   hex:"#fab75a"
 -
-  name:"Amberglow"
-  hex:"#dc793e"
--
   name:"Amberized"
   hex:"#aa8559"
--
-  name:"Amberlight"
-  hex:"#e2bea2"
 -
   name:"Ambience White"
   hex:"#e7e7e6"
@@ -4462,9 +4456,6 @@
 -
   name:"Aurora"
   hex:"#ebd147"
--
-  name:"Aurora Brown"
-  hex:"#6a4238"
 -
   name:"Aurora Green"
   hex:"#6adc99"
@@ -19538,6 +19529,9 @@
   name:"Cottonseed"
   hex:"#f5e6c7"
 -
+  name:"Couch"
+  hex:"#4e2a20"
+-
   name:"Cougar"
   hex:"#9a7f78"
 -
@@ -20191,6 +20185,9 @@
 -
   name:"Crepe Silk White"
   hex:"#f0eee3"
+-
+  name:"Crepuscular"
+  hex:"#e7dcce"
 -
   name:"Crescendo"
   hex:"#e3df84"
@@ -38402,9 +38399,6 @@
   name:"Honey Mustard"
   hex:"#b28c4b"
 -
-  name:"Honey N Cream"
-  hex:"#f1dcb7"
--
   name:"Honey Nectar"
   hex:"#f1dda2"
 -
@@ -38419,9 +38413,6 @@
 -
   name:"Honey Pink"
   hex:"#cc99aa"
--
-  name:"Honey Pot"
-  hex:"#ffc863"
 -
   name:"Honey Robber"
   hex:"#dfbb86"
@@ -38475,7 +38466,7 @@
   hex:"#d7bb80"
 -
   name:"Honeypot"
-  hex:"#f6deb3"
+  hex:"#ffc863"
 -
   name:"Honeysuckle"
   hex:"#e8ed69"
@@ -53369,6 +53360,9 @@
   name:"Mythical Forest"
   hex:"#398467"
 -
+  name:"Mythical Night"
+  hex:"#1c2e63"
+-
   name:"Mythical Orange"
   hex:"#ff7f49"
 -
@@ -54718,6 +54712,9 @@
 -
   name:"Noir Fiction"
   hex:"#150811"
+-
+  name:"Noir Mystique"
+  hex:"#1f180a"
 -
   name:"Nomad"
   hex:"#a19986"
@@ -60086,9 +60083,6 @@
   name:"Petrichor"
   hex:"#66cccc"
 -
-  name:"Petrichor Brown"
-  hex:"#6a4345"
--
   name:"Petrified"
   hex:"#8b8680"
 -
@@ -63781,6 +63775,9 @@
 -
   name:"Proton Red"
   hex:"#840804"
+-
+  name:"Protoss"
+  hex:"#e0c778"
 -
   name:"Protoss Pylon"
   hex:"#00aaff"
@@ -88517,14 +88514,8 @@
   name:"Wilhelminian Pink"
   hex:"#aa83a4"
 -
-  name:"Will"
-  hex:"#179fa6"
--
-  name:"Will O the Wisp"
+  name:"Will o’ the Wisp"
   hex:"#d7d8dd"
--
-  name:"William"
-  hex:"#53736f"
 -
   name:"Williams Pear Yellow"
   hex:"#ddc765"
@@ -88714,9 +88705,6 @@
 -
   name:"Winds Breath"
   hex:"#e0e1da"
--
-  name:"Windsong"
-  hex:"#f4e4af"
 -
   name:"Windsor"
   hex:"#462c77"
