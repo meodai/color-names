@@ -899,6 +899,9 @@
   name:"Akira Red"
   hex:"#e12120"
 -
+  name:"Akuma"
+  hex:"#d63136"
+-
   name:"Akuma’s Fury"
   hex:"#871646"
 -
@@ -8950,6 +8953,9 @@
 -
   name:"Blue Exult"
   hex:"#2b2f43"
+-
+  name:"Blue Eye Samurai"
+  hex:"#75aebd"
 -
   name:"Blue Eyed Boy"
   hex:"#87bde3"
@@ -41735,6 +41741,9 @@
   name:"June Day"
   hex:"#ffe182"
 -
+  name:"June Ivy"
+  hex:"#416858"
+-
   name:"June Vision"
   hex:"#f1f1da"
 -
@@ -42605,13 +42614,10 @@
   name:"Kiwi Crush"
   hex:"#7bc027"
 -
-  name:"Kiwi Fruit"
-  hex:"#9daa4d"
--
   name:"Kiwi Green"
   hex:"#8ee53f"
 -
-  name:"Kiwi Ice Cream Green"
+  name:"Kiwi Ice Cream"
   hex:"#e5e7a7"
 -
   name:"Kiwi Kiss"
@@ -42620,7 +42626,7 @@
   name:"Kiwi Pulp"
   hex:"#9cef43"
 -
-  name:"Kiwi Sorbet Green"
+  name:"Kiwi Sorbet"
   hex:"#dee8be"
 -
   name:"Kiwi Squeeze"
@@ -42667,6 +42673,9 @@
 -
   name:"Knock On Wood"
   hex:"#9f9b84"
+-
+  name:"Knockout"
+  hex:"#c42b2d"
 -
   name:"Knockout Orange"
   hex:"#e16f3e"
@@ -82039,6 +82048,9 @@
 -
   name:"Tlāloc Blue"
   hex:"#316f82"
+-
+  name:"To Hell and Black"
+  hex:"#25212a"
 -
   name:"Toad"
   hex:"#748d70"

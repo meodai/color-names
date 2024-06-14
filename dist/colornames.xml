@@ -1201,6 +1201,10 @@
 <hex>#e12120</hex>
 </color>
 <color>
+<name>Akuma</name>
+<hex>#d63136</hex>
+</color>
+<color>
 <name>Akuma’s Fury</name>
 <hex>#871646</hex>
 </color>
@@ -11935,6 +11939,10 @@
 <color>
 <name>Blue Exult</name>
 <hex>#2b2f43</hex>
+</color>
+<color>
+<name>Blue Eye Samurai</name>
+<hex>#75aebd</hex>
 </color>
 <color>
 <name>Blue Eyed Boy</name>
@@ -55649,6 +55657,10 @@
 <hex>#ffe182</hex>
 </color>
 <color>
+<name>June Ivy</name>
+<hex>#416858</hex>
+</color>
+<color>
 <name>June Vision</name>
 <hex>#f1f1da</hex>
 </color>
@@ -56809,15 +56821,11 @@
 <hex>#7bc027</hex>
 </color>
 <color>
-<name>Kiwi Fruit</name>
-<hex>#9daa4d</hex>
-</color>
-<color>
 <name>Kiwi Green</name>
 <hex>#8ee53f</hex>
 </color>
 <color>
-<name>Kiwi Ice Cream Green</name>
+<name>Kiwi Ice Cream</name>
 <hex>#e5e7a7</hex>
 </color>
 <color>
@@ -56829,7 +56837,7 @@
 <hex>#9cef43</hex>
 </color>
 <color>
-<name>Kiwi Sorbet Green</name>
+<name>Kiwi Sorbet</name>
 <hex>#dee8be</hex>
 </color>
 <color>
@@ -56891,6 +56899,10 @@
 <color>
 <name>Knock On Wood</name>
 <hex>#9f9b84</hex>
+</color>
+<color>
+<name>Knockout</name>
+<hex>#c42b2d</hex>
 </color>
 <color>
 <name>Knockout Orange</name>
@@ -109387,6 +109399,10 @@
 <color>
 <name>Tlāloc Blue</name>
 <hex>#316f82</hex>
+</color>
+<color>
+<name>To Hell and Black</name>
+<hex>#25212a</hex>
 </color>
 <color>
 <name>Toad</name>
