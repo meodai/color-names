@@ -222,7 +222,7 @@ See [package.json](package.json#L6) for more.
 
 ### Sponsors
 
-<!-- sponsors --><!-- sponsors -->
+<!-- sponsors --><a href="https://github.com/dy"><img src="https://github.com/dy.png" width="60px" alt="Dmitry Iv." /></a><a href="https://github.com/someguy9"><img src="https://github.com/someguy9.png" width="60px" alt="Andy Feliciotti" /></a><a href="https://github.com/CanadaHonk"><img src="https://github.com/CanadaHonk.png" width="60px" alt="Oliver Medhurst" /></a><!-- sponsors -->
 
 ### Past Sponsors
 
