@@ -71,14 +71,22 @@ colorsSrc.values['name'].forEach((name) => {
 });
 
 // loop good name markers
-colorsSrc.values['good name'].forEach((str) => {
+colorsSrc.values[bestOfKey].forEach((str) => {
   // check for spaces
   if (spacesValidation.test(str)) {
-    log('"good name" marker', str, `${str} found either a leading or trailing space (or both)`);
+    log(
+      `"${bestOfKey}" marker'`,
+      str,
+      `${str} found either a leading or trailing space (or both)`
+    );
   }
 
-  if (!(str == 'x' || str == '')) {
-    log('"good name" marker', str, `${str} must be a lowercase "x" character or empty`);
+  if (!(str == "x" || str == "")) {
+    log(
+      `"${bestOfKey}" marker`,
+      str,
+      `${str} must be a lowercase "x" character or empty`
+    );
   }
 });
 
@@ -101,7 +109,7 @@ const JSONExportString = JSON.stringify(
 
 const JSONExportStringBestOf = JSON.stringify(
   [...colorsSrc.entires].filter(
-    (val) => (val['good name'])
+    (val) => (val[bestOfKey])
   ).map( // removes good name attributes
     (val) => ({
       name: val.name,
@@ -127,7 +135,7 @@ const miniJSONExportObj = colorsSrc.entires.reduce((obj, entry) => {
 }, {});
 
 const miniJSONExportObjBestOf = colorsSrc.entires.reduce((obj, entry) => {
-  if(entry['good name']) {
+  if(entry[bestOfKey]) {
     obj[entry.hex.replace('#', '')] = entry.name;
   }
   return obj;
@@ -242,7 +250,7 @@ for (const outputFormat in outputFormats) {
 for (const outputFormat in outputFormats) {
   if (outputFormats[outputFormat]) {
     let outputString = objArrToString(
-      colorsSrc.entires.filter((val) => (val['good name'])),
+      colorsSrc.entires.filter((val) => (val[bestOfKey])),
       csvKeys,
       outputFormats[outputFormat]
     );
