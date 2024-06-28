@@ -222,23 +222,17 @@ See [package.json](package.json#L6) for more.
 
 ### Sponsors
 
-#### Gold
+<!-- sponsors --><!-- sponsors -->
 
-- [Colorful Dots] 500USD/year
+### Past Sponsors
 
-#### Silver
-
-- [neverything] 25USD/month
-- [Dmitry Iv.] 10USD/month
-- [colorkit.co] 10USD/month
-
-#### Bronze
-
+- [Colorful Dots] 500USD
 - [krissymashinsky.com] 300USD
 - [color.museum] 100CHF
 - [@tunnckoCore] 50USD
 - [Myriam Aerne] 20CHF
 - [Amin] 15USD
+- [neverything] 25USD/month
 
 ### Project Costs USD
 
