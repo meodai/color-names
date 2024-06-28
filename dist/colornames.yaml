@@ -1427,6 +1427,9 @@
   name:"Alphabet Blue"
   hex:"#abcdef"
 -
+  name:"Alphabet Soup"
+  hex:"#fedcba"
+-
   name:"Alpine"
   hex:"#ad8a3b"
 -
@@ -4480,6 +4483,9 @@
 -
   name:"Aurora Splendor"
   hex:"#595682"
+-
+  name:"Aurora Teal"
+  hex:"#72b2af"
 -
   name:"Austere"
   hex:"#726848"
@@ -30328,6 +30334,9 @@
 -
   name:"Frank Lloyd White"
   hex:"#efebdb"
+-
+  name:"Franken Berry"
+  hex:"#e5989c"
 -
   name:"Frankenstein"
   hex:"#7ba05b"
@@ -59387,9 +59396,6 @@
   name:"Pearly White"
   hex:"#feefd3"
 -
-  name:"Peas in a Pod"
-  hex:"#7b9459"
--
   name:"Peas Please"
   hex:"#8c7f3c"
 -
@@ -72758,6 +72764,9 @@
   name:"Shiva Blue"
   hex:"#99dbfe"
 -
+  name:"Shivering Green"
+  hex:"#24dd7e"
+-
   name:"Shock Jockey"
   hex:"#bb88aa"
 -
@@ -83938,6 +83947,9 @@
 -
   name:"Two Harbours"
   hex:"#bed3e1"
+-
+  name:"Two Peas in a Pod"
+  hex:"#a5ca4f"
 -
   name:"Typewriter Ink"
   hex:"#4c5053"
