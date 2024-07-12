@@ -3,7 +3,7 @@
 # getImageColors 'https://upload.wikimedia.org/wikipedia/commons/a/a1/AmstradCPC_palette.png' cpc 32
 # creates a cpc.txt with 32 colors from the download picture
 
-# ! uses gawk (berw install gawk) & imagemagick (brew install imagemagick)
+# ! uses gawk (brew install gawk) & imagemagick (brew install imagemagick)
 
 curl "$1" > "$2.png" &&
 convert "$2.png" -colors $3 -depth 8 -format '%c' histogram:info:- \
