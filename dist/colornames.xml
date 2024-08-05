@@ -1229,10 +1229,6 @@
 <hex>#dfd4bf</hex>
 </color>
 <color>
-<name>Aladdin’s Feather</name>
-<hex>#5500ff</hex>
-</color>
-<color>
 <name>Alaea</name>
 <hex>#81585b</hex>
 </color>
@@ -5371,6 +5367,10 @@
 <color>
 <name>Asian Pear</name>
 <hex>#ae9156</hex>
+</color>
+<color>
+<name>Asian Spice</name>
+<hex>#118822</hex>
 </color>
 <color>
 <name>Asian Violet</name>
@@ -48253,38 +48253,6 @@
 <hex>#d6cfbf</hex>
 </color>
 <color>
-<name>Gypsy</name>
-<hex>#e59368</hex>
-</color>
-<color>
-<name>Gypsy Canvas</name>
-<hex>#b7a467</hex>
-</color>
-<color>
-<name>Gypsy Caravan</name>
-<hex>#d1c8d7</hex>
-</color>
-<color>
-<name>Gypsy Dancer</name>
-<hex>#c07c7b</hex>
-</color>
-<color>
-<name>Gypsy Jewels</name>
-<hex>#613a57</hex>
-</color>
-<color>
-<name>Gypsy Magic</name>
-<hex>#917d82</hex>
-</color>
-<color>
-<name>Gypsy Red</name>
-<hex>#b6363b</hex>
-</color>
-<color>
-<name>Gypsy’s Gown</name>
-<hex>#a698a8</hex>
-</color>
-<color>
 <name>H₂O</name>
 <hex>#bfe1e6</hex>
 </color>
@@ -49311,10 +49279,6 @@
 <color>
 <name>Heart Chakra</name>
 <hex>#5bbd7f</hex>
-</color>
-<color>
-<name>Heart Gold</name>
-<hex>#808000</hex>
 </color>
 <color>
 <name>Heart of Gold</name>
@@ -55925,10 +55889,6 @@
 <hex>#816d5a</hex>
 </color>
 <color>
-<name>Kaffir Lime</name>
-<hex>#b9ab85</hex>
-</color>
-<color>
 <name>Kahili</name>
 <hex>#b7bfb0</hex>
 </color>
@@ -60017,10 +59977,6 @@
 <hex>#d6e4d4</hex>
 </color>
 <color>
-<name>Light Naked Pink</name>
-<hex>#e2d4e1</hex>
-</color>
-<color>
 <name>Light Nougat</name>
 <hex>#fbe6c7</hex>
 </color>
@@ -60063,10 +60019,6 @@
 <color>
 <name>Light Orchid Haze</name>
 <hex>#d6cdd0</hex>
-</color>
-<color>
-<name>Light Oriental Blush</name>
-<hex>#e1d4e8</hex>
 </color>
 <color>
 <name>Light Otto Ice</name>
@@ -63975,6 +63927,10 @@
 <color>
 <name>Makore Veneer Red</name>
 <hex>#6e2f2c</hex>
+</color>
+<color>
+<name>Makrut Lime</name>
+<hex>#688c43</hex>
 </color>
 <color>
 <name>Malabar</name>
@@ -71077,6 +71033,10 @@
 <hex>#edebb4</hex>
 </color>
 <color>
+<name>Mystic Nights</name>
+<hex>#4b2c74</hex>
+</color>
+<color>
 <name>Mystic Opal</name>
 <hex>#fbddbe</hex>
 </color>
@@ -71237,20 +71197,8 @@
 <hex>#c93756</hex>
 </color>
 <color>
-<name>Naked Lady</name>
-<hex>#d6b3a9</hex>
-</color>
-<color>
-<name>Naked Light</name>
-<hex>#e9b6c1</hex>
-</color>
-<color>
 <name>Naked Noodle</name>
 <hex>#f7cb6e</hex>
-</color>
-<color>
-<name>Naked Pink</name>
-<hex>#d8c6d6</hex>
 </color>
 <color>
 <name>Naked Rose</name>
@@ -73447,10 +73395,6 @@
 <color>
 <name>Nuclear Waste</name>
 <hex>#7cfc00</hex>
-</color>
-<color>
-<name>Nude</name>
-<hex>#f2d3bc</hex>
 </color>
 <color>
 <name>Nude Flamingo</name>
@@ -75845,70 +75789,6 @@
 <hex>#7391cc</hex>
 </color>
 <color>
-<name>Orient</name>
-<hex>#255b77</hex>
-</color>
-<color>
-<name>Orient Blue</name>
-<hex>#4e4981</hex>
-</color>
-<color>
-<name>Orient Green</name>
-<hex>#77997d</hex>
-</color>
-<color>
-<name>Orient Mosaic Green</name>
-<hex>#7cb8a1</hex>
-</color>
-<color>
-<name>Orient Pink</name>
-<hex>#8f415f</hex>
-</color>
-<color>
-<name>Orient Yellow</name>
-<hex>#f7b969</hex>
-</color>
-<color>
-<name>Oriental Blush</name>
-<hex>#d7c6e1</hex>
-</color>
-<color>
-<name>Oriental Eggplant</name>
-<hex>#533e4f</hex>
-</color>
-<color>
-<name>Oriental Herbs</name>
-<hex>#118822</hex>
-</color>
-<color>
-<name>Oriental Nights</name>
-<hex>#4b2c74</hex>
-</color>
-<color>
-<name>Oriental Olive</name>
-<hex>#445533</hex>
-</color>
-<color>
-<name>Oriental Pink</name>
-<hex>#c28e88</hex>
-</color>
-<color>
-<name>Oriental Ruby</name>
-<hex>#ce536b</hex>
-</color>
-<color>
-<name>Oriental Scent</name>
-<hex>#e2bfa8</hex>
-</color>
-<color>
-<name>Oriental Silk</name>
-<hex>#efe5d6</hex>
-</color>
-<color>
-<name>Oriental Spice</name>
-<hex>#8b5131</hex>
-</color>
-<color>
 <name>Origami</name>
 <hex>#ece0c6</hex>
 </color>
@@ -77606,15 +77486,11 @@
 </color>
 <color>
 <name>Paper White</name>
-<hex>#eef0f3</hex>
+<hex>#f6efdf</hex>
 </color>
 <color>
 <name>Paperboy’s Lawn</name>
 <hex>#249148</hex>
-</color>
-<color>
-<name>Paperwhite</name>
-<hex>#f6efdf</hex>
 </color>
 <color>
 <name>Papier Blanc</name>
@@ -84421,6 +84297,10 @@
 <hex>#b7757c</hex>
 </color>
 <color>
+<name>Precious Jewels</name>
+<hex>#613a57</hex>
+</color>
+<color>
 <name>Precious Nectar</name>
 <hex>#ffde9c</hex>
 </color>
@@ -86835,6 +86715,10 @@
 <color>
 <name>Radiant Dawn</name>
 <hex>#ece2ce</hex>
+</color>
+<color>
+<name>Radiant Feather</name>
+<hex>#5500ff</hex>
 </color>
 <color>
 <name>Radiant Foliage</name>
@@ -101651,10 +101535,6 @@
 <color>
 <name>Spicy</name>
 <hex>#ff1111</hex>
-</color>
-<color>
-<name>Spicy and Oriental</name>
-<hex>#c75f26</hex>
 </color>
 <color>
 <name>Spicy Berry</name>
@@ -117869,10 +117749,6 @@
 <hex>#695649</hex>
 </color>
 <color>
-<name>Wild Nude</name>
-<hex>#beae8a</hex>
-</color>
-<color>
 <name>Wild Oats</name>
 <hex>#ecdbc3</hex>
 </color>
@@ -120743,6 +120619,10 @@
 <color>
 <name>Zen Garden</name>
 <hex>#d1dac0</hex>
+</color>
+<color>
+<name>Zen Garden Olive</name>
+<hex>#445533</hex>
 </color>
 <color>
 <name>Zen Retreat</name>

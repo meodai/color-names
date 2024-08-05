@@ -485,6 +485,10 @@
 <hex>#bbb3a2</hex>
 </color>
 <color>
+<name>Asian Spice</name>
+<hex>#118822</hex>
+</color>
+<color>
 <name>Asparagus</name>
 <hex>#77ab56</hex>
 </color>
@@ -6837,10 +6841,6 @@
 <hex>#7a7c76</hex>
 </color>
 <color>
-<name>Gypsy Dancer</name>
-<hex>#c07c7b</hex>
-</color>
-<color>
 <name>H₂O</name>
 <hex>#bfe1e6</hex>
 </color>
@@ -10889,6 +10889,10 @@
 <hex>#e02e82</hex>
 </color>
 <color>
+<name>Mystic Nights</name>
+<hex>#4b2c74</hex>
+</color>
+<color>
 <name>Mystic White</name>
 <hex>#ebebe9</hex>
 </color>
@@ -11725,42 +11729,6 @@
 <hex>#747261</hex>
 </color>
 <color>
-<name>Oriental Blush</name>
-<hex>#d7c6e1</hex>
-</color>
-<color>
-<name>Oriental Herbs</name>
-<hex>#118822</hex>
-</color>
-<color>
-<name>Oriental Nights</name>
-<hex>#4b2c74</hex>
-</color>
-<color>
-<name>Oriental Olive</name>
-<hex>#445533</hex>
-</color>
-<color>
-<name>Oriental Pink</name>
-<hex>#c28e88</hex>
-</color>
-<color>
-<name>Oriental Ruby</name>
-<hex>#ce536b</hex>
-</color>
-<color>
-<name>Oriental Scent</name>
-<hex>#e2bfa8</hex>
-</color>
-<color>
-<name>Oriental Silk</name>
-<hex>#efe5d6</hex>
-</color>
-<color>
-<name>Oriental Spice</name>
-<hex>#8b5131</hex>
-</color>
-<color>
 <name>Oriole</name>
 <hex>#ff8008</hex>
 </color>
@@ -11950,10 +11918,6 @@
 </color>
 <color>
 <name>Paper White</name>
-<hex>#eef0f3</hex>
-</color>
-<color>
-<name>Paperwhite</name>
 <hex>#f6efdf</hex>
 </color>
 <color>
@@ -17947,6 +17911,10 @@
 <color>
 <name>Zen Garden</name>
 <hex>#d1dac0</hex>
+</color>
+<color>
+<name>Zen Garden Olive</name>
+<hex>#445533</hex>
 </color>
 <color>
 <name>Zenith</name>

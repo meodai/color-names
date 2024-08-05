@@ -920,9 +920,6 @@
   name:"Alabaster White"
   hex:"#dfd4bf"
 -
-  name:"Aladdin’s Feather"
-  hex:"#5500ff"
--
   name:"Alaea"
   hex:"#81585b"
 -
@@ -4027,6 +4024,9 @@
 -
   name:"Asian Pear"
   hex:"#ae9156"
+-
+  name:"Asian Spice"
+  hex:"#118822"
 -
   name:"Asian Violet"
   hex:"#8b818c"
@@ -36188,30 +36188,6 @@
   name:"Gypsum Sand"
   hex:"#d6cfbf"
 -
-  name:"Gypsy"
-  hex:"#e59368"
--
-  name:"Gypsy Canvas"
-  hex:"#b7a467"
--
-  name:"Gypsy Caravan"
-  hex:"#d1c8d7"
--
-  name:"Gypsy Dancer"
-  hex:"#c07c7b"
--
-  name:"Gypsy Jewels"
-  hex:"#613a57"
--
-  name:"Gypsy Magic"
-  hex:"#917d82"
--
-  name:"Gypsy Red"
-  hex:"#b6363b"
--
-  name:"Gypsy’s Gown"
-  hex:"#a698a8"
--
   name:"H₂O"
   hex:"#bfe1e6"
 -
@@ -36982,9 +36958,6 @@
 -
   name:"Heart Chakra"
   hex:"#5bbd7f"
--
-  name:"Heart Gold"
-  hex:"#808000"
 -
   name:"Heart of Gold"
   hex:"#9d7f4c"
@@ -41942,9 +41915,6 @@
   name:"Kaffee"
   hex:"#816d5a"
 -
-  name:"Kaffir Lime"
-  hex:"#b9ab85"
--
   name:"Kahili"
   hex:"#b7bfb0"
 -
@@ -45011,9 +44981,6 @@
   name:"Light Mystified"
   hex:"#d6e4d4"
 -
-  name:"Light Naked Pink"
-  hex:"#e2d4e1"
--
   name:"Light Nougat"
   hex:"#fbe6c7"
 -
@@ -45046,9 +45013,6 @@
 -
   name:"Light Orchid Haze"
   hex:"#d6cdd0"
--
-  name:"Light Oriental Blush"
-  hex:"#e1d4e8"
 -
   name:"Light Otto Ice"
   hex:"#cde7dd"
@@ -47980,6 +47944,9 @@
 -
   name:"Makore Veneer Red"
   hex:"#6e2f2c"
+-
+  name:"Makrut Lime"
+  hex:"#688c43"
 -
   name:"Malabar"
   hex:"#cfbea9"
@@ -53306,6 +53273,9 @@
   name:"Mystic Melon"
   hex:"#edebb4"
 -
+  name:"Mystic Nights"
+  hex:"#4b2c74"
+-
   name:"Mystic Opal"
   hex:"#fbddbe"
 -
@@ -53426,17 +53396,8 @@
   name:"Nakabeni Pink"
   hex:"#c93756"
 -
-  name:"Naked Lady"
-  hex:"#d6b3a9"
--
-  name:"Naked Light"
-  hex:"#e9b6c1"
--
   name:"Naked Noodle"
   hex:"#f7cb6e"
--
-  name:"Naked Pink"
-  hex:"#d8c6d6"
 -
   name:"Naked Rose"
   hex:"#ebb5b3"
@@ -55084,9 +55045,6 @@
 -
   name:"Nuclear Waste"
   hex:"#7cfc00"
--
-  name:"Nude"
-  hex:"#f2d3bc"
 -
   name:"Nude Flamingo"
   hex:"#e58f7c"
@@ -56882,54 +56840,6 @@
   name:"Organza Violet"
   hex:"#7391cc"
 -
-  name:"Orient"
-  hex:"#255b77"
--
-  name:"Orient Blue"
-  hex:"#4e4981"
--
-  name:"Orient Green"
-  hex:"#77997d"
--
-  name:"Orient Mosaic Green"
-  hex:"#7cb8a1"
--
-  name:"Orient Pink"
-  hex:"#8f415f"
--
-  name:"Orient Yellow"
-  hex:"#f7b969"
--
-  name:"Oriental Blush"
-  hex:"#d7c6e1"
--
-  name:"Oriental Eggplant"
-  hex:"#533e4f"
--
-  name:"Oriental Herbs"
-  hex:"#118822"
--
-  name:"Oriental Nights"
-  hex:"#4b2c74"
--
-  name:"Oriental Olive"
-  hex:"#445533"
--
-  name:"Oriental Pink"
-  hex:"#c28e88"
--
-  name:"Oriental Ruby"
-  hex:"#ce536b"
--
-  name:"Oriental Scent"
-  hex:"#e2bfa8"
--
-  name:"Oriental Silk"
-  hex:"#efe5d6"
--
-  name:"Oriental Spice"
-  hex:"#8b5131"
--
   name:"Origami"
   hex:"#ece0c6"
 -
@@ -58203,13 +58113,10 @@
   hex:"#fdf1af"
 -
   name:"Paper White"
-  hex:"#eef0f3"
+  hex:"#f6efdf"
 -
   name:"Paperboy’s Lawn"
   hex:"#249148"
--
-  name:"Paperwhite"
-  hex:"#f6efdf"
 -
   name:"Papier Blanc"
   hex:"#efeadc"
@@ -63314,6 +63221,9 @@
   name:"Precious Garnet"
   hex:"#b7757c"
 -
+  name:"Precious Jewels"
+  hex:"#613a57"
+-
   name:"Precious Nectar"
   hex:"#ffde9c"
 -
@@ -65125,6 +65035,9 @@
 -
   name:"Radiant Dawn"
   hex:"#ece2ce"
+-
+  name:"Radiant Feather"
+  hex:"#5500ff"
 -
   name:"Radiant Foliage"
   hex:"#659c35"
@@ -76237,9 +76150,6 @@
 -
   name:"Spicy"
   hex:"#ff1111"
--
-  name:"Spicy and Oriental"
-  hex:"#c75f26"
 -
   name:"Spicy Berry"
   hex:"#cc3366"
@@ -88400,9 +88310,6 @@
   name:"Wild Mustang"
   hex:"#695649"
 -
-  name:"Wild Nude"
-  hex:"#beae8a"
--
   name:"Wild Oats"
   hex:"#ecdbc3"
 -
@@ -90556,6 +90463,9 @@
 -
   name:"Zen Garden"
   hex:"#d1dac0"
+-
+  name:"Zen Garden Olive"
+  hex:"#445533"
 -
   name:"Zen Retreat"
   hex:"#5b5d5c"

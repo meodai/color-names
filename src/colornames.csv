@@ -306,7 +306,6 @@ Alabaster,#f3e7db,
 Alabaster Beauty,#e9e3d2,
 Alabaster Gleam,#f0debd,
 Alabaster White,#dfd4bf,
-Aladdin’s Feather,#5500ff,
 Alaea,#81585b,
 Alaitoc Blue,#8e8c97,
 Alajuela Toad,#ffae52,
@@ -1342,6 +1341,7 @@ Asian Fusion,#ece0cd,
 Asian Ivory,#e8e0cd,
 Asian Jute,#d4b78f,
 Asian Pear,#ae9156,
+Asian Spice,#118822,x
 Asian Violet,#8b818c,
 Āsmānī Sky,#88ddbb,
 Aspara,#70b2cc,
@@ -12062,14 +12062,6 @@ Gyoza Dumpling,#dfb46f,
 Gypsum,#eeede4,
 Gypsum Rose,#e2c4af,
 Gypsum Sand,#d6cfbf,
-Gypsy,#e59368,
-Gypsy Canvas,#b7a467,
-Gypsy Caravan,#d1c8d7,
-Gypsy Dancer,#c07c7b,x
-Gypsy Jewels,#613a57,
-Gypsy Magic,#917d82,
-Gypsy Red,#b6363b,
-Gypsy’s Gown,#a698a8,
 H₂O,#bfe1e6,x
 Habañero,#f98513,x
 Habañero Chile,#b8473d,
@@ -12327,7 +12319,6 @@ Healing Plant,#6c7d42,
 Healing Retreat,#bac2aa,
 Healing Springs,#e1e2c2,
 Heart Chakra,#5bbd7f,
-Heart Gold,#808000,
 Heart of Gold,#9d7f4c,
 Heart of Ice,#f7fcff,x
 Heart of Palm,#d2cfa6,
@@ -13980,7 +13971,6 @@ Kabul,#6c5e53,x
 Kacey’s Pink,#e94b7e,
 Kachi Indigo,#393e4f,
 Kaffee,#816d5a,
-Kaffir Lime,#b9ab85,
 Kahili,#b7bfb0,
 Kahlua Milk,#bab099,
 Kahu Blue,#0093d6,
@@ -15003,7 +14993,6 @@ Light Mosque,#d8cdd0,
 Light Mulberry,#d1cae1,
 Light My Fire,#f8611a,x
 Light Mystified,#d6e4d4,
-Light Naked Pink,#e2d4e1,
 Light Nougat,#fbe6c7,
 Light Nursery,#f4dcdc,
 Light Nut Milk,#e3d8d4,
@@ -15015,7 +15004,6 @@ Light Opale,#c1e8ea,
 Light Opus,#dad7e8,
 Light Orchid,#e6a8d7,
 Light Orchid Haze,#d6cdd0,
-Light Oriental Blush,#e1d4e8,
 Light Otto Ice,#cde7dd,
 Light Pale Icelandish,#ccdfdc,
 Light Pale Lilac,#ced5e4,
@@ -15993,6 +15981,7 @@ Make-Up Blue,#335f8d,
 Makin it Rain,#88bb55,x
 Mako,#505555,
 Makore Veneer Red,#6e2f2c,
+Makrut Lime,#688c43,
 Malabar,#cfbea9,
 Malachite,#0bda51,
 Malachite Blue Turquoise,#0e4f4f,
@@ -17768,6 +17757,7 @@ Mystic Magenta,#e02e82,x
 Mystic Maroon,#ad4379,
 Mystic Mauve,#dbb7ba,
 Mystic Melon,#edebb4,
+Mystic Nights,#4b2c74,x
 Mystic Opal,#fbddbe,
 Mystic Pool,#d5dde2,
 Mystic Red,#ff5500,
@@ -17808,10 +17798,7 @@ Nail Polish Pink,#bd4e84,
 Nairobi Dusk,#d9a787,
 Naive Peach,#fce7d3,
 Nakabeni Pink,#c93756,
-Naked Lady,#d6b3a9,
-Naked Light,#e9b6c1,
 Naked Noodle,#f7cb6e,x
-Naked Pink,#d8c6d6,
 Naked Rose,#ebb5b3,
 Namakabe Brown,#785e49,
 Namara Grey,#7b7c7d,
@@ -18361,7 +18348,6 @@ Nuclear Mango,#ee9933,x
 Nuclear Meltdown,#44ee00,x
 Nuclear Throne,#00de00,x
 Nuclear Waste,#7cfc00,
-Nude,#f2d3bc,
 Nude Flamingo,#e58f7c,x
 Nude Lips,#b5948d,x
 Nugget,#bc9229,x
@@ -18960,22 +18946,6 @@ Organza,#ffdea6,
 Organza Green,#bbccbd,
 Organza Peach,#fbeeda,
 Organza Violet,#7391cc,
-Orient,#255b77,
-Orient Blue,#4e4981,
-Orient Green,#77997d,
-Orient Mosaic Green,#7cb8a1,
-Orient Pink,#8f415f,
-Orient Yellow,#f7b969,
-Oriental Blush,#d7c6e1,x
-Oriental Eggplant,#533e4f,
-Oriental Herbs,#118822,x
-Oriental Nights,#4b2c74,x
-Oriental Olive,#445533,x
-Oriental Pink,#c28e88,x
-Oriental Ruby,#ce536b,x
-Oriental Scent,#e2bfa8,x
-Oriental Silk,#efe5d6,x
-Oriental Spice,#8b5131,x
 Origami,#ece0c6,
 Origami White,#e5e2da,
 Original White,#f0e5d3,
@@ -19400,9 +19370,8 @@ Paper Moon,#ead4a6,
 Paper Plane,#f1ece0,x
 Paper Sack,#b4a07a,
 Paper Tiger,#fdf1af,
-Paper White,#eef0f3,x
+Paper White,#f6efdf,x
 Paperboy’s Lawn,#249148,
-Paperwhite,#f6efdf,x
 Papier Blanc,#efeadc,
 Papilio Argeotus,#8590ae,
 Pappardelle Noodle,#f9ebcc,
@@ -21104,6 +21073,7 @@ Precious Copper,#885522,x
 Precious Dewdrop,#f5f5e4,
 Precious Emerald,#186e50,
 Precious Garnet,#b7757c,
+Precious Jewels,#613a57,
 Precious Nectar,#ffde9c,
 Precious Oxley,#6d9a79,
 Precious Pearls,#f1f0ef,
@@ -21708,6 +21678,7 @@ Radar,#b6c8e4,
 Radar Blip Green,#96f97b,
 Radiance,#bb9157,
 Radiant Dawn,#ece2ce,
+Radiant Feather,#5500ff,
 Radiant Foliage,#659c35,x
 Radiant Glow,#ffeed2,
 Radiant Hulk,#10f144,x
@@ -25412,7 +25383,6 @@ Spiced Up Orange,#e67a37,x
 Spiced Vinegar,#cdba99,
 Spiced Wine,#664942,
 Spicy,#ff1111,
-Spicy and Oriental,#c75f26,
 Spicy Berry,#cc3366,x
 Spicy Cayenne,#9b5b4f,
 Spicy Cinnamon,#a85624,x
@@ -29466,7 +29436,6 @@ Wild Maple,#ffe2c7,
 Wild Mulberry,#a96388,
 Wild Mushroom,#84704b,
 Wild Mustang,#695649,
-Wild Nude,#beae8a,
 Wild Oats,#ecdbc3,
 Wild Olive,#9c8042,
 Wild Orchid,#d979a2,
@@ -30185,6 +30154,7 @@ Zen,#cfd9de,x
 Zen Blue,#99a4ba,
 Zen Essence,#c6bfa7,
 Zen Garden,#d1dac0,x
+Zen Garden Olive,#445533,x
 Zen Retreat,#5b5d5c,
 Zenith,#497a9f,x
 Zenith Heights,#a6c8c7,

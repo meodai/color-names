@@ -362,6 +362,9 @@
   name:"Ashes to Ashes"
   hex:"#bbb3a2"
 -
+  name:"Asian Spice"
+  hex:"#118822"
+-
   name:"Asparagus"
   hex:"#77ab56"
 -
@@ -5126,9 +5129,6 @@
   name:"Gunsmoke"
   hex:"#7a7c76"
 -
-  name:"Gypsy Dancer"
-  hex:"#c07c7b"
--
   name:"H₂O"
   hex:"#bfe1e6"
 -
@@ -8165,6 +8165,9 @@
   name:"Mystic Magenta"
   hex:"#e02e82"
 -
+  name:"Mystic Nights"
+  hex:"#4b2c74"
+-
   name:"Mystic White"
   hex:"#ebebe9"
 -
@@ -8792,33 +8795,6 @@
   name:"Organic"
   hex:"#747261"
 -
-  name:"Oriental Blush"
-  hex:"#d7c6e1"
--
-  name:"Oriental Herbs"
-  hex:"#118822"
--
-  name:"Oriental Nights"
-  hex:"#4b2c74"
--
-  name:"Oriental Olive"
-  hex:"#445533"
--
-  name:"Oriental Pink"
-  hex:"#c28e88"
--
-  name:"Oriental Ruby"
-  hex:"#ce536b"
--
-  name:"Oriental Scent"
-  hex:"#e2bfa8"
--
-  name:"Oriental Silk"
-  hex:"#efe5d6"
--
-  name:"Oriental Spice"
-  hex:"#8b5131"
--
   name:"Oriole"
   hex:"#ff8008"
 -
@@ -8961,9 +8937,6 @@
   hex:"#f1ece0"
 -
   name:"Paper White"
-  hex:"#eef0f3"
--
-  name:"Paperwhite"
   hex:"#f6efdf"
 -
   name:"Paprika"
@@ -13459,6 +13432,9 @@
 -
   name:"Zen Garden"
   hex:"#d1dac0"
+-
+  name:"Zen Garden Olive"
+  hex:"#445533"
 -
   name:"Zenith"
   hex:"#497a9f"
