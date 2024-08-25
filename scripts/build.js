@@ -127,8 +127,8 @@ const JSONExportStringShort = JSON.stringify(
       // make sure its only one word long
       (val) =>
         val[bestOfKey] &&
-        val.name.split(" ").length === 1 &&
-        val.name.length < maxShortNameLength
+        //val.name.split(" ").length === 1 &&
+        val.name.length < maxShortNameLength + 1
     )
     .map(
       // removes good name attributes
@@ -170,8 +170,8 @@ const miniJSONExportObjBestOf = colorsSrc.entires.reduce((obj, entry) => {
 const miniJSONExportObjShort = colorsSrc.entires.reduce((obj, entry) => {
   if (
     entry[bestOfKey] &&
-    entry.name.split(" ").length === 1 &&
-    entry.name.length < maxShortNameLength
+    //entry.name.split(" ").length === 1 &&
+    entry.name.length < maxShortNameLength + 1
   ) {
     obj[entry.hex.replace("#", "")] = entry.name;
   }
@@ -327,8 +327,8 @@ for (const outputFormat in outputFormats) {
       colorsSrc.entires.filter(
         (val) =>
           val[bestOfKey] &&
-          val.name.split(" ").length === 1 &&
-          val.name.length < maxShortNameLength
+          //val.name.split(" ").length === 1 &&
+          val.name.length < maxShortNameLength + 1
       ),
       csvKeys,
       outputFormats[outputFormat]
