@@ -26,6 +26,9 @@ const fileNameSrc = 'colornames';
 const fileNameBestOfPostfix = '.bestof';
 const readmeFileName = 'README.md';
 
+const fileNameShortPostfix = '.short';
+const maxShortNameLength = 12;
+
 const sortBy = 'name';
 const csvKeys = ['name', 'hex'];
 const bestOfKey = 'good name';
@@ -118,6 +121,24 @@ const JSONExportStringBestOf = JSON.stringify(
   )
 );
 
+const JSONExportStringShort = JSON.stringify(
+  [...colorsSrc.entires]
+    .filter(
+      // make sure its only one word long
+      (val) =>
+        val[bestOfKey] &&
+        val.name.split(" ").length === 1 &&
+        val.name.length < maxShortNameLength
+    )
+    .map(
+      // removes good name attributes
+      (val) => ({
+        name: val.name,
+        hex: val.hex,
+      })
+    )
+);
+
 fs.writeFileSync(
   path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.json`),
   JSONExportString
@@ -126,6 +147,11 @@ fs.writeFileSync(
 fs.writeFileSync(
   path.normalize(`${baseFolder}${folderDist}${fileNameSrc}${fileNameBestOfPostfix}.json`),
   JSONExportStringBestOf
+);
+
+fs.writeFileSync(
+  path.normalize(`${baseFolder}${folderDist}${fileNameSrc}${fileNameShortPostfix}.json`),
+  JSONExportStringShort
 );
 
 // creates a more compact JSON file, where the HEX color serves as an id
@@ -141,6 +167,17 @@ const miniJSONExportObjBestOf = colorsSrc.entires.reduce((obj, entry) => {
   return obj;
 }, {});
 
+const miniJSONExportObjShort = colorsSrc.entires.reduce((obj, entry) => {
+  if (
+    entry[bestOfKey] &&
+    entry.name.split(" ").length === 1 &&
+    entry.name.length < maxShortNameLength
+  ) {
+    obj[entry.hex.replace("#", "")] = entry.name;
+  }
+  return obj;
+}, {});
+
 fs.writeFileSync(
   path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.min.json`),
   JSON.stringify(miniJSONExportObj)
@@ -149,6 +186,11 @@ fs.writeFileSync(
 fs.writeFileSync(
   path.normalize(`${baseFolder}${folderDist}${fileNameSrc}${fileNameBestOfPostfix}.min.json`),
   JSON.stringify(miniJSONExportObjBestOf)
+);
+
+fs.writeFileSync(
+  path.normalize(`${baseFolder}${folderDist}${fileNameSrc}${fileNameShortPostfix}.min.json`),
+  JSON.stringify(miniJSONExportObjShort)
 );
 
 // gets UMD template
@@ -166,6 +208,11 @@ fs.writeFileSync(
 fs.writeFileSync(
   path.normalize(`${baseFolder}${folderDist}${fileNameSrc}${fileNameBestOfPostfix}.umd.js`),
   umdTpl.replace('"{{COLORS}}"', JSONExportStringBestOf)
+);
+
+fs.writeFileSync(
+  path.normalize(`${baseFolder}${folderDist}${fileNameSrc}${fileNameShortPostfix}.umd.js`),
+  umdTpl.replace('"{{COLORS}}"', JSONExportStringShort)
 );
 
 // gets ESM template
@@ -191,6 +238,15 @@ fs.writeFileSync(
 fs.writeFileSync(
   path.normalize(`${baseFolder}${folderDist}${fileNameSrc}${fileNameBestOfPostfix}.esm.mjs`),
   esmTpl.replace('"{{COLORS}}"', JSONExportStringBestOf)
+);
+
+fs.writeFileSync(
+  path.normalize(`${baseFolder}${folderDist}${fileNameSrc}${fileNameShortPostfix}.esm.js`),
+  esmTpl.replace('"{{COLORS}}"', JSONExportStringShort)
+);
+fs.writeFileSync(
+  path.normalize(`${baseFolder}${folderDist}${fileNameSrc}${fileNameShortPostfix}.esm.mjs`),
+  esmTpl.replace('"{{COLORS}}"', JSONExportStringShort)
 );
 
 // create foreign formats
@@ -259,6 +315,29 @@ for (const outputFormat in outputFormats) {
     }
     fs.writeFileSync(
       path.normalize(`${baseFolder}${folderDist}${fileNameSrc}${fileNameBestOfPostfix}.${outputFormat}`),
+      outputString
+    );
+  }
+}
+
+// short files
+for (const outputFormat in outputFormats) {
+  if (outputFormats[outputFormat]) {
+    let outputString = objArrToString(
+      colorsSrc.entires.filter(
+        (val) =>
+          val[bestOfKey] &&
+          val.name.split(" ").length === 1 &&
+          val.name.length < maxShortNameLength
+      ),
+      csvKeys,
+      outputFormats[outputFormat]
+    );
+    if (outputFormat === 'html' || outputFormat === 'xml') {
+      outputString = outputString.replace(/&/g, '&amp;');
+    }
+    fs.writeFileSync(
+      path.normalize(`${baseFolder}${folderDist}${fileNameSrc}${fileNameShortPostfix}.${outputFormat}`),
       outputString
     );
   }
