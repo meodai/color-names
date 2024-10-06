@@ -277,6 +277,7 @@ See [package.json](package.json#L6) for more.
 , [BlueChaos]
 , [nachtfunke]
 , Sean Gibbons
+, Brantley Sibo
 
 ## Disclaimer 👮🏾‍
 
