@@ -418,22 +418,27 @@ const svgTpl = fs.readFileSync(
 
 // generates an SVG image with the new color based on the diff ot the last commit to the current
 function diffSVG() {
-  exec(`git diff HEAD ${baseFolder}${folderDist}${fileNameSrc}.csv`,
-  function (err, stdout, stderr) {
-    const diffTxt = stdout;
-    if (!/(?<=^[\+])[^\+].*/gm.test(diffTxt)) return;
-    const changes = diffTxt.match(/(?<=^[\+])[^\+].*/gm).filter(i => i);
-    const svgTxtStr = changes.reduce((str, change, i) => {
-      const changeParts = change.split(',');
-      return `${str}<text x="40" y="${20 + (i + 1) * 70}" fill="${changeParts[1]}">${changeParts[0].replace(/&/g, '&amp;')}</text>`;
-    }, '');
+  exec(
+    `git diff -U0 HEAD ${baseFolder}${folderDist}${fileNameSrc}.csv | tr -d '\\n'`,
+    function (err, stdout, stderr) {
+      const diffTxt = stdout;
+      if (!/(?<=^[\+])[^\+].*/gm.test(diffTxt)) return;
+      const changes = diffTxt.match(/(?<=^[\+])[^\+].*/gm).filter((i) => i);
+      const svgTxtStr = changes.reduce((str, change, i) => {
+        const changeParts = change.split(",");
+        return `${str}<text x="40" y="${20 + (i + 1) * 70}" fill="${
+          changeParts[1]
+        }">${changeParts[0].replace(/&/g, "&amp;")}</text>`;
+      }, "");
 
-    fs.writeFileSync(
-      path.normalize(`${baseFolder}changes.svg`),
-      svgTpl.replace(/{height}/g, changes.length * 70 + 80)
-        .replace(/{items}/g, svgTxtStr)
-    );
-  });
+      fs.writeFileSync(
+        path.normalize(`${baseFolder}changes.svg`),
+        svgTpl
+          .replace(/{height}/g, changes.length * 70 + 80)
+          .replace(/{items}/g, svgTxtStr)
+      );
+    }
+  );
 };
 
 diffSVG();
