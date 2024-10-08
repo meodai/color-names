@@ -7,7 +7,7 @@ const colorsSRCfile = fs.readFileSync(__dirname + '/json.json', 'utf8');
 const colors = JSON.parse(colorsSRCfile);
 
 const namedColors = JSON.parse(
-  fs.readFileSync(__dirname + '/../../dist/colornames.json', 'utf8')
+  fs.readFileSync(__dirname + '/../../public/dist/colornames.json', 'utf8')
 );
 
 const uniqueColors = [];

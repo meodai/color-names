@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LiOS-Colors</title>
+    <script src="assets/main.js"></script>
+    <link rel="stylesheet" href="assets/main.css">
+    <link rel="shortcut icon" href="assets/favicon.png" type="image/x-icon">
+
+</head>
+<body>
+    <div id="main-container"></div>
+    <script type="module">
+        // Import the functions you need from the SDKs you need
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/10.14.0/firebase-app.js";
+        import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.14.0/firebase-analytics.js";
+        // TODO: Add SDKs for Firebase products that you want to use
+        // https://firebase.google.com/docs/web/setup#available-libraries
+      
+        // Your web app's Firebase configuration
+        // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+        const firebaseConfig = {
+          apiKey: "AIzaSyC17FO3erOFbZ5sXoiLbX8Cws0RWPe-RWs",
+          authDomain: "lios-colors.firebaseapp.com",
+          projectId: "lios-colors",
+          storageBucket: "lios-colors.appspot.com",
+          messagingSenderId: "435126115260",
+          appId: "1:435126115260:web:89bd7aa1397d9702ce69b9",
+          measurementId: "G-DWHTPW23ZE"
+        };
+      
+        // Initialize Firebase
+        const app = initializeApp(firebaseConfig);
+        const analytics = getAnalytics(app);
+      </script>
+</body>
+</html>

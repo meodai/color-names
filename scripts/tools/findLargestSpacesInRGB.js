@@ -2,7 +2,7 @@ const fs = require('fs');
 const RGB_HEX = /^#?(?:([\da-f]{3})[\da-f]?|([\da-f]{6})(?:[\da-f]{2})?)$/i;
 
 const namedColors = JSON.parse(
-  fs.readFileSync(__dirname + '/../../dist/colornames.json', 'utf8')
+  fs.readFileSync(__dirname + '/../../public/dist/colornames.json', 'utf8')
 );
 
 const hexToRgb = (hexSrt) => {

@@ -1,0 +1,37 @@
+html{
+    background: linear-gradient(to left, #ff914d,#8c52ff);
+}
+#main-container{
+    height: 100%;
+    width: 100%;
+}
+#Frosted_Background{
+    display: inline-block;
+    height: 300px;
+    width: 356px;
+    padding: auto;
+    margin: 5px;
+    border-radius: 2%;
+    background: var(--frosted_background);
+    border-radius: 2%;
+}
+#color-pallete{
+    display: inline-block;
+    height: 200px;
+    width: 350px;
+    margin:3px;
+    padding: auto;
+    border-radius: 2%;
+}
+#info{
+    height: auto;
+    width: 100%;
+}
+#name{
+    font-size: 26px;
+    text-align: center;
+}
+#hex{
+    font-size: 20px;
+    text-align: center;
+}

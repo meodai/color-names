@@ -1,7 +1,7 @@
 const fs = require('fs');
 const colors = fs.readFileSync('colors.csv').toString().split(`\n`);
 const namedColors = JSON.parse(
-  fs.readFileSync(__dirname + '/../../dist/colornames.json', 'utf8')
+  fs.readFileSync(__dirname + '/../../public/dist/colornames.json', 'utf8')
 );
 const nearestColor = require('../../node_modules/nearest-color/nearestColor.js');
 

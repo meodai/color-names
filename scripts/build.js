@@ -21,7 +21,7 @@ const quoteValidation = /"|'|`/;
 // setting
 const baseFolder = __dirname + '/../';
 const folderSrc = 'src/';
-const folderDist = 'dist/';
+const folderDist = 'public/dist/';
 const fileNameSrc = 'colornames';
 const fileNameBestOfPostfix = '.bestof';
 const readmeFileName = 'README.md';
