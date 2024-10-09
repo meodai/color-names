@@ -1,11 +1,20 @@
-html{
-    background: linear-gradient(to left, #ff914d,#8c52ff);
+html {
+    height: 100%;
+    background: linear-gradient(270deg, #ff914d,#8c52ff, #86a8e7, #91eae4);
+    background-size: 800% 800%; /* Enlarge background for smooth animation */
+    animation: gradientMove 15s ease infinite;
+}
+
+@keyframes gradientMove {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
 }
 #main-container{
     height: 100%;
     width: 100%;
 }
-#Frosted_Background{
+#main-container #Frosted_Background{
     display: inline-block;
     height: 300px;
     width: 356px;
@@ -34,4 +43,25 @@ html{
 #hex{
     font-size: 20px;
     text-align: center;
+}
+#search-bar{
+    display: block;
+    background: var(--frosted_background);
+    padding: auto;
+    font-size: 26px;
+    margin-bottom: 20px;
+    outline: none;
+    border: none;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 5px;
+}
+#search-bar:focus{
+    outline: none;
+}
+#main-container{
+    width: 95%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
 }
