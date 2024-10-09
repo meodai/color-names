@@ -1,4 +1,4 @@
-html {
+:root{
     height: 100%;
     background: linear-gradient(45deg, #ff914d,#8c52ff, #86a8e7, #91eae4);
     background-size: 200% 200%;
