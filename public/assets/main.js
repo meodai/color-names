@@ -1,18 +1,34 @@
-// Assuming your JSON is in a file named colornames.json
 let colorData = [];
+let currentPage = 1;
+const itemsPerPage = 10; // Load 10 colors at a time
+let loading = false;
 
+// Fetch and load data
 fetch('dist/colornames.json')
     .then(response => response.json())
     .then(data => {
         colorData = data;
-        displayColors(data);  // Initial display
+        loadMoreColors();  // Load the first set of colors
     })
     .catch(error => console.error('Error fetching color data:', error));
+
+// Function to load more colors when scrolling
+function loadMoreColors() {
+    if (loading) return; // Prevent duplicate loading
+    loading = true;
+
+    const start = (currentPage - 1) * itemsPerPage;
+    const end = start + itemsPerPage;
+    const colorsToDisplay = colorData.slice(start, end);
+
+    displayColors(colorsToDisplay);
+    currentPage++;
+    loading = false;
+}
 
 // Function to display colors
 function displayColors(colors) {
     const paletteContainer = document.getElementById('main-container');
-    paletteContainer.innerHTML = '';  // Clear existing colors
 
     colors.forEach(color => {
         // Create a new entry div that will hold both colorDiv and infoDiv
@@ -51,11 +67,20 @@ function displayColors(colors) {
     });
 }
 
+// Infinite scroll event listener
+window.addEventListener('scroll', () => {
+    if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 200) {
+        loadMoreColors();
+    }
+});
+
 // Function to search and filter colors
 function searchColors() {
     const query = document.getElementById('search-bar').value.toLowerCase();
     const filteredColors = colorData.filter(color =>
         color.name.toLowerCase().includes(query) || color.hex.toLowerCase().includes(query)
     );
-    displayColors(filteredColors);
+    document.getElementById('main-container').innerHTML = '';  // Clear existing colors
+    currentPage = 1; // Reset page
+    displayColors(filteredColors.slice(0, itemsPerPage)); // Show filtered results
 }

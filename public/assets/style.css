@@ -1,14 +1,14 @@
 html {
     height: 100%;
-    background: linear-gradient(270deg, #ff914d,#8c52ff, #86a8e7, #91eae4);
-    background-size: 800% 800%; /* Enlarge background for smooth animation */
-    animation: gradientMove 15s ease infinite;
+    background: linear-gradient(45deg, #ff914d,#8c52ff, #86a8e7, #91eae4);
+    background-size: 200% 200%;
+    animation: backgroundShift 10s infinite;
 }
 
-@keyframes gradientMove {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
+@keyframes backgroundShift {
+    0% { background-position: 0% 0%; }
+    50% { background-position: 100% 100%; }
+    100% { background-position: 0% 0%; }
 }
 #main-container{
     height: 100%;
