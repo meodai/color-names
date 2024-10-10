@@ -10,14 +10,10 @@
     50% { background-position: 100% 100%; }
     100% { background-position: 0% 0%; }
 }
-#main-container{
-    height: 100%;
-    width: 100%;
-}
 #main-container #Frosted_Background{
     display: inline-block;
     height: 300px;
-    width: 356px;
+    width: 325px;
     padding: auto;
     margin: 5px;
     border-radius: 2%;
@@ -27,8 +23,8 @@
 #color-pallete{
     display: inline-block;
     height: 200px;
-    width: 350px;
-    margin:3px;
+    width: 98%;
+    margin:1%;
     padding: auto;
     border-radius: 2%;
 }
@@ -61,7 +57,5 @@
     outline: none;
 }
 #main-container{
-    width: 95%;
-    margin-left: 2.5%;
-    margin-right: 2.5%;
+    margin-left: 3%;
 }
