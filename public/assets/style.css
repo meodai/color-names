@@ -17,7 +17,7 @@
     padding: auto;
     margin: 5px;
     border-radius: 2%;
-    background: var(--frosted_background);
+    background: var(--Frosted_Background);
     border-radius: 2%;
 }
 #color-pallete{
@@ -42,7 +42,7 @@
 }
 #search-bar{
     display: block;
-    background: var(--frosted_background);
+    background: var(--Frosted_Background);
     padding: auto;
     font-size: 26px;
     margin-bottom: 20px;
