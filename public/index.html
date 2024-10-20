@@ -11,6 +11,16 @@
 </head>
 <body>
     <div id="Frosted_Background">
+        <div id="rainbow-picker">
+            <div class="rainbow-swatch" style="background-color: red;" onclick="showShades('red')"></div>
+            <div class="rainbow-swatch" style="background-color: orange;" onclick="showShades('orange')"></div>
+            <div class="rainbow-swatch" style="background-color: yellow;" onclick="showShades('yellow')"></div>
+            <div class="rainbow-swatch" style="background-color: green;" onclick="showShades('green')"></div>
+            <div class="rainbow-swatch" style="background-color: blue;" onclick="showShades('blue')"></div>
+            <div class="rainbow-swatch" style="background-color: indigo;" onclick="showShades('indigo')"></div>
+            <div class="rainbow-swatch" style="background-color: violet;" onclick="showShades('violet')"></div>
+        </div>
+        
     <input type="text" id="search-bar" placeholder="Search colors..." onkeyup="searchColors()"></div>
     <div id="main-container"></div>
     <script type="module" src="secrets/firebase_sdk.js"></script>

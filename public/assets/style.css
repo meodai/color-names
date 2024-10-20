@@ -59,3 +59,21 @@
 #main-container{
     margin-left: 3%;
 }
+#rainbow-picker {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.rainbow-swatch {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    margin: 0 5px;
+    border-radius: 50%;
+    border: 2px solid #ccc;
+}
+
+.rainbow-swatch:hover {
+    border-color: #000;
+}
