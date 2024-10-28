@@ -177,9 +177,13 @@ npm install && npm run build
 See [package.json](package.json#L6) for more.
 
 ### Usage Java/Kotlin ⌨
-Java/Kotlin usage is maintained through this library: [UwUAroze/Color-Names](https://github.com/UwUAroze/Color-Names). Additional info can be found there, but basic usage is outlined below:
+
+Java/Kotlin usage is maintained through this library:
+[UwUAroze/Color-Names](https://github.com/UwUAroze/Color-Names).
+Additional info can be found there, but basic usage is outlined below:
 
 #### Importing - Gradle.kts
+
 ```kts
 repositories {
       maven("https://jitpack.io")
@@ -191,6 +195,7 @@ dependencies {
 ```
 
 #### Importing - Maven
+
 ```xml
 <repository>
   <id>jitpack.io</id>
@@ -205,6 +210,7 @@ dependencies {
 ```
 
 #### Closest named color - Java
+
 ```java
 public ColorNames colorNames = new ColorNameBuilder()
   .loadDefaults()
@@ -216,6 +222,7 @@ String fromColor = colorNames.getName(new Color(255, 219, 240)); // "Silky Pink"
 ```
 
 #### Closest named color - Kotlin
+
 ```kt
 val colorNames = ColorNameBuilder()
   .loadDefaults()
