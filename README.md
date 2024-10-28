@@ -23,7 +23,7 @@ A handpicked list of __30241__ unique color names from
   | <a href="#usage-">Usage</a>
   | <a href="#cdn-">CDN</a>
   | <a href="#api-">Public Rest API</a>
-  | <a href="#usage-js-">Usage JS</a>
+  | <a href="#usage-js-">Usage JS/Java/Kotlin</a>
   | <a href="#sources-">Name Sources</a>
   | <a href="#latest-color-names-">Latest Color Names</a>
   | <a href="#costs--sponsors">Sponsors</a>
@@ -175,6 +175,56 @@ npm install && npm run build
 ```
 
 See [package.json](package.json#L6) for more.
+
+### Usage Java/Kotlin ⌨
+Java/Kotlin usage is maintained through this library: [UwUAroze/Color-Names](https://github.com/UwUAroze/Color-Names). Additional info can be found there, but basic usage is outlined below:
+
+#### Importing - Gradle.kts
+```kts
+repositories {
+      maven("https://jitpack.io")
+}
+
+dependencies {
+      implementation("me.aroze:color-names:1.0.2")
+}
+```
+
+#### Importing - Maven
+```xml
+<repository>
+  <id>jitpack.io</id>
+  <url>https://jitpack.io</url>
+</repository>
+
+<dependency>
+  <groupId>me.aroze</groupId>
+  <artifactId>color-names</artifactId>
+  <version>1.0.2</version>
+</dependency>
+```
+
+#### Closest named color - Java
+```java
+public ColorNames colorNames = new ColorNameBuilder()
+  .loadDefaults()
+  .build();
+
+String fromHex = colorNames.getName("#facfea"); // "Classic Rose"
+String fromRGB = colorNames.getName(224, 224, 255); // "Stoic White"
+String fromColor = colorNames.getName(new Color(255, 219, 240)); // "Silky Pink"
+```
+
+#### Closest named color - Kotlin
+```kt
+val colorNames = ColorNameBuilder()
+  .loadDefaults()
+  .build()
+
+val fromHex = colorNames.getName("#facfea") // "Classic Rose"
+val fromRGB = colorNames.getName(224, 224, 255) // "Stoic White"
+val fromColor = colorNames.getName(Color(255, 219, 240)) // "Silky Pink"
+```
 
 ## Sources 🗒
 
