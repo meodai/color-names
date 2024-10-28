@@ -23,7 +23,7 @@ A handpicked list of __30241__ unique color names from
   | <a href="#usage-">Usage</a>
   | <a href="#cdn-">CDN</a>
   | <a href="#api-">Public Rest API</a>
-  | <a href="#usage-js-">Usage JS</a>
+  | <a href="#usage-js-">Usage JS/Java/Kotlin</a>
   | <a href="#sources-">Name Sources</a>
   | <a href="#latest-color-names-">Latest Color Names</a>
   | <a href="#costs--sponsors">Sponsors</a>
