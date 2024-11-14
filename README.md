@@ -280,7 +280,7 @@ val fromColor = colorNames.getName(Color(255, 219, 240)) // "Silky Pink"
 ### Sponsors
 
 <!-- markdownlint-disable -->
-<!-- sponsors --><a href="https://github.com/dy"><img src="https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;300067?u&#x3D;efb99487680bfaec22ca6433211108df3adeb52e&amp;v&#x3D;4" width="60px" alt="Dmitry Iv." /></a><a href="https://github.com/someguy9"><img src="https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;62267?u&#x3D;aa297269cca2e6466b937abaeca5d6a8914922f2&amp;v&#x3D;4" width="60px" alt="Andy Feliciotti" /></a><a href="https://github.com/CanadaHonk"><img src="https:&#x2F;&#x2F;avatars.githubusercontent.com&#x2F;u&#x2F;19228318?u&#x3D;eea29901f58d6357f0fc2992747d0b4b80d23c8e&amp;v&#x3D;4" width="60px" alt="Oliver Medhurst" /></a><!-- sponsors -->
+<!-- sponsors --><!-- sponsors -->
 <!-- markdownlint-enable -->
 
 ### Past Sponsors
