@@ -1,8 +1,7 @@
-const child_process = require("child_process");
-const readline = require("readline");
+import { execSync } from "child_process";
 
 function cmd(c) {
-  const stdout = child_process.execSync(c);
+  const stdout = execSync(c);
   return stdout.toString().trim();
 }
 

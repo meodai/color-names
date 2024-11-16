@@ -135,12 +135,12 @@ consider using the [public rest API](#api-)
 #### Exact Color
 
 ```javascript
-import { colorNameList } from 'color-name-list';
+import { colornames } from 'color-name-list';
 
-let someColor = colorNameList.find(color => color.hex === '#ffffff');
+let someColor = colornames.find(color => color.hex === '#ffffff');
 console.log(someColor.name); // => white
 
-let someNamedColor = colorNameList.find(color => color.name === 'Eigengrau')
+let someNamedColor = colornames.find(color => color.name === 'Eigengrau')
 console.log(someColor.hex); // => #16161d
 ```
 
@@ -151,10 +151,10 @@ Since there are 16777216 possible RGB colors, you might use a library such as
 
 ```js
 import nearestColor from 'nearest-color';
-import { colorNameList } from 'color-name-list';
+import { colornames } from 'color-name-list';
 
 // nearestColor need objects {name => hex} as input
-const colors = colorNameList.reduce((o, { name, hex }) => Object.assign(o, { [name]: hex }), {});
+const colors = colornames.reduce((o, { name, hex }) => Object.assign(o, { [name]: hex }), {});
 
 const nearest = nearestColor.from(colors);
 

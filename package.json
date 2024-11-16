@@ -4,6 +4,23 @@
   "description": "long list of color names",
   "main": "dist/colornames.json",
   "browser": "dist/colornames.umd.js",
+  "module": "dist/colornames.esm.js",
+  "type": "module",
+  "exports": {
+    ".": {
+      "import": "./dist/colornames.esm.js",
+      "require": "./dist/colornames.umd.js"
+    },
+    "./bestof": {
+      "import": "./dist/colornames.bestof.esm.js",
+      "require": "./dist/colornames.bestof.umd.js"
+    },
+    "./short": {
+      "import": "./dist/colornames.short.esm.js",
+      "require": "./dist/colornames.short.umd.js"
+    },
+    "./package.json": "./package.json"
+  },
   "scripts": {
     "commit": "git-cz",
     "pull-colors": "curl -L 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQube6Y0wHyEtJnjg0eU3N7VseoxVnD4L9uDqvWZdl_tzzrHDVN10IPP7cdFipX8j70atNMLfPCB0Q6/pub?gid=40578722&single=true&output=csv' -o src/colornames.csv",
@@ -11,7 +28,8 @@
     "clean-dist-folder": "rm -rf dist && mkdir dist",
     "build": "npm run clean-dist-folder && node scripts/build.js && npm run build-history",
     "semantic-release": "semantic-release",
-    "build-history": "node scripts/tools/history.js > dist/history.json"
+    "build-history": "node scripts/tools/history.js > dist/history.json",
+    "prepare": "husky"
   },
   "repository": {
     "type": "git",
@@ -37,7 +55,7 @@
     "commitizen": "^4.2.4",
     "eslint": "^8.16.0",
     "eslint-config-google": "^0.10.0",
-    "ghooks": "^2.0.4",
+    "husky": "^9.1.6",
     "seedrandom": "^3.0.5",
     "semantic-release": "^19.0.2"
   },
@@ -46,14 +64,10 @@
     "npm": ">=8.11.0"
   },
   "config": {
-    "ghooks": {
-      "pre-commit": "npm run test && npm run build"
-    },
     "commitizen": {
       "path": "cz-conventional-changelog"
     }
   },
-  "dependencies": {},
   "funding": [
     {
       "type": "ko-fi",

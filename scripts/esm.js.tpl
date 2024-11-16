@@ -1,1 +1,1 @@
-export default ("{{COLORS}}");
+export const colornames = "{{COLORS}}";

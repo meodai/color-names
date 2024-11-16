@@ -1,12 +1,10 @@
-const fs = require('fs');
-const path = require('path');
-const lib = require('./lib.js');
-const parseCSVString = lib.parseCSVString;
-const findDuplicates = lib.findDuplicates;
-const objArrToString = lib.objArrToString;
+import fs from 'fs';
+import path from 'path';
+import { parseCSVString, findDuplicates, objArrToString } from './lib.js';
+import { exec } from 'child_process';
+
 const args = process.argv;
 const isTestRun = !!args.find((arg) => (arg === '--testOnly'));
-const exec = require('child_process').exec;
 
 // only hex colors with 6 values
 const hexColorValidation = /^#[0-9a-f]{6}$/;
@@ -19,6 +17,7 @@ const spacesValidation = /^\s+|\s{2,}|\s$/;
 const quoteValidation = /"|'|`/;
 
 // setting
+const __dirname = path.dirname(new URL(import.meta.url).pathname);
 const baseFolder = __dirname + '/../';
 const folderSrc = 'src/';
 const folderDist = 'dist/';
