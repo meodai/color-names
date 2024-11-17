@@ -57,11 +57,11 @@
     "eslint-config-google": "^0.10.0",
     "husky": "^9.1.6",
     "seedrandom": "^3.0.5",
-    "semantic-release": "^19.0.2"
+    "semantic-release": "^24.2.0"
   },
   "engines": {
-    "node": ">=16",
-    "npm": ">=8.11.0"
+    "node": ">=20.11.0",
+    "npm": ">=10.2.0"
   },
   "config": {
     "commitizen": {
