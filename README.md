@@ -23,7 +23,7 @@ A handpicked list of __30242__ unique color names from
   | <a href="#usage-">Usage</a>
   | <a href="#cdn-">CDN</a>
   | <a href="#api-">Public Rest API</a>
-  | <a href="#usage-js-">Usage JS/Java/Kotlin</a>
+  | <a href="#usage-js-">Usage JS/Java/Kotlin/C#</a>
   | <a href="#sources-">Name Sources</a>
   | <a href="#latest-color-names-">Latest Color Names</a>
   | <a href="#costs--sponsors">Sponsors</a>
@@ -231,6 +231,43 @@ val colorNames = ColorNameBuilder()
 val fromHex = colorNames.getName("#facfea") // "Classic Rose"
 val fromRGB = colorNames.getName(224, 224, 255) // "Stoic White"
 val fromColor = colorNames.getName(Color(255, 219, 240)) // "Silky Pink"
+```
+
+### Usage C# ⌨
+
+C# usage is maintained through this library:
+[vycdev/ColorNamesSharp](https://github.com/vycdev/ColorNamesSharp)
+Additional info can be found there, but basic usage is outlined below:
+
+You can download and install the [nuget package from here.](https://www.nuget.org/packages/ColorNamesSharp) 
+
+#### Creating the instance
+
+```csharp
+ColorNames colorNames = new ColorNamesBuilder()
+	.Add("Best Blue", "#3299fe") // Add your own custom colors
+	.LoadDefault() // Load the default color list
+	.AddFromCsv("path/to/your/colorlist.csv") // Add a custom color list from a csv file
+	.Build(); // Get a new ColorNames instance that includes all the colors you've added
+```
+
+#### Getting a fitting color name
+
+```csharp
+NamedColor customNamedColor = new("Custom Named Color", 50, 153, 254);
+
+// You can directly get the name of the color as a string
+string colorNameFromHex = colorNames.FindClosestColorName("#facfea"); // Classic Rose
+string colorNameFromRgb = colorNames.FindClosestColorName(224, 224, 255); // Stoic White
+string colorNameFromNamedColor = colorNames.FindClosestColorName(customNamedColor); // Best Blue
+
+// Or similarly you can get the NamedColor object
+NamedColor namedColorFromHex = colorNames.FindClosestColorName("#facfea"); // Classic Rose
+NamedColor namedColorFromRgb = colorNames.FindClosestColorName(224, 224, 255); // Stoic White
+NamedColor namedColorFromNamedColor = colorNames.FindClosestColorName(customNamedColor); // Best Blue
+
+// Or a random color
+NamedColor randomColor = colorNames.GetRandomNamedColor();
 ```
 
 ## Sources 🗒
