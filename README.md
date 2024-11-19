@@ -239,16 +239,16 @@ C# usage is maintained through this library:
 [vycdev/ColorNamesSharp](https://github.com/vycdev/ColorNamesSharp)
 Additional info can be found there, but basic usage is outlined below:
 
-You can download and install the [nuget package from here.](https://www.nuget.org/packages/ColorNamesSharp) 
+The library is available as a [nuget package](https://www.nuget.org/packages/ColorNamesSharp)
 
 #### Creating the instance
 
 ```csharp
 ColorNames colorNames = new ColorNamesBuilder()
-	.Add("Best Blue", "#3299fe") // Add your own custom colors
-	.LoadDefault() // Load the default color list
-	.AddFromCsv("path/to/your/colorlist.csv") // Add a custom color list from a csv file
-	.Build(); // Get a new ColorNames instance that includes all the colors you've added
+  .Add("Best Blue", "#3299fe") // Add your own custom colors
+  .LoadDefault() // Load the default color list
+  .AddFromCsv("path/to/your/colorlist.csv") // Add a custom color list from a csv file
+  .Build(); // Get a new ColorNames instance that includes all the colors you've added
 ```
 
 #### Getting a fitting color name
