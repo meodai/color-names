@@ -41,7 +41,7 @@ const src = fs.readFileSync(
 const colorsSrc = parseCSVString(src);
 
 // sort by sorting criteria
-colorsSrc.entires.sort((a, b) => {
+colorsSrc.entries.sort((a, b) => {
   return a[sortBy].localeCompare(b[sortBy]);
 });
 
@@ -101,7 +101,7 @@ if (isTestRun) {
 
 // creates JS related files
 const JSONExportString = JSON.stringify(
-  [...colorsSrc.entires].map( // removes good name attributes
+  [...colorsSrc.entries].map( // removes good name attributes
     (val) => ({
       name: val.name,
       hex: val.hex,
@@ -110,7 +110,7 @@ const JSONExportString = JSON.stringify(
 );
 
 const JSONExportStringBestOf = JSON.stringify(
-  [...colorsSrc.entires].filter(
+  [...colorsSrc.entries].filter(
     (val) => (val[bestOfKey])
   ).map( // removes good name attributes
     (val) => ({
@@ -121,7 +121,7 @@ const JSONExportStringBestOf = JSON.stringify(
 );
 
 const JSONExportStringShort = JSON.stringify(
-  [...colorsSrc.entires]
+  [...colorsSrc.entries]
     .filter(
       // make sure its only one word long
       (val) =>
@@ -154,19 +154,19 @@ fs.writeFileSync(
 );
 
 // creates a more compact JSON file, where the HEX color serves as an id
-const miniJSONExportObj = colorsSrc.entires.reduce((obj, entry) => {
+const miniJSONExportObj = colorsSrc.entries.reduce((obj, entry) => {
   obj[entry.hex.replace('#', '')] = entry.name;
   return obj;
 }, {});
 
-const miniJSONExportObjBestOf = colorsSrc.entires.reduce((obj, entry) => {
+const miniJSONExportObjBestOf = colorsSrc.entries.reduce((obj, entry) => {
   if(entry[bestOfKey]) {
     obj[entry.hex.replace('#', '')] = entry.name;
   }
   return obj;
 }, {});
 
-const miniJSONExportObjShort = colorsSrc.entires.reduce((obj, entry) => {
+const miniJSONExportObjShort = colorsSrc.entries.reduce((obj, entry) => {
   if (
     entry[bestOfKey] &&
     //entry.name.split(" ").length === 1 &&
@@ -287,7 +287,7 @@ const outputFormats = {
 for (const outputFormat in outputFormats) {
   if (outputFormats[outputFormat]) {
     let outputString = objArrToString(
-        colorsSrc.entires,
+        colorsSrc.entries,
         csvKeys,
         outputFormats[outputFormat]
     );
@@ -305,7 +305,7 @@ for (const outputFormat in outputFormats) {
 for (const outputFormat in outputFormats) {
   if (outputFormats[outputFormat]) {
     let outputString = objArrToString(
-      colorsSrc.entires.filter((val) => (val[bestOfKey])),
+      colorsSrc.entries.filter((val) => (val[bestOfKey])),
       csvKeys,
       outputFormats[outputFormat]
     );
@@ -323,7 +323,7 @@ for (const outputFormat in outputFormats) {
 for (const outputFormat in outputFormats) {
   if (outputFormats[outputFormat]) {
     let outputString = objArrToString(
-      colorsSrc.entires.filter(
+      colorsSrc.entries.filter(
         (val) =>
           val[bestOfKey] &&
           //val.name.split(" ").length === 1 &&
@@ -352,15 +352,15 @@ fs.writeFileSync(
   readme.replace(
       // update color count in text
       /__\d+__/g,
-      `__${colorsSrc.entires.length}__`
+      `__${colorsSrc.entries.length}__`
     ).replace(
       // update color count in badge
       /\d+-colors-orange/,
-      `${colorsSrc.entires.length}-colors-orange`
+      `${colorsSrc.entries.length}-colors-orange`
     ).replace(
       // update color count in percentage
       /__\d+(\.\d+)?%__/,
-      `__${((colorsSrc.entires.length / (256 * 256 * 256)) * 100).toFixed(2)}%__`
+      `__${((colorsSrc.entries.length / (256 * 256 * 256)) * 100).toFixed(2)}%__`
     ).replace(
       // update file size
       /\d+(\.\d+)? MB\)__/g,
@@ -399,7 +399,7 @@ function showLog() {
 function log(key, value, message, errorLevel = 1) {
   const error = {};
   // looks for the original item that caused the error
-  error.entries = colorsSrc.entires.filter((entry) => {
+  error.entries = colorsSrc.entries.filter((entry) => {
     return entry[key] === value;
   });
 

@@ -27,7 +27,7 @@ export const parseCSVString = (
     values[header] = [];
   });
 
-  const entires = rows.map((row) => {
+  const entries = rows.map((row) => {
     // decomposes each row into its single entries
     const rowArr = row.split(csvDelimitor);
 
@@ -46,7 +46,7 @@ export const parseCSVString = (
     return entry;
   });
 
-  return {headers, entires, values};
+  return {headers, entries, values};
 };
 
 /**
