@@ -418,7 +418,7 @@ const svgTpl = fs.readFileSync(
 // generates an SVG image with the new color based on the diff ot the last commit to the current
 function diffSVG() {
   exec(
-    `git diff -U0 HEAD ${baseFolder}${folderDist}${fileNameSrc}.csv | tr -d '\\n'`,
+    `git diff -U0 HEAD ${baseFolder}${folderDist}${fileNameSrc}.csv`,
     function (err, stdout, stderr) {
       const diffTxt = stdout;
       if (!/(?<=^[\+])[^\+].*/gm.test(diffTxt)) return;
