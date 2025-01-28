@@ -4241,6 +4241,9 @@
   name:"Aths Special"
   hex:"#d5cbb2"
 -
+  name:"Ati-Ati Amber"
+  hex:"#ff7e02"
+-
   name:"Atlantic Blue"
   hex:"#008997"
 -
@@ -5639,6 +5642,9 @@
   name:"Bananas Foster"
   hex:"#dbbe97"
 -
+  name:"Banaue Jade"
+  hex:"#00a86c"
+-
   name:"Bancha"
   hex:"#666a47"
 -
@@ -5713,6 +5719,9 @@
 -
   name:"Baragon Brown"
   hex:"#551100"
+-
+  name:"Barako Brew"
+  hex:"#4b2d2a"
 -
   name:"Barbados"
   hex:"#3e6676"
@@ -21904,6 +21913,9 @@
 -
   name:"DaVanzo Green"
   hex:"#58936d"
+-
+  name:"Davao Durian"
+  hex:"#6c4226"
 -
   name:"Davao Green"
   hex:"#b1d27b"
@@ -48305,6 +48317,9 @@
   name:"Manila"
   hex:"#e7c9a9"
 -
+  name:"Manila Sunset"
+  hex:"#ff6e61"
+-
   name:"Manila Tint"
   hex:"#ffe2a7"
 -
@@ -49165,6 +49180,9 @@
 -
   name:"Mayfly"
   hex:"#696841"
+-
+  name:"Mayon Mist"
+  hex:"#e1e6f0"
 -
   name:"Mayonnaise"
   hex:"#f6eed1"
@@ -70106,6 +70124,9 @@
   name:"Samovar Silver"
   hex:"#b8bebe"
 -
+  name:"Sampaguita Pearl"
+  hex:"#f7f3e6"
+-
   name:"Samphire Green"
   hex:"#4db560"
 -
@@ -73750,6 +73771,9 @@
 -
   name:"Sin City"
   hex:"#cfa236"
+-
+  name:"Sinag Gold"
+  hex:"#ffd500"
 -
   name:"Sinatra"
   hex:"#4675b7"
@@ -83461,6 +83485,9 @@
 -
   name:"Tuatara"
   hex:"#454642"
+-
+  name:"Tubbataha Teal"
+  hex:"#0e8787"
 -
   name:"Tuberose"
   hex:"#fffaec"
