@@ -1115,6 +1115,9 @@
   name:"Align"
   hex:"#00728d"
 -
+  name:"Alishan Dawn"
+  hex:"#fedab9"
+-
   name:"Alizarin"
   hex:"#e34636"
 -
@@ -2245,9 +2248,6 @@
 -
   name:"Angel Wing"
   hex:"#f3dfd7"
--
-  name:"Angel’s Face"
-  hex:"#eed4c8"
 -
   name:"Angel’s Feather"
   hex:"#f3f1e6"
@@ -6632,8 +6632,14 @@
   name:"Beef Jerky"
   hex:"#a25768"
 -
+  name:"Beef Noodle Broth"
+  hex:"#8a4512"
+-
   name:"Beef Patties"
   hex:"#bb5533"
+-
+  name:"Beefy Pink"
+  hex:"#debeef"
 -
   name:"Beehive"
   hex:"#e1b781"
@@ -9872,9 +9878,6 @@
   name:"Blush Sky"
   hex:"#dee1ed"
 -
-  name:"Blush Tint"
-  hex:"#f4e1e6"
--
   name:"Blushed Bombshell"
   hex:"#ee88cc"
 -
@@ -10901,9 +10904,6 @@
   name:"Bricky Brick"
   hex:"#b33a22"
 -
-  name:"Bridal Blush"
-  hex:"#e5d3cc"
--
   name:"Bridal Bouquet"
   hex:"#ebbdb8"
 -
@@ -10913,14 +10913,14 @@
   name:"Bridal Rose"
   hex:"#d1949c"
 -
+  name:"Bridal Scent"
+  hex:"#e5d3cc"
+-
   name:"Bridal Veil"
   hex:"#e7e1de"
 -
   name:"Bride"
   hex:"#efe7eb"
--
-  name:"Bride’s Blush"
-  hex:"#f9e2e1"
 -
   name:"Bridesmaid"
   hex:"#fae6df"
@@ -19327,9 +19327,6 @@
 -
   name:"Cos"
   hex:"#a4c48e"
--
-  name:"Cosmetic Blush"
-  hex:"#f6e7e2"
 -
   name:"Cosmetic Mauve"
   hex:"#d3bed5"
@@ -36034,6 +36031,9 @@
 -
   name:"Guava"
   hex:"#ff982e"
+-
+  name:"Guava Glow"
+  hex:"#eec0d2"
 -
   name:"Guava Green"
   hex:"#a18d0d"
@@ -57317,6 +57317,9 @@
   name:"Oyster Mushroom"
   hex:"#b8bcbe"
 -
+  name:"Oyster Omelette Cream"
+  hex:"#f5e6cc"
+-
   name:"Oyster Pink"
   hex:"#d4b5b0"
 -
@@ -60812,6 +60815,9 @@
   name:"Pineapple Blossom"
   hex:"#b4655c"
 -
+  name:"Pineapple Cake"
+  hex:"#edbb6e"
+-
   name:"Pineapple Cream"
   hex:"#f2eac3"
 -
@@ -60823,6 +60829,9 @@
 -
   name:"Pineapple Fizz"
   hex:"#f9f0d6"
+-
+  name:"Pineapple Gold"
+  hex:"#ffc72c"
 -
   name:"Pineapple High"
   hex:"#ebeb57"
@@ -80099,6 +80108,9 @@
   name:"Tailwind"
   hex:"#f5e8cf"
 -
+  name:"Tainan Brick"
+  hex:"#b54a4a"
+-
   name:"Tainted Gold"
   hex:"#ead795"
 -
@@ -90544,6 +90556,9 @@
 -
   name:"Yuma Sand"
   hex:"#cfc5ae"
+-
+  name:"Yushan Green"
+  hex:"#1f911f"
 -
   name:"Yuzu Jam"
   hex:"#fdd200"

@@ -1489,6 +1489,10 @@
 <hex>#00728d</hex>
 </color>
 <color>
+<name>Alishan Dawn</name>
+<hex>#fedab9</hex>
+</color>
+<color>
 <name>Alizarin</name>
 <hex>#e34636</hex>
 </color>
@@ -2995,10 +2999,6 @@
 <color>
 <name>Angel Wing</name>
 <hex>#f3dfd7</hex>
-</color>
-<color>
-<name>Angel’s Face</name>
-<hex>#eed4c8</hex>
 </color>
 <color>
 <name>Angel’s Feather</name>
@@ -8845,8 +8845,16 @@
 <hex>#a25768</hex>
 </color>
 <color>
+<name>Beef Noodle Broth</name>
+<hex>#8a4512</hex>
+</color>
+<color>
 <name>Beef Patties</name>
 <hex>#bb5533</hex>
+</color>
+<color>
+<name>Beefy Pink</name>
+<hex>#debeef</hex>
 </color>
 <color>
 <name>Beehive</name>
@@ -13165,10 +13173,6 @@
 <hex>#dee1ed</hex>
 </color>
 <color>
-<name>Blush Tint</name>
-<hex>#f4e1e6</hex>
-</color>
-<color>
 <name>Blushed Bombshell</name>
 <hex>#ee88cc</hex>
 </color>
@@ -14537,10 +14541,6 @@
 <hex>#b33a22</hex>
 </color>
 <color>
-<name>Bridal Blush</name>
-<hex>#e5d3cc</hex>
-</color>
-<color>
 <name>Bridal Bouquet</name>
 <hex>#ebbdb8</hex>
 </color>
@@ -14553,16 +14553,16 @@
 <hex>#d1949c</hex>
 </color>
 <color>
+<name>Bridal Scent</name>
+<hex>#e5d3cc</hex>
+</color>
+<color>
 <name>Bridal Veil</name>
 <hex>#e7e1de</hex>
 </color>
 <color>
 <name>Bride</name>
 <hex>#efe7eb</hex>
-</color>
-<color>
-<name>Bride’s Blush</name>
-<hex>#f9e2e1</hex>
 </color>
 <color>
 <name>Bridesmaid</name>
@@ -25771,10 +25771,6 @@
 <color>
 <name>Cos</name>
 <hex>#a4c48e</hex>
-</color>
-<color>
-<name>Cosmetic Blush</name>
-<hex>#f6e7e2</hex>
 </color>
 <color>
 <name>Cosmetic Mauve</name>
@@ -48047,6 +48043,10 @@
 <color>
 <name>Guava</name>
 <hex>#ff982e</hex>
+</color>
+<color>
+<name>Guava Glow</name>
+<hex>#eec0d2</hex>
 </color>
 <color>
 <name>Guava Green</name>
@@ -76425,6 +76425,10 @@
 <hex>#b8bcbe</hex>
 </color>
 <color>
+<name>Oyster Omelette Cream</name>
+<hex>#f5e6cc</hex>
+</color>
+<color>
 <name>Oyster Pink</name>
 <hex>#d4b5b0</hex>
 </color>
@@ -81085,6 +81089,10 @@
 <hex>#b4655c</hex>
 </color>
 <color>
+<name>Pineapple Cake</name>
+<hex>#edbb6e</hex>
+</color>
+<color>
 <name>Pineapple Cream</name>
 <hex>#f2eac3</hex>
 </color>
@@ -81099,6 +81107,10 @@
 <color>
 <name>Pineapple Fizz</name>
 <hex>#f9f0d6</hex>
+</color>
+<color>
+<name>Pineapple Gold</name>
+<hex>#ffc72c</hex>
 </color>
 <color>
 <name>Pineapple High</name>
@@ -106801,6 +106813,10 @@
 <hex>#f5e8cf</hex>
 </color>
 <color>
+<name>Tainan Brick</name>
+<hex>#b54a4a</hex>
+</color>
+<color>
 <name>Tainted Gold</name>
 <hex>#ead795</hex>
 </color>
@@ -120727,6 +120743,10 @@
 <color>
 <name>Yuma Sand</name>
 <hex>#cfc5ae</hex>
+</color>
+<color>
+<name>Yushan Green</name>
+<hex>#1f911f</hex>
 </color>
 <color>
 <name>Yuzu Jam</name>
