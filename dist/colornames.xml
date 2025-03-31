@@ -841,6 +841,10 @@
 <hex>#fbcb78</hex>
 </color>
 <color>
+<name>Afternoon Coffee</name>
+<hex>#6e544b</hex>
+</color>
+<color>
 <name>Afternoon Sky</name>
 <hex>#87ceeb</hex>
 </color>
@@ -2937,16 +2941,8 @@
 <hex>#83c5cd</hex>
 </color>
 <color>
-<name>Angel Blush</name>
-<hex>#f7e3da</hex>
-</color>
-<color>
 <name>Angel Breath</name>
 <hex>#dcaf9f</hex>
-</color>
-<color>
-<name>Angel Face Rose</name>
-<hex>#fe83cc</hex>
 </color>
 <color>
 <name>Angel Falls</name>
@@ -3035,10 +3031,6 @@
 <color>
 <name>Angelic Descent</name>
 <hex>#eecc33</hex>
-</color>
-<color>
-<name>Angelic Eyes</name>
-<hex>#bbd1e8</hex>
 </color>
 <color>
 <name>Angelic Sent</name>
@@ -3150,7 +3142,7 @@
 </color>
 <color>
 <name>Anise Biscotti</name>
-<hex>#c0baaf</hex>
+<hex>#e5d5ae</hex>
 </color>
 <color>
 <name>Anise Flower</name>
@@ -24077,10 +24069,6 @@
 <hex>#362d26</hex>
 </color>
 <color>
-<name>Coffee Beans</name>
-<hex>#6e544b</hex>
-</color>
-<color>
 <name>Coffee Brick</name>
 <hex>#6f0c0d</hex>
 </color>
@@ -28695,6 +28683,10 @@
 <color>
 <name>Dark Grey Mauve</name>
 <hex>#4e4459</hex>
+</color>
+<color>
+<name>Dark Gunmetal</name>
+<hex>#222429</hex>
 </color>
 <color>
 <name>Dark Horizon</name>
@@ -55333,10 +55325,6 @@
 <hex>#005d96</hex>
 </color>
 <color>
-<name>Jetstream</name>
-<hex>#b0d2d6</hex>
-</color>
-<color>
 <name>Jeune Citron</name>
 <hex>#a6d40d</hex>
 </color>
@@ -69831,6 +69819,10 @@
 <color>
 <name>Moss Covered</name>
 <hex>#7a7e66</hex>
+</color>
+<color>
+<name>Moss Gardens</name>
+<hex>#768b59</hex>
 </color>
 <color>
 <name>Moss Glen</name>

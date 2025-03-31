@@ -629,6 +629,9 @@
   name:"Afternoon"
   hex:"#fbcb78"
 -
+  name:"Afternoon Coffee"
+  hex:"#6e544b"
+-
   name:"Afternoon Sky"
   hex:"#87ceeb"
 -
@@ -2201,14 +2204,8 @@
   name:"Angel Blue"
   hex:"#83c5cd"
 -
-  name:"Angel Blush"
-  hex:"#f7e3da"
--
   name:"Angel Breath"
   hex:"#dcaf9f"
--
-  name:"Angel Face Rose"
-  hex:"#fe83cc"
 -
   name:"Angel Falls"
   hex:"#a3bdd3"
@@ -2275,9 +2272,6 @@
 -
   name:"Angelic Descent"
   hex:"#eecc33"
--
-  name:"Angelic Eyes"
-  hex:"#bbd1e8"
 -
   name:"Angelic Sent"
   hex:"#e3dfea"
@@ -2361,7 +2355,7 @@
   hex:"#ff7a83"
 -
   name:"Anise Biscotti"
-  hex:"#c0baaf"
+  hex:"#e5d5ae"
 -
   name:"Anise Flower"
   hex:"#f4e3b5"
@@ -18056,9 +18050,6 @@
   name:"Coffee Bean"
   hex:"#362d26"
 -
-  name:"Coffee Beans"
-  hex:"#6e544b"
--
   name:"Coffee Brick"
   hex:"#6f0c0d"
 -
@@ -21520,6 +21511,9 @@
 -
   name:"Dark Grey Mauve"
   hex:"#4e4459"
+-
+  name:"Dark Gunmetal"
+  hex:"#222429"
 -
   name:"Dark Horizon"
   hex:"#666699"
@@ -41498,9 +41492,6 @@
   name:"Jetski Race"
   hex:"#005d96"
 -
-  name:"Jetstream"
-  hex:"#b0d2d6"
--
   name:"Jeune Citron"
   hex:"#a6d40d"
 -
@@ -52372,6 +52363,9 @@
 -
   name:"Moss Covered"
   hex:"#7a7e66"
+-
+  name:"Moss Gardens"
+  hex:"#768b59"
 -
   name:"Moss Glen"
   hex:"#4a473f"
