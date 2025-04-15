@@ -1,0 +1,81 @@
+{
+  "name": "color-name-list",
+  "version": "0.0.0-development",
+  "description": "long list of color names",
+  "main": "dist/colornames.json",
+  "browser": "dist/colornames.umd.js",
+  "module": "dist/colornames.esm.js",
+  "type": "module",
+  "exports": {
+    ".": {
+      "import": "./dist/colornames.esm.js",
+      "require": "./dist/colornames.umd.js"
+    },
+    "./bestof": {
+      "import": "./dist/colornames.bestof.esm.js",
+      "require": "./dist/colornames.bestof.umd.js"
+    },
+    "./short": {
+      "import": "./dist/colornames.short.esm.js",
+      "require": "./dist/colornames.short.umd.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "scripts": {
+    "commit": "git-cz",
+    "pull-colors": "curl -L 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQube6Y0wHyEtJnjg0eU3N7VseoxVnD4L9uDqvWZdl_tzzrHDVN10IPP7cdFipX8j70atNMLfPCB0Q6/pub?gid=40578722&single=true&output=csv' -o src/colornames.csv",
+    "test": "node scripts/build.js --testOnly",
+    "clean-dist-folder": "rm -rf dist && mkdir dist",
+    "build": "npm run clean-dist-folder && node scripts/build.js && npm run build-history",
+    "semantic-release": "semantic-release",
+    "build-history": "node scripts/tools/history.js > dist/history.json",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meodai/color-names.git"
+  },
+  "keywords": [
+    "colors",
+    "color",
+    "colour",
+    "colours",
+    "names",
+    "naming"
+  ],
+  "author": "meodai@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meodai/color-names/issues"
+  },
+  "homepage": "https://github.com/meodai/color-names#readme",
+  "devDependencies": {
+    "closestvector": "^0.6.0",
+    "color-name-lists": "^3.2.0",
+    "commitizen": "^4.2.4",
+    "eslint": "^8.16.0",
+    "eslint-config-google": "^0.10.0",
+    "husky": "^9.1.6",
+    "seedrandom": "^3.0.5",
+    "semantic-release": "^24.2.0"
+  },
+  "engines": {
+    "node": ">=20.11.0",
+    "npm": ">=10.2.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "funding": [
+    {
+      "type": "ko-fi",
+      "url": "https://ko-fi.com/colorparrot"
+    },
+    {
+      "type": "github-sponsors",
+      "url": "https://github.com/sponsors/meodai"
+    }
+  ]
+}
