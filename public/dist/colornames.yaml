@@ -365,8 +365,8 @@
   name:"Adaptive Shade"
   hex:"#867e70"
 -
-  name:"Addo Skin"
-  hex:"#585d58"
+  name:"Addo"
+  hex:"#545651"
 -
   name:"Adeline"
   hex:"#ccb0b5"
@@ -569,9 +569,6 @@
   name:"African Plain"
   hex:"#86714a"
 -
-  name:"African Queen"
-  hex:"#645e42"
--
   name:"African Safari"
   hex:"#b16b40"
 -
@@ -628,6 +625,9 @@
 -
   name:"Afternoon"
   hex:"#fbcb78"
+-
+  name:"Afternoon Coffee"
+  hex:"#6e544b"
 -
   name:"Afternoon Sky"
   hex:"#87ceeb"
@@ -994,9 +994,6 @@
 -
   name:"Alden Till"
   hex:"#7a4b49"
--
-  name:"Alert Tan"
-  hex:"#954e2c"
 -
   name:"Alesan"
   hex:"#efc1a6"
@@ -2201,14 +2198,8 @@
   name:"Angel Blue"
   hex:"#83c5cd"
 -
-  name:"Angel Blush"
-  hex:"#f7e3da"
--
   name:"Angel Breath"
   hex:"#dcaf9f"
--
-  name:"Angel Face Rose"
-  hex:"#fe83cc"
 -
   name:"Angel Falls"
   hex:"#a3bdd3"
@@ -2275,9 +2266,6 @@
 -
   name:"Angelic Descent"
   hex:"#eecc33"
--
-  name:"Angelic Eyes"
-  hex:"#bbd1e8"
 -
   name:"Angelic Sent"
   hex:"#e3dfea"
@@ -2361,7 +2349,7 @@
   hex:"#ff7a83"
 -
   name:"Anise Biscotti"
-  hex:"#c0baaf"
+  hex:"#e5d5ae"
 -
   name:"Anise Flower"
   hex:"#f4e3b5"
@@ -5752,6 +5740,9 @@
 -
   name:"Barbecue"
   hex:"#c26157"
+-
+  name:"Barbecue Sauce"
+  hex:"#471c0f"
 -
   name:"Barbera"
   hex:"#8b031c"
@@ -18056,9 +18047,6 @@
   name:"Coffee Bean"
   hex:"#362d26"
 -
-  name:"Coffee Beans"
-  hex:"#6e544b"
--
   name:"Coffee Brick"
   hex:"#6f0c0d"
 -
@@ -21520,6 +21508,9 @@
 -
   name:"Dark Grey Mauve"
   hex:"#4e4459"
+-
+  name:"Dark Gunmetal"
+  hex:"#222429"
 -
   name:"Dark Horizon"
   hex:"#666699"
@@ -29173,6 +29164,9 @@
 -
   name:"Flame Hawkfish"
   hex:"#960018"
+-
+  name:"Flame Lily"
+  hex:"#ce0644"
 -
   name:"Flame of Prometheus"
   hex:"#db3c02"
@@ -41498,9 +41492,6 @@
   name:"Jetski Race"
   hex:"#005d96"
 -
-  name:"Jetstream"
-  hex:"#b0d2d6"
--
   name:"Jeune Citron"
   hex:"#a6d40d"
 -
@@ -52372,6 +52363,9 @@
 -
   name:"Moss Covered"
   hex:"#7a7e66"
+-
+  name:"Moss Gardens"
+  hex:"#768b59"
 -
   name:"Moss Glen"
   hex:"#4a473f"

@@ -74,6 +74,9 @@
   name:"After the Storm"
   hex:"#33616a"
 -
+  name:"Afternoon Coffee"
+  hex:"#6e544b"
+-
   name:"Aged Antics"
   hex:"#886b2e"
 -
@@ -213,7 +216,7 @@
   hex:"#ff7a83"
 -
   name:"Anise Biscotti"
-  hex:"#c0baaf"
+  hex:"#e5d5ae"
 -
   name:"Anna Banana"
   hex:"#f5d547"
@@ -343,6 +346,9 @@
 -
   name:"Arrowwood"
   hex:"#b3861e"
+-
+  name:"Arsenic"
+  hex:"#3b444b"
 -
   name:"Artichoke"
   hex:"#8f9779"
@@ -2213,6 +2219,9 @@
   name:"Clay"
   hex:"#b66a50"
 -
+  name:"Clean Slate"
+  hex:"#577396"
+-
   name:"Clear Sky"
   hex:"#8eccfe"
 -
@@ -4021,6 +4030,9 @@
 -
   name:"Flame"
   hex:"#e25822"
+-
+  name:"Flame Lily"
+  hex:"#ce0644"
 -
   name:"Flame of Prometheus"
   hex:"#db3c02"
@@ -8024,6 +8036,9 @@
   name:"Moss"
   hex:"#009051"
 -
+  name:"Moss Gardens"
+  hex:"#768b59"
+-
   name:"Mosslands"
   hex:"#779966"
 -
@@ -10421,6 +10436,9 @@
   name:"Retro Vibe"
   hex:"#cb9711"
 -
+  name:"Rich Black"
+  hex:"#004040"
+-
   name:"Rich Gold"
   hex:"#aa8833"
 -
@@ -11323,6 +11341,9 @@
 -
   name:"Smoking Mirror"
   hex:"#a29587"
+-
+  name:"Smoky"
+  hex:"#605d6b"
 -
   name:"Smoky Charcoal"
   hex:"#34282c"
