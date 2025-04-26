@@ -8015,6 +8015,9 @@
   name:"Black White"
   hex:"#e5e4db"
 -
+  name:"Black-Hearted"
+  hex:"#3e1825"
+-
   name:"Blackadder"
   hex:"#292c2c"
 -
@@ -9278,6 +9281,9 @@
   name:"Blue Mountain"
   hex:"#759dbe"
 -
+  name:"Blue Murder"
+  hex:"#2539bf"
+-
   name:"Blue Nebula"
   hex:"#1199ff"
 -
@@ -9668,7 +9674,7 @@
   name:"Blue-Black"
   hex:"#24313d"
 -
-  name:"Blue-Collar Worker"
+  name:"Blue-Collar"
   hex:"#005f7a"
 -
   name:"Blue-Eyed Boy"
@@ -11594,6 +11600,9 @@
   name:"Brown Stone"
   hex:"#5f3f3d"
 -
+  name:"Brown Study"
+  hex:"#4a290d"
+-
   name:"Brown Suede"
   hex:"#5b4f41"
 -
@@ -11626,6 +11635,9 @@
 -
   name:"Brown-Bag-It"
   hex:"#ddbda3"
+-
+  name:"Brown-Noser"
+  hex:"#79512c"
 -
   name:"Browned Off"
   hex:"#bb4433"
@@ -33611,6 +33623,9 @@
   name:"Golden Mary"
   hex:"#f0be3a"
 -
+  name:"Golden Mean"
+  hex:"#c49b35"
+-
   name:"Golden Mist"
   hex:"#d4c990"
 -
@@ -35365,6 +35380,9 @@
 -
   name:"Green Yellow"
   hex:"#c6f808"
+-
+  name:"Green-Eyed Monster"
+  hex:"#346e23"
 -
   name:"Greenalicious"
   hex:"#00dd00"
@@ -64406,6 +64424,9 @@
   name:"Purple Passion"
   hex:"#784674"
 -
+  name:"Purple Patch"
+  hex:"#5c2e88"
+-
   name:"Purple Pennant"
   hex:"#452e4a"
 -
@@ -66217,6 +66238,9 @@
 -
   name:"Red Menace"
   hex:"#aa2121"
+-
+  name:"Red Mist"
+  hex:"#c92b1e"
 -
   name:"Red Mull"
   hex:"#ff8888"
@@ -88271,6 +88295,9 @@
   name:"White Zin"
   hex:"#f8eee3"
 -
+  name:"White-Collar"
+  hex:"#dedbde"
+-
   name:"White-Red"
   hex:"#f3e8ea"
 -
@@ -90190,6 +90217,9 @@
 -
   name:"Yellow Powder"
   hex:"#fcfd74"
+-
+  name:"Yellow Press"
+  hex:"#e6e382"
 -
   name:"Yellow Rose"
   hex:"#fff000"

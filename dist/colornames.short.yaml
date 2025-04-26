@@ -608,6 +608,9 @@
   name:"Black Mana"
   hex:"#858585"
 -
+  name:"Black Market"
+  hex:"#222244"
+-
   name:"Black Metal"
   hex:"#060606"
 -
@@ -716,6 +719,9 @@
   name:"Blue Chip"
   hex:"#1d5699"
 -
+  name:"Blue Funk"
+  hex:"#2d4470"
+-
   name:"Blue Haze"
   hex:"#bdbace"
 -
@@ -748,6 +754,9 @@
 -
   name:"Blue Whale"
   hex:"#1e3442"
+-
+  name:"Blue-Collar"
+  hex:"#005f7a"
 -
   name:"Bluebell"
   hex:"#333399"
@@ -2950,6 +2959,9 @@
 -
   name:"Golden Lion"
   hex:"#f3ca6c"
+-
+  name:"Golden Mean"
+  hex:"#c49b35"
 -
   name:"Golden Mist"
   hex:"#d4c990"
@@ -6680,6 +6692,9 @@
   name:"Red Menace"
   hex:"#aa2121"
 -
+  name:"Red Mist"
+  hex:"#c92b1e"
+-
   name:"Red My Mind"
   hex:"#994341"
 -
@@ -8572,6 +8587,9 @@
 -
   name:"Yellow Mana"
   hex:"#fdfcbf"
+-
+  name:"Yellow Press"
+  hex:"#e6e382"
 -
   name:"Yellowish"
   hex:"#faee66"
