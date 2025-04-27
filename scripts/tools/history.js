@@ -1,14 +1,18 @@
 import { execSync } from "child_process";
 
 function cmd(c) {
-  const stdout = execSync(c);
+  const stdout = execSync(c, {
+    maxBuffer: 1024 * 1024 * 100,
+  });
   return stdout.toString().trim();
 }
 
 // Print the list of colors added/removed/changed by date.
 async function main() {
   // Grab the list of all git commits
-  const allCommits = cmd("git log --pretty=format:%h")
+  const allCommits = cmd(
+    "git log --pretty=format:%h --no-merges --follow -- ./src/colornames.csv"
+  )
     .split("\n")
     .filter(Boolean);
 
@@ -17,7 +21,9 @@ async function main() {
 
   for (const commit of allCommits) {
     // Figure out what changed in that particular commit
-    const diff = cmd(`git show ${commit} -- ./src/colornames.csv`)
+    const diff = cmd(
+      `git show --ignore-cr-at-eol ${commit} -- ./src/colornames.csv`
+    )
       .split("\n")
       .filter(Boolean);
 
