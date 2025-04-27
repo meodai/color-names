@@ -36,7 +36,7 @@ async function main() {
       }
       const name = res.groups?.name;
       const hex = res.groups?.hex?.trim(); // Remove any \r or whitespace
-      var op = res.groups?.op;
+      let op = res.groups?.op;
 
       // If a value already introduced with a different op, then it's
       // a modification

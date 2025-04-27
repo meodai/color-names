@@ -123,7 +123,7 @@ const JSONExportStringShort = JSON.stringify(
       // make sure its only one word long
       (val) =>
         val[bestOfKey] &&
-        //val.name.split(" ").length === 1 &&
+        // val.name.split(" ").length === 1 &&
         val.name.length < maxShortNameLength + 1
     )
     .map(
@@ -163,7 +163,7 @@ const miniJSONExportObjBestOf = colorsSrc.entries.reduce((obj, entry) => {
 const miniJSONExportObjShort = colorsSrc.entries.reduce((obj, entry) => {
   if (
     entry[bestOfKey] &&
-    //entry.name.split(" ").length === 1 &&
+    // entry.name.split(" ").length === 1 &&
     entry.name.length < maxShortNameLength + 1
   ) {
     obj[entry.hex.replace('#', '')] = entry.name;
@@ -312,7 +312,7 @@ for (const outputFormat in outputFormats) {
       colorsSrc.entries.filter(
         (val) =>
           val[bestOfKey] &&
-          //val.name.split(" ").length === 1 &&
+          // val.name.split(" ").length === 1 &&
           val.name.length < maxShortNameLength + 1
       ),
       csvKeys,
@@ -376,7 +376,7 @@ function showLog() {
     console.log('*-------------------------*');
   });
   if (errorLevel) {
-    throw `⚠ failed because of the ${totalErrors} error${totalErrors > 1 ? 's' : ''} above ⚠`;
+    throw new Error(`⚠ failed because of the ${totalErrors} error${totalErrors > 1 ? 's' : ''} above ⚠`);
   }
   return totalErrors;
 }
@@ -410,8 +410,8 @@ function diffSVG() {
     `git diff -U0 HEAD ${baseFolder}${folderDist}${fileNameSrc}.csv`,
     function (err, stdout, stderr) {
       const diffTxt = stdout;
-      if (!/(?<=^[\+])[^\+].*/gm.test(diffTxt)) return;
-      const changes = diffTxt.match(/(?<=^[\+])[^\+].*/gm).filter((i) => i);
+      if (!/(?<=^[+])[^+].*/gm.test(diffTxt)) return;
+      const changes = diffTxt.match(/(?<=^[+])[^+].*/gm).filter((i) => i);
       const svgTxtStr = changes.reduce((str, change, i) => {
         const changeParts = change.split(',');
         return `${str}<text x="40" y="${20 + (i + 1) * 70}" fill="${

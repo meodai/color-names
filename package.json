@@ -28,6 +28,7 @@
     "clean-dist-folder": "rm -rf dist && mkdir dist",
     "build": "npm run clean-dist-folder && node scripts/build.js && npm run build-history && npm run prettier",
     "prettier": "prettier --write ./dist/*",
+    "lint": "eslint ./scripts",
     "semantic-release": "semantic-release",
     "build-history": "node scripts/tools/history.js > dist/history.json",
     "prepare": "husky"

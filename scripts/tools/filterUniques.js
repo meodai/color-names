@@ -1,7 +1,7 @@
 const fs = require('fs');
 
-//const colors = fs.readFileSync('refs.csv').toString().split(`\n`);
-//const colorsSRCfile = fs.readFileSync(__dirname + '/../../historic-master.json', 'utf8');
+// const colors = fs.readFileSync('refs.csv').toString().split(`\n`);
+// const colorsSRCfile = fs.readFileSync(__dirname + '/../../historic-master.json', 'utf8');
 const colorsSRCfile = fs.readFileSync(__dirname + '/json.json', 'utf8');
 
 const colors = JSON.parse(colorsSRCfile);
