@@ -1,4 +1,4 @@
-import { execSync } from "child_process";
+import { execSync } from 'child_process';
 
 function cmd(c) {
   const stdout = execSync(c, {
@@ -10,10 +10,8 @@ function cmd(c) {
 // Print the list of colors added/removed/changed by date.
 async function main() {
   // Grab the list of all git commits
-  const allCommits = cmd(
-    "git log --pretty=format:%h --no-merges --follow -- ./src/colornames.csv"
-  )
-    .split("\n")
+  const allCommits = cmd('git log --pretty=format:%h --no-merges --follow -- ./src/colornames.csv')
+    .split('\n')
     .filter(Boolean);
 
   // The data, one element for each commit (date)
@@ -21,10 +19,8 @@ async function main() {
 
   for (const commit of allCommits) {
     // Figure out what changed in that particular commit
-    const diff = cmd(
-      `git show --ignore-cr-at-eol ${commit} -- ./src/colornames.csv`
-    )
-      .split("\n")
+    const diff = cmd(`git show --ignore-cr-at-eol ${commit} -- ./src/colornames.csv`)
+      .split('\n')
       .filter(Boolean);
 
     // Grab the date for said commit
@@ -45,7 +41,7 @@ async function main() {
       // If a value already introduced with a different op, then it's
       // a modification
       if (modified[hex] && modified[hex].op !== op) {
-        op = "~";
+        op = '~';
       }
 
       modified[hex] = { hex, name, op };
@@ -54,15 +50,15 @@ async function main() {
     // Partition by added/removed/changed
 
     const added = Object.values(modified)
-      .filter((x) => x.op === "+")
+      .filter((x) => x.op === '+')
       .map(({ name, hex }) => ({ name, hex }));
 
     const removed = Object.values(modified)
-      .filter((x) => x.op === "-")
+      .filter((x) => x.op === '-')
       .map(({ name, hex }) => ({ name, hex }));
 
     const changed = Object.values(modified)
-      .filter((x) => x.op === "~")
+      .filter((x) => x.op === '~')
       .map(({ name, hex }) => ({ name, hex }));
 
     // Add the day only if there were changes

@@ -9,13 +9,13 @@
 [![name count](https://img.shields.io/badge/__30290__-names-orange.svg)](https://github.com/meodai/color-names/blob/main/src/colornames.csv)
 [![github sponsor count](https://img.shields.io/github/sponsors/meodai)](https://github.com/sponsors/meodai)
 
-A handpicked list of __30290__ unique color names from
+A handpicked list of **30290** unique color names from
 [various sources](#sources-) and thousands of curated user submissions.
 
 > The names of color function like a thread attached to a frightfully slender
 > needle, capable of stitching together our most delicate emotions and memories.
 > When the needle hits the target, we feel either pleasure or empathy.
-> __Kenya Hara – White__
+> **Kenya Hara – White**
 
 <p>
   <a href="#explore-">Explore / Find Names</a>
@@ -49,14 +49,14 @@ shifted the colors a bit when there were identical colors with different names.
 
 ## Color Name Submission 💌
 
-__[via form 🌈](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform)
-/ or [twitter 🐦](https://twitter.com/color_parrot)__
+**[via form 🌈](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform)
+/ or [twitter 🐦](https://twitter.com/color_parrot)**
 
 Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute!
 
-## Color Count: __30290__ 🎉
+## Color Count: **30290** 🎉
 
-~__0.18%__ of the RGB color space
+~**0.18%** of the RGB color space
 
 ## [Color distribution](https://codepen.io/meodai/full/zdgXJj/) 🛰
 
@@ -72,7 +72,7 @@ colors evenly in the color space: [Visualization](https://codepen.io/meodai/full
 
 ### Node.js Installation 📦
 
-__Size Warning (1.15 MB)__: If you are doing this in the browser,
+**Size Warning (1.15 MB)**: If you are doing this in the browser,
 consider using the [public rest API](#api-)
 
 ```shell
@@ -129,7 +129,7 @@ has no dependencies [Color-Name-API](https://github.com/meodai/color-name-api)
 
 ### Usage JS ⌨
 
-__Size Warning (1.15 MB)__: If you are doing this in the browser,
+**Size Warning (1.15 MB)**: If you are doing this in the browser,
 consider using the [public rest API](#api-)
 
 #### Exact Color
@@ -137,10 +137,10 @@ consider using the [public rest API](#api-)
 ```javascript
 import { colornames } from 'color-name-list';
 
-let someColor = colornames.find(color => color.hex === '#ffffff');
+let someColor = colornames.find((color) => color.hex === '#ffffff');
 console.log(someColor.name); // => white
 
-let someNamedColor = colornames.find(color => color.name === 'Eigengrau')
+let someNamedColor = colornames.find((color) => color.name === 'Eigengrau');
 console.log(someColor.hex); // => #16161d
 ```
 
@@ -162,7 +162,7 @@ const nearest = nearestColor.from(colors);
 nearest('#f1c1d1'); // => Fairy Tale
 ```
 
-__Note__: If you are looking for something visually more accurate, you could
+**Note**: If you are looking for something visually more accurate, you could
 use [DeltaE] or use the above snippet, but using [ciecam02] instead of RGB.
 
 [DeltaE]: https://github.com/zschuessler/DeltaE
@@ -334,17 +334,17 @@ NamedColor randomColor = colorNames.GetRandomNamedColor();
 
 #### One-Time
 
-| Item                    | Expenditure   |
-| ----------------------- | ------------- |
-| Logo by Metafizzy       | 800           |
+| Item              | Expenditure |
+| ----------------- | ----------- |
+| Logo by Metafizzy | 800         |
 
 #### Periodic
 
-| Item                    | Expenditure   |
-| ----------------------- | ------------- |
-| Color Name API Server   | 264.60/year   |
-| color.pizza domain name | 36.16/year    |
-| Cloudflare PRO Plan     | 240/year      |
+| Item                    | Expenditure |
+| ----------------------- | ----------- |
+| Color Name API Server   | 264.60/year |
+| color.pizza domain name | 36.16/year  |
+| Cloudflare PRO Plan     | 240/year    |
 
 ### Color Namers
 
@@ -384,7 +384,7 @@ so that we can remove them promptly.
 
 ## Latest Color Names 🔖
 
-![New colors](changes.svg "New colors")
+![New colors](changes.svg 'New colors')
 
 <!-----------------------------------------------------------------------------
                                REFERENCE LINKS

@@ -2,21 +2,21 @@
 // and rexports them as csv
 
 const fs = require('fs');
-const tinycolor = require("tinycolor2");
+const tinycolor = require('tinycolor2');
 const colors = JSON.parse(fs.readFileSync('someColorList.json').toString());
 
 let newColors = [];
 
 colors.forEach((col) => {
-  const rand = Math.round( 4 * Math.random() * (Math.random() < .5 ? -1 : 1) );
-  const lightMod = Math.round( Math.random() * 5);
+  const rand = Math.round(4 * Math.random() * (Math.random() < 0.5 ? -1 : 1));
+  const lightMod = Math.round(Math.random() * 5);
   let hex;
 
   let tinyCol = tinycolor(col.hex).spin(rand);
 
-  if (tinyCol.isDark() ) {
+  if (tinyCol.isDark()) {
     tinyCol.lighten(lightMod);
-  }else{
+  } else {
     tinyCol.darken(lightMod);
   }
 
@@ -24,7 +24,7 @@ colors.forEach((col) => {
 
   newColors.push({
     name: col.name,
-    hex: hex
+    hex: hex,
   });
 
   console.log(`${col.hex} => ${hex} : ${col.name}`);
@@ -34,7 +34,7 @@ colors.forEach((col) => {
 // create CSV
 let csv = 'name,hex\n';
 
-newColors.forEach(col => {
+newColors.forEach((col) => {
   csv += `${col.name},${col.hex}\n`;
 });
 

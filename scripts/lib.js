@@ -1,4 +1,3 @@
-
 /**
  * takes a CSV string an parse it
  * @param   {String} csvString    CSV file contents
@@ -7,11 +6,7 @@
  * @return {Object} Object with all entries, headers as Array,
  *                   and entires per header as Array
  */
-export const parseCSVString = (
-    csvString,
-    csvDelimitor = ',',
-    csvNewLine = /\r?\n/
-) => {
+export const parseCSVString = (csvString, csvDelimitor = ',', csvNewLine = /\r?\n/) => {
   const rows = csvString.split(csvNewLine);
 
   // remove last empty row (if there is any)
@@ -57,40 +52,55 @@ export const parseCSVString = (
  * @return  {array}     array of second (or more) instance of duplicate items
  */
 export const findDuplicates = (arr) => {
-  const lookUpObj={};
+  const lookUpObj = {};
   const dupes = [];
 
   arr.forEach((item) => {
     if (Object.prototype.hasOwnProperty.call(lookUpObj, item)) {
       dupes.push(item);
     }
-    lookUpObj[item]=0;
+    lookUpObj[item] = 0;
   });
 
   return dupes;
 };
 
 export const objArrToString = (arr, keys, options) => {
-  const settings = Object.assign({}, {
-    includeKeyPerItem: false,
-    beforeKey: '',
-    afterKey: '',
-    beforeValue: '',
-    afterValue: '',
-    keyValueSeparator: ':',
-    insertBefore: '',
-    insertAfter: '',
-    rowDelimitor: '\r\n',
-    itemDelimitor: ',',
-  }, options);
+  const settings = Object.assign(
+    {},
+    {
+      includeKeyPerItem: false,
+      beforeKey: '',
+      afterKey: '',
+      beforeValue: '',
+      afterValue: '',
+      keyValueSeparator: ':',
+      insertBefore: '',
+      insertAfter: '',
+      rowDelimitor: '\r\n',
+      itemDelimitor: ',',
+    },
+    options
+  );
 
-  return settings.insertBefore + arr.map((item) => {
-    return keys.map((key) => {
-      return (
-        settings.includeKeyPerItem ?
-        settings.beforeKey + key +
-        settings.afterKey + settings.keyValueSeparator : ''
-      ) + settings.beforeValue + item[key] + settings.afterValue;
-    }).join(settings.itemDelimitor);
-  }).join(settings.rowDelimitor) + settings.insertAfter;
+  return (
+    settings.insertBefore +
+    arr
+      .map((item) => {
+        return keys
+          .map((key) => {
+            return (
+              (settings.includeKeyPerItem
+                ? settings.beforeKey + key + settings.afterKey + settings.keyValueSeparator
+                : '') +
+              settings.beforeValue +
+              item[key] +
+              settings.afterValue
+            );
+          })
+          .join(settings.itemDelimitor);
+      })
+      .join(settings.rowDelimitor) +
+    settings.insertAfter
+  );
 };
