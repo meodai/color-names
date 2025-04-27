@@ -24,7 +24,8 @@
   "scripts": {
     "commit": "git-cz",
     "pull-colors": "curl -L 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQube6Y0wHyEtJnjg0eU3N7VseoxVnD4L9uDqvWZdl_tzzrHDVN10IPP7cdFipX8j70atNMLfPCB0Q6/pub?gid=40578722&single=true&output=csv' -o src/colornames.csv",
-    "test": "node scripts/build.js --testOnly",
+    "test": "npm run build --testonly && npm run build && vitest run",
+    "test:watch": "vitest",
     "clean-dist-folder": "rm -rf dist && mkdir dist",
     "build": "npm run clean-dist-folder && node scripts/build.js && npm run build-history && npm run prettier",
     "prettier": "prettier --write ./dist/*",
@@ -65,7 +66,8 @@
     "husky": "^9.1.6",
     "prettier": "^3.5.3",
     "seedrandom": "^3.0.5",
-    "semantic-release": "^24.2.0"
+    "semantic-release": "^24.2.0",
+    "vitest": "^3.1.2"
   },
   "engines": {
     "node": ">=20.11.0",
