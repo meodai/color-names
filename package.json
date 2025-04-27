@@ -27,11 +27,12 @@
     "test": "npm run build --testonly && npm run build && vitest run",
     "test:watch": "vitest",
     "clean-dist-folder": "rm -rf dist && mkdir dist",
-    "build": "npm run clean-dist-folder && node scripts/build.js && npm run build-history && npm run prettier",
+    "build": "npm run clean-dist-folder && node scripts/build.js && npm run prettier",
     "prettier": "prettier --write ./dist/*",
     "lint": "eslint ./scripts",
     "semantic-release": "semantic-release",
     "build-history": "node scripts/tools/history.js > dist/history.json",
+    "history": "node scripts/tools/history.js > dist/history.json",
     "prepare": "husky"
   },
   "repository": {
