@@ -30,6 +30,11 @@ async function main() {
     const modified = {};
 
     for (const line of diff) {
+      // Ignore the header row
+      if (line.match(/^(\+|-)?name,hex/)) {
+        continue;
+      }
+
       const res = line.match(/^((?<op>(\+|-)))(?<name>[^,]+),(?<hex>[^,]+)/);
       if (!res) {
         continue;
