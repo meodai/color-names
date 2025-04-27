@@ -19,7 +19,7 @@ async function main() {
 
   for (const commit of allCommits) {
     // Figure out what changed in that particular commit
-    const diff = cmd(`git show --ignore-cr-at-eol ${commit} -- ./src/colornames.csv`)
+    const diff = cmd(`git show -w --ignore-cr-at-eol ${commit} -- ./src/colornames.csv`)
       .split('\n')
       .filter(Boolean);
 
