@@ -8,7 +8,9 @@
  *                   and entires per header as Array
  */
 export const parseCSVString = (
-    csvString, csvDelimitor = ',', csvNewLine = '\r\n'
+    csvString,
+    csvDelimitor = ',',
+    csvNewLine = /\r?\n/
 ) => {
   const rows = csvString.split(csvNewLine);
 
@@ -46,7 +48,7 @@ export const parseCSVString = (
     return entry;
   });
 
-  return {headers, entries, values};
+  return { headers, entries, values };
 };
 
 /**
@@ -59,7 +61,7 @@ export const findDuplicates = (arr) => {
   const dupes = [];
 
   arr.forEach((item) => {
-    if (lookUpObj.hasOwnProperty(item)) {
+    if (Object.prototype.hasOwnProperty.call(lookUpObj, item)) {
       dupes.push(item);
     }
     lookUpObj[item]=0;
