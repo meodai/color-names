@@ -252,15 +252,15 @@ fs.writeFileSync(
 // configuration for the file outputs
 const outputFormats = {
   'csv': {
-    insertBefore: csvKeys.join(',') + '\r\n',
+    insertBefore: csvKeys.join(',') + '\n',
   },
   'yaml': {
-    insertBefore: '-\r\n  ',
+    insertBefore: '-\n  ',
     beforeValue: '"',
     afterValue: '"',
     includeKeyPerItem: true,
-    rowDelimitor: '\r\n-\r\n  ',
-    itemDelimitor: '\r\n  ',
+    rowDelimitor: '\n-\n  ',
+    itemDelimitor: '\n  ',
   },
   'scss': {
     insertBefore: '$color-name-list: (',
@@ -277,10 +277,10 @@ const outputFormats = {
     insertAfter: `</td></tr></tbody></table>`,
   },
   'xml': {
-    insertBefore: `<?xml version='1.0'?>\r\n<colors>\r\n<color>\r\n<${csvKeys[0]}>`,
-    itemDelimitor: `</${csvKeys[0]}>\r\n<${csvKeys[1]}>`,
-    rowDelimitor: `</${csvKeys[1]}>\r\n</color>\r\n<color>\r\n<${csvKeys[0]}>`,
-    insertAfter: `</${csvKeys[1]}>\r\n</color>\r\n</colors>`,
+    insertBefore: `<?xml version='1.0'?>\n<colors>\n<color>\n<${csvKeys[0]}>`,
+    itemDelimitor: `</${csvKeys[0]}>\n<${csvKeys[1]}>`,
+    rowDelimitor: `</${csvKeys[1]}>\n</color>\n<color>\n<${csvKeys[0]}>`,
+    insertAfter: `</${csvKeys[1]}>\n</color>\n</colors>`,
   },
 };
 
