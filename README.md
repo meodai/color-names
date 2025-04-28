@@ -326,7 +326,7 @@ NamedColor randomColor = colorNames.GetRandomNamedColor();
 - [krissymashinsky.com] 300USD
 - [color.museum] 100CHF
 - [@tunnckoCore] 50USD
-- [Myriam Aerne] 20CHF
+- [Myriam Aerne] 40CHF
 - [Amin] 15USD
 - [neverything] 25USD/month
 
