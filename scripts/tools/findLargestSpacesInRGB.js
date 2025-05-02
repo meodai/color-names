@@ -1,9 +1,7 @@
 const fs = require('fs');
 const RGB_HEX = /^#?(?:([\da-f]{3})[\da-f]?|([\da-f]{6})(?:[\da-f]{2})?)$/i;
 
-const namedColors = JSON.parse(
-  fs.readFileSync(__dirname + '/../../public/dist/colornames.json', 'utf8')
-);
+const namedColors = JSON.parse(fs.readFileSync(__dirname + '/../../dist/colornames.json', 'utf8'));
 
 const hexToRgb = (hexSrt) => {
   const [, short, long] = String(hexSrt).match(RGB_HEX) || [];
@@ -12,13 +10,11 @@ const hexToRgb = (hexSrt) => {
     const value = Number.parseInt(long, 16);
     return {
       r: value >> 16,
-      g: value >> 8 & 0xFF,
-      b: value & 0xFF,
+      g: (value >> 8) & 0xff,
+      b: value & 0xff,
     };
   } else if (short) {
-    const rgbArray = Array.from(short,
-      (s) => Number.parseInt(s, 16)
-    ).map((n) => (n << 4) | n);
+    const rgbArray = Array.from(short, (s) => Number.parseInt(s, 16)).map((n) => (n << 4) | n);
     return {
       r: rgbArray[0],
       g: rgbArray[1],
@@ -28,10 +24,9 @@ const hexToRgb = (hexSrt) => {
 };
 
 const rgbColors = namedColors.map((color) => {
-  const {r,g,b} = hexToRgb(color.hex);
+  const { r, g, b } = hexToRgb(color.hex);
   return [r, g, b];
 });
-
 
 function calculateDistance(r, g, b, rgbColors) {
   let distance = 0;
@@ -46,9 +41,9 @@ function calculateDistance(r, g, b, rgbColors) {
 function findLargestSpaceInRGB(rgbColors) {
   const rgb = [0, 0, 0];
   let largestDistance = 0;
-  for (let i = 0; i < 256; i+=10) {
-    for (let j = 0; j < 256; j+=10) {
-      for (let k = 0; k < 256; k+=10) {
+  for (let i = 0; i < 256; i += 10) {
+    for (let j = 0; j < 256; j += 10) {
+      for (let k = 0; k < 256; k += 10) {
         const distance = calculateDistance(i, j, k, rgbColors);
         if (distance > largestDistance) {
           largestDistance = distance;

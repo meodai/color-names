@@ -5,4 +5,3 @@ This project is a fork of [meodai/color-names](https://github.com/meodai/color-n
 ## License
 - The forked code  is licensed under the MIT License.
 - The rest of the code in this repository is licensed under the GPL-3 License.
-=======

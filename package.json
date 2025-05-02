@@ -24,11 +24,14 @@
   "scripts": {
     "commit": "git-cz",
     "pull-colors": "curl -L 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQube6Y0wHyEtJnjg0eU3N7VseoxVnD4L9uDqvWZdl_tzzrHDVN10IPP7cdFipX8j70atNMLfPCB0Q6/pub?gid=40578722&single=true&output=csv' -o src/colornames.csv",
-    "test": "node scripts/build.js --testOnly",
-    "clean-dist-folder": "rm -rf dist && mkdir dist",
-    "build": "npm run clean-dist-folder && node scripts/build.js && npm run build-history",
+    "test": "npm run build --testonly && npm run build && vitest run",
+    "test:watch": "vitest",
+    "build": "node scripts/build.js && npm run prettier",
+    "prettier": "prettier --write ./dist/*",
+    "lint": "eslint ./scripts",
     "semantic-release": "semantic-release",
     "build-history": "node scripts/tools/history.js > dist/history.json",
+    "history": "node scripts/tools/history.js > dist/history.json",
     "prepare": "husky"
   },
   "repository": {
@@ -50,14 +53,21 @@
   },
   "homepage": "https://github.com/meodai/color-names#readme",
   "devDependencies": {
+    "@eslint/eslintrc": "^3.3.1",
+    "@eslint/js": "^9.25.1",
     "closestvector": "^0.6.0",
     "color-name-lists": "^3.2.0",
     "commitizen": "^4.2.4",
-    "eslint": "^8.16.0",
+    "eslint": "^9.25.1",
     "eslint-config-google": "^0.10.0",
+    "eslint-config-prettier": "^10.1.2",
+    "eslint-plugin-prettier": "^5.2.6",
+    "globals": "^16.0.0",
     "husky": "^9.1.6",
+    "prettier": "^3.5.3",
     "seedrandom": "^3.0.5",
-    "semantic-release": "^24.2.0"
+    "semantic-release": "^24.2.0",
+    "vitest": "^3.1.2"
   },
   "engines": {
     "node": ">=20.11.0",

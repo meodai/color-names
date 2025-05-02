@@ -2,13 +2,13 @@ name: Housekeeping
 
 on:
   push:
-    branches: [ master ]
+    branches: [main]
   pull_request:
-    branches: [ master ]
+    branches: [main]
 
 jobs:
   linting:
-    name: "Markdown linting"
+    name: 'Markdown linting'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -16,4 +16,4 @@ jobs:
       - name: Lint Code Base
         uses: docker://avtodev/markdown-lint:v1
         with:
-          args: "**/*.md"
+          args: '**/*.md'

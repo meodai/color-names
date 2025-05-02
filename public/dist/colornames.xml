@@ -10689,6 +10689,10 @@
 <hex>#e5e4db</hex>
 </color>
 <color>
+<name>Black-Hearted</name>
+<hex>#3e1825</hex>
+</color>
+<color>
 <name>Blackadder</name>
 <hex>#292c2c</hex>
 </color>
@@ -12373,6 +12377,10 @@
 <hex>#759dbe</hex>
 </color>
 <color>
+<name>Blue Murder</name>
+<hex>#2539bf</hex>
+</color>
+<color>
 <name>Blue Nebula</name>
 <hex>#1199ff</hex>
 </color>
@@ -12893,7 +12901,7 @@
 <hex>#24313d</hex>
 </color>
 <color>
-<name>Blue-Collar Worker</name>
+<name>Blue-Collar</name>
 <hex>#005f7a</hex>
 </color>
 <color>
@@ -15461,6 +15469,10 @@
 <hex>#5f3f3d</hex>
 </color>
 <color>
+<name>Brown Study</name>
+<hex>#4a290d</hex>
+</color>
+<color>
 <name>Brown Suede</name>
 <hex>#5b4f41</hex>
 </color>
@@ -15503,6 +15515,10 @@
 <color>
 <name>Brown-Bag-It</name>
 <hex>#ddbda3</hex>
+</color>
+<color>
+<name>Brown-Noser</name>
+<hex>#79512c</hex>
 </color>
 <color>
 <name>Browned Off</name>
@@ -44817,6 +44833,10 @@
 <hex>#f0be3a</hex>
 </color>
 <color>
+<name>Golden Mean</name>
+<hex>#c49b35</hex>
+</color>
+<color>
 <name>Golden Mist</name>
 <hex>#d4c990</hex>
 </color>
@@ -47155,6 +47175,10 @@
 <color>
 <name>Green Yellow</name>
 <hex>#c6f808</hex>
+</color>
+<color>
+<name>Green-Eyed Monster</name>
+<hex>#346e23</hex>
 </color>
 <color>
 <name>Greenalicious</name>
@@ -85877,6 +85901,10 @@
 <hex>#784674</hex>
 </color>
 <color>
+<name>Purple Patch</name>
+<hex>#5c2e88</hex>
+</color>
+<color>
 <name>Purple Pennant</name>
 <hex>#452e4a</hex>
 </color>
@@ -88291,6 +88319,10 @@
 <color>
 <name>Red Menace</name>
 <hex>#aa2121</hex>
+</color>
+<color>
+<name>Red Mist</name>
+<hex>#c92b1e</hex>
 </color>
 <color>
 <name>Red Mull</name>
@@ -117697,6 +117729,10 @@
 <hex>#f8eee3</hex>
 </color>
 <color>
+<name>White-Collar</name>
+<hex>#dedbde</hex>
+</color>
+<color>
 <name>White-Red</name>
 <hex>#f3e8ea</hex>
 </color>
@@ -120255,6 +120291,10 @@
 <color>
 <name>Yellow Powder</name>
 <hex>#fcfd74</hex>
+</color>
+<color>
+<name>Yellow Press</name>
+<hex>#e6e382</hex>
 </color>
 <color>
 <name>Yellow Rose</name>

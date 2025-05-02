@@ -1,8 +1,6 @@
 const fs = require('fs');
 const colors = fs.readFileSync('colors.csv').toString().split(`\n`);
-const namedColors = JSON.parse(
-  fs.readFileSync(__dirname + '/../../public/dist/colornames.json', 'utf8')
-);
+const namedColors = JSON.parse(fs.readFileSync(__dirname + '/../../dist/colornames.json', 'utf8'));
 const nearestColor = require('../../node_modules/nearest-color/nearestColor.js');
 
 // object containing the name:hex pairs for nearestColor()
@@ -15,7 +13,7 @@ namedColors.forEach((c) => {
 const nc = nearestColor.from(colorsObj);
 
 const newNames = [];
-colors.forEach(color => {
+colors.forEach((color) => {
   if (!color) return;
   let n = nc(color);
   newNames.push(n.name + ',' + color);
