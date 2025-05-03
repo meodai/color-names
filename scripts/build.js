@@ -135,6 +135,12 @@ const JSONExportStringShort = JSON.stringify(
     )
 );
 
+// make sure dist folder exists
+const distFolder = path.normalize(`${baseFolder}${folderDist}`);
+if (!fs.existsSync(distFolder)) {
+  fs.mkdirSync(distFolder);
+}
+
 fs.writeFileSync(path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.json`), JSONExportString);
 
 fs.writeFileSync(
