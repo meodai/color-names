@@ -24,3 +24,20 @@ jobs:
       - run: npm ci
       - run: npm test
       - run: npm run build
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --quiet README.md changes.svg || echo "has_changes=true" >> $GITHUB_OUTPUT
+      - name: Commit updated README and SVG
+        if: steps.git-check.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md changes.svg
+          git commit -m "docs(README): update README.md and changes.svg [skip ci]"
+      - name: Push changes
+        if: steps.git-check.outputs.has_changes == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.head_ref }}
