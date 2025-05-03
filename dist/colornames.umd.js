@@ -20516,6 +20516,7 @@
     { name: 'Pinkish Purple', hex: '#d648d7' },
     { name: 'Pinkish Red', hex: '#f10c45' },
     { name: 'Pinkish Tan', hex: '#d99b82' },
+    { name: 'Pinkish White', hex: '#fff1fa' },
     { name: 'Pinkling', hex: '#eb84f5' },
     { name: 'Pinkman', hex: '#dd11ff' },
     { name: 'Pinktone', hex: '#f9ced1' },
