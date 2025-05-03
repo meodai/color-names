@@ -9,8 +9,8 @@
 [![name count](https://img.shields.io/badge/__30291__-names-orange.svg)](https://github.com/meodai/color-names/blob/main/src/colornames.csv)
 [![github sponsor count](https://img.shields.io/github/sponsors/meodai)](https://github.com/sponsors/meodai)
 
-A handpicked list of __30291__ unique color names from
-[various sources](#sources-) and thousands of curated user submissions.
+A meticulously curated collection of __30291__ unique color names, sourced from
+[various references](#sources-) and thousands of thoughtful user contributions.
 
 > The names of color function like a thread attached to a frightfully slender
 > needle, capable of stitching together our most delicate emotions and memories.
@@ -31,33 +31,34 @@ A handpicked list of __30291__ unique color names from
 
 ## About 📋
 
-The aim of this project is to create a list of color names as large as possible,
-while keeping a good name quality. We've merged various [lists](#sources-),
-modified the names when there were duplicates with different hex values, and
-shifted the colors a bit when there were identical colors with different names.
+This project aims to assemble the largest possible list of color names,
+while maintaining high standards for name quality. We have merged numerous
+[lists](#sources-), resolved duplicate names with different hex values,
+and adjusted colors where identical values had different names.
 
 ## Explore 🌍
 
-- [Color Picker & Name Search] Click the wheel to get name for a color, or just
-  use the full text search.
-- [Color Picker]: Click the colored surface to change the color or type in a
-  hex value below the name.
-- [Color Picker II]: Move your mouse and scroll to choose a color.
-- [Name Search]: full text search on the color list.
-- [Color Distribution] 3D view of all color names in different color spaces.
-- [Twitter Bot]: Posts random colors and lets you submit new ones.
+- [Color Picker & Name Search]: Click the wheel to discover a color name,
+  or use the full text search.
+- [Color Picker]: Click the colored area to change the color or enter a hex
+  value below the name.
+- [Color Picker II]: Move your mouse and scroll to select a color.
+- [Name Search]: Perform a full text search on the color list.
+- [Color Distribution]: Explore a 3D visualization of all color names in various
+  color models.
+- [Twitter Bot]: Posts random colors and allows you to submit new ones.
 
 ## Color Name Submission 💌
 
 **[via form 🌈](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform)
 / or [twitter 🐦](https://twitter.com/color_parrot)**
 
-Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute!
+Please review the [naming rules](CONTRIBUTING.md) before contributing!
 
 ### Contributing via Git 🫱🏽‍🫲🏻
 
-If you want to contribute via Git. Edit the `src/colornames.csv` file
-and make sure it builds correctly (`npm run ci && npm run build`).
+To contribute via Git, edit the `src/colornames.csv` file
+and ensure it builds correctly (`npm run ci && npm run build`).
 
 ## Color Count: __30291__ 🎉
 
@@ -67,18 +68,24 @@ and make sure it builds correctly (`npm run ci && npm run build`).
 
 ![3d representation of color distribution in RGB Space (Preview image of link above)](https://raw.githubusercontent.com/meodai/color-names/gh-pages/color-spaces.gif)
 
-When coming up with new color names, it is vital to know what spots in a
-certain color-space are crowded and where there is still room for new colors.
-For example: Our API returns the closest `RGB` color to a given `HEX` value.
-To avoid too many colors snapping to the same name, we aim to distribute the
-colors evenly in the color space: [Visualization](https://codepen.io/meodai/full/zdgXJj/)
+When creating new color names, it's essential to understand which areas of a
+color space are crowded and where new names can be added. For example, our API
+returns the closest `RGB` color to a given `HEX` value. To prevent too many
+colors from mapping to the same name, we strive for an even distribution in
+color space: [Visualization](https://codepen.io/meodai/full/zdgXJj/)
 
 ## Usage 📖
 
+### Consuming the list
+
+The list is available in [multiple formats](https://app.unpkg.com/color-name-list/files/dist),
+or you can use the [public REST API](#api-), making it easy to integrate into
+your project.
+
 ### Node.js Installation 📦
 
-__Size Warning (1.15 MB)__: If you are doing this in the browser,
-consider using the [public rest API](#api-)
+__Size Warning (1.15 MB)__: For browser usage,
+consider the [public rest API](#api-)
 
 ```shell
 npm install color-name-list --save
@@ -113,9 +120,8 @@ or `yarn add color-name-list`
 
 ### API 🃏
 
-To make it easier to access the names, we offer a free and public Rest API that
-allows you to access all the color names and names from other publicly available
-name lists. You can find the full API code and documentation
+To simplify access, we provide a free and public REST API for all color names
+and other public name lists. Full API code and documentation are available
 [in this repository](https://github.com/meodai/color-name-api).
 
 #### API Example Call Usage
@@ -126,16 +132,16 @@ https://api.color.pizza/v1/?values=00f,f00,f00&list=bestOf
 
 #### API Disclaimer
 
-The API is free to use and has no limitations. But if your app/site is commercial
-and causes excessive traffic, I might contact you to become a sponsor.
+The API is free and has no usage limits. However, if your commercial app or site
+generates excessive traffic, you may be asked to become a sponsor.
 
-Feel free to deploy it yourself, it is very easy to host/deploy on heroku and
-has no dependencies [Color-Name-API](https://github.com/meodai/color-name-api)
+You are welcome to self-host the API—it's easy to deploy on Heroku and relies
+only on a few dependencies: [Color-Name-API](https://github.com/meodai/color-name-api)
 
 ### Usage JS ⌨
 
-__Size Warning (1.15 MB)__: If you are doing this in the browser,
-consider using the [public rest API](#api-)
+__Size Warning (1.15 MB)__: For browser usage,
+consider the [public rest API](#api-)
 
 #### Exact Color
 
@@ -151,14 +157,14 @@ console.log(someColor.hex); // => #16161d
 
 #### Closest Named Color
 
-Since there are 16777216 possible RGB colors, you might use a library such as
-[nearest-color] or [ClosestVector] to help you find the the closest named color.
+With 16,777,216 possible RGB colors, you may want to use a library such as
+[nearest-color] or [ClosestVector] to find the closest named color.
 
 ```js
 import nearestColor from 'nearest-color';
 import { colornames } from 'color-name-list';
 
-// nearestColor need objects {name => hex} as input
+// nearestColor expects an object {name => hex}
 const colors = colornames.reduce((o, { name, hex }) => Object.assign(o, { [name]: hex }), {});
 
 const nearest = nearestColor.from(colors);
@@ -167,8 +173,8 @@ const nearest = nearestColor.from(colors);
 nearest('#f1c1d1'); // => Fairy Tale
 ```
 
-**Note**: If you are looking for something visually more accurate, you could
-use [DeltaE] or use the above snippet, but using [ciecam02] instead of RGB.
+**Note**: For greater visual accuracy, consider using [DeltaE] or the above
+approach with [ciecam02] instead of RGB.
 
 [DeltaE]: https://github.com/zschuessler/DeltaE
 [ciecam02]: https://github.com/baskerville/ciecam02
@@ -179,13 +185,13 @@ use [DeltaE] or use the above snippet, but using [ciecam02] instead of RGB.
 npm install && npm run build
 ```
 
-See [package.json](package.json#L6) for more.
+See [package.json](package.json#L6) for details.
 
 ### Usage Java/Kotlin ⌨
 
-Java/Kotlin usage is maintained through this library:
+Java/Kotlin support is provided by:
 [UwUAroze/Color-Names](https://github.com/UwUAroze/Color-Names).
-Additional info can be found there, but basic usage is outlined below:
+See the repository for more, or use the basics below:
 
 #### Importing - Gradle.kts
 
@@ -240,9 +246,9 @@ val fromColor = colorNames.getName(Color(255, 219, 240)) // "Silky Pink"
 
 ### Usage C# ⌨
 
-C# usage is maintained through this library:
+C# support is provided by:
 [vycdev/ColorNamesSharp](https://github.com/vycdev/ColorNamesSharp)
-Additional info can be found there, but basic usage is outlined below:
+See the repository for more details; basic usage is below:
 
 The library is available as a [nuget package](https://www.nuget.org/packages/ColorNamesSharp)
 
@@ -380,12 +386,11 @@ NamedColor randomColor = colorNames.GetRandomNamedColor();
 
 ## Disclaimer 👮🏾‍
 
-In an effort to create a more inclusive and respectful environment, we strive to
-remove all offensive and racist names, as well as protected brand names,
-from our list. While we do our best to screen out such names, some may still
-slip through. If you come across any such names, please
-[let us know](https://github.com/meodai/color-names/issues/new?title=Bad%20color%20name)
-so that we can remove them promptly.
+We are committed to fostering an inclusive and respectful environment.
+We actively remove any offensive, racist, or protected brand names from our
+list. While we strive to screen out such names, some may inadvertently remain.
+If you encounter any, please [let us know](https://github.com/meodai/color-names/issues/new?title=Bad%20color%20name)
+so we can address them promptly.
 
 ## Latest Color Names 🔖
 
