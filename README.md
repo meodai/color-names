@@ -1,4 +1,4 @@
-<img align="left" height="119" width="119" src="https://meodai.github.io/color-names/logo/cockatoo-fill.svg">
+<img align="left" height="119" width="119" src="https://meodai.github.io/color-names/logo/cockatoo-fill.svg" alt="Color Names Logo" />
 
 # Color Names
 
@@ -15,7 +15,7 @@ A meticulously curated collection of __30291__ unique color names, sourced from
 > The names of color function like a thread attached to a frightfully slender
 > needle, capable of stitching together our most delicate emotions and memories.
 > When the needle hits the target, we feel either pleasure or empathy.
-> **Kenya Hara – White**
+> __Kenya Hara – White__
 
 <p>
   <a href="#explore-">Explore / Find Names</a>
@@ -50,8 +50,8 @@ and adjusted colors where identical values had different names.
 
 ## Color Name Submission 💌
 
-**[via form 🌈](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform)
-/ or [twitter 🐦](https://twitter.com/color_parrot)**
+__[via form 🌈](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform)
+/ or [twitter 🐦](https://twitter.com/color_parrot)__
 
 Please review the [naming rules](CONTRIBUTING.md) before contributing!
 
@@ -173,7 +173,7 @@ const nearest = nearestColor.from(colors);
 nearest('#f1c1d1'); // => Fairy Tale
 ```
 
-**Note**: For greater visual accuracy, consider using [DeltaE] or the above
+__Note__: For greater visual accuracy, consider using [DeltaE] or the above
 approach with [ciecam02] instead of RGB.
 
 [DeltaE]: https://github.com/zschuessler/DeltaE
@@ -340,6 +340,7 @@ NamedColor randomColor = colorNames.GetRandomNamedColor();
 - [Myriam Aerne] 40CHF
 - [Amin] 15USD
 - [neverything] 25USD/month
+- [Dmitry Iv.] 10USD/month
 
 ### Project Costs USD
 
@@ -441,7 +442,6 @@ so we can address them promptly.
 [BlueChaos]: https://www.instagram.com/bluechaos1811/
 [Dmitry Iv.]: https://github.com/dy
 [neverything]: https://neverything.me/
-[colorkit.co]: https://colorkit.co/
 [Myriam Aerne]: https://fynoeggeli.ch/
 [nachtfunke]: https://helloyes.dev
 [amin]: http://www.slashui.com
