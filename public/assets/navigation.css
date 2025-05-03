@@ -1,0 +1,35 @@
+.navigation_container_top {
+  position: fixed;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  bottom: 5%;
+  background: var(--Frosted_Background);
+}
+.navigation_icon{
+  height: 50px;
+  width: 50px;
+  color: var(--secondary);
+}
+.navigation_icon:hover{
+  color: var(--primary);
+  transition: all 0.5s;
+}
+.navigation_buttons{
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 30px;
+  height: 50px;
+  min-width: 100px;
+  transition: all 0.5s;
+  text-align: center;
+  align-items: center;
+}
+/* On hover effects */
+.navigation_buttons:hover{
+  background: var(--Frosted_Background);
+  color: var(--secondary);
+  transition: all 0.5s;
+}

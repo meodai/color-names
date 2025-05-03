@@ -3,6 +3,7 @@
     background: linear-gradient(45deg, #ff914d,#8c52ff, #86a8e7, #91eae4);
     background-size: 200% 200%;
     animation: backgroundShift 10s infinite;
+    --Frosted_Background:var(--eeded8);
 }
 
 @keyframes backgroundShift {
