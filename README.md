@@ -54,6 +54,11 @@ shifted the colors a bit when there were identical colors with different names.
 
 Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute!
 
+### Contributing via Git 🫱🏽‍🫲🏻
+
+If you want to contribute via Git. Edit the `src/colornames.csv` file
+and make sure it builds correctly (`npm run ci && npm run build`).
+
 ## Color Count: **30290** 🎉
 
 ~**0.18%** of the RGB color space
