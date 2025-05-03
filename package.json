@@ -32,7 +32,8 @@
     "semantic-release": "semantic-release",
     "build-history": "node scripts/tools/history.js > dist/history.json",
     "history": "node scripts/tools/history.js > dist/history.json",
-    "prepare": "husky"
+    "prepare": "husky",
+    "sort-colors": "node scripts/sortSrc.js"
   },
   "repository": {
     "type": "git",
