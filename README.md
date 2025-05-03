@@ -1,4 +1,10 @@
-<img align="left" height="119" width="119" src="https://meodai.github.io/color-names/logo/cockatoo-fill.svg" alt="Color Names Logo" />
+<img
+  align="left"
+  height="119"
+  width="119"
+  src="https://meodai.github.io/color-names/logo/cockatoo-fill.svg"
+  alt="Color Names Logo"
+/>
 
 # Color Names
 
