@@ -9,7 +9,7 @@
 [![name count](https://img.shields.io/badge/__30291__-names-orange.svg)](https://github.com/meodai/color-names/blob/main/src/colornames.csv)
 [![github sponsor count](https://img.shields.io/github/sponsors/meodai)](https://github.com/sponsors/meodai)
 
-A handpicked list of **30290** unique color names from
+A handpicked list of __30291__ unique color names from
 [various sources](#sources-) and thousands of curated user submissions.
 
 > The names of color function like a thread attached to a frightfully slender
@@ -59,9 +59,9 @@ Make sure to read the [naming rules](CONTRIBUTING.md) before you contribute!
 If you want to contribute via Git. Edit the `src/colornames.csv` file
 and make sure it builds correctly (`npm run ci && npm run build`).
 
-## Color Count: **30290** 🎉
+## Color Count: __30291__ 🎉
 
-~**0.18%** of the RGB color space
+~__0.18%__ of the RGB color space
 
 ## [Color distribution](https://codepen.io/meodai/full/zdgXJj/) 🛰
 
@@ -77,7 +77,7 @@ colors evenly in the color space: [Visualization](https://codepen.io/meodai/full
 
 ### Node.js Installation 📦
 
-**Size Warning (1.15 MB)**: If you are doing this in the browser,
+__Size Warning (1.15 MB)__: If you are doing this in the browser,
 consider using the [public rest API](#api-)
 
 ```shell
@@ -134,7 +134,7 @@ has no dependencies [Color-Name-API](https://github.com/meodai/color-name-api)
 
 ### Usage JS ⌨
 
-**Size Warning (1.15 MB)**: If you are doing this in the browser,
+__Size Warning (1.15 MB)__: If you are doing this in the browser,
 consider using the [public rest API](#api-)
 
 #### Exact Color
