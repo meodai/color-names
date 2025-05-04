@@ -1,3 +1,4 @@
-@import url(style.css);
 @import url(https://lios-open.web.app/LiOS_Open.css);
 @import url(navigation.css);
+@import url(color_palette.css);
+@import url(style.css);

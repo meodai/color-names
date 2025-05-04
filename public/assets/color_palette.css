@@ -1,0 +1,9 @@
+:root{
+    --primary:#ff91d4;
+    --secondary:#8c52ff;
+    --tertiary:#86a8e7;
+    --quaternary:#91eae4;
+    --white:#eeded8;
+    --black:#25212a;
+    --Frosted_Background:var(--eeded8);
+}

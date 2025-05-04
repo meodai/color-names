@@ -1,8 +1,10 @@
-.navigation_container_top {
+.navigation_container_bottom {
   position: fixed;
-  width: 80%;
-  margin-left: 10%;
-  margin-right: 10%;
+  display: flex;
+  width: fit-content;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  margin-right: auto;
   bottom: 5%;
   background: var(--Frosted_Background);
 }
@@ -10,10 +12,6 @@
   height: 50px;
   width: 50px;
   color: var(--secondary);
-}
-.navigation_icon:hover{
-  color: var(--primary);
-  transition: all 0.5s;
 }
 .navigation_buttons{
   display: flex;
@@ -31,5 +29,9 @@
 .navigation_buttons:hover{
   background: var(--Frosted_Background);
   color: var(--secondary);
+  transition: all 0.5s;
+}
+.navigation_buttons:hover  .navigation_icon{
+  color: var(--primary);
   transition: all 0.5s;
 }

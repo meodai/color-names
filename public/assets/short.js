@@ -1,7 +1,7 @@
 let colorData = [];
 
 // Fetch and load all color data from dist/colornames.json
-fetch('../dist/colornames.bestof.json')
+fetch('../dist/colornames.short.json')
     .then(response => response.json())
     .then(data => {
         colorData = shuffleArray(data);  // Shuffle the colors before displaying
