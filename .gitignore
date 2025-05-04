@@ -3,6 +3,10 @@ node_modules
 .github
 .firebaserc
 firebase.json
+.DS_Store
+.vscode
+.env
+.env.local
 secrets
 public/BingSiteAuth.xml
 public/google85bf64fc444d13bb.html
