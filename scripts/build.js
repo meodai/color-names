@@ -135,6 +135,12 @@ const JSONExportStringShort = JSON.stringify(
     )
 );
 
+// make sure dist folder exists
+const distFolder = path.normalize(`${baseFolder}${folderDist}`);
+if (!fs.existsSync(distFolder)) {
+  fs.mkdirSync(distFolder);
+}
+
 fs.writeFileSync(path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.json`), JSONExportString);
 
 fs.writeFileSync(
@@ -404,24 +410,70 @@ function log(key, value, message, errorLevel = 1) {
 // gets SVG template
 const svgTpl = fs.readFileSync(path.normalize(__dirname + '/changes.svg.tpl'), 'utf8').toString();
 
-// generates an SVG image with the new color based on the diff ot the last commit to the current
+// generates an SVG image with the new colors based on the diff between the last two commits that changed the file
 function diffSVG() {
+  // Get the last two commits that modified the CSV file
   exec(
-    `git diff -U0 HEAD ${baseFolder}${folderDist}${fileNameSrc}.csv`,
+    `git log -n 2 --pretty=format:"%H" -- ${baseFolder}${folderSrc}${fileNameSrc}.csv`,
     function (err, stdout, stderr) {
-      const diffTxt = stdout;
-      if (!/(?<=^[+])[^+].*/gm.test(diffTxt)) return;
-      const changes = diffTxt.match(/(?<=^[+])[^+].*/gm).filter((i) => i);
-      const svgTxtStr = changes.reduce((str, change, i) => {
-        const changeParts = change.split(',');
-        return `${str}<text x="40" y="${20 + (i + 1) * 70}" fill="${
-          changeParts[1]
-        }">${changeParts[0].replace(/&/g, '&amp;')}</text>`;
-      }, '');
+      if (err) {
+        console.error('Error getting commit history:', err);
+        return;
+      }
 
-      fs.writeFileSync(
-        path.normalize(`${baseFolder}changes.svg`),
-        svgTpl.replace(/{height}/g, changes.length * 70 + 80).replace(/{items}/g, svgTxtStr)
+      const commits = stdout.trim().split('\n');
+      if (commits.length < 2) {
+        console.log('Not enough commit history to generate diff');
+        return;
+      }
+
+      const newerCommit = commits[0];
+      const olderCommit = commits[1];
+
+      // Compare the two commits
+      exec(
+        `git diff -w -U0 ${olderCommit} ${newerCommit} -- ${baseFolder}${folderSrc}${fileNameSrc}.csv`,
+        function (err, stdout, stderr) {
+          if (err) {
+            console.error('Error generating diff:', err);
+            return;
+          }
+
+          const diffTxt = stdout;
+          if (!/(?<=^[+])[^+].*/gm.test(diffTxt)) {
+            console.log('No changes detected in the color file');
+            return;
+          }
+
+          const changes = diffTxt.match(/(?<=^[+])[^+].*/gm).filter((i) => i);
+
+          // Filter out the header line if it was included in the diff
+          const filteredChanges = changes.filter((line) => !line.startsWith('name,hex'));
+
+          if (filteredChanges.length === 0) {
+            console.log('No color changes detected');
+            return;
+          }
+
+          const svgTxtStr = filteredChanges.reduce((str, change, i) => {
+            const changeParts = change.split(',');
+            // Make sure we have both the name and hex color
+            if (changeParts.length < 2) return str;
+
+            return `${str}<text x="40" y="${20 + (i + 1) * 70}" fill="${
+              changeParts[1]
+            }">${changeParts[0].replace(/&/g, '&amp;')}</text>`;
+          }, '');
+
+          fs.writeFileSync(
+            path.normalize(`${baseFolder}changes.svg`),
+            svgTpl
+              .replace(/{height}/g, filteredChanges.length * 70 + 80)
+              .replace(/{items}/g, svgTxtStr)
+          );
+
+          console.log(`Generated SVG showing ${filteredChanges.length} new color(s)`);
+        }
       );
     }
   );
