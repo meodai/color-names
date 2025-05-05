@@ -1,0 +1,3 @@
+.bouncing-loader > div{
+    background: var(--secondary);
+}

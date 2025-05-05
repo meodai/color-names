@@ -1,12 +1,13 @@
 .navigation_container_bottom {
   position: fixed;
-  display: flex;
+  display: none;
   width: fit-content;
   margin-left: 50%;
   transform: translateX(-50%);
   margin-right: auto;
   bottom: 5%;
   background: var(--Frosted_Background);
+  transition: opacity 0.5s ease;
 }
 .navigation_icon{
   height: 50px;

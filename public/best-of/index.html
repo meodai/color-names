@@ -14,8 +14,29 @@
                 .then(() => console.log('Service Worker registered'))
                 .catch((err) => console.error('SW registration failed:', err));
             }
-            </script>
-
+        </script>
+        <!-- Loader -->
+      <script>
+        window.addEventListener('load', function () {
+          const preloader = document.querySelector('.bouncing-loader');
+          const navbar = document.querySelector('.navigation_container_bottom');
+          
+          // Step 1: Fade out the preloader
+          preloader.style.opacity = 0;
+  
+          // Step 2: After the fade-out completes, hide preloader and show navbar
+          setTimeout(() => {
+          preloader.style.display = 'none';
+          navbar.style.display = 'flex';
+          navbar.style.opacity = 0;
+  
+          // Step 3: Smooth fade-in for the navbar
+          setTimeout(() => {
+            navbar.style.opacity = 1;
+          }, 10); // slight delay to trigger CSS transition
+          }, 0.5); // match this with your CSS transition duration
+        });
+      </script>
 </head>
 <body>
     <div id="Frosted_Background">
@@ -34,6 +55,11 @@
     <div id="scroll-anchor"></div>
     <script type="module" src="secrets/firebase_sdk.js"></script>
     <!-- Navigation -->
+    <div class="bouncing-loader frosted_background">
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
     <div class="navigation_container_bottom Frosted_Background">
       <!-- Home -->
         <a href="../" class="navigation_buttons"><svg class="navigation_icon" alt="Home"
