@@ -1,3 +1,7 @@
+.bouncing-loader{
+    z-index: 10;
+}
 .bouncing-loader > div{
     background: var(--secondary);
+    z-index: 11;
 }

@@ -8,6 +8,7 @@
   bottom: 5%;
   background: var(--Frosted_Background);
   transition: opacity 0.5s ease;
+  z-index: 10;
 }
 .navigation_icon{
   height: 50px;

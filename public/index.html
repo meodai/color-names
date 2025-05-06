@@ -39,7 +39,7 @@
       </script>
 </head>
 <body>
-    <div id="Frosted_Background">
+    <div>
         <div id="rainbow-picker">
             <div class="rainbow-swatch" style="background-color: red;" onclick="showShades('red')"></div>
             <div class="rainbow-swatch" style="background-color: orange;" onclick="showShades('orange')"></div>
@@ -49,89 +49,87 @@
             <div class="rainbow-swatch" style="background-color: indigo;" onclick="showShades('indigo')"></div>
             <div class="rainbow-swatch" style="background-color: violet;" onclick="showShades('violet')"></div>
         </div>
-        
+        </div>
       <input type="text" id="search-bar" placeholder="Search colors..." onkeyup="searchColors()"></div>
+      </div>
       <div id="main-container"></div>
       <div id="scroll-anchor"></div>
+            <!-- Navigation -->
+            <div class="bouncing-loader frosted_background">
+              <div></div>
+              <div></div>
+              <div></div>
+            </div>
+            <div class="navigation_container_bottom Frosted_Background">
+              <!-- Home -->
+                <a href="" class="navigation_buttons"><svg class="navigation_icon" alt="Home"
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="24"
+                    height="24"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  >
+                    <path d="M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8" />
+                    <path d="M3 10a2 2 0 0 1 .709-1.528l7-5.999a2 2 0 0 1 2.582 0l7 5.999A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" />
+                  </svg>
+                </a>
+              <!-- Best Of -->
+                <a href="best-of/" class="navigation_buttons"><svg class="navigation_icon" alt="Best Of"
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6" />
+                  <path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18" />
+                  <path d="M4 22h16" />
+                  <path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22" />
+                  <path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22" />
+                  <path d="M18 2H6v7a6 6 0 0 0 12 0V2Z" />
+                </svg></a>
+              <!-- short -->
+              <a href="short/" class="navigation_buttons"><svg class="navigation_icon" alt="short"
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              >
+                <path d="M3 6h18" />
+                <path d="M7 12h10" />
+                <path d="M10 18h4" />
+              </svg>
+              </a>
+              <!-- Github -->
+                <a href="https://github.com/LiOS-org/LiOS-Colors" class="navigation_buttons"><svg class="navigation_icon" alt="GitHub"
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="24"
+                    height="24"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  >
+                    <path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4" />
+                    <path d="M9 18c-4.51 2-5-2-7-2" />
+                  </svg>
+                </a>
+            </div>
       <script type="module" src="secrets/firebase_sdk.js"></script>
-      <!-- Navigation -->
-      <div class="bouncing-loader frosted_background">
-          <div></div>
-          <div></div>
-          <div></div>
-      </div>
-        </div>
-          <div class="navigation_container_bottom Frosted_Background">
-          <!-- Home -->
-          <a href="" class="navigation_buttons"><svg class="navigation_icon" alt="Home"
-              xmlns="http://www.w3.org/2000/svg"
-              width="24"
-              height="24"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              stroke-width="2"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-            >
-              <path d="M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8" />
-              <path d="M3 10a2 2 0 0 1 .709-1.528l7-5.999a2 2 0 0 1 2.582 0l7 5.999A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" />
-            </svg>
-          </a>
-          <!-- Best Of -->
-          <a href="best-of/" class="navigation_buttons"><svg class="navigation_icon" alt="Best Of"
-            xmlns="http://www.w3.org/2000/svg"
-            width="24"
-            height="24"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="2"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-          >
-            <path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6" />
-            <path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18" />
-            <path d="M4 22h16" />
-            <path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22" />
-            <path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22" />
-            <path d="M18 2H6v7a6 6 0 0 0 12 0V2Z" />
-          </svg></a>
-          <!-- short -->
-         <a href="short/" class="navigation_buttons"><svg class="navigation_icon" alt="short"
-          xmlns="http://www.w3.org/2000/svg"
-          width="24"
-          height="24"
-          viewBox="0 0 24 24"
-          fill="none"
-          stroke="currentColor"
-          stroke-width="2"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-        >
-          <path d="M3 6h18" />
-          <path d="M7 12h10" />
-          <path d="M10 18h4" />
-          </svg>
-          </a>
-          <!-- Github -->
-          <a href="https://github.com/LiOS-org/LiOS-Colors" class="navigation_buttons"><svg class="navigation_icon" alt="GitHub"
-              xmlns="http://www.w3.org/2000/svg"
-              width="24"
-              height="24"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              stroke-width="2"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-            >
-              <path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4" />
-              <path d="M9 18c-4.51 2-5-2-7-2" />
-            </svg>
-          </a>
-        </div>
-      </div>
-    </div>
 </body>
 </html>
