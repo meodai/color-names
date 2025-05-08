@@ -390,6 +390,11 @@ NamedColor randomColor = colorNames.GetRandomNamedColor();
 , [nachtfunke]
 , Sean Gibbons
 , Brantley Sibo
+, Jeff Bronks
+, Joseph Oloughlin
+, Nathan Swift
+, Abra Giddings
+, Iraj Nelson
 
 ## Disclaimer 👮🏾‍
 
