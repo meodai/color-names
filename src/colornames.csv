@@ -2470,6 +2470,7 @@ Biloxi Blue,#0075b8,
 Biltmore Buff,#e3c9a1,
 Biltong,#410200,
 Bimini Blue,#007a91,
+Binary Black,#010101,
 Binary Star,#616767,
 Bindi Dot,#8b3439,
 Bindi Red,#b0003c,x
@@ -3842,6 +3843,7 @@ Brown Cerberus,#995555,
 Brown Chocolate,#5f1933,
 Brown Clay,#c37c59,
 Brown Coffee,#4a2c2a,x
+Brown Countdown,#654321,
 Brown Derby,#594537,
 Brown Eyed Girl,#89491a,
 Brown Eyes,#9e6b4a,
@@ -3936,6 +3938,7 @@ Bubble Shell,#d3a49a,
 Bubble Turquoise,#43817a,
 Bubblegum,#e76178,
 Bubblegum Baby Girl,#cc55ee,x
+Bubblegum Bright,#ff01b7,
 Bubblegum Crisis,#eeccee,x
 Bubblegum Kisses,#f092d6,x
 Bubblegum Pink,#f6b0ba,
@@ -5998,6 +6001,7 @@ Coconut Agony,#ebe8e7,x
 Coconut Aroma,#eeeedd,
 Coconut Butter,#f2efe1,
 Coconut Cream,#e1dabb,
+Coconut Cream Pie,#f0e2cf,
 Coconut Crumble,#e2cea6,
 Coconut Grove,#676d43,
 Coconut Husk,#7d6044,
@@ -6984,6 +6988,7 @@ Curry Powder,#cc6600,
 Curry Sauce,#be9e6f,x
 Currywurst,#ddaa33,x
 Cursed Black,#131313,x
+Cursed Grey,#666666,
 Curtain Call,#70666a,
 Curtsy,#ffd6b8,
 Cushion Bush,#c1c8af,
@@ -7852,7 +7857,6 @@ Diluted Red,#e8dde2,
 Dim,#c8c2be,x
 Dim Grey,#696969,
 Diminished Blue,#bce1eb,
-Diminished Brown,#e7ded7,
 Diminished Green,#e3e6d6,
 Diminished Lime,#edf5dd,
 Diminished Mint,#e9f3dd,
@@ -8648,7 +8652,7 @@ Electric Energy,#c9e423,
 Electric Flamingo,#fc74fd,
 Electric Glow,#ffd100,
 Electric Green,#21fc0d,
-Electric Indigo,#6600ff,
+Electric Indigo,#6600ff,x
 Electric Laser Lime,#26ff2a,x
 Electric Lavender,#f4bfff,
 Electric Leaf,#89dd01,
@@ -10272,7 +10276,6 @@ Fresh Piglet,#fddde6,
 Fresh Pine,#4f5b49,
 Fresh Pineapple,#f3d64f,
 Fresh Pink,#e19091,
-Fresh Pink Lemonade,#d2adb5,
 Fresh Popcorn,#f4f3e9,
 Fresh Praline,#e7bb95,
 Fresh Salmon,#ff7356,
@@ -15062,7 +15065,6 @@ Light Pink Tone,#fad9da,
 Light Pistachio Tang,#e2dec8,
 Light Placid Blue,#c8d8e8,
 Light Pollinate,#ebe1cb,
-Light Poolside,#bee0e2,
 Light Porcelain,#e7dad7,
 Light Powder Blue,#c4d9ef,
 Light Powdered Granite,#d1d6eb,
@@ -15657,6 +15659,7 @@ Lover’s Knot,#f2dbdb,
 Lover’s Leap,#957e68,
 Lover’s Retreat,#f4ced8,
 Lover’s Tryst,#b48ca3,
+Lovers Pine,#5a6141,
 Low Tide,#99d1a4,
 Lower Green,#e0efe3,
 Lower Lavender,#dcdfef,
@@ -17464,6 +17467,7 @@ Moscow Mule,#eecc77,
 Moscow Papyrus,#937c00,
 Moselle Green,#2e4e36,
 Mosque,#005f5b,x
+Mosquito Fern,#86a852,
 Moss,#009051,x
 Moss Agate,#a0aa9a,
 Moss Beach,#6b7061,
@@ -18016,6 +18020,7 @@ Neon Carrot,#ff9832,x
 Neon Fuchsia,#fe4164,x
 Neon Green,#39ff14,x
 Neon Light,#ffdf5e,
+Neon Lime,#95ff00,
 Neon Nazar,#4fdce1,
 Neon Pink,#fe019a,x
 Neon Purple,#bc13fe,x
@@ -20909,6 +20914,7 @@ Pool Tide,#70928e,
 Pool Tiles,#89cff0,
 Pool Water,#2188ff,x
 Poolhouse,#8095a0,
+Poolside,#bee0e2,x
 Pop Shop,#93d4c0,
 Pop That Gum,#f771b3,x
 Popcorn,#f7d07a,x
@@ -23577,7 +23583,7 @@ Satin Weave,#f3edd9,
 Satin White,#cfd5db,
 Satire,#c4c2cd,
 Sativa,#b5bf50,
-Satoimo Brown,#654321,
+Satoimo Brown,#644222,
 Satsuma Imo Red,#96466a,
 Sattle,#aa6622,
 Saturated Sky,#4b4cfc,
@@ -24299,6 +24305,7 @@ Shocking,#e899be,
 Shocking Crimson,#ff0d04,x
 Shocking Orange,#ff6e1c,x
 Shocking Pink,#fe02a2,x
+Shocking Rose,#ff006a,x
 Shockwave,#72c8b8,
 Shoe Wax,#2b2b2b,
 Shoelace,#eae4d9,
@@ -25125,6 +25132,7 @@ Solar Glow,#faf1bd,
 Solar Light,#faf0c9,
 Solar Plexus Chakra,#f0ca4a,
 Solar Power,#f4b435,x
+Solar Relic,#d2ab51,x
 Solar Storm,#ffc16c,x
 Solar Wind,#fce9b9,
 Solaria,#f5d68f,
@@ -25648,7 +25656,7 @@ Spun Pearl,#a2a1ac,
 Spun Sugar,#fae2ed,
 Spun Wool,#e3ded4,
 SQL Injection Purple,#5e0092,
-Squant,#666666,
+Squant,#828383,
 Squash,#f2ab15,
 Squash Bisque,#e7b17c,
 Squash Blossom,#f8b438,
@@ -25976,6 +25984,7 @@ Strawberry Avalanche,#ef4f41,x
 Strawberry Blonde,#ffdadc,x
 Strawberry Bonbon,#ffebfa,x
 Strawberry Buttercream,#f8b3ff,x
+Strawberry Cheesecake,#ffdbe9,x
 Strawberry Confection,#f4bfc6,
 Strawberry Cough,#990011,
 Strawberry Cream,#f0adb3,
@@ -25991,6 +26000,7 @@ Strawberry Glaze,#dab7be,
 Strawberry Ice,#e78b90,
 Strawberry Jam,#86423e,
 Strawberry Jubilee,#c08591,
+Strawberry Latte,#d2adb5,x
 Strawberry Memory,#e2958d,x
 Strawberry Milk,#ffd9e7,x
 Strawberry Milkshake,#d47186,x
@@ -28381,6 +28391,7 @@ Velvet Evening,#33505e,
 Velvet Green,#2f5d50,
 Velvet Green Grey,#737866,
 Velvet Grey,#acaab3,
+Velvet Horizon,#d39ed2,x
 Velvet Leaf,#96c193,
 Velvet Magic,#bb1155,x
 Velvet Marigold,#e58d3f,
