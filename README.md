@@ -13,7 +13,7 @@
 [![npm](https://img.shields.io/npm/dt/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
 [![github sponsor count](https://img.shields.io/github/sponsors/meodai)](https://github.com/sponsors/meodai)
 
-A meticulously curated collection of __30351__ unique color names, sourced from
+A meticulously curated collection of __30353__ unique color names, sourced from
 [various references](#sources-) and thousands of thoughtful user contributions.
 
 > The names of color function like a thread attached to a frightfully slender
@@ -64,7 +64,7 @@ Please review the [naming rules](CONTRIBUTING.md) before contributing!
 To contribute via Git, edit the `src/colornames.csv` file
 and ensure it builds correctly (`npm run ci && npm run build`).
 
-## Color Count: __30351__ 🎉
+## Color Count: __30353__ 🎉
 
 ~__0.18%__ of the RGB color space
 
