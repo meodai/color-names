@@ -1486,6 +1486,7 @@ Aura White,#dee2e4,
 Aureolin,#fdee00,
 Auric,#c48919,
 Auric Armour Gold,#e8bc6d,
+Auric Copper,#aa6a44,
 Aurichalcite,#32ffdc,
 Auricula Purple,#533552,
 AuroMetalSaurus,#6e7f80,
@@ -2939,6 +2940,7 @@ Blue Bouquet,#0033ee,
 Blue Bows,#a4c3d7,
 Blue Brocade,#70b8d0,
 Blue Bubble,#a6d7eb,
+Blue Burst,#309cd0,x
 Blue Buzz,#a1a2bd,
 Blue By You,#a0b7ba,
 Blue Calico,#a5cde1,
@@ -3459,7 +3461,7 @@ Botanical Garden,#44aa11,x
 Botanical Green,#77976e,
 Botanical Night,#12403c,x
 Botanical Tint,#a7e6d4,
-Botticelli,#92acb4,
+Botticelli,#b70272,x
 Botticelli Angel,#fbdfd6,
 Bottle Glass,#238e50,
 Bottle Green,#006a4e,
@@ -3580,7 +3582,7 @@ Bread Basket,#ab8659,
 Bread Crumb,#e4d4be,x
 Bread Crust,#b78b43,
 Bread Flavour,#dcd6d2,
-Bread Pudding,#bfa270,
+Bread Pudding,#e6bc89,
 Breadstick,#b48c56,
 Break of Day,#fffabd,
 Break the Ice,#b2e1ee,x
@@ -3607,12 +3609,12 @@ Breathtaking Evening,#c3acb7,
 Breathtaking View,#809bac,
 Bredon Green,#5e9948,
 Breen,#795d34,
-Breeze,#c2dde6,x
+Breeze,#aec9ea,x
 Breeze in June,#c4dfe8,
 Breeze of Chilli,#f4706e,x
 Breeze of Green,#cffdbc,
 Breezeway,#d6dbc0,
-Breezy,#aec9ea,
+Breezy,#c2dde6,x
 Breezy Aqua,#d9e4de,
 Breezy Beige,#f7f2d7,
 Breezy Blue,#bad9e5,
@@ -3645,6 +3647,7 @@ Bricks of Hope,#db5856,
 Bricktone,#825943,
 Brickwork Red,#986971,
 Bricky Brick,#b33a22,x
+Brickyard,#ab6a64,
 Bridal Bouquet,#ebbdb8,
 Bridal Heath,#f8ebdd,
 Bridal Rose,#d1949c,
@@ -4487,7 +4490,7 @@ Candlewick,#f2ebd3,
 Candy,#ff9b87,x
 Candy Apple Red,#ff0800,x
 Candy Bar,#ffb7d5,x
-Candy Cane,#f7bfc2,
+Candy Cane,#f7bfc2,x
 Candy Coated,#ef9faa,
 Candy Corn,#fcfc5d,x
 Candy Dreams,#e9aef2,x
@@ -5745,6 +5748,7 @@ Classic Green,#3eb753,
 Classic Grey,#a39d93,
 Classic Ivory,#f2e0c3,
 Classic Light Buff,#f0eadc,
+Classic Movie,#728284,x
 Classic Olive,#685e3f,
 Classic Rose,#fbcce7,
 Classic Sand,#d6bcaa,
@@ -5875,6 +5879,7 @@ Cloud Dancer,#f0eee9,x
 Cloud Grey,#b8a9af,
 Cloud Nine,#e9e0db,
 Cloud Number Nine,#f9cec6,
+Cloud of Cream,#f1e2c4,x
 Cloud Over London,#c2bcb1,
 Cloud Pink,#f5d1c8,
 Cloud White,#f2f2ed,
@@ -7374,7 +7379,7 @@ Dead Sea,#77eeee,
 Dead Sea Mud,#3a403b,
 Deadlock,#8f666a,
 Deadly Depths,#111144,x
-Deadly Yellow,#dead00,x
+Deadly Mustard,#dead11,x
 Deadsy,#c2a84b,
 Deadwind Pass,#596d7f,
 Dear Darling,#a30112,x
@@ -7597,6 +7602,7 @@ Deli Yellow,#e8b523,x
 Delicacy,#f5e3e2,
 Delicacy White,#ebe2e5,
 Delicate Ballet Blue,#c2d1e2,
+Delicate Bliss,#ede0d5,x
 Delicate Bloom,#dbbfce,
 Delicate Blue,#bcdfe8,
 Delicate Blue Mist,#bed7f0,
@@ -8141,6 +8147,7 @@ Dreamsicle,#f5d5c2,
 Dreamweaver,#ccc6d7,
 Dreamy Candy Forest,#b195e4,x
 Dreamy Cloud,#e5e6eb,
+Dreamy Clouds,#d7eee4,
 Dreamy Heaven,#594158,
 Dreamy Memory,#e8c3d9,
 Dreamy Pink,#dfabcd,
@@ -9134,7 +9141,6 @@ Evocative Blue,#9dbcc7,
 Evolution,#704a3d,
 Evora,#538b89,
 Ewa,#454042,
-Exaggerated Blush,#b55067,
 Excalibur,#676168,x
 Excellence,#22606e,
 Excelsior,#908b85,
@@ -9200,6 +9206,7 @@ Extra White,#eeefea,
 Extraordinaire,#bda6c5,
 Extraordinary Abundance of Tinge,#e6e6e6,
 Extravagance,#4e4850,
+Extravagant Blush,#b55067,x
 Extravehicular Activity,#0011aa,
 Extraviolet,#661188,x
 Extreme Carrot,#ff7133,x
@@ -9387,6 +9394,7 @@ Fantasy Console Sky,#29adff,
 Fantasy Grey,#8591a2,
 Fantasy Romance,#e83a72,x
 Far Away Grey,#2d383a,
+Far Horizons,#7fa2bf,x
 Faraway Blue,#e5eeee,
 Faraway Sky,#8980c1,
 Farfalle Noodle,#e5d4c9,
@@ -10918,6 +10926,7 @@ Ginseng Root,#e6cdb5,
 Ginshu,#bc2d29,
 Gio Ponti Green,#b3ceab,
 Giraffe,#fefe33,x
+Girl Crush,#d1c0dc,x
 Girl Power,#d39bcb,x
 Girl Talk,#e4c7c8,
 Girlie,#ffd3cf,x
@@ -17480,6 +17489,7 @@ Morris Leaf,#c2d3af,x
 Morris Room Grey,#ada193,
 Morro Bay,#546b78,
 Morrow White,#fcfccf,
+Mortal Yellow,#dead00,x
 Mortar,#565051,
 Mortar Grey,#9e9f9e,
 MoS₂ Cyan,#00e6d3,
@@ -24933,6 +24943,7 @@ Snakes in the Grass,#889717,x
 Snap Pea Green,#8a8650,
 Snap-Shot,#2b3e52,
 Snapdragon,#fed777,
+Snappy Green,#bcf5a6,
 Snappy Happy,#eb8239,
 Snappy Violet,#cc0088,
 Snarky Mint,#9ae37d,x
@@ -25580,6 +25591,7 @@ Spray of Mint,#bdd0c3,
 Spreadsheet Green,#007711,
 Sprig Muslin,#d6c1c5,
 Sprig of Mint,#8be0ba,
+Sprig of Sage,#f2f6db,x
 Spring,#00f900,
 Spring Blossom,#e9edbd,
 Spring Bouquet,#69cd7f,
@@ -25670,7 +25682,7 @@ Spruce Tree Flower,#b35e97,
 Spruce Woods,#6e6a51,
 Spruce Yellow,#b77d42,
 Spruced Up,#9a7f28,
-Spumoni,#bccfa4,
+Spumoni Green,#bccfa4,
 Spun Cotton,#f3ecdc,
 Spun Jute,#f4e4cf,
 Spun Pearl,#a2a1ac,
@@ -25684,9 +25696,8 @@ Squash Blossom,#f8b438,
 Squeaky,#6cc4da,
 Squeeze Toy Alien,#11ee00,
 Squid Hat,#6e2233,
-Squid Ink Powder,#001133,
 Squid Pink,#f5b4bd,
-Squid’s Ink,#4d4e5c,
+Squid’s Ink,#041330,x
 Squig Orange,#aa4f44,
 Squirrel,#8f7d6b,
 Squirrel’s Nest,#665e48,
@@ -25769,7 +25780,7 @@ Starfox,#f0e8d5,
 Starfruit,#e4d183,
 Stargate,#b7c4d3,
 Stargate Shimmer,#7777ff,
-Stargazer,#3f5865,
+Stargazer,#3f5865,x
 Stargazing,#414549,x
 Starglider,#faeede,
 Stark White,#d2c6b6,
@@ -28361,6 +28372,7 @@ Vape Smoke,#e8e8d7,
 Vapor,#f0ffff,x
 Vapor Blue,#bebdbd,
 Vapor Trail,#f5eedf,x
+Vaporized,#cbf4f8,x
 Vaporous Grey,#d8d6ce,
 Vaporwave,#ff66ee,x
 Vaporwave Blue,#22ddff,x
@@ -29024,7 +29036,6 @@ Washed Green,#ccd1c8,
 Washed in Light,#fae8c8,
 Washed Khaki,#cac2af,
 Washed Olive,#c5c0a3,
-Washed Out Green,#bcf5a6,
 Washed Sage,#dedfcc,
 Washed-Out Crimson,#ffb3a7,
 Washing Powder Soft Blue,#c3d8e4,
@@ -29147,13 +29158,11 @@ Waywatcher Green,#99cc04,
 Waza Bear,#5e5a59,
 Wazdakka Red,#b21b00,
 We Peep,#fdd7d8,x
-Weak Blue,#cfe2ef,
 Weak Green,#e1f2df,
 Weak Mauve,#eadee4,
 Weak Mint,#e0f0e5,
 Weak Orange,#faede3,
 Weak Pink,#ecdee5,
-Weak Yellow,#f2f6db,
 Weapon Bronze,#b47b27,
 Weather Board,#9f947d,
 Weathered Bamboo,#593a27,
@@ -29270,7 +29279,6 @@ Whale,#7c8181,x
 Whale Bone,#e5e7e5,
 Whale Grey,#59676b,
 Whale Shark,#607c8e,x
-Whale Skin,#505a92,
 Whale Tail,#86878c,
 Whale Watching,#a5a495,
 Whale’s Mouth,#c7d3d5,
@@ -29314,7 +29322,6 @@ Whipped Coconut Cream,#edece7,
 Whipped Cream,#f2f0e7,x
 Whipped Mint,#c7ddd6,
 Whipped Peach,#faccad,
-Whipped Plum,#d1c0dc,
 Whipped Strawberry,#c9565a,
 Whipped Violet,#a1a8d5,
 Whipped White,#f2eee0,
@@ -29422,7 +29429,6 @@ White Heron,#e7e1d7,
 White Hot Chocolate,#ead8bb,
 White Hyacinth,#f3e5d1,
 White Hydrangea,#f9f6dd,
-White Ice,#d7eee4,
 White Iris,#dfe2e7,
 White Jade,#d0d6a8,
 White Jasmine,#f7f4df,
@@ -29481,7 +29487,6 @@ White Swan,#e4d7c5,
 White Tiger,#c5b8a8,
 White Truffle,#efdbcd,x
 White Ultramarine,#83ccd2,
-White Veil,#f7f1e3,
 White Vienna,#c5dcb3,
 White Warm Wool,#efe6d1,x
 White Whale,#edeeef,
@@ -29768,7 +29773,6 @@ Winter Ice,#dbdfe9,
 Winter in Paris,#6e878b,
 Winter Lake,#698b9c,
 Winter Lakes,#5c97cf,x
-Winter Lite,#efe0c9,
 Winter Meadow,#b7fffa,
 Winter Mist,#e7fbec,
 Winter Mood,#d1c295,
@@ -30144,8 +30148,7 @@ Yellow Summer,#f9b500,
 Yellow Sunshine,#fff601,
 Yellow Taffy,#f7edb7,
 Yellow Tail,#fff29d,
-Yellow Tan,#ffe36e,
-Yellow Tang,#ffd300,
+Yellow Tang,#ffd300,x
 Yellow Trumpet,#f9d988,
 Yellow Tulip,#f6d06e,
 Yellow Umbrella,#cdbb63,
@@ -30330,7 +30333,7 @@ Zirconia Teal,#2c7c79,
 Zitronenzucker,#f4f3cd,
 Zodiac,#8b9196,
 Zodiac Constellation,#ee8844,x
-Zombie,#6a755a,x
+Zombie,#dadead,x
 Zombie Green,#54c571,
 Zomp,#39a78e,
 Zōng Hóng Red,#ca6641,
