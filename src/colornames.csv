@@ -1683,7 +1683,6 @@ Baby Pink,#ffb7ce,x
 Baby Powder,#fefefa,
 Baby Purple,#ca9bf7,
 Baby Seal,#a1a5a8,
-Baby Shoes,#005784,
 Baby Spinach,#89a882,
 Baby Sprout,#a78b81,
 Baby Steps,#f5c9da,
@@ -2091,7 +2090,6 @@ Bayberry Wax,#b6aa89,
 Bayern Blue,#0098d4,
 Bayou,#268483,
 Bayshore,#89cee0,
-Bayshore Blue,#8ea6ba,
 Bayside,#5fc9bf,
 Baywater Blue,#c9d8e4,
 Bazaar,#8f7777,
@@ -2406,6 +2404,7 @@ Bewitching,#75495e,
 Bewitching Blue,#bbd0e3,
 Beyond the Clouds,#aaeeff,
 Beyond the Pines,#688049,x
+Beyond the Sea,#005784,x
 Beyond the Stars,#0a3251,x
 Beyond the Wall,#d7e0eb,
 Bff,#dbb0d3,
@@ -2839,6 +2838,7 @@ Blood God,#67080b,
 Blood Kiss,#c30b0a,x
 Blood Mahogany,#543839,
 Blood Moon,#d83432,
+Blood of My Enemies,#e0413a,x
 Blood Omen,#8a0303,
 Blood Orange,#d1001c,x
 Blood Orange Juice,#fe4b03,
@@ -2895,7 +2895,6 @@ Blue Accolade,#25415d,
 Blue Agave,#b1c6c7,
 Blue Alps,#89a3ae,
 Blue Android Base,#5a79ba,
-Blue Angel,#0022dd,
 Blue Angels Yellow,#f8b800,
 Blue Angora,#a7cfcb,
 Blue Antarctic,#4b789b,
@@ -3710,7 +3709,6 @@ Bright Mango,#ff8830,
 Bright Marigold,#eb7e00,
 Bright Maroon,#c32148,
 Bright Midnight,#011993,
-Bright Midnight Blue,#1a4876,
 Bright Mint,#98ff98,
 Bright Moon,#f6f1e5,
 Bright Nautilus,#225869,
@@ -3936,6 +3934,7 @@ Brussels,#6c7c6d,
 Brussels Sprout Green,#665e0d,
 Brutal Doom,#e61626,
 Brutal Pink,#ff00bb,x
+Brutally Blue,#0022dd,x
 Bryophyte,#a6bea6,
 Bryopsida Green,#9fe010,
 Bubbelgum Heart,#ffbadf,x
@@ -8881,7 +8880,6 @@ Endive,#cee1c8,x
 Endless,#5b976a,
 Endless Galaxy,#000044,x
 Endless Horizon,#b1dbf5,x
-Endless Possibilities,#e0413a,
 Endless River,#567aad,x
 Endless Sea,#32586e,
 Endless Silk,#ddddbb,
@@ -14542,6 +14540,7 @@ Lasting Lime,#88ff00,x
 Lasting Thoughts,#d4e6b1,
 Late Afternoon,#f8ab33,
 Late Day Sun,#f2e08e,
+Late Night Out,#3b2932,
 Later Gator,#008a51,x
 Latigo Bay,#3b9c98,
 Latin Charm,#292e44,
@@ -14699,6 +14698,7 @@ Leaf,#71aa34,x
 Leaf Bud,#eff19d,
 Leaf Green,#5ca904,
 Leaf Print,#e1d38e,
+Leaf Sheep,#6cb506,
 Leaf Tea,#697d4c,
 Leaf Yellow,#e9d79e,
 Leaflet,#8b987b,
@@ -16272,7 +16272,7 @@ Marsh Mist,#e8e1a1,
 Marsh Mix,#5a653a,
 Marsh Orchid,#c4a3bf,
 Marshal Blue,#3e4355,
-Marshland,#2b2e26,
+Marshland,#2b2e26,x
 Marshmallow,#f0eee4,x
 Marshmallow Cream,#f3e0d6,
 Marshmallow Fluff,#faf3de,
@@ -17715,7 +17715,6 @@ Mulled Grape,#675a74,
 Mulled Plum,#763d57,
 Mulled Spice,#d5a579,
 Mulled Wine,#524d5b,
-Mulled Wine Red,#3b2932,
 Mullen Pink,#ca4042,
 Mulling Spice,#c18654,
 Multnomah Falls,#ccd0dd,
@@ -18205,7 +18204,7 @@ Night Rider,#332e2e,x
 Night Romance,#715055,
 Night Rose,#b0807a,
 Night Shadz,#a23d54,
-Night Shift,#2a5c6a,
+Night Shift,#2a5c6a,x
 Night Sky,#292b31,x
 Night Snow,#aaccff,x
 Night Thistle,#6b7ba7,
@@ -18236,9 +18235,9 @@ Nightly Violet,#784384,
 Nightly Walk,#544563,x
 Nightly Woods,#013220,
 Nightmare,#112211,x
+Nightmare Fuel,#293135,x
 Nightshade,#3c464b,
 Nightshade Berries,#1b1811,
-Nightshade Blue,#293135,
 Nightshade Purple,#535872,
 Nightshade Violet,#a383ac,
 Nightshadow Blue,#555971,
@@ -20684,6 +20683,7 @@ Plaster,#eaeaea,x
 Plaster Cast,#e1eaec,
 Plaster Mix,#ead1a6,
 Plastic Carrot,#f65d20,x
+Plastic Cheese,#ffcc04,x
 Plastic Clouds,#f5f0f1,x
 Plastic Lime,#eddc70,
 Plastic Lips,#aa2266,x
@@ -21831,6 +21831,7 @@ Raging Bull,#b54e45,
 Raging Leaf,#dd5500,
 Raging Raisin,#aa3333,x
 Raging Sea,#8d969e,
+Raging Thunderstorm,#004f63,x
 Raging Tide,#5187a0,
 Ragtime Blues,#4a5e6c,
 Ragweed,#7be892,
@@ -24073,8 +24074,8 @@ Serene Sky,#c3e3eb,
 Serene Stream,#819daa,
 Serene Thought,#c5c0ac,
 Serenely,#ced7d5,
+Serengeti,#ab9579,
 Serengeti Dust,#e7dbc9,
-Serengeti Grass,#ab9579,
 Serengeti Green,#77cc88,
 Serengeti Sand,#fce7d0,
 Sereni Teal,#76baa8,x
@@ -24345,6 +24346,7 @@ Shojo’s Blood,#e2041b,
 Shōjōhi Red,#dc3023,
 Shooting Star,#ecf0eb,
 Shopping Bag,#5a4743,
+Shore,#81d5c6,x
 Shore Water,#6797a2,
 Shoreland,#ead9cb,
 Shoreline,#6c8791,
@@ -24689,6 +24691,7 @@ Sitting Pretty,#f4e2d9,
 Sixteen Million Pink,#fd02ff,
 Sixties Blue,#0079a9,
 Siyâh Black,#1c1b1a,
+Sizzling Bacon,#8e3537,x
 Sizzling Hot,#a36956,
 Sizzling Red,#ff3855,
 Sizzling Sunrise,#ffdb00,
@@ -24953,6 +24956,7 @@ Snappy Violet,#cc0088,
 Snarky Mint,#9ae37d,x
 Sneaky Devil,#840014,x
 Sneaky Sesame,#896a46,x
+Sneezeweeds,#f2b635,
 Sneezy,#9d7938,
 Snip of Parsley,#718854,
 Snip of Tannin,#dccebb,
@@ -27282,15 +27286,14 @@ Thunder Bay,#cbd9d7,
 Thunder Chi,#aac4d4,
 Thunder Grey,#57534c,
 Thunder Mountain Longhorn Pepper,#ce1b1f,
+Thunder Night,#1a4876,
 Thunderbird,#923830,x
 Thunderbolt,#fdefad,x
-Thunderbolt Blue,#454c56,
 Thundercat,#8a99a3,
 Thundercloud,#698589,x
 Thunderhawk Blue,#417074,
 Thunderous,#6d6c62,
 Thunderstorm,#9098a1,
-Thunderstorm Blue,#004f63,
 Thunderstruck,#5f5755,
 Thurman,#7f7b60,
 Thy Flesh Consumed,#98514a,
@@ -27374,7 +27377,6 @@ Timber Green,#324336,
 Timber Town,#908d85,
 Timber Trail,#a1755c,
 Timber Wolf,#8d8070,
-Timber Wolf White,#d9d6cf,
 Timberline,#73573f,
 Timberwolf,#b4aca3,
 Time Capsule,#a59888,
@@ -27400,6 +27402,7 @@ Timid Purple,#dfdfea,
 Timid Sea,#66a9b0,
 Timid Sheep,#e4e0dd,
 Timid Violet,#ded3dd,
+Timid White,#d9d6cf,x
 Timothy Grass,#adb274,
 Tin,#919191,x
 Tin Bitz,#48452b,
@@ -27734,7 +27737,7 @@ Tree Frog Green,#7ca14e,
 Tree Green,#2a7e19,
 Tree House,#3b2820,
 Tree Hugger,#79774a,x
-Tree Lined,#8ea597,
+Tree Line,#c3db8d,
 Tree Moss,#dcdbca,
 Tree of Life,#595d45,x
 Tree Palm,#7faa4b,
@@ -27783,7 +27786,6 @@ Trinidad,#c54f33,
 Trinidad Moruga Scorpion,#d0343d,
 Trinity Islands,#b9b79b,
 Trinket,#d69835,
-Trinket Box,#7e633f,
 Trinket Gold,#a7885f,
 Triple Berry,#c96272,
 Tripleberry,#752b3e,
@@ -28213,7 +28215,7 @@ Unreal Teal,#5c6e70,
 Unripe Strawberry,#f78fa7,
 Unroasted Coffee,#b1bea8,
 Untamed Orange,#de5730,
-Untamed Red,#dd0022,
+Untamed Red,#dd0022,x
 Unusual Grey,#a3a7a0,
 Unwind,#f2f8ed,
 UP Forest Green,#014431,
@@ -28227,7 +28229,7 @@ Upper East Side,#8d6051,
 Uproar Red,#ee1100,
 Upscale,#a8adc2,
 Upsdell Red,#ae2029,
-Upsed Tomato,#b52923,
+Upset Tomato,#b52923,x
 Upstream Salmon,#f99a7a,
 Uptown Girl,#a791a8,
 Uptown Taupe,#f1e4d7,
@@ -28945,7 +28947,7 @@ Warlord,#ba0033,x
 Warm Air of Debonair,#654740,
 Warm and Toasty,#cbb68f,
 Warm Apricot,#ffb865,
-Warm Ash,#cfc9c7,x
+Warm Ashes,#cfc9c7,x
 Warm Asphalt,#9c9395,
 Warm Balaclavas Are Forever,#3b1f23,
 Warm Biscuits,#e3cdac,
@@ -29219,7 +29221,7 @@ Welcoming Wasp,#eeaa00,
 Welded Iron,#6f6f6d,
 Weldon Blue,#7c98ab,
 Well Blue,#00888b,
-Well Read,#8e3537,
+Well Read,#7e633f,
 Well Water,#63adb9,
 Well-Bred Brown,#564537,
 Wellerman,#54606a,
