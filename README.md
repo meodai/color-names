@@ -296,7 +296,7 @@ NamedColor randomColor = colorNames.GetRandomNamedColor();
 - [Wada Sanzo's list of named colors]
 - [CSS/HTML color names]
 - [Werner’s Nomenclature of Colours]
-- [ntc.js]
+- [ntc.js] (chir.ag's Name that Color library)
 - [xkcd color survey list]
 - [htmlcsscolor.com]
 - [OSX Crayons]
