@@ -41,7 +41,7 @@ interactions with the project.
 - Write your commit messages in imperative form:
   **feat(colors): Add fantastic new colors names.** rather then
   feat(colors): Added new names.
-- Make sure to run `npm run build` before committing. (No need to `npm ci` the
+- Make sure to run `npm run test` before committing. (No need to `npm ci` the
   dependencies are only needed if you need to run the API)
 
 ### Attribution
