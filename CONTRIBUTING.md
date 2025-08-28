@@ -7,8 +7,7 @@ interactions with the project.
 
 ## Adding colors
 
-1. Only update the `src/colornames.csv` file and run
-   `npm run build` or request access to our shared google spreadsheet
+1. Only update the `src/colornames.csv` file and run `npm run test`
 2. Make sure the names you commit are not racist or offensive or a protected
    brand name (No Facebook Blue, Coca Cola Red etc.., no nationality or tan etc..).
 3. Read the "Rules for new color names" directly below
