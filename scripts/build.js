@@ -4,7 +4,8 @@ import { parseCSVString, findDuplicates, objArrToString } from './lib.js';
 import { exec } from 'child_process';
 
 const args = process.argv;
-const isTestRun = !!args.find((arg) => arg === '--testOnly');
+// treat --testonly / --testOnly the same
+const isTestRun = args.some((arg) => arg.toLowerCase() === '--testonly');
 
 // only hex colors with 6 values
 const hexColorValidation = /^#[0-9a-f]{6}$/;
@@ -88,10 +89,10 @@ colorsSrc.values[bestOfKey].forEach((str) => {
 });
 
 showLog();
-
+// In test mode we still perform the build so tests can import dist artifacts,
+// but we avoid mutating repository files like README.md or generating the SVG.
 if (isTestRun) {
-  console.log('⇪ See test results above ⇪');
-  process.exit();
+  console.log('Test mode: skipping README & SVG generation.');
 }
 
 // creates JS related files
@@ -336,37 +337,41 @@ for (const outputFormat in outputFormats) {
   }
 }
 
-// updates the color count in readme file
-const readme = fs.readFileSync(path.normalize(`${baseFolder}${readmeFileName}`), 'utf8').toString();
-fs.writeFileSync(
-  path.normalize(`${baseFolder}${readmeFileName}`),
-  readme
-    .replace(
-      // update color count in text
-      /__\d+__/g,
-      `__${colorsSrc.entries.length}__`
-    )
-    .replace(
-      // update color count in badge
-      /\d+-colors-orange/,
-      `${colorsSrc.entries.length}-colors-orange`
-    )
-    .replace(
-      // update color count in percentage
-      /__\d+(\.\d+)?%__/,
-      `__${((colorsSrc.entries.length / (256 * 256 * 256)) * 100).toFixed(2)}%__`
-    )
-    .replace(
-      // update file size
-      /\d+(\.\d+)? MB\)__/g,
-      `${(
-        fs.statSync(path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.json`)).size /
-        1024 /
-        1024
-      ).toFixed(2)} MB)__`
-    ),
-  'utf8'
-);
+if (!isTestRun) {
+  // updates the color count in readme file
+  const readme = fs
+    .readFileSync(path.normalize(`${baseFolder}${readmeFileName}`), 'utf8')
+    .toString();
+  fs.writeFileSync(
+    path.normalize(`${baseFolder}${readmeFileName}`),
+    readme
+      .replace(
+        // update color count in text
+        /__\d+__/g,
+        `__${colorsSrc.entries.length}__`
+      )
+      .replace(
+        // update color count in badge
+        /\d+-colors-orange/,
+        `${colorsSrc.entries.length}-colors-orange`
+      )
+      .replace(
+        // update color count in percentage
+        /__\d+(\.\d+)?%__/,
+        `__${((colorsSrc.entries.length / (256 * 256 * 256)) * 100).toFixed(2)}%__`
+      )
+      .replace(
+        // update file size
+        /\d+(\.\d+)? MB\)__/, // no global to only hit first occurrence
+        `${(
+          fs.statSync(path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.json`)).size /
+          1024 /
+          1024
+        ).toFixed(2)} MB)__`
+      ),
+    'utf8'
+  );
+}
 
 /**
  * outputs the collected logs
@@ -479,4 +484,6 @@ function diffSVG() {
   );
 }
 
-diffSVG();
+if (!isTestRun) {
+  diffSVG();
+}

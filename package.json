@@ -24,9 +24,10 @@
   "scripts": {
     "commit": "git-cz",
     "pull-colors": "curl -L 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQube6Y0wHyEtJnjg0eU3N7VseoxVnD4L9uDqvWZdl_tzzrHDVN10IPP7cdFipX8j70atNMLfPCB0Q6/pub?gid=40578722&single=true&output=csv' -o src/colornames.csv",
-    "test": "npm run test:precommit && npm run build && vitest run",
+    "test": "npm run test:precommit && vitest run",
     "test:watch": "vitest",
-    "test:precommit": "npm run build --testonly",
+    "test:precommit": "npm run build:test",
+    "build:test": "node scripts/build.js --testonly",
     "build": "node scripts/build.js && npm run prettier",
     "prettier": "prettier --write ./dist/*",
     "lint": "npm run lint:scripts && npm run lint:markdown",
