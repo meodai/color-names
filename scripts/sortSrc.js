@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 
 /**
- * Script to sort the colornames.csv file alphabetically by name
- * This helps maintain order when new colors are added to the list
- */
+* Script to sort the colornames.csv file alphabetically by name
+* This helps maintain order when new colors are added to the list
+*/
 
 import fs from 'fs';
 import path from 'path';
@@ -18,11 +18,17 @@ const csvPath = path.join(__dirname, '..', 'src', 'colornames.csv');
 // Read the CSV file
 const readAndSortCSV = () => {
   try {
-    // Read the file
-    const data = fs.readFileSync(csvPath, 'utf8');
+    // Read file & normalise line endings to LF
+    const raw = fs.readFileSync(csvPath, 'utf8').replace(/\r\n?/g, '\n');
 
-    // Split the data into lines
-    const lines = data.trim().split('\n');
+    // Split (keeping possible last empty line which we'll drop below)
+    let lines = raw.split('\n');
+
+    // Drop trailing empty / whitespace-only lines
+    while (lines.length && !lines[lines.length - 1].trim()) lines.pop();
+
+    // Trim trailing whitespace on each line
+    lines = lines.map(l => l.replace(/\s+$/,''));
 
     // The header should be kept as the first line
     const header = lines[0];
@@ -38,10 +44,10 @@ const readAndSortCSV = () => {
       return nameA.localeCompare(nameB);
     });
 
-    // Combine the header and sorted lines
-    const sortedData = [header, ...sortedColorLines].join('\n');
+    // Combine header & sorted lines (no blank line). Ensure exactly one final newline.
+    const sortedData = [header, ...sortedColorLines].join('\n') + '\n';
 
-    // Write the sorted data back to the file
+    // Write back
     fs.writeFileSync(csvPath, sortedData, 'utf8');
 
     console.log(`✅ Successfully sorted ${sortedColorLines.length} colors alphabetically by name`);
