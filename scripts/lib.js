@@ -111,9 +111,7 @@ export const objArrToString = (arr, keys, options) => {
  * - Strip diacritics
  * - Remove all non-alphanumeric characters
  * Examples:
- *  "Euro Linen" -> "eurolinen"
- *  "Café" -> "cafe"
- *  "Peek-A-Blue" -> "peekablue"
+ *  "Snow Pink" -> "Snowpink"
  * @param {string} name
  * @return {string}
  */

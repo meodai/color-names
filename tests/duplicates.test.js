@@ -26,8 +26,9 @@ describe('Duplicate-like color names', () => {
 
     if (conflicts.length) {
       // Create a helpful error message with examples and hints.
+      const groupCount = conflicts.length;
       const msgLines = [
-        'Found color names that normalize to the same key (case/accents/punctuation-insensitive):',
+        `Found ${groupCount} duplicate-like group${groupCount === 1 ? '' : 's'} (case/accents/punctuation-insensitive):`,
         '',
       ];
       conflicts
@@ -52,11 +53,11 @@ describe('Duplicate-like color names', () => {
 
       msgLines.push(
         '',
-        'This typically indicates near-duplicates that only differ by spacing/punctuation, like "Euro Linen" vs "Eurolinen".',
+        'This typically indicates near-duplicates that only differ by spacing/punctuation, like "Snow Pink" vs "Snowpink".',
         'Please unify or remove duplicates to keep the dataset clean.',
         '',
         'Tip:',
-        '  - Edit src/colornames.csv and keep a single preferred spelling.',
+        '  - Edit src/colornames.csv and keep a single preferred spelling. When in doubt, prefer the most common or simplest form or the British spelling.',
         '  - After changes, run: npm run sort-colors',
       );
 
