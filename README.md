@@ -393,6 +393,7 @@ NamedColor randomColor = colorNames.GetRandomNamedColor();
 , Nathan Swift
 , Abra Giddings
 , Iraj Nelson
+, [Alex Cristache]
 
 ## Disclaimer 👮🏾‍
 
@@ -458,6 +459,7 @@ so we can address them promptly.
 [Colorful Dots]: https://colorfuldots.com/
 [color.museum]: https://www.color.museum/
 [krissymashinsky.com]: https://www.krissymashinsky.com/
+[Alex Cristache]: https://x.com/AlexCristache
 
 <!-- Sources: Names -->
 
