@@ -80,11 +80,13 @@ colorsSrc.values['name'].forEach((name) => {
 colorsSrc.values[bestOfKey].forEach((str) => {
   // check for spaces
   if (spacesValidation.test(str)) {
-    log(`"${bestOfKey}" marker'`, str, `${str} found either a leading or trailing space (or both)`);
+    // Use the actual CSV key so we can resolve the offending entries (names)
+    log(bestOfKey, str, `${str} found either a leading or trailing space (or both)`);
   }
 
   if (!(str == 'x' || str == '')) {
-    log(`"${bestOfKey}" marker`, str, `${str} must be a lowercase "x" character or empty`);
+    // Use the actual CSV key so we can resolve the offending entries (names)
+    log(bestOfKey, str, `${str} must be a lowercase "x" character or empty`);
   }
 });
 
@@ -383,6 +385,17 @@ function showLog() {
     totalErrors = i + 1;
     errorLevel = error.errorLevel || errorLevel;
     console.log(`${error.errorLevel ? '⛔' : '⚠'}  ${error.message}`);
+    if (Array.isArray(error.entries) && error.entries.length) {
+      // Print a concise list of offending names for quick scanning
+      const nameList = error.entries
+        .map((e) => (e && e.name ? `${e.name}${e.hex ? ` (${e.hex})` : ''}` : ''))
+        .filter(Boolean)
+        .join(', ');
+      if (nameList) {
+        console.log(`Offending name(s): ${nameList}`);
+      }
+    }
+    // Keep the JSON dump for full context
     console.log(JSON.stringify(error.entries));
     console.log('*-------------------------*');
   });

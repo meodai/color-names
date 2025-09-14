@@ -104,3 +104,60 @@ export const objArrToString = (arr, keys, options) => {
     settings.insertAfter
   );
 };
+
+/**
+ * Normalize a color name to detect near-duplicates.
+ * - Lowercase
+ * - Strip diacritics
+ * - Remove all non-alphanumeric characters
+ * Examples:
+ *  "Euro Linen" -> "eurolinen"
+ *  "Café" -> "cafe"
+ *  "Peek-A-Blue" -> "peekablue"
+ * @param {string} name
+ * @return {string}
+ */
+export const normalizeNameForDuplicates = (name) => {
+  return String(name)
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/[^a-z0-9]/g, '');
+};
+
+/**
+ * Given a list of items with a name and optional lineNumber, find groups of
+ * near-duplicate names that collapse to the same normalized key.
+ *
+ * @param {Array<{name:string, lineNumber?:number}>} items
+ * @returns {Array<{norm:string, entries:Array<{name:string, lineNumber?:number}>}>}
+ */
+export const findNearDuplicateNameConflicts = (items, options = {}) => {
+  const { allowlist = [] } = options;
+
+  // Normalize allowlist entries so callers can provide raw names or already-normalized keys.
+  const allowSet = new Set(
+    (Array.isArray(allowlist) ? allowlist : [])
+      .filter((v) => typeof v === 'string' && v.trim().length)
+      .map((v) => normalizeNameForDuplicates(String(v)))
+  );
+
+  const byNorm = new Map();
+  for (const item of items) {
+    if (!item || typeof item.name !== 'string') continue;
+    const norm = normalizeNameForDuplicates(item.name);
+    if (!byNorm.has(norm)) byNorm.set(norm, []);
+    byNorm.get(norm).push({ name: item.name, lineNumber: item.lineNumber });
+  }
+
+  const conflicts = [];
+  for (const [norm, arr] of byNorm.entries()) {
+    if (allowSet.has(norm)) continue; // explicitly allowed
+    const uniqueNames = Array.from(new Set(arr.map((x) => x.name)));
+    if (uniqueNames.length > 1) {
+      conflicts.push({ norm, entries: arr });
+    }
+  }
+
+  return conflicts;
+};
