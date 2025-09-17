@@ -43,6 +43,16 @@
 			],
 			"isBackground": false,
 			"group": "build"
+		},
+		{
+			"label": "Run tests with plural folding",
+			"type": "shell",
+			"command": "npm",
+			"args": [
+				"test"
+			],
+			"isBackground": false,
+			"group": "build"
 		}
 	]
 }
