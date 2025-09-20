@@ -131,7 +131,7 @@ export const normalizeNameForDuplicates = (name) => {
  * @returns {Array<{norm:string, entries:Array<{name:string, lineNumber?:number}>}>}
  */
 export const findNearDuplicateNameConflicts = (items, options = {}) => {
-  const { allowlist = [] } = options;
+  const { allowlist = [], foldPlurals = false, pluralAllowlist = [] } = options;
 
   // Normalize allowlist entries so callers can provide raw names or already-normalized keys.
   const allowSet = new Set(
@@ -146,6 +146,29 @@ export const findNearDuplicateNameConflicts = (items, options = {}) => {
     const norm = normalizeNameForDuplicates(item.name);
     if (!byNorm.has(norm)) byNorm.set(norm, []);
     byNorm.get(norm).push({ name: item.name, lineNumber: item.lineNumber });
+  }
+
+  // Optional plural folding: merge keys ending in 's' with their singular if present.
+  if (foldPlurals) {
+    const pluralAllowSet = new Set(
+      (Array.isArray(pluralAllowlist) ? pluralAllowlist : [])
+        .filter((v) => typeof v === 'string' && v.trim().length)
+        .map((v) => normalizeNameForDuplicates(String(v)))
+    );
+    // We iterate over a snapshot of keys because we'll mutate the map.
+    for (const key of Array.from(byNorm.keys())) {
+      if (key.length < 4) continue; // avoid over-aggressive folding for tiny words
+      if (!key.endsWith('s')) continue;
+      if (key.endsWith('ss')) continue; // glass vs glas, moss vs mos, keep
+      if (pluralAllowSet.has(key)) continue; // explicit allow: don't fold
+      const singular = key.slice(0, -1);
+      if (byNorm.has(singular)) {
+        // merge arrays
+        const merged = [...byNorm.get(singular), ...byNorm.get(key)];
+        byNorm.set(singular, merged);
+        byNorm.delete(key);
+      }
+    }
   }
 
   const conflicts = [];

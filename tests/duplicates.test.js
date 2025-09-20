@@ -3,6 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import { findNearDuplicateNameConflicts } from '../scripts/lib.js';
 import allowlist from './duplicate-allowlist.json';
+import pluralAllowlist from './duplicate-plurals-allowlist.json';
 
 describe('Duplicate-like color names', () => {
   it('should not contain names that only differ by spacing/punctuation/case/accents', () => {
@@ -22,7 +23,7 @@ describe('Duplicate-like color names', () => {
       return { name, lineNumber };
     }).filter(Boolean);
 
-  const conflicts = findNearDuplicateNameConflicts(items, { allowlist });
+    const conflicts = findNearDuplicateNameConflicts(items, { allowlist, foldPlurals: true, pluralAllowlist });
 
     if (conflicts.length) {
       // Create a helpful error message with examples and hints.
