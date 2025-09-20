@@ -1,22 +1,20 @@
-import { describe, it, expect } from 'vitest';
-import fs from 'fs';
-import path from 'path';
+import { describe, it, expect, beforeAll } from 'vitest';
+import { csvTestData } from './csv-test-data.js';
 
 /**
  * Ensures that the source CSV file is already sorted alphabetically (case-insensitive)
  * by the color name. If not, it throws with a helpful message telling how to fix it.
  */
 describe('Source CSV sorting', () => {
+  beforeAll(() => {
+    // Load CSV data once
+    csvTestData.load();
+  });
+
   it('colornames.csv should be sorted by name (case-insensitive)', () => {
-    const csvPath = path.resolve('./src/colornames.csv');
-    const raw = fs.readFileSync(csvPath, 'utf8').replace(/\r\n/g, '\n').trimEnd();
-    const lines = raw.split('\n');
-    expect(lines.length).toBeGreaterThan(1);
+    expect(csvTestData.lineCount).toBeGreaterThan(1);
 
-    const header = lines.shift();
-    expect(header.startsWith('name,hex')).toBe(true);
-
-    const entries = lines
+    const entries = csvTestData.lines
       .filter((l) => l.trim().length)
       .map((l, idx) => {
         const [name, hex] = l.split(',');

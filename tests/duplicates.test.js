@@ -1,37 +1,38 @@
-import { describe, it, expect } from 'vitest';
-import fs from 'fs';
-import path from 'path';
-import { findNearDuplicateNameConflicts } from '../scripts/lib.js';
+import { describe, it, expect, beforeAll } from 'vitest';
+import { findNearDuplicateNameConflicts, findDuplicates } from '../scripts/lib.js';
 import allowlist from './duplicate-allowlist.json';
 import pluralAllowlist from './duplicate-plurals-allowlist.json';
+import { csvTestData } from './csv-test-data.js';
 
 describe('Duplicate-like color names', () => {
+  beforeAll(() => {
+    // Load CSV data once for all tests
+    csvTestData.load();
+  });
+
   it('should not contain names that only differ by spacing/punctuation/case/accents', () => {
-    const csvPath = path.resolve('./src/colornames.csv');
-    const raw = fs.readFileSync(csvPath, 'utf8').replace(/\r\n/g, '\n').trimEnd();
-    const lines = raw.split('\n');
-    expect(lines.length).toBeGreaterThan(1);
+    expect(csvTestData.lineCount).toBeGreaterThan(1);
 
-    const header = lines.shift();
-    expect(header.startsWith('name,hex')).toBe(true);
-
-    const items = lines.map((l, idx) => {
-      const lineNumber = idx + 2; // +1 for header, +1 because idx is 0-based
-      if (!l.trim()) return null;
-      const firstComma = l.indexOf(',');
-      const name = firstComma === -1 ? l : l.slice(0, firstComma);
-      return { name, lineNumber };
-    }).filter(Boolean);
-
-    const conflicts = findNearDuplicateNameConflicts(items, { allowlist, foldPlurals: true, pluralAllowlist });
+    const conflicts = findNearDuplicateNameConflicts(csvTestData.items, { allowlist, foldPlurals: true, pluralAllowlist });
 
     if (conflicts.length) {
       // Create a helpful error message with examples and hints.
       const groupCount = conflicts.length;
       const msgLines = [
-        `Found ${groupCount} duplicate-like group${groupCount === 1 ? '' : 's'} (case/accents/punctuation-insensitive):`,
+        `⛔ Found ${groupCount} duplicate-like group${groupCount === 1 ? '' : 's'} (case/accents/punctuation-insensitive):`,
         '',
       ];
+
+      // Create a quick summary like build.js does
+      const allOffendingNames = [];
+      conflicts.forEach(({ entries }) => {
+        entries.forEach(e => allOffendingNames.push(e.name));
+      });
+      const nameList = [...new Set(allOffendingNames)].join(', ');
+      msgLines.push(`Offending name(s): ${nameList}`);
+      msgLines.push('*-------------------------*');
+      msgLines.push('');
+
       conflicts
         // make message deterministic by sorting
         .sort((a, b) => a.norm.localeCompare(b.norm))
@@ -50,6 +51,7 @@ describe('Duplicate-like color names', () => {
           unique.sort((a, b) => a.lineNumber - b.lineNumber);
           msgLines.push(`  • ${norm}:`);
           unique.forEach((e) => msgLines.push(`      - line ${e.lineNumber}: "${e.name}"`));
+          msgLines.push('');
         });
 
       msgLines.push(
@@ -60,6 +62,8 @@ describe('Duplicate-like color names', () => {
         'Tip:',
         '  - Edit src/colornames.csv and keep a single preferred spelling. When in doubt, prefer the most common or simplest form or the British spelling.',
         '  - After changes, run: npm run sort-colors',
+        '',
+        '*-------------------------*'
       );
 
       throw new Error(msgLines.join('\n'));
@@ -67,5 +71,53 @@ describe('Duplicate-like color names', () => {
 
     // If we reach here, no conflicts were found.
     expect(conflicts.length).toBe(0);
+  });
+
+  it('should not contain duplicate hex codes', () => {
+    // Find duplicates in hex values
+    const hexDuplicates = findDuplicates(csvTestData.data.values['hex']);
+
+    if (hexDuplicates.length) {
+      // Create detailed error message like build.js
+      const msgLines = [
+        `⛔ Found ${hexDuplicates.length} duplicate hex code${hexDuplicates.length === 1 ? '' : 's'}:`,
+        '',
+      ];
+
+      // Create a quick summary
+      const nameList = hexDuplicates.join(', ');
+      msgLines.push(`Offending hex code(s): ${nameList}`);
+      msgLines.push('*-------------------------*');
+      msgLines.push('');
+
+      // Find which entries have these duplicate hex codes
+      hexDuplicates.forEach(duplicateHex => {
+        const entriesWithHex = csvTestData.data.entries
+          .map((entry, index) => ({ ...entry, lineNumber: index + 2 })) // +2 for header and 0-based index
+          .filter(entry => entry.hex === duplicateHex);
+
+        msgLines.push(`  • ${duplicateHex}:`);
+        entriesWithHex.forEach(entry => {
+          msgLines.push(`      - line ${entry.lineNumber}: "${entry.name}" (${entry.hex})`);
+        });
+        msgLines.push('');
+      });
+
+      msgLines.push(
+        '',
+        'Duplicate hex codes indicate multiple color names pointing to the same exact color.',
+        'Please remove duplicates or consolidate to a single preferred name.',
+        '',
+        'Tip:',
+        '  - Edit src/colornames.csv and keep only one entry per hex code',
+        '  - When in doubt, prefer the most common or descriptive name',
+        '',
+        '*-------------------------*'
+      );
+
+      throw new Error(msgLines.join('\n'));
+    }
+
+    expect(hexDuplicates.length).toBe(0);
   });
 });

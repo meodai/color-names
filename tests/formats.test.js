@@ -1,16 +1,17 @@
-import { describe, it, expect } from 'vitest';
+import { describe, it, expect, beforeAll } from 'vitest';
 import fs from 'fs';
 import path from 'path';
 import { parseCSVString } from '../scripts/lib.js';
+import { csvTestData } from './csv-test-data.js';
 
 describe('Other Format Tests', () => {
-  // Load CSV data for comparison
-  const csvSource = fs.readFileSync(path.resolve('./src/colornames.csv'), 'utf8').toString();
-  const csvData = parseCSVString(csvSource);
-  const csvColors = csvData.entries.map(entry => ({
-    name: entry.name,
-    hex: entry.hex
-  }));
+  let csvColors;
+
+  beforeAll(() => {
+    // Load CSV data once for all tests
+    csvTestData.load();
+    csvColors = csvTestData.colors;
+  });
 
   describe('CSV Output', () => {
     it('should correctly generate CSV files', () => {
