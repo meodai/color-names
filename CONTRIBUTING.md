@@ -27,7 +27,7 @@ interactions with the project.
 - No protected brand-names (`Facebook Blue`, `Coca Cola Red`)
 - No enumerations (`Grey 1`, `Grey 2`, `Grey 3`, `Grey 4`)
 - British English spelling (ex. `Grey` not `Gray`), unless its something U.S. typical.
-- Capitalize colors: `Kind of Orange`
+- Capitalize colors: `Kind of Orange` following [APA style](https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case)
 - Prefer common names, especially when adding colors of flora and fauna
   (plants and animals ;) ) ex. `Venus Slipper Orchid` instead of `Paphiopedilum`.
 - Avoid ethnic & racial assumptions
