@@ -10,6 +10,47 @@ describe('Duplicate-like color names', () => {
     csvTestData.load();
   });
 
+  it('should not contain the same name twice', () => {
+    expect(csvTestData.lineCount).toBeGreaterThan(1);
+
+    const duplicates = findDuplicates(csvTestData.data.values['name']);
+
+    if (duplicates.length) {
+      // Create a helpful error message with examples and hints.
+      const msgLines = [
+        `⛔ Found ${duplicates.length} duplicate name${duplicates.length === 1 ? '' : 's'}:`,
+        '',
+      ];
+
+      const nameList = duplicates.join(', ');
+      msgLines.push(`Offending name(s): ${nameList}`);
+      msgLines.push('*-------------------------*');
+      msgLines.push('');
+
+      duplicates.forEach((duplicateName) => {
+        const entriesWithName = csvTestData.data.entries
+          .map((entry, index) => ({ ...entry, lineNumber: index + 2 })) // +2 for header and 0-based index
+          .filter((entry) => entry.name === duplicateName);
+
+      });
+      msgLines.push('');
+      msgLines.push(
+        'Exact duplicate names are not allowed.',
+        'Please remove duplicates or consolidate to a single preferred name.',
+        '',
+        'Tip:',
+        '  - Edit src/colornames.csv and keep only one entry per name',
+        '  - When in doubt, prefer the most common or descriptive name',
+        '',
+        '*-------------------------*'
+      );
+
+      throw new Error(msgLines.join('\n'));
+    }
+
+    expect(duplicates.length).toBe(0);
+  });
+
   it('should not contain names that only differ by spacing/punctuation/case/accents', () => {
     expect(csvTestData.lineCount).toBeGreaterThan(1);
 
