@@ -22,8 +22,8 @@ jobs:
           node-version: ${{ matrix.node-version }}
           cache: 'npm'
       - run: npm ci
-      - run: npm test
       - run: npm run build
+      - run: npm test
       - name: Check for changes
         id: git-check
         run: |
