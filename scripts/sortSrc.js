@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 
 /**
-* Script to sort the colornames.csv file alphabetically by name
-* This helps maintain order when new colors are added to the list
-*/
+ * Script to sort the colornames.csv file alphabetically by name
+ * This helps maintain order when new colors are added to the list
+ */
 
 import fs from 'fs';
 import path from 'path';
@@ -28,7 +28,7 @@ const readAndSortCSV = () => {
     while (lines.length && !lines[lines.length - 1].trim()) lines.pop();
 
     // Trim trailing whitespace on each line
-    lines = lines.map(l => l.replace(/\s+$/,''));
+    lines = lines.map((l) => l.replace(/\s+$/, ''));
 
     // The header should be kept as the first line
     const header = lines[0];
@@ -52,7 +52,6 @@ const readAndSortCSV = () => {
 
     console.log(`✅ Successfully sorted ${sortedColorLines.length} colors alphabetically by name`);
     console.log(`📝 File saved: ${csvPath}`);
-
   } catch (error) {
     console.error('❌ Error sorting the CSV file:', error);
     process.exit(1);

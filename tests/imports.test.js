@@ -106,11 +106,11 @@ describe('Color Names Import Tests', () => {
       const commonColors = ['black', 'white', 'red', 'blue', 'green', 'yellow', 'purple', 'pink'];
 
       // Convert to lowercase for easier comparison
-      const allNames = jsonColors.map(color => color.name.toLowerCase());
+      const allNames = jsonColors.map((color) => color.name.toLowerCase());
 
-      commonColors.forEach(color => {
+      commonColors.forEach((color) => {
         // Check if at least one entry contains this common color name
-        expect(allNames.some(name => name.includes(color))).toBe(true);
+        expect(allNames.some((name) => name.includes(color))).toBe(true);
       });
     });
   });

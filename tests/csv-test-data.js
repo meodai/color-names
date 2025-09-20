@@ -35,13 +35,15 @@ class CSVTestData {
     }
 
     // Create items array with line numbers for duplicate checking
-    this._items = this._lines.map((l, idx) => {
-      const lineNumber = idx + 2; // +1 for header, +1 because idx is 0-based
-      if (!l.trim()) return null;
-      const firstComma = l.indexOf(',');
-      const name = firstComma === -1 ? l : l.slice(0, firstComma);
-      return { name, lineNumber };
-    }).filter(Boolean);
+    this._items = this._lines
+      .map((l, idx) => {
+        const lineNumber = idx + 2; // +1 for header, +1 because idx is 0-based
+        if (!l.trim()) return null;
+        const firstComma = l.indexOf(',');
+        const name = firstComma === -1 ? l : l.slice(0, firstComma);
+        return { name, lineNumber };
+      })
+      .filter(Boolean);
   }
 
   /**
@@ -81,9 +83,9 @@ class CSVTestData {
    */
   get colors() {
     this.load();
-    return this._data.entries.map(entry => ({
+    return this._data.entries.map((entry) => ({
       name: entry.name,
-      hex: entry.hex
+      hex: entry.hex,
     }));
   }
 

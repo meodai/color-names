@@ -23,7 +23,7 @@ describe('CSV Data Validations', () => {
         invalidHexCodes.push({
           hex,
           name: entry.name,
-          lineNumber: index + 2 // +2 for header and 0-based index
+          lineNumber: index + 2, // +2 for header and 0-based index
         });
       }
     });
@@ -35,7 +35,7 @@ describe('CSV Data Validations', () => {
       ];
 
       // Create a quick summary
-      const hexList = invalidHexCodes.map(item => item.hex).join(', ');
+      const hexList = invalidHexCodes.map((item) => item.hex).join(', ');
       msgLines.push(`Offending hex code(s): ${hexList}`);
       msgLines.push('*-------------------------*');
       msgLines.push('');
@@ -75,7 +75,7 @@ describe('CSV Data Validations', () => {
         invalidNames.push({
           name,
           hex: entry.hex,
-          lineNumber: index + 2 // +2 for header and 0-based index
+          lineNumber: index + 2, // +2 for header and 0-based index
         });
       }
     });
@@ -87,7 +87,7 @@ describe('CSV Data Validations', () => {
       ];
 
       // Create a quick summary
-      const nameList = invalidNames.map(item => `"${item.name}"`).join(', ');
+      const nameList = invalidNames.map((item) => `"${item.name}"`).join(', ');
       msgLines.push(`Offending name(s): ${nameList}`);
       msgLines.push('*-------------------------*');
       msgLines.push('');
@@ -125,7 +125,7 @@ describe('CSV Data Validations', () => {
         invalidNames.push({
           name,
           hex: entry.hex,
-          lineNumber: index + 2 // +2 for header and 0-based index
+          lineNumber: index + 2, // +2 for header and 0-based index
         });
       }
     });
@@ -137,7 +137,7 @@ describe('CSV Data Validations', () => {
       ];
 
       // Create a quick summary
-      const nameList = invalidNames.map(item => `"${item.name}"`).join(', ');
+      const nameList = invalidNames.map((item) => `"${item.name}"`).join(', ');
       msgLines.push(`Offending name(s): ${nameList}`);
       msgLines.push('*-------------------------*');
       msgLines.push('');
@@ -150,7 +150,7 @@ describe('CSV Data Validations', () => {
       msgLines.push(
         '',
         'Color names should not contain quote characters (", \', `).',
-        'Use apostrophes (\') instead of quotes for possessives or contractions.',
+        "Use apostrophes (') instead of quotes for possessives or contractions.",
         '',
         'Tip:',
         '  - Edit src/colornames.csv and replace quote characters',
@@ -179,7 +179,7 @@ describe('CSV Data Validations', () => {
             name: entry.name,
             hex: entry.hex,
             lineNumber: index + 2,
-            issue: 'invalid spacing'
+            issue: 'invalid spacing',
           });
         }
 
@@ -191,7 +191,7 @@ describe('CSV Data Validations', () => {
             name: entry.name,
             hex: entry.hex,
             lineNumber: index + 2,
-            issue: 'invalid value'
+            issue: 'invalid value',
           });
         }
       });
@@ -204,14 +204,14 @@ describe('CSV Data Validations', () => {
       ];
 
       // Create a quick summary
-      const markerList = invalidMarkers.map(item => `"${item.marker}"`).join(', ');
+      const markerList = invalidMarkers.map((item) => `"${item.marker}"`).join(', ');
       msgLines.push(`Offending marker(s): ${markerList}`);
       msgLines.push('*-------------------------*');
       msgLines.push('');
 
       // Group by issue type for better organization
-      const spacingIssues = invalidMarkers.filter(item => item.issue === 'invalid spacing');
-      const valueIssues = invalidMarkers.filter(item => item.issue === 'invalid value');
+      const spacingIssues = invalidMarkers.filter((item) => item.issue === 'invalid spacing');
+      const valueIssues = invalidMarkers.filter((item) => item.issue === 'invalid value');
 
       if (spacingIssues.length) {
         msgLines.push('  Spacing issues:');

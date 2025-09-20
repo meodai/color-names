@@ -1,21 +1,7 @@
 import fs from 'fs';
 import path from 'path';
-import { parseCSVString, findDuplicates, objArrToString } from './lib.js';
+import { parseCSVString, objArrToString } from './lib.js';
 import { exec } from 'child_process';
-
-const args = process.argv;
-// treat --testonly / --testOnly the same
-const isTestRun = args.some((arg) => arg.toLowerCase() === '--testonly');
-
-// only hex colors with 6 values
-const hexColorValidation = /^#[0-9a-f]{6}$/;
-const errors = [];
-
-// spaces regex
-const spacesValidation = /^\s+|\s{2,}|\s$/;
-
-// quote regex
-const quoteValidation = /"|'|`/;
 
 // setting
 const __dirname = path.dirname(new URL(import.meta.url).pathname);
@@ -29,7 +15,6 @@ const readmeFileName = 'README.md';
 const fileNameShortPostfix = '.short';
 const maxShortNameLength = 12;
 
-const sortBy = 'name';
 const csvKeys = ['name', 'hex'];
 const bestOfKey = 'good name';
 
@@ -39,63 +24,6 @@ const src = fs
   .toString();
 
 const colorsSrc = parseCSVString(src);
-
-// sort by sorting criteria
-colorsSrc.entries.sort((a, b) => {
-  return a[sortBy].localeCompare(b[sortBy]);
-});
-
-csvKeys.forEach((key) => {
-  // find duplicates
-  const dupes = findDuplicates(colorsSrc.values[key]);
-  dupes.forEach((dupe) => {
-    log(key, dupe, `found a double ${key}`);
-  });
-});
-
-// loop hex values for validations
-colorsSrc.values['hex'].forEach((hex) => {
-  // validate HEX values
-  if (!hexColorValidation.test(hex)) {
-    log(
-      'hex',
-      hex,
-      `${hex} is not a valid hex value. (Or to short, we avoid using the hex shorthands, no capital letters)`
-    );
-  }
-});
-
-// loop names
-colorsSrc.values['name'].forEach((name) => {
-  // check for spaces
-  if (spacesValidation.test(name)) {
-    log('name', name, `${name} found either a leading or trailing space (or both)`);
-  }
-  if (quoteValidation.test(name)) {
-    log('name', name, `${name} found a quote character, should be an apostrophe ’`);
-  }
-});
-
-// loop good name markers
-colorsSrc.values[bestOfKey].forEach((str) => {
-  // check for spaces
-  if (spacesValidation.test(str)) {
-    // Use the actual CSV key so we can resolve the offending entries (names)
-    log(bestOfKey, str, `${str} found either a leading or trailing space (or both)`);
-  }
-
-  if (!(str == 'x' || str == '')) {
-    // Use the actual CSV key so we can resolve the offending entries (names)
-    log(bestOfKey, str, `${str} must be a lowercase "x" character or empty`);
-  }
-});
-
-showLog();
-// In test mode we still perform the build so tests can import dist artifacts,
-// but we avoid mutating repository files like README.md or generating the SVG.
-if (isTestRun) {
-  console.log('Test mode: skipping README & SVG generation.');
-}
 
 // creates JS related files
 const JSONExportString = JSON.stringify(
@@ -339,91 +267,37 @@ for (const outputFormat in outputFormats) {
   }
 }
 
-if (!isTestRun) {
-  // updates the color count in readme file
-  const readme = fs
-    .readFileSync(path.normalize(`${baseFolder}${readmeFileName}`), 'utf8')
-    .toString();
-  fs.writeFileSync(
-    path.normalize(`${baseFolder}${readmeFileName}`),
-    readme
-      .replace(
-        // update color count in text
-        /__\d+__/g,
-        `__${colorsSrc.entries.length}__`
-      )
-      .replace(
-        // update color count in badge
-        /\d+-colors-orange/,
-        `${colorsSrc.entries.length}-colors-orange`
-      )
-      .replace(
-        // update color count in percentage
-        /__\d+(\.\d+)?%__/,
-        `__${((colorsSrc.entries.length / (256 * 256 * 256)) * 100).toFixed(2)}%__`
-      )
-      .replace(
-        // update file size
-        /\d+(\.\d+)? MB\)__/, // no global to only hit first occurrence
-        `${(
-          fs.statSync(path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.json`)).size /
-          1024 /
-          1024
-        ).toFixed(2)} MB)__`
-      ),
-    'utf8'
-  );
-}
-
-/**
- * outputs the collected logs
- */
-function showLog() {
-  let errorLevel = 0;
-  let totalErrors = 0;
-  errors.forEach((error, i) => {
-    totalErrors = i + 1;
-    errorLevel = error.errorLevel || errorLevel;
-    console.log(`${error.errorLevel ? '⛔' : '⚠'}  ${error.message}`);
-    if (Array.isArray(error.entries) && error.entries.length) {
-      // Print a concise list of offending names for quick scanning
-      const nameList = error.entries
-        .map((e) => (e && e.name ? `${e.name}${e.hex ? ` (${e.hex})` : ''}` : ''))
-        .filter(Boolean)
-        .join(', ');
-      if (nameList) {
-        console.log(`Offending name(s): ${nameList}`);
-      }
-    }
-    // Keep the JSON dump for full context
-    console.log(JSON.stringify(error.entries));
-    console.log('*-------------------------*');
-  });
-  if (errorLevel) {
-    throw new Error(`⚠ failed because of the ${totalErrors} error${totalErrors > 1 ? 's' : ''} above ⚠`);
-  }
-  return totalErrors;
-}
-
-/**
- * logs errors and warning
- * @param   {string} key        key to look for in input
- * @param   {string} value      value to look for
- * @param   {string} message    error message
- * @param   {Number} errorLevel if any error is set to 1, the program will exit
- */
-function log(key, value, message, errorLevel = 1) {
-  const error = {};
-  // looks for the original item that caused the error
-  error.entries = colorsSrc.entries.filter((entry) => {
-    return entry[key] === value;
-  });
-
-  error.message = message;
-  error.errorLevel = errorLevel;
-
-  errors.push(error);
-}
+// updates the color count in readme file
+const readme = fs.readFileSync(path.normalize(`${baseFolder}${readmeFileName}`), 'utf8').toString();
+fs.writeFileSync(
+  path.normalize(`${baseFolder}${readmeFileName}`),
+  readme
+    .replace(
+      // update color count in text
+      /__\d+__/g,
+      `__${colorsSrc.entries.length}__`
+    )
+    .replace(
+      // update color count in badge
+      /\d+-colors-orange/,
+      `${colorsSrc.entries.length}-colors-orange`
+    )
+    .replace(
+      // update color count in percentage
+      /__\d+(\.\d+)?%__/,
+      `__${((colorsSrc.entries.length / (256 * 256 * 256)) * 100).toFixed(2)}%__`
+    )
+    .replace(
+      // update file size
+      /\d+(\.\d+)? MB\)__/, // no global to only hit first occurrence
+      `${(
+        fs.statSync(path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.json`)).size /
+        1024 /
+        1024
+      ).toFixed(2)} MB)__`
+    ),
+  'utf8'
+);
 
 // gets SVG template
 const svgTpl = fs.readFileSync(path.normalize(__dirname + '/changes.svg.tpl'), 'utf8').toString();
@@ -497,6 +371,4 @@ function diffSVG() {
   );
 }
 
-if (!isTestRun) {
-  diffSVG();
-}
+diffSVG();

@@ -34,7 +34,7 @@ describe('Source CSV sorting', () => {
             'To fix automatically run:',
             '  npm run sort-colors',
             '',
-            'Commit the updated src/colornames.csv after sorting.'
+            'Commit the updated src/colornames.csv after sorting.',
           ].join('\n')
         );
       }

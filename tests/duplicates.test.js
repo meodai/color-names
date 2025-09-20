@@ -13,7 +13,11 @@ describe('Duplicate-like color names', () => {
   it('should not contain names that only differ by spacing/punctuation/case/accents', () => {
     expect(csvTestData.lineCount).toBeGreaterThan(1);
 
-    const conflicts = findNearDuplicateNameConflicts(csvTestData.items, { allowlist, foldPlurals: true, pluralAllowlist });
+    const conflicts = findNearDuplicateNameConflicts(csvTestData.items, {
+      allowlist,
+      foldPlurals: true,
+      pluralAllowlist,
+    });
 
     if (conflicts.length) {
       // Create a helpful error message with examples and hints.
@@ -26,7 +30,7 @@ describe('Duplicate-like color names', () => {
       // Create a quick summary like build.js does
       const allOffendingNames = [];
       conflicts.forEach(({ entries }) => {
-        entries.forEach(e => allOffendingNames.push(e.name));
+        entries.forEach((e) => allOffendingNames.push(e.name));
       });
       const nameList = [...new Set(allOffendingNames)].join(', ');
       msgLines.push(`Offending name(s): ${nameList}`);
@@ -91,13 +95,13 @@ describe('Duplicate-like color names', () => {
       msgLines.push('');
 
       // Find which entries have these duplicate hex codes
-      hexDuplicates.forEach(duplicateHex => {
+      hexDuplicates.forEach((duplicateHex) => {
         const entriesWithHex = csvTestData.data.entries
           .map((entry, index) => ({ ...entry, lineNumber: index + 2 })) // +2 for header and 0-based index
-          .filter(entry => entry.hex === duplicateHex);
+          .filter((entry) => entry.hex === duplicateHex);
 
         msgLines.push(`  • ${duplicateHex}:`);
-        entriesWithHex.forEach(entry => {
+        entriesWithHex.forEach((entry) => {
           msgLines.push(`      - line ${entry.lineNumber}: "${entry.name}" (${entry.hex})`);
         });
         msgLines.push('');
