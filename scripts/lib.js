@@ -131,19 +131,50 @@ export const normalizeNameForDuplicates = (name) => {
  * @returns {Array<{norm:string, entries:Array<{name:string, lineNumber?:number}>}>}
  */
 export const findNearDuplicateNameConflicts = (items, options = {}) => {
-  const { allowlist = [], foldPlurals = false, pluralAllowlist = [] } = options;
+  const {
+    allowlist = [],
+    foldPlurals = false,
+    pluralAllowlist = [],
+    foldStopwords = false,
+    stopwords = [],
+  } = options;
 
-  // Normalize allowlist entries so callers can provide raw names or already-normalized keys.
+  // Precompute stopword set (normalized to lowercase ASCII) when folding is enabled
+  const stopSet = foldStopwords
+    ? new Set(
+        (Array.isArray(stopwords) ? stopwords : [])
+          .filter((w) => typeof w === 'string' && w.trim().length)
+          .map((w) =>
+            String(w)
+              .toLowerCase()
+              .normalize('NFD')
+              .replace(/[\u0300-\u036f]/g, '')
+          )
+      )
+    : null;
+
+  // Helper: normalize name using current options (stopword folding if enabled)
+  const normalizeForOptions = (name) => {
+    const base = String(name)
+      .toLowerCase()
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '');
+    const tokens = base.match(/[a-z0-9]+/g) || [];
+    const filtered = foldStopwords && stopSet && stopSet.size ? tokens.filter((t) => !stopSet.has(t)) : tokens;
+    return filtered.length ? filtered.join('') : normalizeNameForDuplicates(name);
+  };
+
+  // Normalize allowlist entries using the same normalization function.
   const allowSet = new Set(
     (Array.isArray(allowlist) ? allowlist : [])
       .filter((v) => typeof v === 'string' && v.trim().length)
-      .map((v) => normalizeNameForDuplicates(String(v)))
+      .map((v) => normalizeForOptions(String(v)))
   );
 
   const byNorm = new Map();
   for (const item of items) {
     if (!item || typeof item.name !== 'string') continue;
-    const norm = normalizeNameForDuplicates(item.name);
+    const norm = normalizeForOptions(item.name);
     if (!byNorm.has(norm)) byNorm.set(norm, []);
     byNorm.get(norm).push({ name: item.name, lineNumber: item.lineNumber });
   }
@@ -153,7 +184,8 @@ export const findNearDuplicateNameConflicts = (items, options = {}) => {
     const pluralAllowSet = new Set(
       (Array.isArray(pluralAllowlist) ? pluralAllowlist : [])
         .filter((v) => typeof v === 'string' && v.trim().length)
-        .map((v) => normalizeNameForDuplicates(String(v)))
+        // Use the same normalization as used for keys (respects stopword folding)
+        .map((v) => normalizeForOptions(String(v)))
     );
     // We iterate over a snapshot of keys because we'll mutate the map.
     for (const key of Array.from(byNorm.keys())) {

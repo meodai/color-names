@@ -37,13 +37,21 @@ describe('Duplicate-like color names', () => {
     expect(duplicates.length).toBe(0);
   });
 
-  it('should not contain names that only differ by spacing/punctuation/case/accents', () => {
+  it('should not contain names that only differ by spacing/punctuation/case/accents/stopwords', () => {
     expect(csvTestData.lineCount).toBeGreaterThan(1);
 
     const conflicts = findNearDuplicateNameConflicts(csvTestData.items, {
       allowlist,
       foldPlurals: true,
       pluralAllowlist,
+      foldStopwords: true,
+      stopwords: [
+        'of', 'the', 'and', 'a', 'an',
+        'in', 'on', 'at', 'to', 'for',
+        'by', 'with', 'from', 'as', 'is',
+        'it', 'this', 'that', 'these', 'those',
+        'be', 'are', 'was', 'were', 'or'
+      ],
     });
 
     if (conflicts.length) {
@@ -73,7 +81,7 @@ describe('Duplicate-like color names', () => {
 
       throw new Error(
         buildFailureMessage({
-          title: 'Found {n} duplicate-like {items} (case/accents/punctuation-insensitive):',
+          title: 'Found {n} duplicate-like {items} (case/accents/punctuation/stopwords-insensitive):',
           offenders: [...allOffendingNames],
           offenderLabel: 'name',
           details: [
@@ -131,5 +139,27 @@ describe('Duplicate-like color names', () => {
     }
 
     expect(hexDuplicates.length).toBe(0);
+  });
+
+  it('should detect names that only differ by stopwords when enabled', () => {
+    const items = [
+      { name: 'Heart Gold' },
+      { name: 'Heart of Gold' },
+    ];
+    const stopwords = [
+      'of', 'the', 'and', 'a', 'an',
+      'in', 'on', 'at', 'to', 'for',
+      'by', 'with', 'from', 'as', 'is',
+      'it', 'this', 'that', 'these', 'those',
+      'be', 'are', 'was', 'were', 'or',
+    ];
+
+    const conflicts = findNearDuplicateNameConflicts(items, {
+      foldStopwords: true,
+      stopwords,
+    });
+
+    expect(conflicts.length).toBe(1);
+    expect(conflicts[0].entries.length).toBe(2);
   });
 });
