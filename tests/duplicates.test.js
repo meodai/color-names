@@ -13,20 +13,41 @@ describe('Duplicate-like color names', () => {
 
   // Shared stopwords for normalization across tests
   const STOPWORDS = [
-    'of', 'the', 'and', 'a', 'an',
-    'in', 'on', 'at', 'to', 'for',
-    'by', 'with', 'from', 'as', 'is',
-    'it', 'this', 'that', 'these', 'those',
-    'be', 'are', 'was', 'were', 'or',
+    'of',
+    'the',
+    'and',
+    'a',
+    'an',
+    'in',
+    'on',
+    'at',
+    'to',
+    'for',
+    'by',
+    'with',
+    'from',
+    'as',
+    'is',
+    'it',
+    'this',
+    'that',
+    'these',
+    'those',
+    'be',
+    'are',
+    'was',
+    'were',
+    'or',
   ];
 
   // Helper: normalize a phrase similar to scripts/lib normalization but keeping token boundaries
-  const normalize = (s) => String(s)
-    .toLowerCase()
-    .normalize('NFD')
-    .replace(/[\u0300-\u036f]/g, '')
-    .replace(/[^a-z0-9]+/g, ' ')
-    .trim();
+  const normalize = (s) =>
+    String(s)
+      .toLowerCase()
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '')
+      .replace(/[^a-z0-9]+/g, ' ')
+      .trim();
 
   const tokenize = (name) => {
     const base = normalize(name);
@@ -157,7 +178,8 @@ describe('Duplicate-like color names', () => {
 
       throw new Error(
         buildFailureMessage({
-          title: 'Found {n} duplicate-like {items} (case/accents/punctuation/stopwords-insensitive):',
+          title:
+            'Found {n} duplicate-like {items} (case/accents/punctuation/stopwords-insensitive):',
           offenders: [...allOffendingNames],
           offenderLabel: 'name',
           details: [
@@ -218,10 +240,7 @@ describe('Duplicate-like color names', () => {
   });
 
   it('should detect names that only differ by stopwords when enabled', () => {
-    const items = [
-      { name: 'Heart Gold' },
-      { name: 'Heart of Gold' },
-    ];
+    const items = [{ name: 'Heart Gold' }, { name: 'Heart of Gold' }];
     const conflicts = findNearDuplicateNameConflicts(items, {
       foldStopwords: true,
       stopwords: STOPWORDS,

@@ -8,7 +8,7 @@ describe('APA Title Case Validation', () => {
     csvTestData.load();
   });
 
-    /**
+  /**
    * Determine if a word should be capitalized according to APA title case rules
    * @param {string} word - The word to check
    * @param {boolean} isFirstWordOrAfterPunctuation - True if this is the first word or after punctuation
@@ -16,7 +16,12 @@ describe('APA Title Case Validation', () => {
    * @param {boolean} isLastWord - True if this is the last word in the title
    * @returns {boolean} - True if the word should be capitalized
    */
-  function shouldBeCapitalized(word, isFirstWordOrAfterPunctuation, isAfterPunctuation, isLastWord = false) {
+  function shouldBeCapitalized(
+    word,
+    isFirstWordOrAfterPunctuation,
+    isAfterPunctuation,
+    isLastWord = false
+  ) {
     // Always capitalize first words, words after punctuation, and last words
     if (isFirstWordOrAfterPunctuation || isAfterPunctuation || isLastWord) {
       return true;
@@ -30,13 +35,44 @@ describe('APA Title Case Validation', () => {
     // Short words (3 letters or fewer) that should be lowercase (unless first, after punctuation, or last)
     const minorWords = new Set([
       // Short conjunctions
-      'and', 'as', 'but', 'for', 'if', 'nor', 'or', 'so', 'yet',
+      'and',
+      'as',
+      'but',
+      'for',
+      'if',
+      'nor',
+      'or',
+      'so',
+      'yet',
       // Articles
-      'a', 'an', 'the',
+      'a',
+      'an',
+      'the',
       // Short prepositions
-      'at', 'by', 'in', 'of', 'off', 'on', 'per', 'to', 'up', 'via',
+      'at',
+      'by',
+      'in',
+      'of',
+      'off',
+      'on',
+      'per',
+      'to',
+      'up',
+      'via',
       // for short prepositions
-      'de', 'la', 'le', 'les', 'un', 'une', 'du', 'des', 'et', 'ou', 'à', 'au', 'aux'
+      'de',
+      'la',
+      'le',
+      'les',
+      'un',
+      'une',
+      'du',
+      'des',
+      'et',
+      'ou',
+      'à',
+      'au',
+      'aux',
     ]);
 
     return !minorWords.has(word.toLowerCase());
@@ -147,12 +183,22 @@ describe('APA Title Case Validation', () => {
 
       // Patterns that suggest Los Angeles context
       const losAngelesIndicators = [
-        'vibes', 'style', 'sunset', 'beach', 'hollywood', 'california', 'west coast',
-        'city', 'metro', 'downtown', 'freeway', 'boulevard'
+        'vibes',
+        'style',
+        'sunset',
+        'beach',
+        'hollywood',
+        'california',
+        'west coast',
+        'city',
+        'metro',
+        'downtown',
+        'freeway',
+        'boulevard',
       ];
 
       // If the name contains any LA indicators, treat "la" as Los Angeles
-      if (losAngelesIndicators.some(indicator => lowerName.includes(indicator))) {
+      if (losAngelesIndicators.some((indicator) => lowerName.includes(indicator))) {
         return true;
       }
 
@@ -160,7 +206,7 @@ describe('APA Title Case Validation', () => {
       const nextWord = words[wordIndex + 2]; // +2 to skip whitespace
       if (nextWord) {
         const nonFrenchPatterns = ['vibes', 'style', 'sunset', 'beach'];
-        if (nonFrenchPatterns.some(pattern => nextWord.toLowerCase().includes(pattern))) {
+        if (nonFrenchPatterns.some((pattern) => nextWord.toLowerCase().includes(pattern))) {
           return true;
         }
       }
@@ -187,8 +233,8 @@ describe('APA Title Case Validation', () => {
 
       // Check for alphanumeric patterns that should stay uppercase (like model numbers)
       // Exclude ordinal numbers (1st, 2nd, 3rd, 18th, etc.)
-      const isAlphanumericPattern = /^[0-9]+[A-Z]+$/i.test(segment) &&
-        !/^\d+(st|nd|rd|th)$/i.test(segment);
+      const isAlphanumericPattern =
+        /^[0-9]+[A-Z]+$/i.test(segment) && !/^\d+(st|nd|rd|th)$/i.test(segment);
 
       // Handle hyphenated words - both parts should follow title case rules
       if (segment.includes('-')) {
@@ -219,11 +265,20 @@ describe('APA Title Case Validation', () => {
 
           // Check if this is the last part of the last word in the title
           const isLastPart = partIndex === parts.length - 1;
-          const isLastWordInTitle = i === words.length - 1 || (i === words.length - 2 && /^\s+$/.test(words[words.length - 1]));
+          const isLastWordInTitle =
+            i === words.length - 1 ||
+            (i === words.length - 2 && /^\s+$/.test(words[words.length - 1]));
           const isLastWord = isLastPart && isLastWordInTitle;
 
-          const shouldCap = shouldBeCapitalized(part, isFirstWord || partIndex > 0, isAfterPunctuation, isLastWord);
-          return shouldCap ? part.charAt(0).toUpperCase() + part.slice(1).toLowerCase() : part.toLowerCase();
+          const shouldCap = shouldBeCapitalized(
+            part,
+            isFirstWord || partIndex > 0,
+            isAfterPunctuation,
+            isLastWord
+          );
+          return shouldCap
+            ? part.charAt(0).toUpperCase() + part.slice(1).toLowerCase()
+            : part.toLowerCase();
         });
         result += capitalizedParts.join('-');
       } else {
@@ -242,9 +297,18 @@ describe('APA Title Case Validation', () => {
           result += 'LA';
         } else {
           // Regular word - check if this is the last non-whitespace word
-          const isLastWordInTitle = i === words.length - 1 || (i === words.length - 2 && /^\s+$/.test(words[words.length - 1]));
-          const shouldCap = shouldBeCapitalized(segment, isFirstWord, isAfterPunctuation, isLastWordInTitle);
-          result += shouldCap ? segment.charAt(0).toUpperCase() + segment.slice(1).toLowerCase() : segment.toLowerCase();
+          const isLastWordInTitle =
+            i === words.length - 1 ||
+            (i === words.length - 2 && /^\s+$/.test(words[words.length - 1]));
+          const shouldCap = shouldBeCapitalized(
+            segment,
+            isFirstWord,
+            isAfterPunctuation,
+            isLastWordInTitle
+          );
+          result += shouldCap
+            ? segment.charAt(0).toUpperCase() + segment.slice(1).toLowerCase()
+            : segment.toLowerCase();
         }
       }
 
