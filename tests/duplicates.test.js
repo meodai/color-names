@@ -11,6 +11,88 @@ describe('Duplicate-like color names', () => {
     csvTestData.load();
   });
 
+  // Shared stopwords for normalization across tests
+  const STOPWORDS = [
+    'of', 'the', 'and', 'a', 'an',
+    'in', 'on', 'at', 'to', 'for',
+    'by', 'with', 'from', 'as', 'is',
+    'it', 'this', 'that', 'these', 'those',
+    'be', 'are', 'was', 'were', 'or',
+  ];
+
+  // Helper: normalize a phrase similar to scripts/lib normalization but keeping token boundaries
+  const normalize = (s) => String(s)
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/[^a-z0-9]+/g, ' ')
+    .trim();
+
+  const tokenize = (name) => {
+    const base = normalize(name);
+    const tokens = base.match(/[a-z0-9]+/g) || [];
+    const stopSet = new Set(STOPWORDS.map((w) => normalize(w)));
+    return tokens.filter((t) => t && !stopSet.has(t));
+  };
+
+  // Detect two-word names that are exact reversals of each other (after stopword filtering)
+  function findTwoWordReversedPairs(items) {
+    const groups = new Map(); // key: sorted pair "a|b" -> list of { name, lineNumber, order: "a b" }
+
+    for (const item of items) {
+      if (!item || typeof item.name !== 'string') continue;
+      const tokens = tokenize(item.name);
+      if (tokens.length !== 2) continue; // only 2-token (after stopword removal)
+      const [a, b] = tokens;
+      if (!a || !b) continue;
+      if (a === b) continue; // "blue blue" reversed is the same – ignore
+
+      const key = [a, b].sort().join('|');
+      const order = `${a} ${b}`;
+      if (!groups.has(key)) groups.set(key, []);
+      groups.get(key).push({ name: item.name, lineNumber: item.lineNumber, order });
+    }
+
+    const conflicts = [];
+    for (const [key, entries] of groups.entries()) {
+      // We have a potential conflict if we see both orders "a b" and "b a"
+      const uniqOrders = [...new Set(entries.map((e) => e.order))];
+      if (uniqOrders.length < 2) continue;
+
+      const [t1, t2] = key.split('|');
+      const forward = `${t1} ${t2}`;
+      const backward = `${t2} ${t1}`;
+
+      const hasForward = uniqOrders.includes(forward);
+      const hasBackward = uniqOrders.includes(backward);
+
+      if (hasForward && hasBackward) {
+        // Keep entries unique by name@line and sorted by line number for stable output
+        const seen = new Set();
+        const unique = entries
+          .filter((e) => {
+            const k = `${e.name}@${e.lineNumber}`;
+            if (seen.has(k)) return false;
+            seen.add(k);
+            return true;
+          })
+          .sort((a, b) => a.lineNumber - b.lineNumber);
+
+        // Respect allowlist: if either direction string is allowlisted, skip
+        const allowSet = new Set(
+          (Array.isArray(allowlist) ? allowlist : [])
+            .filter((v) => typeof v === 'string' && v.trim().length)
+            .map((v) => normalize(v))
+        );
+        if (allowSet.has(forward) || allowSet.has(backward)) continue;
+
+        conflicts.push({ key, tokens: [t1, t2], entries: unique });
+      }
+    }
+
+    return conflicts;
+  }
+
   it('should not contain the same name twice', () => {
     expect(csvTestData.lineCount).toBeGreaterThan(1);
 
@@ -45,13 +127,7 @@ describe('Duplicate-like color names', () => {
       foldPlurals: true,
       pluralAllowlist,
       foldStopwords: true,
-      stopwords: [
-        'of', 'the', 'and', 'a', 'an',
-        'in', 'on', 'at', 'to', 'for',
-        'by', 'with', 'from', 'as', 'is',
-        'it', 'this', 'that', 'these', 'those',
-        'be', 'are', 'was', 'were', 'or'
-      ],
+      stopwords: STOPWORDS,
     });
 
     if (conflicts.length) {
@@ -146,20 +222,56 @@ describe('Duplicate-like color names', () => {
       { name: 'Heart Gold' },
       { name: 'Heart of Gold' },
     ];
-    const stopwords = [
-      'of', 'the', 'and', 'a', 'an',
-      'in', 'on', 'at', 'to', 'for',
-      'by', 'with', 'from', 'as', 'is',
-      'it', 'this', 'that', 'these', 'those',
-      'be', 'are', 'was', 'were', 'or',
-    ];
-
     const conflicts = findNearDuplicateNameConflicts(items, {
       foldStopwords: true,
-      stopwords,
+      stopwords: STOPWORDS,
     });
 
     expect(conflicts.length).toBe(1);
     expect(conflicts[0].entries.length).toBe(2);
+  });
+
+  it.skip('should not contain two-word names that are exact reversals of each other', () => {
+    expect(csvTestData.lineCount).toBeGreaterThan(1);
+
+    const conflicts = findTwoWordReversedPairs(csvTestData.items);
+
+    if (conflicts.length) {
+      // Build helpful details with line numbers
+      const details = [];
+      const offenderNames = new Set();
+
+      conflicts
+        .sort((a, b) => a.tokens.join(' ').localeCompare(b.tokens.join(' ')))
+        .forEach(({ tokens, entries }) => {
+          const [a, b] = tokens;
+          details.push(`  • ${a} / ${b}:`);
+          entries.forEach((e) => {
+            offenderNames.add(e.name);
+            details.push(`      - line ${e.lineNumber}: "${e.name}"`);
+          });
+          details.push('');
+        });
+
+      throw new Error(
+        buildFailureMessage({
+          title: 'Found {n} word-order reversed {items}:',
+          offenders: [...offenderNames],
+          offenderLabel: 'name',
+          details: [
+            ...details,
+            'Names that only differ by word order (e.g., "Beach Sand" vs "Sand Beach") should be unified.',
+            'Please keep a single preferred order and remove the other.',
+          ],
+          tips: [
+            'Edit src/colornames.csv and keep only one order for each two-word pair.',
+            'After changes, run: npm run sort-colors',
+          ],
+          count: conflicts.length,
+        })
+      );
+    }
+
+    expect(conflicts.length).toBe(0);
   });
 });
