@@ -45,7 +45,7 @@ const readAndSortCSV = () => {
     });
 
     // Combine header & sorted lines (no blank line). Ensure exactly one final newline.
-    const sortedData = [header, ...sortedColorLines].join('\n') + '\n';
+    const sortedData = [header, ...sortedColorLines].join('\n');
 
     // Write back
     fs.writeFileSync(csvPath, sortedData, 'utf8');
