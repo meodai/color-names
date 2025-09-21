@@ -7,7 +7,7 @@ export default defineConfig({
   test: {
     include: ['tests/**/*.test.js'],
     // Exclude CI-only tests locally. GitHub Actions sets CI=true, so these will run in CI.
-    exclude: isCI ? [] : ['tests/imports.test.js', 'tests/formats.test.js'],
+    exclude: isCI ? [] : ['tests/*.ci.test.js'],
     environment: 'node',
   },
 });
