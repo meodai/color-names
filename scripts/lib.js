@@ -160,7 +160,8 @@ export const findNearDuplicateNameConflicts = (items, options = {}) => {
       .normalize('NFD')
       .replace(/[\u0300-\u036f]/g, '');
     const tokens = base.match(/[a-z0-9]+/g) || [];
-    const filtered = foldStopwords && stopSet && stopSet.size ? tokens.filter((t) => !stopSet.has(t)) : tokens;
+    const filtered =
+      foldStopwords && stopSet && stopSet.size ? tokens.filter((t) => !stopSet.has(t)) : tokens;
     return filtered.length ? filtered.join('') : normalizeNameForDuplicates(name);
   };
 
