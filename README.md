@@ -307,11 +307,12 @@ let another = colorsnamed::Xkcd::Tea;
 ```rust
 use colorsnamed;
 
+// Get the relevant hex code
 let red = colorsnamed::Basic::Red;
 let hex = red.hex();
 
-// Can be used for color validation
-let ex: colorsnamed::Basic::Red = hex.try_into().unwrap();
+// Figure out if there is a matching color for a hex code!
+let ex: colorsnamed::Basic = hex.try_into().unwrap();
 ```
 
 #### Converting colors
@@ -321,10 +322,10 @@ use colorsnamed;
 use colors;
 use rgb::Rgb;
 
-let red = colorsnamed::Basic::Red;
-
 // Convert to the represention of your colorspace of choice.
-let correct_color = red.color<colors::SRGB>();
+let correct_color = red.color::<colors::Srgb>();
+
+let red = colorsnamed::Basic::Red;
 
 // Get the RGB representation
 let rgb: Rgb = red.rgb();
