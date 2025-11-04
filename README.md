@@ -285,6 +285,52 @@ NamedColor namedColorFromNamedColor = colorNames.FindClosestColorName(customName
 NamedColor randomColor = colorNames.GetRandomNamedColor();
 ```
 
+### Usage Rust
+
+Rust support is provided by
+[philocalyst/color-names](https://github.com/philocalyst/color-names).
+You can add it to your rust project with `cargo add colorsnamed`. See the
+repository for more details. Basic usage is below.
+
+#### Choosing colors
+
+```rust
+use colorsnamed;
+
+let black = colorsnamed::Basic::Black;
+let teal = colorsnamed::Basic::Teal;
+let another = colorsnamed::Xkcd::Tea;
+```
+
+#### Getting colors
+
+```rust
+use colorsnamed;
+
+// Get the relevant hex code
+let red = colorsnamed::Basic::Red;
+let hex = red.hex();
+
+// Figure out if there is a matching color for a hex code!
+let ex: colorsnamed::Basic = hex.try_into().unwrap();
+```
+
+#### Converting colors
+
+```rust
+use colorsnamed;
+use colors;
+use rgb::Rgb;
+
+// Convert to the represention of your colorspace of choice.
+let correct_color = red.color::<colors::Srgb>();
+
+let red = colorsnamed::Basic::Red;
+
+// Get the RGB representation
+let rgb: Rgb = red.rgb();
+```
+
 ## Sources 🗒
 
 ### Sources: Names 📇
