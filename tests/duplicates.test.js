@@ -74,6 +74,13 @@ describe('Duplicate-like color names', () => {
       groups.get(key).push({ name: item.name, lineNumber: item.lineNumber, order });
     }
 
+    // Build allowlist set once
+    const allowSet = new Set(
+      (Array.isArray(allowlist) ? allowlist : [])
+        .filter((v) => typeof v === 'string' && v.trim().length)
+        .map((v) => normalize(v))
+    );
+
     const conflicts = [];
     for (const [key, entries] of groups.entries()) {
       // We have a potential conflict if we see both orders "a b" and "b a"
@@ -99,13 +106,9 @@ describe('Duplicate-like color names', () => {
           })
           .sort((a, b) => a.lineNumber - b.lineNumber);
 
-        // Respect allowlist: if either direction string is allowlisted, skip
-        const allowSet = new Set(
-          (Array.isArray(allowlist) ? allowlist : [])
-            .filter((v) => typeof v === 'string' && v.trim().length)
-            .map((v) => normalize(v))
-        );
-        if (allowSet.has(forward) || allowSet.has(backward)) continue;
+        // Respect allowlist: check if any of the actual names are allowlisted
+        const hasAllowlisted = unique.some((e) => allowSet.has(normalize(e.name)));
+        if (hasAllowlisted) continue;
 
         conflicts.push({ key, tokens: [t1, t2], entries: unique });
       }
@@ -250,7 +253,7 @@ describe('Duplicate-like color names', () => {
     expect(conflicts[0].entries.length).toBe(2);
   });
 
-  it.skip('should not contain two-word names that are exact reversals of each other', () => {
+  it('should not contain two-word names that are exact reversals of each other', () => {
     expect(csvTestData.lineCount).toBeGreaterThan(1);
 
     const conflicts = findTwoWordReversedPairs(csvTestData.items);
