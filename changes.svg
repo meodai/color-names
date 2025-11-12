@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 920">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 290">
   <defs>
     <style type="text/css">
       @import url('https://rsms.me/inter/inter.css');
@@ -9,6 +9,6 @@
       }
     </style>
   </defs>
-  <rect fill="#212121" x="0" y="0" width="600" height="920"/>
-  <text x="40" y="90" fill="#5260e1">Arcane Brew</text><text x="40" y="160" fill="#8fa0d5">Azureno</text><text x="40" y="230" fill="#303f4c">Deepsea Core</text><text x="40" y="300" fill="#f4e7a5">Dripping Cheese</text><text x="40" y="370" fill="#ceebb2">Imbued with Mint</text><text x="40" y="440" fill="#4b1e87">Occult</text><text x="40" y="510" fill="#8f3129">Potion № 9</text><text x="40" y="580" fill="#24a6c2">True Sky Blue</text><text x="40" y="650" fill="#daafd1">Violet Vamp</text><text x="40" y="720" fill="#37115c">Wicked Purple</text><text x="40" y="790" fill="#5d6098">Wizard’s Potion</text><text x="40" y="860" fill="#b9b58e">Young Willow</text>
+  <rect fill="#212121" x="0" y="0" width="600" height="290"/>
+  <text x="40" y="90" fill="#5539cc">Blurple</text><text x="40" y="160" fill="#873e1a">Dusky Orange</text><text x="40" y="230" fill="#f0ff57">Unripe Banana</text>
 </svg>
