@@ -130,7 +130,7 @@ your project.
 
 ### Usage JS 📦
 
-__Size Warning (1.16 MB)__: For browser usage,
+__Size Warning (1.14 MB)__: For browser usage,
 consider the [public rest API](#api-).
 
 Minimal example:
