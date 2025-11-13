@@ -288,8 +288,8 @@ fs.writeFileSync(
       `__${((colorsSrc.entries.length / (256 * 256 * 256)) * 100).toFixed(2)}%__`
     )
     .replace(
-      // update file size
-      /\d+(\.\d+)? MB\)__/, // no global to only hit first occurrence
+      // update file size (update all occurrences)
+      /\d+(\.\d+)? MB\)__+/g,
       `${(
         fs.statSync(path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.json`)).size /
         1024 /
