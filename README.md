@@ -62,7 +62,18 @@ Please review the [naming rules](CONTRIBUTING.md) before contributing!
 ### Contributing via Git 🫱🏽‍🫲🏻
 
 To contribute via Git, edit the `src/colornames.csv` file
-and ensure it builds correctly (`npm run ci && npm run build`).
+and ensure tests pass locally (`npm test`).
+
+See the full guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
+
+CI notes:
+
+- Pull Requests run `npm ci`, `npm run build`, and `npm test`.
+- CI auto-updates `README.md` and `changes.svg` if needed and pushes to your PR branch.
+- Do not commit generated files (`dist/`, `changes.svg`).
+- For color name changes, only submit updates to `src/colornames.csv`.
+- No need to run `npm run build` locally; CI generates outputs.
+- Optional locally: `npm run lint:markdown` to match CI markdown checks.
 
 ## Color Count: __29985__ 🎉
 
@@ -144,8 +155,14 @@ only on a few dependencies: [Color-Name-API](https://github.com/meodai/color-nam
 
 ### Usage JS ⌨
 
-__Size Warning (1.16 MB)__: For browser usage,
+__Size Warning (1.14 MB)__: For browser usage,
 consider the [public rest API](#api-)
+
+#### Data Shape
+
+```ts
+type ColorName = { name: string; hex: string };
+```
 
 #### Exact Color
 
@@ -157,6 +174,16 @@ console.log(someColor.name); // => white
 
 let someNamedColor = colornames.find((color) => color.name === 'Eigengrau');
 console.log(someColor.hex); // => #16161d
+```
+
+#### CommonJS
+
+```js
+// Returns the array directly when using CommonJS
+const colornames = require('color-name-list');
+
+const white = colornames.find((c) => c.hex === '#ffffff');
+console.log(white.name); // => white
 ```
 
 #### Closest Named Color

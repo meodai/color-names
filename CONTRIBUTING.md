@@ -7,16 +7,25 @@ interactions with the project.
 
 ## Adding colors
 
-1. Only update the `src/colornames.csv` file and run `npm run test`
+1. Only update the `src/colornames.csv` file and run `npm test`.
 2. Make sure the names you commit are not racist or offensive or a protected
    brand name (No Facebook Blue, Coca Cola Red etc.., no nationality or tan etc..).
 3. Read the "Rules for new color names" directly below
 4. Make sure that neither name nor hex value of your added colors are already
-   in use. `npm run test` will test that for you.
-5. Update the `README.md` with the source of your colors, unless you invented
-   that color, in this case add yourself to the contributors in the `README.md`
+  in use. `npm test` will test that for you.
+5. Do not edit generated files. Do not commit changes to `README.md`,
+  `changes.svg` or anything in `dist/`.
+6. Add the source of your colors in the Pull Request description.
+  Maintainers will update documentation if needed.
 
 **We use automated semantic versioning** make sure to use git cz (or npm run commit).
+
+## Generated files and CI
+
+- PRs run `npm ci`, `npm run build`, and `npm test` in CI.
+- CI may update `README.md` and `changes.svg` automatically and push
+  to your PR branch.
+- Do not include generated files (`dist/`, `README.md`, `changes.svg`) in commits.
 
 ## Rules for new color names
 
@@ -41,6 +50,7 @@ interactions with the project.
   **feat(colors): Add fantastic new colors names.** rather then
   feat(colors): Added new names.
 - Make sure to run `npm run test` before committing.
+  For color name changes this is the only command you need locally.
 
 ### Attribution
 
