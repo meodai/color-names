@@ -27,7 +27,6 @@ A meticulously curated collection of __29985__ unique color names, sourced from
   | <a href="#usage-">Usage</a>
   | <a href="#cdn-">CDN</a>
   | <a href="#api-">Public Rest API</a>
-  | <a href="#usage-js-">Usage JS/Java/Kotlin/C#</a>
   | <a href="#sources-">Name Sources</a>
   | <a href="#latest-color-names-">Latest Color Names</a>
   | <a href="#costs--sponsors">Sponsors</a>
@@ -91,22 +90,18 @@ color space: [Visualization](https://codepen.io/meodai/full/zdgXJj/)
 
 ## Usage 📖
 
+### Docs
+
+- JS/TS: [docs/usage-js.md](docs/usage-js.md)
+- Java/Kotlin: [docs/usage-java-kotlin.md](docs/usage-java-kotlin.md)
+- C#: [docs/usage-csharp.md](docs/usage-csharp.md)
+- Rust: [docs/usage-rust.md](docs/usage-rust.md)
+
 ### Consuming the list
 
 The list is available in [multiple formats](https://app.unpkg.com/color-name-list/files/dist),
 or you can use the [public REST API](#api-), making it easy to integrate into
 your project.
-
-### Node.js Installation 📦
-
-__Size Warning (1.14 MB)__: For browser usage,
-consider the [public rest API](#api-)
-
-```shell
-npm install color-name-list --save
-```
-
-or `yarn add color-name-list`
 
 ### CDN 🌍
 
@@ -133,6 +128,22 @@ or `yarn add color-name-list`
 / [SCSS](https://unpkg.com/color-name-list/dist/colornames.bestof.scss)
 / [CSS](https://unpkg.com/color-name-list/dist/colornames.bestof.css)
 
+### Usage JS 📦
+
+__Size Warning (1.16 MB)__: For browser usage,
+consider the [public rest API](#api-).
+
+Minimal example:
+
+```javascript
+import { colornames } from 'color-name-list';
+
+const white = colornames.find((c) => c.hex === '#ffffff');
+console.log(white?.name); // => white
+```
+
+More examples: see `docs/usage-js.md`.
+
 ### API 🃏
 
 To simplify access, we provide a free and public REST API for all color names
@@ -153,63 +164,6 @@ generates excessive traffic, you may be asked to become a sponsor.
 You are welcome to self-host the API—it's easy to deploy on Heroku and relies
 only on a few dependencies: [Color-Name-API](https://github.com/meodai/color-name-api)
 
-### Usage JS ⌨
-
-__Size Warning (1.14 MB)__: For browser usage,
-consider the [public rest API](#api-)
-
-#### Data Shape
-
-```ts
-type ColorName = { name: string; hex: string };
-```
-
-#### Exact Color
-
-```javascript
-import { colornames } from 'color-name-list';
-
-let someColor = colornames.find((color) => color.hex === '#ffffff');
-console.log(someColor.name); // => white
-
-let someNamedColor = colornames.find((color) => color.name === 'Eigengrau');
-console.log(someColor.hex); // => #16161d
-```
-
-#### CommonJS
-
-```js
-// Returns the array directly when using CommonJS
-const colornames = require('color-name-list');
-
-const white = colornames.find((c) => c.hex === '#ffffff');
-console.log(white.name); // => white
-```
-
-#### Closest Named Color
-
-With 16,777,216 possible RGB colors, you may want to use a library such as
-[nearest-color] or [ClosestVector] to find the closest named color.
-
-```js
-import nearestColor from 'nearest-color';
-import { colornames } from 'color-name-list';
-
-// nearestColor expects an object {name => hex}
-const colors = colornames.reduce((o, { name, hex }) => Object.assign(o, { [name]: hex }), {});
-
-const nearest = nearestColor.from(colors);
-
-// get closest named color
-nearest('#f1c1d1'); // => Fairy Tale
-```
-
-__Note__: For greater visual accuracy, consider using [DeltaE] or the above
-approach with [ciecam02] instead of RGB.
-
-[DeltaE]: https://github.com/zschuessler/DeltaE
-[ciecam02]: https://github.com/baskerville/ciecam02
-
 ### Building 🔨
 
 ```shell
@@ -218,145 +172,17 @@ npm install && npm run build
 
 See [package.json](package.json#L6) for details.
 
-### Usage Java/Kotlin ⌨
+### Java/Kotlin, C#, Rust
 
-Java/Kotlin support is provided by:
-[UwUAroze/Color-Names](https://github.com/UwUAroze/Color-Names).
-See the repository for more, or use the basics below:
+Moved to docs:
 
-#### Importing - Gradle.kts
-
-```kts
-repositories {
-      maven("https://jitpack.io")
-}
-
-dependencies {
-      implementation("me.aroze:color-names:1.0.4")
-}
-```
-
-#### Importing - Maven
-
-```xml
-<repository>
-  <id>jitpack.io</id>
-  <url>https://jitpack.io</url>
-</repository>
-
-<dependency>
-  <groupId>me.aroze</groupId>
-  <artifactId>color-names</artifactId>
-  <version>1.0.4</version>
-</dependency>
-```
-
-#### Closest named color - Java
-
-```java
-public ColorNames colorNames = new ColorNameBuilder()
-  .loadDefaults()
-  .build();
-
-String fromHex = colorNames.getName("#facfea"); // "Classic Rose"
-String fromRGB = colorNames.getName(224, 224, 255); // "Stoic White"
-String fromColor = colorNames.getName(new Color(255, 219, 240)); // "Silky Pink"
-```
-
-#### Closest named color - Kotlin
-
-```kt
-val colorNames = ColorNameBuilder()
-  .loadDefaults()
-  .build()
-
-val fromHex = colorNames.getName("#facfea") // "Classic Rose"
-val fromRGB = colorNames.getName(224, 224, 255) // "Stoic White"
-val fromColor = colorNames.getName(Color(255, 219, 240)) // "Silky Pink"
-```
-
-### Usage C# ⌨
-
-C# support is provided by:
-[vycdev/ColorNamesSharp](https://github.com/vycdev/ColorNamesSharp)
-See the repository for more details; basic usage is below:
-
-The library is available as a [nuget package](https://www.nuget.org/packages/ColorNamesSharp)
-
-#### Creating the instance
-
-```csharp
-ColorNames colorNames = new ColorNamesBuilder()
-  .Add("Best Blue", "#3299fe") // Add your own custom colors
-  .LoadDefault() // Load the default color list
-  .AddFromCsv("path/to/your/colorlist.csv") // Add a custom color list from a csv file
-  .Build(); // Get a new ColorNames instance that includes all the colors you've added
-```
-
-#### Getting a fitting color name
-
-```csharp
-NamedColor customNamedColor = new("Custom Named Color", 50, 153, 254);
-
-// You can directly get the name of the color as a string
-string colorNameFromHex = colorNames.FindClosestColorName("#facfea"); // Classic Rose
-string colorNameFromRgb = colorNames.FindClosestColorName(224, 224, 255); // Stoic White
-string colorNameFromNamedColor = colorNames.FindClosestColorName(customNamedColor); // Best Blue
-
-// Or similarly you can get the NamedColor object
-NamedColor namedColorFromHex = colorNames.FindClosestColorName("#facfea"); // Classic Rose
-NamedColor namedColorFromRgb = colorNames.FindClosestColorName(224, 224, 255); // Stoic White
-NamedColor namedColorFromNamedColor = colorNames.FindClosestColorName(customNamedColor); // Best Blue
-
-// Or a random color
-NamedColor randomColor = colorNames.GetRandomNamedColor();
-```
+- [docs/usage-java-kotlin.md](docs/usage-java-kotlin.md)
+- [docs/usage-csharp.md](docs/usage-csharp.md)
+- [docs/usage-rust.md](docs/usage-rust.md)
 
 ### Usage Rust
 
-Rust support is provided by
-[philocalyst/color-names](https://github.com/philocalyst/color-names).
-You can add it to your rust project with `cargo add colorsnamed`. See the
-repository for more details. Basic usage is below.
-
-#### Choosing colors
-
-```rust
-use colorsnamed;
-
-let black = colorsnamed::Basic::Black;
-let teal = colorsnamed::Basic::Teal;
-let another = colorsnamed::Xkcd::Tea;
-```
-
-#### Getting colors
-
-```rust
-use colorsnamed;
-
-// Get the relevant hex code
-let red = colorsnamed::Basic::Red;
-let hex = red.hex();
-
-// Figure out if there is a matching color for a hex code!
-let ex: colorsnamed::Basic = hex.try_into().unwrap();
-```
-
-#### Converting colors
-
-```rust
-use colorsnamed;
-use colors;
-use rgb::Rgb;
-
-// Convert to the represention of your colorspace of choice.
-let correct_color = red.color::<colors::Srgb>();
-
-let red = colorsnamed::Basic::Red;
-
-// Get the RGB representation
-let rgb: Rgb = red.rgb();
-```
+See [docs/usage-rust.md](docs/usage-rust.md).
 
 ## Sources 🗒
 
@@ -492,11 +318,6 @@ so we can address them promptly.
 [Name Search]: https://codepen.io/meodai/full/VMpNdQ/
 [Color Distribution]: https://codepen.io/meodai/full/zdgXJj/
 [Twitter Bot]: https://twitter.com/color_parrot
-
-<!-- 3r party libraries & tools -->
-
-[ClosestVector]: https://github.com/meodai/ClosestVector
-[nearest-color]: https://github.com/dtao/nearest-color
 
 <!-- people -->
 
