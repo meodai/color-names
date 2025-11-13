@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 220">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 570">
   <defs>
     <style type="text/css">
       @import url('https://rsms.me/inter/inter.css');
@@ -9,6 +9,6 @@
       }
     </style>
   </defs>
-  <rect fill="#212121" x="0" y="0" width="600" height="220"/>
-  <text x="40" y="90" fill="#555b59">Crucible</text><text x="40" y="160" fill="#ebeb57">Pineapple High</text>
+  <rect fill="#212121" x="0" y="0" width="600" height="570"/>
+  <text x="40" y="90" fill="#c8b960">Almond Puff</text><text x="40" y="160" fill="#5f1a10">Altar Wine</text><text x="40" y="230" fill="#83c0e5">Billow</text><text x="40" y="300" fill="#877732">Dragon Well</text><text x="40" y="370" fill="#363e7d">Evening Magic</text><text x="40" y="440" fill="#377b70">Pearl Green</text><text x="40" y="510" fill="#5e0e0b">Sacramental Red</text>
 </svg>
