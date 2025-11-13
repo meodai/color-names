@@ -174,15 +174,9 @@ See [package.json](package.json#L6) for details.
 
 ### Java/Kotlin, C#, Rust
 
-Moved to docs:
-
 - [docs/usage-java-kotlin.md](docs/usage-java-kotlin.md)
 - [docs/usage-csharp.md](docs/usage-csharp.md)
 - [docs/usage-rust.md](docs/usage-rust.md)
-
-### Usage Rust
-
-See [docs/usage-rust.md](docs/usage-rust.md).
 
 ## Sources 🗒
 
