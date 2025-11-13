@@ -92,6 +92,9 @@ color space: [Visualization](https://codepen.io/meodai/full/zdgXJj/)
 
 ### Docs
 
+While the tooling and list are primarily in JavaScript/TypeScript, there are several
+other implementations maintained by the community:
+
 - JS/TS: [docs/usage-js.md](docs/usage-js.md)
 - Java/Kotlin: [docs/usage-java-kotlin.md](docs/usage-java-kotlin.md)
 - C#: [docs/usage-csharp.md](docs/usage-csharp.md)
