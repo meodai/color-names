@@ -180,8 +180,8 @@ const outputFormats = {
     insertBefore: csvKeys.join(',') + '\n',
   },
   toon: {
-    // TOON tabular array header for flat objects: colors[N]{name,hex}:
-    insertBefore: `colors[${colorsSrc.entries.length}]{${csvKeys.join(',')}}:\n  `,
+    // TOON tabular array header for flat objects: [N]{name,hex}:
+    insertBefore: `[${colorsSrc.entries.length}]{${csvKeys.join(',')}}:\n  `,
     itemDelimitor: ',',
     rowDelimitor: '\n  ',
   },
