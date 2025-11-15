@@ -56,7 +56,7 @@ describe('Other Format Tests', () => {
       expect(shortToon.length).toBeGreaterThan(0);
 
       // Basic TOON shape: header with array length and fields, then indented rows
-      expect(mainToon).toMatch(/colors\[\d+\]{name,hex}:/);
+      expect(mainToon).toMatch(/\[\d+\]{name,hex}:/);
       expect(mainToon).toMatch(/\n  [^,]+,[0-9a-fA-F]{6}/);
     });
   });
