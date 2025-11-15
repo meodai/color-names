@@ -21,8 +21,14 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
           cache: 'npm'
-      - run: npm ci
-      - run: npm run build
+      - name: Install dependencies
+        run: npm ci
+      - name: Use npm 11.6.0
+        run: |
+          corepack enable
+          corepack prepare npm@11.6.0 --activate
+      - name: Build
+        run: npm run build
       - run: npm test
       - name: Check for changes
         id: git-check
