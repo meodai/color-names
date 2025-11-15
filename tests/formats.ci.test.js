@@ -44,4 +44,20 @@ describe('Other Format Tests', () => {
       expect(mainData.entries[0]).toHaveProperty('hex');
     });
   });
+
+  describe('TOON Output', () => {
+    it('should generate TOON files alongside other formats', () => {
+      const mainToon = fs.readFileSync(path.resolve('./dist/colornames.toon'), 'utf8');
+      const bestofToon = fs.readFileSync(path.resolve('./dist/colornames.bestof.toon'), 'utf8');
+      const shortToon = fs.readFileSync(path.resolve('./dist/colornames.short.toon'), 'utf8');
+
+      expect(mainToon.length).toBeGreaterThan(0);
+      expect(bestofToon.length).toBeGreaterThan(0);
+      expect(shortToon.length).toBeGreaterThan(0);
+
+      // Basic TOON shape: header with array length and fields, then indented rows
+      expect(mainToon).toMatch(/colors\[\d+\]{name,hex}:/);
+      expect(mainToon).toMatch(/\n  [^,]+,[0-9a-fA-F]{6}/);
+    });
+  });
 });

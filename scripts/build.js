@@ -179,6 +179,12 @@ const outputFormats = {
   csv: {
     insertBefore: csvKeys.join(',') + '\n',
   },
+  toon: {
+    // TOON tabular array header for flat objects: colors[N]{name,hex}:
+    insertBefore: `colors[${colorsSrc.entries.length}]{${csvKeys.join(',')}}:\n  `,
+    itemDelimitor: ',',
+    rowDelimitor: '\n  ',
+  },
   yaml: {
     insertBefore: '-\n  ',
     beforeValue: '"',
