@@ -30,9 +30,27 @@ describe('CSV Data Validations', () => {
     });
 
     if (invalidHexCodes.length) {
-      const details = invalidHexCodes.map(
-        ({ hex, name, lineNumber }) => `  * line ${lineNumber}: "${name}" -> ${hex}`
-      );
+      const details = invalidHexCodes.map(({ hex, name, lineNumber }) => {
+        let msg = `  * line ${lineNumber}: "${name}" -> "${hex}"`;
+        if (hex.trim() !== hex) {
+          msg += ' (contains surrounding whitespace)';
+        }
+        return msg;
+      });
+
+      const hasWhitespaceIssues = invalidHexCodes.some((i) => i.hex.trim() !== i.hex);
+      const tips = [
+        'Edit src/colornames.csv and fix the hex values',
+        'Use lowercase letters only: a-f',
+        'Always use 6 characters: #rrggbb format',
+      ];
+
+      if (hasWhitespaceIssues) {
+        tips.push('Remove any leading or trailing spaces around the hex code');
+      }
+
+      tips.push('After changes, run: npm run sort-colors');
+
       throw new Error(
         buildFailureMessage({
           title: 'Found {n} invalid hex color {items}:',
@@ -45,12 +63,7 @@ describe('CSV Data Validations', () => {
             'Examples of valid hex codes: #ff0000, #a1b2c3, #000000',
             'Examples of invalid hex codes: #f00 (too short), #FF0000 (uppercase), #gghhii (invalid characters)',
           ],
-          tips: [
-            'Edit src/colornames.csv and fix the hex values',
-            'Use lowercase letters only: a-f',
-            'Always use 6 characters: #rrggbb format',
-            'After changes, run: npm run sort-colors',
-          ],
+          tips,
         })
       );
     }
