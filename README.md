@@ -39,6 +39,27 @@ while maintaining high standards for name quality. We have merged numerous
 [lists](#sources-), resolved duplicate names with different hex values,
 and adjusted colors where identical values had different names.
 
+## What Sets This List Apart 🌟
+
+Unlike many other color lists, this collection has a __permissive license__, is
+__strictly__ curated, and __automations__ ensure the highest quality:
+
+- __No clutter__, no clones: Smart checks catch duplicates and
+  “almost-duplicates” so the list stays clean.
+- __Names that look good__: Everything follows tight formatting rules — proper
+  [APA Title Case](CONTRIBUTING.md#capitalization-rules), correct French
+  articles, consistent “and” forms, real apostrophes.
+- __Guaranteed valid data__: Each name is tested, linted, and verified. No
+  broken hex codes, no weird whitespace surprises.
+- __Every name is truly unique__: Great for databases, lookups, ML work, and
+  anything that hates collisions.
+- __Grown by a global community__: Thousands of contributors help keep the list
+  fresh, weird, poetic, and alive.
+- __Open and permissive__: Free to use, remix, fork, and build on — no
+  licensing headaches.
+- __Welcoming to everyone__: No slurs, no discrimination — the list stays clean
+  and inclusive.
+
 ## Explore 🌍
 
 - [Color Picker & Name Search]: Click the wheel to discover a color name,
