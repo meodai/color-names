@@ -43,6 +43,7 @@ interactions with the project.
 - Prefer common names, especially when adding colors of flora and fauna
   (plants and animals ;) ) ex. `Venus Slipper Orchid` instead of `Paphiopedilum`.
 - Avoid ethnic & racial assumptions
+- Do not use LLM / AI to generate color names.
 
 ## Git
 
