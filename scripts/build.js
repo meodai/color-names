@@ -295,8 +295,8 @@ fs.writeFileSync(
     )
     .replace(
       // update file size (update all occurrences)
-      /\d+(\.\d+)? MB\)__+/g,
-      `${(
+      /Bundle size note \(≈?\d+(\.\d+)? MB\)__/g,
+      `Bundle size note (${(
         fs.statSync(path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.json`)).size /
         1024 /
         1024
