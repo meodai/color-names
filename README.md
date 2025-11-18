@@ -163,7 +163,7 @@ your project.
 
 ### Usage JS 📦
 
-__Bundle size note (≈1.14 MB)__: For browser usage,
+__Bundle size note (1.14 MB)__: For browser usage,
 consider the [public REST API](#api-).
 
 More examples: see `docs/usage-js.md`.
