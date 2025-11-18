@@ -1,5 +1,6 @@
 import { describe, it, expect, beforeAll } from 'vitest';
 import { csvTestData } from './csv-test-data.js';
+import titleCaseAllowlist from './title-case-allowlist.json';
 import { buildFailureMessage } from './_utils/report.js';
 
 describe('APA Title Case Validation', () => {
@@ -328,11 +329,11 @@ describe('APA Title Case Validation', () => {
     return name === expectedTitleCase;
   }
 
-  it.skip('should follow APA title case capitalization rules', () => {
+  it('should follow APA title case capitalization rules', () => {
     const invalidNames = [];
 
     csvTestData.data.values['name'].forEach((name, index) => {
-      if (!isValidTitleCase(name)) {
+      if (!isValidTitleCase(name) && !((Array.isArray(titleCaseAllowlist) ? titleCaseAllowlist : []).includes(name))) {
         const entry = csvTestData.data.entries[index];
         const expectedTitleCase = toTitleCase(name);
         invalidNames.push({
@@ -373,6 +374,7 @@ describe('APA Title Case Validation', () => {
             'Examples: "Red and Blue" → "Red and Blue" (correct)',
             'Examples: "A Shade Of Green" → "A Shade of Green" (of should be lowercase)',
             'Examples: "Self-Report Blue" → "Self-Report Blue" (both parts capitalized)',
+            'If a capitalization is intentional, add the exact name to tests/title-case-allowlist.json',
             'After changes, run: npm run sort-colors',
           ],
         })

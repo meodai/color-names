@@ -153,15 +153,40 @@ export const findNearDuplicateNameConflicts = (items, options = {}) => {
       )
     : null;
 
+  // Note: We intentionally do NOT fold business/legal suffixes globally here,
+  // as the dataset contains legitimate color names like "Limited Lime".
+
   // Helper: normalize name using current options (stopword folding if enabled)
   const normalizeForOptions = (name) => {
-    const base = String(name)
+    // Pre-pass: normalize symbols/abbreviations before tokenization
+    let base = String(name)
       .toLowerCase()
       .normalize('NFD')
       .replace(/[\u0300-\u036f]/g, '');
+    // Symbolic swaps
+    base = base
+      .replace(/@/g, ' at ')
+      .replace(/[&+]/g, ' and ')
+      .replace(/\bw\/o\b/g, ' without ')
+      .replace(/\bw\//g, ' with ');
+    // Keep marketing spellings (lite/thru/nite) as-is globally to avoid over-merging
     const tokens = base.match(/[a-z0-9]+/g) || [];
+
+    // Conjunction normalization: treat variants of "and" as the same token.
+    // This includes: "and", "n", "n'", "n`", "&", "+" (after stripping punctuation).
+    const normalizedTokens = tokens.map((t) => {
+      const raw = t.replace(/[`']/g, '');
+      if (raw === 'and' || raw === 'n') return 'and';
+      if (raw === '2') return 'to';
+      if (raw === '4') return 'for';
+      if (raw === 'u') return 'you';
+      if (raw === 'r') return 'are';
+      return raw;
+    });
     const filtered =
-      foldStopwords && stopSet && stopSet.size ? tokens.filter((t) => !stopSet.has(t)) : tokens;
+      foldStopwords && stopSet && stopSet.size
+        ? normalizedTokens.filter((t) => !stopSet.has(t))
+        : normalizedTokens;
     return filtered.length ? filtered.join('') : normalizeNameForDuplicates(name);
   };
 

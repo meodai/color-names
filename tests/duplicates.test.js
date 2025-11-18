@@ -253,6 +253,71 @@ describe('Duplicate-like color names', () => {
     expect(conflicts[0].entries.length).toBe(2);
   });
 
+  it('should treat different forms of "and" as near-duplicates when stopword folding is enabled', () => {
+    const items = [
+      { name: 'Berries and Cream' },
+      { name: 'Berries n Cream' },
+      { name: 'Berries & Cream' },
+      { name: 'Berries + Cream' },
+    ];
+
+    const conflicts = findNearDuplicateNameConflicts(items, {
+      foldStopwords: true,
+      stopwords: STOPWORDS,
+    });
+
+    // All variants should collapse into a single conflict group
+    expect(conflicts.length).toBe(1);
+    expect(conflicts[0].entries.length).toBe(4);
+  });
+
+  it('should treat numeral/phonetic swaps (2/to, 4/for, u/you, r/are) as near-duplicates', () => {
+    const items1 = [
+      { name: 'Back to the Future' },
+      { name: 'Back 2 the Future' },
+    ];
+    const items2 = [
+      { name: 'Music for the People' },
+      { name: 'Music 4 the People' },
+    ];
+    const items3 = [
+      { name: 'Songs for You' },
+      { name: 'Songs 4 U' },
+    ];
+    const items4 = [
+      { name: 'We Are the Champions' },
+      { name: 'We R the Champions' },
+    ];
+
+    const opts = { foldStopwords: true, stopwords: STOPWORDS };
+    expect(findNearDuplicateNameConflicts(items1, opts).length).toBe(1);
+    expect(findNearDuplicateNameConflicts(items2, opts).length).toBe(1);
+    expect(findNearDuplicateNameConflicts(items3, opts).length).toBe(1);
+    expect(findNearDuplicateNameConflicts(items4, opts).length).toBe(1);
+  });
+
+  it('should treat symbol/slashed forms (@/at, w//with, w/o/without) as near-duplicates', () => {
+    const items1 = [
+      { name: 'Meet at the Park' },
+      { name: 'Meet @ the Park' },
+    ];
+    const items2 = [
+      { name: 'Coffee with Cream' },
+      { name: 'Coffee w/ Cream' },
+    ];
+    const items3 = [
+      { name: 'Coffee without Sugar' },
+      { name: 'Coffee w/o Sugar' },
+    ];
+
+    const opts = { foldStopwords: true, stopwords: STOPWORDS };
+    expect(findNearDuplicateNameConflicts(items1, opts).length).toBe(1);
+    expect(findNearDuplicateNameConflicts(items2, opts).length).toBe(1);
+    expect(findNearDuplicateNameConflicts(items3, opts).length).toBe(1);
+  });
+
+  // Intentionally not normalizing marketing spellings (lite/thru/nite) or business suffixes globally
+
   it('should not contain two-word names that are exact reversals of each other', () => {
     expect(csvTestData.lineCount).toBeGreaterThan(1);
 
