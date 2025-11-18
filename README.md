@@ -13,8 +13,8 @@
 [![npm](https://img.shields.io/npm/dt/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
 [![github sponsor count](https://img.shields.io/github/sponsors/meodai)](https://github.com/sponsors/meodai)
 
-A meticulously curated collection of __29991__ unique color names, sourced from
-[various references](#sources-) and thousands of thoughtful user contributions.
+A meticulously curated collection of __29991__ unique color names, built from
+[many sources](#sources-) and thousands of community contributions.
 
 > The names of color function like a thread attached to a frightfully slender
 > needle, capable of stitching together our most delicate emotions and memories.
@@ -22,14 +22,14 @@ A meticulously curated collection of __29991__ unique color names, sourced from
 > __Kenya Hara – White__
 
 <p>
-  <a href="#explore-">Explore / Find Names</a>
-  | <a href="#color-distribution-">Name distribution in different models</a>
-  | <a href="#usage-">Usage</a>
+  <a href="#explore-">Explore & search names</a>
+  | <a href="#usage-">Use via JS / API</a>
   | <a href="#cdn-">CDN</a>
-  | <a href="#api-">Public Rest API</a>
-  | <a href="#sources-">Name Sources</a>
-  | <a href="#latest-color-names-">Latest Color Names</a>
+  | <a href="#color-distribution-">Color distribution</a>
+  | <a href="#color-name-submission-">Submit a new name</a>
+  | <a href="#sources-">Sources</a>
   | <a href="#costs--sponsors">Sponsors</a>
+  | <a href="#latest-color-names-">Latest color names</a>
 </p>
 
 ## About 📋
@@ -45,37 +45,61 @@ Unlike many other color lists, this collection has a
 [__permissive license__](LICENSE), is __strictly__ curated, and
 [__automations__](tests/) ensure the highest quality:
 
-- __One archive, many uses__ 📚: The most comprehensive, in-one-place archive
-  of digital-friendly color names for design, art, and code.
-- __No clutter__, no clones 🧹: Smart checks catch duplicates and
-  “almost-duplicates” so the list stays clean.
-- __Names that look good__ ✍️: Everything follows tight formatting rules —
-  proper [APA Title Case](CONTRIBUTING.md#capitalization-rules), correct
-  French articles, consistent “and” forms, real apostrophes.
-- __Guaranteed valid data__ ✅: Each name is tested, linted, and verified. No
-  broken hex codes, no weird whitespace surprises.
-- __Every name is truly unique__ 🧬: Great for databases, lookups, ML work,
-  and anything that hates collisions.
-- __Grown by a global community__ 🌍: Thousands of contributors help keep the
+- __Single, comprehensive archive__ 📚: Digital-friendly color names in one
+  place for design systems, creative tools, data viz, and code.
+- __No clutter, no clones__ 🧹: Smart checks catch duplicates and
+  "almost-duplicates" so names and hex values stay unique.
+- __Consistent naming rules__ ✍️: Strict formatting for
+  [APA Title Case](CONTRIBUTING.md#capitalization-rules), language-specific
+  articles, normalized "and" forms, and proper apostrophes.
+- __Valid, unique data__ ✅: Every entry has a valid hex code, no stray
+  whitespace, and no duplicate names or values.
+- __Grown by a global community__ 🌍: Thousands of contributors keep the
   list fresh, weird, poetic, and alive.
-- __Humanly curated__ 🧠: Despite automation, humans still guard, review, and
-  shape the list so it stays consistent, intentional, and fun.
+- __Humanly curated__ 🧠: Automation helps, but humans still guard, review,
+  and shape the list so it stays intentional and fun.
 - __Open and permissive__ 🪪: Free to use, remix, fork, and build on — no
   licensing headaches.
-- __Welcoming to everyone__ 🤝: No slurs, no discrimination — the list stays
-  clean and inclusive.
+- __Inclusive naming__ 🤝: Slurs, hate speech, and protected brand names are
+  not accepted.
+
+## Usage 📖
+
+Install via npm:
+
+```bash
+npm install color-name-list
+```
+
+Minimal JS example:
+
+```javascript
+import { colornames } from 'color-name-list';
+
+const white = colornames.find((c) => c.hex === '#ffffff');
+console.log(white?.name); // => White
+```
+
+See [docs/usage-js.md](docs/usage-js.md) for more
+examples and utilities.
+
+Other language implementations maintained by the community:
+
+- JS/TS: [docs/usage-js.md](docs/usage-js.md)
+- Java/Kotlin: [docs/usage-java-kotlin.md](docs/usage-java-kotlin.md)
+- C#: [docs/usage-csharp.md](docs/usage-csharp.md)
+- Rust: [docs/usage-rust.md](docs/usage-rust.md)
 
 ## Explore 🌍
 
-- [Color Picker & Name Search]: Click the wheel to discover a color name,
-  or use the full text search.
-- [Color Picker]: Click the colored area to change the color or enter a hex
-  value below the name.
+- [Color Picker & Name Search]: Click the wheel to discover a color name
+  or search by text.
+- [Color Picker]: Click the colored area or enter a hex value below the name.
 - [Color Picker II]: Move your mouse and scroll to select a color.
-- [Name Search]: Perform a full text search on the color list.
-- [Color Distribution]: Explore a 3D visualization of all color names in various
+- [Name Search]: Full-text search on the color list.
+- [Color Distribution]: 3D visualization of all color names in various
   color models.
-- [Twitter Bot]: Posts random colors and allows you to submit new ones.
+- [Twitter Bot]: Posts random colors and lets you submit new ones.
 
 ## Color Name Submission 💌
 
@@ -89,16 +113,8 @@ Please review the [naming rules](CONTRIBUTING.md) before contributing!
 To contribute via Git, edit the `src/colornames.csv` file
 and ensure tests pass locally (`npm test`).
 
-See the full guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
-
-CI notes:
-
-- Pull Requests run `npm ci`, `npm run build`, and `npm test`.
-- CI auto-updates `README.md` and `changes.svg` if needed and pushes to your PR branch.
-- Do not commit generated files (`dist/`, `changes.svg`).
-- For color name changes, only submit updates to `src/colornames.csv`.
-- No need to run `npm run build` locally; CI generates outputs.
-- Optional locally: `npm run lint:markdown` to match CI markdown checks.
+See the full guidelines in [CONTRIBUTING.md](CONTRIBUTING.md) for naming
+rules, capitalization, CI behavior, and more.
 
 ## Color Count: __29991__ 🎉
 
@@ -113,18 +129,6 @@ color space are crowded and where new names can be added. For example, our API
 returns the closest `RGB` color to a given `HEX` value. To prevent too many
 colors from mapping to the same name, we strive for an even distribution in
 color space: [Visualization](https://codepen.io/meodai/full/zdgXJj/)
-
-## Usage 📖
-
-### Docs
-
-While the tooling and list are primarily in JavaScript/TypeScript, there are several
-other implementations maintained by the community:
-
-- JS/TS: [docs/usage-js.md](docs/usage-js.md)
-- Java/Kotlin: [docs/usage-java-kotlin.md](docs/usage-java-kotlin.md)
-- C#: [docs/usage-csharp.md](docs/usage-csharp.md)
-- Rust: [docs/usage-rust.md](docs/usage-rust.md)
 
 ### Consuming the list
 
@@ -159,17 +163,8 @@ your project.
 
 ### Usage JS 📦
 
-__Size Warning (1.14 MB)__: For browser usage,
-consider the [public rest API](#api-).
-
-Minimal example:
-
-```javascript
-import { colornames } from 'color-name-list';
-
-const white = colornames.find((c) => c.hex === '#ffffff');
-console.log(white?.name); // => white
-```
+__Bundle size note (≈1.14 MB)__: For browser usage,
+consider the [public REST API](#api-).
 
 More examples: see `docs/usage-js.md`.
 
@@ -179,7 +174,7 @@ To simplify access, we provide a free and public REST API for all color names
 and other public name lists. Full API code and documentation are available
 [in this repository](https://github.com/meodai/color-name-api).
 
-#### API Example Call Usage
+#### API example
 
 ```url
 https://api.color.pizza/v1/?values=00f,f00,f00&list=bestOf

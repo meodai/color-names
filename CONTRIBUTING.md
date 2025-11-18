@@ -26,6 +26,9 @@ interactions with the project.
 - CI may update `README.md` and `changes.svg` automatically and push
   to your PR branch.
 - Do not include generated files (`dist/`, `README.md`, `changes.svg`) in commits.
+- For color name changes, only submit updates to `src/colornames.csv`.
+- No need to run `npm run build` locally; CI generates outputs.
+- Optional locally: `npm run lint:markdown` to match CI markdown checks.
 
 ## Rules for new color names
 
