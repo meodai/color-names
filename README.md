@@ -41,8 +41,9 @@ and adjusted colors where identical values had different names.
 
 ## What Sets This List Apart 🌟
 
-Unlike many other color lists, this collection has a __permissive license__, is
-__strictly__ curated, and __automations__ ensure the highest quality:
+Unlike many other color lists, this collection has a
+[__permissive license__](LICENSE), is __strictly__ curated, and
+[__automations__](tests/) ensure the highest quality:
 
 - __No clutter__, no clones: Smart checks catch duplicates and
   “almost-duplicates” so the list stays clean.
