@@ -41,11 +41,11 @@ const readAndSortCSV = () => {
       // Extract the name from each line (first column before the comma)
       const nameA = a.split(',')[0].toLowerCase();
       const nameB = b.split(',')[0].toLowerCase();
-      return nameA.localeCompare(nameB);
+      return nameA.localeCompare(nameB, 'en');
     });
 
     // Combine header & sorted lines (no blank line). Ensure exactly one final newline.
-    const sortedData = [header, ...sortedColorLines].join('\n');
+    const sortedData = [header, ...sortedColorLines].join('\n') + '\n';
 
     // Write back
     fs.writeFileSync(csvPath, sortedData, 'utf8');

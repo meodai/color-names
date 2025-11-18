@@ -178,12 +178,15 @@ fs.writeFileSync(
 const outputFormats = {
   csv: {
     insertBefore: csvKeys.join(',') + '\n',
+    rowDelimitor: '\n',
+    insertAfter: '\n',
   },
   toon: {
     // TOON tabular array header for flat objects: [N]{name,hex}:
     insertBefore: `[${colorsSrc.entries.length}]{${csvKeys.join(',')}}:\n  `,
     itemDelimitor: ',',
     rowDelimitor: '\n  ',
+    insertAfter: '\n',
   },
   yaml: {
     insertBefore: '-\n  ',
@@ -192,12 +195,13 @@ const outputFormats = {
     includeKeyPerItem: true,
     rowDelimitor: '\n-\n  ',
     itemDelimitor: '\n  ',
+    insertAfter: '\n',
   },
   scss: {
     insertBefore: '$color-name-list: (',
     beforeValue: '"',
     afterValue: '"',
-    insertAfter: ');',
+    insertAfter: ');\n',
     itemDelimitor: ':',
     rowDelimitor: ',',
   },
@@ -205,13 +209,13 @@ const outputFormats = {
     insertBefore: `<table><thead><tr><th>${csvKeys.join('</th><th>')}</th></tr><thead><tbody><tr><td>`,
     itemDelimitor: '</td><td>',
     rowDelimitor: '</td></tr><tr><td>',
-    insertAfter: `</td></tr></tbody></table>`,
+    insertAfter: `</td></tr></tbody></table>\n`,
   },
   xml: {
     insertBefore: `<?xml version='1.0'?>\n<colors>\n<color>\n<${csvKeys[0]}>`,
     itemDelimitor: `</${csvKeys[0]}>\n<${csvKeys[1]}>`,
     rowDelimitor: `</${csvKeys[1]}>\n</color>\n<color>\n<${csvKeys[0]}>`,
-    insertAfter: `</${csvKeys[1]}>\n</color>\n</colors>`,
+    insertAfter: `</${csvKeys[1]}>\n</color>\n</colors>\n`,
   },
 };
 
