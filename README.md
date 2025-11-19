@@ -114,7 +114,7 @@ Other language implementations maintained by the community:
 - [Name Search]: Full-text search on the color list.
 - [Color Distribution]: 3D visualization of all color names in various
   color models.
-- [Twitter Bot]: Posts random colors and lets you submit new ones.
+- [X Account]: Posts random colors and lets you submit new ones.
 
 ## Color Name Submission 💌
 
@@ -279,13 +279,6 @@ See [package.json](package.json#L6) for details.
   and [Nathan Kjer](https://nathankjer.com/text-generation/)
 - [Team Fortress 2 paint colors](https://wiki.teamfortress.com/wiki/Paint_Can#Colors)
 
-## Contributors 🦑
-
-- [meodai] Initiator, maintainer, name creator &, tooling
-- [Nirazul] Name creator & tooling
-- [Bathos] Tooling
-- [Metafizzy] Logo 💖
-
 ## Costs & Sponsors
 
 ### Sponsors
@@ -320,6 +313,14 @@ See [package.json](package.json#L6) for details.
 | Color Name API Server   | 264.60/year |
 | color.pizza domain name | 36.16/year  |
 | Cloudflare PRO Plan     | 240/year    |
+
+## Contributors 🦑
+
+- [meodai] Initiator, maintainer, name creator &, tooling
+- [Nirazul] Name creator & tooling
+- [Bathos] Tooling
+- [Metafizzy] Logo 💖
+- [Alex Cristache] [X Account] host and communications
 
 ### Color Namers
 
@@ -377,7 +378,7 @@ so we can address them promptly.
 [Color Picker II]: https://codepen.io/meodai/full/xWNNwN
 [Name Search]: https://codepen.io/meodai/full/VMpNdQ/
 [Color Distribution]: https://codepen.io/meodai/full/zdgXJj/
-[Twitter Bot]: https://twitter.com/color_parrot
+[X Account]: https://twitter.com/color_parrot
 
 <!-- people -->
 
