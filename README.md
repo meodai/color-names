@@ -58,8 +58,8 @@ Unlike many other color lists, this collection has a
   list fresh, weird, poetic, and alive.
 - __Humanly curated__ 🧠: Automation helps, but humans still guard, review,
   and shape the list so it stays intentional and fun.
-- __Open and permissive__ 🪪: Free to use, remix, fork, and build on — no
-  licensing headaches.
+- __Open and permissive__ 🪪: Free to use, remix, fork, and build upon.
+  Released under the MIT License, requiring only simple attribution.
 - __Inclusive naming__ 🤝: Slurs, hate speech, and protected brand names are
   not accepted.
 
