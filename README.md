@@ -39,7 +39,7 @@ while maintaining high standards for name quality. We have merged numerous
 [lists](#sources-), resolved duplicate names with different hex values,
 and adjusted colors where identical values had different names.
 
-## A List Apart 🌟
+### A List Apart 🌟
 
 Unlike many other color lists, this collection has a
 [__permissive license__](LICENSE), is __strictly__ curated, and
