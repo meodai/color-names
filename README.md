@@ -56,12 +56,14 @@ Unlike many other color lists, this collection has a
   whitespace, and no duplicate names or values.
 - __Grown by a global community__ 🌍: Hundredths of contributors keep the
   list fresh, weird, poetic, and alive.
-- __Humanly curated__ 🧠: Automation helps, but humans still guard, review,
-  and shape the list so it stays intentional and fun.
+- __Humanly curated__ 🧠: Human curators review and shape every entry, and we
+  discourage AI‑generated names so the list stays intentional and playful.
 - __Open and permissive__ 🪪: Free to use, remix, fork, and build upon.
   Released under the MIT License, requiring only simple attribution.
 - __Inclusive naming__ 🤝: Slurs, hate speech, and protected brand names are
   not accepted.
+- __AI‑ready__ 🤖: High‑quality, human‑made names and rich [file formats](#cdn-)
+  make the list well‑suited for training AI models.
 
 ## Usage 📖
 
@@ -144,6 +146,7 @@ your project.
 / [JSON.min](https://unpkg.com/color-name-list/dist/colornames.min.json)
 / [CSV](https://unpkg.com/color-name-list/dist/colornames.csv)
 / [YML](https://unpkg.com/color-name-list/dist/colornames.yaml)
+/ [TOON](https://unpkg.com/color-name-list/dist/colornames.toon)
 / [JS](https://unpkg.com/color-name-list/dist/colornames.umd.js)
 / [XML](https://unpkg.com/color-name-list/dist/colornames.xml)
 / [HTML](https://unpkg.com/color-name-list/dist/colornames.html)
@@ -155,6 +158,7 @@ your project.
 / [JSON.min](https://unpkg.com/color-name-list/dist/colornames.bestof.min.json)
 / [CSV](https://unpkg.com/color-name-list/dist/colornames.bestof.csv)
 / [YML](https://unpkg.com/color-name-list/dist/colornames.bestof.yaml)
+/ [TOON](https://unpkg.com/color-name-list/dist/colornames.bestof.toon)
 / [JS](https://unpkg.com/color-name-list/dist/colornames.bestof.umd.js)
 / [XML](https://unpkg.com/color-name-list/dist/colornames.bestof.xml)
 / [HTML](https://unpkg.com/color-name-list/dist/colornames.bestof.html)
