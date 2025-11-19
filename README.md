@@ -163,7 +163,6 @@ your project.
 / [XML](https://unpkg.com/color-name-list/dist/colornames.bestof.xml)
 / [HTML](https://unpkg.com/color-name-list/dist/colornames.bestof.html)
 / [SCSS](https://unpkg.com/color-name-list/dist/colornames.bestof.scss)
-/ [CSS](https://unpkg.com/color-name-list/dist/colornames.bestof.css)
 
 ### Usage JS 📦
 
