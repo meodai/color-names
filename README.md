@@ -65,6 +65,19 @@ Unlike many other color lists, this collection has a
 - __AI‑ready__ 🤖: High‑quality, human‑made names and rich [file formats](#cdn-)
   make the list well‑suited for training AI models.
 
+### Name Lists 🧺
+
+This repository ships multiple curated lists:
+
+- __Full list__: The full collection, including many names merged from
+  historical and external sources. It’s exhaustive and great for exploration,
+  data viz, and long‑tail use cases.
+- __Best of__: A hand‑picked subset of especially playful, evocative, or
+  well‑crafted names, chosen by human curators. Ideal when you want fewer,
+  higher‑signal options.
+- __Short names__: A smaller set of concise names (typically one word or very
+  short phrases), useful where space is limited or brevity matters.
+
 ## Usage 📖
 
 Install via npm:
@@ -140,7 +153,9 @@ your project.
 
 ### CDN 🌍
 
-#### All Names 📚
+#### All Names (Full list) 📚
+
+The complete list of color names is available in various formats.
 
 [JSON](https://unpkg.com/color-name-list/dist/colornames.json)
 / [JSON.min](https://unpkg.com/color-name-list/dist/colornames.min.json)
@@ -154,6 +169,9 @@ your project.
 
 #### Best of Names subset 🏆
 
+The curated "Best of" subset features a hand-picked selection of especially
+playful, evocative, or well-crafted color names, chosen by human curators.
+
 [JSON](https://unpkg.com/color-name-list/dist/colornames.bestof.json)
 / [JSON.min](https://unpkg.com/color-name-list/dist/colornames.bestof.min.json)
 / [CSV](https://unpkg.com/color-name-list/dist/colornames.bestof.csv)
@@ -164,12 +182,33 @@ your project.
 / [HTML](https://unpkg.com/color-name-list/dist/colornames.bestof.html)
 / [SCSS](https://unpkg.com/color-name-list/dist/colornames.bestof.scss)
 
+#### Short Names subset ✂️
+
+The Short Names subset offers a smaller collection of concise color names,
+typically one word or very short phrases, ideal for scenarios where space is
+limited or brevity is essential.
+
+[JSON](https://unpkg.com/color-name-list/dist/colornames.short.json)
+/ [JSON.min](https://unpkg.com/color-name-list/dist/colornames.short.min.json)
+/ [CSV](https://unpkg.com/color-name-list/dist/colornames.short.csv)
+/ [YML](https://unpkg.com/color-name-list/dist/colornames.short.yaml)
+/ [TOON](https://unpkg.com/color-name-list/dist/colornames.short.toon)
+/ [JS](https://unpkg.com/color-name-list/dist/colornames.short.umd.js)
+/ [XML](https://unpkg.com/color-name-list/dist/colornames.short.xml)
+/ [HTML](https://unpkg.com/color-name-list/dist/colornames.short.html)
+/ [SCSS](https://unpkg.com/color-name-list/dist/colornames.short.scss)
+
 ### Usage JS 📦
 
 __Bundle size note (1.14 MB)__: For browser usage,
 consider the [public REST API](#api-).
 
-More examples: see `docs/usage-js.md`.
+By default you get the full list. For leaner subsets,
+you can import `color-name-list/bestof` or
+`color-name-list/short`, or use the `bestOf` and
+`short` lists via the [public REST API](#api-).
+
+More examples: see [`docs/usage-js.md`](docs/usage-js.md).
 
 ### API 🃏
 
