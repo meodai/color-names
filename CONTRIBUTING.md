@@ -18,18 +18,6 @@ interactions with the project.
 6. Add the source of your colors in the Pull Request description.
   Maintainers will update documentation if needed.
 
-**We use automated semantic versioning** make sure to use git cz (or npm run commit).
-
-## Generated files and CI
-
-- PRs run `npm ci`, `npm run build`, and `npm test` in CI.
-- CI may update `README.md` and `changes.svg` automatically and push
-  to your PR branch.
-- Do not include generated files (`dist/`, `README.md`, `changes.svg`) in commits.
-- For color name changes, only submit updates to `src/colornames.csv`.
-- No need to run `npm run build` locally; CI generates outputs.
-- Optional locally: `npm run lint:markdown` to match CI markdown checks.
-
 ## Rules for new color names
 
 - No duplicate names or hex values.
@@ -45,16 +33,60 @@ interactions with the project.
 - Avoid ethnic & racial assumptions
 - Do not use LLM / AI to generate color names.
 
-## Git
+## Generated files and CI
+
+- PRs run `npm ci`, `npm run build`, and `npm test` in CI.
+- CI may update `README.md` and `changes.svg` automatically and push
+  to your PR branch.
+- Do not include generated files (`dist/`, `README.md`, `changes.svg`) in commits.
+- For color name changes, only submit updates to `src/colornames.csv`.
+- No need to run `npm run build` locally; CI generates outputs.
+- Optional locally: `npm run lint:markdown` to match CI markdown checks.
+
+## Committing changes
 
 - We use automated semantic versioning using conventional changelog rules. You
   can run `npx cz` or `npm run commit` instead of `git commit -m`, or make sure
-  to follow [conventional changelog naming rules].
+  to follow [conventional changelog naming rules]. Our conventional commits
+  look like:
+
+  ```text
+  feat(colors): Add fantastic new colors names.
+  fix(colors): Correct the hex value for Awesome Pink.
+  docs(readme): Update the readme to include new colors.
+  ```
+
 - Write your commit messages in imperative form:
   **feat(colors): Add fantastic new colors names.** rather then
   feat(colors): Added new names.
-- Make sure to run `npm run test` before committing.
+  Make sure to run `npm run test` before committing.
   For color name changes this is the only command you need locally.
+
+## No Command Line? No Problem! 🐣
+
+If you are not familiar with Git or the command line, you can contribute directly
+through GitHub:
+
+1. **Fork the repository**: Click the "Fork" icon in the top right corner of
+   this page. This creates a copy of the project under your own account.
+2. **Edit the list**: Navigate to `src/colornames.csv` in your forked
+   repository.
+3. **Add your colors**: Scroll to the bottom and add your new colors. Don't
+   worry about sorting; it will be done automatically for you.
+4. **Create a Pull Request**:
+   - Commit your changes in the GitHub interface.
+   - Go back to the [original repository](https://github.com/meodai/color-names).
+   - GitHub will often show a banner asking if you want to create a Pull Request
+     from your recent changes. If not, go to the "Pull requests" tab and click
+     "New pull request", then "compare across forks" to select your version.
+   - Fill in the details and submit your Pull Request. The title should look
+      something like "feat(colors): Add new color names".
+
+If this feels too complicated, feel free to just
+[open an issue](https://github.com/meodai/color-names/issues/new) with your
+list or share a Google Spreadsheet with us. Note that doing it this way skips
+our automated checks (which tell you if a color is already taken), so it might
+take a bit longer to review.
 
 ### Attribution
 
