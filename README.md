@@ -354,6 +354,12 @@ See [package.json](package.json#L6) for details.
 , Abra Giddings
 , Iraj Nelson
 , [Alex Cristache]
+, Evan Gardner
+, Eliiiiii
+, Fuentes
+, Alex Field
+, BangHann
+, James Galvan
 
 ## Disclaimer 👮🏾‍
 
