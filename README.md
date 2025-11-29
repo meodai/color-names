@@ -118,8 +118,8 @@ Other language implementations maintained by the community:
 
 ## Color Name Submission 💌
 
-__[via form 🌈](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform)
-/ or [twitter 🐦](https://twitter.com/color_parrot)__
+Submit your own color names by editing the
+[`src/colornames.csv`](src/colornames.csv) file and opening a pull request.
 
 Please review the [naming rules](CONTRIBUTING.md) before contributing!
 
@@ -248,9 +248,7 @@ See [package.json](package.json#L6) for details.
 
 ### Sources: Names 📇
 
-- Thousands of user submissions [Twitter](https://codepen.io/meodai/full/ZXQzLb/)
-  / [Google Docs](https://docs.google.com/forms/d/e/1FAIpQLSfbS5D6owA4dQupJJ-6qhRzuxkjX9r2AliPMg-VR2V3NpGkQg/viewform)
-  / [Github](#contributors-)
+- Thousands of user submissions [Github](#contributors-)
 - [Wikipedia list of named colors] (2018-02-23)
 - [Wada Sanzo's list of named colors]
 - [CSS/HTML color names]
