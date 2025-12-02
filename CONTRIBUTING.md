@@ -2,95 +2,116 @@
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
-Please note we have a code of conduct, please follow it in all your
-interactions with the project.
+Please note we have a code of conduct; please follow it in all your interactions
+with the project.
 
-## Adding colors
+## Important Note
 
-1. Only update the `src/colornames.csv` file and run `npm test`.
-2. Make sure the names you commit are not racist or offensive or a protected
-   brand name (No Facebook Blue, Coca Cola Red etc.., no nationality or tan etc..).
-3. Read the "Rules for new color names" directly below
-4. Make sure that neither name nor hex value of your added colors are already
-  in use. `npm test` will test that for you.
-5. Do not edit generated files. Do not commit changes to `README.md`,
-  `changes.svg` or anything in `dist/`.
-6. Add the source of your colors in the Pull Request description.
-  Maintainers will update documentation if needed.
+We're not actively looking to grow the list much further. Instead, we'd love
+help **replacing uninspired or plain bad names**
+(e.g., `Amethyst Light Violet`). Yes, this is subjective—but hey,
+it's a list of color names! 🎨
 
-## Rules for new color names
+## Adding Colors
 
-- No duplicate names or hex values.
-- Names should convey a color (e.g. `Sunset Orange` evokes orange,
-`Partygoer` does not)
-- No racist names
-- No offensive names
-- No obscene names 💩
-- No protected brand-names (`Facebook Blue`, `Coca Cola Red`)
-- No enumerations (`Grey 1`, `Grey 2`, `Grey 3`, `Grey 4`)
-- British English spelling (ex. `Grey` not `Gray`), unless its something U.S. typical.
-- Capitalize colors: `Kind of Orange` following [APA style](https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case)
-- Prefer common names, especially when adding colors of flora and fauna
-  (plants and animals ;) ) ex. `Venus Slipper Orchid` instead of `Paphiopedilum`.
-- Avoid ethnic & racial assumptions
-- Do not use LLM / AI to generate color names.
+1. **Review Rules:** Read and adhere to the
+["Rules for new color names"](#rules-for-new-color-names) below.
+2. **File Edits:** Only update the `src/colornames.csv` file.
+3. **Local Check:** Run npm test to confirm names and hex values are unique
+and that no generated files are modified.
+4. **Source**: Add the source/origin of your new colors in the Pull Request
+description. Maintainers will update documentation if needed.
+5. **Do Not Commit Generated Files:** Do not commit changes to generated files
+like `README.md`, `changes.svg`, or anything in `dist/`.
 
-## Generated files and CI
+## Rules for New Color Names
+
+### 🚫 Name Exclusions (Mandatory)
+
+These rules are strictly enforced for all new and changed names:
+
+- **No Duplicates:** Neither the name nor the hex value can be a duplicate of
+an existing entry.
+- **Offensive Content:** No offensive, racist, obscene, or derogatory names
+(including terms based on ethnicity, race, nationality, gender, or sex). Avoid
+ethnic and racial assumptions.
+- **Protected Brands:** No protected brand names (e.g., `Coca Cola Red`,
+`Facebook Blue`).
+- **No Enumerations:** No numbered or simple sequence names (e.g., `Grey 1`,
+`Blue 2`).
+- **No AI Generation:** Do not use LLM / AI to generate color names.
+
+### ✨ Naming Conventions (Style & Clarity)
+
+- **Convey Color:** Names must clearly evoke a color (e.g., `Sunset Orange`
+evokes orange, `Partygoer` does not).
+- **Common/Flora/Fauna:** Prefer common names, especially when referencing
+flora and fauna (plants and animals); for example, use `Venus Slipper Orchid`
+instead of `Paphiopedilum`.
+- **British English:** Use British English spelling (e.g., `Grey` not `Gray`),
+unless the name is something typically U.S. (e.g., `Tuscan Red` is fine).
+- **Capitalization (APA Title Case):** Capitalize the name following
+[APA title case style](https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case)
+(e.g., `Kind of Orange`).
+
+## Generated Files and CI
 
 - PRs run `npm ci`, `npm run build`, and `npm test` in CI.
-- CI may update `README.md` and `changes.svg` automatically and push
-  to your PR branch.
-- Do not include generated files (`dist/`, `README.md`, `changes.svg`) in commits.
+- CI may update `README.md` and `changes.svg` automatically and push to your PR branch.
+- **Do not include generated files** (`dist/`, `README.md`, `changes.svg`) in
+your commits.
 - For color name changes, only submit updates to `src/colornames.csv`.
 - No need to run `npm run build` locally; CI generates outputs.
 - Optional locally: `npm run lint:markdown` to match CI markdown checks.
 
-## Committing changes
+## Committing Changes
 
-- We use automated semantic versioning using conventional changelog rules. You
-  can run `npx cz` or `npm run commit` instead of `git commit -m`, or make sure
-  to follow [conventional changelog naming rules]. Our conventional commits
-  look like:
+We use automated semantic versioning based on conventional changelog rules.
 
-  ```text
+- You can run `npx cz` or `npm run commit` instead of `git commit -m`.
+- Alternatively, make sure your commit message follows the
+[conventional changelog naming rules][conventional changelog naming rules].
+Our conventional commits look like:
+
+```text
   feat(colors): Add fantastic new colors names.
   fix(colors): Correct the hex value for Awesome Pink.
   docs(readme): Update the readme to include new colors.
-  ```
+```
 
-- Write your commit messages in imperative form:
-  **feat(colors): Add fantastic new colors names.** rather then
-  feat(colors): Added new names.
-  Make sure to run `npm run test` before committing.
-  For color name changes this is the only command you need locally.
+- **Imperative Form:** Write your commit messages in imperative form:
+**feat(colors): Add fantastic new colors names.** rather than *feat(colors):
+Added new names.*
+- Make sure to run `npm run test` before committing. For color name changes,
+this is the only command you need locally.
 
-## No Command Line? No Problem! 🐣
+## No Command Line? No Problem\! 🐣
 
 If you are not familiar with Git or the command line, you can contribute directly
 through GitHub:
 
 1. **Fork the repository**: Click the "Fork" icon in the top right corner of
-   this page. This creates a copy of the project under your own account.
-2. **Edit the list**: Navigate to `src/colornames.csv` in your forked
-   repository.
+this page. This creates a copy of the project under your own account.
+2. **Edit the list**: Navigate to `src/colornames.csv` in your forked repository.
 3. **Add your colors**: Scroll to the bottom and add your new colors. Don't
-   worry about sorting; it will be done automatically for you.
+worry about sorting; it will be done automatically for you.
 4. **Create a Pull Request**:
-   - Commit your changes in the GitHub interface.
-   - Go back to the [original repository](https://github.com/meodai/color-names).
-   - GitHub will often show a banner asking if you want to create a Pull Request
-     from your recent changes. If not, go to the "Pull requests" tab and click
-     "New pull request", then "compare across forks" to select your version.
-   - Fill in the details and submit your Pull Request. The title should look
-      something like "feat(colors): Add new color names".
+    - Commit your changes in the GitHub interface.
+    - Go back to the [original repository](https://github.com/meodai/color-names).
+    - GitHub will often show a banner asking if you want to create a Pull
+    Request from your recent changes. If not, go to the "Pull requests" tab
+    and click "New pull request", then "compare across forks" to select your
+    version.
+    - Fill in the details and submit your Pull Request. The title should look
+    something like "feat(colors): Add new color names".
 
 If this feels too complicated, feel free to just
-[open an issue](https://github.com/meodai/color-names/issues/new) with your
-list or share a Google Spreadsheet with us. Note that doing it this way skips
-our automated checks (which tell you if a color is already taken), so it might
-take a bit longer to review.
+[open an issue](https://github.com/meodai/color-names/issues/new)
+with your list or share a Google Spreadsheet with us. Note that doing it this
+way skips our automated checks (which tell you if a color is already taken),
+so it might take a bit longer to review.
 
-### Attribution
+## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
 version 1.4, available at [http://contributor-covenant.org/version/1/4][version]
