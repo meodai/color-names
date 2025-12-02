@@ -21,6 +21,8 @@ interactions with the project.
 ## Rules for new color names
 
 - No duplicate names or hex values.
+- Names should convey a color (e.g. `Sunset Orange` evokes orange,
+`Partygoer` does not)
 - No racist names
 - No offensive names
 - No obscene names 💩
