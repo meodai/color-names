@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 150">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 430">
   <defs>
     <style type="text/css">
       @import url('https://rsms.me/inter/inter.css');
@@ -9,6 +9,6 @@
       }
     </style>
   </defs>
-  <rect fill="#212121" x="0" y="0" width="600" height="150"/>
-  <text x="40" y="90" fill="#330404">3AM Breakup</text>
+  <rect fill="#212121" x="0" y="0" width="600" height="430"/>
+  <text x="40" y="90" fill="#141313">Death Metal</text><text x="40" y="160" fill="#24d427">First of the Month Green</text><text x="40" y="230" fill="#fafafe">Googol</text><text x="40" y="300" fill="#fafaff">Googolplex</text><text x="40" y="370" fill="#590a01">Mathematical Rage</text>
 </svg>
