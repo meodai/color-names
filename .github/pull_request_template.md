@@ -1,3 +1,5 @@
+**PR title format:** `feat(colors): Describe your colors`
+
 ## Summary
 
 Describe what this PR changes. For color additions, mention how many colors you
