@@ -16,9 +16,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-        with:
-          ref: ${{ github.head_ref }}
-          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v3
         with:
@@ -30,15 +27,6 @@ jobs:
         run: |
           corepack enable
           corepack prepare npm@11.6.0 --activate
-      - name: Sort colors
-        run: npm run sort-colors
-      - name: Commit sorted colors if changed
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "GitHub Action"
-          git add src/colornames.csv
-          git diff --staged --quiet || git commit -m "chore(colors): sort color names [skip ci]"
-          git push || true
       - name: Build
         run: npm run build
       - run: npm test
