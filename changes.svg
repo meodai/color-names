@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 150">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 220">
   <defs>
     <style type="text/css">
       @import url('https://rsms.me/inter/inter.css');
@@ -9,6 +9,6 @@
       }
     </style>
   </defs>
-  <rect fill="#212121" x="0" y="0" width="600" height="150"/>
-  <text x="40" y="90" fill="#3d322e">Six Feet Under</text>
+  <rect fill="#212121" x="0" y="0" width="600" height="220"/>
+  <text x="40" y="90" fill="#ff7a8f">Magical Girl</text><text x="40" y="160" fill="#cdbb63">The Weight of Gold</text>
 </svg>
