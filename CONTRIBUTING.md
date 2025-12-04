@@ -16,7 +16,8 @@ it's a list of color names! 🎨
 
 1. **Review Rules:** Read and adhere to the
 ["Rules for new color names"](#rules-for-new-color-names) below.
-2. **File Edits:** Only update the `src/colornames.csv` file.
+2. **File Edits:** Only update the `src/colornames.csv` file. Each line should
+end with a trailing comma (e.g., `My Color,#ff5733,`).
 3. **Local Check:** Run npm test to confirm names and hex values are unique
 and that no generated files are modified.
 4. **Source**: Add the source/origin of your new colors in the Pull Request
@@ -40,6 +41,8 @@ ethnic and racial assumptions.
 - **No Enumerations:** No numbered or simple sequence names (e.g., `Grey 1`,
 `Blue 2`).
 - **No AI Generation:** Do not use LLM / AI to generate color names.
+- **No Best-Of Flag:** Do not set the `bestOf` flag (third column) yourself;
+this is exclusively done by maintainers.
 
 ### ✨ Naming Conventions (Style & Clarity)
 
@@ -94,7 +97,13 @@ through GitHub:
 this page. This creates a copy of the project under your own account.
 2. **Edit the list**: Navigate to `src/colornames.csv` in your forked repository.
 3. **Add your colors**: Scroll to the bottom and add your new colors. Don't
-worry about sorting; it will be done automatically for you.
+worry about sorting; it will be done automatically for you. **Make sure to add
+a trailing comma after the hex value**, for example:
+
+    ```csv
+    My Awesome Color,#ff5733,
+    ```
+
 4. **Create a Pull Request**:
     - Commit your changes in the GitHub interface.
     - Go back to the [original repository](https://github.com/meodai/color-names).
