@@ -16,7 +16,7 @@ added or adjusted.
   - [ ] Follow the "Rules for new color names" (no racist/offensive/obscene/
   brand names, etc.).
   - [ ] Use British English spelling where applicable (e.g. `Grey` not `Gray`).
-  - [ ] Are capitalized in APA-style title case.
+  - [ ] Are capitalized in [APA-style title case](https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case).
 - [ ] I ran `npm test` locally (or understand CI will run it for me).
 
 ## Color source / inspiration
