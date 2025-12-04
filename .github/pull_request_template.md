@@ -11,7 +11,6 @@ added or adjusted.
 - [ ] I only edited `src/colornames.csv` for color name changes (no changes to
 `dist/`, `README.md`, or `changes.svg`).
 - [ ] Each line ends with a trailing comma (e.g., `My Color,#ff5733,`).
-- [ ] I did not set the `bestOf` flag (third column) — this is done by maintainers only.
 - [ ] New color names:
   - [ ] Convey a specific color (not just a vibe or reference).
   - [ ] Follow the "Rules for new color names" (no racist/offensive/obscene/
