@@ -161,20 +161,14 @@ const app = new Vue({
   }
 });
 
-
-
-const xhr = new XMLHttpRequest();
-xhr.open('GET', '//color-names.herokuapp.com/v1/');
-xhr.onload = e => {
-  if (xhr.status === 200) {
-    let resp = JSON.parse(xhr.responseText);
-    app.colors = resp.colors /*.sort((a,b) => ( a.luminance - b.luminance )).reverse()*/;
-    app.closestColors = new Closest(resp.colors.map(c => [c.rgb.r, c.rgb.g, c.rgb.b]), true);
-
-    app.colorList = [...app.colors];
-
-  } else {
-    console.log(xhr.status);
-  }
-};
-xhr.send();
+fetch('//api.color.pizza/v1/', {
+  method: 'POST',
+  headers: {
+    'Content-Type': 'application/json',
+    'X-Referrer': 'codepen: VMpNdQ',
+  },
+}).then(d => d.json()).then(d => {
+  app.colors = d.colors
+  app.closestColors = new Closest(d.colors.map(c => [c.rgb.r, c.rgb.g, c.rgb.b]), true);
+  app.colorList = [...app.colors];
+});
