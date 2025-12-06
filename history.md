@@ -1,4 +1,4 @@
-# The Evolution of Color Names: A Project History
+# The Evolution of Color Names: A Project Chronology
 
 Since its inception in April 2017, the `color-names` project has evolved from
 a simple list into a rigorously maintained, standardized dataset of color
