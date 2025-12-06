@@ -5,17 +5,21 @@
   "main": "dist/colornames.json",
   "browser": "dist/colornames.umd.js",
   "module": "dist/colornames.esm.js",
+  "types": "dist/colornames.d.ts",
   "type": "module",
   "exports": {
     ".": {
+      "types": "./dist/colornames.d.ts",
       "import": "./dist/colornames.esm.js",
       "require": "./dist/colornames.umd.js"
     },
     "./bestof": {
+      "types": "./dist/colornames.bestof.d.ts",
       "import": "./dist/colornames.bestof.esm.js",
       "require": "./dist/colornames.bestof.umd.js"
     },
     "./short": {
+      "types": "./dist/colornames.short.d.ts",
       "import": "./dist/colornames.short.esm.js",
       "require": "./dist/colornames.short.umd.js"
     },

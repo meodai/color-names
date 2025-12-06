@@ -382,3 +382,21 @@ function diffSVG() {
 }
 
 diffSVG();
+
+// Copy TypeScript definitions
+fs.copyFileSync(
+  path.normalize(`${__dirname}/colornames.d.ts`),
+  path.normalize(`${baseFolder}${folderDist}${fileNameSrc}.d.ts`)
+);
+
+fs.copyFileSync(
+  path.normalize(`${__dirname}/colornames.d.ts`),
+  path.normalize(`${baseFolder}${folderDist}${fileNameSrc}${fileNameBestOfPostfix}.d.ts`)
+);
+
+fs.copyFileSync(
+  path.normalize(`${__dirname}/colornames.d.ts`),
+  path.normalize(`${baseFolder}${folderDist}${fileNameSrc}${fileNameShortPostfix}.d.ts`)
+);
+
+console.log('TypeScript definitions copied');
