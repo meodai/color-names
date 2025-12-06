@@ -50,6 +50,11 @@ acquisition:
 With the technical foundation laid, the focus shifted to growing the dataset.
 
 - **Steady Growth:** The repository saw a continuous stream of color additions.
+- **Werner's Nomenclature (October 2018):** A historically significant addition
+  was the incorporation of colors from
+  [Werner's Nomenclature of Colours](https://github.com/meodai/color-names/commit/176b30f),
+  an 1814 color reference guide used by Charles Darwin, adding ~70 historically
+  documented color names.
 - **Specialized Sets:** A notable milestone was **v4.1.0 (April 2019)**, which
   introduced
   [specific fashion and paint color sets](https://github.com/meodai/color-names/commit/ff25923),
@@ -76,9 +81,33 @@ As the JavaScript ecosystem evolved, so did the project.
   a new wave of contributors including **Sean Gibbons**, **Brantley Sibo**, and
   **Jeff Bronks** expanded the list further
   ([c9e501a](https://github.com/meodai/color-names/commit/c9e501a)).
+- **Team Fortress 2 Colors (August 2021):** A fun pop-culture addition brought
+  [Team Fortress 2 paint colors](https://github.com/meodai/color-names/commit/e82b070)
+  into the dataset, showcasing the project's embrace of gaming culture.
 - **ES Module Support:** In **February 2020**,
   [support for ES modules](https://github.com/meodai/color-names/commit/1731a30)
   was added, reflecting the industry's shift away from CommonJS.
+- **Inclusive Language Efforts (2022–2024):** The project took a strong stance
+  on inclusive naming. In **June 2022**, efforts began to
+  [remove "caucasian as default" color names](https://github.com/meodai/color-names/commit/e676436).
+  In **February 2023**, the
+  [Confederate color was removed](https://github.com/meodai/color-names/commit/2ff1afa),
+  followed by the removal of
+  [colonial-themed colors](https://github.com/meodai/color-names/commit/5944e2e)
+  in **March 2023**. This effort continued into **August 2024** with further
+  [decolonizing efforts](https://github.com/meodai/color-names/commit/49d6e9f).
+- **Diamond Vogel Paint Colors (December 2022):** A significant addition of
+  professional paint colors came with the
+  [Diamond Vogel palette](https://github.com/meodai/color-names/commit/b955b63),
+  adding 49 new names from the paint industry.
+- **Hawaiian Food & Plant Names (May 2023):** The dataset embraced cultural
+  diversity with
+  [Hawaiian food and plant color names](https://github.com/meodai/color-names/commit/d6175a8),
+  contributed via PR #163.
+- **Apostrophe Standardization (June 2023):** A major typographical cleanup
+  occurred when
+  [correct apostrophes were enforced](https://github.com/meodai/color-names/commit/6f14195),
+  fixing over 400 color names that used incorrect apostrophe characters.
 - **Data Insights:** Scripts were added to track the history of color changes
   ([history.js](https://github.com/meodai/color-names/commit/75bfdd2)),
   authored by **Nicolas Mattia**, allowing users to see when specific colors
@@ -99,6 +128,12 @@ A major technical pivot occurred with **v11.0.0 (November 16, 2024)**.
   fully embrace ECMAScript Modules (ESM).
 - **Named Exports:** It switched from a default export to a named export
   (`colornames`), modernizing the consumption pattern for developers.
+- **Chakra Colors (April 2024):** Earlier in the year, a spiritual addition
+  brought [Chakra-inspired colors](https://github.com/meodai/color-names/commit/59f8f2a)
+  to the dataset.
+- **Pun Colors (October 2024):** The dataset got a playful boost with
+  [pun-based color names](https://github.com/meodai/color-names/commit/4d93703),
+  adding nearly 20 humorous entries.
 
 ## The "Quality & Standardization" Era (Late 2025)
 
@@ -108,12 +143,26 @@ version bumps:
 
 - **Duplicate Detection (v12.0.0, September 2025):** Introduction of
   [sophisticated scripts to detect near-duplicates](https://github.com/meodai/color-names/commit/985c300)
-  and normalize names.
+  and normalize names, removing ~170 redundant entries.
+- **Misspelling Cleanup (September 2025):** A thorough review removed
+  [common misspellings](https://github.com/meodai/color-names/commit/069e71a),
+  cleaning up ~170 incorrectly spelled color names.
 - **Plural Handling (v13.0.0, September 2025):** Enhanced validation to
   [handle pluralization](https://github.com/meodai/color-names/commit/c163947),
-  ensuring singular/plural variations didn't clutter the list.
+  ensuring singular/plural variations didn't clutter the list, removing ~70
+  plural duplicates.
+- **APA Style Capitalization (November 2025):** Enforcement of
+  [proper APA style capitalization](https://github.com/meodai/color-names/commit/05f17fe)
+  across the dataset, standardizing ~120 color names.
 - **Linguistic Standardization (v14.0.0, December 2025):** A strict enforcement
   of [British English spelling](https://github.com/meodai/color-names/commit/2998294)
   and **APA style capitalization**. This was a significant breaking change that
-  renamed or removed numerous "Americanized" entries to ensure consistency
-  across the entire dataset.
+  renamed or removed numerous "Americanized" entries (~210 changes) to ensure
+  consistency across the entire dataset.
+
+## Current State (December 2025)
+
+The dataset now contains over **30,000 curated color names**, making it one of
+the largest human-curated color name collections in the world. The project
+continues to accept community contributions while maintaining strict quality
+standards for naming conventions, spelling, and cultural sensitivity.
