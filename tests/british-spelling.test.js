@@ -121,7 +121,6 @@ describe('British English Spelling', () => {
             'refers to something typically American (place names, proper nouns, etc.)',
             '',
             'Common differences:',
-            '  • color → colour',
             '  • gray → grey',
             '  • center → centre',
             '  • honor → honour',
