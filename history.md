@@ -93,7 +93,7 @@ As the JavaScript ecosystem evolved, so did the project.
   a new wave of contributors including **Sean Gibbons**, **Brantley Sibo**, and
   **Jeff Bronks** expanded the list further
   ([c9e501a](https://github.com/meodai/color-names/commit/c9e501a)).
-  **Bas Geysels** (`basgys`) remains the single most prolific contributor,
+  **Bastien** (`basgys`) remains the single most prolific contributor,
   responsible for many thousands of delightful and quirky names across more
   than half a decade.
 - **Team Fortress 2 Colors (August 2021):** A fun pop-culture addition brought
