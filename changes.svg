@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 640">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360">
   <defs>
     <style type="text/css">
       @import url('https://rsms.me/inter/inter.css');
@@ -9,6 +9,6 @@
       }
     </style>
   </defs>
-  <rect fill="#212121" x="0" y="0" width="600" height="640"/>
-  <text x="40" y="90" fill="#f2b400">Bellagio Gold</text><text x="40" y="160" fill="#2a1b0e">Brunneophobia</text><text x="40" y="230" fill="#d3af37">Marina Bay Sands</text><text x="40" y="300" fill="#804040">Mesopotamian Dagger</text><text x="40" y="370" fill="#514100">Roman Bronze</text><text x="40" y="440" fill="#cfcfcf">Silver Eagle</text><text x="40" y="510" fill="#fffed9">Sun City</text><text x="40" y="580" fill="#34b334">Try Your Luck</text>
+  <rect fill="#212121" x="0" y="0" width="600" height="360"/>
+  <text x="40" y="90" fill="#bc012e">Akai Red</text><text x="40" y="160" fill="#b9d08b">Al Green</text><text x="40" y="230" fill="#b30103">All Systems Red</text><text x="40" y="300" fill="#e1ded9">Closet Skeletons</text>
 </svg>
