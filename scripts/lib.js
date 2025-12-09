@@ -183,10 +183,14 @@ export const findNearDuplicateNameConflicts = (items, options = {}) => {
       if (raw === 'r') return 'are';
       return raw;
     });
+
+    // Drop possessive `'s` tokens so "Bay's Water" collides with "Bay Water".
+    const noPossessives = normalizedTokens.filter((t) => t !== 's' || normalizedTokens.length === 1);
+
     const filtered =
       foldStopwords && stopSet && stopSet.size
-        ? normalizedTokens.filter((t) => !stopSet.has(t))
-        : normalizedTokens;
+        ? noPossessives.filter((t) => !stopSet.has(t))
+        : noPossessives;
     return filtered.length ? filtered.join('') : normalizeNameForDuplicates(name);
   };
 
