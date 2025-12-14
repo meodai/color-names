@@ -114,6 +114,8 @@ Other language implementations maintained by the community:
 - [Name Search]: Full-text search on the color list.
 - [Color Distribution]: 3D visualization of all color names in various
   color models.
+- [History Visualization]: Interactive timeline showing the growth of color
+  names in the repository from 2017 to present.
 - [X Account]: Posts random colors and lets you submit new ones.
 
 ## Color Name Submission 💌
@@ -382,6 +384,7 @@ so we can address them promptly.
 [Color Picker II]: https://codepen.io/meodai/full/xWNNwN
 [Name Search]: https://codepen.io/meodai/full/VMpNdQ/
 [Color Distribution]: https://codepen.io/meodai/full/zdgXJj/
+[History Visualization]: https://meodai.github.io/color-names/docs/history-visualization.html
 [X Account]: https://twitter.com/color_parrot
 
 <!-- people -->
