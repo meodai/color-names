@@ -232,12 +232,22 @@
 
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
     <script>
+      // Constants
+      const DAYS_PER_YEAR = 365.25;
+      const DATA_URL =
+        'https://unpkg.com/color-name-list/dist/history.json';
+      const FALLBACK_DATA_URL = './history.json';
+
       // Fetch and process history data
       async function loadHistoryData() {
         try {
-          const response = await fetch(
-            'https://unpkg.com/color-name-list/dist/history.json'
-          );
+          let response;
+          try {
+            response = await fetch(DATA_URL);
+          } catch (error) {
+            console.warn('Failed to load from CDN, trying fallback:', error);
+            response = await fetch(FALLBACK_DATA_URL);
+          }
           const history = await response.json();
 
           // Process data
@@ -250,23 +260,23 @@
       }
 
       function processHistoryData(history) {
-        // Sort by date (oldest first)
-        const sortedHistory = [...history].reverse();
-
         // Calculate cumulative totals
         let cumulativeTotal = 0;
-        const chartData = sortedHistory.map((entry) => {
-          cumulativeTotal +=
-            entry.added.length - entry.removed.length + entry.changed.length;
-          return {
+        const chartData = [];
+
+        // Iterate from oldest to newest (reverse order)
+        for (let i = history.length - 1; i >= 0; i--) {
+          const entry = history[i];
+          cumulativeTotal += entry.added.length - entry.removed.length;
+          chartData.push({
             date: new Date(entry.date),
             total: cumulativeTotal,
             added: entry.added.length,
             removed: entry.removed.length,
             changed: entry.changed.length,
             colors: entry.added,
-          };
-        });
+          });
+        }
 
         // Update stats
         updateStats(chartData, history);
@@ -283,7 +293,7 @@
         const firstDate = chartData[0].date;
         const lastDate = chartData[chartData.length - 1].date;
         const yearSpan = Math.round(
-          (lastDate - firstDate) / (1000 * 60 * 60 * 24 * 365.25)
+          (lastDate - firstDate) / (1000 * 60 * 60 * 24 * DAYS_PER_YEAR)
         );
         const peakAddition = Math.max(...chartData.map((d) => d.added));
 
@@ -367,7 +377,7 @@
                 },
                 ticks: {
                   maxRotation: 45,
-                  minRotation: 45,
+                  minRotation: 0,
                   autoSkip: true,
                   maxTicksLimit: 20,
                 },
