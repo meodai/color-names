@@ -244,9 +244,19 @@
           let response;
           try {
             response = await fetch(DATA_URL);
+            if (!response.ok) {
+              throw new Error(
+                `HTTP error! status: ${response.status}`
+              );
+            }
           } catch (error) {
             console.warn('Failed to load from CDN, trying fallback:', error);
             response = await fetch(FALLBACK_DATA_URL);
+            if (!response.ok) {
+              throw new Error(
+                `Fallback HTTP error! status: ${response.status}`
+              );
+            }
           }
           const history = await response.json();
 
