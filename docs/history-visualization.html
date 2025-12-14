@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Color Names Over Time - Interactive Visualization</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+          Oxygen, Ubuntu, Cantarell, sans-serif;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: #333;
+        padding: 20px;
+        min-height: 100vh;
+      }
+
+      .container {
+        max-width: 1400px;
+        margin: 0 auto;
+        background: white;
+        border-radius: 16px;
+        box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+        padding: 40px;
+      }
+
+      h1 {
+        color: #2d3748;
+        margin-bottom: 10px;
+        font-size: 2.5rem;
+      }
+
+      .subtitle {
+        color: #718096;
+        margin-bottom: 30px;
+        font-size: 1.1rem;
+      }
+
+      .stats {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 20px;
+        margin-bottom: 30px;
+      }
+
+      .stat-card {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 20px;
+        border-radius: 12px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      }
+
+      .stat-card h3 {
+        font-size: 0.9rem;
+        opacity: 0.9;
+        margin-bottom: 8px;
+        font-weight: 500;
+      }
+
+      .stat-card .value {
+        font-size: 2rem;
+        font-weight: bold;
+      }
+
+      .chart-container {
+        margin: 30px 0;
+        padding: 20px;
+        background: #f7fafc;
+        border-radius: 12px;
+        position: relative;
+        height: 500px;
+      }
+
+      canvas {
+        max-width: 100%;
+        height: 100% !important;
+      }
+
+      .timeline {
+        margin-top: 40px;
+      }
+
+      .timeline h2 {
+        color: #2d3748;
+        margin-bottom: 20px;
+        font-size: 1.8rem;
+      }
+
+      .timeline-item {
+        padding: 15px;
+        margin-bottom: 10px;
+        background: #f7fafc;
+        border-left: 4px solid #667eea;
+        border-radius: 4px;
+        transition: all 0.3s ease;
+      }
+
+      .timeline-item:hover {
+        background: #edf2f7;
+        transform: translateX(5px);
+      }
+
+      .timeline-date {
+        font-weight: bold;
+        color: #667eea;
+        margin-bottom: 5px;
+      }
+
+      .timeline-colors {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-top: 10px;
+      }
+
+      .color-sample {
+        width: 30px;
+        height: 30px;
+        border-radius: 4px;
+        border: 2px solid white;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+        cursor: pointer;
+        transition: transform 0.2s ease;
+      }
+
+      .color-sample:hover {
+        transform: scale(1.3);
+        z-index: 10;
+      }
+
+      .color-count {
+        color: #718096;
+        font-size: 0.9rem;
+      }
+
+      .loading {
+        text-align: center;
+        padding: 40px;
+        color: #667eea;
+        font-size: 1.2rem;
+      }
+
+      .tooltip {
+        position: absolute;
+        background: rgba(0, 0, 0, 0.9);
+        color: white;
+        padding: 8px 12px;
+        border-radius: 6px;
+        font-size: 0.85rem;
+        pointer-events: none;
+        z-index: 1000;
+        white-space: nowrap;
+        display: none;
+      }
+
+      footer {
+        margin-top: 40px;
+        padding-top: 20px;
+        border-top: 1px solid #e2e8f0;
+        text-align: center;
+        color: #718096;
+        font-size: 0.9rem;
+      }
+
+      footer a {
+        color: #667eea;
+        text-decoration: none;
+      }
+
+      footer a:hover {
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>🎨 Color Names Over Time</h1>
+      <p class="subtitle">
+        Explore the evolution of the color-names repository from 2017 to present
+      </p>
+
+      <div class="stats">
+        <div class="stat-card">
+          <h3>Total Colors</h3>
+          <div class="value" id="totalColors">-</div>
+        </div>
+        <div class="stat-card">
+          <h3>Time Span</h3>
+          <div class="value" id="timeSpan">-</div>
+        </div>
+        <div class="stat-card">
+          <h3>Updates</h3>
+          <div class="value" id="totalUpdates">-</div>
+        </div>
+        <div class="stat-card">
+          <h3>Peak Addition</h3>
+          <div class="value" id="peakAddition">-</div>
+        </div>
+      </div>
+
+      <div class="chart-container">
+        <canvas id="historyChart"></canvas>
+      </div>
+
+      <div class="timeline" id="timeline">
+        <h2>Recent Updates</h2>
+        <div id="timelineContent" class="loading">Loading history data...</div>
+      </div>
+
+      <footer>
+        <p>
+          Data from
+          <a
+            href="https://github.com/meodai/color-names"
+            target="_blank"
+            rel="noopener"
+            >color-names repository</a
+          >
+          | Visualization created for exploring the growth of the color names
+          collection
+        </p>
+      </footer>
+    </div>
+
+    <div class="tooltip" id="tooltip"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+    <script>
+      // Fetch and process history data
+      async function loadHistoryData() {
+        try {
+          const response = await fetch(
+            'https://unpkg.com/color-name-list/dist/history.json'
+          );
+          const history = await response.json();
+
+          // Process data
+          processHistoryData(history);
+        } catch (error) {
+          console.error('Error loading history data:', error);
+          document.getElementById('timelineContent').innerHTML =
+            '<p style="color: #e53e3e;">Error loading history data. Please check the console for details.</p>';
+        }
+      }
+
+      function processHistoryData(history) {
+        // Sort by date (oldest first)
+        const sortedHistory = [...history].reverse();
+
+        // Calculate cumulative totals
+        let cumulativeTotal = 0;
+        const chartData = sortedHistory.map((entry) => {
+          cumulativeTotal +=
+            entry.added.length - entry.removed.length + entry.changed.length;
+          return {
+            date: new Date(entry.date),
+            total: cumulativeTotal,
+            added: entry.added.length,
+            removed: entry.removed.length,
+            changed: entry.changed.length,
+            colors: entry.added,
+          };
+        });
+
+        // Update stats
+        updateStats(chartData, history);
+
+        // Create chart
+        createChart(chartData);
+
+        // Create timeline
+        createTimeline(history.slice(0, 20)); // Show last 20 updates
+      }
+
+      function updateStats(chartData, history) {
+        const totalColors = chartData[chartData.length - 1].total;
+        const firstDate = chartData[0].date;
+        const lastDate = chartData[chartData.length - 1].date;
+        const yearSpan = Math.round(
+          (lastDate - firstDate) / (1000 * 60 * 60 * 24 * 365.25)
+        );
+        const peakAddition = Math.max(...chartData.map((d) => d.added));
+
+        document.getElementById('totalColors').textContent =
+          totalColors.toLocaleString();
+        document.getElementById('timeSpan').textContent = `${yearSpan} yrs`;
+        document.getElementById('totalUpdates').textContent =
+          history.length.toLocaleString();
+        document.getElementById('peakAddition').textContent =
+          peakAddition.toLocaleString();
+      }
+
+      function createChart(data) {
+        const ctx = document.getElementById('historyChart').getContext('2d');
+
+        new Chart(ctx, {
+          type: 'line',
+          data: {
+            labels: data.map((d) =>
+              d.date.toLocaleDateString('en-US', {
+                year: 'numeric',
+                month: 'short',
+              })
+            ),
+            datasets: [
+              {
+                label: 'Total Color Names',
+                data: data.map((d) => d.total),
+                borderColor: '#667eea',
+                backgroundColor: 'rgba(102, 126, 234, 0.1)',
+                borderWidth: 2,
+                fill: true,
+                tension: 0.4,
+                pointRadius: 0,
+                pointHoverRadius: 6,
+                pointHoverBackgroundColor: '#667eea',
+                pointHoverBorderColor: '#fff',
+                pointHoverBorderWidth: 2,
+              },
+            ],
+          },
+          options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            interaction: {
+              mode: 'index',
+              intersect: false,
+            },
+            plugins: {
+              legend: {
+                display: true,
+                position: 'top',
+              },
+              tooltip: {
+                callbacks: {
+                  title: function (context) {
+                    const idx = context[0].dataIndex;
+                    return data[idx].date.toLocaleDateString('en-US', {
+                      year: 'numeric',
+                      month: 'long',
+                      day: 'numeric',
+                    });
+                  },
+                  afterLabel: function (context) {
+                    const idx = context.dataIndex;
+                    return [
+                      `Added: ${data[idx].added}`,
+                      `Removed: ${data[idx].removed}`,
+                      `Changed: ${data[idx].changed}`,
+                    ];
+                  },
+                },
+              },
+            },
+            scales: {
+              x: {
+                display: true,
+                title: {
+                  display: true,
+                  text: 'Date',
+                },
+                ticks: {
+                  maxRotation: 45,
+                  minRotation: 45,
+                  autoSkip: true,
+                  maxTicksLimit: 20,
+                },
+              },
+              y: {
+                display: true,
+                title: {
+                  display: true,
+                  text: 'Total Number of Colors',
+                },
+                beginAtZero: true,
+              },
+            },
+          },
+        });
+      }
+
+      function createTimeline(recentHistory) {
+        const timelineContent = document.getElementById('timelineContent');
+        timelineContent.innerHTML = '';
+
+        recentHistory.forEach((entry) => {
+          const item = document.createElement('div');
+          item.className = 'timeline-item';
+
+          const date = new Date(entry.date);
+          const dateStr = date.toLocaleDateString('en-US', {
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric',
+          });
+
+          const addedCount = entry.added.length;
+          const removedCount = entry.removed.length;
+          const changedCount = entry.changed.length;
+
+          let description = '';
+          if (addedCount > 0) description += `+${addedCount} added`;
+          if (removedCount > 0)
+            description += `${description ? ', ' : ''}${removedCount} removed`;
+          if (changedCount > 0)
+            description += `${description ? ', ' : ''}${changedCount} changed`;
+
+          item.innerHTML = `
+            <div class="timeline-date">${dateStr}</div>
+            <div class="color-count">${description}</div>
+            <div class="timeline-colors" id="colors-${entry.date}"></div>
+          `;
+
+          timelineContent.appendChild(item);
+
+          // Add color samples for added colors (max 20)
+          const colorsContainer = document.getElementById(
+            `colors-${entry.date}`
+          );
+          const samplesToShow = entry.added.slice(0, 20);
+
+          samplesToShow.forEach((color) => {
+            const sample = document.createElement('div');
+            sample.className = 'color-sample';
+            sample.style.backgroundColor = color.hex;
+            sample.title = `${color.name} (${color.hex})`;
+
+            // Add hover tooltip
+            sample.addEventListener('mouseenter', function (e) {
+              const tooltip = document.getElementById('tooltip');
+              tooltip.textContent = `${color.name} (${color.hex})`;
+              tooltip.style.display = 'block';
+            });
+
+            sample.addEventListener('mousemove', function (e) {
+              const tooltip = document.getElementById('tooltip');
+              tooltip.style.left = e.pageX + 10 + 'px';
+              tooltip.style.top = e.pageY + 10 + 'px';
+            });
+
+            sample.addEventListener('mouseleave', function () {
+              const tooltip = document.getElementById('tooltip');
+              tooltip.style.display = 'none';
+            });
+
+            colorsContainer.appendChild(sample);
+          });
+
+          if (entry.added.length > 20) {
+            const more = document.createElement('span');
+            more.style.color = '#718096';
+            more.style.fontSize = '0.85rem';
+            more.style.alignSelf = 'center';
+            more.textContent = `+${entry.added.length - 20} more`;
+            colorsContainer.appendChild(more);
+          }
+        });
+      }
+
+      // Load data on page load
+      loadHistoryData();
+    </script>
+  </body>
+</html>
