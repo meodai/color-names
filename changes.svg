@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 780">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 430">
   <defs>
     <style type="text/css">
       @import url('https://rsms.me/inter/inter.css');
@@ -9,6 +9,6 @@
       }
     </style>
   </defs>
-  <rect fill="#212121" x="0" y="0" width="600" height="780"/>
-  <text x="40" y="90" fill="#e0ddbe">Above Board</text><text x="40" y="160" fill="#361d0a">Close but No Cigar</text><text x="40" y="230" fill="#b98052">In a Nutshell</text><text x="40" y="300" fill="#534c4b">Off the Beaten Path</text><text x="40" y="370" fill="#d1e8f1">On Thin Ice</text><text x="40" y="440" fill="#dfece9">Second Wind</text><text x="40" y="510" fill="#1d0d1d">Shot in the Dark</text><text x="40" y="580" fill="#9b351b">Spill the Beans</text><text x="40" y="650" fill="#476e42">Under the Radar</text><text x="40" y="720" fill="#c2d5d8">Up in the Air</text>
+  <rect fill="#212121" x="0" y="0" width="600" height="430"/>
+  <text x="40" y="90" fill="#bbffff">The Big Freeze</text><text x="40" y="160" fill="#e0d1a0">Woven</text><text x="40" y="230" fill="#e9d6bd">Writer’s Parchment</text><text x="40" y="300" fill="#474749">Wrought Iron</text><text x="40" y="370" fill="#eac853">Yellow Brick Road</text>
 </svg>
