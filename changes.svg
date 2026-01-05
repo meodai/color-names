@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 920">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 290">
   <defs>
     <style type="text/css">
       @import url('https://rsms.me/inter/inter.css');
@@ -9,6 +9,6 @@
       }
     </style>
   </defs>
-  <rect fill="#212121" x="0" y="0" width="600" height="920"/>
-  <text x="40" y="90" fill="#5577ee">Blue Öyster Cult</text><text x="40" y="160" fill="#377d95">Blue Rodeo</text><text x="40" y="230" fill="#9a2b43">Crimson Shadows</text><text x="40" y="300" fill="#f2e384">Electric Light Orchestra</text><text x="40" y="370" fill="#ceb790">Goldfrapp</text><text x="40" y="440" fill="#4d0e88">Indigo Girls</text><text x="40" y="510" fill="#c64a4a">King Crimson</text><text x="40" y="580" fill="#691d6c">New Riders of the Purple Sage</text><text x="40" y="650" fill="#c54831">Red Fang</text><text x="40" y="720" fill="#d44531">Scarlet Rebels</text><text x="40" y="790" fill="#214daa">The Blues Brothers</text><text x="40" y="860" fill="#dcc449">Yellow Magic Orchestra</text>
+  <rect fill="#212121" x="0" y="0" width="600" height="290"/>
+  <text x="40" y="90" fill="#f8e2ca">Acropolis</text><text x="40" y="160" fill="#f1919a">Pick Your Brain</text><text x="40" y="230" fill="#bff128">Pick Your Poison</text>
 </svg>
