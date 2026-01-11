@@ -16,8 +16,10 @@ it's a list of color names! 🎨
 
 1. **Review Rules:** Read and adhere to the
 ["Rules for new color names"](#rules-for-new-color-names) below.
-2. **File Edits:** Only update the `src/colornames.csv` file. Each line should
-end with a trailing comma (e.g., `My Color,#ff5733,`).
+2. **File Edits:** For color changes, update `src/colornames.csv`. Each line
+should end with a trailing comma (e.g., `My Color,#ff5733,`).
+   - If a test requires an explicit exception, also update the referenced
+     allowlist JSON file in `tests/`.
 3. **Local Check:** Run npm test to confirm names and hex values are unique
 and that no generated files are modified.
 4. **Source**: Add the source/origin of your new colors in the Pull Request
@@ -41,6 +43,9 @@ ethnic and racial assumptions.
 - **No Enumerations:** No numbered or simple sequence names (e.g., `Grey 1`,
 `Blue 2`).
 - **No AI Generation:** Do not use LLM / AI to generate color names.
+- **No Near-Primary Colors:** Do not add colors that are nearly identical
+(OKLab distance) to protected target colors (see `tests/protected-targets.json`).
+This helps avoid ambiguous “closest color” results in downstream consumers.
 - **No Best-Of Flag:** Do not set the `bestOf` flag (third column) yourself;
 this is exclusively done by maintainers.
 
