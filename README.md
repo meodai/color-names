@@ -354,7 +354,7 @@ See [package.json](package.json#L6) for details.
 , [Alex Cristache]
 , Evan Gardner
 , Eliiiiii
-, Fuentes
+, [Code Ghost]
 , Alex Field
 , BangHann
 , James Galvan
@@ -419,6 +419,7 @@ so we can address them promptly.
 [color.museum]: https://www.color.museum/
 [krissymashinsky.com]: https://www.krissymashinsky.com/
 [Alex Cristache]: https://x.com/AlexCristache
+[Code Ghost]: https://community.fandom.com/wiki/User:The_CodeGhost
 
 <!-- Sources: Names -->
 
