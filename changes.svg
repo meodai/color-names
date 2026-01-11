@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 150">
   <defs>
     <style type="text/css">
       @import url('https://rsms.me/inter/inter.css');
@@ -9,6 +9,6 @@
       }
     </style>
   </defs>
-  <rect fill="#212121" x="0" y="0" width="600" height="360"/>
-  <text x="40" y="90" fill="#7a7f82">Cowboy Spur</text><text x="40" y="160" fill="#050000">Joesmithite</text><text x="40" y="230" fill="#8a9bc2">Manifest Destiny</text><text x="40" y="300" fill="#85598a">Purple Fluorite</text>
+  <rect fill="#212121" x="0" y="0" width="600" height="150"/>
+  <text x="40" y="90" fill="#cd0000">Soviet Red</text>
 </svg>
