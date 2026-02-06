@@ -30,9 +30,11 @@
     "pull-colors": "curl -L 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQube6Y0wHyEtJnjg0eU3N7VseoxVnD4L9uDqvWZdl_tzzrHDVN10IPP7cdFipX8j70atNMLfPCB0Q6/pub?gid=40578722&single=true&output=csv' -o src/colornames.csv",
     "test": "vitest run",
     "test:watch": "vitest",
-    "build-translucent-color":"node scripts/build-translucent-colors.cjs",
-    "build": "node scripts/build.js && node scripts/build-translucent-colors.cjs  && npm run prettier",
-    "prettier": "prettier --write ./dist/*",
+    "splitColors":"node scripts/splitColors.js",
+    "categorizeShades":"node scripts/categorizeShades.js",
+    "build-translucent-color": "node scripts/build-translucent-colors.cjs",
+    "build": "node scripts/build.js && node scripts/build-translucent-colors.cjs && npm run categorizeShades && npm run splitColors &&  npm run prettier",
+    "prettier": "prettier --write ./dist/**",
     "lint": "npm run lint:scripts && npm run lint:markdown",
     "lint:scripts": "eslint ./scripts",
     "lint:markdown": "markdownlint-cli2 '**/*.md' '#node_modules'",
@@ -97,5 +99,8 @@
       "type": "github-sponsors",
       "url": "https://github.com/sponsors/meodai"
     }
-  ]
+  ],
+  "dependencies": {
+    "colorjs.io": "^0.6.0"
+  }
 }

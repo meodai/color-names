@@ -1,0 +1,26 @@
+{
+    "projectName" : "LiOS Colors Data",
+    "projectDescription" : "A computer understandable dataset of colors and it's names, primarily used by LiOS-Colors",
+    "projectVersion" : "1.0.0",
+    "versionName" : "Vibrant Nights",
+    "favicon" : "/assets/logo.png",
+    "baseUrl": "https://raw.githubusercontent.com/LiOS-org/LiOS-Colors-Data/refs/heads/main",
+    "channel" : "Stable",
+    "github" : "https://github.com/LiOS-org/LiOS-Colors/blob/master/LICENSE",
+    "licenses" : [
+        {
+            "for" : "Source Code",
+            "license" : "MIT",
+            "copy" : "https://github.com/LiOS-org/LiOS-Colors-Data/blob/main/LICENSE"
+        },
+        {
+            "for" : "Source Code (upstream)",
+            "license" : "MIT",
+            "copy" : "https://github.com/LiOS-org/LiOS-Colors-Data/blob/main/LICENSE"
+        }
+    ],
+    "cta" : {
+        "View Project" : "https://data.colors.liosorg.com/",
+        "View on Github" : "https://github.com/LiOS-org/LiOS-Colors-Data "
+    }
+}

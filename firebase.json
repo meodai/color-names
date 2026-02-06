@@ -15,6 +15,15 @@
             "value": "*"
           }
         ]
+      },
+      {
+        "source" : "/colors/*",
+        "headers":[
+          {
+            "key": "Access-Control-Allow-Origin",
+            "value": "*"
+          }
+        ]
       }
     ]
   }
