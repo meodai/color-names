@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 150">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360">
   <defs>
     <style type="text/css">
       @import url('https://rsms.me/inter/inter.css');
@@ -9,6 +9,6 @@
       }
     </style>
   </defs>
-  <rect fill="#212121" x="0" y="0" width="600" height="150"/>
-  <text x="40" y="90" fill="#f4f2e2">Au Clair de la Lune</text>
+  <rect fill="#212121" x="0" y="0" width="600" height="360"/>
+  <text x="40" y="90" fill="#9ad28c">Botanist</text><text x="40" y="160" fill="#f0e5f5">Holographic Lavender</text><text x="40" y="230" fill="#112473">Midnight Crest</text><text x="40" y="300" fill="#39527d">St. Tropaz</text>
 </svg>
