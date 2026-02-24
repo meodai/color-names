@@ -17,9 +17,9 @@ jobs:
           fetch-depth: 0
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: 23.x
+          node-version: 22.14.0
           cache: 'npm'
       - name: Use npm 11.6.0
         run: |

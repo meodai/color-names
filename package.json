@@ -77,12 +77,12 @@
     "markdownlint-cli2": "^0.19.1",
     "prettier": "^3.5.3",
     "seedrandom": "^3.0.5",
-    "semantic-release": "^24.2.0",
+    "semantic-release": "^25.0.2",
     "typescript": "5.9.3",
     "vitest": "^3.1.2"
   },
   "engines": {
-    "node": ">=20.11.0",
+    "node": "^22.14.0 || >=24.10.0",
     "npm": ">=10.2.0"
   },
   "config": {
