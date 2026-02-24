@@ -24,6 +24,15 @@
             "value": "*"
           }
         ]
+      },
+      {
+        "source" : "/shades/*",
+        "headers":[
+          {
+            "key": "Access-Control-Allow-Origin",
+            "value": "*"
+          }
+        ]
       }
     ]
   }

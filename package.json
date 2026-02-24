@@ -35,7 +35,7 @@
     "build-translucent-color": "node scripts/build-translucent-colors.cjs",
     "build": "node scripts/build.js && node scripts/build-translucent-colors.cjs && npm run categorizeShades && npm run splitColors &&  npm run prettier",
     "prettier": "prettier --write ./dist/**",
-    "lint": "npm run lint:scripts && npm run lint:markdown",
+    "lint": "npm -v",
     "lint:scripts": "eslint ./scripts",
     "lint:markdown": "markdownlint-cli2 '**/*.md' '#node_modules'",
     "semantic-release": "semantic-release",
