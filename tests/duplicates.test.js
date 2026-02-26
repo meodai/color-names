@@ -162,7 +162,7 @@ describe('Duplicate-like color names', () => {
       // Build detailed section: groups with line numbers (stable + unique)
       const details = [];
       conflicts
-        .sort((a, b) => a.norm.localeCompare(b.norm))
+        .sort((a, b) => a.norm.localeCompare(b.norm, 'en'))
         .forEach(({ norm, entries }) => {
           const unique = [];
           const seen = new Set();
@@ -329,7 +329,7 @@ describe('Duplicate-like color names', () => {
       const offenderNames = new Set();
 
       conflicts
-        .sort((a, b) => a.tokens.join(' ').localeCompare(b.tokens.join(' ')))
+        .sort((a, b) => a.tokens.join(' ').localeCompare(b.tokens.join(' '), 'en'))
         .forEach(({ tokens, entries }) => {
           const [a, b] = tokens;
           details.push(`  • ${a} / ${b}:`);
