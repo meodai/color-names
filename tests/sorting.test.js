@@ -24,7 +24,7 @@ describe('Source CSV sorting', () => {
     for (let i = 1; i < entries.length; i++) {
       const prev = entries[i - 1];
       const curr = entries[i];
-      if (prev.lower.localeCompare(curr.lower) > 0) {
+      if (prev.lower.localeCompare(curr.lower, 'en') > 0) {
         throw new Error(
           [
             'Source file src/colornames.csv is not sorted alphabetically by name.',
