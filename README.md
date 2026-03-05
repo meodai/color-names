@@ -54,7 +54,7 @@ Unlike many other color lists, this collection has a
   articles, normalized "and" forms, and proper apostrophes.
 - __Valid, unique data__ ✅: Every entry has a valid hex code, no stray
   whitespace, and no duplicate names or values.
-- __Grown by a global community__ 🌍: Hundredths of contributors keep the
+- __Grown by a global community__ 🌍: Hundreds of contributors keep the
   list fresh, weird, poetic, and alive.
 - __Humanly curated__ 🧠: Human curators review and shape every entry, and we
   discourage AI‑generated names so the list stays intentional and playful.
