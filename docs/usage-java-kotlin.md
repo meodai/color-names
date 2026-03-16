@@ -7,11 +7,11 @@ Java/Kotlin support is provided by
 
 ```kts
 repositories {
-  maven("https://jitpack.io")
+  maven("https://repo.aroze.me/repository/public/")
 }
 
 dependencies {
-  implementation("me.aroze:color-names:1.0.4")
+  implementation("me.aroze:color-names:1.0.5")
 }
 ```
 
@@ -19,14 +19,14 @@ dependencies {
 
 ```xml
 <repository>
-  <id>jitpack.io</id>
-  <url>https://jitpack.io</url>
+  <id>aroze</id>
+  <url>https://repo.aroze.me/repository/public/</url>
 </repository>
 
 <dependency>
   <groupId>me.aroze</groupId>
   <artifactId>color-names</artifactId>
-  <version>1.0.4</version>
+  <version>1.0.5</version>
 </dependency>
 ```
 
