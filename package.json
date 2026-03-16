@@ -45,6 +45,9 @@
     "type": "git",
     "url": "https://github.com/meodai/color-names.git"
   },
+  "publishConfig": {
+    "provenance": true
+  },
   "keywords": [
     "colors",
     "color",

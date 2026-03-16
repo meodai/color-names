@@ -6,6 +6,12 @@ on:
   # Allow manual triggering
   workflow_dispatch:
 
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+  id-token: write
+
 jobs:
   build-history-release:
     name: Build, Update History and Release
@@ -21,6 +27,7 @@ jobs:
         with:
           node-version: 22.14.0
           cache: 'npm'
+          registry-url: 'https://registry.npmjs.org'
       - name: Use npm 11.6.0
         run: |
           corepack enable
@@ -58,5 +65,4 @@ jobs:
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: npx semantic-release
