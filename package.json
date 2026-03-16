@@ -34,7 +34,7 @@
     "prettier": "prettier --write ./dist/*",
     "lint": "npm run lint:scripts && npm run lint:markdown",
     "lint:scripts": "eslint ./scripts",
-    "lint:markdown": "markdownlint-cli2 '**/*.md' '#node_modules'",
+    "lint:markdown": "markdownlint-cli2 '**/*.md' '#node_modules' '#site/node_modules'",
     "semantic-release": "semantic-release",
     "build-history": "node scripts/tools/history.js > dist/history.json",
     "history": "node scripts/tools/history.js > dist/history.json",
