@@ -65,7 +65,8 @@ unless the name is something typically U.S. (e.g., `Tuscan Red` is fine).
 ## Generated Files and CI
 
 - PRs run `npm ci`, `npm run build`, and `npm test` in CI.
-- CI may update `README.md` and `changes.svg` automatically and push to your PR branch.
+- CI may update `README.md` and `changes.svg` automatically and push to your
+  PR branch.
 - **Do not include generated files** (`dist/`, `README.md`, `changes.svg`) in
 your commits.
 - For color name changes, only submit updates to `src/colornames.csv`.
