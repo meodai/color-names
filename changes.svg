@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 150">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 500">
   <defs>
     <style type="text/css">
       @import url('https://rsms.me/inter/inter.css');
@@ -9,6 +9,6 @@
       }
     </style>
   </defs>
-  <rect fill="#212121" x="0" y="0" width="600" height="150"/>
-  <text x="40" y="90" fill="#6a8e22">Asparagus Sultan</text>
+  <rect fill="#212121" x="0" y="0" width="600" height="500"/>
+  <text x="40" y="90" fill="#4e8747">Beanpole</text><text x="40" y="160" fill="#e6c7a2">Egghead</text><text x="40" y="230" fill="#c5a049">Goldbricker</text><text x="40" y="300" fill="#d9c948">Lanky Lemon</text><text x="40" y="370" fill="#934c1d">Nightcap</text><text x="40" y="440" fill="#2d1403">Shadow Play</text>
 </svg>
