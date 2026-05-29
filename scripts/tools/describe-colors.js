@@ -1,7 +1,7 @@
 /**
  * Generates short, AI-written descriptions for colors using a local Ollama model.
  *
- * Reads src/colornames.csv, writes one JSON record per line to src/descriptions.jsonl
+ * Reads src/colornames.csv, writes a JSON array to src/descriptions.json
  * keyed by the (name, hex) pair. Records carry `ai: true` to mark them as
  * machine-generated; hand-written entries should set `ai: false`. The run is
  * resumable: colors already present in the output file are skipped, so you can
@@ -22,7 +22,7 @@
  *   --think            Let reasoning models reason about the name before answering
  *                      (slower; can improve pickup of cultural references).
  *   --host=URL         Ollama host (default env OLLAMA_HOST or http://127.0.0.1:11434).
- *   --out=PATH         Output JSONL path (default src/descriptions.jsonl).
+ *   --out=PATH         Output JSON path (default src/descriptions.json).
  *   --force            Regenerate descriptions for colors already in the output file.
  */
 
@@ -54,7 +54,7 @@ const config = {
   model: getOpt('model', process.env.OLLAMA_MODEL || 'gemma4:31b'),
   temperature: Number(getOpt('temperature', 0.8)),
   host: (getOpt('host', process.env.OLLAMA_HOST || 'http://127.0.0.1:11434')).replace(/\/$/, ''),
-  out: path.normalize(getOpt('out', `${baseFolder}src/descriptions.jsonl`)),
+  out: path.normalize(getOpt('out', `${baseFolder}src/descriptions.json`)),
 };
 
 // --- color analysis -----------------------------------------------------------
@@ -240,20 +240,22 @@ const generate = (name, hex) =>
 
 const keyOf = (name, hex) => `${name} ${hex}`;
 
-const loadExistingKeys = (outPath) => {
-  const keys = new Set();
-  if (!fs.existsSync(outPath)) return keys;
-  const lines = fs.readFileSync(outPath, 'utf8').split('\n');
-  for (const line of lines) {
-    if (!line.trim()) continue;
-    try {
-      const rec = JSON.parse(line);
-      if (rec.name && rec.hex) keys.add(keyOf(rec.name, rec.hex));
-    } catch {
-      // ignore malformed lines; the test suite will catch them
-    }
+const loadExistingDescriptions = (outPath) => {
+  if (!fs.existsSync(outPath)) return [];
+  try {
+    const data = JSON.parse(fs.readFileSync(outPath, 'utf8'));
+    return Array.isArray(data) ? data : [];
+  } catch {
+    // ignore malformed files; the test suite will catch them
+    return [];
   }
-  return keys;
+};
+
+const writeDescriptions = (outPath, records) => {
+  // Write via temp file + rename to avoid partial writes on interruption.
+  const tmpPath = `${outPath}.tmp`;
+  fs.writeFileSync(tmpPath, `${JSON.stringify(records, null, 2)}\n`);
+  fs.renameSync(tmpPath, outPath);
 };
 
 // --- main ---------------------------------------------------------------------
@@ -266,8 +268,13 @@ const main = async () => {
 
   const targets = entries.filter((e) => (config.all ? true : e[bestOfKey]));
 
-  const existing = config.force ? new Set() : loadExistingKeys(config.out);
-  const todo = targets.filter((e) => !existing.has(keyOf(e.name, e.hex)));
+  const existingRecords = config.force ? [] : loadExistingDescriptions(config.out);
+  const existingMap = new Map(
+    existingRecords
+      .filter((rec) => rec && rec.name && rec.hex)
+      .map((rec) => [keyOf(rec.name, rec.hex), rec])
+  );
+  const todo = targets.filter((e) => !existingMap.has(keyOf(e.name, e.hex)));
 
   console.log(`Model:    ${config.model}`);
   console.log(`Host:     ${config.host}`);
@@ -279,10 +286,11 @@ const main = async () => {
   if (Number.isFinite(config.limit)) console.log(`Limit:    ${config.limit} this run`);
   console.log('');
 
-  // ensure the file (and parent dir) exist for clean appends.
-  // --force regenerates from scratch, so truncate any existing output.
+  // Ensure parent dir exists and initialize output for resumable writes.
   fs.mkdirSync(path.dirname(config.out), { recursive: true });
-  if (config.force || !fs.existsSync(config.out)) fs.writeFileSync(config.out, '');
+  if (config.force || !fs.existsSync(config.out)) {
+    writeDescriptions(config.out, []);
+  }
 
   let stopRequested = false;
   process.on('SIGINT', () => {
@@ -291,7 +299,8 @@ const main = async () => {
   });
 
   // Guard against ever writing the same (name, hex) twice in one run.
-  const written = new Set(existing);
+  const written = new Set(existingMap.keys());
+  const outputRecords = [...existingMap.values()];
 
   let made = 0;
   for (const entry of todo) {
@@ -306,7 +315,8 @@ const main = async () => {
         console.warn(`! empty description for "${name}" (${hex}) — skipped`);
         continue;
       }
-      fs.appendFileSync(config.out, JSON.stringify({ name, hex, ai: true, description }) + '\n');
+      outputRecords.push({ name, hex, ai: true, description });
+      writeDescriptions(config.out, outputRecords);
       written.add(key);
       made += 1;
       console.log(`✓ ${made}/${Math.min(todo.length, config.limit)}  ${name} ${hex}`);
