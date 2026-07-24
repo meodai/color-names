@@ -74,7 +74,7 @@
     "eslint-plugin-prettier": "^5.2.6",
     "globals": "^16.0.0",
     "husky": "^9.1.6",
-    "markdownlint-cli2": "^0.22.0",
+    "markdownlint-cli2": "^0.23.1",
     "prettier": "^3.5.3",
     "seedrandom": "^3.0.5",
     "semantic-release": "^25.0.2",
