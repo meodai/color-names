@@ -104,6 +104,7 @@ Other language implementations maintained by the community:
 - Java/Kotlin: [docs/usage-java-kotlin.md](docs/usage-java-kotlin.md)
 - C#: [docs/usage-csharp.md](docs/usage-csharp.md)
 - Rust: [docs/usage-rust.md](docs/usage-rust.md)
+- Swift: [docs/usage-swift.md](docs/usage-swift.md)
 
 ## Explore 🌍
 
@@ -238,11 +239,12 @@ npm install && npm run build
 
 See [package.json](package.json#L6) for details.
 
-### Java/Kotlin, C#, Rust
+### Java/Kotlin, C#, Rust, Swift
 
 - [docs/usage-java-kotlin.md](docs/usage-java-kotlin.md)
 - [docs/usage-csharp.md](docs/usage-csharp.md)
 - [docs/usage-rust.md](docs/usage-rust.md)
+- [docs/usage-swift.md](docs/usage-swift.md)
 
 ## Sources 🗒
 
