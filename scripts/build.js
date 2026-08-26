@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { parseCSVString, objArrToString } from './lib.js';
-import { exec } from 'child_process';
+import { execFile } from 'child_process';
 
 // setting
 const __dirname = path.dirname(new URL(import.meta.url).pathname);
@@ -315,8 +315,9 @@ const svgTpl = fs.readFileSync(path.normalize(__dirname + '/changes.svg.tpl'), '
 // generates an SVG image with the new colors based on the diff between the last two commits that changed the file
 function diffSVG() {
   // Get the last two commits that modified the CSV file
-  exec(
-    `git log -n 2 --pretty=format:"%H" -- ${baseFolder}${folderSrc}${fileNameSrc}.csv`,
+  execFile(
+    'git',
+    ['log', '-n', '2', '--pretty=format:%H', '--', `${baseFolder}${folderSrc}${fileNameSrc}.csv`],
     function (err, stdout, stderr) {
       if (err) {
         console.error('Error getting commit history:', err);
@@ -332,9 +333,17 @@ function diffSVG() {
       const newerCommit = commits[0];
       const olderCommit = commits[1];
 
+      // Validate commit hashes to prevent command injection
+      const shaRegex = /^[0-9a-f]{40}$/;
+      if (!shaRegex.test(newerCommit) || !shaRegex.test(olderCommit)) {
+        console.error('Invalid commit hash format');
+        return;
+      }
+
       // Compare the two commits
-      exec(
-        `git diff -w -U0 ${olderCommit} ${newerCommit} -- ${baseFolder}${folderSrc}${fileNameSrc}.csv`,
+      execFile(
+        'git',
+        ['diff', '-w', '-U0', olderCommit, newerCommit, '--', `${baseFolder}${folderSrc}${fileNameSrc}.csv`],
         function (err, stdout, stderr) {
           if (err) {
             console.error('Error generating diff:', err);
