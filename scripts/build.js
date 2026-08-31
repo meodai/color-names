@@ -333,13 +333,6 @@ function diffSVG() {
       const newerCommit = commits[0];
       const olderCommit = commits[1];
 
-      // Validate commit hashes to prevent command injection
-      const shaRegex = /^[0-9a-f]{40}$/;
-      if (!shaRegex.test(newerCommit) || !shaRegex.test(olderCommit)) {
-        console.error('Invalid commit hash format');
-        return;
-      }
-
       // Compare the two commits
       execFile(
         'git',
