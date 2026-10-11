@@ -1,8 +1,10 @@
 # Every night: keeps the website's copy of what Wikipedia and Wiktionary say
 # about each color name (the website-data branch) up to date. Names new on
 # the list are fetched, and the oldest copies renewed, 1/180 of the list a
-# night, so each copy is renewed about every six months. Then the site is
-# rebuilt with it. The script lives with the website, on project-website.
+# night, so each copy is renewed about every six months; each with the
+# Commons pictures that have its color in them (addresses, not pictures).
+# The rest of the night picks pictures for copies that have none yet. Then
+# the site is rebuilt with it. The script lives with the website, on project-website.
 
 name: Website data
 
@@ -58,7 +60,9 @@ jobs:
         working-directory: website
         env:
           WIKIMEDIA_TOKEN: ${{ secrets.WIKIMEDIA_TOKEN }}
-        run: node scripts/collect.mjs --minutes 300
+        run: |
+          node scripts/collect.mjs --with-pictures --minutes 180
+          node scripts/collect.mjs --pictures --minutes 110
       - if: steps.filling.outputs.skip != 'true'
         name: Save
         working-directory: website/.data
