@@ -1,0 +1,81 @@
+# Every night: keeps the website's copy of what Wikipedia and Wiktionary say
+# about each color name (the website-data branch) up to date. Names new on
+# the list are fetched, and the oldest copies renewed, 1/180 of the list a
+# night, so each copy is renewed about every six months. Then the site is
+# rebuilt with it. The script lives with the website, on project-website.
+
+name: Website data
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: website-data
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: project-website
+      - name: The list as it is on main
+        run: |
+          git fetch --depth 1 origin main
+          git checkout FETCH_HEAD -- src/colornames.csv
+      - uses: actions/checkout@v4
+        with:
+          ref: website-data
+          path: website/.data
+      # a first fill running elsewhere marks itself; then this waits
+      - name: Check for a fill in progress
+        id: filling
+        run: |
+          if [ -f website/.data/FILLING ]; then
+            echo "A first fill is running elsewhere; skipping tonight."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          fi
+      - if: steps.filling.outputs.skip != 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: website/package-lock.json
+      - if: steps.filling.outputs.skip != 'true'
+        name: Install
+        working-directory: website
+        run: npm ci
+      - if: steps.filling.outputs.skip != 'true'
+        name: Collect
+        working-directory: website
+        env:
+          WIKIMEDIA_TOKEN: ${{ secrets.WIKIMEDIA_TOKEN }}
+        run: node scripts/collect.mjs --minutes 300
+      - if: steps.filling.outputs.skip != 'true'
+        name: Save
+        working-directory: website/.data
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing new."
+            exit 0
+          fi
+          git -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -q -m "data: $(date -u +%F)"
+          git push origin HEAD:website-data
+      # a push made with the workflow token doesn't start other workflows;
+      # a dispatch does
+      - if: steps.filling.outputs.skip != 'true'
+        name: Rebuild the site
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run website.yml --ref project-website
