@@ -1,0 +1,40 @@
+# The project website lives on its own branch (project-website), not here.
+# Whenever main changes, this merges main into that branch and starts its
+# deploy, so the site keeps up with the list.
+
+name: Website sync
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: website-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: project-website
+          fetch-depth: 0
+      - name: Merge main into project-website
+        run: |
+          git fetch origin main
+          git -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              merge --no-edit FETCH_HEAD -m "chore(website): merge main"
+          git push origin HEAD:project-website
+      # a push made with the workflow token doesn't start other workflows;
+      # a dispatch does
+      - name: Deploy
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run website.yml --ref project-website
