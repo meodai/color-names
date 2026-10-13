@@ -38,6 +38,7 @@
  *   --api=openai       Talk to an OpenAI-compatible server (vLLM, see modal-llm.py)
  *                      instead of Ollama; --model is then its served name.
  *   --concurrency=N    Colors in flight at once (default 1; 32 suits vLLM).
+ *                      The server's key comes from env DESCRIBE_API_KEY.
  *   --out=PATH         Output JSON path (default src/descriptions.json).
  *   --redo             Rewrite descriptions already in the output file (ai ones only).
  *   --force            Same as --redo.
@@ -142,7 +143,7 @@ const hueGap = (a, b) => Math.min(Math.abs(a - b), 360 - Math.abs(a - b));
 // --- what the name refers to ----------------------------------------------------
 
 let facts = null;
-const loadFacts = () => {
+export const loadFacts = () => {
   facts = new Map();
   const dir = path.join(config.data, 'names');
   if (!fs.existsSync(dir)) {
@@ -173,7 +174,8 @@ const factsFor = (name) => {
   const lines = [];
   for (const entry of (looked.entries || []).slice(0, 3)) {
     const text = entry.blocks?.find((b) => b.text)?.text;
-    if (text) lines.push(`Wikipedia, ${entry.title}: ${firstSentence(text)}`);
+    const exact = entry.title.toLowerCase() === name.toLowerCase() ? ' (this exact name)' : '';
+    if (text) lines.push(`Wikipedia, ${entry.title}${exact}: ${firstSentence(text)}`);
   }
   for (const word of (looked.definitions || []).slice(0, 2)) {
     const sense = word.parts?.[0]?.definitions?.[0];
@@ -186,7 +188,11 @@ const factsFor = (name) => {
 
 export const systemPrompt = `You write one-line descriptions for Color Names, a list of colors named by people.
 
-For each color you get its name, its hex, how it looks in words, and sometimes facts about what the name refers to. Reply with JSON: {"kind": …, "reference": …, "description": …}.
+For each color you get its name, its hex, how it looks in words, and sometimes facts about what the name refers to. Reply with JSON: {"hidden": …, "kind": …, "reference": …, "description": …}.
+
+0. "hidden": say the name aloud and look at the hex. Write down any phrase, word or joke hiding in it
+   ("Teal Deer" sounds like tl;dr, "Berry" can sound like "very", "Beet" like "beaut", "Lettuce" like "let us"),
+   or "" if nothing hides there.
 
 1. Decide the kind first:
    pun        the name is wordplay (24 Carrot = 24 carat)
@@ -197,34 +203,32 @@ For each color you get its name, its hex, how it looks in words, and sometimes f
    thing      a food, plant, material or object (Wasabi, Moss)
    mood       a feeling or moment (Butterfly Kisses)
    plain      an ordinary color term (Teal, Brick Red)
-   Only call it a reference if you are sure what it refers to; the facts help.
-   When a name could mean several things, pick the sense the color fits.
+   Read the name aloud: many are sound-alike puns ("Orange You Glad" = aren't you glad,
+   "Teal Deer" = tl;dr). If saying it makes a familiar phrase, that phrase is the joke.
+   A "Hex reads" line means the hex spells a word; if the word fits the name, the joke is
+   in the hex, so make it the point of the sentence.
+   The facts come from a search and some are beside the point. A fact marked
+   "(this exact name)" is almost always what the name means. Only call it a reference
+   if you are sure what it refers to.
 
 2. "reference": what the joke or allusion is, in a few plain words ("24-carat gold", "Prince, Purple Rain"), or "" if there is none.
 
 3. "description": ONE sentence, 90 characters at most.
    - Make the joke or reference land in plain words. Name the thing, don't explain it: "Prince", not "the late American musician Prince".
+   - Never make up details (a poster, an album cover, a date) that aren't common knowledge.
    - Stay true to how the color looks. Never call it a color it isn't.
    - Be specific and a little playful. Concrete things beat adjectives.
    - Don't repeat the whole name. Mention the hex only when kind is "hex".
    - Don't start with "A" or "The" plus an adjective and a comma.
    - Never use: carries, weight, heavy, reminiscent, mirrors, evokes, captures, embodies, hue, shade of, tone, vibe, aesthetic, palette.`;
 
-// words a hex can spell (0 as o, 1 as i or l, 5 as s), from the system's word
-// list; without one, no hex is taken for a word
-const WORDS = (() => {
-  try {
-    return new Set(
-      fs
-        .readFileSync('/usr/share/dict/words', 'utf8')
-        .split('\n')
-        .map((w) => w.toLowerCase())
-        .filter((w) => w.length >= 4 && /^[abcdefilos]+$/.test(w))
-    );
-  } catch {
-    return new Set();
-  }
-})();
+// common words a hex can spell, reading 0 as o, 1 as i or l, 5 as s
+const WORDS = new Set(
+  `abba babe bade bead beef cafe cede code coded coffee cool dead deaf decaf decade deed
+  deface efface face faced facade fade faded feed fable cable fool food boob boobie dice
+  ice lace laced base case ease cease idle idol bold scale acid aside sale sole seal deal
+  leaf feel fees bees seed seeds dose doodle`.split(/\s+/)
+);
 
 export const spells = (hex) => {
   const h = hex.slice(1).toLowerCase();
@@ -244,7 +248,9 @@ export const spells = (hex) => {
 const hexHint = (hex) => {
   const word = spells(hex);
   return word
-    ? [`Hex reads: ${hex.slice(1).toUpperCase()} (contains "${word.toUpperCase()}")`]
+    ? [
+        `Hex reads: ${hex.slice(1).toUpperCase()} (spells "${word.toUpperCase()}"; if that fits the name, it is the joke)`,
+      ]
     : [];
 };
 
@@ -270,14 +276,34 @@ export const EXAMPLES = [
       ],
     },
     {
+      hidden: '24 Carrot sounds like 24 carat',
       kind: 'pun',
       reference: '24-carat gold',
       description: 'Carrot orange polished to 24 carats: the vegetable patch goes gold.',
     },
   ],
   [
+    { name: 'Orange You Glad', hex: '#ffa601', facts: [] },
+    {
+      hidden: 'the punchline of the knock-knock joke about the banana',
+      kind: 'pun',
+      reference: "knock-knock joke: orange you glad I didn't say banana",
+      description: 'Knock-knock-joke orange, bright and so glad nobody said banana again.',
+    },
+  ],
+  [
+    { name: 'Teal Deer', hex: '#99e6b3', facts: [] },
+    {
+      hidden: 'Teal Deer sounds like tl;dr',
+      kind: 'pun',
+      reference: "tl;dr, too long, didn't read",
+      description: 'Pale minty teal for anyone who skipped to the end: tl;dr, it is green.',
+    },
+  ],
+  [
     { name: 'Alphabet Soup', hex: '#fedcba', facts: [] },
     {
+      hidden: 'the hex FEDCBA is the alphabet backwards',
       kind: 'hex',
       reference: 'the hex is FEDCBA, the alphabet backwards',
       description: 'Its hex spells the alphabet backwards, F to A, into a pale peach broth.',
@@ -286,9 +312,11 @@ export const EXAMPLES = [
   [
     { name: 'Arabica Mint', hex: '#c0ffee', facts: [] },
     {
+      hidden: 'the hex C0FFEE reads coffee',
       kind: 'hex',
       reference: 'the hex reads C0FFEE',
-      description: 'The hex orders C0FFEE; the color arrives as mint, pale as milk foam.',
+      description:
+        'The hex orders coffee, C0FFEE, and the color arrives as mint, pale as milk foam.',
     },
   ],
   [
@@ -300,6 +328,7 @@ export const EXAMPLES = [
       ],
     },
     {
+      hidden: '',
       kind: 'reference',
       reference: 'Prince, Purple Rain',
       description: 'Prince in a cloud of stage smoke, every spotlight turned violet.',
@@ -314,6 +343,7 @@ export const EXAMPLES = [
       ],
     },
     {
+      hidden: '',
       kind: 'reference',
       reference: 'Kermit the Frog',
       description: 'Muppet-felt green, bright enough to sing from a log with a banjo.',
@@ -328,6 +358,7 @@ export const EXAMPLES = [
       ],
     },
     {
+      hidden: '',
       kind: 'reference',
       reference: 'Van Gogh, The Starry Night',
       description: "Van Gogh's swirling night blue, just before the stars start spinning.",
@@ -343,6 +374,7 @@ export const EXAMPLES = [
       ],
     },
     {
+      hidden: '',
       kind: 'reference',
       reference: 'the Manhattan cocktail',
       description: 'Cocktail-hour amber: rye, vermouth and the glow through a bar window.',
@@ -357,6 +389,7 @@ export const EXAMPLES = [
       ],
     },
     {
+      hidden: '',
       kind: 'place',
       reference: 'Big Cypress National Preserve, Florida',
       description: 'Weathered cypress bark and dry prairie at the edge of the Everglades.',
@@ -369,6 +402,7 @@ export const EXAMPLES = [
       facts: ['Wiktionary, cerise: A deep red colour, like that of cherries.'],
     },
     {
+      hidden: '',
       kind: 'word',
       reference: 'French for cherry',
       description: 'French for cherry, the dark, staining kind rather than the candy one.',
@@ -381,6 +415,7 @@ export const EXAMPLES = [
       facts: ['Wiktionary, taupe: A brownish-grey colour, like that of moleskin.'],
     },
     {
+      hidden: '',
       kind: 'word',
       reference: 'French for mole',
       description: 'French for mole, though this one has dug its way up into dry sand.',
@@ -389,6 +424,7 @@ export const EXAMPLES = [
   [
     { name: 'Wasabi', hex: '#afd77f', facts: [] },
     {
+      hidden: '',
       kind: 'thing',
       reference: '',
       description: 'Soft green with a kick: the dab on the sushi plate you underestimate once.',
@@ -397,6 +433,7 @@ export const EXAMPLES = [
   [
     { name: 'Butterfly Kisses', hex: '#f0dedc', facts: [] },
     {
+      hidden: '',
       kind: 'mood',
       reference: '',
       description: 'Barely-there blush, like an eyelash brushed across a cheek.',
@@ -409,6 +446,7 @@ export const EXAMPLES = [
       facts: ['Wiktionary, teal: A small dabbling duck of the genus Anas.'],
     },
     {
+      hidden: '',
       kind: 'plain',
       reference: '',
       description: 'Blue-green split down the middle, named after the stripe on a small duck.',
@@ -424,6 +462,7 @@ const examplesAsChat = EXAMPLES.flatMap(([color, answer]) => [
 const SCHEMA = {
   type: 'object',
   properties: {
+    hidden: { type: 'string' },
     kind: {
       type: 'string',
       enum: ['pun', 'hex', 'reference', 'place', 'word', 'thing', 'mood', 'plain'],
@@ -431,7 +470,7 @@ const SCHEMA = {
     reference: { type: 'string' },
     description: { type: 'string' },
   },
-  required: ['kind', 'reference', 'description'],
+  required: ['hidden', 'kind', 'reference', 'description'],
 };
 
 // --- checks ---------------------------------------------------------------------
@@ -439,9 +478,26 @@ const SCHEMA = {
 const WORN =
   /\b(carr(y|ies|ying)|weight\w*|heav(y|ily)|reminisc\w*|mirror\w*|evok\w*|captur\w*|embod\w*|hue|shade of|tone|vibe|aesthetic|palette)\b/i;
 
-export const problemsWith = ({ kind, reference = '', description = '' }, { name, hex }) => {
+// the words of a hidden phrase the name doesn't already have ("very" for
+// Berry Curious, "beautiful" for Beetiful Magenta)
+const hiddenWords = (hidden, name) => {
+  const phrase = hidden.match(/(?:sounds like|reads|spells)\s+["']?([^"'()]+)/i)?.[1] || '';
+  const own = name.toLowerCase();
+  return phrase
+    .toLowerCase()
+    .split(/[^a-z;]+/)
+    .filter((w) => w.length >= 3 && !own.includes(w));
+};
+
+export const problemsWith = (
+  { hidden = '', kind, reference = '', description = '' },
+  { name, hex }
+) => {
   if (!description) return ['The description is empty.'];
   const problems = [];
+  const words = hiddenWords(hidden, name);
+  if (words.length && !words.some((w) => description.toLowerCase().includes(w.slice(0, 5))))
+    problems.push(`The joke is "${hidden}"; make the sentence play on it.`);
   if (description.length > MAX_LENGTH)
     problems.push(`It is ${description.length} characters; say it in 90 or fewer.`);
   if ((description.match(/[.!?](\s|$)/g) || []).length > 1)
@@ -499,7 +555,12 @@ const openai = async ({ host, model, temperature, messages }) => {
   for (let attempt = 1; ; attempt++) {
     const res = await fetch(`${host}/v1/chat/completions`, {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
+      headers: {
+        'Content-Type': 'application/json',
+        ...(process.env.DESCRIBE_API_KEY
+          ? { Authorization: `Bearer ${process.env.DESCRIBE_API_KEY}` }
+          : {}),
+      },
       body: JSON.stringify({
         model,
         messages,
@@ -645,6 +706,7 @@ const main = async () => {
         hex,
         ai: true,
         kind: answer.kind,
+        ...(answer.hidden ? { hidden: answer.hidden } : {}),
         ...(answer.reference ? { reference: answer.reference } : {}),
         description: answer.description,
         model: config.model,
