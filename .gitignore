@@ -1,2 +1,8 @@
 node_modules
 dist/
+
+# website/ local files (also ignored by website/.gitignore on project-website)
+*.local
+website/public/added.json
+website/.data/
+website/.data-*.log

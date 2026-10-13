@@ -12,6 +12,7 @@ added or adjusted.
 the relevant allowlist JSON in `tests/`) — no changes to `dist/`, `README.md`,
 or `changes.svg`.
 - [ ] Each line ends with a trailing comma (e.g., `My Color,#ff5733,`).
+- [ ] Color entries are sorted alphabetically by color name.
 - [ ] New color names:
   - [ ] Convey a specific color (not just a vibe or reference).
   - [ ] Follow the "Rules for new color names" (no racist/offensive/obscene/

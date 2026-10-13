@@ -13,7 +13,7 @@
 [![npm](https://img.shields.io/npm/dt/color-name-list.svg)](https://www.npmjs.com/package/color-name-list)
 [![github sponsor count](https://img.shields.io/github/sponsors/meodai)](https://github.com/sponsors/meodai)
 
-A meticulously curated collection of __31903__ unique color names, built from
+A meticulously curated collection of __31936__ unique color names, built from
 [many sources](#sources-) and thousands of community contributions.
 
 > The names of color function like a thread attached to a frightfully slender
@@ -104,6 +104,7 @@ Other language implementations maintained by the community:
 - Java/Kotlin: [docs/usage-java-kotlin.md](docs/usage-java-kotlin.md)
 - C#: [docs/usage-csharp.md](docs/usage-csharp.md)
 - Rust: [docs/usage-rust.md](docs/usage-rust.md)
+- Swift: [docs/usage-swift.md](docs/usage-swift.md)
 
 ## Explore 🌍
 
@@ -131,7 +132,7 @@ and ensure tests pass locally (`npm test`).
 See the full guidelines in [CONTRIBUTING.md](CONTRIBUTING.md) for naming
 rules, capitalization, CI behavior, and more.
 
-## Color Count: __31903__ 🎉
+## Color Count: __31936__ 🎉
 
 ~__0.19%__ of the RGB color space
 
@@ -238,11 +239,12 @@ npm install && npm run build
 
 See [package.json](package.json#L6) for details.
 
-### Java/Kotlin, C#, Rust
+### Java/Kotlin, C#, Rust, Swift
 
 - [docs/usage-java-kotlin.md](docs/usage-java-kotlin.md)
 - [docs/usage-csharp.md](docs/usage-csharp.md)
 - [docs/usage-rust.md](docs/usage-rust.md)
+- [docs/usage-swift.md](docs/usage-swift.md)
 
 ## Sources 🗒
 
