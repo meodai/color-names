@@ -33,7 +33,11 @@
  *                      better at puns and references).
  *   --data=PATH        The website's data folder (website-data branch), for the
  *                      Wikipedia/Wiktionary facts (default website/.data).
- *   --host=URL         Ollama host (default env OLLAMA_HOST or http://127.0.0.1:11434).
+ *   --host=URL         Ollama host (default env OLLAMA_HOST or http://127.0.0.1:11434),
+ *                      or the server's address with --api=openai.
+ *   --api=openai       Talk to an OpenAI-compatible server (vLLM, see modal-llm.py)
+ *                      instead of Ollama; --model is then its served name.
+ *   --concurrency=N    Colors in flight at once (default 1; 32 suits vLLM).
  *   --out=PATH         Output JSON path (default src/descriptions.json).
  *   --redo             Rewrite descriptions already in the output file (ai ones only).
  *   --force            Same as --redo.
@@ -67,6 +71,8 @@ const config = {
     .map((n) => n.trim())
     .filter(Boolean),
   limit: Number(getOpt('limit', Infinity)),
+  api: getOpt('api', 'ollama'),
+  concurrency: Number(getOpt('concurrency', 1)),
   model: getOpt('model', process.env.OLLAMA_MODEL || 'gemma4:31b'),
   temperature: Number(getOpt('temperature', 0.7)),
   host: getOpt('host', process.env.OLLAMA_HOST || 'http://127.0.0.1:11434').replace(/\/$/, ''),
@@ -472,7 +478,7 @@ export const cleanResponse = (text) =>
     .replace(/^["'`]+|["'`]+$/g, '')
     .trim();
 
-const chat = async ({ host, model, temperature, think, messages }) => {
+const ollama = async ({ host, model, temperature, think, messages }) => {
   const res = await fetch(`${host}/api/chat`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
@@ -486,8 +492,36 @@ const chat = async ({ host, model, temperature, think, messages }) => {
     }),
   });
   if (!res.ok) throw new Error(`Ollama responded ${res.status}: ${await res.text()}`);
-  const data = await res.json();
-  const answer = JSON.parse(data.message?.content || '{}');
+  return (await res.json()).message?.content;
+};
+
+const openai = async ({ host, model, temperature, messages }) => {
+  for (let attempt = 1; ; attempt++) {
+    const res = await fetch(`${host}/v1/chat/completions`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        model,
+        messages,
+        temperature,
+        max_tokens: 200,
+        response_format: {
+          type: 'json_schema',
+          json_schema: { name: 'description', schema: SCHEMA },
+        },
+      }),
+    });
+    if (res.ok) return (await res.json()).choices?.[0]?.message?.content;
+    // a server still starting or busy answers 5xx for a while
+    if (res.status < 500 || attempt >= 8)
+      throw new Error(`Server responded ${res.status}: ${await res.text()}`);
+    await new Promise((r) => setTimeout(r, 15000));
+  }
+};
+
+const chat = async (options) => {
+  const content = await (config.api === 'openai' ? openai : ollama)(options);
+  const answer = JSON.parse(content || '{}');
   return { ...answer, description: cleanResponse(answer.description || '') };
 };
 
@@ -589,8 +623,10 @@ const main = async () => {
 
   let made = 0;
   let flagged = 0;
-  for (const { name, hex } of todo) {
-    if (stopRequested || made >= config.limit) break;
+  let unsaved = 0;
+  const queue = todo.slice(0, Number.isFinite(config.limit) ? config.limit : todo.length);
+  const total = queue.length;
+  const one = async ({ name, hex }) => {
     try {
       const { answer, problems } = await describe({
         host: config.host,
@@ -602,7 +638,7 @@ const main = async () => {
       });
       if (!answer.description) {
         console.warn(`! empty description for "${name}" (${hex}) — skipped`);
-        continue;
+        return;
       }
       existing.set(keyOf(name, hex), {
         name,
@@ -614,22 +650,31 @@ const main = async () => {
         model: config.model,
         ...(problems.length ? { review: problems } : {}),
       });
-      writeDescriptions(config.out, [...existing.values()]);
       made += 1;
       if (problems.length) flagged += 1;
+      if (++unsaved >= 50) {
+        writeDescriptions(config.out, [...existing.values()]);
+        unsaved = 0;
+      }
       console.log(
-        `${problems.length ? '?' : '✓'} ${made}/${Math.min(todo.length, config.limit)}  ${name} ${hex}  [${answer.kind}]`
+        `${problems.length ? '?' : '✓'} ${made}/${total}  ${name} ${hex}  [${answer.kind}]`
       );
       console.log(`    ${answer.description}`);
       if (problems.length) console.log(`    review: ${problems.join(' ')}`);
     } catch (err) {
       console.error(`✗ failed for "${name}" (${hex}): ${err.message}`);
-      if (/fetch failed|ECONNREFUSED/.test(err.message)) {
+      if (/fetch failed|ECONNREFUSED/.test(err.message) && config.api === 'ollama') {
         console.error('\nIs Ollama running? Try: ollama serve');
         process.exit(1);
       }
     }
-  }
+  };
+  await Promise.all(
+    Array.from({ length: Math.max(1, config.concurrency) }, async () => {
+      while (queue.length && !stopRequested) await one(queue.shift());
+    })
+  );
+  writeDescriptions(config.out, [...existing.values()]);
 
   console.log(
     `\nDone. Wrote ${made} description(s) to ${path.relative(baseFolder, config.out)}` +
