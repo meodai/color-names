@@ -5,4 +5,6 @@ dist/
 *.local
 website/public/added.json
 website/.data/
+website/.descriptions/
 website/.data-*.log
+website/.cache/
