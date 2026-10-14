@@ -192,7 +192,7 @@ For each color you get its name, its hex, how it looks in words, and sometimes f
 
 0. "hidden": say the name aloud and look at the hex. Write down any phrase, word or joke hiding in it
    ("Teal Deer" sounds like tl;dr, "Berry" can sound like "very", "Beet" like "beaut", "Lettuce" like "let us"),
-   or "" if nothing hides there.
+   or a twisted idiom ("Tickle Me Pink" plays on "tickled pink"), or "" if nothing hides there.
 
 1. Decide the kind first:
    pun        the name is wordplay (24 Carrot = 24 carat)
@@ -208,7 +208,8 @@ For each color you get its name, its hex, how it looks in words, and sometimes f
    A "Hex reads" line means the hex spells a word; if the word fits the name, the joke is
    in the hex, so make it the point of the sentence.
    The facts come from a search and some are beside the point. A fact marked
-   "(this exact name)" is almost always what the name means. Only call it a reference
+   "(this exact name)" is what the name means: describe that thing, not the words it is made of
+   ("Paris green" is a pigment, not a park in Paris). Only call it a reference
    if you are sure what it refers to.
 
 2. "reference": what the joke or allusion is, in a few plain words ("24-carat gold", "Prince, Purple Rain"), or "" if there is none.
