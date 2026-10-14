@@ -1,0 +1,59 @@
+# Every day: copies the Wikimedia pictures the website shows into the
+# color-names bucket (media.color.pizza), with their authors and licenses,
+# and keeps the index in the website-data branch. The script lives with the
+# website, on project-website.
+
+name: Website media
+
+on:
+  schedule:
+    - cron: "17 13 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: website-data
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: project-website
+      - uses: actions/checkout@v4
+        with:
+          ref: website-data
+          path: website/.data
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: website/package-lock.json
+      - name: Install
+        working-directory: website
+        run: npm ci
+      - name: Copy
+        working-directory: website
+        env:
+          WIKIMEDIA_TOKEN: ${{ secrets.WIKIMEDIA_TOKEN }}
+          UPLOAD_URL: ${{ vars.UPLOAD_URL }}
+          UPLOAD_KEY: ${{ secrets.UPLOAD_KEY }}
+        run: node scripts/mirror.mjs --minutes 300
+      - name: Save
+        working-directory: website/.data
+        run: |
+          git add media.json
+          if git diff --cached --quiet; then
+            echo "Nothing new."
+            exit 0
+          fi
+          git -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -q -m "media: $(date -u +%F)"
+          git pull -q --rebase origin website-data
+          git push origin HEAD:website-data
