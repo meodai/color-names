@@ -2,7 +2,7 @@
   align="left"
   height="119"
   width="119"
-  src="https://meodai.github.io/color-names/logo/cockatoo-fill.svg"
+  src="https://names.color.pizza/logo/cockatoo-fill.svg"
   alt="Color Names Logo"
 />
 
