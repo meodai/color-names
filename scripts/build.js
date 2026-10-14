@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { parseCSVString, objArrToString } from './lib.js';
-import { execFile } from 'child_process';
+import { execFileSync } from 'child_process';
 
 // setting
 const __dirname = path.dirname(new URL(import.meta.url).pathname);
@@ -312,75 +312,56 @@ fs.writeFileSync(
 // gets SVG template
 const svgTpl = fs.readFileSync(path.normalize(__dirname + '/changes.svg.tpl'), 'utf8').toString();
 
-// generates an SVG image with the new colors based on the diff between the last two commits that changed the file
+// generates an SVG image with the names added by the latest commit that added any;
+// commits that only remove names or change markers are skipped
 function diffSVG() {
-  // Get the last two commits that modified the CSV file
-  execFile(
-    'git',
-    ['log', '-n', '2', '--pretty=format:%H', '--', `${baseFolder}${folderSrc}${fileNameSrc}.csv`],
-    function (err, stdout, stderr) {
-      if (err) {
-        console.error('Error getting commit history:', err);
-        return;
-      }
+  const csv = `${folderSrc}${fileNameSrc}.csv`;
+  let commits;
+  try {
+    commits = execFileSync('git', ['log', '-n', '50', '--pretty=format:%H', '--', csv], {
+      cwd: baseFolder,
+      encoding: 'utf8',
+    })
+      .trim()
+      .split('\n');
+  } catch (err) {
+    console.error('Error getting commit history:', err);
+    return;
+  }
 
-      const commits = stdout.trim().split('\n');
-      if (commits.length < 2) {
-        console.log('Not enough commit history to generate diff');
-        return;
-      }
+  const rowsAt = (commit) =>
+    execFileSync('git', ['show', `${commit}:${csv}`], {
+      cwd: baseFolder,
+      encoding: 'utf8',
+      maxBuffer: 64 * 1024 * 1024,
+    })
+      .split(/\r?\n/)
+      .slice(1)
+      .filter(Boolean)
+      .map((line) => line.split(','));
 
-      const newerCommit = commits[0];
-      const olderCommit = commits[1];
+  let added = [];
+  for (let i = 0; i + 1 < commits.length && !added.length; i++) {
+    const before = new Set(rowsAt(commits[i + 1]).map(([name]) => name));
+    added = rowsAt(commits[i]).filter(([name]) => !before.has(name));
+  }
+  if (!added.length) {
+    console.log('No new colors in the recent history');
+    return;
+  }
 
-      // Compare the two commits
-      execFile(
-        'git',
-        ['diff', '-w', '-U0', olderCommit, newerCommit, '--', `${baseFolder}${folderSrc}${fileNameSrc}.csv`],
-        function (err, stdout, stderr) {
-          if (err) {
-            console.error('Error generating diff:', err);
-            return;
-          }
-
-          const diffTxt = stdout;
-          if (!/(?<=^[+])[^+].*/gm.test(diffTxt)) {
-            console.log('No changes detected in the color file');
-            return;
-          }
-
-          const changes = diffTxt.match(/(?<=^[+])[^+].*/gm).filter((i) => i);
-
-          // Filter out the header line if it was included in the diff
-          const filteredChanges = changes.filter((line) => !line.startsWith('name,hex'));
-
-          if (filteredChanges.length === 0) {
-            console.log('No color changes detected');
-            return;
-          }
-
-          const svgTxtStr = filteredChanges.reduce((str, change, i) => {
-            const changeParts = change.split(',');
-            // Make sure we have both the name and hex color
-            if (changeParts.length < 2) return str;
-
-            return `${str}<text x="40" y="${20 + (i + 1) * 70}" fill="${
-              changeParts[1]
-            }">${changeParts[0].replace(/&/g, '&amp;')}</text>`;
-          }, '');
-
-          fs.writeFileSync(
-            path.normalize(`${baseFolder}changes.svg`),
-            svgTpl
-              .replace(/{height}/g, filteredChanges.length * 70 + 80)
-              .replace(/{items}/g, svgTxtStr)
-          );
-
-          console.log(`Generated SVG showing ${filteredChanges.length} new color(s)`);
-        }
-      );
-    }
+  const svgTxtStr = added.reduce(
+    (str, [name, hex], i) =>
+      `${str}<text x="40" y="${20 + (i + 1) * 70}" fill="${hex}">${name.replace(/&/g, '&amp;')}</text>`,
+    ''
   );
+
+  fs.writeFileSync(
+    path.normalize(`${baseFolder}changes.svg`),
+    svgTpl.replace(/{height}/g, added.length * 70 + 80).replace(/{items}/g, svgTxtStr)
+  );
+
+  console.log(`Generated SVG showing ${added.length} new color(s)`);
 }
 
 diffSVG();

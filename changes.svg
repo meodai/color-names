@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 150">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 430">
   <defs>
     <style type="text/css">
       @import url('https://rsms.me/inter/inter.css');
@@ -9,6 +9,6 @@
       }
     </style>
   </defs>
-  <rect fill="#212121" x="0" y="0" width="600" height="150"/>
-  <text x="40" y="90" fill="#559260">Medusa</text>
+  <rect fill="#212121" x="0" y="0" width="600" height="430"/>
+  <text x="40" y="90" fill="#3b193f">Creatures of the Night</text><text x="40" y="160" fill="#4c022f">Evil Empire</text><text x="40" y="230" fill="#2c3d28">Gothic Horror</text><text x="40" y="300" fill="#661449">Macabre Sensation</text><text x="40" y="370" fill="#559260">Medusa</text>
 </svg>
