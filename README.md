@@ -1,3 +1,0 @@
-# color-names
-
-Docs website
