@@ -15,10 +15,12 @@ jobs:
     if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout the merged main
+      # main, which holds the merge already: GitHub won't check out a fork's commit here,
+      # and the script only reads the list, never the pull request's code
+      - name: Checkout main
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.pull_request.merge_commit_sha }}
+          ref: ${{ github.event.pull_request.base.ref }}
           fetch-depth: 0
 
       - name: Setup Node.js
