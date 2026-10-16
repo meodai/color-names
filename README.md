@@ -283,6 +283,14 @@ See [package.json](package.json#L6) for details.
 
 ### Sponsors
 
+Patrons who adopted a color on [names.color.pizza](https://names.color.pizza/adopt/):
+
+<!-- markdownlint-disable -->
+<!-- patrons -->
+Nobody yet: [be the first patron](https://names.color.pizza/adopt/) of a color.
+<!-- patrons -->
+<!-- markdownlint-enable -->
+
 <!-- markdownlint-disable -->
 <!-- sponsors --><!-- sponsors -->
 <!-- markdownlint-enable -->
