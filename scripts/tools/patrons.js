@@ -18,8 +18,10 @@ const PROFILES = {
   tiktok: (by) => `https://www.tiktok.com/@${by}`,
   twitch: (by) => `https://www.twitch.tv/${by}`,
   linkedin: (by) => `https://www.linkedin.com/in/${by}/`,
+  website: (by) => `https://${by}/`,
 };
-const handle = (by, on) => (on === 'name' || on === 'anonymous' ? by : `@${by.replace(/^@/, '')}`);
+const handle = (by, on) =>
+  on === 'name' || on === 'anonymous' || on === 'website' ? by : `@${by.replace(/^@/, '')}`;
 const esc = (s) => String(s).replace(/[[\]<>|*_`]/g, (c) => `\\${c}`);
 
 const res = await fetch(process.env.ADOPTED_URL || ADOPTED, { cache: 'no-store' });
