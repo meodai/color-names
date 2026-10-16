@@ -287,7 +287,9 @@ Patrons who adopted a color on [names.color.pizza](https://names.color.pizza/ado
 
 <!-- markdownlint-disable -->
 <!-- patrons -->
-Nobody yet: [be the first patron](https://names.color.pizza/adopt/) of a color.
+1. <img src="https://media.color.pizza/avatars/snot-green?v=mvaxcv49" width="20" height="20" alt="" /> [@brookie.blog](https://bsky.app/profile/brookie.blog) (founding patron): [Snot Green](https://names.color.pizza/color/snot-green/)
+
+[All patrons](SUPPORTERS.md) · [Adopt a color](https://names.color.pizza/adopt/)
 <!-- patrons -->
 <!-- markdownlint-enable -->
 
