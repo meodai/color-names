@@ -45,6 +45,7 @@ for (const [slug, a] of Object.entries(adopted)) {
   };
   p.total += a.amount;
   p.avatar ||= a.avatar;
+  p.founding ||= a.founding;
   if (a.at < p.first) p.first = a.at;
   const it = bySlug.get(slug);
   p.colors.push({ slug, name: it?.name || slug, hex: it?.hex || '' });
@@ -58,7 +59,7 @@ const line = (p, k) => {
     : esc(handle(p.by, p.on));
   const face = p.avatar ? `<img src="${p.avatar}" width="20" height="20" alt="" /> ` : '';
   const colors = p.colors.map((c) => `[${esc(c.name)}](${pageOf(c.slug)})`).join(', ');
-  return `${k + 1}. ${face}${who}: ${colors}`;
+  return `${k + 1}. ${face}${who}${p.founding ? ' (founding patron)' : ''}: ${colors}`;
 };
 
 const invite = `Nobody yet: [be the first patron](${SITE}/adopt/) of a color.`;
