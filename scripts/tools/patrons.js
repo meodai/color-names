@@ -7,7 +7,7 @@
 import fs from 'fs';
 import { listFrom, slugsOf, pageOf, SITE } from '../site.js';
 
-const ADOPTED = 'https://media.color.pizza/data/adopted.json';
+const ADOPTED = `https://media.color.pizza/data/adopted.json?t=${Date.now()}`;
 const TOP = 5;
 // as in names.color.pizza's src/adopter.js
 const PROFILES = {
