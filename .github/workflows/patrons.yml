@@ -1,0 +1,41 @@
+name: Patrons
+
+# The patrons who adopted a color on names.color.pizza, into SUPPORTERS.md and the
+# README's top five. Hourly, or right away when asked (repository_dispatch "patrons").
+on:
+  schedule:
+    - cron: '23 * * * *'
+  repository_dispatch:
+    types: [patrons]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: patrons
+
+jobs:
+  patrons:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22.14.0
+
+      - name: Write the patrons
+        run: node scripts/tools/patrons.js
+
+      - name: Commit when they changed
+        run: |
+          git add README.md SUPPORTERS.md
+          if git diff --staged --quiet; then exit 0; fi
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "GitHub Action"
+          git commit --no-verify -m "docs: update the patrons [skip ci]"
+          git pull --rebase origin main
+          git push origin HEAD:main
