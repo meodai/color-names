@@ -82,7 +82,9 @@
     "vitest": "^4.1.0"
   },
   "overrides": {
-    "inquirer": "8.2.7"
+    "inquirer": "8.2.7",
+    "katex": "^0.18.2",
+    "smol-toml": "^1.9.1"
   },
   "engines": {
     "node": "^22.14.0 || >=24.10.0",
