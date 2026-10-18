@@ -1,3 +1,5 @@
 npm run lint
 npm run sort-colors
+# the sorted list (and its last newline) goes into this commit, not left behind as a change
+git diff --cached --quiet -- src/colornames.csv || git add src/colornames.csv
 npm run test
