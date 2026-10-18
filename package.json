@@ -39,7 +39,8 @@
     "build-history": "node scripts/tools/history.js > dist/history.json",
     "history": "node scripts/tools/history.js > dist/history.json",
     "prepare": "husky",
-    "sort-colors": "node scripts/sortSrc.js"
+    "sort-colors": "node scripts/sortSrc.js",
+    "redundant": "node scripts/tools/redundant.js"
   },
   "repository": {
     "type": "git",
