@@ -1,0 +1,31 @@
+name: Adopted colors
+
+# A renamed or removed name that someone adopted on names.color.pizza would lose its page and
+# its adoption with it: this fails, so it can't go unnoticed.
+on:
+  push:
+    branches: [main]
+    paths: [src/colornames.csv]
+  pull_request:
+    paths: [src/colornames.csv]
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22.14.0
+
+      - name: No adopted name lost
+        env:
+          BEFORE: ${{ github.event.pull_request.base.sha || github.event.before }}
+          AFTER: ${{ github.event.pull_request.head.sha || github.sha }}
+        run: node scripts/tools/adopted-check.js "$BEFORE" "$AFTER"
