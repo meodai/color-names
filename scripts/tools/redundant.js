@@ -4,8 +4,13 @@
 //
 //   npm run redundant              every pair
 //   npm run redundant -- green     only pairs whose extra word is one of these
+//
+// Pairs meant to stay, both names kept, are in redundant-keep.json as "Name | Longer Name".
 
+import fs from 'fs';
 import { listFrom } from '../site.js';
+
+const keep = new Set(JSON.parse(fs.readFileSync(new URL('./redundant-keep.json', import.meta.url), 'utf8')));
 
 const WORDS = `red orange yellow green blue purple violet pink brown black white grey gray
   cyan magenta teal turquoise beige tan cream ivory gold golden silver bronze copper
@@ -43,7 +48,7 @@ for (const it of list) {
     [words[0], words.slice(1)],
   ]) {
     const short = byName.get(rest.join(' ').toLowerCase());
-    if (extra.has(word.toLowerCase()) && short) pairs.push({ short, long: it, d: apart(short.hex, it.hex) });
+    if (extra.has(word.toLowerCase()) && short && !keep.has(`${short.name} | ${it.name}`)) pairs.push({ short, long: it, d: apart(short.hex, it.hex) });
   }
 }
 pairs.sort((a, b) => a.d - b.d);
