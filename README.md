@@ -291,7 +291,7 @@ Patrons who adopted a color on [names.color.pizza](https://names.color.pizza/ado
 2. <img src="https://media.color.pizza/avatars/red?v=mvb3622s" width="20" height="20" alt="" /> [@phenomenician.bsky.social](https://bsky.app/profile/phenomenician.bsky.social) (founding patron): [Red](https://names.color.pizza/color/red/), [Blue](https://names.color.pizza/color/blue/), [Green](https://names.color.pizza/color/green/)
 3. <img src="https://media.color.pizza/avatars/beda-blue?v=mvbfuffn" width="20" height="20" alt="" /> [@h.olysh.it](https://bsky.app/profile/h.olysh.it) (founding patron): [Beda Blue](https://names.color.pizza/color/beda-blue/), [Chartreuse](https://names.color.pizza/color/chartreuse/)
 4. <img src="https://media.color.pizza/avatars/truesky-gloxym?v=mvbpnzfr" width="20" height="20" alt="" /> [@kosalab.dev](https://bsky.app/profile/kosalab.dev) (founding patron): [Truesky Gloxym](https://names.color.pizza/color/truesky-gloxym/), [Jackfruit](https://names.color.pizza/color/jackfruit/)
-5. <img src="https://media.color.pizza/avatars/snot-green?v=mvaxcv49" width="20" height="20" alt="" /> [@brookie.blog](https://bsky.app/profile/brookie.blog) (founding patron): [Snot Green](https://names.color.pizza/color/snot-green/)
+5. <img src="https://media.color.pizza/avatars/white-smoke?v=mvcyt9yw" width="20" height="20" alt="" /> [@jakob-e.bsky.social](https://bsky.app/profile/jakob-e.bsky.social) (founding patron): [White Smoke](https://names.color.pizza/color/white-smoke/), [Rebecca Purple](https://names.color.pizza/color/rebecca-purple/)
 
 [All patrons](SUPPORTERS.md) · [Adopt a color](https://names.color.pizza/adopt/)
 <!-- patrons -->
