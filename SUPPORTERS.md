@@ -69,3 +69,4 @@ Everyone who adopted a color on [names.color.pizza](https://names.color.pizza/ad
 63. <img src="https://media.color.pizza/avatars/blue-dacnis?v=mvgu4ndg" width="20" height="20" alt="" /> [ericwbailey.website](https://ericwbailey.website/): [Blue Dacnis](https://names.color.pizza/color/blue-dacnis/)
 64. <img src="https://media.color.pizza/avatars/phthalo-green?v=mvgy7s0f" width="20" height="20" alt="" /> [@michaelnixdesign](https://www.linkedin.com/in/michaelnixdesign/): [Phthalo Green](https://names.color.pizza/color/phthalo-green/)
 65. <img src="https://media.color.pizza/avatars/philips-green?v=mvh1ckdy" width="20" height="20" alt="" /> Emily: [Philips Green](https://names.color.pizza/color/philips-green/)
+66. amylyn27: [Akari Red](https://names.color.pizza/color/akari-red/)
