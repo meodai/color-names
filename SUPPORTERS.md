@@ -49,3 +49,4 @@ Everyone who adopted a color on [names.color.pizza](https://names.color.pizza/ad
 43. <img src="https://media.color.pizza/avatars/artemis-silver?v=mvb6r6zy" width="20" height="20" alt="" /> [@artkorotkikh](https://x.com/artkorotkikh) (founding patron): [Artemis Silver](https://names.color.pizza/color/artemis-silver/)
 44. <img src="https://media.color.pizza/avatars/kitty-kitty?v=mvbfavc3" width="20" height="20" alt="" /> [diluno.com](https://diluno.com/) (founding patron): [Kitty Kitty](https://names.color.pizza/color/kitty-kitty/)
 45. <img src="https://media.color.pizza/avatars/experimintal-green?v=mveo2yd3" width="20" height="20" alt="" /> [@Jsfasdf250](https://github.com/Jsfasdf250) (founding patron): [Experimintal Green](https://names.color.pizza/color/experimintal-green/)
+46. Metorks (founding patron): [Master Chief](https://names.color.pizza/color/master-chief/)
