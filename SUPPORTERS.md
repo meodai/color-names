@@ -63,3 +63,4 @@ Everyone who adopted a color on [names.color.pizza](https://names.color.pizza/ad
 57. <img src="https://media.color.pizza/avatars/purple-seduction?v=mvgqxtkr" width="20" height="20" alt="" /> [@maybeanerd.bumsco.de](https://bsky.app/profile/maybeanerd.bumsco.de): [Purple Seduction](https://names.color.pizza/color/purple-seduction/)
 58. <img src="https://media.color.pizza/avatars/blue-dacnis?v=mvgu4ndg" width="20" height="20" alt="" /> [ericwbailey.website](https://ericwbailey.website/): [Blue Dacnis](https://names.color.pizza/color/blue-dacnis/)
 59. <img src="https://media.color.pizza/avatars/phthalo-green?v=mvgy7s0f" width="20" height="20" alt="" /> [@michaelnixdesign](https://www.linkedin.com/in/michaelnixdesign/): [Phthalo Green](https://names.color.pizza/color/phthalo-green/)
+60. <img src="https://media.color.pizza/avatars/philips-green?v=mvh1ckdy" width="20" height="20" alt="" /> Emily: [Philips Green](https://names.color.pizza/color/philips-green/)
