@@ -59,3 +59,4 @@ Everyone who adopted a color on [names.color.pizza](https://names.color.pizza/ad
 53. <img src="https://media.color.pizza/avatars/amnesia-blue?v=mvgnrknr" width="20" height="20" alt="" /> [@rg1bs0n.bsky.social](https://bsky.app/profile/rg1bs0n.bsky.social): [Amnesia Blue](https://names.color.pizza/color/amnesia-blue/)
 54. <img src="https://media.color.pizza/avatars/catnip?v=mvgomfkn" width="20" height="20" alt="" /> [rexowo.dev](https://rexowo.dev/): [Catnip](https://names.color.pizza/color/catnip/)
 55. <img src="https://media.color.pizza/avatars/purple-seduction?v=mvgqxtkr" width="20" height="20" alt="" /> [@maybeanerd.bumsco.de](https://bsky.app/profile/maybeanerd.bumsco.de): [Purple Seduction](https://names.color.pizza/color/purple-seduction/)
+56. <img src="https://media.color.pizza/avatars/blue-dacnis?v=mvgu4ndg" width="20" height="20" alt="" /> [ericwbailey.website](https://ericwbailey.website/): [Blue Dacnis](https://names.color.pizza/color/blue-dacnis/)
