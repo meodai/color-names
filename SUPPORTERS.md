@@ -50,3 +50,4 @@ Everyone who adopted a color on [names.color.pizza](https://names.color.pizza/ad
 44. <img src="https://media.color.pizza/avatars/kitty-kitty?v=mvbfavc3" width="20" height="20" alt="" /> [diluno.com](https://diluno.com/) (founding patron): [Kitty Kitty](https://names.color.pizza/color/kitty-kitty/)
 45. <img src="https://media.color.pizza/avatars/experimintal-green?v=mveo2yd3" width="20" height="20" alt="" /> [@Jsfasdf250](https://github.com/Jsfasdf250) (founding patron): [Experimintal Green](https://names.color.pizza/color/experimintal-green/)
 46. Metorks (founding patron): [Master Chief](https://names.color.pizza/color/master-chief/)
+47. <img src="https://media.color.pizza/avatars/rattlesnake?v=mvgepjzp" width="20" height="20" alt="" /> [@troofzero](https://x.com/troofzero) (founding patron): [Rattlesnake](https://names.color.pizza/color/rattlesnake/)
