@@ -56,3 +56,4 @@ Everyone who adopted a color on [names.color.pizza](https://names.color.pizza/ad
 50. Metorks (founding patron): [Master Chief](https://names.color.pizza/color/master-chief/)
 51. <img src="https://media.color.pizza/avatars/rattlesnake?v=mvgepjzp" width="20" height="20" alt="" /> [@troofzero](https://x.com/troofzero) (founding patron): [Rattlesnake](https://names.color.pizza/color/rattlesnake/)
 52. <img src="https://media.color.pizza/avatars/yellowish-orange?v=mvgjmdfg" width="20" height="20" alt="" /> [vale.rocks](https://vale.rocks/) (founding patron): [Yellowish Orange](https://names.color.pizza/color/yellowish-orange/)
+53. <img src="https://media.color.pizza/avatars/amnesia-blue?v=mvgnrknr" width="20" height="20" alt="" /> [@rg1bs0n.bsky.social](https://bsky.app/profile/rg1bs0n.bsky.social): [Amnesia Blue](https://names.color.pizza/color/amnesia-blue/)
