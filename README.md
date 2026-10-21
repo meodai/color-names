@@ -291,7 +291,7 @@ Patrons who adopted a color on [names.color.pizza](https://names.color.pizza/ado
 2. <img src="https://media.color.pizza/avatars/booger-buster?v=mvey92pr" width="20" height="20" alt="" /> [chrismaslin.design](https://chrismaslin.design/) (founding patron): [Booger Buster](https://names.color.pizza/color/booger-buster/)
 3. <img src="https://media.color.pizza/avatars/red?v=mvb3622s" width="20" height="20" alt="" /> [@phenomenician.bsky.social](https://bsky.app/profile/phenomenician.bsky.social) (founding patron): [Red](https://names.color.pizza/color/red/), [Blue](https://names.color.pizza/color/blue/), [Green](https://names.color.pizza/color/green/)
 4. <img src="https://media.color.pizza/avatars/clear-chill?v=mvednuvf" width="20" height="20" alt="" /> [@lookmom](https://x.com/lookmom) (founding patron): [Clear Chill](https://names.color.pizza/color/clear-chill/), [Office Neon Light](https://names.color.pizza/color/office-neon-light/), [Reptile Green](https://names.color.pizza/color/reptile-green/)
-5. <img src="https://media.color.pizza/avatars/beda-blue?v=mvbfuffn" width="20" height="20" alt="" /> [@h.olysh.it](https://bsky.app/profile/h.olysh.it) (founding patron): [Beda Blue](https://names.color.pizza/color/beda-blue/), [Chartreuse](https://names.color.pizza/color/chartreuse/)
+5. <img src="https://media.color.pizza/avatars/nightly-escapade?v=mvh7zws9" width="20" height="20" alt="" /> [@berndderidder.nl](https://bsky.app/profile/berndderidder.nl): [Nightly Escapade](https://names.color.pizza/color/nightly-escapade/), [Beaming Sun](https://names.color.pizza/color/beaming-sun/), [Bear](https://names.color.pizza/color/bear/)
 
 [All patrons](SUPPORTERS.md) · [Adopt a color](https://names.color.pizza/adopt/)
 <!-- patrons -->
