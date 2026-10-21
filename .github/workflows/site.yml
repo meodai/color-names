@@ -1,0 +1,21 @@
+name: Site
+
+# A change to the list rebuilds names.color.pizza, so new names get their pages now instead
+# of with the nightly build. Its deploy then comments with the links, once they work.
+on:
+  push:
+    branches: [main]
+    paths: [src/colornames.csv]
+
+permissions: {}
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Start the site's deploy
+        env:
+          GH_TOKEN: ${{ secrets.SITE_DEPLOY_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then echo "no SITE_DEPLOY_TOKEN; the nightly build brings the names"; exit 0; fi
+          gh workflow run deploy.yml --repo meodai/names.color.pizza --ref main
