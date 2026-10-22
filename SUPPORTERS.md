@@ -91,3 +91,6 @@ Everyone who adopted a color on [names.color.pizza](https://names.color.pizza/ad
 85. Bruce Stetson: [Bat-Signal](https://names.color.pizza/color/bat-signal/)
 86. Michael Breitling: [Solitude](https://names.color.pizza/color/solitude/)
 87. <img src="https://media.color.pizza/avatars/glowing-meteor?v=mving56q" width="20" height="20" alt="" /> [@aiueo.ooo](https://bsky.app/profile/aiueo.ooo): [Glowing Meteor](https://names.color.pizza/color/glowing-meteor/)
+88. Brenda Nix: [Blue Cardinal Flower](https://names.color.pizza/color/blue-cardinal-flower/)
+89. Nixes: [Pink](https://names.color.pizza/color/pink/)
+90. River: [Electric Pool](https://names.color.pizza/color/electric-pool/)
