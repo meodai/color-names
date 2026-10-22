@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 220">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 1270">
   <defs>
     <style type="text/css">
       @import url('https://rsms.me/inter/inter.css');
@@ -9,6 +9,6 @@
       }
     </style>
   </defs>
-  <rect fill="#212121" x="0" y="0" width="600" height="220"/>
-  <text x="40" y="90" fill="#0032a0">Meatball Blue</text><text x="40" y="160" fill="#e4002b">Meatball Red</text>
+  <rect fill="#212121" x="0" y="0" width="600" height="1270"/>
+  <text x="40" y="90" fill="#cec26c">Bad Egg</text><text x="40" y="160" fill="#e9d035">Big Cheese</text><text x="40" y="230" fill="#7b8fdf">Blue in the Face</text><text x="40" y="300" fill="#bed4fd">Cold Feet</text><text x="40" y="370" fill="#deea00">Cut the Cheese</text><text x="40" y="440" fill="#884d04">Full of Beans</text><text x="40" y="510" fill="#925e03">Gravy Train</text><text x="40" y="580" fill="#969c68">Hogwash</text><text x="40" y="650" fill="#7bb212">Holy Guacamole</text><text x="40" y="720" fill="#e39e66">Hot Potato</text><text x="40" y="790" fill="#876f1b">Monkey Business</text><text x="40" y="860" fill="#e63045">Paint the Town Red</text><text x="40" y="930" fill="#b0c4f9">Pie in the Sky</text><text x="40" y="1000" fill="#f25f48">Poppycock</text><text x="40" y="1070" fill="#d42a3e">Seeing Red</text><text x="40" y="1140" fill="#785ca0">Sour Grapes</text><text x="40" y="1210" fill="#aea1aa">Under the Weather</text>
 </svg>
