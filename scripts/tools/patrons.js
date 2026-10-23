@@ -22,7 +22,7 @@ const PROFILES = {
 };
 const handle = (by, on) =>
   on === 'name' || on === 'anonymous' || on === 'website' ? by : `@${by.replace(/^@/, '')}`;
-const esc = (s) => String(s).replace(/[[\]<>|*_`]/g, (c) => `\\${c}`);
+const esc = (s) => String(s).replace(/[[\]<>|*_`@]/g, (c) => `\\${c}`);
 
 const res = await fetch(process.env.ADOPTED_URL || ADOPTED, { cache: 'no-store' });
 // none yet is a 404, a broken answer leaves the files as they are
