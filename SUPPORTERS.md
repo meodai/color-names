@@ -120,3 +120,4 @@ Everyone who adopted a color on [names.color.pizza](https://names.color.pizza/ad
 114. <img src="https://media.color.pizza/avatars/pluviophile?v=mvlehyci" width="20" height="20" alt="" /> [pluvioflow.com](https://pluvioflow.com/): [Pluviophile](https://names.color.pizza/color/pluviophile/)
 115. <img src="https://media.color.pizza/avatars/king-lizard?v=mvlt1k3p" width="20" height="20" alt="" /> [\@VictorioBerra](https://github.com/VictorioBerra): [King Lizard](https://names.color.pizza/color/king-lizard/)
 116. <img src="https://media.color.pizza/avatars/summer-blue?v=mvpt47kx" width="20" height="20" alt="" /> [\@thatoneonfire](https://www.linkedin.com/in/thatoneonfire/): [Summer Blue](https://names.color.pizza/color/summer-blue/)
+117. LittleJam: [Foggy Amethyst](https://names.color.pizza/color/foggy-amethyst/)
