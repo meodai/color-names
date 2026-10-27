@@ -75,12 +75,12 @@
     "eslint-plugin-prettier": "^5.2.6",
     "globals": "^16.0.0",
     "husky": "^9.1.6",
-    "markdownlint-cli2": "^0.23.1",
+    "markdownlint-cli2": "^0.24.0",
     "prettier": "^3.5.3",
     "seedrandom": "^3.0.5",
     "semantic-release": "^25.0.2",
     "typescript": "5.9.3",
-    "vitest": "^4.1.0"
+    "vitest": "^4.1.12"
   },
   "overrides": {
     "inquirer": "8.2.7",
