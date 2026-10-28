@@ -21,13 +21,16 @@ added or adjusted.
 the relevant allowlist JSON in `tests/`) — no changes to `dist/`, `README.md`,
 or `changes.svg`.
 - [ ] Each line ends with a trailing comma (e.g., `My Color,#ff5733,`).
-- [ ] Color entries are sorted alphabetically by color name.
+- [ ] Hex values are lowercase and six digits (e.g., `#00b140`).
+- [ ] Entries are sorted (run `npm run sort-colors`, or leave it and a
+maintainer will).
 - [ ] New color names:
   - [ ] Convey a specific color (references only if commonly understood).
   - [ ] Follow the "Rules for new color names" (no racist/offensive/obscene/
   brand names, etc.).
   - [ ] Are not nearly identical to protected primary colors.
   - [ ] Use British English spelling where applicable (e.g. `Grey` not `Gray`).
+  - [ ] Use typographic apostrophes (`Wanderer’s`, not `Wanderer's`).
   - [ ] Are capitalized in [APA-style title case](https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case).
 - [ ] I ran `npm test` locally (or understand CI will run it for me).
 
@@ -40,3 +43,6 @@ and link sources if possible.
 
 Anything special reviewers should know (e.g. why a borderline or subjective name
 still feels appropriate, or why it improves over an existing uninspired name).
+
+Want a description for your color? Write it here as plain text and we'll add
+it for you.

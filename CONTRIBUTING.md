@@ -17,7 +17,8 @@ it's a list of color names! 🎨
 1. **Review Rules:** Read and adhere to the
 ["Rules for new color names"](#rules-for-new-color-names) below.
 2. **File Edits:** For color changes, update `src/colornames.csv`. Each line
-should end with a trailing comma (e.g., `My Color,#ff5733,`).
+should end with a trailing comma (e.g., `My Color,#ff5733,`). Hex values are
+lowercase and six digits (`#00b140`, not `#00B140` or `#0b4`).
    - If a test requires an explicit exception, also update the referenced
      allowlist JSON file in `tests/`.
 3. **Local Check:** Run npm test to confirm names and hex values are unique
@@ -61,6 +62,8 @@ unless the name is something typically U.S. (e.g., `Tuscan Red` is fine).
 - **Capitalization (APA Title Case):** Capitalize the name following
 [APA title case style](https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case)
 (e.g., `Kind of Orange`).
+- **Typographic Apostrophes:** Use `’` instead of `'` (e.g., `Actor’s Star`).
+Straight quotes, double quotes and backticks fail the tests.
 
 ## Generated Files and CI
 
@@ -103,7 +106,7 @@ through GitHub:
 this page. This creates a copy of the project under your own account.
 2. **Edit the list**: Navigate to `src/colornames.csv` in your forked repository.
 3. **Add your colors**: Scroll to the bottom and add your new colors. Don't
-worry about sorting; it will be done automatically for you. **Make sure to add
+worry about sorting; a maintainer will sort the list for you. **Make sure to add
 a trailing comma after the hex value**, for example:
 
     ```csv
