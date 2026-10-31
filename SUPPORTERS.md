@@ -132,3 +132,4 @@ Everyone who adopted a color on [names.color.pizza](https://names.color.pizza/ad
 126. <img src="https://media.color.pizza/avatars/summer-blue?v=mvpt47kx" width="20" height="20" alt="" /> [\@thatoneonfire](https://www.linkedin.com/in/thatoneonfire/): [Summer Blue](https://names.color.pizza/color/summer-blue/)
 127. LittleJam: [Foggy Amethyst](https://names.color.pizza/color/foggy-amethyst/)
 128. <img src="https://media.color.pizza/avatars/golden-honey-suckle?v=mvqzeux9" width="20" height="20" alt="" /> Stéphanie Walter: [Golden Honey Suckle](https://names.color.pizza/color/golden-honey-suckle/)
+129. Nic: [Glow in the Dark](https://names.color.pizza/color/glow-in-the-dark/)
